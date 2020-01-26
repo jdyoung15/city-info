@@ -1,9 +1,10 @@
 // TODO
+// - add backup method to find qid
 // - add weather stats
 // - side by side comparison?
 
 let currentPlace = extractPlace(location.href);
-
+console.log('initial current place ' + currentPlace);
 
 setInterval(async function() {
 	let newPlace = extractPlace(location.href);
@@ -24,14 +25,19 @@ setInterval(async function() {
 	let cityAndState = city + ', ' + stateFull;
 
 	// Get the QID of the city. We need this to find the FIPS code.
+  console.log('fetching qid');
   let qid = await fetchQid(cityAndState);
   // For some larger cities, we need to specify just the city (e.g. w/o the state).
   if (!qid) {
     qid = await fetchQid(city);
   }
 
+  console.log('qid ' + qid);
+
 	// Get the FIPS code for the city. We need this for the demographics API call.
+  console.log('fetching fips');
   let fips = await fetchFips(qid);
+  console.log('fips ' + fips);
 	let [stateFips, cityFips] = fips.split('-');
 
 	// Get the city-specific demographic data, including population, 
@@ -39,6 +45,7 @@ setInterval(async function() {
 	const censusCodes = [...dataDetails.values()].map(details => details["censusCode"]);
 	const joinedCodes = censusCodes.join(',');
 
+  console.log('fetching demographics');
   const demographicData = await fetchDemographicData(cityFips, stateFips, joinedCodes);
 	const labels = [...dataDetails.keys()];
 
@@ -67,7 +74,7 @@ setInterval(async function() {
  *  url. E.g. 'Hayward, CA' 
  */
 function extractPlace(url) {
-	var regex = /https:\/\/www\.google\.com\/maps\/place\/([A-Za-z0-9+,]+)\/.*/;
+	var regex = /https:\/\/www\.google\.com\/maps\/place\/(.+?)\/.*/;
 
 	if (!regex.test(url)) {
 		return null;

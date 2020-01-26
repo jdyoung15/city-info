@@ -9,7 +9,7 @@
 	},
   "content_scripts": [
     {
-      "matches": ["https://www.google.com/maps/place/*"],
+      "matches": ["https://www.google.com/maps/*"],
       "js": ["jquery-3.4.1.min.js", "contentScript.js"]
     }
   ],
