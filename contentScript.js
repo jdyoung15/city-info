@@ -146,8 +146,9 @@ setInterval(async function() {
 	labels.forEach((label, i) => {
     let row = $('<tr>');
     let labelTd = $('<td>').text(label);
+    let stat = formatWithCommas(data[i]);
     let unit = dataDetails.get(label)["unit"];
-    let dataTd = $('<td>').text(data[i] + unit);
+    let dataTd = $('<td>').text(stat + unit);
     row.append(labelTd);
     row.append(dataTd);
     table.append(row);
@@ -183,4 +184,12 @@ function extractPlace(url) {
 	}
 
 	return city + ', ' + state;
+}
+
+/* 
+  Returns the string form of the given number, properly formatted with commas.
+  E.g. 9999 -> '9,999'
+*/
+function formatWithCommas(num) {
+    return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
