@@ -1,7 +1,6 @@
 // TODO
 // - add weather stats
 // - side by side comparison?
-// - extract functions for API calls
 
 let currentPlace = extractPlace(location.href);
 
@@ -20,57 +19,36 @@ setInterval(async function() {
 
 	console.log(currentPlace);
 
-	//
-	// Get the QID of the city. We need this to find the FIPS code.
-	//
-
 	let [city, stateAcronym] = newPlace.split(',').map(x => x.trim());
 	let stateFull = states[stateAcronym];
 	let cityAndState = city + ', ' + stateFull;
 
+	// Get the QID of the city. We need this to find the FIPS code.
   let qid = await fetchQid(cityAndState);
+  // For some larger cities, we need to specify just the city (e.g. w/o the state).
   if (!qid) {
     qid = await fetchQid(city);
   }
 
-	// 
-	// Get the FIPS code for the city. We need this for the US Census Bureau API call.
-	//
+	// Get the FIPS code for the city. We need this for the demographics API call.
+  let fips = await fetchFips(qid);
+	let [stateFips, cityFips] = fips.split('-');
 
-	let fipsEndpoint = 'https://www.wikidata.org/w/api.php?action=wbgetentities&ids=' + qid + '&props=claims&format=json&origin=*';
+	// Get the city-specific demographic data, including population, 
+  // median property value, etc.
+	const censusCodes = [...dataDetails.values()].map(details => details["censusCode"]);
+	const joinedCodes = censusCodes.join(',');
 
-	let fipsResponse = await fetch(fipsEndpoint);
-	let fipsJson = await fipsResponse.json();
-	let fips = fipsJson.entities[qid].claims.P774[0].mainsnak.datavalue.value;
-
-	if (!fips) {
-		console.log('null fips');
-		return;
-	}
-
-	//
-	// Get the city-specific data, including population, median property value,
-	// demographics, etc.
-	//
-
-	let [fipsState, fipsCity] = fips.split('-');
-
-	const codes = [...dataDetails.values()].map(details => details["censusCode"]);
-	const joined = codes.join(',');
-	const dataEndpoint = 'https://api.census.gov/data/2018/acs/acs5/profile?get=' + joined + '&for=place:' + fipsCity + '&in=state:' + fipsState;
-
-	let dataResponse = await fetch(dataEndpoint);
-	let dataJson = await dataResponse.json();
-
+  const demographicData = await fetchDemographicData(cityFips, stateFips, joinedCodes);
 	const labels = [...dataDetails.keys()];
-	const data = dataJson[1];
-	labels.forEach((label, i) => console.log(label + ': ' + data[i]));
 
+  // Create a table displaying the data. It will appear in the existing 
+  // Google Maps sidebar.
   let table = $('<table>').css('margin', '10px').addClass('city-table');
 	labels.forEach((label, i) => {
     let row = $('<tr>');
     let labelTd = $('<td>').text(label);
-    let stat = formatWithCommas(data[i]);
+    let stat = formatWithCommas(demographicData[i]);
     let unit = dataDetails.get(label)["unit"];
     let dataTd = $('<td>').text(stat + unit);
     row.append(labelTd);
@@ -112,24 +90,43 @@ function extractPlace(url) {
 	return city + ', ' + state;
 }
 
-/** 
- * Returns the endpoint to fetch the QID for a city. Param cityId will generally be of 
- * the format e.g. "Hayward, CA". However, for larger cities, it may simply be e.g.
- * "San Francisco".
- */
+/** Returns the endpoint to fetch the QID for a city. */
 const qidEndpoint = (cityId) => `https://en.wikipedia.org/w/api.php?action=query&prop=pageprops&titles=${cityId}&format=json&origin=*`;
 
-/** Returns the qid of the given city. If unable to find the qid, returns null. */
+/** Returns the QID (e.g. 'Q62') of the given city. If unable, returns null. */
 async function fetchQid(cityId) {
-	let qidResponse = await fetch(qidEndpoint(cityId));
-	let qidJson = await qidResponse.json();
-	let pageProps = Object.values(qidJson.query.pages)[0].pageprops;
+	let response = await fetch(qidEndpoint(cityId));
+	let json = await response.json();
+	let pageProps = Object.values(json.query.pages)[0].pageprops;
 
 	if (!pageProps) {
     return null;
 	}
 
 	return pageProps.wikibase_item;
+}
+
+/** 
+ * Returns the FIPS code (e.g. '06-33000', or '{state}-{city}) of the city with 
+ * the given qid. 
+ */
+async function fetchFips(qid) {
+	let endpoint = `https://www.wikidata.org/w/api.php?action=wbgetentities&ids=${qid}&props=claims&format=json&origin=*`;
+
+	let response = await fetch(endpoint);
+	let json = await response.json();
+	return json.entities[qid].claims.P774[0].mainsnak.datavalue.value;
+}
+
+/** Returns an array of strings representing various demographic stats. */
+async function fetchDemographicData(cityFips, stateFips, joinedCensusCodes) {
+	const endpoint = `https://api.census.gov/data/2018/acs/acs5/profile?get=${joinedCensusCodes}&for=place:${cityFips}&in=state:${stateFips}`;
+
+	let response = await fetch(endpoint);
+	let json = await response.json();
+
+  // Skip first element in json, which consists of unneeded headers.
+  return json[1];
 }
 
 /**
