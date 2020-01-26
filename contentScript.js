@@ -1,10 +1,11 @@
 // TODO
-// - switch method for obtaining FIPS (Wikipedia sometimes has errors)
-// - refactor dataDetails
 // - add weather stats
 // - side by side comparison?
+// - extract functions for API calls
+// - fix comments
 
 let currentPlace = extractPlace(location.href);
+
 
 setInterval(async function() {
 	let newPlace = extractPlace(location.href);
@@ -25,24 +26,13 @@ setInterval(async function() {
 	//
 
 	let [city, stateAcronym] = newPlace.split(',').map(x => x.trim());
-	
-
 	let stateFull = states[stateAcronym];
 	let cityAndState = city + ', ' + stateFull;
 
-	let qidEndpoint = 'https://en.wikipedia.org/w/api.php?action=query&prop=pageprops&titles=' + cityAndState +  '&format=json&origin=*';
-	let qidResponse = await fetch(qidEndpoint);
-	let qidJson = await qidResponse.json();
-	let pageProps = Object.values(qidJson.query.pages)[0].pageprops;
-
-	if (!pageProps) {
-	  qidEndpoint = 'https://en.wikipedia.org/w/api.php?action=query&prop=pageprops&titles=' + city +  '&format=json&origin=*';
-	  qidResponse = await fetch(qidEndpoint);
-	  qidJson = await qidResponse.json();
-	  pageProps = Object.values(qidJson.query.pages)[0].pageprops;
-	}
-
-	let qid = pageProps.wikibase_item;
+  let qid = await fetchQid(cityAndState);
+  if (!qid) {
+    qid = await fetchQid(city);
+  }
 
 	// 
 	// Get the FIPS code for the city. We need this for the US Census Bureau API call.
@@ -119,6 +109,26 @@ function extractPlace(url) {
 	}
 
 	return city + ', ' + state;
+}
+
+/* 
+  Returns the endpoint to fetch the QID for a city. Param cityId will generally be of 
+  the format e.g. "Hayward, CA". However, for larger cities, it may simply be e.g.
+  "San Francisco".
+*/
+const qidEndpoint = (cityId) => `https://en.wikipedia.org/w/api.php?action=query&prop=pageprops&titles=${cityId}&format=json&origin=*`;
+
+/* Returns the qid of the given city. If unable to find the qid, returns null. */
+async function fetchQid(cityId) {
+	let qidResponse = await fetch(qidEndpoint(cityId));
+	let qidJson = await qidResponse.json();
+	let pageProps = Object.values(qidJson.query.pages)[0].pageprops;
+
+	if (!pageProps) {
+    return null;
+	}
+
+	return pageProps.wikibase_item;
 }
 
 /* 
