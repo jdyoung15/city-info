@@ -1,3 +1,7 @@
+// TODO
+// - switch method for obtaining FIPS (Wikipedia sometimes has errors)
+// - refactor dataDetails
+
 let currentPlace = extractPlace(location.href);
 
 setInterval(async function() {
