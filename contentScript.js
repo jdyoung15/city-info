@@ -60,18 +60,18 @@ const states = {
   "WY": "Wyoming"
 };
 
-const labelToCode = new Map();
-labelToCode.set("Population", "DP05_0001E");
-labelToCode.set("Median property value", "DP04_0089E");
-labelToCode.set("Median household income", "DP03_0062E");
-labelToCode.set("Unemployment rate", "DP03_0005PE");
-labelToCode.set("Bachelor's degree or higher", "DP02_0067PE");
-labelToCode.set("Below 18", "DP05_0019PE");
-labelToCode.set("Over 65", "DP05_0024PE");
-labelToCode.set("White (not Hispanic)", "DP05_0077PE");
-labelToCode.set("Black", "DP05_0038PE");
-labelToCode.set("Asian", "DP05_0044PE");
-labelToCode.set("Hispanic", "DP05_0071PE");
+const dataDetails = new Map();
+dataDetails.set("Population", { "censusCode": "DP05_0001E", "unit": "" }),
+dataDetails.set("Median property value", { "censusCode": "DP04_0089E", "unit": "" });
+dataDetails.set("Median household income", { "censusCode": "DP03_0062E", "unit": "" });
+dataDetails.set("Unemployment rate", { "censusCode": "DP03_0005PE", "unit": "%" });
+dataDetails.set("Bachelor's degree or higher", { "censusCode": "DP02_0067PE", "unit": "%" });
+dataDetails.set("Below 18", { "censusCode": "DP05_0019PE", "unit": "%" });
+dataDetails.set("Over 65", { "censusCode": "DP05_0024PE", "unit": "%" });
+dataDetails.set("White (not Hispanic)", { "censusCode": "DP05_0077PE", "unit": "%" });
+dataDetails.set("Black", { "censusCode": "DP05_0038PE", "unit": "%" });
+dataDetails.set("Asian", { "censusCode": "DP05_0044PE", "unit": "%" });
+dataDetails.set("Hispanic", { "censusCode": "DP05_0071PE", "unit": "%" });
 
 let currentPlace = extractPlace(location.href);
 
@@ -131,14 +131,14 @@ setInterval(async function() {
 
 	let [fipsState, fipsCity] = fips.split('-');
 
-	const codes = [...labelToCode.values()];
+	const codes = [...dataDetails.values()].map(details => details["censusCode"]);
 	const joined = codes.join(',');
 	const dataEndpoint = 'https://api.census.gov/data/2018/acs/acs5/profile?get=' + joined + '&for=place:' + fipsCity + '&in=state:' + fipsState;
 
 	let dataResponse = await fetch(dataEndpoint);
 	let dataJson = await dataResponse.json();
 
-	const labels = [...labelToCode.keys()];
+	const labels = [...dataDetails.keys()];
 	const data = dataJson[1];
 	labels.forEach((label, i) => console.log(label + ': ' + data[i]));
 
@@ -146,7 +146,8 @@ setInterval(async function() {
 	labels.forEach((label, i) => {
     let row = $('<tr>');
     let labelTd = $('<td>').text(label);
-    let dataTd = $('<td>').text(data[i]);
+    let unit = dataDetails.get(label)["unit"];
+    let dataTd = $('<td>').text(data[i] + unit);
     row.append(labelTd);
     row.append(dataTd);
     table.append(row);
