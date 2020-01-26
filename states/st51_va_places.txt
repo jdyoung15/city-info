@@ -1,0 +1,591 @@
+VA|51|00148|Abingdon town|Incorporated Place|A|Washington County
+VA|51|00180|Accomac town|Incorporated Place|A|Accomack County
+VA|51|00468|Adwolf CDP|Census Designated Place|S|Smyth County
+VA|51|00724|Alberta town|Incorporated Place|A|Brunswick County
+VA|51|01000|Alexandria city|Incorporated Place|A|Alexandria city
+VA|51|01256|Allisonia CDP|Census Designated Place|S|Pulaski County
+VA|51|01528|Altavista town|Incorporated Place|A|Campbell County
+VA|51|01640|Amelia Court House CDP|Census Designated Place|S|Amelia County
+VA|51|01672|Amherst town|Incorporated Place|A|Amherst County
+VA|51|01912|Annandale CDP|Census Designated Place|S|Fairfax County
+VA|51|02040|Appalachia town|Incorporated Place|A|Wise County
+VA|51|02064|Apple Mountain Lake CDP|Census Designated Place|S|Warren County
+VA|51|02072|Appomattox town|Incorporated Place|A|Appomattox County
+VA|51|02112|Aquia Harbour CDP|Census Designated Place|S|Stafford County
+VA|51|02248|Arcola CDP|Census Designated Place|S|Loudoun County
+VA|51|03000|Arlington CDP|Census Designated Place|S|Arlington County
+VA|51|03208|Arrington CDP|Census Designated Place|S|Nelson County
+VA|51|03320|Ashburn CDP|Census Designated Place|S|Loudoun County
+VA|51|03368|Ashland town|Incorporated Place|A|Hanover County
+VA|51|03512|Atkins CDP|Census Designated Place|S|Smyth County
+VA|51|03528|Atlantic CDP|Census Designated Place|S|Accomack County
+VA|51|03608|Augusta Springs CDP|Census Designated Place|S|Augusta County
+VA|51|04088|Bailey's Crossroads CDP|Census Designated Place|S|Fairfax County
+VA|51|04856|Baskerville CDP|Census Designated Place|S|Mecklenburg County
+VA|51|04872|Bassett CDP|Census Designated Place|S|Henry County
+VA|51|04920|Basye CDP|Census Designated Place|S|Shenandoah County
+VA|51|05200|Bayside CDP|Census Designated Place|S|Accomack County
+VA|51|05336|Bealeton CDP|Census Designated Place|S|Fauquier County
+VA|51|05544|Bedford city|Incorporated Place|A|Bedford city
+VA|51|05912|Belle Haven town|Incorporated Place|A|Accomack County, Northampton County
+VA|51|05928|Belle Haven CDP|Census Designated Place|S|Fairfax County
+VA|51|06216|Bellwood CDP|Census Designated Place|S|Chesterfield County
+VA|51|06275|Belmont CDP|Census Designated Place|S|Loudoun County
+VA|51|06336|Belmont Estates CDP|Census Designated Place|S|Rockingham County
+VA|51|06424|Belspring CDP|Census Designated Place|S|Pulaski County
+VA|51|06512|Belview CDP|Census Designated Place|S|Montgomery County
+VA|51|06712|Benns Church CDP|Census Designated Place|S|Isle of Wight County
+VA|51|06728|Bensley CDP|Census Designated Place|S|Chesterfield County
+VA|51|06968|Berryville town|Incorporated Place|A|Clarke County
+VA|51|07160|Bethel Manor CDP|Census Designated Place|S|York County
+VA|51|07400|Big Island CDP|Census Designated Place|S|Bedford County
+VA|51|07480|Big Stone Gap town|Incorporated Place|A|Wise County
+VA|51|07784|Blacksburg town|Incorporated Place|A|Montgomery County
+VA|51|07832|Blackstone town|Incorporated Place|A|Nottoway County
+VA|51|07944|Blairs CDP|Census Designated Place|S|Pittsylvania County
+VA|51|07976|Bland CDP|Census Designated Place|S|Bland County
+VA|51|08120|Bloxom town|Incorporated Place|A|Accomack County
+VA|51|08152|Bluefield town|Incorporated Place|A|Tazewell County
+VA|51|08200|Blue Ridge CDP|Census Designated Place|S|Botetourt County
+VA|51|08264|Blue Ridge Shores CDP|Census Designated Place|S|Louisa County
+VA|51|08320|Bobtown CDP|Census Designated Place|S|Accomack County
+VA|51|08472|Bon Air CDP|Census Designated Place|S|Chesterfield County
+VA|51|08584|Boones Mill town|Incorporated Place|A|Franklin County
+VA|51|08675|Boston CDP|Census Designated Place|S|Accomack County
+VA|51|08708|Boswell's Corner CDP|Census Designated Place|S|Stafford County
+VA|51|08888|Bowling Green town|Incorporated Place|A|Caroline County
+VA|51|08984|Boyce town|Incorporated Place|A|Clarke County
+VA|51|09016|Boydton town|Incorporated Place|A|Mecklenburg County
+VA|51|09032|Boykins town|Incorporated Place|A|Southampton County
+VA|51|09064|Bracey CDP|Census Designated Place|S|Mecklenburg County
+VA|51|09188|Brambleton CDP|Census Designated Place|S|Loudoun County
+VA|51|09208|Branchville town|Incorporated Place|A|Southampton County
+VA|51|09248|Brandermill CDP|Census Designated Place|S|Chesterfield County
+VA|51|09656|Bridgewater town|Incorporated Place|A|Rockingham County
+VA|51|09752|Brightwood CDP|Census Designated Place|S|Madison County
+VA|51|09816|Bristol city|Incorporated Place|A|Bristol city
+VA|51|09952|Broadlands CDP|Census Designated Place|S|Loudoun County
+VA|51|10040|Broadway town|Incorporated Place|A|Rockingham County
+VA|51|10072|Brodnax town|Incorporated Place|A|Brunswick County, Mecklenburg County
+VA|51|10296|Brookneal town|Incorporated Place|A|Campbell County
+VA|51|10744|Buchanan town|Incorporated Place|A|Botetourt County
+VA|51|10776|Buckhall CDP|Census Designated Place|S|Prince William County
+VA|51|10856|Buckingham Courthouse CDP|Census Designated Place|S|Buckingham County
+VA|51|11032|Buena Vista city|Incorporated Place|A|Buena Vista city
+VA|51|11230|Bull Run CDP|Census Designated Place|S|Prince William County
+VA|51|11245|Bull Run Mountain Estates CDP|Census Designated Place|S|Prince William County
+VA|51|11464|Burke CDP|Census Designated Place|S|Fairfax County
+VA|51|11470|Burke Centre CDP|Census Designated Place|S|Fairfax County
+VA|51|11560|Burkeville town|Incorporated Place|A|Nottoway County
+VA|51|12136|Callaghan CDP|Census Designated Place|S|Alleghany County
+VA|51|12264|Calverton CDP|Census Designated Place|S|Fauquier County
+VA|51|12590|Camptown CDP|Census Designated Place|S|Isle of Wight County
+VA|51|12600|Cana CDP|Census Designated Place|S|Carroll County
+VA|51|12808|Cape Charles town|Incorporated Place|A|Northampton County
+VA|51|12904|Capron town|Incorporated Place|A|Southampton County
+VA|51|12915|Captains Cove CDP|Census Designated Place|S|Accomack County
+VA|51|13160|Carrollton CDP|Census Designated Place|S|Isle of Wight County
+VA|51|13192|Carrsville CDP|Census Designated Place|S|Isle of Wight County
+VA|51|13403|Cascades CDP|Census Designated Place|S|Loudoun County
+VA|51|13512|Castlewood CDP|Census Designated Place|S|Russell County
+VA|51|13624|Catlett CDP|Census Designated Place|S|Fauquier County
+VA|51|13635|Cats Bridge CDP|Census Designated Place|S|Accomack County
+VA|51|13720|Cave Spring CDP|Census Designated Place|S|Roanoke County
+VA|51|13784|Cedar Bluff town|Incorporated Place|A|Tazewell County
+VA|51|14312|Central Garage CDP|Census Designated Place|S|King William County
+VA|51|14440|Centreville CDP|Census Designated Place|S|Fairfax County
+VA|51|14544|Chamberlayne CDP|Census Designated Place|S|Henrico County
+VA|51|14744|Chantilly CDP|Census Designated Place|S|Fairfax County
+VA|51|14904|Charles City CDP|Census Designated Place|S|Charles City County
+VA|51|14952|Charlotte Court House town|Incorporated Place|A|Charlotte County
+VA|51|14968|Charlottesville city|Incorporated Place|A|Charlottesville city
+VA|51|14984|Chase City town|Incorporated Place|A|Mecklenburg County
+VA|51|14995|Chase Crossing CDP|Census Designated Place|S|Accomack County
+VA|51|15000|Chatham town|Incorporated Place|A|Pittsylvania County
+VA|51|15048|Chatmoss CDP|Census Designated Place|S|Henry County
+VA|51|15112|Cheriton town|Incorporated Place|A|Northampton County
+VA|51|15176|Cherry Hill CDP|Census Designated Place|S|Prince William County
+VA|51|16000|Chesapeake city|Incorporated Place|A|Chesapeake city
+VA|51|16096|Chester CDP|Census Designated Place|S|Chesterfield County
+VA|51|16240|Chester Gap CDP|Census Designated Place|S|Rappahannock County, Warren County
+VA|51|16480|Chilhowie town|Incorporated Place|A|Smyth County
+VA|51|16512|Chincoteague town|Incorporated Place|A|Accomack County
+VA|51|16608|Christiansburg town|Incorporated Place|A|Montgomery County
+VA|51|16736|Churchville CDP|Census Designated Place|S|Augusta County
+VA|51|16880|Claremont town|Incorporated Place|A|Surry County
+VA|51|16992|Clarksville town|Incorporated Place|A|Halifax County, Mecklenburg County
+VA|51|17120|Claypool Hill CDP|Census Designated Place|S|Tazewell County
+VA|51|17296|Cleveland town|Incorporated Place|A|Russell County
+VA|51|17376|Clifton town|Incorporated Place|A|Fairfax County
+VA|51|17440|Clifton Forge town|Incorporated Place|A|Alleghany County
+VA|51|17504|Clinchco town|Incorporated Place|A|Dickenson County
+VA|51|17536|Clinchport town|Incorporated Place|A|Scott County
+VA|51|17552|Clintwood town|Incorporated Place|A|Dickenson County
+VA|51|17632|Clover CDP|Census Designated Place|S|Halifax County
+VA|51|17680|Cloverdale CDP|Census Designated Place|S|Botetourt County
+VA|51|17776|Cluster Springs CDP|Census Designated Place|S|Halifax County
+VA|51|17952|Coeburn town|Incorporated Place|A|Wise County
+VA|51|18352|Collinsville CDP|Census Designated Place|S|Henry County
+VA|51|18400|Colonial Beach town|Incorporated Place|A|Westmoreland County
+VA|51|18448|Colonial Heights city|Incorporated Place|A|Colonial Heights city
+VA|51|18624|Columbia town|Incorporated Place|A|Fluvanna County
+VA|51|18880|Concord CDP|Census Designated Place|S|Appomattox County, Campbell County
+VA|51|19560|Countryside CDP|Census Designated Place|S|Loudoun County
+VA|51|19571|County Center CDP|Census Designated Place|S|Prince William County
+VA|51|19600|Courtland town|Incorporated Place|A|Southampton County
+VA|51|19728|Covington city|Incorporated Place|A|Covington city
+VA|51|19904|Craigsville town|Incorporated Place|A|Augusta County
+VA|51|20160|Crewe town|Incorporated Place|A|Nottoway County
+VA|51|20240|Crimora CDP|Census Designated Place|S|Augusta County
+VA|51|20436|Crosspointe CDP|Census Designated Place|S|Fairfax County
+VA|51|20560|Crozet CDP|Census Designated Place|S|Albemarle County
+VA|51|20752|Culpeper town|Incorporated Place|A|Culpeper County
+VA|51|20768|Cumberland CDP|Census Designated Place|S|Cumberland County
+VA|51|21008|Dahlgren CDP|Census Designated Place|S|King George County
+VA|51|21016|Dahlgren Center CDP|Census Designated Place|S|King George County
+VA|51|21088|Dale City CDP|Census Designated Place|S|Prince William County
+VA|51|21152|Daleville CDP|Census Designated Place|S|Botetourt County
+VA|51|21184|Damascus town|Incorporated Place|A|Washington County
+VA|51|21312|Dante CDP|Census Designated Place|S|Dickenson County, Russell County
+VA|51|21344|Danville city|Incorporated Place|A|Danville city
+VA|51|21648|Dayton town|Incorporated Place|A|Rockingham County
+VA|51|21776|Deep Creek CDP|Census Designated Place|S|Accomack County
+VA|51|21872|Deerfield CDP|Census Designated Place|S|Augusta County
+VA|51|22064|Deltaville CDP|Census Designated Place|S|Middlesex County
+VA|51|22160|Dendron town|Incorporated Place|A|Surry County
+VA|51|22560|Dillwyn town|Incorporated Place|A|Buckingham County
+VA|51|22976|Dooms CDP|Census Designated Place|S|Augusta County
+VA|51|23376|Drakes Branch town|Incorporated Place|A|Charlotte County
+VA|51|23392|Dranesville CDP|Census Designated Place|S|Fairfax County
+VA|51|23408|Draper CDP|Census Designated Place|S|Pulaski County
+VA|51|23584|Dryden CDP|Census Designated Place|S|Lee County
+VA|51|23648|Dublin town|Incorporated Place|A|Pulaski County
+VA|51|23680|Duffield town|Incorporated Place|A|Scott County
+VA|51|23732|Dulles Town Center CDP|Census Designated Place|S|Loudoun County
+VA|51|23744|Dumbarton CDP|Census Designated Place|S|Henrico County
+VA|51|23760|Dumfries town|Incorporated Place|A|Prince William County
+VA|51|23952|Dungannon town|Incorporated Place|A|Scott County
+VA|51|23984|Dunn Loring CDP|Census Designated Place|S|Fairfax County
+VA|51|24496|East Highland Park CDP|Census Designated Place|S|Henrico County
+VA|51|24544|East Lexington CDP|Census Designated Place|S|Rockbridge County
+VA|51|24752|Eastville town|Incorporated Place|A|Northampton County
+VA|51|24816|Ebony CDP|Census Designated Place|S|Brunswick County
+VA|51|25008|Edinburg town|Incorporated Place|A|Shenandoah County
+VA|51|25408|Elkton town|Incorporated Place|A|Rockingham County
+VA|51|25488|Elliston CDP|Census Designated Place|S|Montgomery County
+VA|51|25792|Emory CDP|Census Designated Place|S|Washington County
+VA|51|25808|Emporia city|Incorporated Place|A|Emporia city
+VA|51|25877|Enon CDP|Census Designated Place|S|Chesterfield County
+VA|51|25968|Esmont CDP|Census Designated Place|S|Albemarle County
+VA|51|26128|Ettrick CDP|Census Designated Place|S|Chesterfield County
+VA|51|26384|Ewing CDP|Census Designated Place|S|Lee County
+VA|51|26416|Exmore town|Incorporated Place|A|Northampton County
+VA|51|26496|Fairfax city|Incorporated Place|A|Fairfax city
+VA|51|26592|Fairfax Station CDP|Census Designated Place|S|Fairfax County
+VA|51|26701|Fair Lakes CDP|Census Designated Place|S|Fairfax County
+VA|51|26736|Fairlawn CDP|Census Designated Place|S|Pulaski County
+VA|51|26875|Fair Oaks CDP|Census Designated Place|S|Fairfax County
+VA|51|26944|Fairview CDP|Census Designated Place|S|Mecklenburg County
+VA|51|27040|Fairview Beach CDP|Census Designated Place|S|King George County
+VA|51|27200|Falls Church city|Incorporated Place|A|Falls Church city
+VA|51|27264|Falmouth CDP|Census Designated Place|S|Stafford County
+VA|51|27296|Fancy Gap CDP|Census Designated Place|S|Carroll County
+VA|51|27440|Farmville town|Incorporated Place|A|Cumberland County, Prince Edward County
+VA|51|27712|Ferrum CDP|Census Designated Place|S|Franklin County
+VA|51|27744|Fieldale CDP|Census Designated Place|S|Henry County
+VA|51|27824|Fincastle town|Incorporated Place|A|Botetourt County
+VA|51|27968|Fishersville CDP|Census Designated Place|S|Augusta County
+VA|51|28496|Flint Hill CDP|Census Designated Place|S|Rappahannock County
+VA|51|28528|Floris CDP|Census Designated Place|S|Fairfax County
+VA|51|28544|Floyd town|Incorporated Place|A|Floyd County
+VA|51|28688|Forest CDP|Census Designated Place|S|Bedford County
+VA|51|29008|Fort Belvoir CDP|Census Designated Place|S|Fairfax County
+VA|51|29040|Fort Chiswell CDP|Census Designated Place|S|Wythe County
+VA|51|29136|Fort Hunt CDP|Census Designated Place|S|Fairfax County
+VA|51|29152|Fort Lee CDP|Census Designated Place|S|Prince George County
+VA|51|29552|Franconia CDP|Census Designated Place|S|Fairfax County
+VA|51|29600|Franklin city|Incorporated Place|A|Franklin city
+VA|51|29628|Franklin Farm CDP|Census Designated Place|S|Fairfax County
+VA|51|29744|Fredericksburg city|Incorporated Place|A|Fredericksburg city
+VA|51|29840|Free Union CDP|Census Designated Place|S|Albemarle County
+VA|51|29920|Fries town|Incorporated Place|A|Grayson County
+VA|51|29968|Front Royal town|Incorporated Place|A|Warren County
+VA|51|30176|Gainesville CDP|Census Designated Place|S|Prince William County
+VA|51|30208|Galax city|Incorporated Place|A|Galax city
+VA|51|30384|Gargatha CDP|Census Designated Place|S|Accomack County
+VA|51|30480|Gasburg CDP|Census Designated Place|S|Brunswick County
+VA|51|30496|Gate City town|Incorporated Place|A|Scott County
+VA|51|30618|George Mason CDP|Census Designated Place|S|Fairfax County
+VA|51|31056|Glade Spring town|Incorporated Place|A|Washington County
+VA|51|31136|Glasgow town|Incorporated Place|A|Rockbridge County
+VA|51|31200|Glen Allen CDP|Census Designated Place|S|Henrico County
+VA|51|31376|Glen Lyn town|Incorporated Place|A|Giles County
+VA|51|31488|Glenvar CDP|Census Designated Place|S|Roanoke County
+VA|51|31608|Gloucester Courthouse CDP|Census Designated Place|S|Gloucester County
+VA|51|31616|Gloucester Point CDP|Census Designated Place|S|Gloucester County
+VA|51|31808|Goochland CDP|Census Designated Place|S|Goochland County
+VA|51|31936|Gordonsville town|Incorporated Place|A|Louisa County, Orange County
+VA|51|31968|Goshen town|Incorporated Place|A|Rockbridge County
+VA|51|32320|Gratton CDP|Census Designated Place|S|Tazewell County
+VA|51|32496|Great Falls CDP|Census Designated Place|S|Fairfax County
+VA|51|32560|Greenbackville CDP|Census Designated Place|S|Accomack County
+VA|51|32592|Greenbriar CDP|Census Designated Place|S|Fairfax County
+VA|51|32624|Greenbush CDP|Census Designated Place|S|Accomack County
+VA|51|32944|Greenville CDP|Census Designated Place|S|Augusta County
+VA|51|33232|Gretna town|Incorporated Place|A|Pittsylvania County
+VA|51|33488|Grottoes town|Incorporated Place|A|Augusta County, Rockingham County
+VA|51|33584|Groveton CDP|Census Designated Place|S|Fairfax County
+VA|51|33648|Grundy town|Incorporated Place|A|Buchanan County
+VA|51|33824|Gwynn CDP|Census Designated Place|S|Mathews County
+VA|51|34064|Halifax town|Incorporated Place|A|Halifax County
+VA|51|34176|Hallwood town|Incorporated Place|A|Accomack County
+VA|51|34240|Hamilton town|Incorporated Place|A|Loudoun County
+VA|51|34304|Hampden-Sydney CDP|Census Designated Place|S|Prince Edward County
+VA|51|35000|Hampton city|Incorporated Place|A|Hampton city
+VA|51|35160|Hanover CDP|Census Designated Place|S|Hanover County
+VA|51|35240|Harborton CDP|Census Designated Place|S|Accomack County
+VA|51|35624|Harrisonburg city|Incorporated Place|A|Harrisonburg city
+VA|51|35640|Harriston CDP|Census Designated Place|S|Augusta County
+VA|51|35912|Hayfield CDP|Census Designated Place|S|Fairfax County
+VA|51|35976|Haymarket town|Incorporated Place|A|Prince William County
+VA|51|36008|Haysi town|Incorporated Place|A|Dickenson County
+VA|51|36216|Heathsville CDP|Census Designated Place|S|Northumberland County
+VA|51|36445|Henry Fork CDP|Census Designated Place|S|Franklin County
+VA|51|36648|Herndon town|Incorporated Place|A|Fairfax County
+VA|51|37032|Highland Springs CDP|Census Designated Place|S|Henrico County
+VA|51|37288|Hillsboro town|Incorporated Place|A|Loudoun County
+VA|51|37336|Hillsville town|Incorporated Place|A|Carroll County
+VA|51|37544|Hiwassee CDP|Census Designated Place|S|Pulaski County
+VA|51|37880|Hollins CDP|Census Designated Place|S|Botetourt County, Roanoke County
+VA|51|38032|Hollymead CDP|Census Designated Place|S|Albemarle County
+VA|51|38280|Honaker town|Incorporated Place|A|Russell County
+VA|51|38424|Hopewell city|Incorporated Place|A|Hopewell city
+VA|51|38504|Horntown CDP|Census Designated Place|S|Accomack County
+VA|51|38552|Horse Pasture CDP|Census Designated Place|S|Henry County
+VA|51|38632|Hot Springs CDP|Census Designated Place|S|Bath County
+VA|51|39064|Huntington CDP|Census Designated Place|S|Fairfax County
+VA|51|39224|Hurt town|Incorporated Place|A|Pittsylvania County
+VA|51|39304|Hybla Valley CDP|Census Designated Place|S|Fairfax County
+VA|51|39448|Idylwood CDP|Census Designated Place|S|Fairfax County
+VA|51|39528|Independence town|Incorporated Place|A|Grayson County
+VA|51|39544|Independent Hill CDP|Census Designated Place|S|Prince William County
+VA|51|39920|Innsbrook CDP|Census Designated Place|S|Henrico County
+VA|51|40024|Iron Gate town|Incorporated Place|A|Alleghany County
+VA|51|40088|Irvington town|Incorporated Place|A|Lancaster County
+VA|51|40216|Ivanhoe CDP|Census Designated Place|S|Wythe County
+VA|51|40232|Ivor town|Incorporated Place|A|Southampton County
+VA|51|40248|Ivy CDP|Census Designated Place|S|Albemarle County
+VA|51|40536|Jarratt town|Incorporated Place|A|Greensville County, Sussex County
+VA|51|41144|Jolivue CDP|Census Designated Place|S|Augusta County
+VA|51|41272|Jonesville town|Incorporated Place|A|Lee County
+VA|51|41656|Keller town|Incorporated Place|A|Accomack County
+VA|51|41832|Kenbridge town|Incorporated Place|A|Lunenburg County
+VA|51|42104|Keokee CDP|Census Designated Place|S|Lee County
+VA|51|42264|Keysville town|Incorporated Place|A|Charlotte County
+VA|51|42424|Kilmarnock town|Incorporated Place|A|Lancaster County, Northumberland County
+VA|51|42536|King and Queen Court House CDP|Census Designated Place|S|King and Queen County
+VA|51|42568|King George CDP|Census Designated Place|S|King George County
+VA|51|42664|Kings Park CDP|Census Designated Place|S|Fairfax County
+VA|51|42680|Kings Park West CDP|Census Designated Place|S|Fairfax County
+VA|51|42746|Kingstowne CDP|Census Designated Place|S|Fairfax County
+VA|51|42792|King William CDP|Census Designated Place|S|King William County
+VA|51|43176|La Crosse town|Incorporated Place|A|Mecklenburg County
+VA|51|43224|Lafayette CDP|Census Designated Place|S|Montgomery County
+VA|51|43352|Lake Barcroft CDP|Census Designated Place|S|Fairfax County
+VA|51|43359|Lake Caroline CDP|Census Designated Place|S|Caroline County
+VA|51|43392|Lake Holiday CDP|Census Designated Place|S|Frederick County
+VA|51|43420|Lake Land'Or CDP|Census Designated Place|S|Caroline County
+VA|51|43424|Lake Monticello CDP|Census Designated Place|S|Fluvanna County
+VA|51|43430|Lake of the Woods CDP|Census Designated Place|S|Orange County
+VA|51|43432|Lake Ridge CDP|Census Designated Place|S|Prince William County
+VA|51|43464|Lakeside CDP|Census Designated Place|S|Henrico County
+VA|51|43600|Lake Wilderness CDP|Census Designated Place|S|Spotsylvania County
+VA|51|44048|Lansdowne CDP|Census Designated Place|S|Loudoun County
+VA|51|44280|Laurel CDP|Census Designated Place|S|Henrico County
+VA|51|44430|Laurel Hill CDP|Census Designated Place|S|Fairfax County
+VA|51|44476|Laurel Park CDP|Census Designated Place|S|Henry County
+VA|51|44520|Lawrenceville town|Incorporated Place|A|Brunswick County
+VA|51|44620|Laymantown CDP|Census Designated Place|S|Botetourt County
+VA|51|44696|Lebanon town|Incorporated Place|A|Russell County
+VA|51|44952|Lee Mont CDP|Census Designated Place|S|Accomack County
+VA|51|44984|Leesburg town|Incorporated Place|A|Loudoun County
+VA|51|45512|Lexington city|Incorporated Place|A|Lexington city
+VA|51|45784|Lincolnia CDP|Census Designated Place|S|Fairfax County
+VA|51|45957|Linton Hall CDP|Census Designated Place|S|Prince William County
+VA|51|46328|Loch Lomond CDP|Census Designated Place|S|Prince William County
+VA|51|46760|Long Branch CDP|Census Designated Place|S|Fairfax County
+VA|51|47064|Lorton CDP|Census Designated Place|S|Fairfax County
+VA|51|47136|Loudoun Valley Estates CDP|Census Designated Place|S|Loudoun County
+VA|51|47144|Louisa town|Incorporated Place|A|Louisa County
+VA|51|47208|Lovettsville town|Incorporated Place|A|Loudoun County
+VA|51|47224|Lovingston CDP|Census Designated Place|S|Nelson County
+VA|51|47296|Lowes Island CDP|Census Designated Place|S|Loudoun County
+VA|51|47352|Low Moor CDP|Census Designated Place|S|Alleghany County
+VA|51|47496|Lunenburg CDP|Census Designated Place|S|Lunenburg County
+VA|51|47528|Luray town|Incorporated Place|A|Page County
+VA|51|47672|Lynchburg city|Incorporated Place|A|Lynchburg city
+VA|51|47720|Lyndhurst CDP|Census Designated Place|S|Augusta County
+VA|51|48344|McKenney town|Incorporated Place|A|Dinwiddie County
+VA|51|48376|McLean CDP|Census Designated Place|S|Fairfax County
+VA|51|48445|McMullin CDP|Census Designated Place|S|Smyth County
+VA|51|48450|McNair CDP|Census Designated Place|S|Fairfax County
+VA|51|48488|Madison town|Incorporated Place|A|Madison County
+VA|51|48520|Madison Heights CDP|Census Designated Place|S|Amherst County
+VA|51|48776|Makemie Park CDP|Census Designated Place|S|Accomack County
+VA|51|48952|Manassas city|Incorporated Place|A|Manassas city
+VA|51|48968|Manassas Park city|Incorporated Place|A|Manassas Park city
+VA|51|48996|Manchester CDP|Census Designated Place|S|Chesterfield County
+VA|51|49144|Mantua CDP|Census Designated Place|S|Fairfax County
+VA|51|49320|Mappsburg CDP|Census Designated Place|S|Accomack County
+VA|51|49336|Mappsville CDP|Census Designated Place|S|Accomack County
+VA|51|49464|Marion town|Incorporated Place|A|Smyth County
+VA|51|49656|Marshall CDP|Census Designated Place|S|Fauquier County
+VA|51|49784|Martinsville city|Incorporated Place|A|Martinsville city
+VA|51|49792|Marumsco CDP|Census Designated Place|S|Prince William County
+VA|51|49998|Mason Neck CDP|Census Designated Place|S|Fairfax County
+VA|51|50020|Massanetta Springs CDP|Census Designated Place|S|Rockingham County
+VA|51|50030|Massanutten CDP|Census Designated Place|S|Rockingham County
+VA|51|50104|Mathews CDP|Census Designated Place|S|Mathews County
+VA|51|50136|Matoaca CDP|Census Designated Place|S|Chesterfield County
+VA|51|50200|Maurertown CDP|Census Designated Place|S|Shenandoah County
+VA|51|50312|Max Meadows CDP|Census Designated Place|S|Wythe County
+VA|51|50568|Meadowbrook CDP|Census Designated Place|S|Chesterfield County
+VA|51|50776|Meadow View CDP|Census Designated Place|S|Washington County
+VA|51|50856|Mechanicsville CDP|Census Designated Place|S|Hanover County
+VA|51|50984|Melfa town|Incorporated Place|A|Accomack County
+VA|51|51192|Merrifield CDP|Census Designated Place|S|Fairfax County
+VA|51|51208|Merrimac CDP|Census Designated Place|S|Montgomery County
+VA|51|51362|Metompkin CDP|Census Designated Place|S|Accomack County
+VA|51|51432|Middlebrook CDP|Census Designated Place|S|Augusta County
+VA|51|51448|Middleburg town|Incorporated Place|A|Loudoun County
+VA|51|51512|Middletown town|Incorporated Place|A|Frederick County
+VA|51|51544|Midland CDP|Census Designated Place|S|Fauquier County
+VA|51|52120|Mineral town|Incorporated Place|A|Louisa County
+VA|51|52408|Modest Town CDP|Census Designated Place|S|Accomack County
+VA|51|52658|Montclair CDP|Census Designated Place|S|Prince William County
+VA|51|52680|Monterey town|Incorporated Place|A|Highland County
+VA|51|52904|Montrose CDP|Census Designated Place|S|Henrico County
+VA|51|52952|Montross town|Incorporated Place|A|Westmoreland County
+VA|51|52968|Montvale CDP|Census Designated Place|S|Bedford County
+VA|51|53031|Moorefield Station CDP|Census Designated Place|S|Loudoun County
+VA|51|53480|Motley CDP|Census Designated Place|S|Pittsylvania County
+VA|51|53584|Mountain Road CDP|Census Designated Place|S|Halifax County
+VA|51|53864|Mount Crawford town|Incorporated Place|A|Rockingham County
+VA|51|53944|Mount Hermon CDP|Census Designated Place|S|Pittsylvania County
+VA|51|53992|Mount Jackson town|Incorporated Place|A|Shenandoah County
+VA|51|54120|Mount Sidney CDP|Census Designated Place|S|Augusta County
+VA|51|54144|Mount Vernon CDP|Census Designated Place|S|Fairfax County
+VA|51|54904|Narrows town|Incorporated Place|A|Giles County
+VA|51|54984|Nassawadox town|Incorporated Place|A|Northampton County
+VA|51|55000|Nathalie CDP|Census Designated Place|S|Halifax County
+VA|51|55272|Neabsco CDP|Census Designated Place|S|Prince William County
+VA|51|55400|Nellysford CDP|Census Designated Place|S|Nelson County
+VA|51|55448|Nelsonia CDP|Census Designated Place|S|Accomack County
+VA|51|55528|New Baltimore CDP|Census Designated Place|S|Fauquier County
+VA|51|55592|New Castle town|Incorporated Place|A|Craig County
+VA|51|55608|New Church CDP|Census Designated Place|S|Accomack County
+VA|51|55720|New Hope CDP|Census Designated Place|S|Augusta County
+VA|51|55752|Newington CDP|Census Designated Place|S|Fairfax County
+VA|51|55758|Newington Forest CDP|Census Designated Place|S|Fairfax County
+VA|51|55800|New Kent CDP|Census Designated Place|S|New Kent County
+VA|51|55848|New Market town|Incorporated Place|A|Shenandoah County
+VA|51|56000|Newport News city|Incorporated Place|A|Newport News city
+VA|51|56048|New River CDP|Census Designated Place|S|Pulaski County
+VA|51|56096|Newsoms town|Incorporated Place|A|Southampton County
+VA|51|56304|Nickelsville town|Incorporated Place|A|Scott County
+VA|51|56464|Nokesville CDP|Census Designated Place|S|Prince William County
+VA|51|57000|Norfolk city|Incorporated Place|A|Norfolk city
+VA|51|57531|North Shore CDP|Census Designated Place|S|Franklin County
+VA|51|57560|North Springfield CDP|Census Designated Place|S|Fairfax County
+VA|51|57688|Norton city|Incorporated Place|A|Norton city
+VA|51|57870|Nottoway Court House CDP|Census Designated Place|S|Nottoway County
+VA|51|58104|Oak Grove CDP|Census Designated Place|S|Loudoun County
+VA|51|58184|Oak Hall CDP|Census Designated Place|S|Accomack County
+VA|51|58312|Oak Level CDP|Census Designated Place|S|Henry County
+VA|51|58472|Oakton CDP|Census Designated Place|S|Fairfax County
+VA|51|58696|Occoquan town|Incorporated Place|A|Fairfax County, Prince William County
+VA|51|59336|Onancock town|Incorporated Place|A|Accomack County
+VA|51|59384|Onley town|Incorporated Place|A|Accomack County
+VA|51|59416|Opal CDP|Census Designated Place|S|Fauquier County
+VA|51|59496|Orange town|Incorporated Place|A|Orange County
+VA|51|60296|Painter town|Incorporated Place|A|Accomack County
+VA|51|60392|Palmyra CDP|Census Designated Place|S|Fluvanna County
+VA|51|60488|Pamplin City town|Incorporated Place|A|Appomattox County, Prince Edward County
+VA|51|60500|Pantops CDP|Census Designated Place|S|Albemarle County
+VA|51|60680|Parksley town|Incorporated Place|A|Accomack County
+VA|51|60840|Parrott CDP|Census Designated Place|S|Pulaski County
+VA|51|60888|Passapatanzy CDP|Census Designated Place|S|King George County
+VA|51|60920|Pastoria CDP|Census Designated Place|S|Accomack County
+VA|51|60984|Patrick Springs CDP|Census Designated Place|S|Patrick County
+VA|51|61208|Pearisburg town|Incorporated Place|A|Giles County
+VA|51|61336|Pembroke town|Incorporated Place|A|Giles County
+VA|51|61464|Penhook CDP|Census Designated Place|S|Franklin County
+VA|51|61560|Pennington Gap town|Incorporated Place|A|Lee County
+VA|51|61832|Petersburg city|Incorporated Place|A|Petersburg city
+VA|51|61896|Phenix town|Incorporated Place|A|Charlotte County
+VA|51|62264|Pimmit Hills CDP|Census Designated Place|S|Fairfax County
+VA|51|62738|Piney Mountain CDP|Census Designated Place|S|Albemarle County
+VA|51|63190|Plum Creek CDP|Census Designated Place|S|Montgomery County
+VA|51|63288|Pocahontas town|Incorporated Place|A|Tazewell County
+VA|51|63768|Poquoson city|Incorporated Place|A|Poquoson city
+VA|51|63928|Port Royal town|Incorporated Place|A|Caroline County
+VA|51|64000|Portsmouth city|Incorporated Place|A|Portsmouth city
+VA|51|64152|Potomac Mills CDP|Census Designated Place|S|Prince William County
+VA|51|64272|Pound town|Incorporated Place|A|Wise County
+VA|51|64512|Prices Fork CDP|Census Designated Place|S|Montgomery County
+VA|51|64560|Prince George CDP|Census Designated Place|S|Prince George County
+VA|51|64880|Pulaski town|Incorporated Place|A|Pulaski County
+VA|51|64976|Pungoteague CDP|Census Designated Place|S|Accomack County
+VA|51|65008|Purcellville town|Incorporated Place|A|Loudoun County
+VA|51|65120|Quantico town|Incorporated Place|A|Prince William County
+VA|51|65128|Quantico Base CDP|Census Designated Place|S|Prince William County, Stafford County
+VA|51|65280|Quinby CDP|Census Designated Place|S|Accomack County
+VA|51|65392|Radford city|Incorporated Place|A|Radford city
+VA|51|65744|Raven CDP|Census Designated Place|S|Russell County, Tazewell County
+VA|51|65776|Ravensworth CDP|Census Designated Place|S|Fairfax County
+VA|51|66512|Remington town|Incorporated Place|A|Fauquier County
+VA|51|66672|Reston CDP|Census Designated Place|S|Fairfax County
+VA|51|66896|Rich Creek town|Incorporated Place|A|Giles County
+VA|51|66928|Richlands town|Incorporated Place|A|Tazewell County
+VA|51|67000|Richmond city|Incorporated Place|A|Richmond city
+VA|51|67208|Ridgeway town|Incorporated Place|A|Henry County
+VA|51|67256|Riner CDP|Census Designated Place|S|Montgomery County
+VA|51|67331|Rivanna CDP|Census Designated Place|S|Albemarle County
+VA|51|67352|Riverdale CDP|Census Designated Place|S|Halifax County
+VA|51|67704|Riverview CDP|Census Designated Place|S|Wise County
+VA|51|68000|Roanoke city|Incorporated Place|A|Roanoke city
+VA|51|68470|Rockwood CDP|Census Designated Place|S|Chesterfield County
+VA|51|68496|Rocky Mount town|Incorporated Place|A|Franklin County
+VA|51|68880|Rose Hill CDP|Census Designated Place|S|Fairfax County
+VA|51|68885|Rose Hill CDP|Census Designated Place|S|Lee County
+VA|51|69168|Round Hill town|Incorporated Place|A|Loudoun County
+VA|51|69360|Ruckersville CDP|Census Designated Place|S|Greene County
+VA|51|69456|Rural Retreat town|Incorporated Place|A|Wythe County
+VA|51|69472|Rushmere CDP|Census Designated Place|S|Isle of Wight County
+VA|51|69536|Rustburg CDP|Census Designated Place|S|Campbell County
+VA|51|69792|St. Charles town|Incorporated Place|A|Lee County
+VA|51|69936|St. Paul town|Incorporated Place|A|Russell County, Wise County
+VA|51|70000|Salem city|Incorporated Place|A|Salem city
+VA|51|70096|Saltville town|Incorporated Place|A|Smyth County, Washington County
+VA|51|70112|Saluda CDP|Census Designated Place|S|Middlesex County
+VA|51|70256|Sandston CDP|Census Designated Place|S|Henrico County
+VA|51|70296|Sandy Level CDP|Census Designated Place|S|Henry County
+VA|51|70352|Sanford CDP|Census Designated Place|S|Accomack County
+VA|51|70520|Savage Town CDP|Census Designated Place|S|Accomack County
+VA|51|70528|Savageville CDP|Census Designated Place|S|Accomack County
+VA|51|70576|Saxis town|Incorporated Place|A|Accomack County
+VA|51|70704|Schuyler CDP|Census Designated Place|S|Nelson County
+VA|51|70715|Scotland CDP|Census Designated Place|S|Surry County
+VA|51|70752|Scottsburg town|Incorporated Place|A|Halifax County
+VA|51|70800|Scottsville town|Incorporated Place|A|Albemarle County, Fluvanna County
+VA|51|71040|Sedley CDP|Census Designated Place|S|Southampton County
+VA|51|71072|Selma CDP|Census Designated Place|S|Alleghany County
+VA|51|71216|Seven Corners CDP|Census Designated Place|S|Fairfax County
+VA|51|71264|Seven Mile Ford CDP|Census Designated Place|S|Smyth County
+VA|51|71625|Shawneeland CDP|Census Designated Place|S|Frederick County
+VA|51|71632|Shawsville CDP|Census Designated Place|S|Montgomery County
+VA|51|71776|Shenandoah town|Incorporated Place|A|Page County
+VA|51|71810|Shenandoah Farms CDP|Census Designated Place|S|Clarke County, Warren County
+VA|51|71825|Shenandoah Retreat CDP|Census Designated Place|S|Clarke County
+VA|51|71826|Shenandoah Shores CDP|Census Designated Place|S|Warren County
+VA|51|71904|Sherando CDP|Census Designated Place|S|Augusta County
+VA|51|72080|Shipman CDP|Census Designated Place|S|Nelson County
+VA|51|72272|Short Pump CDP|Census Designated Place|S|Henrico County
+VA|51|72935|Skyland Estates CDP|Census Designated Place|S|Warren County
+VA|51|73200|Smithfield town|Incorporated Place|A|Isle of Wight County
+VA|51|73376|Snowville CDP|Census Designated Place|S|Pulaski County
+VA|51|73712|South Boston town|Incorporated Place|A|Halifax County
+VA|51|73760|Southern Gateway CDP|Census Designated Place|S|Stafford County
+VA|51|73894|Southampton Meadows CDP|Census Designated Place|S|Southampton County
+VA|51|73904|South Hill town|Incorporated Place|A|Mecklenburg County
+VA|51|74100|South Riding CDP|Census Designated Place|S|Loudoun County
+VA|51|74120|South Run CDP|Census Designated Place|S|Fairfax County
+VA|51|74160|Southside Chesconessex CDP|Census Designated Place|S|Accomack County
+VA|51|74384|Sperryville CDP|Census Designated Place|S|Rappahannock County
+VA|51|74470|Spotsylvania Courthouse CDP|Census Designated Place|S|Spotsylvania County
+VA|51|74592|Springfield CDP|Census Designated Place|S|Fairfax County
+VA|51|74848|Springville CDP|Census Designated Place|S|Tazewell County
+VA|51|74916|Stafford Courthouse CDP|Census Designated Place|S|Stafford County
+VA|51|75008|Stanardsville town|Incorporated Place|A|Greene County
+VA|51|75024|Stanley town|Incorporated Place|A|Page County
+VA|51|75040|Stanleytown CDP|Census Designated Place|S|Henry County
+VA|51|75216|Staunton city|Incorporated Place|A|Staunton city
+VA|51|75344|Stephens City town|Incorporated Place|A|Frederick County
+VA|51|75376|Sterling CDP|Census Designated Place|S|Loudoun County
+VA|51|75702|Stone Ridge CDP|Census Designated Place|S|Loudoun County
+VA|51|75840|Stony Creek town|Incorporated Place|A|Sussex County
+VA|51|76000|Strasburg town|Incorporated Place|A|Shenandoah County
+VA|51|76256|Stuart town|Incorporated Place|A|Patrick County
+VA|51|76272|Stuarts Draft CDP|Census Designated Place|S|Augusta County
+VA|51|76416|Sudley CDP|Census Designated Place|S|Prince William County
+VA|51|76432|Suffolk city|Incorporated Place|A|Suffolk city
+VA|51|76448|Sugar Grove CDP|Census Designated Place|S|Smyth County
+VA|51|76464|Sugarland Run CDP|Census Designated Place|S|Loudoun County
+VA|51|76880|Surry town|Incorporated Place|A|Surry County
+VA|51|76912|Sussex CDP|Census Designated Place|S|Sussex County
+VA|51|77520|Tangier town|Incorporated Place|A|Accomack County
+VA|51|77568|Tappahannock town|Incorporated Place|A|Essex County
+VA|51|77648|Tasley CDP|Census Designated Place|S|Accomack County
+VA|51|77792|Tazewell town|Incorporated Place|A|Tazewell County
+VA|51|77856|Temperanceville CDP|Census Designated Place|S|Accomack County
+VA|51|77925|Templeton CDP|Census Designated Place|S|Prince George County
+VA|51|78192|The Plains town|Incorporated Place|A|Fauquier County
+VA|51|78532|Thynedale CDP|Census Designated Place|S|Mecklenburg County
+VA|51|78688|Timberlake CDP|Census Designated Place|S|Campbell County
+VA|51|78736|Timberville town|Incorporated Place|A|Rockingham County
+VA|51|79024|Toms Brook town|Incorporated Place|A|Shenandoah County
+VA|51|79360|Triangle CDP|Census Designated Place|S|Prince William County
+VA|51|79456|Troutdale town|Incorporated Place|A|Grayson County
+VA|51|79472|Troutville town|Incorporated Place|A|Botetourt County
+VA|51|79560|Tuckahoe CDP|Census Designated Place|S|Henrico County
+VA|51|79768|Twin Lakes CDP|Census Designated Place|S|Greene County
+VA|51|79952|Tysons Corner CDP|Census Designated Place|S|Fairfax County
+VA|51|80000|Union Hall CDP|Census Designated Place|S|Franklin County
+VA|51|80016|Union Level CDP|Census Designated Place|S|Mecklenburg County
+VA|51|80120|University Center CDP|Census Designated Place|S|Loudoun County
+VA|51|80165|University of Virginia CDP|Census Designated Place|S|Albemarle County
+VA|51|80272|Urbanna town|Incorporated Place|A|Middlesex County
+VA|51|80608|Vansant CDP|Census Designated Place|S|Buchanan County
+VA|51|80864|Verona CDP|Census Designated Place|S|Augusta County
+VA|51|81024|Victoria town|Incorporated Place|A|Lunenburg County
+VA|51|81072|Vienna town|Incorporated Place|A|Fairfax County
+VA|51|81152|Villa Heights CDP|Census Designated Place|S|Henry County
+VA|51|81280|Vinton town|Incorporated Place|A|Roanoke County
+VA|51|81312|Virgilina town|Incorporated Place|A|Halifax County
+VA|51|82000|Virginia Beach city|Incorporated Place|A|Virginia Beach city
+VA|51|82320|Wachapreague town|Incorporated Place|A|Accomack County
+VA|51|82371|Wakefield CDP|Census Designated Place|S|Fairfax County
+VA|51|82384|Wakefield town|Incorporated Place|A|Sussex County
+VA|51|83056|Warfield CDP|Census Designated Place|S|Brunswick County
+VA|51|83088|Warm Springs CDP|Census Designated Place|S|Bath County
+VA|51|83136|Warrenton town|Incorporated Place|A|Fauquier County
+VA|51|83168|Warsaw town|Incorporated Place|A|Richmond County
+VA|51|83248|Washington town|Incorporated Place|A|Rappahannock County
+VA|51|83568|Wattsville CDP|Census Designated Place|S|Accomack County
+VA|51|83600|Waverly town|Incorporated Place|A|Sussex County
+VA|51|83680|Waynesboro city|Incorporated Place|A|Waynesboro city
+VA|51|83808|Weber City town|Incorporated Place|A|Scott County
+VA|51|84366|West Falls Church CDP|Census Designated Place|S|Fairfax County
+VA|51|84632|Westlake Corner CDP|Census Designated Place|S|Franklin County
+VA|51|84960|West Point town|Incorporated Place|A|King William County
+VA|51|84976|West Springfield CDP|Census Designated Place|S|Fairfax County
+VA|51|85184|Weyers Cave CDP|Census Designated Place|S|Augusta County
+VA|51|85600|White Stone town|Incorporated Place|A|Lancaster County
+VA|51|85608|Whitesville CDP|Census Designated Place|S|Accomack County
+VA|51|86160|Williamsburg city|Incorporated Place|A|Williamsburg city
+VA|51|86720|Winchester city|Incorporated Place|A|Winchester city
+VA|51|86784|Windsor town|Incorporated Place|A|Isle of Wight County
+VA|51|87008|Wintergreen CDP|Census Designated Place|S|Augusta County, Nelson County
+VA|51|87072|Wise town|Incorporated Place|A|Wise County
+VA|51|87240|Wolf Trap CDP|Census Designated Place|S|Fairfax County
+VA|51|87312|Woodbridge CDP|Census Designated Place|S|Prince William County
+VA|51|87333|Woodburn CDP|Census Designated Place|S|Fairfax County
+VA|51|87380|Woodlake CDP|Census Designated Place|S|Chesterfield County
+VA|51|87408|Woodlawn CDP|Census Designated Place|S|Carroll County
+VA|51|87430|Woodlawn CDP|Census Designated Place|S|Fairfax County
+VA|51|87712|Woodstock town|Incorporated Place|A|Shenandoah County
+VA|51|87960|Wyndham CDP|Census Designated Place|S|Henrico County
+VA|51|88000|Wytheville town|Incorporated Place|A|Wythe County
+VA|51|88145|Yogaville CDP|Census Designated Place|S|Buckingham County
+VA|51|88176|Yorkshire CDP|Census Designated Place|S|Prince William County
+VA|51|88240|Yorktown CDP|Census Designated Place|S|York County

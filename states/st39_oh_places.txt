@@ -1,0 +1,1204 @@
+OH|39|00142|Aberdeen village|Incorporated Place|A|Brown County
+OH|39|00198|Ada village|Incorporated Place|A|Hardin County
+OH|39|00380|Adamsville village|Incorporated Place|A|Muskingum County
+OH|39|00436|Addyston village|Incorporated Place|A|Hamilton County
+OH|39|00450|Adelphi village|Incorporated Place|A|Ross County
+OH|39|00464|Adena village|Incorporated Place|A|Harrison County, Jefferson County
+OH|39|01000|Akron city|Incorporated Place|A|Summit County
+OH|39|01042|Albany village|Incorporated Place|A|Athens County
+OH|39|01154|Alexandria village|Incorporated Place|A|Licking County
+OH|39|01210|Alger village|Incorporated Place|A|Hardin County
+OH|39|01420|Alliance city|Incorporated Place|A|Mahoning County, Stark County
+OH|39|01588|Alvordton CDP|Census Designated Place|S|Williams County
+OH|39|01630|Amanda village|Incorporated Place|A|Fairfield County
+OH|39|01672|Amberley village|Incorporated Place|A|Hamilton County
+OH|39|01742|Amelia village|Incorporated Place|A|Clermont County
+OH|39|01784|Amesville village|Incorporated Place|A|Athens County
+OH|39|01798|Amherst city|Incorporated Place|A|Lorain County
+OH|39|01938|Amsterdam village|Incorporated Place|A|Jefferson County
+OH|39|02022|Andersonville CDP|Census Designated Place|S|Ross County
+OH|39|02050|Andover village|Incorporated Place|A|Ashtabula County
+OH|39|02092|Anna village|Incorporated Place|A|Shelby County
+OH|39|02120|Ansonia village|Incorporated Place|A|Darke County
+OH|39|02148|Antioch village|Incorporated Place|A|Monroe County
+OH|39|02204|Antwerp village|Incorporated Place|A|Paulding County
+OH|39|02232|Apple Creek village|Incorporated Place|A|Wayne County
+OH|39|02266|Apple Valley CDP|Census Designated Place|S|Knox County
+OH|39|02274|Aquilla village|Incorporated Place|A|Geauga County
+OH|39|02316|Arcadia village|Incorporated Place|A|Hancock County
+OH|39|02330|Arcanum village|Incorporated Place|A|Darke County
+OH|39|02344|Archbold village|Incorporated Place|A|Fulton County
+OH|39|02400|Arlington village|Incorporated Place|A|Hancock County
+OH|39|02428|Arlington Heights village|Incorporated Place|A|Hamilton County
+OH|39|02568|Ashland city|Incorporated Place|A|Ashland County
+OH|39|02582|Ashley village|Incorporated Place|A|Delaware County
+OH|39|02638|Ashtabula city|Incorporated Place|A|Ashtabula County
+OH|39|02680|Ashville village|Incorporated Place|A|Pickaway County
+OH|39|02722|Athalia village|Incorporated Place|A|Lawrence County
+OH|39|02736|Athens city|Incorporated Place|A|Athens County
+OH|39|02820|Attica village|Incorporated Place|A|Seneca County
+OH|39|02848|Atwater CDP|Census Designated Place|S|Portage County
+OH|39|03086|Aurora city|Incorporated Place|A|Portage County
+OH|39|03142|Austinburg CDP|Census Designated Place|S|Ashtabula County
+OH|39|03184|Austintown CDP|Census Designated Place|S|Mahoning County
+OH|39|03352|Avon city|Incorporated Place|A|Lorain County
+OH|39|03464|Avon Lake city|Incorporated Place|A|Lorain County
+OH|39|03562|Bailey Lakes village|Incorporated Place|A|Ashland County
+OH|39|03585|Bainbridge CDP|Census Designated Place|S|Geauga County
+OH|39|03604|Bainbridge village|Incorporated Place|A|Ross County
+OH|39|03646|Bairdstown village|Incorporated Place|A|Wood County
+OH|39|03716|Ballville CDP|Census Designated Place|S|Sandusky County
+OH|39|03744|Baltic village|Incorporated Place|A|Coshocton County, Holmes County, Tuscarawas County
+OH|39|03758|Baltimore village|Incorporated Place|A|Fairfield County
+OH|39|03786|Bannock CDP|Census Designated Place|S|Belmont County
+OH|39|03828|Barberton city|Incorporated Place|A|Summit County
+OH|39|03926|Barnesville village|Incorporated Place|A|Belmont County
+OH|39|03940|Barnhill village|Incorporated Place|A|Tuscarawas County
+OH|39|04094|Bascom CDP|Census Designated Place|S|Seneca County
+OH|39|04150|Batavia village|Incorporated Place|A|Clermont County
+OH|39|04192|Batesville village|Incorporated Place|A|Noble County
+OH|39|04402|Bay View village|Incorporated Place|A|Erie County
+OH|39|04416|Bay Village city|Incorporated Place|A|Cuyahoga County
+OH|39|04458|Beach City village|Incorporated Place|A|Stark County
+OH|39|04500|Beachwood city|Incorporated Place|A|Cuyahoga County
+OH|39|04542|Beallsville village|Incorporated Place|A|Monroe County
+OH|39|04696|Beaver village|Incorporated Place|A|Pike County
+OH|39|04720|Beavercreek city|Incorporated Place|A|Greene County
+OH|39|04752|Beaverdam village|Incorporated Place|A|Allen County
+OH|39|04840|Beckett Ridge CDP|Census Designated Place|S|Butler County
+OH|39|04878|Bedford city|Incorporated Place|A|Cuyahoga County
+OH|39|04920|Bedford Heights city|Incorporated Place|A|Cuyahoga County
+OH|39|05013|Beechwood Trails CDP|Census Designated Place|S|Licking County
+OH|39|05074|Bellaire village|Incorporated Place|A|Belmont County
+OH|39|05102|Bellbrook city|Incorporated Place|A|Greene County
+OH|39|05116|Belle Center village|Incorporated Place|A|Logan County
+OH|39|05130|Bellefontaine city|Incorporated Place|A|Logan County
+OH|39|05158|Belle Valley village|Incorporated Place|A|Noble County
+OH|39|05228|Bellevue city|Incorporated Place|A|Erie County, Huron County, Sandusky County
+OH|39|05284|Bellville village|Incorporated Place|A|Richland County
+OH|39|05312|Belmont village|Incorporated Place|A|Belmont County
+OH|39|05396|Belmore village|Incorporated Place|A|Putnam County
+OH|39|05410|Beloit village|Incorporated Place|A|Mahoning County
+OH|39|05424|Belpre city|Incorporated Place|A|Washington County
+OH|39|05550|Bentleyville village|Incorporated Place|A|Cuyahoga County
+OH|39|05662|Benton Ridge village|Incorporated Place|A|Hancock County
+OH|39|05676|Bentonville CDP|Census Designated Place|S|Adams County
+OH|39|05690|Berea city|Incorporated Place|A|Cuyahoga County
+OH|39|05718|Bergholz village|Incorporated Place|A|Jefferson County
+OH|39|05732|Berkey village|Incorporated Place|A|Lucas County
+OH|39|05816|Berlin CDP|Census Designated Place|S|Holmes County
+OH|39|05900|Berlin Heights village|Incorporated Place|A|Erie County
+OH|39|06068|Bethel village|Incorporated Place|A|Clermont County
+OH|39|06138|Bethesda village|Incorporated Place|A|Belmont County
+OH|39|06194|Bettsville village|Incorporated Place|A|Seneca County
+OH|39|06208|Beulah Beach CDP|Census Designated Place|S|Erie County
+OH|39|06222|Beverly village|Incorporated Place|A|Washington County
+OH|39|06278|Bexley city|Incorporated Place|A|Franklin County
+OH|39|06670|Blacklick Estates CDP|Census Designated Place|S|Franklin County
+OH|39|06740|Bladensburg CDP|Census Designated Place|S|Knox County
+OH|39|06810|Blakeslee village|Incorporated Place|A|Williams County
+OH|39|06908|Blanchester village|Incorporated Place|A|Clinton County, Warren County
+OH|39|07062|Bloomdale village|Incorporated Place|A|Wood County
+OH|39|07188|Bloomingburg village|Incorporated Place|A|Fayette County
+OH|39|07202|Bloomingdale village|Incorporated Place|A|Jefferson County
+OH|39|07286|Bloomville village|Incorporated Place|A|Seneca County
+OH|39|07300|Blue Ash city|Incorporated Place|A|Hamilton County
+OH|39|07377|Blue Jay CDP|Census Designated Place|S|Hamilton County
+OH|39|07426|Bluffton village|Incorporated Place|A|Allen County, Hancock County
+OH|39|07454|Boardman CDP|Census Designated Place|S|Mahoning County
+OH|39|07583|Bolindale CDP|Census Designated Place|S|Trumbull County
+OH|39|07594|Bolivar village|Incorporated Place|A|Tuscarawas County
+OH|39|07790|Boston Heights village|Incorporated Place|A|Summit County
+OH|39|07832|Botkins village|Incorporated Place|A|Shelby County
+OH|39|07888|Bourneville CDP|Census Designated Place|S|Ross County
+OH|39|07916|Bowerston village|Incorporated Place|A|Harrison County
+OH|39|07930|Bowersville village|Incorporated Place|A|Greene County
+OH|39|07972|Bowling Green city|Incorporated Place|A|Wood County
+OH|39|08084|Bradford village|Incorporated Place|A|Darke County, Miami County
+OH|39|08112|Bradner village|Incorporated Place|A|Wood County
+OH|39|08168|Brady Lake village|Incorporated Place|A|Portage County
+OH|39|08336|Bratenahl village|Incorporated Place|A|Cuyahoga County
+OH|39|08364|Brecksville city|Incorporated Place|A|Cuyahoga County
+OH|39|08378|Brecon CDP|Census Designated Place|S|Hamilton County
+OH|39|08392|Bremen village|Incorporated Place|A|Fairfield County
+OH|39|08504|Brewster village|Incorporated Place|A|Stark County
+OH|39|08532|Brice village|Incorporated Place|A|Franklin County
+OH|39|08560|Bridgeport village|Incorporated Place|A|Belmont County
+OH|39|08602|Bridgetown CDP|Census Designated Place|S|Hamilton County
+OH|39|08812|Brilliant CDP|Census Designated Place|S|Jefferson County
+OH|39|08826|Brimfield CDP|Census Designated Place|S|Portage County
+OH|39|09064|Broadview Heights city|Incorporated Place|A|Cuyahoga County
+OH|39|09200|Brookfield Center CDP|Census Designated Place|S|Trumbull County
+OH|39|09246|Brooklyn city|Incorporated Place|A|Cuyahoga County
+OH|39|09274|Brooklyn Heights village|Incorporated Place|A|Cuyahoga County
+OH|39|09288|Brook Park city|Incorporated Place|A|Cuyahoga County
+OH|39|09316|Brookside village|Incorporated Place|A|Belmont County
+OH|39|09358|Brookville city|Incorporated Place|A|Montgomery County
+OH|39|09386|Broughton village|Incorporated Place|A|Paulding County
+OH|39|09596|Brownsville CDP|Census Designated Place|S|Licking County
+OH|39|09680|Brunswick city|Incorporated Place|A|Medina County
+OH|39|09792|Bryan city|Incorporated Place|A|Williams County
+OH|39|09834|Buchtel village|Incorporated Place|A|Athens County, Hocking County
+OH|39|09890|Buckeye Lake village|Incorporated Place|A|Fairfield County, Licking County
+OH|39|09974|Buckland village|Incorporated Place|A|Auglaize County
+OH|39|10030|Bucyrus city|Incorporated Place|A|Crawford County
+OH|39|10128|Buffalo CDP|Census Designated Place|S|Guernsey County
+OH|39|10156|Buford CDP|Census Designated Place|S|Highland County
+OH|39|10254|Burbank village|Incorporated Place|A|Wayne County
+OH|39|10282|Burgoon village|Incorporated Place|A|Sandusky County
+OH|39|10296|Burkettsville village|Incorporated Place|A|Darke County, Mercer County
+OH|39|10352|Burlington CDP|Census Designated Place|S|Lawrence County
+OH|39|10436|Burton village|Incorporated Place|A|Geauga County
+OH|39|10632|Butler village|Incorporated Place|A|Richland County
+OH|39|10674|Butlerville village|Incorporated Place|A|Warren County
+OH|39|10716|Byesville village|Incorporated Place|A|Guernsey County
+OH|39|10800|Cadiz village|Incorporated Place|A|Harrison County
+OH|39|10884|Cairo village|Incorporated Place|A|Allen County
+OH|39|10926|Calcutta CDP|Census Designated Place|S|Columbiana County
+OH|39|10940|Caldwell village|Incorporated Place|A|Noble County
+OH|39|10954|Caledonia village|Incorporated Place|A|Marion County
+OH|39|10996|Cambridge city|Incorporated Place|A|Guernsey County
+OH|39|11024|Camden village|Incorporated Place|A|Preble County
+OH|39|11066|Campbell city|Incorporated Place|A|Mahoning County
+OH|39|11150|Camp Dennison CDP|Census Designated Place|S|Hamilton County
+OH|39|11304|Canal Fulton city|Incorporated Place|A|Stark County
+OH|39|11318|Canal Lewisville CDP|Census Designated Place|S|Coshocton County
+OH|39|11332|Canal Winchester village|Incorporated Place|A|Fairfield County, Franklin County
+OH|39|11334|Candlewood Lake CDP|Census Designated Place|S|Morrow County
+OH|39|11360|Canfield city|Incorporated Place|A|Mahoning County
+OH|39|12000|Canton city|Incorporated Place|A|Stark County
+OH|39|12056|Carbon Hill CDP|Census Designated Place|S|Hocking County
+OH|39|12084|Cardington village|Incorporated Place|A|Morrow County
+OH|39|12112|Carey village|Incorporated Place|A|Wyandot County
+OH|39|12168|Carlisle city|Incorporated Place|A|Montgomery County, Warren County
+OH|39|12252|Carroll village|Incorporated Place|A|Fairfield County
+OH|39|12280|Carrollton village|Incorporated Place|A|Carroll County
+OH|39|12462|Casstown village|Incorporated Place|A|Miami County
+OH|39|12476|Castalia village|Incorporated Place|A|Erie County
+OH|39|12504|Castine village|Incorporated Place|A|Darke County
+OH|39|12560|Catawba village|Incorporated Place|A|Clark County
+OH|39|12700|Cecil village|Incorporated Place|A|Paulding County
+OH|39|12784|Cedarville village|Incorporated Place|A|Greene County
+OH|39|12854|Celeryville CDP|Census Designated Place|S|Huron County
+OH|39|12868|Celina city|Incorporated Place|A|Mercer County
+OH|39|13036|Centerburg village|Incorporated Place|A|Knox County
+OH|39|13169|Centerville village|Incorporated Place|A|Gallia County
+OH|39|13190|Centerville city|Incorporated Place|A|Greene County, Montgomery County
+OH|39|13358|Chagrin Falls village|Incorporated Place|A|Cuyahoga County
+OH|39|13484|Champion Heights CDP|Census Designated Place|S|Trumbull County
+OH|39|13554|Chardon city|Incorporated Place|A|Geauga County
+OH|39|13694|Chatfield village|Incorporated Place|A|Crawford County
+OH|39|13778|Chauncey village|Incorporated Place|A|Athens County
+OH|39|13834|Cherry Fork village|Incorporated Place|A|Adams County
+OH|39|13848|Cherry Grove CDP|Census Designated Place|S|Hamilton County
+OH|39|13904|Chesapeake village|Incorporated Place|A|Lawrence County
+OH|39|13932|Cheshire village|Incorporated Place|A|Gallia County
+OH|39|14086|Chesterhill village|Incorporated Place|A|Morgan County
+OH|39|14100|Chesterland CDP|Census Designated Place|S|Geauga County
+OH|39|14114|Chesterville village|Incorporated Place|A|Morrow County
+OH|39|14128|Cheviot city|Incorporated Place|A|Hamilton County
+OH|39|14156|Chickasaw village|Incorporated Place|A|Mercer County
+OH|39|14184|Chillicothe city|Incorporated Place|A|Ross County
+OH|39|14226|Chilo village|Incorporated Place|A|Clermont County
+OH|39|14254|Chippewa Lake village|Incorporated Place|A|Medina County
+OH|39|14280|Chippewa Park CDP|Census Designated Place|S|Logan County
+OH|39|14288|Choctaw Lake CDP|Census Designated Place|S|Madison County
+OH|39|14296|Christiansburg village|Incorporated Place|A|Champaign County
+OH|39|14324|Churchill CDP|Census Designated Place|S|Trumbull County
+OH|39|15000|Cincinnati city|Incorporated Place|A|Hamilton County
+OH|39|15008|Cinnamon Lake CDP|Census Designated Place|S|Ashland County
+OH|39|15070|Circleville city|Incorporated Place|A|Pickaway County
+OH|39|15210|Clarington village|Incorporated Place|A|Monroe County
+OH|39|15336|Clarksburg village|Incorporated Place|A|Ross County
+OH|39|15406|Clarksville village|Incorporated Place|A|Clinton County
+OH|39|15434|Clarktown CDP|Census Designated Place|S|Scioto County
+OH|39|15588|Clay Center village|Incorporated Place|A|Ottawa County
+OH|39|15644|Clayton city|Incorporated Place|A|Montgomery County
+OH|39|16000|Cleveland city|Incorporated Place|A|Cuyahoga County
+OH|39|16014|Cleveland Heights city|Incorporated Place|A|Cuyahoga County
+OH|39|16028|Cleves village|Incorporated Place|A|Hamilton County
+OH|39|16056|Clifton village|Incorporated Place|A|Clark County, Greene County
+OH|39|16182|Clinton village|Incorporated Place|A|Summit County
+OH|39|16266|Cloverdale village|Incorporated Place|A|Putnam County
+OH|39|16308|Clyde city|Incorporated Place|A|Sandusky County
+OH|39|16378|Coal Grove village|Incorporated Place|A|Lawrence County
+OH|39|16434|Coalton village|Incorporated Place|A|Jackson County
+OH|39|16521|Coldstream CDP|Census Designated Place|S|Hamilton County
+OH|39|16532|Coldwater village|Incorporated Place|A|Mercer County
+OH|39|16700|College Corner village|Incorporated Place|A|Butler County, Preble County
+OH|39|16784|Collins CDP|Census Designated Place|S|Huron County
+OH|39|17036|Columbiana city|Incorporated Place|A|Columbiana County, Mahoning County
+OH|39|18000|Columbus city|Incorporated Place|A|Delaware County, Fairfield County, Franklin County
+OH|39|18014|Columbus Grove village|Incorporated Place|A|Putnam County
+OH|39|18070|Commercial Point village|Incorporated Place|A|Pickaway County
+OH|39|18244|Concorde Hills CDP|Census Designated Place|S|Hamilton County
+OH|39|18266|Conesville village|Incorporated Place|A|Coshocton County
+OH|39|18308|Congress village|Incorporated Place|A|Wayne County
+OH|39|18350|Conneaut city|Incorporated Place|A|Ashtabula County
+OH|39|18504|Continental village|Incorporated Place|A|Putnam County
+OH|39|18546|Convoy village|Incorporated Place|A|Van Wert County
+OH|39|18588|Coolville village|Incorporated Place|A|Athens County
+OH|39|18770|Corning village|Incorporated Place|A|Perry County
+OH|39|18812|Cortland city|Incorporated Place|A|Trumbull County
+OH|39|18840|Corwin village|Incorporated Place|A|Warren County
+OH|39|18868|Coshocton city|Incorporated Place|A|Coshocton County
+OH|39|19008|Covedale CDP|Census Designated Place|S|Hamilton County
+OH|39|19050|Covington village|Incorporated Place|A|Miami County
+OH|39|19106|Craig Beach village|Incorporated Place|A|Mahoning County
+OH|39|19330|Crestline city|Incorporated Place|A|Crawford County, Richland County
+OH|39|19344|Creston village|Incorporated Place|A|Medina County, Wayne County
+OH|39|19400|Cridersville village|Incorporated Place|A|Auglaize County
+OH|39|19456|Crooksville village|Incorporated Place|A|Perry County
+OH|39|19554|Crown City village|Incorporated Place|A|Gallia County
+OH|39|19596|Crystal Lakes CDP|Census Designated Place|S|Clark County
+OH|39|19615|Crystal Rock CDP|Census Designated Place|S|Erie County
+OH|39|19694|Cumberland village|Incorporated Place|A|Guernsey County
+OH|39|19736|Curtice CDP|Census Designated Place|S|Lucas County, Ottawa County
+OH|39|19750|Custar village|Incorporated Place|A|Wood County
+OH|39|19778|Cuyahoga Falls city|Incorporated Place|A|Summit County
+OH|39|19806|Cuyahoga Heights village|Incorporated Place|A|Cuyahoga County
+OH|39|19820|Cygnet village|Incorporated Place|A|Wood County
+OH|39|19848|Cynthiana CDP|Census Designated Place|S|Pike County
+OH|39|19974|Dalton village|Incorporated Place|A|Wayne County
+OH|39|20030|Damascus CDP|Census Designated Place|S|Columbiana County, Mahoning County
+OH|39|20114|Danville village|Incorporated Place|A|Knox County
+OH|39|20198|Darbydale CDP|Census Designated Place|S|Franklin County
+OH|39|20212|Darbyville village|Incorporated Place|A|Pickaway County
+OH|39|20268|Darrtown CDP|Census Designated Place|S|Butler County
+OH|39|20366|Day Heights CDP|Census Designated Place|S|Clermont County
+OH|39|21000|Dayton city|Incorporated Place|A|Montgomery County
+OH|39|21266|Deer Park city|Incorporated Place|A|Hamilton County
+OH|39|21294|Deersville village|Incorporated Place|A|Harrison County
+OH|39|21308|Defiance city|Incorporated Place|A|Defiance County
+OH|39|21378|De Graff village|Incorporated Place|A|Logan County
+OH|39|21434|Delaware city|Incorporated Place|A|Delaware County
+OH|39|21518|Delhi Hills CDP|Census Designated Place|S|Hamilton County
+OH|39|21560|Dellroy village|Incorporated Place|A|Carroll County
+OH|39|21602|Delphos city|Incorporated Place|A|Allen County, Van Wert County
+OH|39|21610|Delshire CDP|Census Designated Place|S|Hamilton County
+OH|39|21616|Delta village|Incorporated Place|A|Fulton County
+OH|39|21714|Dennison village|Incorporated Place|A|Tuscarawas County
+OH|39|21742|Dent CDP|Census Designated Place|S|Hamilton County
+OH|39|21784|Derby CDP|Census Designated Place|S|Pickaway County
+OH|39|21812|Deshler village|Incorporated Place|A|Henry County
+OH|39|21868|Devola CDP|Census Designated Place|S|Washington County
+OH|39|21910|Dexter City village|Incorporated Place|A|Noble County
+OH|39|22008|Dillonvale CDP|Census Designated Place|S|Hamilton County
+OH|39|22022|Dillonvale village|Incorporated Place|A|Jefferson County
+OH|39|22260|Dola CDP|Census Designated Place|S|Hardin County
+OH|39|22288|Donnelsville village|Incorporated Place|A|Clark County
+OH|39|22456|Dover city|Incorporated Place|A|Tuscarawas County
+OH|39|22568|Doylestown village|Incorporated Place|A|Wayne County
+OH|39|22610|Dresden village|Incorporated Place|A|Muskingum County
+OH|39|22624|Drexel CDP|Census Designated Place|S|Montgomery County
+OH|39|22660|Dry Ridge CDP|Census Designated Place|S|Hamilton County
+OH|39|22674|Dry Run CDP|Census Designated Place|S|Hamilton County
+OH|39|22694|Dublin city|Incorporated Place|A|Delaware County, Franklin County, Union County
+OH|39|22820|Duncan Falls CDP|Census Designated Place|S|Muskingum County
+OH|39|22848|Dundee CDP|Census Designated Place|S|Tuscarawas County
+OH|39|22946|Dunkirk village|Incorporated Place|A|Hardin County
+OH|39|22960|Dunlap CDP|Census Designated Place|S|Hamilton County
+OH|39|22974|Dupont village|Incorporated Place|A|Putnam County
+OH|39|23324|East Canton village|Incorporated Place|A|Stark County
+OH|39|23380|East Cleveland city|Incorporated Place|A|Cuyahoga County
+OH|39|23534|East Fultonham CDP|Census Designated Place|S|Muskingum County
+OH|39|23618|Eastlake city|Incorporated Place|A|Lake County
+OH|39|23702|East Liberty CDP|Census Designated Place|S|Logan County
+OH|39|23730|East Liverpool city|Incorporated Place|A|Columbiana County
+OH|39|23940|East Palestine city|Incorporated Place|A|Columbiana County
+OH|39|24024|East Rochester CDP|Census Designated Place|S|Columbiana County
+OH|39|24052|East Sparta village|Incorporated Place|A|Stark County
+OH|39|24234|Eaton city|Incorporated Place|A|Preble County
+OH|39|24262|Eaton Estates CDP|Census Designated Place|S|Lorain County
+OH|39|24486|Edgerton village|Incorporated Place|A|Williams County
+OH|39|24542|Edgewood CDP|Census Designated Place|S|Ashtabula County
+OH|39|24598|Edison village|Incorporated Place|A|Morrow County
+OH|39|24640|Edon village|Incorporated Place|A|Williams County
+OH|39|24766|Eldorado village|Incorporated Place|A|Preble County
+OH|39|24794|Elgin village|Incorporated Place|A|Van Wert County
+OH|39|24808|Elida village|Incorporated Place|A|Allen County
+OH|39|24850|Elizabethtown CDP|Census Designated Place|S|Hamilton County
+OH|39|25144|Elmore village|Incorporated Place|A|Ottawa County, Sandusky County
+OH|39|25186|Elmwood Place village|Incorporated Place|A|Hamilton County
+OH|39|25256|Elyria city|Incorporated Place|A|Lorain County
+OH|39|25368|Empire village|Incorporated Place|A|Jefferson County
+OH|39|25396|Englewood city|Incorporated Place|A|Montgomery County
+OH|39|25452|Enon village|Incorporated Place|A|Clark County
+OH|39|25676|Etna CDP|Census Designated Place|S|Licking County
+OH|39|25704|Euclid city|Incorporated Place|A|Cuyahoga County
+OH|39|25802|Evendale village|Incorporated Place|A|Hamilton County
+OH|39|25914|Fairborn city|Incorporated Place|A|Greene County
+OH|39|25942|Fairfax village|Incorporated Place|A|Hamilton County
+OH|39|25970|Fairfield city|Incorporated Place|A|Butler County, Hamilton County
+OH|39|26110|Fairfield Beach CDP|Census Designated Place|S|Fairfield County
+OH|39|26166|Fairlawn city|Incorporated Place|A|Summit County
+OH|39|26306|Fairport Harbor village|Incorporated Place|A|Lake County
+OH|39|26348|Fairview village|Incorporated Place|A|Belmont County, Guernsey County
+OH|39|26446|Fairview Park city|Incorporated Place|A|Cuyahoga County
+OH|39|26656|Farmersville village|Incorporated Place|A|Montgomery County
+OH|39|26768|Fayette village|Incorporated Place|A|Fulton County
+OH|39|26796|Fayetteville village|Incorporated Place|A|Brown County
+OH|39|26880|Felicity village|Incorporated Place|A|Clermont County
+OH|39|27048|Findlay city|Incorporated Place|A|Hancock County
+OH|39|27104|Finneytown CDP|Census Designated Place|S|Hamilton County
+OH|39|27303|Five Points CDP|Census Designated Place|S|Warren County
+OH|39|27356|Flat Rock CDP|Census Designated Place|S|Seneca County
+OH|39|27412|Fletcher village|Incorporated Place|A|Miami County
+OH|39|27538|Florida village|Incorporated Place|A|Henry County
+OH|39|27552|Flushing village|Incorporated Place|A|Belmont County
+OH|39|27636|Forest village|Incorporated Place|A|Hardin County, Wyandot County
+OH|39|27706|Forest Park city|Incorporated Place|A|Hamilton County
+OH|39|27776|Forestville CDP|Census Designated Place|S|Hamilton County
+OH|39|27818|Fort Jennings village|Incorporated Place|A|Putnam County
+OH|39|27832|Fort Loramie village|Incorporated Place|A|Shelby County
+OH|39|27902|Fort Recovery village|Incorporated Place|A|Mercer County
+OH|39|27930|Fort Seneca CDP|Census Designated Place|S|Seneca County
+OH|39|27944|Fort Shawnee village|Incorporated Place|A|Allen County
+OH|39|28014|Fostoria city|Incorporated Place|A|Hancock County, Seneca County, Wood County
+OH|39|28058|Four Bridges CDP|Census Designated Place|S|Butler County
+OH|39|28182|Frankfort village|Incorporated Place|A|Ross County
+OH|39|28476|Franklin city|Incorporated Place|A|Warren County
+OH|39|28532|Franklin Furnace CDP|Census Designated Place|S|Scioto County
+OH|39|28574|Frazeysburg village|Incorporated Place|A|Muskingum County
+OH|39|28616|Fredericksburg village|Incorporated Place|A|Wayne County
+OH|39|28658|Fredericktown village|Incorporated Place|A|Knox County
+OH|39|28798|Freeport village|Incorporated Place|A|Harrison County
+OH|39|28826|Fremont city|Incorporated Place|A|Sandusky County
+OH|39|28882|Fresno CDP|Census Designated Place|S|Coshocton County
+OH|39|28896|Friendship CDP|Census Designated Place|S|Scioto County
+OH|39|28966|Fruit Hill CDP|Census Designated Place|S|Hamilton County
+OH|39|29050|Fulton village|Incorporated Place|A|Morrow County
+OH|39|29064|Fultonham village|Incorporated Place|A|Muskingum County
+OH|39|29106|Gahanna city|Incorporated Place|A|Franklin County
+OH|39|29148|Galena village|Incorporated Place|A|Delaware County
+OH|39|29162|Galion city|Incorporated Place|A|Crawford County, Morrow County, Richland County
+OH|39|29204|Gallipolis village|Incorporated Place|A|Gallia County
+OH|39|29246|Gambier village|Incorporated Place|A|Knox County
+OH|39|29288|Gann village|Incorporated Place|A|Knox County
+OH|39|29428|Garfield Heights city|Incorporated Place|A|Cuyahoga County
+OH|39|29442|Garrettsville village|Incorporated Place|A|Portage County
+OH|39|29498|Gates Mills village|Incorporated Place|A|Cuyahoga County
+OH|39|29610|Geneva city|Incorporated Place|A|Ashtabula County
+OH|39|29652|Geneva-on-the-Lake village|Incorporated Place|A|Ashtabula County
+OH|39|29722|Genoa village|Incorporated Place|A|Ottawa County
+OH|39|29778|Georgetown village|Incorporated Place|A|Brown County
+OH|39|29932|Germantown village|Incorporated Place|A|Montgomery County
+OH|39|29974|Gettysburg village|Incorporated Place|A|Darke County
+OH|39|30072|Gibsonburg village|Incorporated Place|A|Sandusky County
+OH|39|30114|Gilboa village|Incorporated Place|A|Putnam County
+OH|39|30198|Girard city|Incorporated Place|A|Trumbull County
+OH|39|30282|Glandorf village|Incorporated Place|A|Putnam County
+OH|39|30352|Glencoe CDP|Census Designated Place|S|Belmont County
+OH|39|30380|Glendale village|Incorporated Place|A|Hamilton County
+OH|39|30436|Glenford village|Incorporated Place|A|Perry County
+OH|39|30506|Glenmont village|Incorporated Place|A|Holmes County
+OH|39|30520|Glenmoor CDP|Census Designated Place|S|Columbiana County
+OH|39|30632|Glenwillow village|Incorporated Place|A|Cuyahoga County
+OH|39|30660|Gloria Glens Park village|Incorporated Place|A|Medina County
+OH|39|30674|Glouster village|Incorporated Place|A|Athens County
+OH|39|30702|Gnadenhutten village|Incorporated Place|A|Tuscarawas County
+OH|39|30786|Golf Manor village|Incorporated Place|A|Hamilton County
+OH|39|30828|Good Hope CDP|Census Designated Place|S|Fayette County
+OH|39|30912|Gordon village|Incorporated Place|A|Darke County
+OH|39|31150|Grafton village|Incorporated Place|A|Lorain County
+OH|39|31206|Grand Rapids village|Incorporated Place|A|Wood County
+OH|39|31234|Grand River village|Incorporated Place|A|Lake County
+OH|39|31262|Grandview CDP|Census Designated Place|S|Hamilton County
+OH|39|31304|Grandview Heights city|Incorporated Place|A|Franklin County
+OH|39|31402|Granville village|Incorporated Place|A|Licking County
+OH|39|31434|Granville South CDP|Census Designated Place|S|Licking County
+OH|39|31458|Gratiot village|Incorporated Place|A|Licking County, Muskingum County
+OH|39|31472|Gratis village|Incorporated Place|A|Preble County
+OH|39|31542|Graysville village|Incorporated Place|A|Monroe County
+OH|39|31860|Green city|Incorporated Place|A|Summit County
+OH|39|31948|Green Camp village|Incorporated Place|A|Marion County
+OH|39|32088|Greenfield city|Incorporated Place|A|Highland County, Ross County
+OH|39|32158|Greenhills village|Incorporated Place|A|Hamilton County
+OH|39|32207|Green Meadows CDP|Census Designated Place|S|Clark County
+OH|39|32256|Green Springs village|Incorporated Place|A|Sandusky County, Seneca County
+OH|39|32298|Greentown CDP|Census Designated Place|S|Stark County
+OH|39|32340|Greenville city|Incorporated Place|A|Darke County
+OH|39|32368|Greenwich village|Incorporated Place|A|Huron County
+OH|39|32536|Groesbeck CDP|Census Designated Place|S|Hamilton County
+OH|39|32592|Grove City city|Incorporated Place|A|Franklin County
+OH|39|32606|Groveport village|Incorporated Place|A|Franklin County
+OH|39|32620|Grover Hill village|Incorporated Place|A|Paulding County
+OH|39|32956|Hamden village|Incorporated Place|A|Vinton County
+OH|39|32984|Hamersville village|Incorporated Place|A|Brown County
+OH|39|33012|Hamilton city|Incorporated Place|A|Butler County
+OH|39|33096|Hamler village|Incorporated Place|A|Henry County
+OH|39|33194|Hanging Rock village|Incorporated Place|A|Lawrence County
+OH|39|33222|Hannibal CDP|Census Designated Place|S|Monroe County
+OH|39|33292|Hanover village|Incorporated Place|A|Licking County
+OH|39|33306|Hanoverton village|Incorporated Place|A|Columbiana County
+OH|39|33362|Harbor Hills CDP|Census Designated Place|S|Licking County
+OH|39|33376|Harbor View village|Incorporated Place|A|Lucas County
+OH|39|33656|Harpster village|Incorporated Place|A|Wyandot County
+OH|39|33740|Harrisburg village|Incorporated Place|A|Franklin County, Pickaway County
+OH|39|33838|Harrison city|Incorporated Place|A|Hamilton County
+OH|39|34090|Harrisville village|Incorporated Place|A|Harrison County
+OH|39|34118|Harrod village|Incorporated Place|A|Allen County
+OH|39|34202|Hartford village|Incorporated Place|A|Licking County
+OH|39|34328|Hartville village|Incorporated Place|A|Stark County
+OH|39|34384|Harveysburg village|Incorporated Place|A|Warren County
+OH|39|34412|Haskins village|Incorporated Place|A|Wood County
+OH|39|34552|Haviland village|Incorporated Place|A|Paulding County
+OH|39|34594|Haydenville CDP|Census Designated Place|S|Hocking County
+OH|39|34636|Hayesville village|Incorporated Place|A|Ashland County
+OH|39|34748|Heath city|Incorporated Place|A|Licking County
+OH|39|34790|Hebron village|Incorporated Place|A|Licking County
+OH|39|34860|Helena village|Incorporated Place|A|Sandusky County
+OH|39|34888|Hemlock village|Incorporated Place|A|Perry County
+OH|39|35028|Hessville CDP|Census Designated Place|S|Sandusky County
+OH|39|35098|Hicksville village|Incorporated Place|A|Defiance County
+OH|39|35126|Hide-A-Way Hills CDP|Census Designated Place|S|Fairfield County, Hocking County
+OH|39|35168|Higginsport village|Incorporated Place|A|Brown County
+OH|39|35210|Highland village|Incorporated Place|A|Highland County
+OH|39|35252|Highland Heights city|Incorporated Place|A|Cuyahoga County
+OH|39|35255|Highland Hills village|Incorporated Place|A|Cuyahoga County
+OH|39|35256|Highland Holiday CDP|Census Designated Place|S|Highland County
+OH|39|35322|Highpoint CDP|Census Designated Place|S|Hamilton County
+OH|39|35476|Hilliard city|Incorporated Place|A|Franklin County
+OH|39|35532|Hills and Dales village|Incorporated Place|A|Stark County
+OH|39|35560|Hillsboro city|Incorporated Place|A|Highland County
+OH|39|35613|Hilltop CDP|Census Designated Place|S|Trumbull County
+OH|39|35658|Hiram village|Incorporated Place|A|Portage County
+OH|39|35826|Hockingport CDP|Census Designated Place|S|Athens County
+OH|39|35854|Holgate village|Incorporated Place|A|Henry County
+OH|39|35864|Holiday City village|Incorporated Place|A|Williams County
+OH|39|35866|Holiday Lakes CDP|Census Designated Place|S|Huron County
+OH|39|35868|Holiday Valley CDP|Census Designated Place|S|Clark County
+OH|39|35882|Holland village|Incorporated Place|A|Lucas County
+OH|39|35896|Hollansburg village|Incorporated Place|A|Darke County
+OH|39|35924|Holloway village|Incorporated Place|A|Belmont County
+OH|39|35994|Holmesville village|Incorporated Place|A|Holmes County
+OH|39|36176|Homeworth CDP|Census Designated Place|S|Columbiana County
+OH|39|36232|Hooven CDP|Census Designated Place|S|Hamilton County
+OH|39|36260|Hopedale village|Incorporated Place|A|Harrison County
+OH|39|36512|Howard CDP|Census Designated Place|S|Knox County
+OH|39|36557|Howland Center CDP|Census Designated Place|S|Trumbull County
+OH|39|36568|Hoytville village|Incorporated Place|A|Wood County
+OH|39|36582|Hubbard city|Incorporated Place|A|Trumbull County
+OH|39|36610|Huber Heights city|Incorporated Place|A|Greene County, Miami County, Montgomery County
+OH|39|36624|Huber Ridge CDP|Census Designated Place|S|Franklin County
+OH|39|36651|Hudson city|Incorporated Place|A|Summit County
+OH|39|36806|Hunter CDP|Census Designated Place|S|Warren County
+OH|39|36918|Hunting Valley village|Incorporated Place|A|Cuyahoga County, Geauga County
+OH|39|36988|Huntsville village|Incorporated Place|A|Logan County
+OH|39|37016|Huron city|Incorporated Place|A|Erie County
+OH|39|37142|Iberia CDP|Census Designated Place|S|Morrow County
+OH|39|37240|Independence city|Incorporated Place|A|Cuyahoga County
+OH|39|37422|Irondale village|Incorporated Place|A|Jefferson County
+OH|39|37464|Ironton city|Incorporated Place|A|Lawrence County
+OH|39|37604|Ithaca village|Incorporated Place|A|Darke County
+OH|39|37842|Jackson city|Incorporated Place|A|Jackson County
+OH|39|38192|Jacksonburg village|Incorporated Place|A|Butler County
+OH|39|38220|Jackson Center village|Incorporated Place|A|Shelby County
+OH|39|38304|Jacksonville village|Incorporated Place|A|Athens County
+OH|39|38374|Jamestown village|Incorporated Place|A|Greene County
+OH|39|38500|Jefferson village|Incorporated Place|A|Ashtabula County
+OH|39|38920|Jeffersonville village|Incorporated Place|A|Fayette County
+OH|39|38948|Jenera village|Incorporated Place|A|Hancock County
+OH|39|39060|Jeromesville village|Incorporated Place|A|Ashland County
+OH|39|39074|Jerry City village|Incorporated Place|A|Wood County
+OH|39|39130|Jerusalem village|Incorporated Place|A|Monroe County
+OH|39|39172|Jewett village|Incorporated Place|A|Harrison County
+OH|39|39340|Johnstown village|Incorporated Place|A|Licking County
+OH|39|39508|Junction City village|Incorporated Place|A|Perry County
+OH|39|39536|Kalida village|Incorporated Place|A|Putnam County
+OH|39|39564|Kanauga CDP|Census Designated Place|S|Gallia County
+OH|39|39578|Kansas CDP|Census Designated Place|S|Seneca County
+OH|39|39662|Kelleys Island village|Incorporated Place|A|Erie County
+OH|39|39872|Kent city|Incorporated Place|A|Portage County
+OH|39|39886|Kenton city|Incorporated Place|A|Hardin County
+OH|39|39914|Kenwood CDP|Census Designated Place|S|Hamilton County
+OH|39|40040|Kettering city|Incorporated Place|A|Greene County, Montgomery County
+OH|39|40054|Kettlersville village|Incorporated Place|A|Shelby County
+OH|39|40096|Kidron CDP|Census Designated Place|S|Wayne County
+OH|39|40124|Kilbourne CDP|Census Designated Place|S|Delaware County
+OH|39|40180|Killbuck village|Incorporated Place|A|Holmes County
+OH|39|40264|Kimbolton CDP|Census Designated Place|S|Guernsey County
+OH|39|40348|Kings Mills CDP|Census Designated Place|S|Warren County
+OH|39|40376|Kingston village|Incorporated Place|A|Ross County
+OH|39|40507|Kinsman Center CDP|Census Designated Place|S|Trumbull County
+OH|39|40544|Kipton village|Incorporated Place|A|Lorain County
+OH|39|40558|Kirby village|Incorporated Place|A|Wyandot County
+OH|39|40572|Kirkersville village|Incorporated Place|A|Licking County
+OH|39|40642|Kirtland city|Incorporated Place|A|Lake County
+OH|39|40670|Kirtland Hills village|Incorporated Place|A|Lake County
+OH|39|40978|Kunkle CDP|Census Designated Place|S|Williams County
+OH|39|41090|La Croft CDP|Census Designated Place|S|Columbiana County
+OH|39|41118|Lafayette village|Incorporated Place|A|Allen County
+OH|39|41146|Lafayette CDP|Census Designated Place|S|Madison County
+OH|39|41188|Lafferty CDP|Census Designated Place|S|Belmont County
+OH|39|41230|LaGrange village|Incorporated Place|A|Lorain County
+OH|39|41349|Lake Buckhorn CDP|Census Designated Place|S|Holmes County
+OH|39|41363|Lake Darby CDP|Census Designated Place|S|Franklin County
+OH|39|41373|Lake Lakengren CDP|Census Designated Place|S|Preble County
+OH|39|41398|Lakeline village|Incorporated Place|A|Lake County
+OH|39|41419|Lake Lorelei CDP|Census Designated Place|S|Brown County
+OH|39|41443|Lake Mohawk CDP|Census Designated Place|S|Carroll County
+OH|39|41454|Lakemore village|Incorporated Place|A|Summit County
+OH|39|41500|Lake Seneca CDP|Census Designated Place|S|Williams County
+OH|39|41552|Lakeside CDP|Census Designated Place|S|Ottawa County
+OH|39|41597|Lake Tomahawk CDP|Census Designated Place|S|Columbiana County
+OH|39|41608|Lakeview village|Incorporated Place|A|Logan County
+OH|39|41657|Lake Waynoka CDP|Census Designated Place|S|Brown County
+OH|39|41664|Lakewood city|Incorporated Place|A|Cuyahoga County
+OH|39|41720|Lancaster city|Incorporated Place|A|Fairfield County
+OH|39|41755|Landen CDP|Census Designated Place|S|Warren County
+OH|39|41860|Lansing CDP|Census Designated Place|S|Belmont County
+OH|39|41902|La Rue village|Incorporated Place|A|Marion County
+OH|39|41986|Latty village|Incorporated Place|A|Paulding County
+OH|39|42028|Laura village|Incorporated Place|A|Miami County
+OH|39|42084|Laurelville village|Incorporated Place|A|Hocking County
+OH|39|42308|Leavittsburg CDP|Census Designated Place|S|Trumbull County
+OH|39|42364|Lebanon city|Incorporated Place|A|Warren County
+OH|39|42476|Leesburg village|Incorporated Place|A|Highland County
+OH|39|42518|Leesville village|Incorporated Place|A|Carroll County
+OH|39|42560|Leetonia village|Incorporated Place|A|Columbiana County
+OH|39|42602|Leipsic village|Incorporated Place|A|Putnam County
+OH|39|42938|Lewisburg village|Incorporated Place|A|Preble County
+OH|39|42966|Lewistown CDP|Census Designated Place|S|Logan County
+OH|39|42980|Lewisville village|Incorporated Place|A|Monroe County
+OH|39|42994|Lexington village|Incorporated Place|A|Richland County
+OH|39|43414|Liberty Center village|Incorporated Place|A|Henry County
+OH|39|43554|Lima city|Incorporated Place|A|Allen County
+OH|39|43596|Limaville village|Incorporated Place|A|Stark County
+OH|39|43722|Lincoln Heights village|Incorporated Place|A|Hamilton County
+OH|39|43792|Lincoln Village CDP|Census Designated Place|S|Franklin County
+OH|39|43904|Lindsey village|Incorporated Place|A|Sandusky County
+OH|39|43918|Linndale village|Incorporated Place|A|Cuyahoga County
+OH|39|44030|Lisbon village|Incorporated Place|A|Columbiana County
+OH|39|44086|Lithopolis village|Incorporated Place|A|Fairfield County, Franklin County
+OH|39|44128|Little Hocking CDP|Census Designated Place|S|Washington County
+OH|39|44310|Lockbourne village|Incorporated Place|A|Franklin County, Pickaway County
+OH|39|44352|Lockington village|Incorporated Place|A|Shelby County
+OH|39|44366|Lockland village|Incorporated Place|A|Hamilton County
+OH|39|44604|Lodi village|Incorporated Place|A|Medina County
+OH|39|44632|Logan city|Incorporated Place|A|Hocking County
+OH|39|44636|Logan Elm Village CDP|Census Designated Place|S|Pickaway County
+OH|39|44674|London city|Incorporated Place|A|Madison County
+OH|39|44856|Lorain city|Incorporated Place|A|Lorain County
+OH|39|44912|Lordstown village|Incorporated Place|A|Trumbull County
+OH|39|44954|Lore City village|Incorporated Place|A|Guernsey County
+OH|39|45066|Loudonville village|Incorporated Place|A|Ashland County, Holmes County
+OH|39|45094|Louisville city|Incorporated Place|A|Stark County
+OH|39|45108|Loveland city|Incorporated Place|A|Clermont County, Hamilton County, Warren County
+OH|39|45122|Loveland Park CDP|Census Designated Place|S|Hamilton County, Warren County
+OH|39|45164|Lowell village|Incorporated Place|A|Washington County
+OH|39|45178|Lowellville village|Incorporated Place|A|Mahoning County
+OH|39|45220|Lower Salem village|Incorporated Place|A|Washington County
+OH|39|45276|Lucas village|Incorporated Place|A|Richland County
+OH|39|45304|Lucasville CDP|Census Designated Place|S|Scioto County
+OH|39|45332|Luckey village|Incorporated Place|A|Wood County
+OH|39|45374|Ludlow Falls village|Incorporated Place|A|Miami County
+OH|39|45542|Lynchburg village|Incorporated Place|A|Clinton County, Highland County
+OH|39|45556|Lyndhurst city|Incorporated Place|A|Cuyahoga County
+OH|39|45626|Lyons village|Incorporated Place|A|Fulton County
+OH|39|45696|McArthur village|Incorporated Place|A|Vinton County
+OH|39|45794|McClure village|Incorporated Place|A|Henry County
+OH|39|45808|McComb village|Incorporated Place|A|Hancock County
+OH|39|45822|McConnelsville village|Incorporated Place|A|Morgan County
+OH|39|45892|McCutchenville CDP|Census Designated Place|S|Seneca County, Wyandot County
+OH|39|45906|McDermott CDP|Census Designated Place|S|Scioto County
+OH|39|45934|McDonald village|Incorporated Place|A|Trumbull County
+OH|39|45976|Macedonia city|Incorporated Place|A|Summit County
+OH|39|46046|McGuffey village|Incorporated Place|A|Hardin County
+OH|39|46088|Mack CDP|Census Designated Place|S|Hamilton County
+OH|39|46144|McKinley Heights CDP|Census Designated Place|S|Trumbull County
+OH|39|46158|Macksburg village|Incorporated Place|A|Washington County
+OH|39|46312|Madeira city|Incorporated Place|A|Hamilton County
+OH|39|46480|Madison village|Incorporated Place|A|Lake County
+OH|39|46830|Magnetic Springs village|Incorporated Place|A|Union County
+OH|39|46844|Magnolia village|Incorporated Place|A|Carroll County, Stark County
+OH|39|46872|Maineville village|Incorporated Place|A|Warren County
+OH|39|46942|Malinta village|Incorporated Place|A|Henry County
+OH|39|46970|Malta village|Incorporated Place|A|Morgan County
+OH|39|46998|Malvern village|Incorporated Place|A|Carroll County
+OH|39|47012|Manchester village|Incorporated Place|A|Adams County
+OH|39|47138|Mansfield city|Incorporated Place|A|Richland County
+OH|39|47180|Mantua village|Incorporated Place|A|Portage County
+OH|39|47306|Maple Heights city|Incorporated Place|A|Cuyahoga County
+OH|39|47362|Maple Ridge CDP|Census Designated Place|S|Mahoning County
+OH|39|47445|Maplewood Park CDP|Census Designated Place|S|Trumbull County
+OH|39|47474|Marble Cliff village|Incorporated Place|A|Franklin County
+OH|39|47502|Marblehead village|Incorporated Place|A|Ottawa County
+OH|39|47558|Marengo village|Incorporated Place|A|Morrow County
+OH|39|47600|Mariemont village|Incorporated Place|A|Hamilton County
+OH|39|47628|Marietta city|Incorporated Place|A|Washington County
+OH|39|47754|Marion city|Incorporated Place|A|Marion County
+OH|39|47950|Marne CDP|Census Designated Place|S|Licking County
+OH|39|47992|Marseilles village|Incorporated Place|A|Wyandot County
+OH|39|48048|Marshallville village|Incorporated Place|A|Wayne County
+OH|39|48090|Martinsburg village|Incorporated Place|A|Knox County
+OH|39|48104|Martins Ferry city|Incorporated Place|A|Belmont County
+OH|39|48118|Martinsville village|Incorporated Place|A|Clinton County
+OH|39|48160|Marysville city|Incorporated Place|A|Union County
+OH|39|48188|Mason city|Incorporated Place|A|Warren County
+OH|39|48244|Massillon city|Incorporated Place|A|Stark County
+OH|39|48272|Masury CDP|Census Designated Place|S|Trumbull County
+OH|39|48286|Matamoras village|Incorporated Place|A|Washington County
+OH|39|48342|Maumee city|Incorporated Place|A|Lucas County
+OH|39|48468|Mayfield village|Incorporated Place|A|Cuyahoga County
+OH|39|48482|Mayfield Heights city|Incorporated Place|A|Cuyahoga County
+OH|39|48706|Mechanicsburg village|Incorporated Place|A|Champaign County
+OH|39|48790|Medina city|Incorporated Place|A|Medina County
+OH|39|48972|Melmore CDP|Census Designated Place|S|Seneca County
+OH|39|49000|Melrose village|Incorporated Place|A|Paulding County
+OH|39|49042|Mendon village|Incorporated Place|A|Mercer County
+OH|39|49056|Mentor city|Incorporated Place|A|Lake County
+OH|39|49098|Mentor-on-the-Lake city|Incorporated Place|A|Lake County
+OH|39|49238|Metamora village|Incorporated Place|A|Fulton County
+OH|39|49294|Meyers Lake village|Incorporated Place|A|Stark County
+OH|39|49420|Miami Heights CDP|Census Designated Place|S|Hamilton County
+OH|39|49434|Miamisburg city|Incorporated Place|A|Montgomery County
+OH|39|49462|Miamitown CDP|Census Designated Place|S|Hamilton County
+OH|39|49504|Miamiville CDP|Census Designated Place|S|Clermont County
+OH|39|49644|Middleburg Heights city|Incorporated Place|A|Cuyahoga County
+OH|39|49700|Middlefield village|Incorporated Place|A|Geauga County
+OH|39|49728|Middle Point village|Incorporated Place|A|Van Wert County
+OH|39|49756|Middleport village|Incorporated Place|A|Meigs County
+OH|39|49840|Middletown city|Incorporated Place|A|Butler County, Warren County
+OH|39|49896|Midland village|Incorporated Place|A|Clinton County
+OH|39|49966|Midvale village|Incorporated Place|A|Tuscarawas County
+OH|39|50008|Midway village|Incorporated Place|A|Madison County
+OH|39|50036|Mifflin village|Incorporated Place|A|Ashland County
+OH|39|50134|Milan village|Incorporated Place|A|Erie County, Huron County
+OH|39|50176|Milford city|Incorporated Place|A|Clermont County, Hamilton County
+OH|39|50218|Milford Center village|Incorporated Place|A|Union County
+OH|39|50260|Millbury village|Incorporated Place|A|Wood County
+OH|39|50316|Milledgeville village|Incorporated Place|A|Fayette County
+OH|39|50358|Miller City village|Incorporated Place|A|Putnam County
+OH|39|50372|Millersburg village|Incorporated Place|A|Holmes County
+OH|39|50400|Millersport village|Incorporated Place|A|Fairfield County
+OH|39|50456|Millfield CDP|Census Designated Place|S|Athens County
+OH|39|50540|Millville village|Incorporated Place|A|Butler County
+OH|39|50708|Milton Center village|Incorporated Place|A|Wood County
+OH|39|50722|Miltonsburg village|Incorporated Place|A|Monroe County
+OH|39|50764|Mineral City village|Incorporated Place|A|Tuscarawas County
+OH|39|50778|Mineral Ridge CDP|Census Designated Place|S|Mahoning County, Trumbull County
+OH|39|50834|Minerva village|Incorporated Place|A|Carroll County, Columbiana County, Stark County
+OH|39|50862|Minerva Park village|Incorporated Place|A|Franklin County
+OH|39|50876|Minford CDP|Census Designated Place|S|Scioto County
+OH|39|50904|Mingo Junction village|Incorporated Place|A|Jefferson County
+OH|39|50918|Minster village|Incorporated Place|A|Auglaize County
+OH|39|51058|Mogadore village|Incorporated Place|A|Portage County, Summit County
+OH|39|51212|Monfort Heights CDP|Census Designated Place|S|Hamilton County
+OH|39|51310|Monroe city|Incorporated Place|A|Butler County, Warren County
+OH|39|51618|Monroeville village|Incorporated Place|A|Huron County
+OH|39|51674|Montezuma village|Incorporated Place|A|Mercer County
+OH|39|51716|Montgomery city|Incorporated Place|A|Hamilton County
+OH|39|51772|Montpelier village|Incorporated Place|A|Williams County
+OH|39|51816|Montrose-Ghent CDP|Census Designated Place|S|Summit County
+OH|39|52010|Moraine city|Incorporated Place|A|Montgomery County
+OH|39|52052|Moreland Hills village|Incorporated Place|A|Cuyahoga County
+OH|39|52178|Morgandale CDP|Census Designated Place|S|Trumbull County
+OH|39|52276|Morral village|Incorporated Place|A|Marion County
+OH|39|52346|Morristown village|Incorporated Place|A|Belmont County
+OH|39|52374|Morrow village|Incorporated Place|A|Warren County
+OH|39|52416|Moscow village|Incorporated Place|A|Clermont County
+OH|39|52598|Mount Blanchard village|Incorporated Place|A|Hancock County
+OH|39|52612|Mount Carmel CDP|Census Designated Place|S|Clermont County
+OH|39|52668|Mount Cory village|Incorporated Place|A|Hancock County
+OH|39|52682|Mount Eaton village|Incorporated Place|A|Wayne County
+OH|39|52738|Mount Gilead village|Incorporated Place|A|Morrow County
+OH|39|52752|Mount Healthy city|Incorporated Place|A|Hamilton County
+OH|39|52780|Mount Healthy Heights CDP|Census Designated Place|S|Hamilton County
+OH|39|52906|Mount Orab village|Incorporated Place|A|Brown County
+OH|39|52976|Mount Pleasant village|Incorporated Place|A|Jefferson County
+OH|39|53032|Mount Repose CDP|Census Designated Place|S|Clermont County
+OH|39|53046|Mount Sterling village|Incorporated Place|A|Madison County
+OH|39|53102|Mount Vernon city|Incorporated Place|A|Knox County
+OH|39|53144|Mount Victory village|Incorporated Place|A|Hardin County
+OH|39|53186|Mowrystown village|Incorporated Place|A|Highland County
+OH|39|53270|Mulberry CDP|Census Designated Place|S|Clermont County
+OH|39|53312|Munroe Falls city|Incorporated Place|A|Summit County
+OH|39|53410|Murray City village|Incorporated Place|A|Hocking County
+OH|39|53480|Mutual village|Incorporated Place|A|Champaign County
+OH|39|53550|Napoleon city|Incorporated Place|A|Henry County
+OH|39|53634|Nashville village|Incorporated Place|A|Holmes County
+OH|39|53690|Navarre village|Incorporated Place|A|Stark County
+OH|39|53718|Neapolis CDP|Census Designated Place|S|Lucas County
+OH|39|53788|Neffs CDP|Census Designated Place|S|Belmont County
+OH|39|53802|Negley CDP|Census Designated Place|S|Columbiana County
+OH|39|53816|Nellie village|Incorporated Place|A|Coshocton County
+OH|39|53886|Nelsonville city|Incorporated Place|A|Athens County
+OH|39|53942|Nevada village|Incorporated Place|A|Wyandot County
+OH|39|53956|Neville village|Incorporated Place|A|Clermont County
+OH|39|53970|New Albany village|Incorporated Place|A|Franklin County, Licking County
+OH|39|54012|New Alexandria village|Incorporated Place|A|Jefferson County
+OH|39|54040|Newark city|Incorporated Place|A|Licking County
+OH|39|54068|New Athens village|Incorporated Place|A|Harrison County
+OH|39|54082|New Baltimore CDP|Census Designated Place|S|Hamilton County
+OH|39|54110|New Bavaria village|Incorporated Place|A|Henry County
+OH|39|54152|New Bloomington village|Incorporated Place|A|Marion County
+OH|39|54166|New Boston village|Incorporated Place|A|Scioto County
+OH|39|54194|New Bremen village|Incorporated Place|A|Auglaize County
+OH|39|54250|Newburgh Heights village|Incorporated Place|A|Cuyahoga County
+OH|39|54264|New Burlington CDP|Census Designated Place|S|Hamilton County
+OH|39|54320|New California CDP|Census Designated Place|S|Union County
+OH|39|54334|New Carlisle city|Incorporated Place|A|Clark County
+OH|39|54432|Newcomerstown village|Incorporated Place|A|Tuscarawas County
+OH|39|54446|New Concord village|Incorporated Place|A|Muskingum County
+OH|39|54562|New Franklin city|Incorporated Place|A|Summit County
+OH|39|54628|New Hampshire CDP|Census Designated Place|S|Auglaize County
+OH|39|54684|New Haven CDP|Census Designated Place|S|Hamilton County
+OH|39|54698|New Haven CDP|Census Designated Place|S|Huron County
+OH|39|54726|New Holland village|Incorporated Place|A|Fayette County, Pickaway County
+OH|39|54838|New Knoxville village|Incorporated Place|A|Auglaize County
+OH|39|54852|New Lebanon village|Incorporated Place|A|Montgomery County
+OH|39|54866|New Lexington village|Incorporated Place|A|Perry County
+OH|39|54908|New London village|Incorporated Place|A|Huron County
+OH|39|54978|New Madison village|Incorporated Place|A|Darke County
+OH|39|55062|New Marshfield CDP|Census Designated Place|S|Athens County
+OH|39|55104|New Miami village|Incorporated Place|A|Butler County
+OH|39|55118|New Middletown village|Incorporated Place|A|Mahoning County
+OH|39|55188|New Paris village|Incorporated Place|A|Preble County
+OH|39|55216|New Philadelphia city|Incorporated Place|A|Tuscarawas County
+OH|39|55244|New Pittsburg CDP|Census Designated Place|S|Wayne County
+OH|39|55314|Newport CDP|Census Designated Place|S|Shelby County
+OH|39|55342|Newport CDP|Census Designated Place|S|Washington County
+OH|39|55384|New Richmond village|Incorporated Place|A|Clermont County
+OH|39|55398|New Riegel village|Incorporated Place|A|Seneca County
+OH|39|55552|New Straitsville village|Incorporated Place|A|Perry County
+OH|39|55650|Newton Falls city|Incorporated Place|A|Trumbull County
+OH|39|55664|Newtonsville village|Incorporated Place|A|Clermont County
+OH|39|55678|Newtown village|Incorporated Place|A|Hamilton County
+OH|39|55748|New Vienna village|Incorporated Place|A|Clinton County
+OH|39|55776|New Washington village|Incorporated Place|A|Crawford County
+OH|39|55790|New Waterford village|Incorporated Place|A|Columbiana County
+OH|39|55818|New Weston village|Incorporated Place|A|Darke County
+OH|39|55874|Ney village|Incorporated Place|A|Defiance County
+OH|39|55916|Niles city|Incorporated Place|A|Trumbull County
+OH|39|56154|North Baltimore village|Incorporated Place|A|Wood County
+OH|39|56182|North Bend village|Incorporated Place|A|Hamilton County
+OH|39|56280|Northbrook CDP|Census Designated Place|S|Hamilton County
+OH|39|56294|North Canton city|Incorporated Place|A|Stark County
+OH|39|56322|North College Hill city|Incorporated Place|A|Hamilton County
+OH|39|56420|North Fairfield village|Incorporated Place|A|Huron County
+OH|39|56448|Northfield village|Incorporated Place|A|Summit County
+OH|39|56553|Northgate CDP|Census Designated Place|S|Hamilton County
+OH|39|56588|North Hampton village|Incorporated Place|A|Clark County
+OH|39|56700|North Kingsville village|Incorporated Place|A|Ashtabula County
+OH|39|56756|North Lawrence CDP|Census Designated Place|S|Stark County
+OH|39|56770|North Lewisburg village|Incorporated Place|A|Champaign County
+OH|39|56812|North Madison CDP|Census Designated Place|S|Lake County
+OH|39|56882|North Olmsted city|Incorporated Place|A|Cuyahoga County
+OH|39|56910|North Perry village|Incorporated Place|A|Lake County
+OH|39|56924|North Randall village|Incorporated Place|A|Cuyahoga County
+OH|39|56938|Northridge CDP|Census Designated Place|S|Clark County
+OH|39|56966|North Ridgeville city|Incorporated Place|A|Lorain County
+OH|39|56994|North Robinson village|Incorporated Place|A|Crawford County
+OH|39|57008|North Royalton city|Incorporated Place|A|Cuyahoga County
+OH|39|57064|North Star village|Incorporated Place|A|Darke County
+OH|39|57190|Northwood city|Incorporated Place|A|Wood County
+OH|39|57218|North Zanesville CDP|Census Designated Place|S|Muskingum County
+OH|39|57260|Norton city|Incorporated Place|A|Summit County, Wayne County
+OH|39|57302|Norwalk city|Incorporated Place|A|Huron County
+OH|39|57372|Norwich village|Incorporated Place|A|Muskingum County
+OH|39|57386|Norwood city|Incorporated Place|A|Hamilton County
+OH|39|57582|Oak Harbor village|Incorporated Place|A|Ottawa County
+OH|39|57596|Oak Hill village|Incorporated Place|A|Jackson County
+OH|39|57750|Oakwood village|Incorporated Place|A|Cuyahoga County
+OH|39|57764|Oakwood city|Incorporated Place|A|Montgomery County
+OH|39|57792|Oakwood village|Incorporated Place|A|Paulding County
+OH|39|57834|Oberlin city|Incorporated Place|A|Lorain County
+OH|39|57862|Obetz village|Incorporated Place|A|Franklin County
+OH|39|57876|Oceola CDP|Census Designated Place|S|Crawford County
+OH|39|57918|Octa village|Incorporated Place|A|Fayette County
+OH|39|58002|Ohio City village|Incorporated Place|A|Van Wert County
+OH|39|58149|Olde West Chester CDP|Census Designated Place|S|Butler County
+OH|39|58156|Old Fort CDP|Census Designated Place|S|Seneca County
+OH|39|58226|Old Washington village|Incorporated Place|A|Guernsey County
+OH|39|58422|Olmsted Falls city|Incorporated Place|A|Cuyahoga County
+OH|39|58520|Ontario city|Incorporated Place|A|Richland County
+OH|39|58604|Orange village|Incorporated Place|A|Cuyahoga County
+OH|39|58674|Orangeville village|Incorporated Place|A|Trumbull County
+OH|39|58730|Oregon city|Incorporated Place|A|Lucas County
+OH|39|58800|Orient village|Incorporated Place|A|Pickaway County
+OH|39|58828|Orrville city|Incorporated Place|A|Wayne County
+OH|39|58856|Orwell village|Incorporated Place|A|Ashtabula County
+OH|39|58912|Osgood village|Incorporated Place|A|Darke County
+OH|39|58940|Ostrander village|Incorporated Place|A|Delaware County
+OH|39|58982|Ottawa village|Incorporated Place|A|Putnam County
+OH|39|59010|Ottawa Hills village|Incorporated Place|A|Lucas County
+OH|39|59052|Ottoville village|Incorporated Place|A|Putnam County
+OH|39|59066|Otway village|Incorporated Place|A|Scioto County
+OH|39|59220|Owensville village|Incorporated Place|A|Clermont County
+OH|39|59234|Oxford city|Incorporated Place|A|Butler County
+OH|39|59416|Painesville city|Incorporated Place|A|Lake County
+OH|39|59598|Palestine village|Incorporated Place|A|Darke County
+OH|39|59724|Pancoastburg CDP|Census Designated Place|S|Fayette County
+OH|39|59738|Pandora village|Incorporated Place|A|Putnam County
+OH|39|59920|Park Layne CDP|Census Designated Place|S|Clark County
+OH|39|61000|Parma city|Incorporated Place|A|Cuyahoga County
+OH|39|61028|Parma Heights city|Incorporated Place|A|Cuyahoga County
+OH|39|61056|Parral village|Incorporated Place|A|Tuscarawas County
+OH|39|61112|Pataskala city|Incorporated Place|A|Licking County
+OH|39|61182|Patterson village|Incorporated Place|A|Hardin County
+OH|39|61252|Paulding village|Incorporated Place|A|Paulding County
+OH|39|61322|Payne village|Incorporated Place|A|Paulding County
+OH|39|61420|Peebles village|Incorporated Place|A|Adams County
+OH|39|61504|Pemberville village|Incorporated Place|A|Wood County
+OH|39|61574|Peninsula village|Incorporated Place|A|Summit County
+OH|39|61686|Pepper Pike city|Incorporated Place|A|Cuyahoga County
+OH|39|61882|Perry village|Incorporated Place|A|Lake County
+OH|39|62134|Perry Heights CDP|Census Designated Place|S|Stark County
+OH|39|62148|Perrysburg city|Incorporated Place|A|Wood County
+OH|39|62190|Perrysville village|Incorporated Place|A|Ashland County
+OH|39|62344|Pettisville CDP|Census Designated Place|S|Fulton County
+OH|39|62404|Pheasant Run CDP|Census Designated Place|S|Lorain County
+OH|39|62414|Phillipsburg village|Incorporated Place|A|Montgomery County
+OH|39|62442|Philo village|Incorporated Place|A|Muskingum County
+OH|39|62498|Pickerington city|Incorporated Place|A|Fairfield County, Franklin County
+OH|39|62578|Pigeon Creek CDP|Census Designated Place|S|Summit County
+OH|39|62708|Piketon village|Incorporated Place|A|Pike County
+OH|39|62834|Pioneer village|Incorporated Place|A|Williams County
+OH|39|62848|Piqua city|Incorporated Place|A|Miami County
+OH|39|62890|Pitsburg village|Incorporated Place|A|Darke County
+OH|39|63030|Plain City village|Incorporated Place|A|Madison County, Union County
+OH|39|63044|Plainfield village|Incorporated Place|A|Coshocton County
+OH|39|63072|Plainville CDP|Census Designated Place|S|Hamilton County
+OH|39|63436|Pleasant City village|Incorporated Place|A|Guernsey County
+OH|39|63478|Pleasant Grove CDP|Census Designated Place|S|Muskingum County
+OH|39|63534|Pleasant Hill village|Incorporated Place|A|Miami County
+OH|39|63548|Pleasant Hills CDP|Census Designated Place|S|Hamilton County
+OH|39|63576|Pleasant Plain village|Incorporated Place|A|Warren County
+OH|39|63604|Pleasant Run CDP|Census Designated Place|S|Hamilton County
+OH|39|63618|Pleasant Run Farm CDP|Census Designated Place|S|Hamilton County
+OH|39|63716|Pleasantville village|Incorporated Place|A|Fairfield County
+OH|39|63758|Plumwood CDP|Census Designated Place|S|Madison County
+OH|39|63800|Plymouth village|Incorporated Place|A|Huron County, Richland County
+OH|39|63954|Poland village|Incorporated Place|A|Mahoning County
+OH|39|63996|Polk village|Incorporated Place|A|Ashland County
+OH|39|64024|Pomeroy village|Incorporated Place|A|Meigs County
+OH|39|64108|Portage village|Incorporated Place|A|Wood County
+OH|39|64136|Portage Lakes CDP|Census Designated Place|S|Summit County
+OH|39|64150|Port Clinton city|Incorporated Place|A|Ottawa County
+OH|39|64262|Port Jefferson village|Incorporated Place|A|Shelby County
+OH|39|64304|Portsmouth city|Incorporated Place|A|Scioto County
+OH|39|64346|Port Washington village|Incorporated Place|A|Tuscarawas County
+OH|39|64360|Port William village|Incorporated Place|A|Clinton County
+OH|39|64430|Potsdam village|Incorporated Place|A|Miami County
+OH|39|64472|Pottery Addition CDP|Census Designated Place|S|Jefferson County
+OH|39|64486|Powell city|Incorporated Place|A|Delaware County
+OH|39|64542|Powhatan Point village|Incorporated Place|A|Belmont County
+OH|39|64766|Proctorville village|Incorporated Place|A|Lawrence County
+OH|39|64780|Prospect village|Incorporated Place|A|Marion County
+OH|39|64906|Pulaski CDP|Census Designated Place|S|Williams County
+OH|39|65032|Put-in-Bay village|Incorporated Place|A|Ottawa County
+OH|39|65116|Quaker City village|Incorporated Place|A|Guernsey County
+OH|39|65200|Quincy village|Incorporated Place|A|Logan County
+OH|39|65256|Racine village|Incorporated Place|A|Meigs County
+OH|39|65298|Radnor CDP|Census Designated Place|S|Delaware County
+OH|39|65508|Rarden village|Incorporated Place|A|Scioto County
+OH|39|65592|Ravenna city|Incorporated Place|A|Portage County
+OH|39|65634|Rawson village|Incorporated Place|A|Hancock County
+OH|39|65662|Rayland village|Incorporated Place|A|Jefferson County
+OH|39|65676|Raymond CDP|Census Designated Place|S|Union County
+OH|39|65732|Reading city|Incorporated Place|A|Hamilton County
+OH|39|66152|Reminderville village|Incorporated Place|A|Summit County
+OH|39|66180|Remington CDP|Census Designated Place|S|Hamilton County
+OH|39|66222|Rendville village|Incorporated Place|A|Perry County
+OH|39|66250|Reno CDP|Census Designated Place|S|Washington County
+OH|39|66320|Republic village|Incorporated Place|A|Seneca County
+OH|39|66390|Reynoldsburg city|Incorporated Place|A|Fairfield County, Franklin County, Licking County
+OH|39|66530|Richfield village|Incorporated Place|A|Summit County
+OH|39|66824|Richmond village|Incorporated Place|A|Jefferson County
+OH|39|66880|Richmond Dale CDP|Census Designated Place|S|Ross County
+OH|39|66894|Richmond Heights city|Incorporated Place|A|Cuyahoga County
+OH|39|66922|Richville CDP|Census Designated Place|S|Stark County
+OH|39|66936|Richwood village|Incorporated Place|A|Union County
+OH|39|67104|Ridgeville Corners CDP|Census Designated Place|S|Henry County
+OH|39|67118|Ridgeway village|Incorporated Place|A|Hardin County, Logan County
+OH|39|67258|Rio Grande village|Incorporated Place|A|Gallia County
+OH|39|67272|Ripley village|Incorporated Place|A|Brown County
+OH|39|67314|Risingsun village|Incorporated Place|A|Wood County
+OH|39|67356|Rittman city|Incorporated Place|A|Medina County, Wayne County
+OH|39|67440|Riverlea village|Incorporated Place|A|Franklin County
+OH|39|67468|Riverside city|Incorporated Place|A|Montgomery County
+OH|39|67600|Roaming Shores village|Incorporated Place|A|Ashtabula County
+OH|39|67664|Robertsville CDP|Census Designated Place|S|Stark County
+OH|39|67762|Rochester village|Incorporated Place|A|Lorain County
+OH|39|67804|Rockbridge CDP|Census Designated Place|S|Hocking County
+OH|39|67846|Rock Creek village|Incorporated Place|A|Ashtabula County
+OH|39|67874|Rockford village|Incorporated Place|A|Mercer County
+OH|39|68004|Rocky Fork Point CDP|Census Designated Place|S|Highland County
+OH|39|68042|Rocky Ridge village|Incorporated Place|A|Ottawa County
+OH|39|68056|Rocky River city|Incorporated Place|A|Cuyahoga County
+OH|39|68084|Rogers village|Incorporated Place|A|Columbiana County
+OH|39|68196|Rome village|Incorporated Place|A|Adams County
+OH|39|68546|Rosemount CDP|Census Designated Place|S|Scioto County
+OH|39|68560|Roseville village|Incorporated Place|A|Muskingum County, Perry County
+OH|39|68574|Rosewood CDP|Census Designated Place|S|Champaign County
+OH|39|68602|Ross CDP|Census Designated Place|S|Butler County
+OH|39|68672|Rossburg village|Incorporated Place|A|Darke County
+OH|39|68686|Rossford city|Incorporated Place|A|Wood County
+OH|39|68714|Rossmoyne CDP|Census Designated Place|S|Hamilton County
+OH|39|68742|Roswell village|Incorporated Place|A|Tuscarawas County
+OH|39|68938|Rudolph CDP|Census Designated Place|S|Wood County
+OH|39|69176|Rushsylvania village|Incorporated Place|A|Logan County
+OH|39|69204|Rushville village|Incorporated Place|A|Fairfield County
+OH|39|69302|Russells Point village|Incorporated Place|A|Logan County
+OH|39|69316|Russellville village|Incorporated Place|A|Brown County
+OH|39|69344|Russia village|Incorporated Place|A|Shelby County
+OH|39|69358|Rutland village|Incorporated Place|A|Meigs County
+OH|39|69400|Sabina village|Incorporated Place|A|Clinton County
+OH|39|69470|St. Bernard city|Incorporated Place|A|Hamilton County
+OH|39|69526|St. Clairsville city|Incorporated Place|A|Belmont County
+OH|39|69540|St. Henry village|Incorporated Place|A|Mercer County
+OH|39|69596|St Johns CDP|Census Designated Place|S|Auglaize County
+OH|39|69652|St. Louisville village|Incorporated Place|A|Licking County
+OH|39|69666|St. Martin village|Incorporated Place|A|Brown County
+OH|39|69680|St. Marys city|Incorporated Place|A|Auglaize County
+OH|39|69708|St. Paris village|Incorporated Place|A|Champaign County
+OH|39|69834|Salem city|Incorporated Place|A|Columbiana County, Mahoning County
+OH|39|70050|Salem Heights CDP|Census Designated Place|S|Hamilton County
+OH|39|70072|Salesville village|Incorporated Place|A|Guernsey County
+OH|39|70100|Salineville village|Incorporated Place|A|Columbiana County
+OH|39|70380|Sandusky city|Incorporated Place|A|Erie County
+OH|39|70464|Sandyville CDP|Census Designated Place|S|Tuscarawas County
+OH|39|70520|Sarahsville village|Incorporated Place|A|Noble County
+OH|39|70534|Sardinia village|Incorporated Place|A|Brown County, Highland County
+OH|39|70548|Sardis CDP|Census Designated Place|S|Monroe County
+OH|39|70576|Savannah village|Incorporated Place|A|Ashland County
+OH|39|70618|Sawyerwood CDP|Census Designated Place|S|Summit County
+OH|39|70814|Scio village|Incorporated Place|A|Harrison County
+OH|39|70912|Sciotodale CDP|Census Designated Place|S|Scioto County
+OH|39|71080|Scott village|Incorporated Place|A|Paulding County, Van Wert County
+OH|39|71206|Seaman village|Incorporated Place|A|Adams County
+OH|39|71220|Sebring village|Incorporated Place|A|Mahoning County
+OH|39|71360|Senecaville village|Incorporated Place|A|Guernsey County
+OH|39|71416|Seven Hills city|Incorporated Place|A|Cuyahoga County
+OH|39|71444|Seven Mile village|Incorporated Place|A|Butler County
+OH|39|71486|Seville village|Incorporated Place|A|Medina County
+OH|39|71640|Shadyside village|Incorporated Place|A|Belmont County
+OH|39|71682|Shaker Heights city|Incorporated Place|A|Cuyahoga County
+OH|39|71892|Sharonville city|Incorporated Place|A|Butler County, Hamilton County
+OH|39|71958|Shawnee CDP|Census Designated Place|S|Hamilton County
+OH|39|71962|Shawnee village|Incorporated Place|A|Perry County
+OH|39|71976|Shawnee Hills village|Incorporated Place|A|Delaware County
+OH|39|71983|Shawnee Hills CDP|Census Designated Place|S|Greene County
+OH|39|72060|Sheffield village|Incorporated Place|A|Lorain County
+OH|39|72088|Sheffield Lake city|Incorporated Place|A|Lorain County
+OH|39|72102|Shelby city|Incorporated Place|A|Richland County
+OH|39|72242|Sherrodsville village|Incorporated Place|A|Carroll County
+OH|39|72256|Sherwood village|Incorporated Place|A|Defiance County
+OH|39|72258|Sherwood CDP|Census Designated Place|S|Hamilton County
+OH|39|72298|Shiloh village|Incorporated Place|A|Richland County
+OH|39|72396|Shreve village|Incorporated Place|A|Wayne County
+OH|39|72424|Sidney city|Incorporated Place|A|Shelby County
+OH|39|72494|Silver Lake village|Incorporated Place|A|Summit County
+OH|39|72522|Silverton city|Incorporated Place|A|Hamilton County
+OH|39|72578|Sinking Spring village|Incorporated Place|A|Highland County
+OH|39|72620|Sixteen Mile Stand CDP|Census Designated Place|S|Hamilton County
+OH|39|72648|Skyline Acres CDP|Census Designated Place|S|Hamilton County
+OH|39|72760|Smithfield village|Incorporated Place|A|Jefferson County
+OH|39|72788|Smithville village|Incorporated Place|A|Wayne County
+OH|39|72928|Solon city|Incorporated Place|A|Cuyahoga County
+OH|39|72977|Somerset village|Incorporated Place|A|Perry County
+OH|39|72998|Somerville village|Incorporated Place|A|Butler County
+OH|39|73040|South Amherst village|Incorporated Place|A|Lorain County
+OH|39|73068|South Bloomfield village|Incorporated Place|A|Pickaway County
+OH|39|73118|South Canal CDP|Census Designated Place|S|Trumbull County
+OH|39|73124|South Charleston village|Incorporated Place|A|Clark County
+OH|39|73264|South Euclid city|Incorporated Place|A|Cuyahoga County
+OH|39|73446|South Lebanon village|Incorporated Place|A|Warren County
+OH|39|73670|South Point village|Incorporated Place|A|Lawrence County
+OH|39|73684|South Russell village|Incorporated Place|A|Geauga County
+OH|39|73698|South Salem village|Incorporated Place|A|Ross County
+OH|39|73768|South Solon village|Incorporated Place|A|Madison County
+OH|39|73796|South Vienna village|Incorporated Place|A|Clark County
+OH|39|73824|South Webster village|Incorporated Place|A|Scioto County
+OH|39|73894|South Zanesville village|Incorporated Place|A|Muskingum County
+OH|39|73950|Sparta village|Incorporated Place|A|Morrow County
+OH|39|73992|Spencer village|Incorporated Place|A|Medina County
+OH|39|74034|Spencerville village|Incorporated Place|A|Allen County
+OH|39|74076|Springboro city|Incorporated Place|A|Montgomery County, Warren County
+OH|39|74104|Springdale city|Incorporated Place|A|Hamilton County
+OH|39|74118|Springfield city|Incorporated Place|A|Clark County
+OH|39|74216|Spring Valley village|Incorporated Place|A|Greene County
+OH|39|74300|Stafford village|Incorporated Place|A|Monroe County
+OH|39|74566|Sterling CDP|Census Designated Place|S|Wayne County
+OH|39|74608|Steubenville city|Incorporated Place|A|Jefferson County
+OH|39|74622|Stewart CDP|Census Designated Place|S|Athens County
+OH|39|74734|Stockdale CDP|Census Designated Place|S|Pike County
+OH|39|74748|Stockport village|Incorporated Place|A|Morgan County
+OH|39|74804|Stone Creek village|Incorporated Place|A|Tuscarawas County
+OH|39|74832|Stony Prairie CDP|Census Designated Place|S|Sandusky County
+OH|39|74846|Stony Ridge CDP|Census Designated Place|S|Wood County
+OH|39|74916|Stoutsville village|Incorporated Place|A|Fairfield County
+OH|39|74944|Stow city|Incorporated Place|A|Summit County
+OH|39|74958|Strasburg village|Incorporated Place|A|Tuscarawas County
+OH|39|75000|Stratton village|Incorporated Place|A|Jefferson County
+OH|39|75014|Streetsboro city|Incorporated Place|A|Portage County
+OH|39|75098|Strongsville city|Incorporated Place|A|Cuyahoga County
+OH|39|75126|Struthers city|Incorporated Place|A|Mahoning County
+OH|39|75140|Stryker village|Incorporated Place|A|Williams County
+OH|39|75196|Sugar Bush Knolls village|Incorporated Place|A|Portage County
+OH|39|75210|Sugarcreek village|Incorporated Place|A|Tuscarawas County
+OH|39|75252|Sugar Grove village|Incorporated Place|A|Fairfield County
+OH|39|75392|Sulphur Springs CDP|Census Designated Place|S|Crawford County
+OH|39|75406|Summerfield village|Incorporated Place|A|Noble County
+OH|39|75434|Summerside CDP|Census Designated Place|S|Clermont County
+OH|39|75574|Summitville village|Incorporated Place|A|Columbiana County
+OH|39|75602|Sunbury village|Incorporated Place|A|Delaware County
+OH|39|75896|Swanton village|Incorporated Place|A|Fulton County, Lucas County
+OH|39|75980|Sycamore village|Incorporated Place|A|Wyandot County
+OH|39|76022|Sylvania city|Incorporated Place|A|Lucas County
+OH|39|76050|Syracuse village|Incorporated Place|A|Meigs County
+OH|39|76106|Tallmadge city|Incorporated Place|A|Portage County, Summit County
+OH|39|76148|Tarlton village|Incorporated Place|A|Fairfield County, Pickaway County
+OH|39|76197|Taylor Creek CDP|Census Designated Place|S|Hamilton County
+OH|39|76358|Tedrow CDP|Census Designated Place|S|Fulton County
+OH|39|76428|Terrace Park village|Incorporated Place|A|Hamilton County
+OH|39|76568|The Plains CDP|Census Designated Place|S|Athens County
+OH|39|76582|The Village of Indian Hill city|Incorporated Place|A|Hamilton County
+OH|39|76666|Thornport CDP|Census Designated Place|S|Perry County
+OH|39|76680|Thornville village|Incorporated Place|A|Perry County
+OH|39|76764|Thurston village|Incorporated Place|A|Fairfield County
+OH|39|76778|Tiffin city|Incorporated Place|A|Seneca County
+OH|39|76806|Tiltonsville village|Incorporated Place|A|Jefferson County
+OH|39|76834|Timberlake village|Incorporated Place|A|Lake County
+OH|39|76876|Tipp City city|Incorporated Place|A|Miami County
+OH|39|76890|Tippecanoe CDP|Census Designated Place|S|Harrison County
+OH|39|76932|Tiro village|Incorporated Place|A|Crawford County
+OH|39|77000|Toledo city|Incorporated Place|A|Lucas County
+OH|39|77070|Tontogany village|Incorporated Place|A|Wood County
+OH|39|77112|Toronto city|Incorporated Place|A|Jefferson County
+OH|39|77308|Tremont City village|Incorporated Place|A|Clark County
+OH|39|77322|Trenton city|Incorporated Place|A|Butler County
+OH|39|77406|Trimble village|Incorporated Place|A|Athens County
+OH|39|77434|Trinway CDP|Census Designated Place|S|Muskingum County
+OH|39|77504|Trotwood city|Incorporated Place|A|Montgomery County
+OH|39|77588|Troy city|Incorporated Place|A|Miami County
+OH|39|77812|Tuppers Plains CDP|Census Designated Place|S|Meigs County
+OH|39|77840|Turpin Hills CDP|Census Designated Place|S|Hamilton County
+OH|39|77924|Tuscarawas village|Incorporated Place|A|Tuscarawas County
+OH|39|78050|Twinsburg city|Incorporated Place|A|Summit County
+OH|39|78078|Twinsburg Heights CDP|Census Designated Place|S|Summit County
+OH|39|78176|Uhrichsville city|Incorporated Place|A|Tuscarawas County
+OH|39|78470|Union city|Incorporated Place|A|Miami County, Montgomery County
+OH|39|78624|Union City village|Incorporated Place|A|Darke County
+OH|39|78736|Uniontown CDP|Census Designated Place|S|Stark County
+OH|39|78834|Unionville Center village|Incorporated Place|A|Union County
+OH|39|78848|Uniopolis village|Incorporated Place|A|Auglaize County
+OH|39|78932|University Heights city|Incorporated Place|A|Cuyahoga County
+OH|39|79002|Upper Arlington city|Incorporated Place|A|Franklin County
+OH|39|79044|Upper Sandusky city|Incorporated Place|A|Wyandot County
+OH|39|79072|Urbana city|Incorporated Place|A|Champaign County
+OH|39|79100|Urbancrest village|Incorporated Place|A|Franklin County
+OH|39|79114|Utica village|Incorporated Place|A|Knox County, Licking County
+OH|39|79226|Valley Hi village|Incorporated Place|A|Logan County
+OH|39|79268|Valley View village|Incorporated Place|A|Cuyahoga County
+OH|39|79282|Valleyview village|Incorporated Place|A|Franklin County
+OH|39|79394|Van Buren village|Incorporated Place|A|Hancock County
+OH|39|79492|Vandalia city|Incorporated Place|A|Montgomery County
+OH|39|79534|Vanlue village|Incorporated Place|A|Hancock County
+OH|39|79562|Van Wert city|Incorporated Place|A|Van Wert County
+OH|39|79590|Vaughnsville CDP|Census Designated Place|S|Putnam County
+OH|39|79632|Venedocia village|Incorporated Place|A|Van Wert County
+OH|39|79716|Vermilion city|Incorporated Place|A|Erie County, Lorain County
+OH|39|79898|Verona village|Incorporated Place|A|Montgomery County, Preble County
+OH|39|79912|Versailles village|Incorporated Place|A|Darke County
+OH|39|79982|Vickery CDP|Census Designated Place|S|Sandusky County
+OH|39|80066|Vienna Center CDP|Census Designated Place|S|Trumbull County
+OH|39|80150|Vincent CDP|Census Designated Place|S|Washington County
+OH|39|80178|Vinton village|Incorporated Place|A|Gallia County
+OH|39|80304|Wadsworth city|Incorporated Place|A|Medina County
+OH|39|80402|Waite Hill village|Incorporated Place|A|Lake County
+OH|39|80458|Wakeman village|Incorporated Place|A|Huron County
+OH|39|80486|Walbridge village|Incorporated Place|A|Wood County
+OH|39|80500|Waldo village|Incorporated Place|A|Marion County
+OH|39|80612|Walnut Creek CDP|Census Designated Place|S|Holmes County
+OH|39|80738|Walton Hills village|Incorporated Place|A|Cuyahoga County
+OH|39|80766|Wapakoneta city|Incorporated Place|A|Auglaize County
+OH|39|80892|Warren city|Incorporated Place|A|Trumbull County
+OH|39|80990|Warrensville Heights city|Incorporated Place|A|Cuyahoga County
+OH|39|81032|Warsaw village|Incorporated Place|A|Coshocton County
+OH|39|81718|Washington Court House city|Incorporated Place|A|Fayette County
+OH|39|81732|Washingtonville village|Incorporated Place|A|Columbiana County, Mahoning County
+OH|39|81760|Waterford CDP|Census Designated Place|S|Washington County
+OH|39|81858|Waterville village|Incorporated Place|A|Lucas County
+OH|39|81928|Wauseon city|Incorporated Place|A|Fulton County
+OH|39|81942|Waverly City city|Incorporated Place|A|Pike County
+OH|39|82334|Wayne village|Incorporated Place|A|Wood County
+OH|39|82348|Wayne Lakes village|Incorporated Place|A|Darke County
+OH|39|82376|Waynesburg village|Incorporated Place|A|Stark County
+OH|39|82390|Waynesfield village|Incorporated Place|A|Auglaize County
+OH|39|82418|Waynesville village|Incorporated Place|A|Warren County
+OH|39|82642|Wellington village|Incorporated Place|A|Lorain County
+OH|39|82712|Wellston city|Incorporated Place|A|Jackson County
+OH|39|82740|Wellsville village|Incorporated Place|A|Columbiana County
+OH|39|82880|West Alexandria village|Incorporated Place|A|Preble County
+OH|39|83090|West Carrollton city|Incorporated Place|A|Montgomery County
+OH|39|83216|West Elkton village|Incorporated Place|A|Preble County
+OH|39|83342|Westerville city|Incorporated Place|A|Delaware County, Franklin County
+OH|39|83384|West Farmington village|Incorporated Place|A|Trumbull County
+OH|39|83468|Westfield Center village|Incorporated Place|A|Medina County
+OH|39|83541|West Hill CDP|Census Designated Place|S|Trumbull County
+OH|39|83580|West Jefferson village|Incorporated Place|A|Madison County
+OH|39|83608|West Lafayette village|Incorporated Place|A|Coshocton County
+OH|39|83622|Westlake city|Incorporated Place|A|Cuyahoga County
+OH|39|83706|West Leipsic village|Incorporated Place|A|Putnam County
+OH|39|83734|West Liberty village|Incorporated Place|A|Logan County
+OH|39|83804|West Manchester village|Incorporated Place|A|Preble County
+OH|39|83818|West Mansfield village|Incorporated Place|A|Logan County
+OH|39|83888|West Millgrove village|Incorporated Place|A|Wood County
+OH|39|83902|West Milton village|Incorporated Place|A|Miami County
+OH|39|83972|Weston village|Incorporated Place|A|Wood County
+OH|39|84140|West Portsmouth CDP|Census Designated Place|S|Scioto County
+OH|39|84182|West Rushville village|Incorporated Place|A|Fairfield County
+OH|39|84196|West Salem village|Incorporated Place|A|Wayne County
+OH|39|84294|West Union village|Incorporated Place|A|Adams County
+OH|39|84308|West Unity village|Incorporated Place|A|Williams County
+OH|39|84528|Wetherington CDP|Census Designated Place|S|Butler County
+OH|39|84574|Wharton village|Incorporated Place|A|Wyandot County
+OH|39|84588|Wheelersburg CDP|Census Designated Place|S|Scioto County
+OH|39|84742|Whitehall city|Incorporated Place|A|Franklin County
+OH|39|84770|Whitehouse village|Incorporated Place|A|Lucas County
+OH|39|84812|White Oak CDP|Census Designated Place|S|Hamilton County
+OH|39|84882|Whites Landing CDP|Census Designated Place|S|Erie County, Sandusky County
+OH|39|85036|Wickliffe city|Incorporated Place|A|Lake County
+OH|39|85085|Wightmans Grove CDP|Census Designated Place|S|Sandusky County
+OH|39|85092|Wilberforce CDP|Census Designated Place|S|Greene County
+OH|39|85190|Wilkesville village|Incorporated Place|A|Vinton County
+OH|39|85232|Willard city|Incorporated Place|A|Huron County
+OH|39|85288|Williamsburg village|Incorporated Place|A|Clermont County
+OH|39|85344|Williamsdale CDP|Census Designated Place|S|Butler County
+OH|39|85414|Williamsport village|Incorporated Place|A|Pickaway County
+OH|39|85442|Williston CDP|Census Designated Place|S|Ottawa County
+OH|39|85484|Willoughby city|Incorporated Place|A|Lake County
+OH|39|85512|Willoughby Hills city|Incorporated Place|A|Lake County
+OH|39|85638|Willowick city|Incorporated Place|A|Lake County
+OH|39|85736|Willshire village|Incorporated Place|A|Van Wert County
+OH|39|85792|Wilmington city|Incorporated Place|A|Clinton County
+OH|39|85806|Wilmot village|Incorporated Place|A|Stark County
+OH|39|85834|Wilson village|Incorporated Place|A|Belmont County, Monroe County
+OH|39|85876|Winchester village|Incorporated Place|A|Adams County
+OH|39|85946|Windham village|Incorporated Place|A|Portage County
+OH|39|86072|Winesburg CDP|Census Designated Place|S|Holmes County
+OH|39|86184|Wintersville village|Incorporated Place|A|Jefferson County
+OH|39|86254|Withamsville CDP|Census Designated Place|S|Clermont County
+OH|39|86282|Wolfhurst CDP|Census Designated Place|S|Belmont County
+OH|39|86366|Woodlawn village|Incorporated Place|A|Hamilton County
+OH|39|86394|Woodmere village|Incorporated Place|A|Cuyahoga County
+OH|39|86436|Woodsfield village|Incorporated Place|A|Monroe County
+OH|39|86478|Woodstock village|Incorporated Place|A|Champaign County
+OH|39|86492|Woodville village|Incorporated Place|A|Sandusky County
+OH|39|86548|Wooster city|Incorporated Place|A|Wayne County
+OH|39|86604|Worthington city|Incorporated Place|A|Franklin County
+OH|39|86632|Wren village|Incorporated Place|A|Van Wert County
+OH|39|86660|Wright-Patterson AFB CDP|Census Designated Place|S|Greene County
+OH|39|86730|Wyoming city|Incorporated Place|A|Hamilton County
+OH|39|86772|Xenia city|Incorporated Place|A|Greene County
+OH|39|86856|Yankee Lake village|Incorporated Place|A|Trumbull County
+OH|39|86940|Yellow Springs village|Incorporated Place|A|Greene County
+OH|39|87164|Yorkshire village|Incorporated Place|A|Darke County
+OH|39|87178|Yorkville village|Incorporated Place|A|Belmont County, Jefferson County
+OH|39|88000|Youngstown city|Incorporated Place|A|Mahoning County, Trumbull County
+OH|39|88028|Zaleski village|Incorporated Place|A|Vinton County
+OH|39|88070|Zanesfield village|Incorporated Place|A|Logan County
+OH|39|88084|Zanesville city|Incorporated Place|A|Muskingum County
+OH|39|88168|Zoar village|Incorporated Place|A|Tuscarawas County

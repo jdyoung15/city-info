@@ -1,0 +1,395 @@
+SC|45|00100|Abbeville city|Incorporated Place|A|Abbeville County
+SC|45|00550|Aiken city|Incorporated Place|A|Aiken County
+SC|45|00775|Alcolu CDP|Census Designated Place|S|Clarendon County
+SC|45|00955|Allendale town|Incorporated Place|A|Allendale County
+SC|45|01360|Anderson city|Incorporated Place|A|Anderson County
+SC|45|01450|Andrews town|Incorporated Place|A|Georgetown County, Williamsburg County
+SC|45|01810|Antreville CDP|Census Designated Place|S|Abbeville County
+SC|45|02080|Arcadia CDP|Census Designated Place|S|Spartanburg County
+SC|45|02125|Arcadia Lakes town|Incorporated Place|A|Richland County
+SC|45|02440|Arial CDP|Census Designated Place|S|Pickens County
+SC|45|03205|Atlantic Beach town|Incorporated Place|A|Horry County
+SC|45|03385|Awendaw town|Incorporated Place|A|Charleston County
+SC|45|03430|Aynor town|Incorporated Place|A|Horry County
+SC|45|03790|Bamberg town|Incorporated Place|A|Bamberg County
+SC|45|04060|Barnwell city|Incorporated Place|A|Barnwell County
+SC|45|04300|Batesburg-Leesville town|Incorporated Place|A|Lexington County, Saluda County
+SC|45|04690|Beaufort city|Incorporated Place|A|Beaufort County
+SC|45|05365|Belton city|Incorporated Place|A|Anderson County
+SC|45|05410|Belvedere CDP|Census Designated Place|S|Aiken County
+SC|45|05680|Bennettsville city|Incorporated Place|A|Marlboro County
+SC|45|05770|Berea CDP|Census Designated Place|S|Greenville County
+SC|45|06040|Bethune town|Incorporated Place|A|Kershaw County
+SC|45|06310|Bishopville city|Incorporated Place|A|Lee County
+SC|45|06400|Blacksburg town|Incorporated Place|A|Cherokee County
+SC|45|06490|Blackville town|Incorporated Place|A|Barnwell County
+SC|45|06850|Blenheim town|Incorporated Place|A|Marlboro County
+SC|45|07210|Bluffton town|Incorporated Place|A|Beaufort County
+SC|45|07255|Blythewood town|Incorporated Place|A|Fairfield County, Richland County
+SC|45|07345|Boiling Springs CDP|Census Designated Place|S|Spartanburg County
+SC|45|07525|Bonneau town|Incorporated Place|A|Berkeley County
+SC|45|07535|Bonneau Beach CDP|Census Designated Place|S|Berkeley County
+SC|45|07840|Bowman town|Incorporated Place|A|Orangeburg County
+SC|45|08110|Boykin CDP|Census Designated Place|S|Kershaw County
+SC|45|08155|Bradley CDP|Census Designated Place|S|Greenwood County
+SC|45|08245|Branchville town|Incorporated Place|A|Orangeburg County
+SC|45|08830|Briarcliffe Acres town|Incorporated Place|A|Horry County
+SC|45|09527|Brookdale CDP|Census Designated Place|S|Orangeburg County
+SC|45|09865|Brunson town|Incorporated Place|A|Hampton County
+SC|45|10000|Bucksport CDP|Census Designated Place|S|Horry County
+SC|45|10090|Buffalo CDP|Census Designated Place|S|Union County
+SC|45|10270|Burnettown town|Incorporated Place|A|Aiken County
+SC|45|10360|Burton CDP|Census Designated Place|S|Beaufort County
+SC|45|10720|Calhoun Falls town|Incorporated Place|A|Abbeville County
+SC|45|10855|Camden city|Incorporated Place|A|Kershaw County
+SC|45|10900|Cameron town|Incorporated Place|A|Calhoun County
+SC|45|11125|Campobello town|Incorporated Place|A|Spartanburg County
+SC|45|11350|Cane Savannah CDP|Census Designated Place|S|Sumter County
+SC|45|11755|Carlisle town|Incorporated Place|A|Union County
+SC|45|12430|Catawba CDP|Census Designated Place|S|York County
+SC|45|12655|Cayce city|Incorporated Place|A|Lexington County, Richland County
+SC|45|12965|Centerville CDP|Census Designated Place|S|Anderson County
+SC|45|13015|Central town|Incorporated Place|A|Pickens County
+SC|45|13060|Central Pacolet town|Incorporated Place|A|Spartanburg County
+SC|45|13150|Chapin town|Incorporated Place|A|Lexington County
+SC|45|13330|Charleston city|Incorporated Place|A|Berkeley County, Charleston County
+SC|45|13600|Cheraw town|Incorporated Place|A|Chesterfield County
+SC|45|14018|Cherryvale CDP|Census Designated Place|S|Sumter County
+SC|45|14050|Chesnee city|Incorporated Place|A|Cherokee County, Spartanburg County
+SC|45|14095|Chester city|Incorporated Place|A|Chester County
+SC|45|14140|Chesterfield town|Incorporated Place|A|Chesterfield County
+SC|45|14455|City View CDP|Census Designated Place|S|Greenville County
+SC|45|14590|Clarks Hill CDP|Census Designated Place|S|McCormick County
+SC|45|14860|Clearwater CDP|Census Designated Place|S|Aiken County
+SC|45|14950|Clemson city|Incorporated Place|A|Anderson County, Pickens County
+SC|45|15220|Clifton CDP|Census Designated Place|S|Spartanburg County
+SC|45|15295|Clinton city|Incorporated Place|A|Laurens County
+SC|45|15310|Clio town|Incorporated Place|A|Marlboro County
+SC|45|15355|Clover town|Incorporated Place|A|York County
+SC|45|15625|Cokesbury CDP|Census Designated Place|S|Greenwood County
+SC|45|16000|Columbia city|Incorporated Place|A|Lexington County, Richland County
+SC|45|16360|Converse CDP|Census Designated Place|S|Spartanburg County
+SC|45|16405|Conway city|Incorporated Place|A|Horry County
+SC|45|16720|Cope town|Incorporated Place|A|Orangeburg County
+SC|45|16855|Cordova town|Incorporated Place|A|Orangeburg County
+SC|45|16945|Coronaca CDP|Census Designated Place|S|Greenwood County
+SC|45|16990|Cottageville town|Incorporated Place|A|Colleton County
+SC|45|17215|Coward town|Incorporated Place|A|Florence County
+SC|45|17260|Cowpens town|Incorporated Place|A|Spartanburg County
+SC|45|17845|Cross Anchor CDP|Census Designated Place|S|Spartanburg County
+SC|45|17890|Cross Hill town|Incorporated Place|A|Laurens County
+SC|45|18430|Dalzell CDP|Census Designated Place|S|Sumter County
+SC|45|18565|Darlington city|Incorporated Place|A|Darlington County
+SC|45|19105|Denmark city|Incorporated Place|A|Bamberg County
+SC|45|19285|Dentsville CDP|Census Designated Place|S|Richland County
+SC|45|19420|Dillon city|Incorporated Place|A|Dillon County
+SC|45|19870|Donalds town|Incorporated Place|A|Abbeville County
+SC|45|21040|Due West town|Incorporated Place|A|Abbeville County
+SC|45|21265|Duncan town|Incorporated Place|A|Spartanburg County
+SC|45|21310|Dunean CDP|Census Designated Place|S|Greenville County
+SC|45|21985|Easley city|Incorporated Place|A|Anderson County, Pickens County
+SC|45|22075|East Gaffney CDP|Census Designated Place|S|Cherokee County
+SC|45|22390|Eastover town|Incorporated Place|A|Richland County
+SC|45|22547|East Sumter CDP|Census Designated Place|S|Sumter County
+SC|45|22795|Edgefield town|Incorporated Place|A|Edgefield County
+SC|45|22997|Edisto CDP|Census Designated Place|S|Orangeburg County
+SC|45|23020|Edisto Beach town|Incorporated Place|A|Colleton County
+SC|45|23200|Ehrhardt town|Incorporated Place|A|Bamberg County
+SC|45|23245|Elgin town|Incorporated Place|A|Kershaw County
+SC|45|23290|Elgin CDP|Census Designated Place|S|Lancaster County
+SC|45|23335|Elko town|Incorporated Place|A|Barnwell County
+SC|45|23470|Elloree town|Incorporated Place|A|Orangeburg County
+SC|45|23605|Enoree CDP|Census Designated Place|S|Spartanburg County
+SC|45|23830|Estill town|Incorporated Place|A|Hampton County
+SC|45|24020|Eureka Mill CDP|Census Designated Place|S|Chester County
+SC|45|24100|Eutawville town|Incorporated Place|A|Orangeburg County
+SC|45|24370|Fairfax town|Incorporated Place|A|Allendale County
+SC|45|24505|Fairforest CDP|Census Designated Place|S|Spartanburg County
+SC|45|24730|Fair Play CDP|Census Designated Place|S|Anderson County, Oconee County
+SC|45|25360|Fingerville CDP|Census Designated Place|S|Spartanburg County
+SC|45|25540|Five Forks CDP|Census Designated Place|S|Greenville County
+SC|45|25810|Florence city|Incorporated Place|A|Florence County
+SC|45|26035|Folly Beach city|Incorporated Place|A|Charleston County
+SC|45|26305|Forest Acres city|Incorporated Place|A|Richland County
+SC|45|26372|Forestbrook CDP|Census Designated Place|S|Horry County
+SC|45|26845|Fort Lawn town|Incorporated Place|A|Chester County
+SC|45|26890|Fort Mill town|Incorporated Place|A|York County
+SC|45|27070|Fountain Inn city|Incorporated Place|A|Greenville County, Laurens County
+SC|45|27835|Furman town|Incorporated Place|A|Hampton County
+SC|45|27970|Gadsden CDP|Census Designated Place|S|Richland County
+SC|45|28060|Gaffney city|Incorporated Place|A|Cherokee County
+SC|45|28375|Gantt CDP|Census Designated Place|S|Greenville County
+SC|45|28455|Garden City CDP|Census Designated Place|S|Horry County
+SC|45|28780|Gaston town|Incorporated Place|A|Lexington County
+SC|45|28825|Gayle Mill CDP|Census Designated Place|S|Chester County
+SC|45|28870|Georgetown city|Incorporated Place|A|Georgetown County
+SC|45|29005|Gifford town|Incorporated Place|A|Hampton County
+SC|45|29050|Gilbert town|Incorporated Place|A|Lexington County
+SC|45|29275|Glendale CDP|Census Designated Place|S|Spartanburg County
+SC|45|29410|Gloverville CDP|Census Designated Place|S|Aiken County
+SC|45|29635|Golden Grove CDP|Census Designated Place|S|Greenville County
+SC|45|29815|Goose Creek city|Incorporated Place|A|Berkeley County, Charleston County
+SC|45|29950|Govan town|Incorporated Place|A|Bamberg County
+SC|45|30220|Gramling CDP|Census Designated Place|S|Spartanburg County
+SC|45|30265|Graniteville CDP|Census Designated Place|S|Aiken County
+SC|45|30355|Gray Court town|Incorporated Place|A|Laurens County
+SC|45|30490|Great Falls town|Incorporated Place|A|Chester County
+SC|45|30535|Greeleyville town|Incorporated Place|A|Williamsburg County
+SC|45|30850|Greenville city|Incorporated Place|A|Greenville County
+SC|45|30895|Greenwood city|Incorporated Place|A|Greenwood County
+SC|45|30985|Greer city|Incorporated Place|A|Greenville County, Spartanburg County
+SC|45|31885|Hampton town|Incorporated Place|A|Hampton County
+SC|45|32065|Hanahan city|Incorporated Place|A|Berkeley County
+SC|45|32245|Hardeeville city|Incorporated Place|A|Jasper County
+SC|45|32335|Harleyville town|Incorporated Place|A|Dorchester County
+SC|45|32560|Hartsville city|Incorporated Place|A|Darlington County
+SC|45|32965|Heath Springs town|Incorporated Place|A|Lancaster County
+SC|45|33145|Hemingway town|Incorporated Place|A|Williamsburg County
+SC|45|33640|Hickory Grove town|Incorporated Place|A|York County
+SC|45|33820|Hilda town|Incorporated Place|A|Barnwell County
+SC|45|34045|Hilton Head Island town|Incorporated Place|A|Beaufort County
+SC|45|34225|Hodges town|Incorporated Place|A|Greenwood County
+SC|45|34360|Holly Hill town|Incorporated Place|A|Orangeburg County
+SC|45|34495|Hollywood town|Incorporated Place|A|Charleston County
+SC|45|34720|Homeland Park CDP|Census Designated Place|S|Anderson County
+SC|45|34810|Honea Path town|Incorporated Place|A|Abbeville County, Anderson County
+SC|45|34990|Hopkins CDP|Census Designated Place|S|Richland County
+SC|45|35635|India Hook CDP|Census Designated Place|S|York County
+SC|45|35755|Inman city|Incorporated Place|A|Spartanburg County
+SC|45|35800|Inman Mills CDP|Census Designated Place|S|Spartanburg County
+SC|45|35890|Irmo town|Incorporated Place|A|Lexington County, Richland County
+SC|45|35980|Irwin CDP|Census Designated Place|S|Lancaster County
+SC|45|36070|Islandton CDP|Census Designated Place|S|Colleton County
+SC|45|36115|Isle of Palms city|Incorporated Place|A|Charleston County
+SC|45|36160|Iva town|Incorporated Place|A|Anderson County
+SC|45|36205|Jackson town|Incorporated Place|A|Aiken County
+SC|45|36250|Jacksonboro CDP|Census Designated Place|S|Colleton County
+SC|45|36475|Jamestown town|Incorporated Place|A|Berkeley County
+SC|45|36610|Jefferson town|Incorporated Place|A|Chesterfield County
+SC|45|36655|Jenkinsville town|Incorporated Place|A|Fairfield County
+SC|45|36790|Joanna CDP|Census Designated Place|S|Laurens County
+SC|45|37105|Johnsonville city|Incorporated Place|A|Florence County
+SC|45|37150|Johnston town|Incorporated Place|A|Edgefield County
+SC|45|37330|Jonesville town|Incorporated Place|A|Union County
+SC|45|37465|Judson CDP|Census Designated Place|S|Greenville County
+SC|45|38095|Kershaw town|Incorporated Place|A|Lancaster County
+SC|45|38162|Kiawah Island town|Incorporated Place|A|Charleston County
+SC|45|38590|Kingstree town|Incorporated Place|A|Williamsburg County
+SC|45|38950|Kline town|Incorporated Place|A|Barnwell County
+SC|45|39220|Ladson CDP|Census Designated Place|S|Berkeley County, Charleston County
+SC|45|39310|Lake City city|Incorporated Place|A|Florence County
+SC|45|39475|Lake Murray of Richland CDP|Census Designated Place|S|Richland County
+SC|45|39512|Lake Secession CDP|Census Designated Place|S|Abbeville County
+SC|45|39715|Lake View town|Incorporated Place|A|Dillon County
+SC|45|39772|Lakewood CDP|Census Designated Place|S|Sumter County
+SC|45|39785|Lake Wylie CDP|Census Designated Place|S|York County
+SC|45|39805|Lamar town|Incorporated Place|A|Darlington County
+SC|45|39895|Lancaster city|Incorporated Place|A|Lancaster County
+SC|45|40075|Landrum city|Incorporated Place|A|Spartanburg County
+SC|45|40210|Lane town|Incorporated Place|A|Williamsburg County
+SC|45|40390|Langley CDP|Census Designated Place|S|Aiken County
+SC|45|40480|Latta town|Incorporated Place|A|Dillon County
+SC|45|40525|Laurel Bay CDP|Census Designated Place|S|Beaufort County
+SC|45|40615|Laurens city|Incorporated Place|A|Laurens County
+SC|45|41065|Lesslie CDP|Census Designated Place|S|York County
+SC|45|41335|Lexington town|Incorporated Place|A|Lexington County
+SC|45|41380|Liberty city|Incorporated Place|A|Pickens County
+SC|45|41740|Lincolnville town|Incorporated Place|A|Charleston County, Dorchester County
+SC|45|41965|Little Mountain town|Incorporated Place|A|Newberry County
+SC|45|42010|Little River CDP|Census Designated Place|S|Horry County
+SC|45|42100|Livingston town|Incorporated Place|A|Orangeburg County
+SC|45|42190|Lockhart town|Incorporated Place|A|Union County
+SC|45|42280|Lodge town|Incorporated Place|A|Colleton County
+SC|45|42730|Loris city|Incorporated Place|A|Horry County
+SC|45|42820|Lowndesville town|Incorporated Place|A|Abbeville County
+SC|45|42865|Lowrys town|Incorporated Place|A|Chester County
+SC|45|43000|Lugoff CDP|Census Designated Place|S|Kershaw County
+SC|45|43090|Luray town|Incorporated Place|A|Hampton County
+SC|45|43135|Lydia CDP|Census Designated Place|S|Darlington County
+SC|45|43315|Lyman town|Incorporated Place|A|Spartanburg County
+SC|45|43360|Lynchburg town|Incorporated Place|A|Lee County
+SC|45|43495|McBee town|Incorporated Place|A|Chesterfield County
+SC|45|43585|McClellanville town|Incorporated Place|A|Charleston County
+SC|45|43630|McColl town|Incorporated Place|A|Marlboro County
+SC|45|43675|McConnells town|Incorporated Place|A|York County
+SC|45|43720|McCormick town|Incorporated Place|A|McCormick County
+SC|45|44350|Manning city|Incorporated Place|A|Clarendon County
+SC|45|44575|Marion city|Incorporated Place|A|Marion County
+SC|45|45115|Mauldin city|Incorporated Place|A|Greenville County
+SC|45|45295|Mayesville town|Incorporated Place|A|Sumter County
+SC|45|45430|Mayo CDP|Census Designated Place|S|Spartanburg County
+SC|45|45790|Meggett town|Incorporated Place|A|Charleston County
+SC|45|47050|Modoc CDP|Census Designated Place|S|McCormick County
+SC|45|47200|Monarch Mill CDP|Census Designated Place|S|Union County
+SC|45|47275|Moncks Corner town|Incorporated Place|A|Berkeley County
+SC|45|47320|Monetta town|Incorporated Place|A|Aiken County, Saluda County
+SC|45|48310|Mount Carmel CDP|Census Designated Place|S|McCormick County
+SC|45|48355|Mount Croghan town|Incorporated Place|A|Chesterfield County
+SC|45|48535|Mount Pleasant town|Incorporated Place|A|Charleston County
+SC|45|48670|Mountville CDP|Census Designated Place|S|Laurens County
+SC|45|48737|Mulberry CDP|Census Designated Place|S|Sumter County
+SC|45|48805|Mullins city|Incorporated Place|A|Marion County
+SC|45|48900|Murphys Estates CDP|Census Designated Place|S|Edgefield County
+SC|45|48985|Murrells Inlet CDP|Census Designated Place|S|Georgetown County
+SC|45|49075|Myrtle Beach city|Incorporated Place|A|Horry County
+SC|45|49390|Neeses town|Incorporated Place|A|Orangeburg County
+SC|45|49570|Newberry city|Incorporated Place|A|Newberry County
+SC|45|49705|New Ellenton town|Incorporated Place|A|Aiken County
+SC|45|49885|Newport CDP|Census Designated Place|S|York County
+SC|45|49975|Newry CDP|Census Designated Place|S|Oconee County
+SC|45|50110|Nichols town|Incorporated Place|A|Marion County
+SC|45|50290|Ninety Six town|Incorporated Place|A|Greenwood County
+SC|45|50515|Norris town|Incorporated Place|A|Pickens County
+SC|45|50560|North town|Incorporated Place|A|Orangeburg County
+SC|45|50695|North Augusta city|Incorporated Place|A|Aiken County, Edgefield County
+SC|45|50875|North Charleston city|Incorporated Place|A|Berkeley County, Charleston County, Dorchester County
+SC|45|51145|North Hartsville CDP|Census Designated Place|S|Darlington County
+SC|45|51180|Northlake CDP|Census Designated Place|S|Anderson County
+SC|45|51280|North Myrtle Beach city|Incorporated Place|A|Horry County
+SC|45|51550|Norway town|Incorporated Place|A|Orangeburg County
+SC|45|51720|Oak Grove CDP|Census Designated Place|S|Lexington County
+SC|45|51887|Oakland CDP|Census Designated Place|S|Sumter County
+SC|45|52540|Olanta town|Incorporated Place|A|Florence County
+SC|45|52585|Olar town|Incorporated Place|A|Bamberg County
+SC|45|53080|Orangeburg city|Incorporated Place|A|Orangeburg County
+SC|45|53485|Oswego CDP|Census Designated Place|S|Sumter County
+SC|45|53845|Pacolet town|Incorporated Place|A|Spartanburg County
+SC|45|54025|Pageland town|Incorporated Place|A|Chesterfield County
+SC|45|54340|Pamplico town|Incorporated Place|A|Florence County
+SC|45|54535|Parker CDP|Census Designated Place|S|Greenville County
+SC|45|54700|Parksville town|Incorporated Place|A|McCormick County
+SC|45|54925|Patrick town|Incorporated Place|A|Chesterfield County
+SC|45|55015|Pawleys Island town|Incorporated Place|A|Georgetown County
+SC|45|55060|Paxville town|Incorporated Place|A|Clarendon County
+SC|45|55150|Peak town|Incorporated Place|A|Newberry County
+SC|45|55420|Pelion town|Incorporated Place|A|Lexington County
+SC|45|55465|Pelzer town|Incorporated Place|A|Anderson County
+SC|45|55645|Pendleton town|Incorporated Place|A|Anderson County
+SC|45|55960|Perry town|Incorporated Place|A|Aiken County
+SC|45|56140|Pickens city|Incorporated Place|A|Pickens County
+SC|45|56365|Piedmont CDP|Census Designated Place|S|Anderson County, Greenville County
+SC|45|56950|Pine Ridge town|Incorporated Place|A|Lexington County
+SC|45|57085|Pinewood town|Incorporated Place|A|Sumter County
+SC|45|57175|Pinopolis CDP|Census Designated Place|S|Berkeley County
+SC|45|57670|Plum Branch town|Incorporated Place|A|McCormick County
+SC|45|57850|Pomaria town|Incorporated Place|A|Newberry County
+SC|45|58030|Port Royal town|Incorporated Place|A|Beaufort County
+SC|45|58165|Powdersville CDP|Census Designated Place|S|Anderson County
+SC|45|58435|Princeton CDP|Census Designated Place|S|Laurens County
+SC|45|58570|Privateer CDP|Census Designated Place|S|Sumter County
+SC|45|58615|Promised Land CDP|Census Designated Place|S|Greenwood County
+SC|45|58705|Prosperity town|Incorporated Place|A|Newberry County
+SC|45|58795|Quinby town|Incorporated Place|A|Florence County
+SC|45|59020|Ravenel town|Incorporated Place|A|Charleston County
+SC|45|59110|Red Bank CDP|Census Designated Place|S|Lexington County
+SC|45|59190|Red Hill CDP|Census Designated Place|S|Horry County
+SC|45|59380|Reevesville town|Incorporated Place|A|Dorchester County
+SC|45|59425|Reidville town|Incorporated Place|A|Spartanburg County
+SC|45|59470|Rembert CDP|Census Designated Place|S|Sumter County
+SC|45|59920|Richburg town|Incorporated Place|A|Chester County
+SC|45|60280|Ridgeland town|Incorporated Place|A|Jasper County
+SC|45|60325|Ridge Spring town|Incorporated Place|A|Saluda County
+SC|45|60370|Ridgeville town|Incorporated Place|A|Dorchester County
+SC|45|60415|Ridgeway town|Incorporated Place|A|Fairfield County
+SC|45|61112|Riverview CDP|Census Designated Place|S|York County
+SC|45|61405|Rock Hill city|Incorporated Place|A|York County
+SC|45|61495|Rockville town|Incorporated Place|A|Charleston County
+SC|45|61720|Roebuck CDP|Census Designated Place|S|Spartanburg County
+SC|45|62035|Rowesville town|Incorporated Place|A|Orangeburg County
+SC|45|62080|Ruby town|Incorporated Place|A|Chesterfield County
+SC|45|62305|Russellville CDP|Census Designated Place|S|Berkeley County
+SC|45|62395|St. Andrews CDP|Census Designated Place|S|Richland County
+SC|45|62530|St. George town|Incorporated Place|A|Dorchester County
+SC|45|62620|St. Matthews town|Incorporated Place|A|Calhoun County
+SC|45|62755|St. Stephen town|Incorporated Place|A|Berkeley County
+SC|45|62980|Salem town|Incorporated Place|A|Oconee County
+SC|45|63115|Salley town|Incorporated Place|A|Aiken County
+SC|45|63250|Saluda town|Incorporated Place|A|Saluda County
+SC|45|63665|Sangaree CDP|Census Designated Place|S|Berkeley County
+SC|45|63700|Sans Souci CDP|Census Designated Place|S|Greenville County
+SC|45|63790|Santee town|Incorporated Place|A|Orangeburg County
+SC|45|64240|Saxon CDP|Census Designated Place|S|Spartanburg County
+SC|45|64465|Scotia town|Incorporated Place|A|Hampton County
+SC|45|64600|Scranton town|Incorporated Place|A|Florence County
+SC|45|64712|Seabrook Island town|Incorporated Place|A|Charleston County
+SC|45|65005|Sellers town|Incorporated Place|A|Marion County
+SC|45|65095|Seneca city|Incorporated Place|A|Oconee County
+SC|45|65207|Seven Oaks CDP|Census Designated Place|S|Lexington County
+SC|45|65410|Sharon town|Incorporated Place|A|York County
+SC|45|65680|Shell Point CDP|Census Designated Place|S|Beaufort County
+SC|45|65950|Shiloh CDP|Census Designated Place|S|Sumter County
+SC|45|66400|Silverstreet town|Incorporated Place|A|Newberry County
+SC|45|66580|Simpsonville city|Incorporated Place|A|Greenville County
+SC|45|66760|Six Mile town|Incorporated Place|A|Pickens County
+SC|45|66917|Slater-Marietta CDP|Census Designated Place|S|Greenville County
+SC|45|67165|Smoaks town|Incorporated Place|A|Colleton County
+SC|45|67210|Smyrna town|Incorporated Place|A|Cherokee County, York County
+SC|45|67255|Snelling town|Incorporated Place|A|Barnwell County
+SC|45|67390|Socastee CDP|Census Designated Place|S|Horry County
+SC|45|67435|Society Hill town|Incorporated Place|A|Darlington County
+SC|45|67705|South Congaree town|Incorporated Place|A|Lexington County
+SC|45|67750|Southern Shops CDP|Census Designated Place|S|Spartanburg County
+SC|45|68177|South Sumter CDP|Census Designated Place|S|Sumter County
+SC|45|68290|Spartanburg city|Incorporated Place|A|Spartanburg County
+SC|45|68380|Springdale CDP|Census Designated Place|S|Lancaster County
+SC|45|68425|Springdale town|Incorporated Place|A|Lexington County
+SC|45|68470|Springfield town|Incorporated Place|A|Orangeburg County
+SC|45|68875|Starr town|Incorporated Place|A|Anderson County
+SC|45|68920|Startex CDP|Census Designated Place|S|Spartanburg County
+SC|45|69010|Stateburg CDP|Census Designated Place|S|Sumter County
+SC|45|70045|Stuckey town|Incorporated Place|A|Williamsburg County
+SC|45|70090|Sullivan's Island town|Incorporated Place|A|Charleston County
+SC|45|70225|Summerton town|Incorporated Place|A|Clarendon County
+SC|45|70270|Summerville town|Incorporated Place|A|Berkeley County, Charleston County, Dorchester County
+SC|45|70315|Summit town|Incorporated Place|A|Lexington County
+SC|45|70405|Sumter city|Incorporated Place|A|Sumter County
+SC|45|70585|Surfside Beach town|Incorporated Place|A|Horry County
+SC|45|70675|Swansea town|Incorporated Place|A|Lexington County
+SC|45|70900|Sycamore town|Incorporated Place|A|Allendale County
+SC|45|71305|Tatum town|Incorporated Place|A|Marlboro County
+SC|45|71395|Taylors CDP|Census Designated Place|S|Greenville County
+SC|45|71417|Tega Cay city|Incorporated Place|A|York County
+SC|45|71890|Tigerville CDP|Census Designated Place|S|Greenville County
+SC|45|71980|Timmonsville town|Incorporated Place|A|Florence County
+SC|45|72430|Travelers Rest city|Incorporated Place|A|Greenville County
+SC|45|72520|Trenton town|Incorporated Place|A|Edgefield County
+SC|45|72655|Troy town|Incorporated Place|A|Greenwood County
+SC|45|72745|Turbeville town|Incorporated Place|A|Clarendon County
+SC|45|72880|Ulmer town|Incorporated Place|A|Allendale County
+SC|45|73105|Union city|Incorporated Place|A|Union County
+SC|45|73330|Utica CDP|Census Designated Place|S|Oconee County
+SC|45|73465|Valley Falls CDP|Census Designated Place|S|Spartanburg County
+SC|45|73510|Vance town|Incorporated Place|A|Orangeburg County
+SC|45|73600|Varnville town|Incorporated Place|A|Hampton County
+SC|45|73870|Wade Hampton CDP|Census Designated Place|S|Greenville County
+SC|45|74050|Wagener town|Incorporated Place|A|Aiken County
+SC|45|74095|Walhalla city|Incorporated Place|A|Oconee County
+SC|45|74140|Wallace CDP|Census Designated Place|S|Marlboro County
+SC|45|74275|Walterboro city|Incorporated Place|A|Colleton County
+SC|45|74590|Ward town|Incorporated Place|A|Saluda County
+SC|45|74635|Ware Place CDP|Census Designated Place|S|Greenville County
+SC|45|74680|Ware Shoals town|Incorporated Place|A|Abbeville County, Greenwood County, Laurens County
+SC|45|74725|Warrenville CDP|Census Designated Place|S|Aiken County
+SC|45|74995|Waterloo town|Incorporated Place|A|Laurens County
+SC|45|75220|Watts Mills CDP|Census Designated Place|S|Laurens County
+SC|45|75445|Wedgefield CDP|Census Designated Place|S|Sumter County
+SC|45|75535|Welcome CDP|Census Designated Place|S|Greenville County
+SC|45|75580|Wellford city|Incorporated Place|A|Spartanburg County
+SC|45|75850|West Columbia city|Incorporated Place|A|Lexington County
+SC|45|76165|Westminster city|Incorporated Place|A|Oconee County
+SC|45|76345|West Pelzer town|Incorporated Place|A|Anderson County
+SC|45|76435|West Union town|Incorporated Place|A|Oconee County
+SC|45|77380|Whitmire town|Incorporated Place|A|Newberry County
+SC|45|77672|Wilkinson Heights CDP|Census Designated Place|S|Orangeburg County
+SC|45|77785|Williams town|Incorporated Place|A|Colleton County
+SC|45|77875|Williamston town|Incorporated Place|A|Anderson County
+SC|45|77920|Willington CDP|Census Designated Place|S|McCormick County
+SC|45|77965|Williston town|Incorporated Place|A|Barnwell County
+SC|45|78190|Windsor town|Incorporated Place|A|Aiken County
+SC|45|78460|Winnsboro town|Incorporated Place|A|Fairfield County
+SC|45|78505|Winnsboro Mills CDP|Census Designated Place|S|Fairfield County
+SC|45|78820|Woodfield CDP|Census Designated Place|S|Richland County
+SC|45|78910|Woodford town|Incorporated Place|A|Orangeburg County
+SC|45|79090|Woodruff city|Incorporated Place|A|Spartanburg County
+SC|45|79450|Yemassee town|Incorporated Place|A|Beaufort County, Hampton County
+SC|45|79630|York city|Incorporated Place|A|York County

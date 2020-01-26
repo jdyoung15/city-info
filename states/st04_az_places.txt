@@ -1,0 +1,451 @@
+AZ|04|00730|Aguila CDP|Census Designated Place|S|Maricopa County
+AZ|04|00870|Ajo CDP|Census Designated Place|S|Pima County
+AZ|04|00940|Ak Chin CDP|Census Designated Place|S|Pima County
+AZ|04|01090|Ak-Chin Village CDP|Census Designated Place|S|Pinal County
+AZ|04|01170|Alamo Lake CDP|Census Designated Place|S|La Paz County
+AZ|04|01560|Ali Chuk CDP|Census Designated Place|S|Pima County
+AZ|04|01570|Ali Chukson CDP|Census Designated Place|S|Pima County
+AZ|04|01620|Ali Molina CDP|Census Designated Place|S|Pima County
+AZ|04|01920|Alpine CDP|Census Designated Place|S|Apache County
+AZ|04|01990|Amado CDP|Census Designated Place|S|Santa Cruz County
+AZ|04|02270|Anegam CDP|Census Designated Place|S|Pima County
+AZ|04|02410|Antares CDP|Census Designated Place|S|Mohave County
+AZ|04|02430|Anthem CDP|Census Designated Place|S|Maricopa County
+AZ|04|02830|Apache Junction city|Incorporated Place|A|Maricopa County, Pinal County
+AZ|04|03320|Arivaca CDP|Census Designated Place|S|Pima County
+AZ|04|03380|Arivaca Junction CDP|Census Designated Place|S|Pima County
+AZ|04|03530|Arizona City CDP|Census Designated Place|S|Pinal County
+AZ|04|03915|Arizona Village CDP|Census Designated Place|S|Mohave County
+AZ|04|04020|Arlington CDP|Census Designated Place|S|Maricopa County
+AZ|04|04440|Ash Fork CDP|Census Designated Place|S|Yavapai County
+AZ|04|04710|Avenue B and C CDP|Census Designated Place|S|Yuma County
+AZ|04|04720|Avondale city|Incorporated Place|A|Maricopa County
+AZ|04|04880|Avra Valley CDP|Census Designated Place|S|Pima County
+AZ|04|04930|Aztec CDP|Census Designated Place|S|Yuma County
+AZ|04|05140|Bagdad CDP|Census Designated Place|S|Yavapai County
+AZ|04|05450|Bear Flat CDP|Census Designated Place|S|Gila County
+AZ|04|05490|Beaver Dam CDP|Census Designated Place|S|Mohave County
+AZ|04|05495|Beaver Valley CDP|Census Designated Place|S|Gila County
+AZ|04|05770|Benson city|Incorporated Place|A|Cochise County
+AZ|04|05970|Beyerville CDP|Census Designated Place|S|Santa Cruz County
+AZ|04|06260|Bisbee city|Incorporated Place|A|Cochise County
+AZ|04|06470|Bitter Springs CDP|Census Designated Place|S|Coconino County
+AZ|04|06610|Black Canyon City CDP|Census Designated Place|S|Yavapai County
+AZ|04|06820|Blackwater CDP|Census Designated Place|S|Pinal County
+AZ|04|07025|Bluewater CDP|Census Designated Place|S|La Paz County
+AZ|04|07310|Bouse CDP|Census Designated Place|S|La Paz County
+AZ|04|07380|Bowie CDP|Census Designated Place|S|Cochise County
+AZ|04|07590|Brenda CDP|Census Designated Place|S|La Paz County
+AZ|04|07915|Bryce CDP|Census Designated Place|S|Graham County
+AZ|04|07940|Buckeye town|Incorporated Place|A|Maricopa County
+AZ|04|08020|Buckshot CDP|Census Designated Place|S|Yuma County
+AZ|04|08220|Bullhead City city|Incorporated Place|A|Mohave County
+AZ|04|08535|Burnside CDP|Census Designated Place|S|Apache County
+AZ|04|08710|Bylas CDP|Census Designated Place|S|Graham County
+AZ|04|08920|Cactus Flats CDP|Census Designated Place|S|Graham County
+AZ|04|08990|Cactus Forest CDP|Census Designated Place|S|Pinal County
+AZ|04|09340|Cameron CDP|Census Designated Place|S|Coconino County
+AZ|04|09580|Campo Bonito CDP|Census Designated Place|S|Pinal County
+AZ|04|09690|Camp Verde town|Incorporated Place|A|Yavapai County
+AZ|04|09900|Cane Beds CDP|Census Designated Place|S|Mohave County
+AZ|04|10040|Canyon Day CDP|Census Designated Place|S|Gila County
+AZ|04|10180|Carefree town|Incorporated Place|A|Maricopa County
+AZ|04|10320|Carrizo CDP|Census Designated Place|S|Gila County
+AZ|04|10460|Casa Blanca CDP|Census Designated Place|S|Pinal County
+AZ|04|10530|Casa Grande city|Incorporated Place|A|Pinal County
+AZ|04|10670|Casas Adobes CDP|Census Designated Place|S|Pima County
+AZ|04|11160|Catalina CDP|Census Designated Place|S|Pima County
+AZ|04|11230|Catalina Foothills CDP|Census Designated Place|S|Pima County
+AZ|04|11300|Cave Creek town|Incorporated Place|A|Maricopa County
+AZ|04|11370|Cedar Creek CDP|Census Designated Place|S|Gila County
+AZ|04|11500|Centennial Park CDP|Census Designated Place|S|Mohave County
+AZ|04|11580|Central CDP|Census Designated Place|S|Graham County
+AZ|04|11720|Central Heights-Midland City CDP|Census Designated Place|S|Gila County
+AZ|04|12000|Chandler city|Incorporated Place|A|Maricopa County
+AZ|04|12150|Charco CDP|Census Designated Place|S|Pima County
+AZ|04|12560|Chiawuli Tak CDP|Census Designated Place|S|Pima County
+AZ|04|12630|Chilchinbito CDP|Census Designated Place|S|Navajo County
+AZ|04|12770|Chinle CDP|Census Designated Place|S|Apache County
+AZ|04|12840|Chino Valley town|Incorporated Place|A|Yavapai County
+AZ|04|12910|Chloride CDP|Census Designated Place|S|Mohave County
+AZ|04|13140|Christopher Creek CDP|Census Designated Place|S|Gila County
+AZ|04|13190|Chuichu CDP|Census Designated Place|S|Pinal County
+AZ|04|13400|Cibecue CDP|Census Designated Place|S|Navajo County
+AZ|04|13470|Cibola CDP|Census Designated Place|S|La Paz County
+AZ|04|13540|Cienega Springs CDP|Census Designated Place|S|La Paz County
+AZ|04|13820|Citrus Park CDP|Census Designated Place|S|Maricopa County
+AZ|04|13850|Clacks Canyon CDP|Census Designated Place|S|Mohave County
+AZ|04|13890|Clarkdale town|Incorporated Place|A|Yavapai County
+AZ|04|13960|Claypool CDP|Census Designated Place|S|Gila County
+AZ|04|14030|Clay Springs CDP|Census Designated Place|S|Navajo County
+AZ|04|14380|Clifton town|Incorporated Place|A|Greenlee County
+AZ|04|14870|Colorado City town|Incorporated Place|A|Mohave County
+AZ|04|15080|Comobabi CDP|Census Designated Place|S|Pima County
+AZ|04|15150|Concho CDP|Census Designated Place|S|Apache County
+AZ|04|15220|Congress CDP|Census Designated Place|S|Yavapai County
+AZ|04|15500|Coolidge city|Incorporated Place|A|Pinal County
+AZ|04|15600|Copper Hill CDP|Census Designated Place|S|Gila County
+AZ|04|15765|Cordes Lakes CDP|Census Designated Place|S|Yavapai County
+AZ|04|15850|Cornfields CDP|Census Designated Place|S|Apache County
+AZ|04|15920|Cornville CDP|Census Designated Place|S|Yavapai County
+AZ|04|16030|Corona de Tucson CDP|Census Designated Place|S|Pima County
+AZ|04|16360|Cottonwood CDP|Census Designated Place|S|Apache County
+AZ|04|16410|Cottonwood city|Incorporated Place|A|Yavapai County
+AZ|04|16830|Cowlic CDP|Census Designated Place|S|Pima County
+AZ|04|17460|Crozier CDP|Census Designated Place|S|Mohave County
+AZ|04|17500|Crystal Beach CDP|Census Designated Place|S|Mohave County
+AZ|04|17810|Cutter CDP|Census Designated Place|S|Gila County
+AZ|04|18160|Dateland CDP|Census Designated Place|S|Yuma County
+AZ|04|18448|Deer Creek CDP|Census Designated Place|S|Gila County
+AZ|04|18490|Del Muerto CDP|Census Designated Place|S|Apache County
+AZ|04|18580|Dennehotso CDP|Census Designated Place|S|Apache County
+AZ|04|18740|Desert Hills CDP|Census Designated Place|S|Mohave County
+AZ|04|19145|Dewey-Humboldt town|Incorporated Place|A|Yavapai County
+AZ|04|19280|Dilkon CDP|Census Designated Place|S|Navajo County
+AZ|04|19630|Dolan Springs CDP|Census Designated Place|S|Mohave County
+AZ|04|19740|Doney Park CDP|Census Designated Place|S|Coconino County
+AZ|04|19790|Donovan Estates CDP|Census Designated Place|S|Yuma County
+AZ|04|20050|Douglas city|Incorporated Place|A|Cochise County
+AZ|04|20330|Dragoon CDP|Census Designated Place|S|Cochise County
+AZ|04|20540|Drexel Heights CDP|Census Designated Place|S|Pima County
+AZ|04|20560|Dripping Springs CDP|Census Designated Place|S|Gila County
+AZ|04|20570|Drysdale CDP|Census Designated Place|S|Yuma County
+AZ|04|20680|Dudleyville CDP|Census Designated Place|S|Pinal County
+AZ|04|20750|Duncan town|Incorporated Place|A|Greenlee County
+AZ|04|20960|Eagar town|Incorporated Place|A|Apache County
+AZ|04|21310|East Fork CDP|Census Designated Place|S|Navajo County
+AZ|04|21410|East Globe CDP|Census Designated Place|S|Gila County
+AZ|04|21545|East Verde Estates CDP|Census Designated Place|S|Gila County
+AZ|04|21800|Ehrenberg CDP|Census Designated Place|S|La Paz County
+AZ|04|21900|El Capitan CDP|Census Designated Place|S|Gila County
+AZ|04|21980|Elephant Head CDP|Census Designated Place|S|Pima County
+AZ|04|22080|Elfrida CDP|Census Designated Place|S|Cochise County
+AZ|04|22150|Elgin CDP|Census Designated Place|S|Santa Cruz County
+AZ|04|22220|El Mirage city|Incorporated Place|A|Maricopa County
+AZ|04|22360|Eloy city|Incorporated Place|A|Pinal County
+AZ|04|22400|El Prado Estates CDP|Census Designated Place|S|Yuma County
+AZ|04|23512|First Mesa CDP|Census Designated Place|S|Navajo County
+AZ|04|23620|Flagstaff city|Incorporated Place|A|Coconino County
+AZ|04|23760|Florence town|Incorporated Place|A|Pinal County
+AZ|04|23955|Flowing Springs CDP|Census Designated Place|S|Gila County
+AZ|04|23960|Flowing Wells CDP|Census Designated Place|S|Pima County
+AZ|04|24250|Fort Apache CDP|Census Designated Place|S|Navajo County
+AZ|04|24460|Fort Defiance CDP|Census Designated Place|S|Apache County
+AZ|04|24895|Fort Mohave CDP|Census Designated Place|S|Mohave County
+AZ|04|24950|Fort Thomas CDP|Census Designated Place|S|Graham County
+AZ|04|25030|Fortuna Foothills CDP|Census Designated Place|S|Yuma County
+AZ|04|25045|Fort Valley CDP|Census Designated Place|S|Coconino County
+AZ|04|25300|Fountain Hills town|Incorporated Place|A|Maricopa County
+AZ|04|25650|Franklin CDP|Census Designated Place|S|Greenlee County
+AZ|04|25720|Fredonia town|Incorporated Place|A|Coconino County
+AZ|04|25735|Freedom Acres CDP|Census Designated Place|S|Gila County
+AZ|04|26070|Gadsden CDP|Census Designated Place|S|Yuma County
+AZ|04|26210|Ganado CDP|Census Designated Place|S|Apache County
+AZ|04|26780|Geronimo Estates CDP|Census Designated Place|S|Gila County
+AZ|04|27050|Gila Bend town|Incorporated Place|A|Maricopa County
+AZ|04|27260|Gila Crossing CDP|Census Designated Place|S|Maricopa County
+AZ|04|27400|Gilbert town|Incorporated Place|A|Maricopa County
+AZ|04|27540|Gisela CDP|Census Designated Place|S|Gila County
+AZ|04|27820|Glendale city|Incorporated Place|A|Maricopa County
+AZ|04|28030|Globe city|Incorporated Place|A|Gila County
+AZ|04|28120|Gold Canyon CDP|Census Designated Place|S|Pinal County
+AZ|04|28190|Golden Shores CDP|Census Designated Place|S|Mohave County
+AZ|04|28195|Golden Valley CDP|Census Designated Place|S|Mohave County
+AZ|04|28380|Goodyear city|Incorporated Place|A|Maricopa County
+AZ|04|28465|Goodyear Village CDP|Census Designated Place|S|Pinal County
+AZ|04|28981|Grand Canyon Village CDP|Census Designated Place|S|Coconino County
+AZ|04|28985|Grand Canyon West CDP|Census Designated Place|S|Mohave County
+AZ|04|29430|Greasewood CDP|Census Designated Place|S|Navajo County
+AZ|04|29710|Green Valley CDP|Census Designated Place|S|Pima County
+AZ|04|29850|Greer CDP|Census Designated Place|S|Apache County
+AZ|04|30270|Guadalupe town|Incorporated Place|A|Maricopa County
+AZ|04|30550|Gu Oidak CDP|Census Designated Place|S|Pima County
+AZ|04|30830|Hackberry CDP|Census Designated Place|S|Mohave County
+AZ|04|30840|Haigler Creek CDP|Census Designated Place|S|Gila County
+AZ|04|30850|Haivana Nakya CDP|Census Designated Place|S|Pima County
+AZ|04|31182|Hard Rock CDP|Census Designated Place|S|Navajo County
+AZ|04|32020|Hayden town|Incorporated Place|A|Gila County, Pinal County
+AZ|04|32310|Heber-Overgaard CDP|Census Designated Place|S|Navajo County
+AZ|04|33280|Holbrook city|Incorporated Place|A|Navajo County
+AZ|04|33440|Hondah CDP|Census Designated Place|S|Navajo County
+AZ|04|33945|Hotevilla-Bacavi CDP|Census Designated Place|S|Navajo County
+AZ|04|33980|Houck CDP|Census Designated Place|S|Apache County
+AZ|04|34120|Huachuca City town|Incorporated Place|A|Cochise County
+AZ|04|34700|Hunter Creek CDP|Census Designated Place|S|Gila County
+AZ|04|34980|Icehouse Canyon CDP|Census Designated Place|S|Gila County
+AZ|04|35310|Indian Wells CDP|Census Designated Place|S|Navajo County
+AZ|04|36010|Jakes Corner CDP|Census Designated Place|S|Gila County
+AZ|04|36150|Jeddito CDP|Census Designated Place|S|Navajo County
+AZ|04|36290|Jerome town|Incorporated Place|A|Yavapai County
+AZ|04|36430|Joseph City CDP|Census Designated Place|S|Navajo County
+AZ|04|36475|Kachina Village CDP|Census Designated Place|S|Coconino County
+AZ|04|36500|Kaibab CDP|Census Designated Place|S|Mohave County
+AZ|04|36640|Kaibito CDP|Census Designated Place|S|Coconino County
+AZ|04|36780|Kaka CDP|Census Designated Place|S|Maricopa County
+AZ|04|36920|Katherine CDP|Census Designated Place|S|Mohave County
+AZ|04|36990|Kayenta CDP|Census Designated Place|S|Navajo County
+AZ|04|37130|Keams Canyon CDP|Census Designated Place|S|Navajo County
+AZ|04|37200|Kearny town|Incorporated Place|A|Pinal County
+AZ|04|37620|Kingman city|Incorporated Place|A|Mohave County
+AZ|04|37935|Kino Springs CDP|Census Designated Place|S|Santa Cruz County
+AZ|04|38250|Klagetoh CDP|Census Designated Place|S|Apache County
+AZ|04|38530|Kohatk CDP|Census Designated Place|S|Pinal County
+AZ|04|38600|Kohls Ranch CDP|Census Designated Place|S|Gila County
+AZ|04|38655|Komatke CDP|Census Designated Place|S|Maricopa County
+AZ|04|38940|Ko Vaya CDP|Census Designated Place|S|Pima County
+AZ|04|39100|Kykotsmovi Village CDP|Census Designated Place|S|Navajo County
+AZ|04|39370|Lake Havasu City city|Incorporated Place|A|Mohave County
+AZ|04|39720|Lake Montezuma CDP|Census Designated Place|S|Yavapai County
+AZ|04|39790|Lake of the Woods CDP|Census Designated Place|S|Navajo County
+AZ|04|40160|La Paz Valley CDP|Census Designated Place|S|La Paz County
+AZ|04|40400|Lazy Y U CDP|Census Designated Place|S|Mohave County
+AZ|04|40415|LeChee CDP|Census Designated Place|S|Coconino County
+AZ|04|40630|Leupp CDP|Census Designated Place|S|Coconino County
+AZ|04|41085|Linden CDP|Census Designated Place|S|Navajo County
+AZ|04|41330|Litchfield Park city|Incorporated Place|A|Maricopa County
+AZ|04|41470|Littlefield CDP|Census Designated Place|S|Mohave County
+AZ|04|41540|Littletown CDP|Census Designated Place|S|Pima County
+AZ|04|42460|Lower Santan Village CDP|Census Designated Place|S|Pinal County
+AZ|04|42590|Low Mountain CDP|Census Designated Place|S|Navajo County
+AZ|04|42660|Lukachukai CDP|Census Designated Place|S|Apache County
+AZ|04|42940|Lupton CDP|Census Designated Place|S|Apache County
+AZ|04|43150|McConnico CDP|Census Designated Place|S|Mohave County
+AZ|04|43430|McNary CDP|Census Designated Place|S|Apache County, Navajo County
+AZ|04|43570|McNeal CDP|Census Designated Place|S|Cochise County
+AZ|04|43920|Maish Vaya CDP|Census Designated Place|S|Pima County
+AZ|04|43990|Mammoth town|Incorporated Place|A|Pinal County
+AZ|04|44200|Many Farms CDP|Census Designated Place|S|Apache County
+AZ|04|44270|Marana town|Incorporated Place|A|Pima County, Pinal County
+AZ|04|44410|Maricopa city|Incorporated Place|A|Pinal County
+AZ|04|44450|Maricopa Colony CDP|Census Designated Place|S|Maricopa County
+AZ|04|44830|Martinez Lake CDP|Census Designated Place|S|Yuma County
+AZ|04|45180|Mayer CDP|Census Designated Place|S|Yavapai County
+AZ|04|45275|Mead Ranch CDP|Census Designated Place|S|Gila County
+AZ|04|45285|Meadview CDP|Census Designated Place|S|Mohave County
+AZ|04|46000|Mesa city|Incorporated Place|A|Maricopa County
+AZ|04|46005|Mesa del Caballo CDP|Census Designated Place|S|Gila County
+AZ|04|46070|Mescal CDP|Census Designated Place|S|Cochise County
+AZ|04|46087|Mesquite Creek CDP|Census Designated Place|S|Mohave County
+AZ|04|46350|Miami town|Incorporated Place|A|Gila County
+AZ|04|46840|Miracle Valley CDP|Census Designated Place|S|Cochise County
+AZ|04|47190|Moccasin CDP|Census Designated Place|S|Mohave County
+AZ|04|47330|Moenkopi CDP|Census Designated Place|S|Coconino County
+AZ|04|47400|Mohave Valley CDP|Census Designated Place|S|Mohave County
+AZ|04|47495|Mojave Ranch Estates CDP|Census Designated Place|S|Mohave County
+AZ|04|47610|Morenci CDP|Census Designated Place|S|Greenlee County
+AZ|04|47740|Morristown CDP|Census Designated Place|S|Maricopa County
+AZ|04|47820|Mountainaire CDP|Census Designated Place|S|Coconino County
+AZ|04|48170|Munds Park CDP|Census Designated Place|S|Coconino County
+AZ|04|48310|Naco CDP|Census Designated Place|S|Cochise County
+AZ|04|49010|Nazlini CDP|Census Designated Place|S|Apache County
+AZ|04|49100|Nelson CDP|Census Designated Place|S|Pima County
+AZ|04|49270|New Kingman-Butler CDP|Census Designated Place|S|Mohave County
+AZ|04|49360|New River CDP|Census Designated Place|S|Maricopa County
+AZ|04|49640|Nogales city|Incorporated Place|A|Santa Cruz County
+AZ|04|49710|Nolic CDP|Census Designated Place|S|Pima County
+AZ|04|50000|North Fork CDP|Census Designated Place|S|Navajo County
+AZ|04|50340|Nutrioso CDP|Census Designated Place|S|Apache County
+AZ|04|50480|Oak Springs CDP|Census Designated Place|S|Apache County
+AZ|04|50620|Oatman CDP|Census Designated Place|S|Mohave County
+AZ|04|51142|Oljato-Monument Valley CDP|Census Designated Place|S|Navajo County
+AZ|04|51180|Oracle CDP|Census Designated Place|S|Pinal County
+AZ|04|51465|Orange Grove Mobile Manor CDP|Census Designated Place|S|Yuma County
+AZ|04|51600|Oro Valley town|Incorporated Place|A|Pima County
+AZ|04|51775|Oxbow Estates CDP|Census Designated Place|S|Gila County
+AZ|04|51800|Padre Ranchitos CDP|Census Designated Place|S|Yuma County
+AZ|04|51810|Page city|Incorporated Place|A|Coconino County
+AZ|04|52230|Palominas CDP|Census Designated Place|S|Cochise County
+AZ|04|52930|Paradise Valley town|Incorporated Place|A|Maricopa County
+AZ|04|53070|Parker town|Incorporated Place|A|La Paz County
+AZ|04|53210|Parker Strip CDP|Census Designated Place|S|La Paz County
+AZ|04|53350|Parks CDP|Census Designated Place|S|Coconino County
+AZ|04|53490|Patagonia town|Incorporated Place|A|Santa Cruz County
+AZ|04|53560|Paulden CDP|Census Designated Place|S|Yavapai County
+AZ|04|53700|Payson town|Incorporated Place|A|Gila County
+AZ|04|53770|Peach Springs CDP|Census Designated Place|S|Mohave County
+AZ|04|53910|Peeples Valley CDP|Census Designated Place|S|Yavapai County
+AZ|04|54050|Peoria city|Incorporated Place|A|Maricopa County, Yavapai County
+AZ|04|54190|Peridot CDP|Census Designated Place|S|Gila County, Graham County
+AZ|04|55000|Phoenix city|Incorporated Place|A|Maricopa County
+AZ|04|55210|Picacho CDP|Census Designated Place|S|Pinal County
+AZ|04|55300|Picture Rocks CDP|Census Designated Place|S|Pima County
+AZ|04|55560|Pima town|Incorporated Place|A|Graham County
+AZ|04|55575|Pimaco Two CDP|Census Designated Place|S|Pima County
+AZ|04|55630|Pinal CDP|Census Designated Place|S|Gila County
+AZ|04|55700|Pine CDP|Census Designated Place|S|Gila County
+AZ|04|55840|Pinedale CDP|Census Designated Place|S|Navajo County
+AZ|04|55845|Pine Lake CDP|Census Designated Place|S|Mohave County
+AZ|04|55880|Pinetop Country Club CDP|Census Designated Place|S|Navajo County
+AZ|04|55980|Pinetop-Lakeside town|Incorporated Place|A|Navajo County
+AZ|04|55983|Pinion Pines CDP|Census Designated Place|S|Mohave County
+AZ|04|56120|Pinon CDP|Census Designated Place|S|Navajo County
+AZ|04|56400|Pirtleville CDP|Census Designated Place|S|Cochise County
+AZ|04|56470|Pisinemo CDP|Census Designated Place|S|Pima County
+AZ|04|57170|Poston CDP|Census Designated Place|S|La Paz County
+AZ|04|57380|Prescott city|Incorporated Place|A|Yavapai County
+AZ|04|57450|Prescott Valley town|Incorporated Place|A|Yavapai County
+AZ|04|58010|Quartzsite town|Incorporated Place|A|La Paz County
+AZ|04|58150|Queen Creek town|Incorporated Place|A|Maricopa County, Pinal County
+AZ|04|58290|Queen Valley CDP|Census Designated Place|S|Pinal County
+AZ|04|58620|Rainbow City CDP|Census Designated Place|S|Navajo County
+AZ|04|58870|Rancho Mesa Verde CDP|Census Designated Place|S|Yuma County
+AZ|04|59550|Red Mesa CDP|Census Designated Place|S|Apache County
+AZ|04|59760|Red Rock CDP|Census Designated Place|S|Apache County
+AZ|04|59770|Red Rock CDP|Census Designated Place|S|Pinal County
+AZ|04|59900|Rillito CDP|Census Designated Place|S|Pima County
+AZ|04|60120|Rincon Valley CDP|Census Designated Place|S|Pima County
+AZ|04|60180|Rio Rico CDP|Census Designated Place|S|Santa Cruz County
+AZ|04|60250|Rio Verde CDP|Census Designated Place|S|Maricopa County
+AZ|04|60770|Rock House CDP|Census Designated Place|S|Gila County
+AZ|04|60880|Rock Point CDP|Census Designated Place|S|Apache County
+AZ|04|61300|Roosevelt CDP|Census Designated Place|S|Gila County
+AZ|04|61370|Rough Rock CDP|Census Designated Place|S|Apache County
+AZ|04|61440|Round Rock CDP|Census Designated Place|S|Apache County
+AZ|04|61448|Round Valley CDP|Census Designated Place|S|Gila County
+AZ|04|61690|Rye CDP|Census Designated Place|S|Gila County
+AZ|04|61715|Sacate Village CDP|Census Designated Place|S|Pinal County
+AZ|04|61720|Sacaton CDP|Census Designated Place|S|Pinal County
+AZ|04|61800|Sacaton Flats Village CDP|Census Designated Place|S|Pinal County
+AZ|04|61940|Saddlebrooke CDP|Census Designated Place|S|Pinal County
+AZ|04|62000|Safford city|Incorporated Place|A|Graham County
+AZ|04|62140|Sahuarita town|Incorporated Place|A|Pima County
+AZ|04|62280|St. David CDP|Census Designated Place|S|Cochise County
+AZ|04|62350|St. Johns city|Incorporated Place|A|Apache County
+AZ|04|62362|St. Johns CDP|Census Designated Place|S|Maricopa County
+AZ|04|62420|St. Michaels CDP|Census Designated Place|S|Apache County
+AZ|04|62700|Salome CDP|Census Designated Place|S|La Paz County
+AZ|04|62910|San Carlos CDP|Census Designated Place|S|Gila County
+AZ|04|63050|Sanders CDP|Census Designated Place|S|Apache County
+AZ|04|63260|San Jose CDP|Census Designated Place|S|Graham County
+AZ|04|63470|San Luis city|Incorporated Place|A|Yuma County
+AZ|04|63540|San Manuel CDP|Census Designated Place|S|Pinal County
+AZ|04|63610|San Miguel CDP|Census Designated Place|S|Pima County
+AZ|04|63820|San Simon CDP|Census Designated Place|S|Cochise County
+AZ|04|63960|Santa Cruz CDP|Census Designated Place|S|Pinal County
+AZ|04|64210|San Tan Valley CDP|Census Designated Place|S|Pinal County
+AZ|04|64310|Santa Rosa CDP|Census Designated Place|S|Pima County
+AZ|04|64590|Sawmill CDP|Census Designated Place|S|Apache County
+AZ|04|64650|Scenic CDP|Census Designated Place|S|Mohave County
+AZ|04|65000|Scottsdale city|Incorporated Place|A|Maricopa County
+AZ|04|65167|Seba Dalkai CDP|Census Designated Place|S|Navajo County
+AZ|04|65280|Second Mesa CDP|Census Designated Place|S|Navajo County
+AZ|04|65350|Sedona city|Incorporated Place|A|Coconino County, Yavapai County
+AZ|04|65400|Sehili CDP|Census Designated Place|S|Apache County
+AZ|04|65420|Seligman CDP|Census Designated Place|S|Yavapai County
+AZ|04|65490|Sells CDP|Census Designated Place|S|Pima County
+AZ|04|65780|Seven Mile CDP|Census Designated Place|S|Navajo County
+AZ|04|66190|Shongopovi CDP|Census Designated Place|S|Navajo County
+AZ|04|66260|Shonto CDP|Census Designated Place|S|Navajo County
+AZ|04|66470|Show Low city|Incorporated Place|A|Navajo County
+AZ|04|66820|Sierra Vista city|Incorporated Place|A|Cochise County
+AZ|04|66845|Sierra Vista Southeast CDP|Census Designated Place|S|Cochise County
+AZ|04|67295|Six Shooter Canyon CDP|Census Designated Place|S|Gila County
+AZ|04|67800|Snowflake town|Incorporated Place|A|Navajo County
+AZ|04|67920|So-Hi CDP|Census Designated Place|S|Mohave County
+AZ|04|68010|Solomon CDP|Census Designated Place|S|Graham County
+AZ|04|68080|Somerton city|Incorporated Place|A|Yuma County
+AZ|04|68220|Sonoita CDP|Census Designated Place|S|Santa Cruz County
+AZ|04|68670|South Komelik CDP|Census Designated Place|S|Pima County
+AZ|04|68850|South Tucson city|Incorporated Place|A|Pima County
+AZ|04|68990|Springerville town|Incorporated Place|A|Apache County
+AZ|04|69060|Spring Valley CDP|Census Designated Place|S|Yavapai County
+AZ|04|69130|Stanfield CDP|Census Designated Place|S|Pinal County
+AZ|04|69480|Star Valley town|Incorporated Place|A|Gila County
+AZ|04|69585|Steamboat CDP|Census Designated Place|S|Apache County
+AZ|04|69872|Stotonic Village CDP|Census Designated Place|S|Pinal County
+AZ|04|70040|Strawberry CDP|Census Designated Place|S|Gila County
+AZ|04|70175|Summerhaven CDP|Census Designated Place|S|Pima County
+AZ|04|70240|Summit CDP|Census Designated Place|S|Pima County
+AZ|04|70320|Sun City CDP|Census Designated Place|S|Maricopa County
+AZ|04|70355|Sun City West CDP|Census Designated Place|S|Maricopa County
+AZ|04|70460|Sunizona CDP|Census Designated Place|S|Cochise County
+AZ|04|70530|Sun Lakes CDP|Census Designated Place|S|Maricopa County
+AZ|04|71160|Sun Valley CDP|Census Designated Place|S|Navajo County
+AZ|04|71220|Sunwest CDP|Census Designated Place|S|La Paz County
+AZ|04|71230|Supai CDP|Census Designated Place|S|Coconino County
+AZ|04|71300|Superior town|Incorporated Place|A|Pinal County
+AZ|04|71510|Surprise city|Incorporated Place|A|Maricopa County
+AZ|04|71642|Sweet Water Village CDP|Census Designated Place|S|Pinal County
+AZ|04|71650|Swift Trail Junction CDP|Census Designated Place|S|Graham County
+AZ|04|71790|Tacna CDP|Census Designated Place|S|Yuma County
+AZ|04|72000|Tanque Verde CDP|Census Designated Place|S|Pima County
+AZ|04|72280|Tat Momoli CDP|Census Designated Place|S|Pinal County
+AZ|04|72420|Taylor town|Incorporated Place|A|Navajo County
+AZ|04|72560|Teec Nos Pos CDP|Census Designated Place|S|Apache County
+AZ|04|72630|Tees Toh CDP|Census Designated Place|S|Navajo County
+AZ|04|73000|Tempe city|Incorporated Place|A|Maricopa County
+AZ|04|73420|Thatcher town|Incorporated Place|A|Graham County
+AZ|04|73480|Theba CDP|Census Designated Place|S|Maricopa County
+AZ|04|73700|Three Points CDP|Census Designated Place|S|Pima County
+AZ|04|74120|Tolani Lake CDP|Census Designated Place|S|Coconino County
+AZ|04|74190|Tolleson city|Incorporated Place|A|Maricopa County
+AZ|04|74400|Tombstone city|Incorporated Place|A|Cochise County
+AZ|04|74470|Tonalea CDP|Census Designated Place|S|Coconino County
+AZ|04|74540|Tonopah CDP|Census Designated Place|S|Maricopa County
+AZ|04|74610|Tonto Basin CDP|Census Designated Place|S|Gila County
+AZ|04|74665|Tonto Village CDP|Census Designated Place|S|Gila County
+AZ|04|74680|Topawa CDP|Census Designated Place|S|Pima County
+AZ|04|74750|Topock CDP|Census Designated Place|S|Mohave County
+AZ|04|74820|Top-of-the-World CDP|Census Designated Place|S|Gila County, Pinal County
+AZ|04|75310|Toyei CDP|Census Designated Place|S|Apache County
+AZ|04|75590|Truxton CDP|Census Designated Place|S|Mohave County
+AZ|04|75660|Tsaile CDP|Census Designated Place|S|Apache County
+AZ|04|75940|Tubac CDP|Census Designated Place|S|Santa Cruz County
+AZ|04|76010|Tuba City CDP|Census Designated Place|S|Coconino County
+AZ|04|77000|Tucson city|Incorporated Place|A|Pima County
+AZ|04|77035|Tucson Estates CDP|Census Designated Place|S|Pima County
+AZ|04|77367|Tumacacori-Carmen CDP|Census Designated Place|S|Santa Cruz County
+AZ|04|77415|Turkey Creek CDP|Census Designated Place|S|Navajo County
+AZ|04|77490|Tusayan CDP|Census Designated Place|S|Coconino County
+AZ|04|78300|Upper Santan Village CDP|Census Designated Place|S|Pinal County
+AZ|04|78400|Utting CDP|Census Designated Place|S|La Paz County
+AZ|04|78540|Vail CDP|Census Designated Place|S|Pima County
+AZ|04|78680|Vaiva Vo CDP|Census Designated Place|S|Pinal County
+AZ|04|78760|Valencia West CDP|Census Designated Place|S|Pima County
+AZ|04|78820|Valentine CDP|Census Designated Place|S|Mohave County
+AZ|04|78855|Valle CDP|Census Designated Place|S|Coconino County
+AZ|04|78865|Valle Vista CDP|Census Designated Place|S|Mohave County
+AZ|04|79590|Ventana CDP|Census Designated Place|S|Pima County
+AZ|04|79830|Verde Village CDP|Census Designated Place|S|Yavapai County
+AZ|04|79870|Vernon CDP|Census Designated Place|S|Apache County
+AZ|04|79940|Vicksburg CDP|Census Designated Place|S|La Paz County
+AZ|04|80095|Village of Oak Creek (Big Park) CDP|Census Designated Place|S|Yavapai County
+AZ|04|80380|Wagon Wheel CDP|Census Designated Place|S|Navajo County
+AZ|04|80430|Wahak Hotrontk CDP|Census Designated Place|S|Pima County
+AZ|04|80790|Wall Lane CDP|Census Designated Place|S|Yuma County
+AZ|04|80825|Walnut Creek CDP|Census Designated Place|S|Mohave County
+AZ|04|81175|Washington Park CDP|Census Designated Place|S|Gila County
+AZ|04|81480|Wellton town|Incorporated Place|A|Yuma County
+AZ|04|81490|Wellton Hills CDP|Census Designated Place|S|Yuma County
+AZ|04|81550|Wenden CDP|Census Designated Place|S|La Paz County
+AZ|04|82060|Wet Camp Village CDP|Census Designated Place|S|Pinal County
+AZ|04|82120|Wheatfields CDP|Census Designated Place|S|Gila County
+AZ|04|82155|Whetstone CDP|Census Designated Place|S|Cochise County
+AZ|04|82270|Whispering Pines CDP|Census Designated Place|S|Gila County
+AZ|04|82390|Whitecone CDP|Census Designated Place|S|Navajo County
+AZ|04|82425|White Hills CDP|Census Designated Place|S|Mohave County
+AZ|04|82450|White Mountain Lake CDP|Census Designated Place|S|Navajo County
+AZ|04|82530|Whiteriver CDP|Census Designated Place|S|Navajo County
+AZ|04|82660|Why CDP|Census Designated Place|S|Pima County
+AZ|04|82740|Wickenburg town|Incorporated Place|A|Maricopa County, Yavapai County
+AZ|04|82810|Wide Ruins CDP|Census Designated Place|S|Apache County
+AZ|04|82880|Wikieup CDP|Census Designated Place|S|Mohave County
+AZ|04|82950|Wilhoit CDP|Census Designated Place|S|Yavapai County
+AZ|04|83090|Willcox city|Incorporated Place|A|Cochise County
+AZ|04|83160|Williams city|Incorporated Place|A|Coconino County
+AZ|04|83388|Williamson CDP|Census Designated Place|S|Yavapai County
+AZ|04|83475|Willow Canyon CDP|Census Designated Place|S|Pima County
+AZ|04|83570|Willow Valley CDP|Census Designated Place|S|Mohave County
+AZ|04|83720|Window Rock CDP|Census Designated Place|S|Apache County
+AZ|04|83790|Winkelman town|Incorporated Place|A|Gila County, Pinal County
+AZ|04|83930|Winslow city|Incorporated Place|A|Navajo County
+AZ|04|83960|Winslow West CDP|Census Designated Place|S|Coconino County, Navajo County
+AZ|04|84000|Wintersburg CDP|Census Designated Place|S|Maricopa County
+AZ|04|84140|Wittmann CDP|Census Designated Place|S|Maricopa County
+AZ|04|84350|Woodruff CDP|Census Designated Place|S|Navajo County
+AZ|04|84980|Yarnell CDP|Census Designated Place|S|Yavapai County
+AZ|04|85260|York CDP|Census Designated Place|S|Greenlee County
+AZ|04|85330|Young CDP|Census Designated Place|S|Gila County
+AZ|04|85400|Youngtown town|Incorporated Place|A|Maricopa County
+AZ|04|85470|Yucca CDP|Census Designated Place|S|Mohave County
+AZ|04|85540|Yuma city|Incorporated Place|A|Yuma County

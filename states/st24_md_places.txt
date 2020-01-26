@@ -1,0 +1,518 @@
+MD|24|00125|Aberdeen city|Incorporated Place|A|Harford County
+MD|24|00175|Aberdeen Proving Ground CDP|Census Designated Place|S|Harford County
+MD|24|00225|Accident town|Incorporated Place|A|Garrett County
+MD|24|00250|Accokeek CDP|Census Designated Place|S|Prince George's County
+MD|24|00350|Adamstown CDP|Census Designated Place|S|Frederick County
+MD|24|00400|Adelphi CDP|Census Designated Place|S|Prince George's County
+MD|24|00712|Algonquin CDP|Census Designated Place|S|Dorchester County
+MD|24|00800|Allen CDP|Census Designated Place|S|Wicomico County
+MD|24|01450|Andrews AFB CDP|Census Designated Place|S|Prince George's County
+MD|24|01600|Annapolis city|Incorporated Place|A|Anne Arundel County
+MD|24|01635|Annapolis Neck CDP|Census Designated Place|S|Anne Arundel County
+MD|24|01750|Antietam CDP|Census Designated Place|S|Washington County
+MD|24|01925|Aquasco CDP|Census Designated Place|S|Prince George's County
+MD|24|01975|Arbutus CDP|Census Designated Place|S|Baltimore County
+MD|24|02025|Arden on the Severn CDP|Census Designated Place|S|Anne Arundel County
+MD|24|02275|Arnold CDP|Census Designated Place|S|Anne Arundel County
+MD|24|02762|Ashton-Sandy Spring CDP|Census Designated Place|S|Montgomery County
+MD|24|02825|Aspen Hill CDP|Census Designated Place|S|Montgomery County
+MD|24|03500|Baden CDP|Census Designated Place|S|Prince George's County
+MD|24|03514|Bagtown CDP|Census Designated Place|S|Washington County
+MD|24|03575|Bakersville CDP|Census Designated Place|S|Washington County
+MD|24|03800|Ballenger Creek CDP|Census Designated Place|S|Frederick County
+MD|24|04000|Baltimore city|Incorporated Place|A|Baltimore city
+MD|24|04050|Baltimore Highlands CDP|Census Designated Place|S|Baltimore County
+MD|24|04250|Barclay town|Incorporated Place|A|Queen Anne's County
+MD|24|04475|Barnesville town|Incorporated Place|A|Montgomery County
+MD|24|04525|Barrelville CDP|Census Designated Place|S|Allegany County
+MD|24|04625|Barton town|Incorporated Place|A|Allegany County
+MD|24|04650|Bartonsville CDP|Census Designated Place|S|Frederick County
+MD|24|05250|Beaver Creek CDP|Census Designated Place|S|Washington County
+MD|24|05525|Bel Air CDP|Census Designated Place|S|Allegany County
+MD|24|05550|Bel Air town|Incorporated Place|A|Harford County
+MD|24|05825|Bel Air North CDP|Census Designated Place|S|Harford County
+MD|24|05950|Bel Air South CDP|Census Designated Place|S|Harford County
+MD|24|06400|Beltsville CDP|Census Designated Place|S|Prince George's County
+MD|24|06550|Benedict CDP|Census Designated Place|S|Charles County
+MD|24|06615|Bensville CDP|Census Designated Place|S|Charles County
+MD|24|06800|Berlin town|Incorporated Place|A|Worcester County
+MD|24|06925|Berwyn Heights town|Incorporated Place|A|Prince George's County
+MD|24|07125|Bethesda CDP|Census Designated Place|S|Montgomery County
+MD|24|07200|Betterton town|Incorporated Place|A|Kent County
+MD|24|07285|Bier CDP|Census Designated Place|S|Allegany County
+MD|24|07375|Big Pool CDP|Census Designated Place|S|Washington County
+MD|24|07400|Big Spring CDP|Census Designated Place|S|Washington County
+MD|24|07625|Bishopville CDP|Census Designated Place|S|Worcester County
+MD|24|07675|Bivalve CDP|Census Designated Place|S|Wicomico County
+MD|24|07850|Bladensburg town|Incorporated Place|A|Prince George's County
+MD|24|08050|Bloomington CDP|Census Designated Place|S|Garrett County
+MD|24|08625|Boonsboro town|Incorporated Place|A|Washington County
+MD|24|08775|Bowie city|Incorporated Place|A|Prince George's County
+MD|24|08800|Bowleys Quarters CDP|Census Designated Place|S|Baltimore County
+MD|24|08850|Bowling Green CDP|Census Designated Place|S|Allegany County
+MD|24|08862|Bowmans Addition CDP|Census Designated Place|S|Allegany County
+MD|24|09100|Braddock Heights CDP|Census Designated Place|S|Frederick County
+MD|24|09325|Brandywine CDP|Census Designated Place|S|Prince George's County
+MD|24|09400|Breathedsville CDP|Census Designated Place|S|Washington County
+MD|24|09500|Brentwood town|Incorporated Place|A|Prince George's County
+MD|24|10150|Brock Hall CDP|Census Designated Place|S|Prince George's County
+MD|24|10225|Brookeville town|Incorporated Place|A|Montgomery County
+MD|24|10475|Brooklyn Park CDP|Census Designated Place|S|Anne Arundel County
+MD|24|10500|Brookmont CDP|Census Designated Place|S|Montgomery County
+MD|24|10575|Brookview town|Incorporated Place|A|Dorchester County
+MD|24|10650|Broomes Island CDP|Census Designated Place|S|Calvert County
+MD|24|10800|Brownsville CDP|Census Designated Place|S|Washington County
+MD|24|10900|Brunswick city|Incorporated Place|A|Frederick County
+MD|24|10925|Bryans Road CDP|Census Designated Place|S|Charles County
+MD|24|10950|Bryantown CDP|Census Designated Place|S|Charles County
+MD|24|11050|Buckeystown CDP|Census Designated Place|S|Frederick County
+MD|24|11400|Burkittsville town|Incorporated Place|A|Frederick County
+MD|24|11750|Burtonsville CDP|Census Designated Place|S|Montgomery County
+MD|24|11900|Butlertown CDP|Census Designated Place|S|Kent County
+MD|24|12075|Cabin John CDP|Census Designated Place|S|Montgomery County
+MD|24|12150|California CDP|Census Designated Place|S|St. Mary's County
+MD|24|12300|Calvert Beach CDP|Census Designated Place|S|Calvert County
+MD|24|12350|Calverton CDP|Census Designated Place|S|Montgomery County, Prince George's County
+MD|24|12400|Cambridge city|Incorporated Place|A|Dorchester County
+MD|24|12600|Camp Springs CDP|Census Designated Place|S|Prince George's County
+MD|24|12912|Cape St. Claire CDP|Census Designated Place|S|Anne Arundel County
+MD|24|13000|Capitol Heights town|Incorporated Place|A|Prince George's County
+MD|24|13225|Carlos CDP|Census Designated Place|S|Allegany County
+MD|24|13325|Carney CDP|Census Designated Place|S|Baltimore County
+MD|24|14125|Catonsville CDP|Census Designated Place|S|Baltimore County
+MD|24|14225|Cavetown CDP|Census Designated Place|S|Washington County
+MD|24|14300|Cearfoss CDP|Census Designated Place|S|Washington County
+MD|24|14325|Cecilton town|Incorporated Place|A|Cecil County
+MD|24|14800|Cedarville CDP|Census Designated Place|S|Prince George's County
+MD|24|14950|Centreville town|Incorporated Place|A|Queen Anne's County
+MD|24|15075|Chance CDP|Census Designated Place|S|Somerset County
+MD|24|15400|Charlestown town|Incorporated Place|A|Cecil County
+MD|24|15475|Charlotte Hall CDP|Census Designated Place|S|St. Mary's County
+MD|24|15500|Charlton CDP|Census Designated Place|S|Washington County
+MD|24|15925|Chesapeake Beach town|Incorporated Place|A|Calvert County
+MD|24|15950|Chesapeake City town|Incorporated Place|A|Cecil County
+MD|24|16050|Chesapeake Ranch Estates CDP|Census Designated Place|S|Calvert County
+MD|24|16125|Chester CDP|Census Designated Place|S|Queen Anne's County
+MD|24|16225|Chestertown town|Incorporated Place|A|Kent County
+MD|24|16550|Cheverly town|Incorporated Place|A|Prince George's County
+MD|24|16620|Chevy Chase town|Incorporated Place|A|Montgomery County
+MD|24|16625|Chevy Chase CDP|Census Designated Place|S|Montgomery County
+MD|24|16720|Chevy Chase Section Five village|Incorporated Place|A|Montgomery County
+MD|24|16730|Chevy Chase Section Three village|Incorporated Place|A|Montgomery County
+MD|24|16775|Chevy Chase View town|Incorporated Place|A|Montgomery County
+MD|24|16787|Chevy Chase Village town|Incorporated Place|A|Montgomery County
+MD|24|16800|Chewsville CDP|Census Designated Place|S|Washington County
+MD|24|16875|Chillum CDP|Census Designated Place|S|Prince George's County
+MD|24|17000|Choptank CDP|Census Designated Place|S|Caroline County
+MD|24|17050|Church Creek town|Incorporated Place|A|Dorchester County
+MD|24|17100|Church Hill town|Incorporated Place|A|Queen Anne's County
+MD|24|17350|Clarksburg CDP|Census Designated Place|S|Montgomery County
+MD|24|17475|Clarysville CDP|Census Designated Place|S|Allegany County
+MD|24|17600|Clear Spring town|Incorporated Place|A|Washington County
+MD|24|17900|Clinton CDP|Census Designated Place|S|Prince George's County
+MD|24|18150|Cloverly CDP|Census Designated Place|S|Montgomery County
+MD|24|18200|Cobb Island CDP|Census Designated Place|S|Charles County
+MD|24|18250|Cockeysville CDP|Census Designated Place|S|Baltimore County
+MD|24|18475|Colesville CDP|Census Designated Place|S|Montgomery County
+MD|24|18750|College Park city|Incorporated Place|A|Prince George's County
+MD|24|18850|Colmar Manor town|Incorporated Place|A|Prince George's County
+MD|24|19125|Columbia CDP|Census Designated Place|S|Howard County
+MD|24|19825|Coral Hills CDP|Census Designated Place|S|Prince George's County
+MD|24|19900|Cordova CDP|Census Designated Place|S|Talbot County
+MD|24|19975|Corriganville CDP|Census Designated Place|S|Allegany County
+MD|24|20050|Cottage City town|Incorporated Place|A|Prince George's County
+MD|24|20500|Crellin CDP|Census Designated Place|S|Garrett County
+MD|24|20525|Cresaptown CDP|Census Designated Place|S|Allegany County
+MD|24|20775|Crisfield city|Incorporated Place|A|Somerset County
+MD|24|20875|Crofton CDP|Census Designated Place|S|Anne Arundel County
+MD|24|20925|Croom CDP|Census Designated Place|S|Prince George's County
+MD|24|21075|Crownsville CDP|Census Designated Place|S|Anne Arundel County
+MD|24|21325|Cumberland city|Incorporated Place|A|Allegany County
+MD|24|21475|Damascus CDP|Census Designated Place|S|Montgomery County
+MD|24|21550|Dames Quarter CDP|Census Designated Place|S|Somerset County
+MD|24|21675|Danville CDP|Census Designated Place|S|Allegany County
+MD|24|21750|Dargan CDP|Census Designated Place|S|Washington County
+MD|24|21800|Darlington CDP|Census Designated Place|S|Harford County
+MD|24|21825|Darnestown CDP|Census Designated Place|S|Montgomery County
+MD|24|21925|Dawson CDP|Census Designated Place|S|Allegany County
+MD|24|22050|Deale CDP|Census Designated Place|S|Anne Arundel County
+MD|24|22100|Deal Island CDP|Census Designated Place|S|Somerset County
+MD|24|22275|Deer Park town|Incorporated Place|A|Garrett County
+MD|24|22600|Delmar town|Incorporated Place|A|Wicomico County
+MD|24|22725|Denton town|Incorporated Place|A|Caroline County
+MD|24|22775|Derwood CDP|Census Designated Place|S|Montgomery County
+MD|24|22825|Detmold CDP|Census Designated Place|S|Allegany County
+MD|24|23025|District Heights city|Incorporated Place|A|Prince George's County
+MD|24|23500|Downsville CDP|Census Designated Place|S|Washington County
+MD|24|23700|Drum Point CDP|Census Designated Place|S|Calvert County
+MD|24|23975|Dundalk CDP|Census Designated Place|S|Baltimore County
+MD|24|24062|Dunkirk CDP|Census Designated Place|S|Calvert County
+MD|24|24200|Eagle Harbor town|Incorporated Place|A|Prince George's County
+MD|24|24250|Eakles Mill CDP|Census Designated Place|S|Washington County
+MD|24|24450|East New Market town|Incorporated Place|A|Dorchester County
+MD|24|24475|Easton town|Incorporated Place|A|Talbot County
+MD|24|24650|East Riverdale CDP|Census Designated Place|S|Prince George's County
+MD|24|24825|Eckhart Mines CDP|Census Designated Place|S|Allegany County
+MD|24|24850|Eden CDP|Census Designated Place|S|Somerset County
+MD|24|24925|Edesville CDP|Census Designated Place|S|Kent County
+MD|24|24950|Edgemere CDP|Census Designated Place|S|Baltimore County
+MD|24|25000|Edgemont CDP|Census Designated Place|S|Washington County
+MD|24|25050|Edgewater CDP|Census Designated Place|S|Anne Arundel County
+MD|24|25150|Edgewood CDP|Census Designated Place|S|Harford County
+MD|24|25425|Edmonston town|Incorporated Place|A|Prince George's County
+MD|24|25575|Eldersburg CDP|Census Designated Place|S|Carroll County
+MD|24|25600|Eldorado town|Incorporated Place|A|Dorchester County
+MD|24|25750|Elkridge CDP|Census Designated Place|S|Howard County
+MD|24|25800|Elkton town|Incorporated Place|A|Cecil County
+MD|24|25925|Ellerslie CDP|Census Designated Place|S|Allegany County
+MD|24|26000|Ellicott City CDP|Census Designated Place|S|Howard County
+MD|24|26025|Elliott CDP|Census Designated Place|S|Dorchester County
+MD|24|26200|Emmitsburg town|Incorporated Place|A|Frederick County
+MD|24|26550|Ernstville CDP|Census Designated Place|S|Washington County
+MD|24|26600|Essex CDP|Census Designated Place|S|Baltimore County
+MD|24|27250|Fairland CDP|Census Designated Place|S|Montgomery County
+MD|24|27325|Fairlee CDP|Census Designated Place|S|Kent County
+MD|24|27375|Fairmount CDP|Census Designated Place|S|Somerset County
+MD|24|27400|Fairmount Heights town|Incorporated Place|A|Prince George's County
+MD|24|27425|Fairplay CDP|Census Designated Place|S|Washington County
+MD|24|27500|Fairview CDP|Census Designated Place|S|Washington County
+MD|24|27580|Fairwood CDP|Census Designated Place|S|Prince George's County
+MD|24|27700|Fallston CDP|Census Designated Place|S|Harford County
+MD|24|27900|Federalsburg town|Incorporated Place|A|Caroline County
+MD|24|28075|Ferndale CDP|Census Designated Place|S|Anne Arundel County
+MD|24|28275|Finzel CDP|Census Designated Place|S|Garrett County
+MD|24|28300|Fishing Creek CDP|Census Designated Place|S|Dorchester County
+MD|24|28425|Flintstone CDP|Census Designated Place|S|Allegany County
+MD|24|28640|Forest Glen CDP|Census Designated Place|S|Montgomery County
+MD|24|28725|Forest Heights town|Incorporated Place|A|Prince George's County
+MD|24|29000|Forestville CDP|Census Designated Place|S|Prince George's County
+MD|24|29400|Fort Meade CDP|Census Designated Place|S|Anne Arundel County
+MD|24|29450|Fort Ritchie CDP|Census Designated Place|S|Washington County
+MD|24|29525|Fort Washington CDP|Census Designated Place|S|Prince George's County
+MD|24|29712|Fountainhead-Orchard Hills CDP|Census Designated Place|S|Washington County
+MD|24|29790|Four Corners CDP|Census Designated Place|S|Montgomery County
+MD|24|30100|Franklin CDP|Census Designated Place|S|Allegany County
+MD|24|30325|Frederick city|Incorporated Place|A|Frederick County
+MD|24|30567|Frenchtown-Rumbly CDP|Census Designated Place|S|Somerset County
+MD|24|30575|Friendly CDP|Census Designated Place|S|Prince George's County
+MD|24|30650|Friendship CDP|Census Designated Place|S|Anne Arundel County
+MD|24|30800|Friendship Heights Village CDP|Census Designated Place|S|Montgomery County
+MD|24|30850|Friendsville town|Incorporated Place|A|Garrett County
+MD|24|30900|Frostburg city|Incorporated Place|A|Allegany County
+MD|24|30950|Fruitland city|Incorporated Place|A|Wicomico County
+MD|24|31025|Fulton CDP|Census Designated Place|S|Howard County
+MD|24|31100|Funkstown town|Incorporated Place|A|Washington County
+MD|24|31175|Gaithersburg city|Incorporated Place|A|Montgomery County
+MD|24|31225|Galena town|Incorporated Place|A|Kent County
+MD|24|31250|Galestown town|Incorporated Place|A|Dorchester County
+MD|24|31275|Galesville CDP|Census Designated Place|S|Anne Arundel County
+MD|24|31350|Gambrills CDP|Census Designated Place|S|Anne Arundel County
+MD|24|31400|Gapland CDP|Census Designated Place|S|Washington County
+MD|24|31525|Garrett Park town|Incorporated Place|A|Montgomery County
+MD|24|31575|Garretts Mill CDP|Census Designated Place|S|Washington County
+MD|24|31625|Garrison CDP|Census Designated Place|S|Baltimore County
+MD|24|31875|Georgetown CDP|Census Designated Place|S|Kent County
+MD|24|32025|Germantown CDP|Census Designated Place|S|Montgomery County
+MD|24|32175|Gilmore CDP|Census Designated Place|S|Allegany County
+MD|24|32250|Girdletree CDP|Census Designated Place|S|Worcester County
+MD|24|32350|Glassmanor CDP|Census Designated Place|S|Prince George's County
+MD|24|32500|Glenarden city|Incorporated Place|A|Prince George's County
+MD|24|32650|Glen Burnie CDP|Census Designated Place|S|Anne Arundel County
+MD|24|32900|Glen Echo town|Incorporated Place|A|Montgomery County
+MD|24|33250|Glenmont CDP|Census Designated Place|S|Montgomery County
+MD|24|33400|Glenn Dale CDP|Census Designated Place|S|Prince George's County
+MD|24|33850|Golden Beach CDP|Census Designated Place|S|St. Mary's County
+MD|24|33950|Goldsboro town|Incorporated Place|A|Caroline County
+MD|24|34150|Gorman CDP|Census Designated Place|S|Garrett County
+MD|24|34425|Grahamtown CDP|Census Designated Place|S|Allegany County
+MD|24|34525|Grantsville town|Incorporated Place|A|Garrett County
+MD|24|34550|Grasonville CDP|Census Designated Place|S|Queen Anne's County
+MD|24|34775|Greenbelt city|Incorporated Place|A|Prince George's County
+MD|24|35200|Greensboro town|Incorporated Place|A|Caroline County
+MD|24|35225|Greensburg CDP|Census Designated Place|S|Washington County
+MD|24|36075|Hagerstown city|Incorporated Place|A|Washington County
+MD|24|36125|Halfway CDP|Census Designated Place|S|Washington County
+MD|24|36500|Hampstead town|Incorporated Place|A|Carroll County
+MD|24|36512|Hampton CDP|Census Designated Place|S|Baltimore County
+MD|24|36600|Hancock town|Incorporated Place|A|Washington County
+MD|24|37600|Havre de Grace city|Incorporated Place|A|Harford County
+MD|24|37875|Hebron town|Incorporated Place|A|Wicomico County
+MD|24|37925|Henderson town|Incorporated Place|A|Caroline County
+MD|24|38025|Herald Harbor CDP|Census Designated Place|S|Anne Arundel County
+MD|24|38437|Highfield-Cascade CDP|Census Designated Place|S|Washington County
+MD|24|38475|Highland CDP|Census Designated Place|S|Howard County
+MD|24|38500|Highland Beach town|Incorporated Place|A|Anne Arundel County
+MD|24|38850|Hillandale CDP|Census Designated Place|S|Montgomery County, Prince George's County
+MD|24|38975|Hillcrest Heights CDP|Census Designated Place|S|Prince George's County
+MD|24|39175|Hillsboro town|Incorporated Place|A|Caroline County
+MD|24|40700|Hughesville CDP|Census Designated Place|S|Charles County
+MD|24|41037|Huntingtown CDP|Census Designated Place|S|Calvert County
+MD|24|41125|Hurlock town|Incorporated Place|A|Dorchester County
+MD|24|41175|Hutton CDP|Census Designated Place|S|Garrett County
+MD|24|41250|Hyattsville city|Incorporated Place|A|Prince George's County
+MD|24|41475|Ilchester CDP|Census Designated Place|S|Howard County
+MD|24|41500|Indian Head town|Incorporated Place|A|Charles County
+MD|24|41700|Indian Springs CDP|Census Designated Place|S|Washington County
+MD|24|42325|Jarrettsville CDP|Census Designated Place|S|Harford County
+MD|24|42350|Jefferson CDP|Census Designated Place|S|Frederick County
+MD|24|42450|Jennings CDP|Census Designated Place|S|Garrett County
+MD|24|42550|Jessup CDP|Census Designated Place|S|Anne Arundel County, Howard County
+MD|24|42575|Jesterville CDP|Census Designated Place|S|Wicomico County
+MD|24|42875|Joppatowne CDP|Census Designated Place|S|Harford County
+MD|24|42950|Jugtown CDP|Census Designated Place|S|Washington County
+MD|24|43100|Keedysville town|Incorporated Place|A|Washington County
+MD|24|43200|Kemp Mill CDP|Census Designated Place|S|Montgomery County
+MD|24|43280|Kemps Mill CDP|Census Designated Place|S|Washington County
+MD|24|43475|Kennedyville CDP|Census Designated Place|S|Kent County
+MD|24|43500|Kensington town|Incorporated Place|A|Montgomery County
+MD|24|43725|Kent Narrows CDP|Census Designated Place|S|Queen Anne's County
+MD|24|43900|Kettering CDP|Census Designated Place|S|Prince George's County
+MD|24|44325|Kingstown CDP|Census Designated Place|S|Queen Anne's County
+MD|24|44350|Kingsville CDP|Census Designated Place|S|Baltimore County
+MD|24|44450|Kitzmiller town|Incorporated Place|A|Garrett County
+MD|24|44525|Klondike CDP|Census Designated Place|S|Allegany County
+MD|24|44715|Konterra CDP|Census Designated Place|S|Prince George's County
+MD|24|44817|Lake Arbor CDP|Census Designated Place|S|Prince George's County
+MD|24|44975|Lake Shore CDP|Census Designated Place|S|Anne Arundel County
+MD|24|45325|Landover CDP|Census Designated Place|S|Prince George's County
+MD|24|45400|Landover Hills town|Incorporated Place|A|Prince George's County
+MD|24|45525|Langley Park CDP|Census Designated Place|S|Prince George's County
+MD|24|45550|Lanham CDP|Census Designated Place|S|Prince George's County
+MD|24|45650|Lansdowne CDP|Census Designated Place|S|Baltimore County
+MD|24|45750|La Plata town|Incorporated Place|A|Charles County
+MD|24|45825|Largo CDP|Census Designated Place|S|Prince George's County
+MD|24|45900|Laurel city|Incorporated Place|A|Prince George's County
+MD|24|46075|La Vale CDP|Census Designated Place|S|Allegany County
+MD|24|46150|Layhill CDP|Census Designated Place|S|Montgomery County
+MD|24|46250|Laytonsville town|Incorporated Place|A|Montgomery County
+MD|24|46375|Leisure World CDP|Census Designated Place|S|Montgomery County
+MD|24|46400|Leitersburg CDP|Census Designated Place|S|Washington County
+MD|24|46475|Leonardtown town|Incorporated Place|A|St. Mary's County
+MD|24|46725|Lexington Park CDP|Census Designated Place|S|St. Mary's County
+MD|24|46800|Libertytown CDP|Census Designated Place|S|Frederick County
+MD|24|47040|Linganore CDP|Census Designated Place|S|Frederick County
+MD|24|47125|Linthicum CDP|Census Designated Place|S|Anne Arundel County
+MD|24|47275|Little Orleans CDP|Census Designated Place|S|Allegany County
+MD|24|47450|Lochearn CDP|Census Designated Place|S|Baltimore County
+MD|24|47525|Loch Lynn Heights town|Incorporated Place|A|Garrett County
+MD|24|47875|Lonaconing town|Incorporated Place|A|Allegany County
+MD|24|48025|Long Beach CDP|Census Designated Place|S|Calvert County
+MD|24|48775|Luke town|Incorporated Place|A|Allegany County
+MD|24|48800|Lusby CDP|Census Designated Place|S|Calvert County
+MD|24|48875|Lutherville CDP|Census Designated Place|S|Baltimore County
+MD|24|49325|McCoole CDP|Census Designated Place|S|Allegany County
+MD|24|49700|Madison CDP|Census Designated Place|S|Dorchester County
+MD|24|49950|Manchester town|Incorporated Place|A|Carroll County
+MD|24|50375|Mapleville CDP|Census Designated Place|S|Washington County
+MD|24|50525|Mardela Springs town|Incorporated Place|A|Wicomico County
+MD|24|50680|Marlboro Meadows CDP|Census Designated Place|S|Prince George's County
+MD|24|50685|Marlboro Village CDP|Census Designated Place|S|Prince George's County
+MD|24|50750|Marlow Heights CDP|Census Designated Place|S|Prince George's County
+MD|24|50775|Marlton CDP|Census Designated Place|S|Prince George's County
+MD|24|50965|Martin's Additions village|Incorporated Place|A|Montgomery County
+MD|24|51025|Marydel town|Incorporated Place|A|Caroline County
+MD|24|51075|Maryland City CDP|Census Designated Place|S|Anne Arundel County
+MD|24|51425|Maugansville CDP|Census Designated Place|S|Washington County
+MD|24|51575|Mayo CDP|Census Designated Place|S|Anne Arundel County
+MD|24|51587|Mays Chapel CDP|Census Designated Place|S|Baltimore County
+MD|24|51800|Mechanicsville CDP|Census Designated Place|S|St. Mary's County
+MD|24|51860|Melwood CDP|Census Designated Place|S|Prince George's County
+MD|24|51945|Mercersville CDP|Census Designated Place|S|Washington County
+MD|24|52225|Middleburg CDP|Census Designated Place|S|Washington County
+MD|24|52300|Middle River CDP|Census Designated Place|S|Baltimore County
+MD|24|52425|Middletown town|Incorporated Place|A|Frederick County
+MD|24|52475|Midland town|Incorporated Place|A|Allegany County
+MD|24|52525|Midlothian CDP|Census Designated Place|S|Allegany County
+MD|24|52562|Milford Mill CDP|Census Designated Place|S|Baltimore County
+MD|24|52825|Millington town|Incorporated Place|A|Kent County, Queen Anne's County
+MD|24|52975|Mitchellville CDP|Census Designated Place|S|Prince George's County
+MD|24|53100|Monrovia CDP|Census Designated Place|S|Frederick County
+MD|24|53325|Montgomery Village CDP|Census Designated Place|S|Montgomery County
+MD|24|53625|Morningside town|Incorporated Place|A|Prince George's County
+MD|24|53700|Moscow CDP|Census Designated Place|S|Allegany County
+MD|24|53750|Mount Aetna CDP|Census Designated Place|S|Washington County
+MD|24|53800|Mountain Lake Park town|Incorporated Place|A|Garrett County
+MD|24|53875|Mount Airy town|Incorporated Place|A|Carroll County, Frederick County
+MD|24|53925|Mount Briar CDP|Census Designated Place|S|Washington County
+MD|24|54125|Mount Lena CDP|Census Designated Place|S|Washington County
+MD|24|54275|Mount Rainier city|Incorporated Place|A|Prince George's County
+MD|24|54325|Mount Savage CDP|Census Designated Place|S|Allegany County
+MD|24|54375|Mount Vernon CDP|Census Designated Place|S|Somerset County
+MD|24|54875|Myersville town|Incorporated Place|A|Frederick County
+MD|24|54925|Nanticoke CDP|Census Designated Place|S|Wicomico County
+MD|24|54930|Nanticoke Acres CDP|Census Designated Place|S|Wicomico County
+MD|24|55000|National CDP|Census Designated Place|S|Allegany County
+MD|24|55018|National Harbor CDP|Census Designated Place|S|Prince George's County
+MD|24|55050|Naval Academy CDP|Census Designated Place|S|Anne Arundel County
+MD|24|55325|Newark CDP|Census Designated Place|S|Worcester County
+MD|24|55400|New Carrollton city|Incorporated Place|A|Prince George's County
+MD|24|55650|New Market town|Incorporated Place|A|Frederick County
+MD|24|55925|New Windsor town|Incorporated Place|A|Carroll County
+MD|24|55950|Nikep CDP|Census Designated Place|S|Allegany County
+MD|24|56300|North Beach town|Incorporated Place|A|Calvert County
+MD|24|56337|North Bethesda CDP|Census Designated Place|S|Montgomery County
+MD|24|56375|North Brentwood town|Incorporated Place|A|Prince George's County
+MD|24|56400|North Chevy Chase village|Incorporated Place|A|Montgomery County
+MD|24|56450|North East town|Incorporated Place|A|Cecil County
+MD|24|56712|North Kensington CDP|Census Designated Place|S|Montgomery County
+MD|24|56725|North Laurel CDP|Census Designated Place|S|Howard County
+MD|24|56875|North Potomac CDP|Census Designated Place|S|Montgomery County
+MD|24|57650|Oakland town|Incorporated Place|A|Garrett County
+MD|24|58215|Ocean CDP|Census Designated Place|S|Allegany County
+MD|24|58225|Ocean City town|Incorporated Place|A|Worcester County
+MD|24|58275|Ocean Pines CDP|Census Designated Place|S|Worcester County
+MD|24|58300|Odenton CDP|Census Designated Place|S|Anne Arundel County
+MD|24|58775|Oldtown CDP|Census Designated Place|S|Allegany County
+MD|24|58900|Olney CDP|Census Designated Place|S|Montgomery County
+MD|24|59325|Overlea CDP|Census Designated Place|S|Baltimore County
+MD|24|59375|Owings CDP|Census Designated Place|S|Calvert County
+MD|24|59425|Owings Mills CDP|Census Designated Place|S|Baltimore County
+MD|24|59450|Oxford town|Incorporated Place|A|Talbot County
+MD|24|59500|Oxon Hill CDP|Census Designated Place|S|Prince George's County
+MD|24|59787|Paramount-Long Meadow CDP|Census Designated Place|S|Washington County
+MD|24|60275|Parkville CDP|Census Designated Place|S|Baltimore County
+MD|24|60325|Parole CDP|Census Designated Place|S|Anne Arundel County
+MD|24|60425|Parsonsburg CDP|Census Designated Place|S|Wicomico County
+MD|24|60475|Pasadena CDP|Census Designated Place|S|Anne Arundel County
+MD|24|60770|Pecktonville CDP|Census Designated Place|S|Washington County
+MD|24|60950|Peppermill Village CDP|Census Designated Place|S|Prince George's County
+MD|24|60975|Perry Hall CDP|Census Designated Place|S|Baltimore County
+MD|24|61075|Perryman CDP|Census Designated Place|S|Harford County
+MD|24|61150|Perryville town|Incorporated Place|A|Cecil County
+MD|24|61400|Pikesville CDP|Census Designated Place|S|Baltimore County
+MD|24|61700|Pinesburg CDP|Census Designated Place|S|Washington County
+MD|24|61875|Piney Point CDP|Census Designated Place|S|St. Mary's County
+MD|24|62025|Pittsville town|Incorporated Place|A|Wicomico County
+MD|24|62100|Pleasant Grove CDP|Census Designated Place|S|Allegany County
+MD|24|62175|Pleasant Hills CDP|Census Designated Place|S|Harford County
+MD|24|62475|Pocomoke City city|Incorporated Place|A|Worcester County
+MD|24|62575|Point of Rocks CDP|Census Designated Place|S|Frederick County
+MD|24|62675|Pomfret CDP|Census Designated Place|S|Charles County
+MD|24|62775|Pondsville CDP|Census Designated Place|S|Washington County
+MD|24|62850|Poolesville town|Incorporated Place|A|Montgomery County
+MD|24|63075|Port Deposit town|Incorporated Place|A|Cecil County
+MD|24|63225|Port Tobacco Village town|Incorporated Place|A|Charles County
+MD|24|63300|Potomac CDP|Census Designated Place|S|Montgomery County
+MD|24|63375|Potomac Heights CDP|Census Designated Place|S|Charles County
+MD|24|63425|Potomac Park CDP|Census Designated Place|S|Allegany County
+MD|24|63725|Powellville CDP|Census Designated Place|S|Wicomico County
+MD|24|63825|Preston town|Incorporated Place|A|Caroline County
+MD|24|63950|Prince Frederick CDP|Census Designated Place|S|Calvert County
+MD|24|64000|Princess Anne town|Incorporated Place|A|Somerset County
+MD|24|64375|Pylesville CDP|Census Designated Place|S|Harford County
+MD|24|64475|Quantico CDP|Census Designated Place|S|Wicomico County
+MD|24|64495|Queen Anne CDP|Census Designated Place|S|Prince George's County
+MD|24|64500|Queen Anne town|Incorporated Place|A|Queen Anne's County, Talbot County
+MD|24|64535|Queenland CDP|Census Designated Place|S|Prince George's County
+MD|24|64600|Queenstown town|Incorporated Place|A|Queen Anne's County
+MD|24|64950|Randallstown CDP|Census Designated Place|S|Baltimore County
+MD|24|65150|Rawlings CDP|Census Designated Place|S|Allegany County
+MD|24|65312|Redland CDP|Census Designated Place|S|Montgomery County
+MD|24|65550|Reid CDP|Census Designated Place|S|Washington County
+MD|24|65600|Reisterstown CDP|Census Designated Place|S|Baltimore County
+MD|24|66000|Ridgely town|Incorporated Place|A|Caroline County
+MD|24|66150|Ringgold CDP|Census Designated Place|S|Washington County
+MD|24|66275|Rising Sun town|Incorporated Place|A|Cecil County
+MD|24|66400|Riva CDP|Census Designated Place|S|Anne Arundel County
+MD|24|66635|Riverdale Park town|Incorporated Place|A|Prince George's County
+MD|24|66762|Riverside CDP|Census Designated Place|S|Harford County
+MD|24|66850|Riviera Beach CDP|Census Designated Place|S|Anne Arundel County
+MD|24|67000|Robinwood CDP|Census Designated Place|S|Washington County
+MD|24|67400|Rock Hall town|Incorporated Place|A|Kent County
+MD|24|67500|Rock Point CDP|Census Designated Place|S|Charles County
+MD|24|67675|Rockville city|Incorporated Place|A|Montgomery County
+MD|24|67950|Rohrersville CDP|Census Designated Place|S|Washington County
+MD|24|68300|Rosaryville CDP|Census Designated Place|S|Prince George's County
+MD|24|68400|Rosedale CDP|Census Designated Place|S|Baltimore County
+MD|24|68600|Rosemont village|Incorporated Place|A|Frederick County
+MD|24|68700|Rossville CDP|Census Designated Place|S|Baltimore County
+MD|24|69200|Sabillasville CDP|Census Designated Place|S|Frederick County
+MD|24|69425|St. George Island CDP|Census Designated Place|S|St. Mary's County
+MD|24|69550|St. James CDP|Census Designated Place|S|Washington County
+MD|24|69675|St. Leonard CDP|Census Designated Place|S|Calvert County
+MD|24|69825|St. Michaels town|Incorporated Place|A|Talbot County
+MD|24|69925|Salisbury city|Incorporated Place|A|Wicomico County
+MD|24|70175|Sandy Hook CDP|Census Designated Place|S|Washington County
+MD|24|70300|San Mar CDP|Census Designated Place|S|Washington County
+MD|24|70475|Savage CDP|Census Designated Place|S|Howard County
+MD|24|70530|Scaggsville CDP|Census Designated Place|S|Howard County
+MD|24|70775|Seabrook CDP|Census Designated Place|S|Prince George's County
+MD|24|70850|Seat Pleasant city|Incorporated Place|A|Prince George's County
+MD|24|70900|Secretary town|Incorporated Place|A|Dorchester County
+MD|24|71150|Severn CDP|Census Designated Place|S|Anne Arundel County
+MD|24|71200|Severna Park CDP|Census Designated Place|S|Anne Arundel County
+MD|24|71450|Shady Side CDP|Census Designated Place|S|Anne Arundel County
+MD|24|71460|Shaft CDP|Census Designated Place|S|Allegany County
+MD|24|71600|Sharpsburg town|Incorporated Place|A|Washington County
+MD|24|71650|Sharptown town|Incorporated Place|A|Wicomico County
+MD|24|72350|Silver Hill CDP|Census Designated Place|S|Prince George's County
+MD|24|72450|Silver Spring CDP|Census Designated Place|S|Montgomery County
+MD|24|72887|Smith Island CDP|Census Designated Place|S|Somerset County
+MD|24|72900|Smithsburg town|Incorporated Place|A|Washington County
+MD|24|73075|Snow Hill town|Incorporated Place|A|Worcester County
+MD|24|73325|Solomons CDP|Census Designated Place|S|Calvert County
+MD|24|73350|Somerset town|Incorporated Place|A|Montgomery County
+MD|24|73600|South Kensington CDP|Census Designated Place|S|Montgomery County
+MD|24|73650|South Laurel CDP|Census Designated Place|S|Prince George's County
+MD|24|74050|Spencerville CDP|Census Designated Place|S|Montgomery County
+MD|24|74282|Springdale CDP|Census Designated Place|S|Prince George's County
+MD|24|74350|Spring Gap CDP|Census Designated Place|S|Allegany County
+MD|24|74560|Spring Ridge CDP|Census Designated Place|S|Frederick County
+MD|24|75025|Stevensville CDP|Census Designated Place|S|Queen Anne's County
+MD|24|75200|Stockton CDP|Census Designated Place|S|Worcester County
+MD|24|75650|Sudlersville town|Incorporated Place|A|Queen Anne's County
+MD|24|75725|Suitland CDP|Census Designated Place|S|Prince George's County
+MD|24|75810|Summerfield CDP|Census Designated Place|S|Prince George's County
+MD|24|76450|Swanton CDP|Census Designated Place|S|Garrett County
+MD|24|76550|Sykesville town|Incorporated Place|A|Carroll County
+MD|24|76650|Takoma Park city|Incorporated Place|A|Montgomery County
+MD|24|76675|Tall Timbers CDP|Census Designated Place|S|St. Mary's County
+MD|24|76725|Taneytown city|Incorporated Place|A|Carroll County
+MD|24|76925|Taylors Island CDP|Census Designated Place|S|Dorchester County
+MD|24|77100|Temple Hills CDP|Census Designated Place|S|Prince George's County
+MD|24|77200|Templeville town|Incorporated Place|A|Caroline County, Queen Anne's County
+MD|24|77825|Thurmont town|Incorporated Place|A|Frederick County
+MD|24|77912|Tilghman Island CDP|Census Designated Place|S|Talbot County
+MD|24|77925|Tilghmanton CDP|Census Designated Place|S|Washington County
+MD|24|78050|Timonium CDP|Census Designated Place|S|Baltimore County
+MD|24|78120|Tolchester CDP|Census Designated Place|S|Kent County
+MD|24|78425|Towson CDP|Census Designated Place|S|Baltimore County
+MD|24|78575|Trappe town|Incorporated Place|A|Talbot County
+MD|24|78650|Travilah CDP|Census Designated Place|S|Montgomery County
+MD|24|78705|Trego-Rohrersville Station CDP|Census Designated Place|S|Washington County
+MD|24|79225|Tyaskin CDP|Census Designated Place|S|Wicomico County
+MD|24|79350|Union Bridge town|Incorporated Place|A|Carroll County
+MD|24|79675|University Park town|Incorporated Place|A|Prince George's County
+MD|24|79875|Upper Marlboro town|Incorporated Place|A|Prince George's County
+MD|24|79900|Urbana CDP|Census Designated Place|S|Frederick County
+MD|24|80075|Vale Summit CDP|Census Designated Place|S|Allegany County
+MD|24|80600|Vienna town|Incorporated Place|A|Dorchester County
+MD|24|81175|Waldorf CDP|Census Designated Place|S|Charles County
+MD|24|81250|Walker Mill CDP|Census Designated Place|S|Prince George's County
+MD|24|81275|Walkersville town|Incorporated Place|A|Frederick County
+MD|24|81675|Washington Grove town|Incorporated Place|A|Montgomery County
+MD|24|81925|Waterview CDP|Census Designated Place|S|Wicomico County
+MD|24|82625|West Denton CDP|Census Designated Place|S|Caroline County
+MD|24|82750|Westernport town|Incorporated Place|A|Allegany County
+MD|24|83025|West Laurel CDP|Census Designated Place|S|Prince George's County
+MD|24|83100|Westminster city|Incorporated Place|A|Carroll County
+MD|24|83225|West Ocean City CDP|Census Designated Place|S|Worcester County
+MD|24|83290|Westphalia CDP|Census Designated Place|S|Prince George's County
+MD|24|83337|West Pocomoke CDP|Census Designated Place|S|Somerset County
+MD|24|83746|Whaleyville CDP|Census Designated Place|S|Worcester County
+MD|24|83775|Wheaton CDP|Census Designated Place|S|Montgomery County
+MD|24|84225|Whitehaven CDP|Census Designated Place|S|Wicomico County
+MD|24|84350|White Marsh CDP|Census Designated Place|S|Baltimore County
+MD|24|84375|White Oak CDP|Census Designated Place|S|Montgomery County
+MD|24|84950|Willards town|Incorporated Place|A|Wicomico County
+MD|24|85100|Williamsport town|Incorporated Place|A|Washington County
+MD|24|85175|Williston CDP|Census Designated Place|S|Caroline County
+MD|24|85395|Wilson-Conococheague CDP|Census Designated Place|S|Washington County
+MD|24|86275|Woodland CDP|Census Designated Place|S|Allegany County
+MD|24|86475|Woodlawn CDP|Census Designated Place|S|Baltimore County
+MD|24|86525|Woodlawn CDP|Census Designated Place|S|Prince George's County
+MD|24|86710|Woodmore CDP|Census Designated Place|S|Prince George's County
+MD|24|86750|Woodsboro town|Incorporated Place|A|Frederick County
+MD|24|87000|Worton CDP|Census Designated Place|S|Kent County
+MD|24|87150|Yarrowsburg CDP|Census Designated Place|S|Washington County
+MD|24|87275|Zihlman CDP|Census Designated Place|S|Allegany County

@@ -1,0 +1,664 @@
+ME|23|00100|Abbot town|County Subdivision|A|Piscataquis County
+ME|23|00275|Acton town|County Subdivision|A|York County
+ME|23|00380|Addison town|County Subdivision|A|Washington County
+ME|23|00590|Albion town|County Subdivision|A|Kennebec County
+ME|23|00660|Alexander town|County Subdivision|A|Washington County
+ME|23|00730|Alfred town|County Subdivision|A|York County
+ME|23|00800|Allagash town|County Subdivision|A|Aroostook County
+ME|23|01010|Alna town|County Subdivision|A|Lincoln County
+ME|23|01115|Alton town|County Subdivision|A|Penobscot County
+ME|23|01185|Amherst town|County Subdivision|A|Hancock County
+ME|23|01220|Amity town|County Subdivision|A|Aroostook County
+ME|23|01325|Andover town|County Subdivision|A|Oxford County
+ME|23|01360|Anson CDP|Census Designated Place|S|Somerset County
+ME|23|01395|Anson town|County Subdivision|A|Somerset County
+ME|23|01465|Appleton town|County Subdivision|A|Knox County
+ME|23|01500|Argyle UT|County Subdivision|S|Penobscot County
+ME|23|01570|Arrowsic town|County Subdivision|A|Sagadahoc County
+ME|23|01605|Arundel town|County Subdivision|A|York County
+ME|23|01675|Ashland CDP|Census Designated Place|S|Aroostook County
+ME|23|01710|Ashland town|County Subdivision|A|Aroostook County
+ME|23|01885|Athens town|County Subdivision|A|Somerset County
+ME|23|01920|Atkinson town|County Subdivision|A|Piscataquis County
+ME|23|02060|Auburn city|County Subdivision|F|Androscoggin County
+ME|23|02060|Auburn city|Incorporated Place|A|Androscoggin County
+ME|23|02100|Augusta city|County Subdivision|F|Kennebec County
+ME|23|02100|Augusta city|Incorporated Place|A|Kennebec County
+ME|23|02165|Aurora town|County Subdivision|A|Hancock County
+ME|23|02235|Avon town|County Subdivision|A|Franklin County
+ME|23|02480|Baileyville town|County Subdivision|A|Washington County
+ME|23|02655|Baldwin town|County Subdivision|A|Cumberland County
+ME|23|02760|Bancroft town|County Subdivision|A|Aroostook County
+ME|23|02795|Bangor city|County Subdivision|F|Penobscot County
+ME|23|02795|Bangor city|Incorporated Place|A|Penobscot County
+ME|23|02830|Bar Harbor CDP|Census Designated Place|S|Hancock County
+ME|23|02865|Bar Harbor town|County Subdivision|A|Hancock County
+ME|23|02970|Baring plantation|County Subdivision|A|Washington County
+ME|23|03355|Bath city|County Subdivision|F|Sagadahoc County
+ME|23|03355|Bath city|Incorporated Place|A|Sagadahoc County
+ME|23|03670|Beals town|County Subdivision|A|Washington County
+ME|23|03740|Beaver Cove town|County Subdivision|A|Piscataquis County
+ME|23|03810|Beddington town|County Subdivision|A|Washington County
+ME|23|03950|Belfast city|County Subdivision|F|Waldo County
+ME|23|03950|Belfast city|Incorporated Place|A|Waldo County
+ME|23|04020|Belgrade town|County Subdivision|A|Kennebec County
+ME|23|04125|Belmont town|County Subdivision|A|Waldo County
+ME|23|04475|Benton town|County Subdivision|A|Kennebec County
+ME|23|04685|Berwick CDP|Census Designated Place|S|York County
+ME|23|04720|Berwick town|County Subdivision|A|York County
+ME|23|04825|Bethel town|County Subdivision|A|Oxford County
+ME|23|04860|Biddeford city|County Subdivision|F|York County
+ME|23|04860|Biddeford city|Incorporated Place|A|York County
+ME|23|04965|Bingham CDP|Census Designated Place|S|Somerset County
+ME|23|05000|Bingham town|County Subdivision|A|Somerset County
+ME|23|05350|Blaine CDP|Census Designated Place|S|Aroostook County
+ME|23|05385|Blaine town|County Subdivision|A|Aroostook County
+ME|23|05560|Blanchard UT|County Subdivision|S|Piscataquis County
+ME|23|05665|Blue Hill CDP|Census Designated Place|S|Hancock County
+ME|23|05700|Blue Hill town|County Subdivision|A|Hancock County
+ME|23|06050|Boothbay town|County Subdivision|A|Lincoln County
+ME|23|06085|Boothbay Harbor CDP|Census Designated Place|S|Lincoln County
+ME|23|06120|Boothbay Harbor town|County Subdivision|A|Lincoln County
+ME|23|06260|Bowdoin town|County Subdivision|A|Sagadahoc County
+ME|23|06330|Bowdoinham CDP|Census Designated Place|S|Sagadahoc County
+ME|23|06365|Bowdoinham town|County Subdivision|A|Sagadahoc County
+ME|23|06400|Bowerbank town|County Subdivision|A|Piscataquis County
+ME|23|06575|Bradford town|County Subdivision|A|Penobscot County
+ME|23|06680|Bradley town|County Subdivision|A|Penobscot County
+ME|23|06855|Bremen town|County Subdivision|A|Lincoln County
+ME|23|06925|Brewer city|County Subdivision|F|Penobscot County
+ME|23|06925|Brewer city|Incorporated Place|A|Penobscot County
+ME|23|07065|Bridgewater town|County Subdivision|A|Aroostook County
+ME|23|07135|Bridgton CDP|Census Designated Place|S|Cumberland County
+ME|23|07170|Bridgton town|County Subdivision|A|Cumberland County
+ME|23|07380|Brighton plantation|County Subdivision|A|Somerset County
+ME|23|07485|Bristol town|County Subdivision|A|Lincoln County
+ME|23|07800|Brooklin town|County Subdivision|A|Hancock County
+ME|23|07870|Brooks town|County Subdivision|A|Waldo County
+ME|23|07975|Brooksville town|County Subdivision|A|Hancock County
+ME|23|08150|Brownfield town|County Subdivision|A|Oxford County
+ME|23|08325|Brownville town|County Subdivision|A|Piscataquis County
+ME|23|08395|Brunswick CDP|Census Designated Place|S|Cumberland County
+ME|23|08430|Brunswick town|County Subdivision|A|Cumberland County
+ME|23|08500|Brunswick Station CDP|Census Designated Place|S|Cumberland County
+ME|23|08710|Buckfield town|County Subdivision|A|Oxford County
+ME|23|08780|Bucksport CDP|Census Designated Place|S|Hancock County
+ME|23|08815|Bucksport town|County Subdivision|A|Hancock County
+ME|23|09200|Burlington town|County Subdivision|A|Penobscot County
+ME|23|09270|Burnham town|County Subdivision|A|Waldo County
+ME|23|09410|Buxton town|County Subdivision|A|York County
+ME|23|09550|Byron town|County Subdivision|A|Oxford County
+ME|23|09585|Calais city|County Subdivision|F|Washington County
+ME|23|09585|Calais city|Incorporated Place|A|Washington County
+ME|23|09655|Cambridge town|County Subdivision|A|Somerset County
+ME|23|09690|Camden CDP|Census Designated Place|S|Knox County
+ME|23|09725|Camden town|County Subdivision|A|Knox County
+ME|23|09935|Canaan town|County Subdivision|A|Somerset County
+ME|23|10005|Canton town|County Subdivision|A|Oxford County
+ME|23|10180|Cape Elizabeth town|County Subdivision|A|Cumberland County
+ME|23|10320|Cape Neddick CDP|Census Designated Place|S|York County
+ME|23|10495|Caratunk town|County Subdivision|A|Somerset County
+ME|23|10565|Caribou city|County Subdivision|F|Aroostook County
+ME|23|10565|Caribou city|Incorporated Place|A|Aroostook County
+ME|23|10670|Carmel town|County Subdivision|A|Penobscot County
+ME|23|10740|Carrabassett Valley town|County Subdivision|A|Franklin County
+ME|23|10810|Carroll plantation|County Subdivision|A|Penobscot County
+ME|23|10915|Carthage town|County Subdivision|A|Franklin County
+ME|23|11020|Cary plantation|County Subdivision|A|Aroostook County
+ME|23|11090|Casco CDP|Census Designated Place|S|Cumberland County
+ME|23|11125|Casco town|County Subdivision|A|Cumberland County
+ME|23|11230|Castine CDP|Census Designated Place|S|Hancock County
+ME|23|11265|Castine town|County Subdivision|A|Hancock County
+ME|23|11300|Castle Hill town|County Subdivision|A|Aroostook County
+ME|23|11335|Caswell town|County Subdivision|A|Aroostook County
+ME|23|11785|Central Aroostook UT|County Subdivision|S|Aroostook County
+ME|23|11800|Central Hancock UT|County Subdivision|S|Hancock County
+ME|23|11820|Central Somerset UT|County Subdivision|S|Somerset County
+ME|23|12000|Chapman town|County Subdivision|A|Aroostook County
+ME|23|12105|Charleston town|County Subdivision|A|Penobscot County
+ME|23|12175|Charlotte town|County Subdivision|A|Washington County
+ME|23|12300|Chebeague Island town|County Subdivision|A|Cumberland County
+ME|23|12350|Chelsea town|County Subdivision|A|Kennebec County
+ME|23|12455|Cherryfield town|County Subdivision|A|Washington County
+ME|23|12525|Chester town|County Subdivision|A|Penobscot County
+ME|23|12595|Chesterville town|County Subdivision|A|Franklin County
+ME|23|12735|China town|County Subdivision|A|Kennebec County
+ME|23|12770|Chisholm CDP|Census Designated Place|S|Franklin County
+ME|23|13365|Clifton town|County Subdivision|A|Penobscot County
+ME|23|13435|Clinton CDP|Census Designated Place|S|Kennebec County
+ME|23|13470|Clinton town|County Subdivision|A|Kennebec County
+ME|23|13610|Codyville plantation|County Subdivision|A|Washington County
+ME|23|13750|Columbia town|County Subdivision|A|Washington County
+ME|23|13820|Columbia Falls town|County Subdivision|A|Washington County
+ME|23|13900|Connor UT|County Subdivision|S|Aroostook County
+ME|23|14100|Cooper town|County Subdivision|A|Washington County
+ME|23|14205|Coplin plantation|County Subdivision|A|Franklin County
+ME|23|14310|Corinna town|County Subdivision|A|Penobscot County
+ME|23|14380|Corinth town|County Subdivision|A|Penobscot County
+ME|23|14485|Cornish town|County Subdivision|A|York County
+ME|23|14555|Cornville town|County Subdivision|A|Somerset County
+ME|23|14800|Cousins Island CDP|Census Designated Place|S|Cumberland County
+ME|23|14905|Cranberry Isles town|County Subdivision|A|Hancock County
+ME|23|14940|Crawford town|County Subdivision|A|Washington County
+ME|23|15125|Criehaven UT|County Subdivision|S|Knox County
+ME|23|15395|Crystal town|County Subdivision|A|Aroostook County
+ME|23|15430|Cumberland town|County Subdivision|A|Cumberland County
+ME|23|15500|Cumberland Center CDP|Census Designated Place|S|Cumberland County
+ME|23|15780|Cushing town|County Subdivision|A|Knox County
+ME|23|15920|Cutler town|County Subdivision|A|Washington County
+ME|23|15990|Cyr plantation|County Subdivision|A|Aroostook County
+ME|23|16165|Dallas plantation|County Subdivision|A|Franklin County
+ME|23|16200|Damariscotta CDP|Census Designated Place|S|Lincoln County
+ME|23|16235|Damariscotta town|County Subdivision|A|Lincoln County
+ME|23|16410|Danforth town|County Subdivision|A|Washington County
+ME|23|16725|Dayton town|County Subdivision|A|York County
+ME|23|16865|Deblois town|County Subdivision|A|Washington County
+ME|23|16935|Dedham town|County Subdivision|A|Hancock County
+ME|23|17145|Deer Isle town|County Subdivision|A|Hancock County
+ME|23|17250|Denmark town|County Subdivision|A|Oxford County
+ME|23|17285|Dennistown plantation|County Subdivision|A|Somerset County
+ME|23|17355|Dennysville town|County Subdivision|A|Washington County
+ME|23|17460|Detroit town|County Subdivision|A|Somerset County
+ME|23|17495|Dexter CDP|Census Designated Place|S|Penobscot County
+ME|23|17530|Dexter town|County Subdivision|A|Penobscot County
+ME|23|17705|Dixfield CDP|Census Designated Place|S|Oxford County
+ME|23|17740|Dixfield town|County Subdivision|A|Oxford County
+ME|23|17950|Dixmont town|County Subdivision|A|Penobscot County
+ME|23|18195|Dover-Foxcroft town|County Subdivision|A|Piscataquis County
+ME|23|18230|Dover-Foxcroft CDP|Census Designated Place|S|Piscataquis County
+ME|23|18475|Dresden town|County Subdivision|A|Lincoln County
+ME|23|18580|Drew plantation|County Subdivision|A|Penobscot County
+ME|23|19105|Durham town|County Subdivision|A|Androscoggin County
+ME|23|19210|Dyer Brook town|County Subdivision|A|Aroostook County
+ME|23|19385|Eagle Lake CDP|Census Designated Place|S|Aroostook County
+ME|23|19420|Eagle Lake town|County Subdivision|A|Aroostook County
+ME|23|19770|Eastbrook town|County Subdivision|A|Hancock County
+ME|23|19865|East Central Franklin UT|County Subdivision|S|Franklin County
+ME|23|19868|East Central Penobscot UT|County Subdivision|S|Penobscot County
+ME|23|19870|East Central Washington UT|County Subdivision|S|Washington County
+ME|23|20405|East Hancock UT|County Subdivision|S|Hancock County
+ME|23|20960|East Machias town|County Subdivision|A|Washington County
+ME|23|21030|East Millinocket town|County Subdivision|A|Penobscot County
+ME|23|21065|East Millinocket CDP|Census Designated Place|S|Penobscot County
+ME|23|21380|Easton town|County Subdivision|A|Aroostook County
+ME|23|21730|Eastport city|County Subdivision|F|Washington County
+ME|23|21730|Eastport city|Incorporated Place|A|Washington County
+ME|23|22535|Eddington town|County Subdivision|A|Penobscot County
+ME|23|22675|Edgecomb town|County Subdivision|A|Lincoln County
+ME|23|22710|Edinburg town|County Subdivision|A|Penobscot County
+ME|23|22955|Eliot town|County Subdivision|A|York County
+ME|23|23200|Ellsworth city|County Subdivision|F|Hancock County
+ME|23|23200|Ellsworth city|Incorporated Place|A|Hancock County
+ME|23|23410|Embden town|County Subdivision|A|Somerset County
+ME|23|23620|Enfield town|County Subdivision|A|Penobscot County
+ME|23|23865|Etna town|County Subdivision|A|Penobscot County
+ME|23|24005|Eustis town|County Subdivision|A|Franklin County
+ME|23|24110|Exeter town|County Subdivision|A|Penobscot County
+ME|23|24285|Fairfield CDP|Census Designated Place|S|Somerset County
+ME|23|24320|Fairfield town|County Subdivision|A|Somerset County
+ME|23|24480|Falmouth CDP|Census Designated Place|S|Cumberland County
+ME|23|24495|Falmouth town|County Subdivision|A|Cumberland County
+ME|23|24530|Falmouth Foreside CDP|Census Designated Place|S|Cumberland County
+ME|23|24635|Farmingdale CDP|Census Designated Place|S|Kennebec County
+ME|23|24670|Farmingdale town|County Subdivision|A|Kennebec County
+ME|23|24740|Farmington CDP|Census Designated Place|S|Franklin County
+ME|23|24775|Farmington town|County Subdivision|A|Franklin County
+ME|23|24950|Fayette town|County Subdivision|A|Kennebec County
+ME|23|25580|Fort Fairfield CDP|Census Designated Place|S|Aroostook County
+ME|23|25615|Fort Fairfield town|County Subdivision|A|Aroostook County
+ME|23|25720|Fort Kent CDP|Census Designated Place|S|Aroostook County
+ME|23|25755|Fort Kent town|County Subdivision|A|Aroostook County
+ME|23|26280|Frankfort town|County Subdivision|A|Waldo County
+ME|23|26350|Franklin town|County Subdivision|A|Hancock County
+ME|23|26420|Freedom town|County Subdivision|A|Waldo County
+ME|23|26490|Freeport CDP|Census Designated Place|S|Cumberland County
+ME|23|26525|Freeport town|County Subdivision|A|Cumberland County
+ME|23|26595|Frenchboro town|County Subdivision|A|Hancock County
+ME|23|26735|Frenchville town|County Subdivision|A|Aroostook County
+ME|23|26805|Friendship town|County Subdivision|A|Knox County
+ME|23|26875|Fryeburg CDP|Census Designated Place|S|Oxford County
+ME|23|26910|Fryeburg town|County Subdivision|A|Oxford County
+ME|23|27025|Frye Island town|County Subdivision|A|Cumberland County
+ME|23|27085|Gardiner city|County Subdivision|F|Kennebec County
+ME|23|27085|Gardiner city|Incorporated Place|A|Kennebec County
+ME|23|27120|Garfield plantation|County Subdivision|A|Aroostook County
+ME|23|27190|Garland town|County Subdivision|A|Penobscot County
+ME|23|27295|Georgetown town|County Subdivision|A|Sagadahoc County
+ME|23|27505|Gilead town|County Subdivision|A|Oxford County
+ME|23|27645|Glenburn town|County Subdivision|A|Penobscot County
+ME|23|27855|Glenwood plantation|County Subdivision|A|Aroostook County
+ME|23|28205|Gorham CDP|Census Designated Place|S|Cumberland County
+ME|23|28240|Gorham town|County Subdivision|A|Cumberland County
+ME|23|28450|Gouldsboro town|County Subdivision|A|Hancock County
+ME|23|28590|Grand Isle town|County Subdivision|A|Aroostook County
+ME|23|28660|Grand Lake Stream plantation|County Subdivision|A|Washington County
+ME|23|28835|Gray CDP|Census Designated Place|S|Cumberland County
+ME|23|28870|Gray town|County Subdivision|A|Cumberland County
+ME|23|28975|Great Pond town|County Subdivision|A|Hancock County
+ME|23|29185|Greenbush town|County Subdivision|A|Penobscot County
+ME|23|29255|Greene town|County Subdivision|A|Androscoggin County
+ME|23|29500|Greenville CDP|Census Designated Place|S|Piscataquis County
+ME|23|29535|Greenville town|County Subdivision|A|Piscataquis County
+ME|23|29710|Greenwood town|County Subdivision|A|Oxford County
+ME|23|30060|Guilford CDP|Census Designated Place|S|Piscataquis County
+ME|23|30095|Guilford town|County Subdivision|A|Piscataquis County
+ME|23|30550|Hallowell city|County Subdivision|F|Kennebec County
+ME|23|30550|Hallowell city|Incorporated Place|A|Kennebec County
+ME|23|30690|Hamlin town|County Subdivision|A|Aroostook County
+ME|23|30725|Hammond town|County Subdivision|A|Aroostook County
+ME|23|30760|Hampden CDP|Census Designated Place|S|Penobscot County
+ME|23|30795|Hampden town|County Subdivision|A|Penobscot County
+ME|23|30970|Hancock town|County Subdivision|A|Hancock County
+ME|23|31110|Hanover town|County Subdivision|A|Oxford County
+ME|23|31355|Harmony town|County Subdivision|A|Somerset County
+ME|23|31390|Harpswell town|County Subdivision|A|Cumberland County
+ME|23|31530|Harrington town|County Subdivision|A|Washington County
+ME|23|31600|Harrison town|County Subdivision|A|Cumberland County
+ME|23|31670|Hartford town|County Subdivision|A|Oxford County
+ME|23|31705|Hartland CDP|Census Designated Place|S|Somerset County
+ME|23|31740|Hartland town|County Subdivision|A|Somerset County
+ME|23|32195|Haynesville town|County Subdivision|A|Aroostook County
+ME|23|32370|Hebron town|County Subdivision|A|Oxford County
+ME|23|32510|Hermon town|County Subdivision|A|Penobscot County
+ME|23|32685|Hersey town|County Subdivision|A|Aroostook County
+ME|23|32715|Hibberts gore|County Subdivision|N|Lincoln County
+ME|23|32895|Highland plantation|County Subdivision|A|Somerset County
+ME|23|33315|Hiram town|County Subdivision|A|Oxford County
+ME|23|33385|Hodgdon town|County Subdivision|A|Aroostook County
+ME|23|33490|Holden town|County Subdivision|A|Penobscot County
+ME|23|33665|Hollis town|County Subdivision|A|York County
+ME|23|33840|Hope town|County Subdivision|A|Knox County
+ME|23|33945|Houlton CDP|Census Designated Place|S|Aroostook County
+ME|23|33980|Houlton town|County Subdivision|A|Aroostook County
+ME|23|34190|Howland town|County Subdivision|A|Penobscot County
+ME|23|34225|Howland CDP|Census Designated Place|S|Penobscot County
+ME|23|34365|Hudson town|County Subdivision|A|Penobscot County
+ME|23|34820|Industry town|County Subdivision|A|Franklin County
+ME|23|35065|Island Falls town|County Subdivision|A|Aroostook County
+ME|23|35135|Isle au Haut town|County Subdivision|A|Knox County
+ME|23|35240|Islesboro town|County Subdivision|A|Waldo County
+ME|23|35345|Jackman town|County Subdivision|A|Somerset County
+ME|23|35450|Jackson town|County Subdivision|A|Waldo County
+ME|23|35625|Jay town|County Subdivision|A|Franklin County
+ME|23|35695|Jefferson town|County Subdivision|A|Lincoln County
+ME|23|35905|Jonesboro town|County Subdivision|A|Washington County
+ME|23|36010|Jonesport town|County Subdivision|A|Washington County
+ME|23|36325|Kenduskeag town|County Subdivision|A|Penobscot County
+ME|23|36500|Kennebunk CDP|Census Designated Place|S|York County
+ME|23|36535|Kennebunk town|County Subdivision|A|York County
+ME|23|36710|Kennebunkport CDP|Census Designated Place|S|York County
+ME|23|36745|Kennebunkport town|County Subdivision|A|York County
+ME|23|37025|Kingfield town|County Subdivision|A|Franklin County
+ME|23|37075|Kingman UT|County Subdivision|S|Penobscot County
+ME|23|37095|Kingsbury plantation|County Subdivision|A|Piscataquis County
+ME|23|37235|Kittery CDP|Census Designated Place|S|York County
+ME|23|37270|Kittery town|County Subdivision|A|York County
+ME|23|37375|Kittery Point CDP|Census Designated Place|S|York County
+ME|23|37585|Knox town|County Subdivision|A|Waldo County
+ME|23|37760|Lagrange town|County Subdivision|A|Penobscot County
+ME|23|37795|Lake Arrowhead CDP|Census Designated Place|S|York County
+ME|23|37970|Lake View plantation|County Subdivision|A|Piscataquis County
+ME|23|38005|Lakeville town|County Subdivision|A|Penobscot County
+ME|23|38180|Lamoine town|County Subdivision|A|Hancock County
+ME|23|38425|Lebanon town|County Subdivision|A|York County
+ME|23|38530|Lee town|County Subdivision|A|Penobscot County
+ME|23|38565|Leeds town|County Subdivision|A|Androscoggin County
+ME|23|38705|Levant town|County Subdivision|A|Penobscot County
+ME|23|38740|Lewiston city|County Subdivision|F|Androscoggin County
+ME|23|38740|Lewiston city|Incorporated Place|A|Androscoggin County
+ME|23|39055|Liberty town|County Subdivision|A|Waldo County
+ME|23|39195|Limerick town|County Subdivision|A|York County
+ME|23|39265|Limestone CDP|Census Designated Place|S|Aroostook County
+ME|23|39300|Limestone town|County Subdivision|A|Aroostook County
+ME|23|39405|Limington town|County Subdivision|A|York County
+ME|23|39422|Lincoln plantation|County Subdivision|A|Oxford County
+ME|23|39440|Lincoln CDP|Census Designated Place|S|Penobscot County
+ME|23|39475|Lincoln town|County Subdivision|A|Penobscot County
+ME|23|39755|Lincolnville town|County Subdivision|A|Waldo County
+ME|23|39965|Linneus town|County Subdivision|A|Aroostook County
+ME|23|40035|Lisbon town|County Subdivision|A|Androscoggin County
+ME|23|40105|Lisbon Falls CDP|Census Designated Place|S|Androscoggin County
+ME|23|40175|Litchfield town|County Subdivision|A|Kennebec County
+ME|23|40350|Little Falls CDP|Census Designated Place|S|Cumberland County
+ME|23|40470|Littlejohn Island CDP|Census Designated Place|S|Cumberland County
+ME|23|40595|Littleton town|County Subdivision|A|Aroostook County
+ME|23|40665|Livermore town|County Subdivision|A|Androscoggin County
+ME|23|40735|Livermore Falls CDP|Census Designated Place|S|Androscoggin County
+ME|23|40770|Livermore Falls town|County Subdivision|A|Androscoggin County
+ME|23|41067|Long Island town|County Subdivision|A|Cumberland County
+ME|23|41280|Louds Island UT|County Subdivision|S|Lincoln County
+ME|23|41365|Lovell town|County Subdivision|A|Oxford County
+ME|23|41435|Lowell town|County Subdivision|A|Penobscot County
+ME|23|41575|Lubec CDP|Census Designated Place|S|Washington County
+ME|23|41610|Lubec town|County Subdivision|A|Washington County
+ME|23|41715|Ludlow town|County Subdivision|A|Aroostook County
+ME|23|41750|Lyman town|County Subdivision|A|York County
+ME|23|41925|Machias CDP|Census Designated Place|S|Washington County
+ME|23|41960|Machias town|County Subdivision|A|Washington County
+ME|23|42100|Machiasport town|County Subdivision|A|Washington County
+ME|23|42450|Macwahoc plantation|County Subdivision|A|Aroostook County
+ME|23|42485|Madawaska CDP|Census Designated Place|S|Aroostook County
+ME|23|42520|Madawaska town|County Subdivision|A|Aroostook County
+ME|23|42625|Madison CDP|Census Designated Place|S|Somerset County
+ME|23|42660|Madison town|County Subdivision|A|Somerset County
+ME|23|42835|Magalloway plantation|County Subdivision|A|Oxford County
+ME|23|43080|Manchester town|County Subdivision|A|Kennebec County
+ME|23|43220|Mapleton CDP|Census Designated Place|S|Aroostook County
+ME|23|43255|Mapleton town|County Subdivision|A|Aroostook County
+ME|23|43430|Mariaville town|County Subdivision|A|Hancock County
+ME|23|43475|Marshall Island UT|County Subdivision|S|Hancock County
+ME|23|43640|Marshfield town|County Subdivision|A|Washington County
+ME|23|43675|Mars Hill CDP|Census Designated Place|S|Aroostook County
+ME|23|43710|Mars Hill town|County Subdivision|A|Aroostook County
+ME|23|43990|Masardis town|County Subdivision|A|Aroostook County
+ME|23|44165|Matinicus Isle plantation|County Subdivision|A|Knox County
+ME|23|44270|Mattawamkeag town|County Subdivision|A|Penobscot County
+ME|23|44340|Maxfield town|County Subdivision|A|Penobscot County
+ME|23|44585|Mechanic Falls town|County Subdivision|A|Androscoggin County
+ME|23|44620|Mechanic Falls CDP|Census Designated Place|S|Androscoggin County
+ME|23|44760|Meddybemps town|County Subdivision|A|Washington County
+ME|23|44830|Medford town|County Subdivision|A|Piscataquis County
+ME|23|45005|Medway town|County Subdivision|A|Penobscot County
+ME|23|45110|Mercer town|County Subdivision|A|Somerset County
+ME|23|45180|Merrill town|County Subdivision|A|Aroostook County
+ME|23|45250|Mexico CDP|Census Designated Place|S|Oxford County
+ME|23|45285|Mexico town|County Subdivision|A|Oxford County
+ME|23|45600|Milbridge town|County Subdivision|A|Washington County
+ME|23|45635|Milford CDP|Census Designated Place|S|Penobscot County
+ME|23|45670|Milford town|County Subdivision|A|Penobscot County
+ME|23|45810|Millinocket town|County Subdivision|A|Penobscot County
+ME|23|45845|Millinocket CDP|Census Designated Place|S|Penobscot County
+ME|23|45985|Milo CDP|Census Designated Place|S|Piscataquis County
+ME|23|46020|Milo town|County Subdivision|A|Piscataquis County
+ME|23|46105|Milton UT|County Subdivision|S|Oxford County
+ME|23|46160|Minot town|County Subdivision|A|Androscoggin County
+ME|23|46335|Monhegan plantation|County Subdivision|A|Lincoln County
+ME|23|46405|Monmouth town|County Subdivision|A|Kennebec County
+ME|23|46475|Monroe town|County Subdivision|A|Waldo County
+ME|23|46580|Monson town|County Subdivision|A|Piscataquis County
+ME|23|46685|Monticello town|County Subdivision|A|Aroostook County
+ME|23|46790|Montville town|County Subdivision|A|Waldo County
+ME|23|47140|Moose River town|County Subdivision|A|Somerset County
+ME|23|47175|Moro plantation|County Subdivision|A|Aroostook County
+ME|23|47245|Morrill town|County Subdivision|A|Waldo County
+ME|23|47455|Moscow town|County Subdivision|A|Somerset County
+ME|23|47560|Mount Chase town|County Subdivision|A|Penobscot County
+ME|23|47630|Mount Desert town|County Subdivision|A|Hancock County
+ME|23|47770|Mount Vernon town|County Subdivision|A|Kennebec County
+ME|23|47962|Muscle Ridge Islands UT|County Subdivision|S|Knox County
+ME|23|48050|Naples CDP|Census Designated Place|S|Cumberland County
+ME|23|48085|Naples town|County Subdivision|A|Cumberland County
+ME|23|48120|Nashville plantation|County Subdivision|A|Aroostook County
+ME|23|48505|Newburgh town|County Subdivision|A|Penobscot County
+ME|23|48575|New Canada town|County Subdivision|A|Aroostook County
+ME|23|48610|Newcastle CDP|Census Designated Place|S|Lincoln County
+ME|23|48645|Newcastle town|County Subdivision|A|Lincoln County
+ME|23|48750|Newfield town|County Subdivision|A|York County
+ME|23|48820|New Gloucester town|County Subdivision|A|Cumberland County
+ME|23|48960|New Limerick town|County Subdivision|A|Aroostook County
+ME|23|49065|Newport town|County Subdivision|A|Penobscot County
+ME|23|49100|Newport CDP|Census Designated Place|S|Penobscot County
+ME|23|49205|New Portland town|County Subdivision|A|Somerset County
+ME|23|49275|Newry town|County Subdivision|A|Oxford County
+ME|23|49345|New Sharon town|County Subdivision|A|Franklin County
+ME|23|49415|New Sweden town|County Subdivision|A|Aroostook County
+ME|23|49520|New Vineyard town|County Subdivision|A|Franklin County
+ME|23|49660|Nobleboro town|County Subdivision|A|Lincoln County
+ME|23|49800|Norridgewock CDP|Census Designated Place|S|Somerset County
+ME|23|49835|Norridgewock town|County Subdivision|A|Somerset County
+ME|23|50290|North Berwick CDP|Census Designated Place|S|York County
+ME|23|50325|North Berwick town|County Subdivision|A|York County
+ME|23|51105|Northeast Piscataquis UT|County Subdivision|S|Piscataquis County
+ME|23|51114|Northeast Somerset UT|County Subdivision|S|Somerset County
+ME|23|51375|Northfield town|County Subdivision|A|Washington County
+ME|23|51400|North Franklin UT|County Subdivision|S|Franklin County
+ME|23|51620|North Haven town|County Subdivision|A|Knox County
+ME|23|52575|North Oxford UT|County Subdivision|S|Oxford County
+ME|23|52710|North Penobscot UT|County Subdivision|S|Penobscot County
+ME|23|52845|Northport town|County Subdivision|A|Waldo County
+ME|23|53500|North Washington UT|County Subdivision|S|Washington County
+ME|23|53602|Northwest Aroostook UT|County Subdivision|S|Aroostook County
+ME|23|53620|Northwest Hancock UT|County Subdivision|S|Hancock County
+ME|23|53628|Northwest Piscataquis UT|County Subdivision|S|Piscataquis County
+ME|23|53636|Northwest Somerset UT|County Subdivision|S|Somerset County
+ME|23|53685|North Windham CDP|Census Designated Place|S|Cumberland County
+ME|23|53860|North Yarmouth town|County Subdivision|A|Cumberland County
+ME|23|53965|Norway CDP|Census Designated Place|S|Oxford County
+ME|23|54000|Norway town|County Subdivision|A|Oxford County
+ME|23|54385|Oakfield town|County Subdivision|A|Aroostook County
+ME|23|54525|Oakland CDP|Census Designated Place|S|Kennebec County
+ME|23|54560|Oakland town|County Subdivision|A|Kennebec County
+ME|23|54980|Ogunquit town|County Subdivision|A|York County
+ME|23|55085|Old Orchard Beach town|County Subdivision|A|York County
+ME|23|55120|Old Orchard Beach CDP|Census Designated Place|S|York County
+ME|23|55225|Old Town city|County Subdivision|F|Penobscot County
+ME|23|55225|Old Town city|Incorporated Place|A|Penobscot County
+ME|23|55435|Orient town|County Subdivision|A|Aroostook County
+ME|23|55505|Orland town|County Subdivision|A|Hancock County
+ME|23|55565|Orono town|County Subdivision|A|Penobscot County
+ME|23|55575|Orono CDP|Census Designated Place|S|Penobscot County
+ME|23|55680|Orrington town|County Subdivision|A|Penobscot County
+ME|23|55855|Osborn town|County Subdivision|A|Hancock County
+ME|23|55890|Otis town|County Subdivision|A|Hancock County
+ME|23|55960|Otisfield town|County Subdivision|A|Oxford County
+ME|23|56135|Owls Head town|County Subdivision|A|Knox County
+ME|23|56205|Oxbow plantation|County Subdivision|A|Aroostook County
+ME|23|56240|Oxford CDP|Census Designated Place|S|Oxford County
+ME|23|56310|Oxford town|County Subdivision|A|Oxford County
+ME|23|56450|Palermo town|County Subdivision|A|Waldo County
+ME|23|56520|Palmyra town|County Subdivision|A|Somerset County
+ME|23|56625|Paris town|County Subdivision|A|Oxford County
+ME|23|56765|Parkman town|County Subdivision|A|Piscataquis County
+ME|23|56870|Parsonsfield town|County Subdivision|A|York County
+ME|23|57045|Passadumkeag town|County Subdivision|A|Penobscot County
+ME|23|57082|Passamaquoddy Indian Township Reservation|County Subdivision|F|Washington County
+ME|23|57090|Passamaquoddy Pleasant Point Reservation|County Subdivision|F|Washington County
+ME|23|57150|Patten town|County Subdivision|A|Penobscot County
+ME|23|57780|Pembroke town|County Subdivision|A|Washington County
+ME|23|57920|Penobscot town|County Subdivision|A|Hancock County
+ME|23|57936|Penobscot Indian Island Reservation|County Subdivision|F|Aroostook County
+ME|23|57937|Penobscot Indian Island Reservation|County Subdivision|F|Penobscot County
+ME|23|58060|Perham town|County Subdivision|A|Aroostook County
+ME|23|58070|Perkins UT|County Subdivision|S|Sagadahoc County
+ME|23|58165|Perry town|County Subdivision|A|Washington County
+ME|23|58270|Peru town|County Subdivision|A|Oxford County
+ME|23|58445|Phillips town|County Subdivision|A|Franklin County
+ME|23|58515|Phippsburg town|County Subdivision|A|Sagadahoc County
+ME|23|58970|Pittsfield CDP|Census Designated Place|S|Somerset County
+ME|23|59005|Pittsfield town|County Subdivision|A|Somerset County
+ME|23|59110|Pittston town|County Subdivision|A|Kennebec County
+ME|23|59705|Pleasant Ridge plantation|County Subdivision|A|Somerset County
+ME|23|59950|Plymouth town|County Subdivision|A|Penobscot County
+ME|23|60020|Poland town|County Subdivision|A|Androscoggin County
+ME|23|60300|Portage Lake town|County Subdivision|A|Aroostook County
+ME|23|60405|Porter town|County Subdivision|A|Oxford County
+ME|23|60545|Portland city|County Subdivision|F|Cumberland County
+ME|23|60545|Portland city|Incorporated Place|A|Cumberland County
+ME|23|60685|Pownal town|County Subdivision|A|Cumberland County
+ME|23|60790|Prentiss UT|County Subdivision|S|Penobscot County
+ME|23|60825|Presque Isle city|County Subdivision|F|Aroostook County
+ME|23|60825|Presque Isle city|Incorporated Place|A|Aroostook County
+ME|23|61035|Princeton town|County Subdivision|A|Washington County
+ME|23|61210|Prospect town|County Subdivision|A|Waldo County
+ME|23|61700|Randolph town|County Subdivision|A|Kennebec County
+ME|23|61735|Randolph CDP|Census Designated Place|S|Kennebec County
+ME|23|61840|Rangeley town|County Subdivision|A|Franklin County
+ME|23|61875|Rangeley plantation|County Subdivision|A|Franklin County
+ME|23|61945|Raymond town|County Subdivision|A|Cumberland County
+ME|23|62190|Readfield town|County Subdivision|A|Kennebec County
+ME|23|62400|Reed plantation|County Subdivision|A|Aroostook County
+ME|23|62610|Richmond CDP|Census Designated Place|S|Sagadahoc County
+ME|23|62645|Richmond town|County Subdivision|A|Sagadahoc County
+ME|23|62995|Ripley town|County Subdivision|A|Somerset County
+ME|23|63275|Robbinston town|County Subdivision|A|Washington County
+ME|23|63590|Rockland city|County Subdivision|F|Knox County
+ME|23|63590|Rockland city|Incorporated Place|A|Knox County
+ME|23|63660|Rockport town|County Subdivision|A|Knox County
+ME|23|63835|Rome town|County Subdivision|A|Kennebec County
+ME|23|63940|Roque Bluffs town|County Subdivision|A|Washington County
+ME|23|64185|Roxbury town|County Subdivision|A|Oxford County
+ME|23|64255|Rumford CDP|Census Designated Place|S|Oxford County
+ME|23|64290|Rumford town|County Subdivision|A|Oxford County
+ME|23|64570|Sabattus town|County Subdivision|A|Androscoggin County
+ME|23|64675|Saco city|County Subdivision|F|York County
+ME|23|64675|Saco city|Incorporated Place|A|York County
+ME|23|64780|St. Agatha town|County Subdivision|A|Aroostook County
+ME|23|64850|St. Albans town|County Subdivision|A|Somerset County
+ME|23|65025|St. Francis town|County Subdivision|A|Aroostook County
+ME|23|65130|St. George town|County Subdivision|A|Knox County
+ME|23|65200|St. John plantation|County Subdivision|A|Aroostook County
+ME|23|65655|Sandy River plantation|County Subdivision|A|Franklin County
+ME|23|65725|Sanford CDP|Census Designated Place|S|York County
+ME|23|65760|Sanford town|County Subdivision|A|York County
+ME|23|65865|Sangerville town|County Subdivision|A|Piscataquis County
+ME|23|66110|Scarborough CDP|Census Designated Place|S|Cumberland County
+ME|23|66145|Scarborough town|County Subdivision|A|Cumberland County
+ME|23|66565|Searsmont town|County Subdivision|A|Waldo County
+ME|23|66600|Searsport CDP|Census Designated Place|S|Waldo County
+ME|23|66635|Searsport town|County Subdivision|A|Waldo County
+ME|23|66775|Sebago town|County Subdivision|A|Cumberland County
+ME|23|66950|Sebec town|County Subdivision|A|Piscataquis County
+ME|23|67160|Seboeis plantation|County Subdivision|A|Penobscot County
+ME|23|67238|Seboomook Lake UT|County Subdivision|S|Somerset County
+ME|23|67300|Sedgwick town|County Subdivision|A|Hancock County
+ME|23|67475|Shapleigh town|County Subdivision|A|York County
+ME|23|67790|Sherman town|County Subdivision|A|Aroostook County
+ME|23|68140|Shirley town|County Subdivision|A|Piscataquis County
+ME|23|68385|Sidney town|County Subdivision|A|Kennebec County
+ME|23|68875|Skowhegan CDP|Census Designated Place|S|Somerset County
+ME|23|68910|Skowhegan town|County Subdivision|A|Somerset County
+ME|23|69155|Smithfield town|County Subdivision|A|Somerset County
+ME|23|69260|Smyrna town|County Subdivision|A|Aroostook County
+ME|23|69505|Solon town|County Subdivision|A|Somerset County
+ME|23|69645|Somerville town|County Subdivision|A|Lincoln County
+ME|23|69750|Sorrento town|County Subdivision|A|Hancock County
+ME|23|69930|South Aroostook UT|County Subdivision|S|Aroostook County
+ME|23|70030|South Berwick town|County Subdivision|A|York County
+ME|23|70240|South Bristol town|County Subdivision|A|Lincoln County
+ME|23|70655|Southeast Piscataquis UT|County Subdivision|S|Piscataquis County
+ME|23|70660|South Eliot CDP|Census Designated Place|S|York County
+ME|23|70760|South Franklin UT|County Subdivision|S|Franklin County
+ME|23|71755|South Oxford UT|County Subdivision|S|Oxford County
+ME|23|71780|South Paris CDP|Census Designated Place|S|Oxford County
+ME|23|71955|Southport town|County Subdivision|A|Lincoln County
+ME|23|71990|South Portland city|County Subdivision|F|Cumberland County
+ME|23|71990|South Portland city|Incorporated Place|A|Cumberland County
+ME|23|72200|South Sanford CDP|Census Designated Place|S|York County
+ME|23|72585|South Thomaston town|County Subdivision|A|Knox County
+ME|23|72830|Southwest Harbor CDP|Census Designated Place|S|Hancock County
+ME|23|72865|Southwest Harbor town|County Subdivision|A|Hancock County
+ME|23|72900|South Windham CDP|Census Designated Place|S|Cumberland County
+ME|23|73250|Springfield town|County Subdivision|A|Penobscot County
+ME|23|73285|Springvale CDP|Census Designated Place|S|York County
+ME|23|73472|Square Lake UT|County Subdivision|S|Aroostook County
+ME|23|73600|Stacyville town|County Subdivision|A|Penobscot County
+ME|23|73635|Standish CDP|Census Designated Place|S|Cumberland County
+ME|23|73670|Standish town|County Subdivision|A|Cumberland County
+ME|23|73845|Starks town|County Subdivision|A|Somerset County
+ME|23|73985|Steep Falls CDP|Census Designated Place|S|Cumberland County
+ME|23|74055|Stetson town|County Subdivision|A|Penobscot County
+ME|23|74125|Steuben town|County Subdivision|A|Washington County
+ME|23|74405|Stockholm town|County Subdivision|A|Aroostook County
+ME|23|74475|Stockton Springs town|County Subdivision|A|Waldo County
+ME|23|74510|Stoneham town|County Subdivision|A|Oxford County
+ME|23|74580|Stonington town|County Subdivision|A|Hancock County
+ME|23|74685|Stow town|County Subdivision|A|Oxford County
+ME|23|74825|Strong town|County Subdivision|A|Franklin County
+ME|23|74965|Sullivan town|County Subdivision|A|Hancock County
+ME|23|75035|Sumner town|County Subdivision|A|Oxford County
+ME|23|75280|Surry town|County Subdivision|A|Hancock County
+ME|23|75455|Swans Island town|County Subdivision|A|Hancock County
+ME|23|75525|Swanville town|County Subdivision|A|Waldo County
+ME|23|75595|Sweden town|County Subdivision|A|Oxford County
+ME|23|75770|Talmadge town|County Subdivision|A|Washington County
+ME|23|75980|Temple town|County Subdivision|A|Franklin County
+ME|23|76190|The Forks plantation|County Subdivision|A|Somerset County
+ME|23|76330|Thomaston CDP|Census Designated Place|S|Knox County
+ME|23|76365|Thomaston town|County Subdivision|A|Knox County
+ME|23|76610|Thorndike town|County Subdivision|A|Waldo County
+ME|23|76895|Topsfield town|County Subdivision|A|Washington County
+ME|23|76925|Topsham CDP|Census Designated Place|S|Sagadahoc County
+ME|23|76960|Topsham town|County Subdivision|A|Sagadahoc County
+ME|23|77345|Tremont town|County Subdivision|A|Hancock County
+ME|23|77415|Trenton town|County Subdivision|A|Hancock County
+ME|23|77625|Troy town|County Subdivision|A|Waldo County
+ME|23|77800|Turner town|County Subdivision|A|Androscoggin County
+ME|23|78015|Twombly Ridge UT|County Subdivision|S|Penobscot County
+ME|23|78115|Union town|County Subdivision|A|Knox County
+ME|23|78190|Unity UT|County Subdivision|S|Kennebec County
+ME|23|78220|Unity CDP|Census Designated Place|S|Waldo County
+ME|23|78255|Unity town|County Subdivision|A|Waldo County
+ME|23|78465|Upton town|County Subdivision|A|Oxford County
+ME|23|78535|Van Buren CDP|Census Designated Place|S|Aroostook County
+ME|23|78570|Van Buren town|County Subdivision|A|Aroostook County
+ME|23|78675|Vanceboro town|County Subdivision|A|Washington County
+ME|23|78745|Vassalboro town|County Subdivision|A|Kennebec County
+ME|23|78780|Veazie town|County Subdivision|A|Penobscot County
+ME|23|78925|Verona Island town|County Subdivision|A|Hancock County
+ME|23|79025|Vienna town|County Subdivision|A|Kennebec County
+ME|23|79130|Vinalhaven town|County Subdivision|A|Knox County
+ME|23|79270|Wade town|County Subdivision|A|Aroostook County
+ME|23|79375|Waite town|County Subdivision|A|Washington County
+ME|23|79480|Waldo town|County Subdivision|A|Waldo County
+ME|23|79515|Waldoboro CDP|Census Designated Place|S|Lincoln County
+ME|23|79550|Waldoboro town|County Subdivision|A|Lincoln County
+ME|23|79585|Wales town|County Subdivision|A|Androscoggin County
+ME|23|79865|Wallagrass town|County Subdivision|A|Aroostook County
+ME|23|80040|Waltham town|County Subdivision|A|Hancock County
+ME|23|80215|Warren town|County Subdivision|A|Knox County
+ME|23|80250|Washburn CDP|Census Designated Place|S|Aroostook County
+ME|23|80285|Washburn town|County Subdivision|A|Aroostook County
+ME|23|80425|Washington town|County Subdivision|A|Knox County
+ME|23|80530|Waterboro town|County Subdivision|A|York County
+ME|23|80635|Waterford town|County Subdivision|A|Oxford County
+ME|23|80740|Waterville city|County Subdivision|F|Kennebec County
+ME|23|80740|Waterville city|Incorporated Place|A|Kennebec County
+ME|23|80880|Wayne town|County Subdivision|A|Kennebec County
+ME|23|81055|Webster plantation|County Subdivision|A|Penobscot County
+ME|23|81300|Weld town|County Subdivision|A|Franklin County
+ME|23|81405|Wellington town|County Subdivision|A|Piscataquis County
+ME|23|81475|Wells town|County Subdivision|A|York County
+ME|23|81685|Wesley town|County Subdivision|A|Washington County
+ME|23|81930|West Bath town|County Subdivision|A|Sagadahoc County
+ME|23|82105|Westbrook city|County Subdivision|F|Cumberland County
+ME|23|82105|Westbrook city|Incorporated Place|A|Cumberland County
+ME|23|82235|West Central Franklin UT|County Subdivision|S|Franklin County
+ME|23|82770|Westfield town|County Subdivision|A|Aroostook County
+ME|23|82840|West Forks plantation|County Subdivision|A|Somerset County
+ME|23|82945|West Gardiner town|County Subdivision|A|Kennebec County
+ME|23|83330|West Kennebunk CDP|Census Designated Place|S|York County
+ME|23|83540|Westmanland town|County Subdivision|A|Aroostook County
+ME|23|83785|Weston town|County Subdivision|A|Aroostook County
+ME|23|83890|West Paris town|County Subdivision|A|Oxford County
+ME|23|84140|Westport Island town|County Subdivision|A|Lincoln County
+ME|23|85010|Whitefield town|County Subdivision|A|Lincoln County
+ME|23|85185|Whiting town|County Subdivision|A|Washington County
+ME|23|85230|Whitney UT|County Subdivision|S|Penobscot County
+ME|23|85290|Whitneyville town|County Subdivision|A|Washington County
+ME|23|85710|Willimantic town|County Subdivision|A|Piscataquis County
+ME|23|85815|Wilton CDP|Census Designated Place|S|Franklin County
+ME|23|85850|Wilton town|County Subdivision|A|Franklin County
+ME|23|86025|Windham town|County Subdivision|A|Cumberland County
+ME|23|86165|Windsor town|County Subdivision|A|Kennebec County
+ME|23|86305|Winn town|County Subdivision|A|Penobscot County
+ME|23|86480|Winslow CDP|Census Designated Place|S|Kennebec County
+ME|23|86515|Winslow town|County Subdivision|A|Kennebec County
+ME|23|86620|Winter Harbor CDP|Census Designated Place|S|Hancock County
+ME|23|86655|Winter Harbor town|County Subdivision|A|Hancock County
+ME|23|86725|Winterport CDP|Census Designated Place|S|Waldo County
+ME|23|86760|Winterport town|County Subdivision|A|Waldo County
+ME|23|86865|Winterville plantation|County Subdivision|A|Aroostook County
+ME|23|86935|Winthrop CDP|Census Designated Place|S|Kennebec County
+ME|23|86970|Winthrop town|County Subdivision|A|Kennebec County
+ME|23|87040|Wiscasset CDP|Census Designated Place|S|Lincoln County
+ME|23|87075|Wiscasset town|County Subdivision|A|Lincoln County
+ME|23|87215|Woodland town|County Subdivision|A|Aroostook County
+ME|23|87250|Woodland CDP|Census Designated Place|S|Washington County
+ME|23|87355|Woodstock town|County Subdivision|A|Oxford County
+ME|23|87390|Woodville town|County Subdivision|A|Penobscot County
+ME|23|87460|Woolwich town|County Subdivision|A|Sagadahoc County
+ME|23|87680|Wyman UT|County Subdivision|S|Franklin County
+ME|23|87810|Yarmouth CDP|Census Designated Place|S|Cumberland County
+ME|23|87845|Yarmouth town|County Subdivision|A|Cumberland County
+ME|23|87985|York town|County Subdivision|A|York County
+ME|23|88160|York Harbor CDP|Census Designated Place|S|York County

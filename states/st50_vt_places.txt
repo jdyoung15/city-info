@@ -1,0 +1,374 @@
+VT|50|00325|Addison town|County Subdivision|A|Addison County
+VT|50|00400|Albany village|Incorporated Place|A|Orleans County
+VT|50|00475|Albany town|County Subdivision|A|Orleans County
+VT|50|00625|Alburg village|Incorporated Place|A|Grand Isle County
+VT|50|00700|Alburg town|County Subdivision|A|Grand Isle County
+VT|50|01300|Andover town|County Subdivision|A|Windsor County
+VT|50|01375|Arlington CDP|Census Designated Place|S|Bennington County
+VT|50|01450|Arlington town|County Subdivision|A|Bennington County
+VT|50|01750|Ascutney CDP|Census Designated Place|S|Windsor County
+VT|50|01900|Athens town|County Subdivision|A|Windham County
+VT|50|02125|Averill town|County Subdivision|I|Essex County
+VT|50|02162|Avery's gore|County Subdivision|N|Essex County
+VT|50|02500|Bakersfield town|County Subdivision|A|Franklin County
+VT|50|02575|Baltimore town|County Subdivision|A|Windsor County
+VT|50|02725|Barnard town|County Subdivision|A|Windsor County
+VT|50|02800|Barnet CDP|Census Designated Place|S|Caledonia County
+VT|50|02875|Barnet town|County Subdivision|A|Caledonia County
+VT|50|03175|Barre city|County Subdivision|F|Washington County
+VT|50|03175|Barre city|Incorporated Place|A|Washington County
+VT|50|03250|Barre town|County Subdivision|A|Washington County
+VT|50|03475|Barton village|Incorporated Place|A|Orleans County
+VT|50|03550|Barton town|County Subdivision|A|Orleans County
+VT|50|04150|Beecher Falls CDP|Census Designated Place|S|Essex County
+VT|50|04225|Bellows Falls village|Incorporated Place|A|Windham County
+VT|50|04375|Belvidere town|County Subdivision|A|Lamoille County
+VT|50|04750|Bennington CDP|Census Designated Place|S|Bennington County
+VT|50|04825|Bennington town|County Subdivision|A|Bennington County
+VT|50|05125|Benson CDP|Census Designated Place|S|Rutland County
+VT|50|05200|Benson town|County Subdivision|A|Rutland County
+VT|50|05425|Berkshire town|County Subdivision|A|Franklin County
+VT|50|05650|Berlin town|County Subdivision|A|Washington County
+VT|50|05725|Bethel CDP|Census Designated Place|S|Windsor County
+VT|50|05800|Bethel town|County Subdivision|A|Windsor County
+VT|50|06325|Bloomfield town|County Subdivision|A|Essex County
+VT|50|06550|Bolton town|County Subdivision|A|Chittenden County
+VT|50|07225|Bradford CDP|Census Designated Place|S|Orange County
+VT|50|07375|Bradford town|County Subdivision|A|Orange County
+VT|50|07600|Braintree town|County Subdivision|A|Orange County
+VT|50|07675|Brandon CDP|Census Designated Place|S|Rutland County
+VT|50|07750|Brandon town|County Subdivision|A|Rutland County
+VT|50|07900|Brattleboro town|County Subdivision|A|Windham County
+VT|50|07975|Brattleboro CDP|Census Designated Place|S|Windham County
+VT|50|08275|Bridgewater town|County Subdivision|A|Windsor County
+VT|50|08575|Bridport town|County Subdivision|A|Addison County
+VT|50|08725|Brighton town|County Subdivision|A|Essex County
+VT|50|08950|Bristol CDP|Census Designated Place|S|Addison County
+VT|50|09025|Bristol town|County Subdivision|A|Addison County
+VT|50|09325|Brookfield town|County Subdivision|A|Orange County
+VT|50|09475|Brookline town|County Subdivision|A|Windham County
+VT|50|09850|Brownington town|County Subdivision|A|Orleans County
+VT|50|10075|Brunswick town|County Subdivision|A|Essex County
+VT|50|10300|Buels gore|County Subdivision|N|Chittenden County
+VT|50|10450|Burke town|County Subdivision|A|Caledonia County
+VT|50|10675|Burlington city|County Subdivision|F|Chittenden County
+VT|50|10675|Burlington city|Incorporated Place|A|Chittenden County
+VT|50|11050|Cabot village|Incorporated Place|A|Washington County
+VT|50|11125|Cabot town|County Subdivision|A|Washington County
+VT|50|11350|Calais town|County Subdivision|A|Washington County
+VT|50|11425|Cambridge village|Incorporated Place|A|Lamoille County
+VT|50|11500|Cambridge town|County Subdivision|A|Lamoille County
+VT|50|11725|Canaan CDP|Census Designated Place|S|Essex County
+VT|50|11800|Canaan town|County Subdivision|A|Essex County
+VT|50|11875|Castleton CDP|Census Designated Place|S|Rutland County
+VT|50|11950|Castleton town|County Subdivision|A|Rutland County
+VT|50|12175|Cavendish CDP|Census Designated Place|S|Windsor County
+VT|50|12250|Cavendish town|County Subdivision|A|Windsor County
+VT|50|13150|Charleston town|County Subdivision|A|Orleans County
+VT|50|13300|Charlotte town|County Subdivision|A|Chittenden County
+VT|50|13525|Chelsea town|County Subdivision|A|Orange County
+VT|50|13600|Chester CDP|Census Designated Place|S|Windsor County
+VT|50|13675|Chester town|County Subdivision|A|Windsor County
+VT|50|14350|Chittenden town|County Subdivision|A|Rutland County
+VT|50|14500|Clarendon town|County Subdivision|A|Rutland County
+VT|50|14875|Colchester town|County Subdivision|A|Chittenden County
+VT|50|15175|Concord CDP|Census Designated Place|S|Essex County
+VT|50|15250|Concord town|County Subdivision|A|Essex County
+VT|50|15700|Corinth town|County Subdivision|A|Orange County
+VT|50|16000|Cornwall town|County Subdivision|A|Addison County
+VT|50|16075|Coventry CDP|Census Designated Place|S|Orleans County
+VT|50|16150|Coventry town|County Subdivision|A|Orleans County
+VT|50|16300|Craftsbury town|County Subdivision|A|Orleans County
+VT|50|16825|Danby town|County Subdivision|A|Rutland County
+VT|50|17050|Danville CDP|Census Designated Place|S|Caledonia County
+VT|50|17125|Danville town|County Subdivision|A|Caledonia County
+VT|50|17350|Derby town|County Subdivision|A|Orleans County
+VT|50|17425|Derby Center village|Incorporated Place|A|Orleans County
+VT|50|17500|Derby Line village|Incorporated Place|A|Orleans County
+VT|50|17650|Dorset CDP|Census Designated Place|S|Bennington County
+VT|50|17725|Dorset town|County Subdivision|A|Bennington County
+VT|50|17875|Dover town|County Subdivision|A|Windham County
+VT|50|18325|Dummerston town|County Subdivision|A|Windham County
+VT|50|18550|Duxbury town|County Subdivision|A|Washington County
+VT|50|19075|East Barre CDP|Census Designated Place|S|Washington County
+VT|50|19600|East Burke CDP|Census Designated Place|S|Caledonia County
+VT|50|21250|East Haven town|County Subdivision|A|Essex County
+VT|50|21700|East Middlebury CDP|Census Designated Place|S|Addison County
+VT|50|21850|East Montpelier CDP|Census Designated Place|S|Washington County
+VT|50|21925|East Montpelier town|County Subdivision|A|Washington County
+VT|50|23500|Eden town|County Subdivision|A|Lamoille County
+VT|50|23725|Elmore town|County Subdivision|A|Lamoille County
+VT|50|23875|Enosburg town|County Subdivision|A|Franklin County
+VT|50|24025|Enosburg Falls village|Incorporated Place|A|Franklin County
+VT|50|24175|Essex town|County Subdivision|A|Chittenden County
+VT|50|24400|Essex Junction village|Incorporated Place|A|Chittenden County
+VT|50|24925|Fairfax town|County Subdivision|A|Franklin County
+VT|50|25225|Fairfield town|County Subdivision|A|Franklin County
+VT|50|25375|Fair Haven town|County Subdivision|A|Rutland County
+VT|50|25450|Fair Haven CDP|Census Designated Place|S|Rutland County
+VT|50|25600|Fairlee CDP|Census Designated Place|S|Orange County
+VT|50|25675|Fairlee town|County Subdivision|A|Orange County
+VT|50|25825|Fayston town|County Subdivision|A|Washington County
+VT|50|25975|Ferdinand town|County Subdivision|I|Essex County
+VT|50|26300|Ferrisburgh town|County Subdivision|A|Addison County
+VT|50|26500|Fletcher town|County Subdivision|A|Franklin County
+VT|50|27100|Franklin town|County Subdivision|A|Franklin County
+VT|50|27700|Georgia town|County Subdivision|A|Franklin County
+VT|50|27962|Glastenbury town|County Subdivision|I|Bennington County
+VT|50|28000|Glover CDP|Census Designated Place|S|Orleans County
+VT|50|28075|Glover town|County Subdivision|A|Orleans County
+VT|50|28600|Goshen town|County Subdivision|A|Addison County
+VT|50|28900|Grafton town|County Subdivision|A|Windham County
+VT|50|29125|Granby town|County Subdivision|A|Essex County
+VT|50|29275|Grand Isle town|County Subdivision|A|Grand Isle County
+VT|50|29425|Graniteville CDP|Census Designated Place|S|Washington County
+VT|50|29575|Granville town|County Subdivision|A|Addison County
+VT|50|30100|Greensboro CDP|Census Designated Place|S|Orleans County
+VT|50|30175|Greensboro town|County Subdivision|A|Orleans County
+VT|50|30325|Greensboro Bend CDP|Census Designated Place|S|Orleans County
+VT|50|30475|Groton CDP|Census Designated Place|S|Caledonia County
+VT|50|30550|Groton town|County Subdivision|A|Caledonia County
+VT|50|30775|Guildhall town|County Subdivision|A|Essex County
+VT|50|30925|Guilford town|County Subdivision|A|Windham County
+VT|50|31150|Halifax town|County Subdivision|A|Windham County
+VT|50|31525|Hancock town|County Subdivision|A|Addison County
+VT|50|31750|Hardwick CDP|Census Designated Place|S|Caledonia County
+VT|50|31825|Hardwick town|County Subdivision|A|Caledonia County
+VT|50|32275|Hartford town|County Subdivision|A|Windsor County
+VT|50|32350|Hartland CDP|Census Designated Place|S|Windsor County
+VT|50|32425|Hartland town|County Subdivision|A|Windsor County
+VT|50|33025|Highgate town|County Subdivision|A|Franklin County
+VT|50|33475|Hinesburg town|County Subdivision|A|Chittenden County
+VT|50|33550|Hinesburg CDP|Census Designated Place|S|Chittenden County
+VT|50|33775|Holland town|County Subdivision|A|Orleans County
+VT|50|34450|Hubbardton town|County Subdivision|A|Rutland County
+VT|50|34600|Huntington town|County Subdivision|A|Chittenden County
+VT|50|34975|Hyde Park village|Incorporated Place|A|Lamoille County
+VT|50|35050|Hyde Park town|County Subdivision|A|Lamoille County
+VT|50|35425|Ira town|County Subdivision|A|Rutland County
+VT|50|35500|Irasburg CDP|Census Designated Place|S|Orleans County
+VT|50|35575|Irasburg town|County Subdivision|A|Orleans County
+VT|50|35725|Island Pond CDP|Census Designated Place|S|Essex County
+VT|50|35875|Isle La Motte town|County Subdivision|A|Grand Isle County
+VT|50|36025|Jacksonville village|Incorporated Place|A|Windham County
+VT|50|36175|Jamaica town|County Subdivision|A|Windham County
+VT|50|36325|Jay town|County Subdivision|A|Orleans County
+VT|50|36475|Jeffersonville village|Incorporated Place|A|Lamoille County
+VT|50|36625|Jericho village|Incorporated Place|I|Chittenden County
+VT|50|36700|Jericho town|County Subdivision|A|Chittenden County
+VT|50|37000|Johnson village|Incorporated Place|A|Lamoille County
+VT|50|37075|Johnson town|County Subdivision|A|Lamoille County
+VT|50|37685|Killington town|County Subdivision|A|Rutland County
+VT|50|37900|Kirby town|County Subdivision|A|Caledonia County
+VT|50|39025|Landgrove town|County Subdivision|A|Bennington County
+VT|50|39325|Leicester town|County Subdivision|A|Addison County
+VT|50|39700|Lemington town|County Subdivision|A|Essex County
+VT|50|39775|Lewis town|County Subdivision|I|Essex County
+VT|50|40075|Lincoln town|County Subdivision|A|Addison County
+VT|50|40225|Londonderry town|County Subdivision|A|Windham County
+VT|50|40450|Lowell CDP|Census Designated Place|S|Orleans County
+VT|50|40525|Lowell town|County Subdivision|A|Orleans County
+VT|50|41200|Ludlow village|Incorporated Place|A|Windsor County
+VT|50|41275|Ludlow town|County Subdivision|A|Windsor County
+VT|50|41425|Lunenburg town|County Subdivision|A|Essex County
+VT|50|41725|Lyndon town|County Subdivision|A|Caledonia County
+VT|50|41950|Lyndonville village|Incorporated Place|A|Caledonia County
+VT|50|42475|Maidstone town|County Subdivision|A|Essex County
+VT|50|42700|Manchester village|Incorporated Place|A|Bennington County
+VT|50|42850|Manchester town|County Subdivision|A|Bennington County
+VT|50|42925|Manchester Center CDP|Census Designated Place|S|Bennington County
+VT|50|43375|Marlboro town|County Subdivision|A|Windham County
+VT|50|43525|Marshfield village|Incorporated Place|A|Washington County
+VT|50|43600|Marshfield town|County Subdivision|A|Washington County
+VT|50|44125|Mendon town|County Subdivision|A|Rutland County
+VT|50|44275|Middlebury CDP|Census Designated Place|S|Addison County
+VT|50|44350|Middlebury town|County Subdivision|A|Addison County
+VT|50|44500|Middlesex town|County Subdivision|A|Washington County
+VT|50|44800|Middletown Springs town|County Subdivision|A|Rutland County
+VT|50|45175|Milton CDP|Census Designated Place|S|Chittenden County
+VT|50|45250|Milton town|County Subdivision|A|Chittenden County
+VT|50|45550|Monkton town|County Subdivision|A|Addison County
+VT|50|45850|Montgomery town|County Subdivision|A|Franklin County
+VT|50|46000|Montpelier city|County Subdivision|F|Washington County
+VT|50|46000|Montpelier city|Incorporated Place|A|Washington County
+VT|50|46225|Moretown town|County Subdivision|A|Washington County
+VT|50|46450|Morgan town|County Subdivision|A|Orleans County
+VT|50|46675|Morristown town|County Subdivision|A|Lamoille County
+VT|50|46825|Morrisville village|Incorporated Place|A|Lamoille County
+VT|50|47200|Mount Holly town|County Subdivision|A|Rutland County
+VT|50|47425|Mount Tabor town|County Subdivision|A|Rutland County
+VT|50|47725|Newark town|County Subdivision|A|Caledonia County
+VT|50|48100|Newbury village|Incorporated Place|A|Orange County
+VT|50|48175|Newbury town|County Subdivision|A|Orange County
+VT|50|48325|Newfane village|Incorporated Place|A|Windham County
+VT|50|48400|Newfane town|County Subdivision|A|Windham County
+VT|50|48700|New Haven town|County Subdivision|A|Addison County
+VT|50|48850|Newport city|County Subdivision|F|Orleans County
+VT|50|48850|Newport city|Incorporated Place|A|Orleans County
+VT|50|48925|Newport town|County Subdivision|A|Orleans County
+VT|50|49000|Newport Center CDP|Census Designated Place|S|Orleans County
+VT|50|49075|North Bennington village|Incorporated Place|A|Bennington County
+VT|50|50200|Northfield village|Incorporated Place|A|Washington County
+VT|50|50275|Northfield town|County Subdivision|A|Washington County
+VT|50|50500|North Hartland CDP|Census Designated Place|S|Windsor County
+VT|50|50650|North Hero town|County Subdivision|A|Grand Isle County
+VT|50|51925|North Springfield CDP|Census Designated Place|S|Windsor County
+VT|50|52075|North Troy village|Incorporated Place|A|Orleans County
+VT|50|52375|North Westminster village|Incorporated Place|A|Windham County
+VT|50|52750|Norton town|County Subdivision|A|Essex County
+VT|50|52825|Norwich CDP|Census Designated Place|S|Windsor County
+VT|50|52900|Norwich town|County Subdivision|A|Windsor County
+VT|50|53125|Old Bennington village|Incorporated Place|A|Bennington County
+VT|50|53425|Orange town|County Subdivision|A|Orange County
+VT|50|53575|Orleans village|Incorporated Place|A|Orleans County
+VT|50|53725|Orwell town|County Subdivision|A|Addison County
+VT|50|53950|Panton town|County Subdivision|A|Addison County
+VT|50|54250|Pawlet town|County Subdivision|A|Rutland County
+VT|50|54400|Peacham town|County Subdivision|A|Caledonia County
+VT|50|54850|Perkinsville village|Incorporated Place|A|Windsor County
+VT|50|55000|Peru town|County Subdivision|A|Bennington County
+VT|50|55450|Pittsfield town|County Subdivision|A|Rutland County
+VT|50|55525|Pittsford CDP|Census Designated Place|S|Rutland County
+VT|50|55600|Pittsford town|County Subdivision|A|Rutland County
+VT|50|55750|Plainfield CDP|Census Designated Place|S|Washington County
+VT|50|55825|Plainfield town|County Subdivision|A|Washington County
+VT|50|56050|Plymouth town|County Subdivision|A|Windsor County
+VT|50|56350|Pomfret town|County Subdivision|A|Windsor County
+VT|50|56800|Poultney village|Incorporated Place|A|Rutland County
+VT|50|56875|Poultney town|County Subdivision|A|Rutland County
+VT|50|57025|Pownal town|County Subdivision|A|Bennington County
+VT|50|57250|Proctor town|County Subdivision|A|Rutland County
+VT|50|57400|Proctorsville CDP|Census Designated Place|S|Windsor County
+VT|50|57625|Putney CDP|Census Designated Place|S|Windham County
+VT|50|57700|Putney town|County Subdivision|A|Windham County
+VT|50|57775|Quechee CDP|Census Designated Place|S|Windsor County
+VT|50|58000|Randolph CDP|Census Designated Place|S|Orange County
+VT|50|58075|Randolph town|County Subdivision|A|Orange County
+VT|50|58375|Reading town|County Subdivision|A|Windsor County
+VT|50|58525|Readsboro CDP|Census Designated Place|S|Bennington County
+VT|50|58600|Readsboro town|County Subdivision|A|Bennington County
+VT|50|59050|Richford CDP|Census Designated Place|S|Franklin County
+VT|50|59125|Richford town|County Subdivision|A|Franklin County
+VT|50|59200|Richmond CDP|Census Designated Place|S|Chittenden County
+VT|50|59275|Richmond town|County Subdivision|A|Chittenden County
+VT|50|59650|Ripton town|County Subdivision|A|Addison County
+VT|50|60025|Rochester CDP|Census Designated Place|S|Windsor County
+VT|50|60100|Rochester town|County Subdivision|A|Windsor County
+VT|50|60250|Rockingham town|County Subdivision|A|Windham County
+VT|50|60625|Roxbury town|County Subdivision|A|Washington County
+VT|50|60850|Royalton town|County Subdivision|A|Windsor County
+VT|50|61000|Rupert town|County Subdivision|A|Bennington County
+VT|50|61225|Rutland city|County Subdivision|F|Rutland County
+VT|50|61225|Rutland city|Incorporated Place|A|Rutland County
+VT|50|61300|Rutland town|County Subdivision|A|Rutland County
+VT|50|61525|Ryegate town|County Subdivision|A|Caledonia County
+VT|50|61675|St. Albans city|County Subdivision|F|Franklin County
+VT|50|61675|St. Albans city|Incorporated Place|A|Franklin County
+VT|50|61750|St. Albans town|County Subdivision|A|Franklin County
+VT|50|62050|St. George town|County Subdivision|A|Chittenden County
+VT|50|62125|St. Johnsbury CDP|Census Designated Place|S|Caledonia County
+VT|50|62200|St. Johnsbury town|County Subdivision|A|Caledonia County
+VT|50|62575|Salisbury town|County Subdivision|A|Addison County
+VT|50|62875|Sandgate town|County Subdivision|A|Bennington County
+VT|50|62950|Saxtons River village|Incorporated Place|A|Windham County
+VT|50|63175|Searsburg town|County Subdivision|A|Bennington County
+VT|50|63550|Shaftsbury town|County Subdivision|A|Bennington County
+VT|50|63775|Sharon town|County Subdivision|A|Windsor County
+VT|50|64075|Sheffield town|County Subdivision|A|Caledonia County
+VT|50|64225|Shelburne CDP|Census Designated Place|S|Chittenden County
+VT|50|64300|Shelburne town|County Subdivision|A|Chittenden County
+VT|50|64600|Sheldon town|County Subdivision|A|Franklin County
+VT|50|65050|Shoreham town|County Subdivision|A|Addison County
+VT|50|65275|Shrewsbury town|County Subdivision|A|Rutland County
+VT|50|65762|Somerset town|County Subdivision|I|Windham County
+VT|50|66025|South Barre CDP|Census Designated Place|S|Washington County
+VT|50|66175|South Burlington city|County Subdivision|F|Chittenden County
+VT|50|66175|South Burlington city|Incorporated Place|A|Chittenden County
+VT|50|67000|South Hero town|County Subdivision|A|Grand Isle County
+VT|50|68050|South Royalton CDP|Census Designated Place|S|Windsor County
+VT|50|68200|South Shaftsbury CDP|Census Designated Place|S|Bennington County
+VT|50|69475|Springfield CDP|Census Designated Place|S|Windsor County
+VT|50|69550|Springfield town|County Subdivision|A|Windsor County
+VT|50|69775|Stamford town|County Subdivision|A|Bennington County
+VT|50|69925|Stannard town|County Subdivision|A|Caledonia County
+VT|50|70075|Starksboro town|County Subdivision|A|Addison County
+VT|50|70375|Stockbridge town|County Subdivision|A|Windsor County
+VT|50|70450|Stowe CDP|Census Designated Place|S|Lamoille County
+VT|50|70525|Stowe town|County Subdivision|A|Lamoille County
+VT|50|70675|Strafford town|County Subdivision|A|Orange County
+VT|50|70750|Stratton town|County Subdivision|A|Windham County
+VT|50|71050|Sudbury town|County Subdivision|A|Rutland County
+VT|50|71425|Sunderland town|County Subdivision|A|Bennington County
+VT|50|71575|Sutton town|County Subdivision|A|Caledonia County
+VT|50|71650|Swanton village|Incorporated Place|A|Franklin County
+VT|50|71725|Swanton town|County Subdivision|A|Franklin County
+VT|50|72400|Thetford town|County Subdivision|A|Orange County
+VT|50|72925|Tinmouth town|County Subdivision|A|Rutland County
+VT|50|73075|Topsham town|County Subdivision|A|Orange County
+VT|50|73300|Townshend town|County Subdivision|A|Windham County
+VT|50|73450|Troy CDP|Census Designated Place|S|Orleans County
+VT|50|73525|Troy town|County Subdivision|A|Orleans County
+VT|50|73675|Tunbridge town|County Subdivision|A|Orange County
+VT|50|73975|Underhill town|County Subdivision|A|Chittenden County
+VT|50|74650|Vergennes city|County Subdivision|F|Addison County
+VT|50|74650|Vergennes city|Incorporated Place|A|Addison County
+VT|50|74800|Vernon town|County Subdivision|A|Windham County
+VT|50|74950|Vershire town|County Subdivision|A|Orange County
+VT|50|75175|Victory town|County Subdivision|A|Essex County
+VT|50|75250|Waitsfield CDP|Census Designated Place|S|Washington County
+VT|50|75325|Waitsfield town|County Subdivision|A|Washington County
+VT|50|75700|Walden town|County Subdivision|A|Caledonia County
+VT|50|75850|Wallingford CDP|Census Designated Place|S|Rutland County
+VT|50|75925|Wallingford town|County Subdivision|A|Rutland County
+VT|50|76075|Waltham town|County Subdivision|A|Addison County
+VT|50|76225|Wardsboro town|County Subdivision|A|Windham County
+VT|50|76337|Warner's grant|County Subdivision|N|Essex County
+VT|50|76525|Warren town|County Subdivision|A|Washington County
+VT|50|76562|Warren's gore|County Subdivision|N|Essex County
+VT|50|76750|Washington town|County Subdivision|A|Orange County
+VT|50|76900|Waterbury village|Incorporated Place|A|Washington County
+VT|50|76975|Waterbury town|County Subdivision|A|Washington County
+VT|50|77125|Waterford town|County Subdivision|A|Caledonia County
+VT|50|77425|Waterville town|County Subdivision|A|Lamoille County
+VT|50|77500|Weathersfield town|County Subdivision|A|Windsor County
+VT|50|77800|Websterville CDP|Census Designated Place|S|Washington County
+VT|50|77875|Wells CDP|Census Designated Place|S|Rutland County
+VT|50|77950|Wells town|County Subdivision|A|Rutland County
+VT|50|78025|Wells River village|Incorporated Place|A|Orange County
+VT|50|78850|West Brattleboro CDP|Census Designated Place|S|Windham County
+VT|50|79150|West Burke village|Incorporated Place|A|Caledonia County
+VT|50|79975|West Fairlee town|County Subdivision|A|Orange County
+VT|50|80200|Westfield town|County Subdivision|A|Orleans County
+VT|50|80350|Westford town|County Subdivision|A|Chittenden County
+VT|50|80875|West Haven town|County Subdivision|A|Rutland County
+VT|50|81325|Westminster village|Incorporated Place|A|Windham County
+VT|50|81400|Westminster town|County Subdivision|A|Windham County
+VT|50|81700|Westmore town|County Subdivision|A|Orleans County
+VT|50|82000|Weston town|County Subdivision|A|Windsor County
+VT|50|82300|West Rutland town|County Subdivision|A|Rutland County
+VT|50|82375|West Rutland CDP|Census Designated Place|S|Rutland County
+VT|50|83050|West Windsor town|County Subdivision|A|Windsor County
+VT|50|83275|Weybridge town|County Subdivision|A|Addison County
+VT|50|83500|Wheelock town|County Subdivision|A|Caledonia County
+VT|50|83575|White River Junction CDP|Census Designated Place|S|Windsor County
+VT|50|83800|Whiting town|County Subdivision|A|Addison County
+VT|50|83950|Whitingham town|County Subdivision|A|Windham County
+VT|50|84025|Wilder CDP|Census Designated Place|S|Windsor County
+VT|50|84100|Williamstown CDP|Census Designated Place|S|Orange County
+VT|50|84175|Williamstown town|County Subdivision|A|Orange County
+VT|50|84475|Williston town|County Subdivision|A|Chittenden County
+VT|50|84625|Wilmington CDP|Census Designated Place|S|Windham County
+VT|50|84700|Wilmington town|County Subdivision|A|Windham County
+VT|50|84850|Windham town|County Subdivision|A|Windham County
+VT|50|84925|Windsor town|County Subdivision|A|Windsor County
+VT|50|85000|Windsor CDP|Census Designated Place|S|Windsor County
+VT|50|85075|Winhall town|County Subdivision|A|Bennington County
+VT|50|85150|Winooski city|County Subdivision|F|Chittenden County
+VT|50|85150|Winooski city|Incorporated Place|A|Chittenden County
+VT|50|85375|Wolcott town|County Subdivision|A|Lamoille County
+VT|50|85525|Woodbury town|County Subdivision|A|Washington County
+VT|50|85675|Woodford town|County Subdivision|A|Bennington County
+VT|50|85900|Woodstock village|Incorporated Place|A|Windsor County
+VT|50|85975|Woodstock town|County Subdivision|A|Windsor County
+VT|50|86050|Worcester CDP|Census Designated Place|S|Washington County
+VT|50|86125|Worcester town|County Subdivision|A|Washington County

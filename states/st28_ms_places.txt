@@ -1,0 +1,362 @@
+MS|28|00100|Abbeville town|Incorporated Place|A|Lafayette County
+MS|28|00180|Aberdeen city|Incorporated Place|A|Monroe County
+MS|28|00300|Ackerman town|Incorporated Place|A|Choctaw County
+MS|28|00680|Alcorn State University CDP|Census Designated Place|S|Claiborne County
+MS|28|00820|Algoma town|Incorporated Place|A|Pontotoc County
+MS|28|00940|Alligator town|Incorporated Place|A|Bolivar County
+MS|28|01260|Amory city|Incorporated Place|A|Monroe County
+MS|28|01500|Anguilla town|Incorporated Place|A|Sharkey County
+MS|28|01820|Arcola town|Incorporated Place|A|Washington County
+MS|28|02060|Arnold Line CDP|Census Designated Place|S|Lamar County
+MS|28|02100|Artesia town|Incorporated Place|A|Lowndes County
+MS|28|02140|Ashland town|Incorporated Place|A|Benton County
+MS|28|02700|Baldwyn city|Incorporated Place|A|Lee County, Prentiss County
+MS|28|03580|Bassfield town|Incorporated Place|A|Jefferson Davis County
+MS|28|03620|Batesville city|Incorporated Place|A|Panola County
+MS|28|03980|Bay St. Louis city|Incorporated Place|A|Hancock County
+MS|28|04060|Bay Springs city|Incorporated Place|A|Jasper County
+MS|28|04500|Beaumont town|Incorporated Place|A|Perry County
+MS|28|04540|Beauregard village|Incorporated Place|A|Copiah County
+MS|28|04705|Beechwood CDP|Census Designated Place|S|Warren County
+MS|28|05100|Belmont town|Incorporated Place|A|Tishomingo County
+MS|28|05140|Belzoni city|Incorporated Place|A|Humphreys County
+MS|28|05220|Benoit town|Incorporated Place|A|Bolivar County
+MS|28|05380|Bentonia town|Incorporated Place|A|Yazoo County
+MS|28|05820|Beulah town|Incorporated Place|A|Bolivar County
+MS|28|06060|Big Creek village|Incorporated Place|A|Calhoun County
+MS|28|06180|Big Point CDP|Census Designated Place|S|Jackson County
+MS|28|06220|Biloxi city|Incorporated Place|A|Harrison County
+MS|28|07060|Blue Mountain town|Incorporated Place|A|Tippah County
+MS|28|07100|Blue Springs village|Incorporated Place|A|Union County
+MS|28|07330|Bogue Chitto CDP|Census Designated Place|S|Kemper County, Neshoba County
+MS|28|07340|Bogue Chitto CDP|Census Designated Place|S|Lincoln County
+MS|28|07540|Bolton town|Incorporated Place|A|Hinds County
+MS|28|07780|Booneville city|Incorporated Place|A|Prentiss County
+MS|28|08180|Boyle town|Incorporated Place|A|Bolivar County
+MS|28|08300|Brandon city|Incorporated Place|A|Rankin County
+MS|28|08460|Braxton village|Incorporated Place|A|Simpson County
+MS|28|08655|Bridgetown CDP|Census Designated Place|S|DeSoto County
+MS|28|08820|Brookhaven city|Incorporated Place|A|Lincoln County
+MS|28|08980|Brooksville town|Incorporated Place|A|Noxubee County
+MS|28|09180|Bruce town|Incorporated Place|A|Calhoun County
+MS|28|09380|Buckatunna CDP|Census Designated Place|S|Wayne County
+MS|28|09460|Bude town|Incorporated Place|A|Franklin County
+MS|28|09820|Burnsville town|Incorporated Place|A|Tishomingo County
+MS|28|10060|Byhalia town|Incorporated Place|A|Marshall County
+MS|28|10140|Byram city|Incorporated Place|A|Hinds County
+MS|28|10460|Caledonia town|Incorporated Place|A|Lowndes County
+MS|28|10580|Calhoun City town|Incorporated Place|A|Calhoun County
+MS|28|11100|Canton city|Incorporated Place|A|Madison County
+MS|28|11580|Carrollton town|Incorporated Place|A|Carroll County
+MS|28|11780|Carthage city|Incorporated Place|A|Leake County
+MS|28|11820|Cary town|Incorporated Place|A|Sharkey County
+MS|28|12740|Centreville town|Incorporated Place|A|Amite County, Wilkinson County
+MS|28|12900|Charleston city|Incorporated Place|A|Tallahatchie County
+MS|28|13580|Chunky town|Incorporated Place|A|Newton County
+MS|28|13700|Clara CDP|Census Designated Place|S|Wayne County
+MS|28|13820|Clarksdale city|Incorporated Place|A|Coahoma County
+MS|28|14140|Cleary CDP|Census Designated Place|S|Rankin County
+MS|28|14260|Cleveland city|Incorporated Place|A|Bolivar County
+MS|28|14420|Clinton city|Incorporated Place|A|Hinds County
+MS|28|14540|Cloverdale CDP|Census Designated Place|S|Adams County
+MS|28|14580|Coahoma town|Incorporated Place|A|Coahoma County
+MS|28|14740|Coffeeville town|Incorporated Place|A|Yalobusha County
+MS|28|14900|Coldwater town|Incorporated Place|A|Tate County
+MS|28|15140|Collins city|Incorporated Place|A|Covington County
+MS|28|15180|Collinsville CDP|Census Designated Place|S|Lauderdale County
+MS|28|15340|Columbia city|Incorporated Place|A|Marion County
+MS|28|15380|Columbus city|Incorporated Place|A|Lowndes County
+MS|28|15420|Columbus AFB CDP|Census Designated Place|S|Lowndes County
+MS|28|15500|Como town|Incorporated Place|A|Panola County
+MS|28|15540|Conehatta CDP|Census Designated Place|S|Newton County
+MS|28|15700|Corinth city|Incorporated Place|A|Alcorn County
+MS|28|15980|Courtland town|Incorporated Place|A|Panola County
+MS|28|16420|Crawford town|Incorporated Place|A|Lowndes County
+MS|28|16460|Crenshaw town|Incorporated Place|A|Panola County, Quitman County
+MS|28|16620|Crosby town|Incorporated Place|A|Amite County, Wilkinson County
+MS|28|16940|Crowder town|Incorporated Place|A|Panola County, Quitman County
+MS|28|16980|Cruger town|Incorporated Place|A|Holmes County
+MS|28|17060|Crystal Springs city|Incorporated Place|A|Copiah County
+MS|28|17700|Darling CDP|Census Designated Place|S|Quitman County
+MS|28|18180|Decatur town|Incorporated Place|A|Newton County
+MS|28|18340|De Kalb town|Incorporated Place|A|Kemper County
+MS|28|18420|DeLisle CDP|Census Designated Place|S|Harrison County
+MS|28|18940|Derma town|Incorporated Place|A|Calhoun County
+MS|28|19100|Diamondhead CDP|Census Designated Place|S|Hancock County
+MS|28|19180|D'Iberville city|Incorporated Place|A|Harrison County
+MS|28|19340|D'Lo town|Incorporated Place|A|Simpson County
+MS|28|19420|Doddsville town|Incorporated Place|A|Sunflower County
+MS|28|20020|Drew city|Incorporated Place|A|Sunflower County
+MS|28|20260|Duck Hill town|Incorporated Place|A|Montgomery County
+MS|28|20340|Dumas town|Incorporated Place|A|Tippah County
+MS|28|20380|Duncan town|Incorporated Place|A|Bolivar County
+MS|28|20500|Durant city|Incorporated Place|A|Holmes County
+MS|28|21340|Ecru town|Incorporated Place|A|Pontotoc County
+MS|28|21420|Eden village|Incorporated Place|A|Yazoo County
+MS|28|21580|Edwards town|Incorporated Place|A|Hinds County
+MS|28|21940|Elliott CDP|Census Designated Place|S|Grenada County
+MS|28|22020|Ellisville city|Incorporated Place|A|Jones County
+MS|28|22580|Enterprise town|Incorporated Place|A|Clarke County
+MS|28|22900|Escatawpa CDP|Census Designated Place|S|Jackson County
+MS|28|23220|Ethel town|Incorporated Place|A|Attala County
+MS|28|23420|Eupora city|Incorporated Place|A|Webster County
+MS|28|24180|Falcon town|Incorporated Place|A|Quitman County
+MS|28|24220|Falkner town|Incorporated Place|A|Tippah County
+MS|28|24420|Farmington town|Incorporated Place|A|Alcorn County
+MS|28|24460|Farrell CDP|Census Designated Place|S|Coahoma County
+MS|28|24500|Fayette city|Incorporated Place|A|Jefferson County
+MS|28|24940|Flora town|Incorporated Place|A|Madison County
+MS|28|24980|Florence town|Incorporated Place|A|Rankin County
+MS|28|25100|Flowood city|Incorporated Place|A|Rankin County
+MS|28|25340|Forest city|Incorporated Place|A|Scott County
+MS|28|25740|Foxworth CDP|Census Designated Place|S|Marion County
+MS|28|26020|French Camp town|Incorporated Place|A|Choctaw County
+MS|28|26060|Friars Point town|Incorporated Place|A|Coahoma County
+MS|28|26300|Fulton city|Incorporated Place|A|Itawamba County
+MS|28|26780|Gattman village|Incorporated Place|A|Monroe County
+MS|28|26860|Gautier city|Incorporated Place|A|Jackson County
+MS|28|26980|Georgetown town|Incorporated Place|A|Copiah County
+MS|28|27540|Glen town|Incorporated Place|A|Alcorn County
+MS|28|27620|Glendale CDP|Census Designated Place|S|Forrest County
+MS|28|27660|Glendora village|Incorporated Place|A|Tallahatchie County
+MS|28|27820|Gloster town|Incorporated Place|A|Amite County
+MS|28|27940|Golden town|Incorporated Place|A|Tishomingo County
+MS|28|28220|Goodman town|Incorporated Place|A|Holmes County
+MS|28|29180|Greenville city|Incorporated Place|A|Washington County
+MS|28|29340|Greenwood city|Incorporated Place|A|Leflore County
+MS|28|29460|Grenada city|Incorporated Place|A|Grenada County
+MS|28|29620|Gulf Hills CDP|Census Designated Place|S|Jackson County
+MS|28|29660|Gulf Park Estates CDP|Census Designated Place|S|Jackson County
+MS|28|29700|Gulfport city|Incorporated Place|A|Harrison County
+MS|28|29900|Gunnison town|Incorporated Place|A|Bolivar County
+MS|28|29940|Guntown town|Incorporated Place|A|Lee County
+MS|28|30220|Hamilton CDP|Census Designated Place|S|Monroe County
+MS|28|30980|Hatley town|Incorporated Place|A|Monroe County
+MS|28|31020|Hattiesburg city|Incorporated Place|A|Forrest County, Lamar County
+MS|28|31220|Hazlehurst city|Incorporated Place|A|Copiah County
+MS|28|31420|Heidelberg town|Incorporated Place|A|Jasper County
+MS|28|31460|Helena CDP|Census Designated Place|S|Jackson County
+MS|28|31540|Henderson Point CDP|Census Designated Place|S|Harrison County
+MS|28|31780|Hernando city|Incorporated Place|A|DeSoto County
+MS|28|31980|Hickory town|Incorporated Place|A|Newton County
+MS|28|32020|Hickory Flat town|Incorporated Place|A|Benton County
+MS|28|32110|Hide-A-Way Lake CDP|Census Designated Place|S|Pearl River County
+MS|28|32460|Hillsboro CDP|Census Designated Place|S|Scott County
+MS|28|32820|Holcomb CDP|Census Designated Place|S|Grenada County
+MS|28|32900|Hollandale city|Incorporated Place|A|Washington County
+MS|28|33100|Holly Springs city|Incorporated Place|A|Marshall County
+MS|28|33700|Horn Lake city|Incorporated Place|A|DeSoto County
+MS|28|33900|Houston city|Incorporated Place|A|Chickasaw County
+MS|28|34340|Hurley CDP|Census Designated Place|S|Jackson County
+MS|28|34740|Indianola city|Incorporated Place|A|Sunflower County
+MS|28|35020|Inverness town|Incorporated Place|A|Sunflower County
+MS|28|35220|Isola town|Incorporated Place|A|Humphreys County
+MS|28|35260|Itta Bena city|Incorporated Place|A|Leflore County
+MS|28|35300|Iuka city|Incorporated Place|A|Tishomingo County
+MS|28|36000|Jackson city|Incorporated Place|A|Hinds County, Madison County, Rankin County
+MS|28|36800|Jonestown town|Incorporated Place|A|Coahoma County
+MS|28|37040|Jumpertown town|Incorporated Place|A|Prentiss County
+MS|28|37190|Kearney Park CDP|Census Designated Place|S|Madison County
+MS|28|37560|Kilmichael town|Incorporated Place|A|Montgomery County
+MS|28|37600|Kiln CDP|Census Designated Place|S|Hancock County
+MS|28|38320|Kosciusko city|Incorporated Place|A|Attala County
+MS|28|38360|Kossuth village|Incorporated Place|A|Alcorn County
+MS|28|38600|Lake town|Incorporated Place|A|Newton County, Scott County
+MS|28|39080|Lambert town|Incorporated Place|A|Quitman County
+MS|28|39520|Latimer CDP|Census Designated Place|S|Jackson County
+MS|28|39600|Lauderdale CDP|Census Designated Place|S|Lauderdale County
+MS|28|39640|Laurel city|Incorporated Place|A|Jones County
+MS|28|39840|Leakesville town|Incorporated Place|A|Greene County
+MS|28|39880|Learned town|Incorporated Place|A|Hinds County
+MS|28|40280|Leland city|Incorporated Place|A|Washington County
+MS|28|40360|Lena town|Incorporated Place|A|Leake County
+MS|28|40600|Lexington city|Incorporated Place|A|Holmes County
+MS|28|40640|Liberty town|Incorporated Place|A|Amite County
+MS|28|41680|Long Beach city|Incorporated Place|A|Harrison County
+MS|28|42200|Louin town|Incorporated Place|A|Jasper County
+MS|28|42240|Louise town|Incorporated Place|A|Humphreys County
+MS|28|42280|Louisville city|Incorporated Place|A|Winston County
+MS|28|42440|Lucedale city|Incorporated Place|A|George County
+MS|28|42600|Lula town|Incorporated Place|A|Coahoma County
+MS|28|42640|Lumberton city|Incorporated Place|A|Lamar County, Pearl River County
+MS|28|42800|Lyman CDP|Census Designated Place|S|Harrison County
+MS|28|42840|Lynchburg CDP|Census Designated Place|S|DeSoto County
+MS|28|42960|Lyon town|Incorporated Place|A|Coahoma County
+MS|28|42980|Maben town|Incorporated Place|A|Oktibbeha County, Webster County
+MS|28|43280|McComb city|Incorporated Place|A|Pike County
+MS|28|43400|McCool town|Incorporated Place|A|Attala County
+MS|28|43840|McLain town|Incorporated Place|A|Greene County
+MS|28|44240|Macon city|Incorporated Place|A|Noxubee County
+MS|28|44520|Madison city|Incorporated Place|A|Madison County
+MS|28|44600|Magee city|Incorporated Place|A|Simpson County
+MS|28|44680|Magnolia city|Incorporated Place|A|Pike County
+MS|28|44920|Mantachie town|Incorporated Place|A|Itawamba County
+MS|28|44960|Mantee village|Incorporated Place|A|Webster County
+MS|28|45120|Marietta town|Incorporated Place|A|Prentiss County
+MS|28|45160|Marion town|Incorporated Place|A|Lauderdale County
+MS|28|45240|Marks city|Incorporated Place|A|Quitman County
+MS|28|45720|Mathiston town|Incorporated Place|A|Choctaw County, Webster County
+MS|28|46000|Mayersville town|Incorporated Place|A|Issaquena County
+MS|28|46200|Meadville town|Incorporated Place|A|Franklin County
+MS|28|46600|Mendenhall city|Incorporated Place|A|Simpson County
+MS|28|46640|Meridian city|Incorporated Place|A|Lauderdale County
+MS|28|46680|Meridian Station CDP|Census Designated Place|S|Lauderdale County
+MS|28|46720|Merigold town|Incorporated Place|A|Bolivar County
+MS|28|46880|Metcalfe town|Incorporated Place|A|Washington County
+MS|28|48030|Mississippi State CDP|Census Designated Place|S|Oktibbeha County
+MS|28|48120|Mississippi Valley State University CDP|Census Designated Place|S|Leflore County
+MS|28|48240|Mize town|Incorporated Place|A|Smith County
+MS|28|48560|Monticello town|Incorporated Place|A|Lawrence County
+MS|28|48640|Montrose town|Incorporated Place|A|Jasper County
+MS|28|48720|Mooresville CDP|Census Designated Place|S|Lee County
+MS|28|48760|Moorhead city|Incorporated Place|A|Sunflower County
+MS|28|48800|Morgan City town|Incorporated Place|A|Leflore County
+MS|28|48880|Morgantown CDP|Census Designated Place|S|Adams County
+MS|28|49080|Morton city|Incorporated Place|A|Scott County
+MS|28|49240|Moss Point city|Incorporated Place|A|Jackson County
+MS|28|49320|Mound Bayou city|Incorporated Place|A|Bolivar County
+MS|28|49520|Mount Olive town|Incorporated Place|A|Covington County
+MS|28|50280|Myrtle town|Incorporated Place|A|Union County
+MS|28|50440|Natchez city|Incorporated Place|A|Adams County
+MS|28|50720|Nellieburg CDP|Census Designated Place|S|Lauderdale County
+MS|28|50880|Nettleton city|Incorporated Place|A|Lee County, Monroe County
+MS|28|51000|New Albany city|Incorporated Place|A|Union County
+MS|28|51040|New Augusta town|Incorporated Place|A|Perry County
+MS|28|51240|New Hamilton CDP|Census Designated Place|S|Monroe County
+MS|28|51360|New Hebron town|Incorporated Place|A|Lawrence County
+MS|28|51400|New Hope CDP|Census Designated Place|S|Lowndes County
+MS|28|51420|New Houlka town|Incorporated Place|A|Chickasaw County
+MS|28|51720|Newton city|Incorporated Place|A|Newton County
+MS|28|51840|Nicholson CDP|Census Designated Place|S|Pearl River County
+MS|28|52400|North Carrollton town|Incorporated Place|A|Carroll County
+MS|28|52680|North Tunica CDP|Census Designated Place|S|Tunica County
+MS|28|52880|Noxapater town|Incorporated Place|A|Winston County
+MS|28|53200|Oakland town|Incorporated Place|A|Yalobusha County
+MS|28|53520|Ocean Springs city|Incorporated Place|A|Jackson County
+MS|28|53680|Okolona city|Incorporated Place|A|Chickasaw County
+MS|28|54040|Olive Branch city|Incorporated Place|A|DeSoto County
+MS|28|54640|Osyka town|Incorporated Place|A|Pike County
+MS|28|54840|Oxford city|Incorporated Place|A|Lafayette County
+MS|28|54920|Pace town|Incorporated Place|A|Bolivar County
+MS|28|54960|Pachuta town|Incorporated Place|A|Clarke County
+MS|28|55000|Paden village|Incorporated Place|A|Tishomingo County
+MS|28|55360|Pascagoula city|Incorporated Place|A|Jackson County
+MS|28|55400|Pass Christian city|Incorporated Place|A|Harrison County
+MS|28|55760|Pearl city|Incorporated Place|A|Rankin County
+MS|28|55920|Pearlington CDP|Census Designated Place|S|Hancock County
+MS|28|55930|Pearl River CDP|Census Designated Place|S|Neshoba County
+MS|28|56200|Pelahatchie town|Incorporated Place|A|Rankin County
+MS|28|56800|Petal city|Incorporated Place|A|Forrest County
+MS|28|56960|Philadelphia city|Incorporated Place|A|Neshoba County
+MS|28|57160|Picayune city|Incorporated Place|A|Pearl River County
+MS|28|57200|Pickens town|Incorporated Place|A|Holmes County
+MS|28|58360|Pittsboro village|Incorporated Place|A|Calhoun County
+MS|28|58440|Plantersville town|Incorporated Place|A|Lee County
+MS|28|58960|Polkville town|Incorporated Place|A|Smith County
+MS|28|59160|Pontotoc city|Incorporated Place|A|Pontotoc County
+MS|28|59240|Pope village|Incorporated Place|A|Panola County
+MS|28|59480|Poplarville city|Incorporated Place|A|Pearl River County
+MS|28|59560|Port Gibson city|Incorporated Place|A|Claiborne County
+MS|28|59720|Potts Camp town|Incorporated Place|A|Marshall County
+MS|28|59920|Prentiss town|Incorporated Place|A|Jefferson Davis County
+MS|28|60360|Puckett village|Incorporated Place|A|Rankin County
+MS|28|60480|Purvis city|Incorporated Place|A|Lamar County
+MS|28|60720|Quitman city|Incorporated Place|A|Clarke County
+MS|28|60840|Raleigh town|Incorporated Place|A|Smith County
+MS|28|61080|Rawls Springs CDP|Census Designated Place|S|Forrest County
+MS|28|61160|Raymond city|Incorporated Place|A|Hinds County
+MS|28|61400|Redwater CDP|Census Designated Place|S|Leake County
+MS|28|61890|Renova town|Incorporated Place|A|Bolivar County
+MS|28|62400|Richland city|Incorporated Place|A|Rankin County
+MS|28|62480|Richton town|Incorporated Place|A|Perry County
+MS|28|62520|Ridgeland city|Incorporated Place|A|Madison County
+MS|28|62560|Rienzi town|Incorporated Place|A|Alcorn County
+MS|28|62600|Ripley city|Incorporated Place|A|Tippah County
+MS|28|62900|Robinhood CDP|Census Designated Place|S|Rankin County
+MS|28|63560|Rolling Fork city|Incorporated Place|A|Sharkey County
+MS|28|63720|Rosedale city|Incorporated Place|A|Bolivar County
+MS|28|64080|Roxie town|Incorporated Place|A|Franklin County
+MS|28|64200|Ruleville city|Incorporated Place|A|Sunflower County
+MS|28|64680|St. Martin CDP|Census Designated Place|S|Jackson County
+MS|28|64800|Sallis town|Incorporated Place|A|Attala County
+MS|28|64840|Saltillo city|Incorporated Place|A|Lee County
+MS|28|64920|Sandersville town|Incorporated Place|A|Jones County
+MS|28|65560|Sardis town|Incorporated Place|A|Panola County
+MS|28|65680|Satartia village|Incorporated Place|A|Yazoo County
+MS|28|65720|Saucier CDP|Census Designated Place|S|Harrison County
+MS|28|66080|Schlater town|Incorporated Place|A|Leflore County
+MS|28|66160|Scooba town|Incorporated Place|A|Kemper County
+MS|28|66280|Sebastopol town|Incorporated Place|A|Leake County, Scott County
+MS|28|66400|Seminary town|Incorporated Place|A|Covington County
+MS|28|66440|Senatobia city|Incorporated Place|A|Tate County
+MS|28|66720|Shannon town|Incorporated Place|A|Lee County
+MS|28|66840|Sharon CDP|Census Designated Place|S|Jones County
+MS|28|67000|Shaw city|Incorporated Place|A|Bolivar County, Sunflower County
+MS|28|67040|Shelby city|Incorporated Place|A|Bolivar County
+MS|28|67200|Sherman town|Incorporated Place|A|Lee County, Pontotoc County, Union County
+MS|28|67520|Shubuta town|Incorporated Place|A|Clarke County
+MS|28|67640|Shuqualak town|Incorporated Place|A|Noxubee County
+MS|28|67840|Sidon town|Incorporated Place|A|Leflore County
+MS|28|67920|Silver City town|Incorporated Place|A|Humphreys County
+MS|28|67960|Silver Creek town|Incorporated Place|A|Lawrence County
+MS|28|68320|Slate Springs village|Incorporated Place|A|Calhoun County
+MS|28|68400|Sledge town|Incorporated Place|A|Quitman County
+MS|28|68720|Smithville town|Incorporated Place|A|Monroe County
+MS|28|68960|Snow Lake Shores town|Incorporated Place|A|Benton County
+MS|28|69160|Soso town|Incorporated Place|A|Jones County
+MS|28|69280|Southaven city|Incorporated Place|A|DeSoto County
+MS|28|70120|Standing Pine CDP|Census Designated Place|S|Leake County
+MS|28|70240|Starkville city|Incorporated Place|A|Oktibbeha County
+MS|28|70320|State Line town|Incorporated Place|A|Greene County, Wayne County
+MS|28|70760|Stonewall town|Incorporated Place|A|Clarke County
+MS|28|71320|Sturgis town|Incorporated Place|A|Oktibbeha County
+MS|28|71480|Summit town|Incorporated Place|A|Pike County
+MS|28|71520|Sumner town|Incorporated Place|A|Tallahatchie County
+MS|28|71560|Sumrall town|Incorporated Place|A|Lamar County
+MS|28|71600|Sunflower town|Incorporated Place|A|Sunflower County
+MS|28|72040|Sylvarena village|Incorporated Place|A|Smith County
+MS|28|72360|Taylor village|Incorporated Place|A|Lafayette County
+MS|28|72400|Taylorsville town|Incorporated Place|A|Smith County
+MS|28|72440|Tchula town|Incorporated Place|A|Holmes County
+MS|28|72680|Terry town|Incorporated Place|A|Hinds County
+MS|28|72760|Thaxton town|Incorporated Place|A|Pontotoc County
+MS|28|73440|Tillatoba town|Incorporated Place|I|Yalobusha County
+MS|28|73720|Tishomingo town|Incorporated Place|A|Tishomingo County
+MS|28|73760|Toccopola town|Incorporated Place|A|Pontotoc County
+MS|28|73880|Toomsuba CDP|Census Designated Place|S|Lauderdale County
+MS|28|74400|Tremont town|Incorporated Place|A|Itawamba County
+MS|28|74675|Tucker CDP|Census Designated Place|S|Neshoba County
+MS|28|74760|Tunica town|Incorporated Place|A|Tunica County
+MS|28|74820|Tunica Resorts CDP|Census Designated Place|S|Tunica County
+MS|28|74840|Tupelo city|Incorporated Place|A|Lee County
+MS|28|75040|Tutwiler town|Incorporated Place|A|Tallahatchie County
+MS|28|75160|Tylertown town|Incorporated Place|A|Walthall County
+MS|28|75360|Union town|Incorporated Place|A|Neshoba County, Newton County
+MS|28|75520|University CDP|Census Designated Place|S|Lafayette County
+MS|28|75760|Utica town|Incorporated Place|A|Hinds County
+MS|28|75880|Vaiden town|Incorporated Place|A|Carroll County
+MS|28|76200|Vancleave CDP|Census Designated Place|S|Jackson County
+MS|28|76320|Vardaman town|Incorporated Place|A|Calhoun County
+MS|28|76560|Verona city|Incorporated Place|A|Lee County
+MS|28|76720|Vicksburg city|Incorporated Place|A|Warren County
+MS|28|77080|Wade CDP|Census Designated Place|S|Jackson County
+MS|28|77400|Walls town|Incorporated Place|A|DeSoto County
+MS|28|77480|Walnut town|Incorporated Place|A|Tippah County
+MS|28|77520|Walnut Grove town|Incorporated Place|A|Leake County
+MS|28|77640|Walthall village|Incorporated Place|A|Webster County
+MS|28|78000|Water Valley city|Incorporated Place|A|Yalobusha County
+MS|28|78200|Waveland city|Incorporated Place|A|Hancock County
+MS|28|78360|Waynesboro city|Incorporated Place|A|Wayne County
+MS|28|78480|Webb town|Incorporated Place|A|Tallahatchie County
+MS|28|78520|Weir town|Incorporated Place|A|Choctaw County
+MS|28|78640|Wesson town|Incorporated Place|A|Copiah County, Lincoln County
+MS|28|78680|West town|Incorporated Place|A|Holmes County
+MS|28|78890|West Hattiesburg CDP|Census Designated Place|S|Lamar County
+MS|28|79120|West Point city|Incorporated Place|A|Clay County
+MS|28|79620|White Oak CDP|Census Designated Place|S|Tunica County
+MS|28|80160|Wiggins city|Incorporated Place|A|Stone County
+MS|28|80760|Winona city|Incorporated Place|A|Montgomery County
+MS|28|80800|Winstonville town|Incorporated Place|A|Bolivar County
+MS|28|81000|Woodland village|Incorporated Place|A|Chickasaw County
+MS|28|81120|Woodville town|Incorporated Place|A|Wilkinson County
+MS|28|81520|Yazoo City city|Incorporated Place|A|Yazoo County

@@ -1,0 +1,315 @@
+CT|09|00000|County Subdivisions not defined|County Subdivision|F|Fairfield County
+CT|09|00000|County Subdivisions not defined|County Subdivision|F|Middlesex County
+CT|09|00000|County Subdivisions not defined|County Subdivision|F|New Haven County
+CT|09|00000|County Subdivisions not defined|County Subdivision|F|New London County
+CT|09|01080|Andover town|County Subdivision|A|Tolland County
+CT|09|01150|Ansonia city|Incorporated Place|A|New Haven County
+CT|09|01220|Ansonia town|County Subdivision|C|New Haven County
+CT|09|01430|Ashford town|County Subdivision|A|Windham County
+CT|09|02060|Avon town|County Subdivision|A|Hartford County
+CT|09|02550|Baltic CDP|Census Designated Place|S|New London County
+CT|09|02690|Bantam borough|Incorporated Place|A|Litchfield County
+CT|09|02760|Barkhamsted town|County Subdivision|A|Litchfield County
+CT|09|03250|Beacon Falls town|County Subdivision|A|New Haven County
+CT|09|04300|Berlin town|County Subdivision|A|Hartford County
+CT|09|04580|Bethany town|County Subdivision|A|New Haven County
+CT|09|04720|Bethel town|County Subdivision|A|Fairfield County
+CT|09|04790|Bethel CDP|Census Designated Place|S|Fairfield County
+CT|09|04930|Bethlehem town|County Subdivision|A|Litchfield County
+CT|09|04945|Bethlehem Village CDP|Census Designated Place|S|Litchfield County
+CT|09|05910|Bloomfield town|County Subdivision|A|Hartford County
+CT|09|06050|Blue Hills CDP|Census Designated Place|S|Hartford County
+CT|09|06260|Bolton town|County Subdivision|A|Tolland County
+CT|09|06820|Bozrah town|County Subdivision|A|New London County
+CT|09|07310|Branford town|County Subdivision|A|New Haven County
+CT|09|07345|Branford Center CDP|Census Designated Place|S|New Haven County
+CT|09|08000|Bridgeport city|Incorporated Place|A|Fairfield County
+CT|09|08070|Bridgeport town|County Subdivision|C|Fairfield County
+CT|09|08210|Bridgewater town|County Subdivision|A|Litchfield County
+CT|09|08420|Bristol city|Incorporated Place|A|Hartford County
+CT|09|08490|Bristol town|County Subdivision|C|Hartford County
+CT|09|08770|Broad Brook CDP|Census Designated Place|S|Hartford County
+CT|09|08980|Brookfield town|County Subdivision|A|Fairfield County
+CT|09|09120|Brooklyn CDP|Census Designated Place|S|Windham County
+CT|09|09190|Brooklyn town|County Subdivision|A|Windham County
+CT|09|10100|Burlington town|County Subdivision|A|Hartford County
+CT|09|10660|Byram CDP|Census Designated Place|S|Fairfield County
+CT|09|10870|Canaan CDP|Census Designated Place|S|Litchfield County
+CT|09|10940|Canaan town|County Subdivision|A|Litchfield County
+CT|09|11990|Cannondale CDP|Census Designated Place|S|Fairfield County
+CT|09|12130|Canterbury town|County Subdivision|A|Windham County
+CT|09|12270|Canton town|County Subdivision|A|Hartford County
+CT|09|12370|Canton Valley CDP|Census Designated Place|S|Hartford County
+CT|09|13810|Chaplin town|County Subdivision|A|Windham County
+CT|09|14160|Cheshire town|County Subdivision|A|New Haven County
+CT|09|14200|Cheshire Village CDP|Census Designated Place|S|New Haven County
+CT|09|14300|Chester town|County Subdivision|A|Middlesex County
+CT|09|14370|Chester Center CDP|Census Designated Place|S|Middlesex County
+CT|09|15350|Clinton town|County Subdivision|A|Middlesex County
+CT|09|15420|Clinton CDP|Census Designated Place|S|Middlesex County
+CT|09|15840|Colchester CDP|Census Designated Place|S|New London County
+CT|09|15910|Colchester town|County Subdivision|A|New London County
+CT|09|16050|Colebrook town|County Subdivision|A|Litchfield County
+CT|09|16120|Collinsville CDP|Census Designated Place|S|Hartford County
+CT|09|16400|Columbia town|County Subdivision|A|Tolland County
+CT|09|16960|Conning Towers Nautilus Park CDP|Census Designated Place|S|New London County
+CT|09|17240|Cornwall town|County Subdivision|A|Litchfield County
+CT|09|17520|Cos Cob CDP|Census Designated Place|S|Fairfield County
+CT|09|17800|Coventry town|County Subdivision|A|Tolland County
+CT|09|17835|Coventry Lake CDP|Census Designated Place|S|Tolland County
+CT|09|18080|Cromwell town|County Subdivision|A|Middlesex County
+CT|09|18220|Crystal Lake CDP|Census Designated Place|S|Tolland County
+CT|09|18430|Danbury city|Incorporated Place|A|Fairfield County
+CT|09|18500|Danbury town|County Subdivision|C|Fairfield County
+CT|09|18780|Danielson borough|Incorporated Place|A|Windham County
+CT|09|18850|Darien town|County Subdivision|A|Fairfield County
+CT|09|18920|Darien CDP|Census Designated Place|S|Fairfield County
+CT|09|19130|Deep River town|County Subdivision|A|Middlesex County
+CT|09|19200|Deep River Center CDP|Census Designated Place|S|Middlesex County
+CT|09|19480|Derby city|Incorporated Place|A|New Haven County
+CT|09|19550|Derby town|County Subdivision|C|New Haven County
+CT|09|20740|Durham CDP|Census Designated Place|S|Middlesex County
+CT|09|20810|Durham town|County Subdivision|A|Middlesex County
+CT|09|21160|East Brooklyn CDP|Census Designated Place|S|Windham County
+CT|09|21860|Eastford town|County Subdivision|A|Windham County
+CT|09|22070|East Granby town|County Subdivision|A|Hartford County
+CT|09|22280|East Haddam town|County Subdivision|A|Middlesex County
+CT|09|22420|East Hampton CDP|Census Designated Place|S|Middlesex County
+CT|09|22490|East Hampton town|County Subdivision|A|Middlesex County
+CT|09|22630|East Hartford town|County Subdivision|A|Hartford County
+CT|09|22700|East Hartford CDP|Census Designated Place|S|Hartford County
+CT|09|22910|East Haven town|County Subdivision|A|New Haven County
+CT|09|22980|East Haven CDP|Census Designated Place|S|New Haven County
+CT|09|23400|East Lyme town|County Subdivision|A|New London County
+CT|09|23890|Easton town|County Subdivision|A|Fairfield County
+CT|09|24800|East Windsor town|County Subdivision|A|Hartford County
+CT|09|25360|Ellington town|County Subdivision|A|Tolland County
+CT|09|25990|Enfield town|County Subdivision|A|Hartford County
+CT|09|26270|Essex town|County Subdivision|A|Middlesex County
+CT|09|26370|Essex Village CDP|Census Designated Place|S|Middlesex County
+CT|09|26620|Fairfield town|County Subdivision|A|Fairfield County
+CT|09|27390|Falls Village CDP|Census Designated Place|S|Litchfield County
+CT|09|27600|Farmington town|County Subdivision|A|Hartford County
+CT|09|27810|Fenwick borough|Incorporated Place|A|Middlesex County
+CT|09|29910|Franklin town|County Subdivision|A|New London County
+CT|09|30190|Gales Ferry CDP|Census Designated Place|S|New London County
+CT|09|30540|Georgetown CDP|Census Designated Place|S|Fairfield County
+CT|09|31240|Glastonbury town|County Subdivision|A|Hartford County
+CT|09|31270|Glastonbury Center CDP|Census Designated Place|S|Hartford County
+CT|09|31520|Glenville CDP|Census Designated Place|S|Fairfield County
+CT|09|32290|Goshen town|County Subdivision|A|Litchfield County
+CT|09|32640|Granby town|County Subdivision|A|Hartford County
+CT|09|33620|Greenwich town|County Subdivision|A|Fairfield County
+CT|09|33690|Greenwich CDP|Census Designated Place|S|Fairfield County
+CT|09|33900|Griswold town|County Subdivision|A|New London County
+CT|09|34180|Groton city|Incorporated Place|A|New London County
+CT|09|34250|Groton town|County Subdivision|A|New London County
+CT|09|34460|Groton Long Point borough|Incorporated Place|A|New London County
+CT|09|34950|Guilford town|County Subdivision|A|New Haven County
+CT|09|35020|Guilford Center CDP|Census Designated Place|S|New Haven County
+CT|09|35230|Haddam town|County Subdivision|A|Middlesex County
+CT|09|35650|Hamden town|County Subdivision|A|New Haven County
+CT|09|36000|Hampton town|County Subdivision|A|Windham County
+CT|09|37000|Hartford city|Incorporated Place|A|Hartford County
+CT|09|37070|Hartford town|County Subdivision|C|Hartford County
+CT|09|37140|Hartland town|County Subdivision|A|Hartford County
+CT|09|37280|Harwinton town|County Subdivision|A|Litchfield County
+CT|09|37770|Hazardville CDP|Census Designated Place|S|Hartford County
+CT|09|37910|Hebron town|County Subdivision|A|Tolland County
+CT|09|37930|Heritage Village CDP|Census Designated Place|S|New Haven County
+CT|09|38050|Higganum CDP|Census Designated Place|S|Middlesex County
+CT|09|39940|Jewett City borough|Incorporated Place|A|New London County
+CT|09|40150|Kensington CDP|Census Designated Place|S|Hartford County
+CT|09|40290|Kent town|County Subdivision|A|Litchfield County
+CT|09|40500|Killingly town|County Subdivision|A|Windham County
+CT|09|40710|Killingworth town|County Subdivision|A|Middlesex County
+CT|09|41410|Lake Pocotopaug CDP|Census Designated Place|S|Middlesex County
+CT|09|41830|Lakeville CDP|Census Designated Place|S|Litchfield County
+CT|09|42390|Lebanon town|County Subdivision|A|New London County
+CT|09|42600|Ledyard town|County Subdivision|A|New London County
+CT|09|43230|Lisbon town|County Subdivision|A|New London County
+CT|09|43300|Litchfield borough|Incorporated Place|A|Litchfield County
+CT|09|43370|Litchfield town|County Subdivision|A|Litchfield County
+CT|09|43790|Long Hill CDP|Census Designated Place|S|New London County
+CT|09|44210|Lyme town|County Subdivision|A|New London County
+CT|09|44560|Madison town|County Subdivision|A|New Haven County
+CT|09|44630|Madison Center CDP|Census Designated Place|S|New Haven County
+CT|09|44690|Manchester CDP|Census Designated Place|S|Hartford County
+CT|09|44700|Manchester town|County Subdivision|A|Hartford County
+CT|09|44910|Mansfield town|County Subdivision|A|Tolland County
+CT|09|45120|Mansfield Center CDP|Census Designated Place|S|Tolland County
+CT|09|45595|Mashantucket CDP|Census Designated Place|S|New London County
+CT|09|45820|Marlborough town|County Subdivision|A|Hartford County
+CT|09|46450|Meriden city|Incorporated Place|A|New Haven County
+CT|09|46520|Meriden town|County Subdivision|C|New Haven County
+CT|09|46940|Middlebury town|County Subdivision|A|New Haven County
+CT|09|47080|Middlefield town|County Subdivision|A|Middlesex County
+CT|09|47290|Middletown city|Incorporated Place|A|Middlesex County
+CT|09|47360|Middletown town|County Subdivision|C|Middlesex County
+CT|09|47515|Milford city (balance)|Incorporated Place|F|New Haven County
+CT|09|47535|Milford town|County Subdivision|C|New Haven County
+CT|09|48620|Monroe town|County Subdivision|A|Fairfield County
+CT|09|48900|Montville town|County Subdivision|A|New London County
+CT|09|49110|Moodus CDP|Census Designated Place|S|Middlesex County
+CT|09|49180|Moosup CDP|Census Designated Place|S|Windham County
+CT|09|49460|Morris town|County Subdivision|A|Litchfield County
+CT|09|49810|Mystic CDP|Census Designated Place|S|New London County
+CT|09|49880|Naugatuck borough|Incorporated Place|A|New Haven County
+CT|09|49950|Naugatuck town|County Subdivision|C|New Haven County
+CT|09|50370|New Britain city|Incorporated Place|A|Hartford County
+CT|09|50440|New Britain town|County Subdivision|C|Hartford County
+CT|09|50580|New Canaan town|County Subdivision|A|Fairfield County
+CT|09|50860|New Fairfield town|County Subdivision|A|Fairfield County
+CT|09|51350|New Hartford town|County Subdivision|A|Litchfield County
+CT|09|51420|New Hartford Center CDP|Census Designated Place|S|Litchfield County
+CT|09|52000|New Haven city|Incorporated Place|A|New Haven County
+CT|09|52070|New Haven town|County Subdivision|C|New Haven County
+CT|09|52140|Newington town|County Subdivision|A|Hartford County
+CT|09|52210|Newington CDP|Census Designated Place|S|Hartford County
+CT|09|52280|New London city|Incorporated Place|A|New London County
+CT|09|52350|New London town|County Subdivision|C|New London County
+CT|09|52560|New Milford CDP|Census Designated Place|S|Litchfield County
+CT|09|52630|New Milford town|County Subdivision|A|Litchfield County
+CT|09|52770|New Preston CDP|Census Designated Place|S|Litchfield County
+CT|09|52910|Newtown borough|Incorporated Place|A|Fairfield County
+CT|09|52980|Newtown town|County Subdivision|A|Fairfield County
+CT|09|53120|Niantic CDP|Census Designated Place|S|New London County
+CT|09|53260|Noank CDP|Census Designated Place|S|New London County
+CT|09|53400|Norfolk CDP|Census Designated Place|S|Litchfield County
+CT|09|53470|Norfolk town|County Subdivision|A|Litchfield County
+CT|09|53890|North Branford town|County Subdivision|A|New Haven County
+CT|09|54030|North Canaan town|County Subdivision|A|Litchfield County
+CT|09|54660|North Granby CDP|Census Designated Place|S|Hartford County
+CT|09|54730|North Grosvenor Dale CDP|Census Designated Place|S|Windham County
+CT|09|54870|North Haven town|County Subdivision|A|New Haven County
+CT|09|54940|North Haven CDP|Census Designated Place|S|New Haven County
+CT|09|55500|North Stonington town|County Subdivision|A|New London County
+CT|09|55725|Northwest Harwinton CDP|Census Designated Place|S|Litchfield County
+CT|09|55990|Norwalk city|Incorporated Place|A|Fairfield County
+CT|09|56060|Norwalk town|County Subdivision|C|Fairfield County
+CT|09|56200|Norwich city|Incorporated Place|A|New London County
+CT|09|56270|Norwich town|County Subdivision|C|New London County
+CT|09|56690|Oakville CDP|Census Designated Place|S|Litchfield County
+CT|09|56900|Old Greenwich CDP|Census Designated Place|S|Fairfield County
+CT|09|57040|Old Lyme town|County Subdivision|A|New London County
+CT|09|57180|Old Mystic CDP|Census Designated Place|S|New London County
+CT|09|57320|Old Saybrook town|County Subdivision|A|Middlesex County
+CT|09|57390|Old Saybrook Center CDP|Census Designated Place|S|Middlesex County
+CT|09|57600|Orange town|County Subdivision|A|New Haven County
+CT|09|57670|Orange CDP|Census Designated Place|S|New Haven County
+CT|09|58300|Oxford town|County Subdivision|A|New Haven County
+CT|09|58520|Oxoboxo River CDP|Census Designated Place|S|New London County
+CT|09|59140|Pawcatuck CDP|Census Designated Place|S|New London County
+CT|09|59210|Pemberwick CDP|Census Designated Place|S|Fairfield County
+CT|09|59980|Plainfield town|County Subdivision|A|Windham County
+CT|09|60090|Plainfield Village CDP|Census Designated Place|S|Windham County
+CT|09|60120|Plainville town|County Subdivision|A|Hartford County
+CT|09|60750|Plymouth town|County Subdivision|A|Litchfield County
+CT|09|61030|Pomfret town|County Subdivision|A|Windham County
+CT|09|61730|Poquonock Bridge CDP|Census Designated Place|S|New London County
+CT|09|61800|Portland town|County Subdivision|A|Middlesex County
+CT|09|61870|Portland CDP|Census Designated Place|S|Middlesex County
+CT|09|62150|Preston town|County Subdivision|A|New London County
+CT|09|62290|Prospect town|County Subdivision|A|New Haven County
+CT|09|62640|Putnam CDP|Census Designated Place|S|Windham County
+CT|09|62710|Putnam town|County Subdivision|A|Windham County
+CT|09|63270|Quinebaug CDP|Census Designated Place|S|Windham County
+CT|09|63480|Redding town|County Subdivision|A|Fairfield County
+CT|09|63900|Ridgefield CDP|Census Designated Place|S|Fairfield County
+CT|09|63970|Ridgefield town|County Subdivision|A|Fairfield County
+CT|09|64530|Riverside CDP|Census Designated Place|S|Fairfield County
+CT|09|65230|Rockville CDP|Census Designated Place|S|Tolland County
+CT|09|65370|Rocky Hill town|County Subdivision|A|Hartford County
+CT|09|65930|Roxbury town|County Subdivision|A|Litchfield County
+CT|09|66210|Salem town|County Subdivision|A|New London County
+CT|09|66420|Salisbury town|County Subdivision|A|Litchfield County
+CT|09|66455|Salmon Brook CDP|Census Designated Place|S|Hartford County
+CT|09|67050|Saybrook Manor CDP|Census Designated Place|S|Middlesex County
+CT|09|67400|Scotland town|County Subdivision|A|Windham County
+CT|09|67610|Seymour town|County Subdivision|A|New Haven County
+CT|09|67890|Sharon CDP|Census Designated Place|S|Litchfield County
+CT|09|67960|Sharon town|County Subdivision|A|Litchfield County
+CT|09|68100|Shelton city|Incorporated Place|A|Fairfield County
+CT|09|68170|Shelton town|County Subdivision|C|Fairfield County
+CT|09|68310|Sherman town|County Subdivision|A|Fairfield County
+CT|09|68450|Sherwood Manor CDP|Census Designated Place|S|Hartford County
+CT|09|68940|Simsbury town|County Subdivision|A|Hartford County
+CT|09|69010|Simsbury Center CDP|Census Designated Place|S|Hartford County
+CT|09|69150|Somers CDP|Census Designated Place|S|Tolland County
+CT|09|69220|Somers town|County Subdivision|A|Tolland County
+CT|09|69640|Southbury town|County Subdivision|A|New Haven County
+CT|09|69990|South Coventry CDP|Census Designated Place|S|Tolland County
+CT|09|70550|Southington town|County Subdivision|A|Hartford County
+CT|09|71040|Southport CDP|Census Designated Place|S|Fairfield County
+CT|09|71250|South Windham CDP|Census Designated Place|S|Windham County
+CT|09|71390|South Windsor town|County Subdivision|A|Hartford County
+CT|09|71460|Southwood Acres CDP|Census Designated Place|S|Hartford County
+CT|09|71530|South Woodstock CDP|Census Designated Place|S|Windham County
+CT|09|71670|Sprague town|County Subdivision|A|New London County
+CT|09|72090|Stafford town|County Subdivision|A|Tolland County
+CT|09|72300|Stafford Springs CDP|Census Designated Place|S|Tolland County
+CT|09|73000|Stamford city|Incorporated Place|A|Fairfield County
+CT|09|73070|Stamford town|County Subdivision|C|Fairfield County
+CT|09|73420|Sterling town|County Subdivision|A|Windham County
+CT|09|73700|Stonington borough|Incorporated Place|A|New London County
+CT|09|73770|Stonington town|County Subdivision|A|New London County
+CT|09|73980|Storrs CDP|Census Designated Place|S|Tolland County
+CT|09|74190|Stratford town|County Subdivision|A|Fairfield County
+CT|09|74260|Stratford CDP|Census Designated Place|S|Fairfield County
+CT|09|74540|Suffield town|County Subdivision|A|Hartford County
+CT|09|74655|Suffield Depot CDP|Census Designated Place|S|Hartford County
+CT|09|75100|Tariffville CDP|Census Designated Place|S|Hartford County
+CT|09|75200|Terramuggus CDP|Census Designated Place|S|Hartford County
+CT|09|75240|Terryville CDP|Census Designated Place|S|Litchfield County
+CT|09|75660|Thomaston CDP|Census Designated Place|S|Litchfield County
+CT|09|75730|Thomaston town|County Subdivision|A|Litchfield County
+CT|09|75870|Thompson town|County Subdivision|A|Windham County
+CT|09|75940|Thompsonville CDP|Census Designated Place|S|Hartford County
+CT|09|76290|Tolland town|County Subdivision|A|Tolland County
+CT|09|76500|Torrington city|Incorporated Place|A|Litchfield County
+CT|09|76570|Torrington town|County Subdivision|C|Litchfield County
+CT|09|77200|Trumbull town|County Subdivision|A|Fairfield County
+CT|09|77270|Trumbull CDP|Census Designated Place|S|Fairfield County
+CT|09|77830|Union town|County Subdivision|A|Tolland County
+CT|09|78250|Vernon town|County Subdivision|A|Tolland County
+CT|09|78600|Voluntown town|County Subdivision|A|New London County
+CT|09|78740|Wallingford town|County Subdivision|A|New Haven County
+CT|09|78880|Wallingford Center CDP|Census Designated Place|S|New Haven County
+CT|09|79510|Warren town|County Subdivision|A|Litchfield County
+CT|09|79720|Washington town|County Subdivision|A|Litchfield County
+CT|09|80000|Waterbury city|Incorporated Place|A|New Haven County
+CT|09|80070|Waterbury town|County Subdivision|C|New Haven County
+CT|09|80210|Waterford CDP|Census Designated Place|S|New London County
+CT|09|80280|Waterford town|County Subdivision|A|New London County
+CT|09|80420|Watertown CDP|Census Designated Place|S|Litchfield County
+CT|09|80490|Watertown town|County Subdivision|A|Litchfield County
+CT|09|80630|Wauregan CDP|Census Designated Place|S|Windham County
+CT|09|80770|Weatogue CDP|Census Designated Place|S|Hartford County
+CT|09|81680|Westbrook town|County Subdivision|A|Middlesex County
+CT|09|81750|Westbrook Center CDP|Census Designated Place|S|Middlesex County
+CT|09|82590|West Hartford town|County Subdivision|A|Hartford County
+CT|09|82660|West Hartford CDP|Census Designated Place|S|Hartford County
+CT|09|82800|West Haven city|Incorporated Place|A|New Haven County
+CT|09|82870|West Haven town|County Subdivision|C|New Haven County
+CT|09|83430|Weston town|County Subdivision|A|Fairfield County
+CT|09|83500|Westport town|County Subdivision|A|Fairfield County
+CT|09|83570|Westport CDP|Census Designated Place|S|Fairfield County
+CT|09|83990|West Simsbury CDP|Census Designated Place|S|Hartford County
+CT|09|84900|Wethersfield town|County Subdivision|A|Hartford County
+CT|09|84970|Wethersfield CDP|Census Designated Place|S|Hartford County
+CT|09|85810|Willimantic CDP|Census Designated Place|S|Windham County
+CT|09|85950|Willington town|County Subdivision|A|Tolland County
+CT|09|86370|Wilton town|County Subdivision|A|Fairfield County
+CT|09|86380|Wilton Center CDP|Census Designated Place|S|Fairfield County
+CT|09|86440|Winchester town|County Subdivision|A|Litchfield County
+CT|09|86790|Windham town|County Subdivision|A|Windham County
+CT|09|87000|Windsor town|County Subdivision|A|Hartford County
+CT|09|87070|Windsor Locks town|County Subdivision|A|Hartford County
+CT|09|87140|Windsor Locks CDP|Census Designated Place|S|Hartford County
+CT|09|87350|Winsted CDP|Census Designated Place|S|Litchfield County
+CT|09|87560|Wolcott town|County Subdivision|A|New Haven County
+CT|09|87700|Woodbridge town|County Subdivision|A|New Haven County
+CT|09|87910|Woodbury town|County Subdivision|A|Litchfield County
+CT|09|87980|Woodbury Center CDP|Census Designated Place|S|Litchfield County
+CT|09|88050|Woodmont borough|Incorporated Place|A|New Haven County
+CT|09|88190|Woodstock town|County Subdivision|A|Windham County

@@ -1,0 +1,1367 @@
+IL|17|00113|Abingdon city|Incorporated Place|A|Knox County
+IL|17|00178|Adair CDP|Census Designated Place|S|McDonough County
+IL|17|00230|Addieville village|Incorporated Place|A|Washington County
+IL|17|00243|Addison village|Incorporated Place|A|DuPage County
+IL|17|00295|Adeline village|Incorporated Place|A|Ogle County
+IL|17|00516|Albany village|Incorporated Place|A|Whiteside County
+IL|17|00555|Albers village|Incorporated Place|A|Clinton County
+IL|17|00568|Albion city|Incorporated Place|A|Edwards County
+IL|17|00646|Aledo city|Incorporated Place|A|Mercer County
+IL|17|00672|Alexis village|Incorporated Place|A|Mercer County, Warren County
+IL|17|00685|Algonquin village|Incorporated Place|A|Kane County, McHenry County
+IL|17|00737|Alhambra village|Incorporated Place|A|Madison County
+IL|17|00815|Allendale village|Incorporated Place|A|Wabash County
+IL|17|00867|Allenville village|Incorporated Place|A|Moultrie County
+IL|17|00880|Allerton village|Incorporated Place|A|Champaign County, Vermilion County
+IL|17|00919|Alma village|Incorporated Place|A|Marion County
+IL|17|00958|Alorton village|Incorporated Place|A|St. Clair County
+IL|17|00971|Alpha village|Incorporated Place|A|Henry County
+IL|17|00997|Alsey village|Incorporated Place|A|Scott County
+IL|17|01010|Alsip village|Incorporated Place|A|Cook County
+IL|17|01049|Altamont city|Incorporated Place|A|Effingham County
+IL|17|01114|Alton city|Incorporated Place|A|Madison County
+IL|17|01140|Altona village|Incorporated Place|A|Knox County
+IL|17|01205|Alto Pass village|Incorporated Place|A|Union County
+IL|17|01242|Alvan village|Incorporated Place|A|Vermilion County
+IL|17|01270|Amboy city|Incorporated Place|A|Lee County
+IL|17|01361|Anchor village|Incorporated Place|A|McLean County
+IL|17|01426|Andalusia village|Incorporated Place|A|Rock Island County
+IL|17|01491|Andover village|Incorporated Place|A|Henry County
+IL|17|01543|Anna city|Incorporated Place|A|Union County
+IL|17|01556|Annapolis CDP|Census Designated Place|S|Crawford County
+IL|17|01569|Annawan town|Incorporated Place|A|Bureau County, Henry County
+IL|17|01595|Antioch village|Incorporated Place|A|Lake County
+IL|17|01647|Apple Canyon Lake CDP|Census Designated Place|S|Jo Daviess County
+IL|17|01673|Apple River village|Incorporated Place|A|Jo Daviess County
+IL|17|01881|Arcola city|Incorporated Place|A|Douglas County
+IL|17|01946|Arenzville village|Incorporated Place|A|Cass County
+IL|17|01972|Argenta village|Incorporated Place|A|Macon County
+IL|17|02102|Arlington village|Incorporated Place|A|Bureau County
+IL|17|02154|Arlington Heights village|Incorporated Place|A|Cook County, Lake County
+IL|17|02206|Armington village|Incorporated Place|A|Tazewell County
+IL|17|02258|Aroma Park village|Incorporated Place|A|Kankakee County
+IL|17|02342|Arrowsmith village|Incorporated Place|A|McLean County
+IL|17|02414|Arthur village|Incorporated Place|A|Douglas County, Moultrie County
+IL|17|02479|Ashkum village|Incorporated Place|A|Iroquois County
+IL|17|02505|Ashland village|Incorporated Place|A|Cass County
+IL|17|02531|Ashley city|Incorporated Place|A|Washington County
+IL|17|02557|Ashmore village|Incorporated Place|A|Coles County
+IL|17|02583|Ashton village|Incorporated Place|A|Lee County
+IL|17|02609|Assumption city|Incorporated Place|A|Christian County
+IL|17|02635|Astoria town|Incorporated Place|A|Fulton County
+IL|17|02674|Athens city|Incorporated Place|A|Menard County
+IL|17|02726|Atkinson town|Incorporated Place|A|Henry County
+IL|17|02752|Atlanta city|Incorporated Place|A|Logan County
+IL|17|02882|Atwood village|Incorporated Place|A|Douglas County, Piatt County
+IL|17|02921|Auburn city|Incorporated Place|A|Sangamon County
+IL|17|02986|Augusta village|Incorporated Place|A|Hancock County
+IL|17|03012|Aurora city|Incorporated Place|A|DuPage County, Kane County, Kendall County, Will County
+IL|17|03103|Ava city|Incorporated Place|A|Jackson County
+IL|17|03181|Aviston village|Incorporated Place|A|Clinton County
+IL|17|03207|Avon village|Incorporated Place|A|Fulton County, Warren County
+IL|17|03454|Baldwin village|Incorporated Place|A|Randolph County
+IL|17|03571|Banner village|Incorporated Place|A|Fulton County
+IL|17|03610|Bannockburn village|Incorporated Place|A|Lake County
+IL|17|03675|Bardolph village|Incorporated Place|A|McDonough County
+IL|17|03844|Barrington village|Incorporated Place|A|Cook County, Lake County
+IL|17|03883|Barrington Hills village|Incorporated Place|A|Cook County, Kane County, Lake County, McHenry County
+IL|17|03948|Barry city|Incorporated Place|A|Pike County
+IL|17|04000|Bartelso village|Incorporated Place|A|Clinton County
+IL|17|04013|Bartlett village|Incorporated Place|A|Cook County, DuPage County, Kane County
+IL|17|04039|Bartonville village|Incorporated Place|A|Peoria County
+IL|17|04052|Basco village|Incorporated Place|A|Hancock County
+IL|17|04078|Batavia city|Incorporated Place|A|DuPage County, Kane County
+IL|17|04117|Batchtown village|Incorporated Place|A|Calhoun County
+IL|17|04156|Bath village|Incorporated Place|A|Mason County
+IL|17|04247|Baylis village|Incorporated Place|A|Pike County
+IL|17|04273|Bay View Gardens village|Incorporated Place|A|Woodford County
+IL|17|04303|Beach Park village|Incorporated Place|A|Lake County
+IL|17|04351|Beardstown city|Incorporated Place|A|Cass County
+IL|17|04403|Beason CDP|Census Designated Place|S|Logan County
+IL|17|04507|Beaverville village|Incorporated Place|A|Iroquois County
+IL|17|04533|Beckemeyer village|Incorporated Place|A|Clinton County
+IL|17|04572|Bedford Park village|Incorporated Place|A|Cook County
+IL|17|04585|Beecher village|Incorporated Place|A|Will County
+IL|17|04598|Beecher City village|Incorporated Place|A|Effingham County
+IL|17|04689|Belgium village|Incorporated Place|A|Vermilion County
+IL|17|04715|Belknap village|Incorporated Place|A|Johnson County
+IL|17|04793|Belle Prairie City town|Incorporated Place|A|Hamilton County
+IL|17|04806|Belle Rive village|Incorporated Place|A|Jefferson County
+IL|17|04845|Belleville city|Incorporated Place|A|St. Clair County
+IL|17|04871|Bellevue village|Incorporated Place|A|Peoria County
+IL|17|04897|Bellflower village|Incorporated Place|A|McLean County
+IL|17|04936|Bellmont village|Incorporated Place|A|Wabash County
+IL|17|04975|Bellwood village|Incorporated Place|A|Cook County
+IL|17|05092|Belvidere city|Incorporated Place|A|Boone County
+IL|17|05144|Bement village|Incorporated Place|A|Piatt County
+IL|17|05209|Benld city|Incorporated Place|A|Macoupin County
+IL|17|05248|Bensenville village|Incorporated Place|A|Cook County, DuPage County
+IL|17|05261|Benson village|Incorporated Place|A|Woodford County
+IL|17|05274|Bentley town|Incorporated Place|A|Hancock County
+IL|17|05300|Benton city|Incorporated Place|A|Franklin County
+IL|17|05404|Berkeley village|Incorporated Place|A|Cook County
+IL|17|05443|Berlin village|Incorporated Place|A|Sangamon County
+IL|17|05573|Berwyn city|Incorporated Place|A|Cook County
+IL|17|05599|Bethalto village|Incorporated Place|A|Madison County
+IL|17|05612|Bethany village|Incorporated Place|A|Moultrie County
+IL|17|05898|Biggsville village|Incorporated Place|A|Henderson County
+IL|17|05976|Big Rock village|Incorporated Place|A|Kane County
+IL|17|06028|Bingham village|Incorporated Place|A|Fayette County
+IL|17|06171|Bishop Hill village|Incorporated Place|A|Henry County
+IL|17|06184|Bismarck village|Incorporated Place|A|Vermilion County
+IL|17|06470|Blandinsville village|Incorporated Place|A|McDonough County
+IL|17|06587|Bloomingdale village|Incorporated Place|A|DuPage County
+IL|17|06613|Bloomington city|Incorporated Place|A|McLean County
+IL|17|06704|Blue Island city|Incorporated Place|A|Cook County
+IL|17|06756|Blue Mound village|Incorporated Place|A|Macon County
+IL|17|06899|Bluffs village|Incorporated Place|A|Scott County
+IL|17|06964|Bluford village|Incorporated Place|A|Jefferson County
+IL|17|07133|Bolingbrook village|Incorporated Place|A|DuPage County, Will County
+IL|17|07211|Bondville village|Incorporated Place|A|Champaign County
+IL|17|07224|Bone Gap village|Incorporated Place|A|Edwards County
+IL|17|07237|Bonfield village|Incorporated Place|A|Kankakee County
+IL|17|07263|Bonnie village|Incorporated Place|A|Jefferson County
+IL|17|07315|Boody CDP|Census Designated Place|S|Macon County
+IL|17|07419|Boulder Hill CDP|Census Designated Place|S|Kendall County
+IL|17|07471|Bourbonnais village|Incorporated Place|A|Kankakee County
+IL|17|07510|Bowen village|Incorporated Place|A|Hancock County
+IL|17|07640|Braceville village|Incorporated Place|A|Grundy County, Will County
+IL|17|07692|Bradford village|Incorporated Place|A|Stark County
+IL|17|07744|Bradley village|Incorporated Place|A|Kankakee County
+IL|17|07770|Braidwood city|Incorporated Place|A|Will County
+IL|17|07913|Breese city|Incorporated Place|A|Clinton County
+IL|17|08186|Bridgeport city|Incorporated Place|A|Lawrence County
+IL|17|08225|Bridgeview village|Incorporated Place|A|Cook County
+IL|17|08264|Brighton village|Incorporated Place|A|Jersey County, Macoupin County
+IL|17|08303|Brimfield village|Incorporated Place|A|Peoria County
+IL|17|08420|Broadlands village|Incorporated Place|A|Champaign County
+IL|17|08446|Broadview village|Incorporated Place|A|Cook County
+IL|17|08472|Broadwell village|Incorporated Place|A|Logan County
+IL|17|08524|Brocton village|Incorporated Place|A|Edgar County
+IL|17|08576|Brookfield village|Incorporated Place|A|Cook County
+IL|17|08667|Brooklyn village|Incorporated Place|A|St. Clair County
+IL|17|08706|Brookport city|Incorporated Place|A|Massac County
+IL|17|08875|Broughton village|Incorporated Place|A|Hamilton County
+IL|17|08953|Browning village|Incorporated Place|A|Schuyler County
+IL|17|08979|Browns village|Incorporated Place|A|Edwards County
+IL|17|08992|Brownstown village|Incorporated Place|A|Fayette County
+IL|17|09148|Brussels village|Incorporated Place|A|Calhoun County
+IL|17|09161|Bryant village|Incorporated Place|A|Fulton County
+IL|17|09304|Buckingham village|Incorporated Place|A|Kankakee County
+IL|17|09317|Buckley village|Incorporated Place|A|Iroquois County
+IL|17|09330|Buckner village|Incorporated Place|A|Franklin County
+IL|17|09356|Buda village|Incorporated Place|A|Bureau County
+IL|17|09434|Buffalo village|Incorporated Place|A|Sangamon County
+IL|17|09447|Buffalo Grove village|Incorporated Place|A|Cook County, Lake County
+IL|17|09531|Bull Valley village|Incorporated Place|A|McHenry County
+IL|17|09538|Bulpitt village|Incorporated Place|A|Christian County
+IL|17|09551|Buncombe village|Incorporated Place|A|Johnson County
+IL|17|09577|Bunker Hill city|Incorporated Place|A|Macoupin County
+IL|17|09642|Burbank city|Incorporated Place|A|Cook County
+IL|17|09681|Bureau Junction village|Incorporated Place|A|Bureau County
+IL|17|09759|Burlington village|Incorporated Place|A|Kane County
+IL|17|09798|Burnham village|Incorporated Place|A|Cook County
+IL|17|09889|Burnt Prairie village|Incorporated Place|A|White County
+IL|17|09980|Burr Ridge village|Incorporated Place|A|Cook County, DuPage County
+IL|17|10084|Bush village|Incorporated Place|A|Williamson County
+IL|17|10110|Bushnell city|Incorporated Place|A|McDonough County
+IL|17|10149|Butler village|Incorporated Place|A|Montgomery County
+IL|17|10240|Byron city|Incorporated Place|A|Ogle County
+IL|17|10292|Cabery village|Incorporated Place|A|Ford County, Kankakee County
+IL|17|10370|Cahokia village|Incorporated Place|A|St. Clair County
+IL|17|10383|Cairo city|Incorporated Place|A|Alexander County
+IL|17|10422|Caledonia village|Incorporated Place|A|Boone County
+IL|17|10448|Calhoun village|Incorporated Place|A|Richland County
+IL|17|10487|Calumet City city|Incorporated Place|A|Cook County
+IL|17|10513|Calumet Park village|Incorporated Place|A|Cook County
+IL|17|10591|Camargo village|Incorporated Place|A|Douglas County
+IL|17|10630|Cambria village|Incorporated Place|A|Williamson County
+IL|17|10643|Cambridge village|Incorporated Place|A|Henry County
+IL|17|10695|Camden village|Incorporated Place|A|Schuyler County
+IL|17|10773|Campbell Hill village|Incorporated Place|A|Jackson County
+IL|17|10877|Camp Point village|Incorporated Place|A|Adams County
+IL|17|10906|Campton Hills village|Incorporated Place|A|Kane County
+IL|17|10916|Campus village|Incorporated Place|A|Livingston County
+IL|17|11007|Canton city|Incorporated Place|A|Fulton County
+IL|17|11033|Cantrall village|Incorporated Place|A|Sangamon County
+IL|17|11124|Capron village|Incorporated Place|A|Boone County
+IL|17|11150|Carbon Cliff village|Incorporated Place|A|Rock Island County
+IL|17|11163|Carbondale city|Incorporated Place|A|Jackson County, Williamson County
+IL|17|11176|Carbon Hill village|Incorporated Place|A|Grundy County
+IL|17|11202|Carlinville city|Incorporated Place|A|Macoupin County
+IL|17|11215|Carlock village|Incorporated Place|A|McLean County
+IL|17|11228|Carlyle city|Incorporated Place|A|Clinton County
+IL|17|11293|Carmi city|Incorporated Place|A|White County
+IL|17|11332|Carol Stream village|Incorporated Place|A|DuPage County
+IL|17|11358|Carpentersville village|Incorporated Place|A|Kane County
+IL|17|11397|Carrier Mills village|Incorporated Place|A|Saline County
+IL|17|11462|Carrollton city|Incorporated Place|A|Greene County
+IL|17|11514|Carterville city|Incorporated Place|A|Williamson County
+IL|17|11527|Carthage city|Incorporated Place|A|Hancock County
+IL|17|11592|Cary village|Incorporated Place|A|McHenry County
+IL|17|11618|Casey city|Incorporated Place|A|Clark County, Cumberland County
+IL|17|11644|Caseyville village|Incorporated Place|A|St. Clair County
+IL|17|11774|Catlin village|Incorporated Place|A|Vermilion County
+IL|17|11826|Cave-In-Rock village|Incorporated Place|A|Hardin County
+IL|17|11982|Cedar Point village|Incorporated Place|A|LaSalle County
+IL|17|12008|Cedarville village|Incorporated Place|A|Stephenson County
+IL|17|12151|Central City village|Incorporated Place|A|Marion County
+IL|17|12164|Centralia city|Incorporated Place|A|Clinton County, Jefferson County, Marion County, Washington County
+IL|17|12203|Centreville city|Incorporated Place|A|St. Clair County
+IL|17|12268|Cerro Gordo village|Incorporated Place|A|Piatt County
+IL|17|12294|Chadwick village|Incorporated Place|A|Carroll County
+IL|17|12385|Champaign city|Incorporated Place|A|Champaign County
+IL|17|12450|Chandlerville village|Incorporated Place|A|Cass County
+IL|17|12476|Channahon village|Incorporated Place|A|Grundy County, Will County
+IL|17|12489|Channel Lake CDP|Census Designated Place|S|Lake County
+IL|17|12528|Chapin village|Incorporated Place|A|Morgan County
+IL|17|12567|Charleston city|Incorporated Place|A|Coles County
+IL|17|12684|Chatham village|Incorporated Place|A|Sangamon County
+IL|17|12710|Chatsworth town|Incorporated Place|A|Livingston County
+IL|17|12801|Chebanse village|Incorporated Place|A|Iroquois County, Kankakee County
+IL|17|12879|Chemung CDP|Census Designated Place|S|McHenry County
+IL|17|12931|Chenoa city|Incorporated Place|A|McLean County
+IL|17|12970|Cherry village|Incorporated Place|A|Bureau County
+IL|17|13074|Cherry Valley village|Incorporated Place|A|Boone County, Winnebago County
+IL|17|13139|Chester city|Incorporated Place|A|Randolph County
+IL|17|13165|Chesterfield village|Incorporated Place|A|Macoupin County
+IL|17|13230|Chestnut CDP|Census Designated Place|S|Logan County
+IL|17|14000|Chicago city|Incorporated Place|A|Cook County, DuPage County
+IL|17|14026|Chicago Heights city|Incorporated Place|A|Cook County
+IL|17|14065|Chicago Ridge village|Incorporated Place|A|Cook County
+IL|17|14117|Chillicothe city|Incorporated Place|A|Peoria County
+IL|17|14273|Chrisman city|Incorporated Place|A|Edgar County
+IL|17|14286|Christopher city|Incorporated Place|A|Franklin County
+IL|17|14351|Cicero town|Incorporated Place|A|Cook County
+IL|17|14442|Cisco village|Incorporated Place|A|Piatt County
+IL|17|14455|Cisne village|Incorporated Place|A|Wayne County
+IL|17|14468|Cissna Park village|Incorporated Place|A|Iroquois County
+IL|17|14533|Claremont village|Incorporated Place|A|Richland County
+IL|17|14572|Clarendon Hills village|Incorporated Place|A|DuPage County
+IL|17|14715|Clay City village|Incorporated Place|A|Clay County
+IL|17|14767|Clayton village|Incorporated Place|A|Adams County
+IL|17|14845|Clear Lake village|Incorporated Place|A|Sangamon County
+IL|17|14923|Cleveland village|Incorporated Place|A|Henry County
+IL|17|14936|Clifton village|Incorporated Place|A|Iroquois County
+IL|17|15001|Clinton city|Incorporated Place|A|De Witt County
+IL|17|15170|Coal City village|Incorporated Place|A|Grundy County, Will County
+IL|17|15209|Coalton village|Incorporated Place|A|Montgomery County
+IL|17|15235|Coal Valley village|Incorporated Place|A|Henry County, Rock Island County
+IL|17|15261|Coatsburg village|Incorporated Place|A|Adams County
+IL|17|15300|Cobden village|Incorporated Place|A|Union County
+IL|17|15352|Coffeen city|Incorporated Place|A|Montgomery County
+IL|17|15378|Colchester city|Incorporated Place|A|McDonough County
+IL|17|15469|Coleta village|Incorporated Place|A|Whiteside County
+IL|17|15495|Colfax village|Incorporated Place|A|McLean County
+IL|17|15599|Collinsville city|Incorporated Place|A|Madison County, St. Clair County
+IL|17|15664|Colona city|Incorporated Place|A|Henry County
+IL|17|15807|Colp village|Incorporated Place|A|Williamson County
+IL|17|15833|Columbia city|Incorporated Place|A|Monroe County, St. Clair County
+IL|17|15846|Columbus village|Incorporated Place|A|Adams County
+IL|17|15950|Como CDP|Census Designated Place|S|Whiteside County
+IL|17|15989|Compton village|Incorporated Place|A|Lee County
+IL|17|16054|Concord village|Incorporated Place|A|Morgan County
+IL|17|16119|Congerville village|Incorporated Place|A|Woodford County
+IL|17|16210|Cooksville village|Incorporated Place|A|McLean County
+IL|17|16366|Cordova village|Incorporated Place|A|Rock Island County
+IL|17|16405|Cornell village|Incorporated Place|A|Livingston County
+IL|17|16431|Cornland CDP|Census Designated Place|S|Logan County
+IL|17|16470|Cortland town|Incorporated Place|A|DeKalb County
+IL|17|16613|Coulterville village|Incorporated Place|A|Randolph County
+IL|17|16691|Country Club Hills city|Incorporated Place|A|Cook County
+IL|17|16873|Countryside city|Incorporated Place|A|Cook County
+IL|17|17055|Cowden village|Incorporated Place|A|Shelby County
+IL|17|17077|Coyne Center CDP|Census Designated Place|S|Rock Island County
+IL|17|17094|Crab Orchard CDP|Census Designated Place|S|Williamson County
+IL|17|17185|Crainville village|Incorporated Place|A|Williamson County
+IL|17|17289|Creal Springs city|Incorporated Place|A|Williamson County
+IL|17|17406|Crescent City village|Incorporated Place|A|Iroquois County
+IL|17|17458|Crest Hill city|Incorporated Place|A|Will County
+IL|17|17471|Creston village|Incorporated Place|A|Ogle County
+IL|17|17497|Crestwood village|Incorporated Place|A|Cook County
+IL|17|17523|Crete village|Incorporated Place|A|Cook County, Will County
+IL|17|17549|Creve Coeur village|Incorporated Place|A|Tazewell County
+IL|17|17783|Crossville village|Incorporated Place|A|White County
+IL|17|17887|Crystal Lake city|Incorporated Place|A|McHenry County
+IL|17|17939|Crystal Lawns CDP|Census Designated Place|S|Will County
+IL|17|17991|Cuba city|Incorporated Place|A|Fulton County
+IL|17|18030|Cullom village|Incorporated Place|A|Livingston County
+IL|17|18147|Curran village|Incorporated Place|A|Sangamon County
+IL|17|18225|Cutler village|Incorporated Place|A|Perry County
+IL|17|18251|Cypress village|Incorporated Place|A|Johnson County
+IL|17|18303|Dahlgren village|Incorporated Place|A|Hamilton County
+IL|17|18342|Dakota village|Incorporated Place|A|Stephenson County
+IL|17|18420|Dallas City city|Incorporated Place|A|Hancock County, Henderson County
+IL|17|18446|Dalton City village|Incorporated Place|A|Moultrie County
+IL|17|18459|Dalzell village|Incorporated Place|A|Bureau County, LaSalle County
+IL|17|18472|Damiansville village|Incorporated Place|A|Clinton County
+IL|17|18485|Dana village|Incorporated Place|A|LaSalle County
+IL|17|18498|Danforth village|Incorporated Place|A|Iroquois County
+IL|17|18537|Danvers village|Incorporated Place|A|McLean County
+IL|17|18563|Danville city|Incorporated Place|A|Vermilion County
+IL|17|18628|Darien city|Incorporated Place|A|DuPage County
+IL|17|18641|Darmstadt CDP|Census Designated Place|S|St. Clair County
+IL|17|18706|Davis village|Incorporated Place|A|Stephenson County
+IL|17|18719|Davis Junction village|Incorporated Place|A|Ogle County
+IL|17|18745|Dawson village|Incorporated Place|A|Sangamon County
+IL|17|18771|Dayton CDP|Census Designated Place|S|LaSalle County
+IL|17|18823|Decatur city|Incorporated Place|A|Macon County
+IL|17|18940|Deer Creek village|Incorporated Place|A|Tazewell County, Woodford County
+IL|17|18992|Deerfield village|Incorporated Place|A|Cook County, Lake County
+IL|17|19031|Deer Grove village|Incorporated Place|A|Whiteside County
+IL|17|19083|Deer Park village|Incorporated Place|A|Cook County, Lake County
+IL|17|19161|DeKalb city|Incorporated Place|A|DeKalb County
+IL|17|19200|De Land village|Incorporated Place|A|Piatt County
+IL|17|19226|Delavan city|Incorporated Place|A|Tazewell County
+IL|17|19499|De Pue village|Incorporated Place|A|Bureau County
+IL|17|19616|De Soto village|Incorporated Place|A|Jackson County
+IL|17|19642|Des Plaines city|Incorporated Place|A|Cook County
+IL|17|19681|Detroit village|Incorporated Place|A|Pike County
+IL|17|19798|De Witt village|Incorporated Place|A|De Witt County
+IL|17|19837|Diamond village|Incorporated Place|A|Grundy County, Will County
+IL|17|19915|Dieterich village|Incorporated Place|A|Effingham County
+IL|17|20045|Divernon village|Incorporated Place|A|Sangamon County
+IL|17|20123|Dix village|Incorporated Place|A|Jefferson County
+IL|17|20149|Dixmoor village|Incorporated Place|A|Cook County
+IL|17|20162|Dixon city|Incorporated Place|A|Lee County
+IL|17|20292|Dolton village|Incorporated Place|A|Cook County
+IL|17|20305|Dongola village|Incorporated Place|A|Union County
+IL|17|20318|Donnellson village|Incorporated Place|A|Bond County, Montgomery County
+IL|17|20331|Donovan village|Incorporated Place|A|Iroquois County
+IL|17|20370|Dorchester village|Incorporated Place|A|Macoupin County
+IL|17|20526|Dover village|Incorporated Place|A|Bureau County
+IL|17|20565|Dowell village|Incorporated Place|A|Jackson County
+IL|17|20591|Downers Grove village|Incorporated Place|A|DuPage County
+IL|17|20643|Downs village|Incorporated Place|A|McLean County
+IL|17|20890|Du Bois village|Incorporated Place|A|Washington County
+IL|17|21098|Dunfermline village|Incorporated Place|A|Fulton County
+IL|17|21176|Dunlap village|Incorporated Place|A|Peoria County
+IL|17|21254|Dupo village|Incorporated Place|A|St. Clair County
+IL|17|21267|Du Quoin city|Incorporated Place|A|Perry County
+IL|17|21280|Durand village|Incorporated Place|A|Winnebago County
+IL|17|21358|Dwight village|Incorporated Place|A|Grundy County, Livingston County
+IL|17|21410|Eagarville village|Incorporated Place|A|Macoupin County
+IL|17|21540|Earlville city|Incorporated Place|A|LaSalle County
+IL|17|21553|East Alton village|Incorporated Place|A|Madison County
+IL|17|21579|East Brooklyn village|Incorporated Place|A|Grundy County
+IL|17|21605|East Cape Girardeau village|Incorporated Place|A|Alexander County
+IL|17|21618|East Carondelet village|Incorporated Place|A|St. Clair County
+IL|17|21683|East Dubuque city|Incorporated Place|A|Jo Daviess County
+IL|17|21696|East Dundee village|Incorporated Place|A|Cook County, Kane County
+IL|17|21826|East Galesburg village|Incorporated Place|A|Knox County
+IL|17|21852|East Gillespie village|Incorporated Place|A|Macoupin County
+IL|17|21904|East Hazel Crest village|Incorporated Place|A|Cook County
+IL|17|22073|East Moline city|Incorporated Place|A|Rock Island County
+IL|17|22151|Easton village|Incorporated Place|A|Mason County
+IL|17|22164|East Peoria city|Incorporated Place|A|Tazewell County
+IL|17|22255|East St. Louis city|Incorporated Place|A|St. Clair County
+IL|17|22398|Eddyville village|Incorporated Place|A|Pope County
+IL|17|22567|Edgewood village|Incorporated Place|A|Effingham County
+IL|17|22645|Edinburg village|Incorporated Place|A|Christian County
+IL|17|22697|Edwardsville city|Incorporated Place|A|Madison County
+IL|17|22736|Effingham city|Incorporated Place|A|Effingham County
+IL|17|22931|Elburn village|Incorporated Place|A|Kane County
+IL|17|22957|El Dara village|Incorporated Place|A|Pike County
+IL|17|23009|Eldorado city|Incorporated Place|A|Saline County
+IL|17|23022|Eldred village|Incorporated Place|A|Greene County
+IL|17|23074|Elgin city|Incorporated Place|A|Cook County, Kane County
+IL|17|23165|Elizabeth village|Incorporated Place|A|Jo Daviess County
+IL|17|23191|Elizabethtown village|Incorporated Place|A|Hardin County
+IL|17|23256|Elk Grove Village village|Incorporated Place|A|Cook County, DuPage County
+IL|17|23269|Elkhart village|Incorporated Place|A|Logan County
+IL|17|23373|Elkville village|Incorporated Place|A|Jackson County
+IL|17|23425|Elliott village|Incorporated Place|A|Ford County
+IL|17|23503|Ellis Grove village|Incorporated Place|A|Randolph County
+IL|17|23529|Ellisville village|Incorporated Place|A|Fulton County
+IL|17|23555|Ellsworth village|Incorporated Place|A|McLean County
+IL|17|23620|Elmhurst city|Incorporated Place|A|Cook County, DuPage County
+IL|17|23698|Elmwood city|Incorporated Place|A|Peoria County
+IL|17|23724|Elmwood Park village|Incorporated Place|A|Cook County
+IL|17|23737|El Paso city|Incorporated Place|A|McLean County, Woodford County
+IL|17|23776|Elsah village|Incorporated Place|A|Jersey County
+IL|17|23841|Elvaston village|Incorporated Place|A|Hancock County
+IL|17|23945|Elwood village|Incorporated Place|A|Will County
+IL|17|23971|Emden village|Incorporated Place|A|Logan County
+IL|17|24062|Emington village|Incorporated Place|A|Livingston County
+IL|17|24166|Energy village|Incorporated Place|A|Williamson County
+IL|17|24179|Enfield village|Incorporated Place|A|White County
+IL|17|24348|Equality village|Incorporated Place|A|Gallatin County
+IL|17|24374|Erie village|Incorporated Place|A|Whiteside County
+IL|17|24452|Essex village|Incorporated Place|A|Kankakee County
+IL|17|24543|Eureka city|Incorporated Place|A|Woodford County
+IL|17|24582|Evanston city|Incorporated Place|A|Cook County
+IL|17|24608|Evansville village|Incorporated Place|A|Randolph County
+IL|17|24634|Evergreen Park village|Incorporated Place|A|Cook County
+IL|17|24673|Ewing village|Incorporated Place|A|Franklin County
+IL|17|24699|Exeter village|Incorporated Place|A|Scott County
+IL|17|24764|Fairbury city|Incorporated Place|A|Livingston County
+IL|17|24816|Fairfield city|Incorporated Place|A|Wayne County
+IL|17|24920|Fairmont CDP|Census Designated Place|S|Will County
+IL|17|24933|Fairmont City village|Incorporated Place|A|Madison County, St. Clair County
+IL|17|24985|Fairmount village|Incorporated Place|A|Vermilion County
+IL|17|25063|Fairview village|Incorporated Place|A|Fulton County
+IL|17|25141|Fairview Heights city|Incorporated Place|A|St. Clair County
+IL|17|25375|Farina village|Incorporated Place|A|Fayette County, Marion County
+IL|17|25414|Farmer City city|Incorporated Place|A|De Witt County
+IL|17|25440|Farmersville village|Incorporated Place|A|Montgomery County
+IL|17|25531|Farmington city|Incorporated Place|A|Fulton County, Peoria County
+IL|17|25713|Fayetteville village|Incorporated Place|A|St. Clair County
+IL|17|25895|Ferris village|Incorporated Place|A|Hancock County
+IL|17|25960|Fidelity village|Incorporated Place|A|Jersey County
+IL|17|26012|Fieldon village|Incorporated Place|A|Jersey County
+IL|17|26077|Fillmore village|Incorporated Place|A|Montgomery County
+IL|17|26116|Findlay village|Incorporated Place|A|Shelby County
+IL|17|26194|Fisher village|Incorporated Place|A|Champaign County
+IL|17|26233|Fithian village|Incorporated Place|A|Vermilion County
+IL|17|26311|Flanagan village|Incorporated Place|A|Livingston County
+IL|17|26350|Flat Rock village|Incorporated Place|A|Crawford County
+IL|17|26454|Flora city|Incorporated Place|A|Clay County
+IL|17|26467|Floraville CDP|Census Designated Place|S|St. Clair County
+IL|17|26480|Florence village|Incorporated Place|A|Pike County
+IL|17|26571|Flossmoor village|Incorporated Place|A|Cook County
+IL|17|26662|Foosland village|Incorporated Place|A|Champaign County
+IL|17|26710|Ford Heights village|Incorporated Place|A|Cook County
+IL|17|26753|Forest City village|Incorporated Place|A|Mason County
+IL|17|26896|Forest Lake CDP|Census Designated Place|S|Lake County
+IL|17|26935|Forest Park village|Incorporated Place|A|Cook County
+IL|17|26987|Forest View village|Incorporated Place|A|Cook County
+IL|17|27026|Forrest village|Incorporated Place|A|Livingston County
+IL|17|27065|Forreston village|Incorporated Place|A|Ogle County
+IL|17|27091|Forsyth village|Incorporated Place|A|Macon County
+IL|17|27442|Fox Lake village|Incorporated Place|A|Lake County, McHenry County
+IL|17|27455|Fox Lake Hills CDP|Census Designated Place|S|Lake County
+IL|17|27533|Fox River Grove village|Incorporated Place|A|Lake County, McHenry County
+IL|17|27624|Frankfort village|Incorporated Place|A|Cook County, Will County
+IL|17|27644|Frankfort Square CDP|Census Designated Place|S|Will County
+IL|17|27663|Franklin village|Incorporated Place|A|Morgan County
+IL|17|27689|Franklin Grove village|Incorporated Place|A|Lee County
+IL|17|27702|Franklin Park village|Incorporated Place|A|Cook County
+IL|17|27806|Freeburg village|Incorporated Place|A|St. Clair County
+IL|17|27858|Freeman Spur village|Incorporated Place|A|Franklin County, Williamson County
+IL|17|27884|Freeport city|Incorporated Place|A|Stephenson County
+IL|17|28144|Fulton city|Incorporated Place|A|Whiteside County
+IL|17|28170|Fults village|Incorporated Place|A|Monroe County
+IL|17|28248|Gages Lake CDP|Census Designated Place|S|Lake County
+IL|17|28261|Galatia village|Incorporated Place|A|Saline County
+IL|17|28300|Galena city|Incorporated Place|A|Jo Daviess County
+IL|17|28326|Galesburg city|Incorporated Place|A|Knox County
+IL|17|28430|Galva city|Incorporated Place|A|Henry County
+IL|17|28612|Garden Prairie village|Incorporated Place|A|Boone County
+IL|17|28638|Gardner village|Incorporated Place|A|Grundy County
+IL|17|28742|Garrett village|Incorporated Place|A|Douglas County
+IL|17|28807|Gays village|Incorporated Place|A|Moultrie County
+IL|17|28846|Geneseo city|Incorporated Place|A|Henry County
+IL|17|28872|Geneva city|Incorporated Place|A|Kane County
+IL|17|28898|Genoa city|Incorporated Place|A|DeKalb County
+IL|17|28950|Georgetown CDP|Census Designated Place|S|McDonough County
+IL|17|28963|Georgetown city|Incorporated Place|A|Vermilion County
+IL|17|29041|Germantown village|Incorporated Place|A|Clinton County
+IL|17|29080|Germantown Hills village|Incorporated Place|A|Woodford County
+IL|17|29093|German Valley village|Incorporated Place|A|Stephenson County
+IL|17|29125|Gibson City city|Incorporated Place|A|Ford County
+IL|17|29145|Gifford village|Incorporated Place|A|Champaign County
+IL|17|29171|Gilberts village|Incorporated Place|A|Kane County
+IL|17|29236|Gillespie city|Incorporated Place|A|Macoupin County
+IL|17|29275|Gilman city|Incorporated Place|A|Iroquois County
+IL|17|29340|Gilson CDP|Census Designated Place|S|Knox County
+IL|17|29392|Girard city|Incorporated Place|A|Macoupin County
+IL|17|29431|Gladstone village|Incorporated Place|A|Henderson County
+IL|17|29483|Glasford village|Incorporated Place|A|Peoria County
+IL|17|29496|Glasgow village|Incorporated Place|A|Scott County
+IL|17|29639|Glen Carbon village|Incorporated Place|A|Madison County
+IL|17|29652|Glencoe village|Incorporated Place|A|Cook County
+IL|17|29730|Glendale Heights village|Incorporated Place|A|DuPage County
+IL|17|29756|Glen Ellyn village|Incorporated Place|A|DuPage County
+IL|17|29938|Glenview village|Incorporated Place|A|Cook County
+IL|17|30029|Glenwood village|Incorporated Place|A|Cook County
+IL|17|30094|Godfrey village|Incorporated Place|A|Madison County
+IL|17|30120|Godley village|Incorporated Place|A|Grundy County, Will County
+IL|17|30133|Golconda city|Incorporated Place|A|Pope County
+IL|17|30159|Golden village|Incorporated Place|A|Adams County
+IL|17|30250|Golden Gate village|Incorporated Place|A|Wayne County
+IL|17|30328|Golf village|Incorporated Place|A|Cook County
+IL|17|30445|Goodfield village|Incorporated Place|A|Tazewell County, Woodford County
+IL|17|30458|Good Hope village|Incorporated Place|A|McDonough County
+IL|17|30510|Goofy Ridge CDP|Census Designated Place|S|Mason County
+IL|17|30575|Goreville village|Incorporated Place|A|Johnson County
+IL|17|30588|Gorham village|Incorporated Place|A|Jackson County
+IL|17|30653|Grafton city|Incorporated Place|A|Jersey County
+IL|17|30705|Grand Detour CDP|Census Designated Place|S|Ogle County
+IL|17|30757|Grand Ridge village|Incorporated Place|A|LaSalle County
+IL|17|30770|Grand Tower city|Incorporated Place|A|Jackson County
+IL|17|30835|Grandview village|Incorporated Place|A|Sangamon County
+IL|17|30900|Grandwood Park CDP|Census Designated Place|S|Lake County
+IL|17|30926|Granite City city|Incorporated Place|A|Madison County
+IL|17|30978|Grantfork village|Incorporated Place|A|Madison County
+IL|17|30991|Grant Park village|Incorporated Place|A|Kankakee County
+IL|17|31017|Granville village|Incorporated Place|A|Putnam County
+IL|17|31121|Grayslake village|Incorporated Place|A|Lake County
+IL|17|31165|Grayville city|Incorporated Place|A|Edwards County, White County
+IL|17|31368|Greenfield city|Incorporated Place|A|Greene County
+IL|17|31446|Green Oaks village|Incorporated Place|A|Lake County
+IL|17|31524|Greenup village|Incorporated Place|A|Cumberland County
+IL|17|31563|Green Valley village|Incorporated Place|A|Tazewell County
+IL|17|31576|Greenview village|Incorporated Place|A|Menard County
+IL|17|31589|Greenville city|Incorporated Place|A|Bond County
+IL|17|31667|Greenwood village|Incorporated Place|A|McHenry County
+IL|17|31732|Gridley village|Incorporated Place|A|McLean County
+IL|17|31771|Griggsville city|Incorporated Place|A|Pike County
+IL|17|31992|Gulf Port village|Incorporated Place|A|Henderson County
+IL|17|32018|Gurnee village|Incorporated Place|A|Lake County
+IL|17|32200|Hainesville village|Incorporated Place|A|Lake County
+IL|17|32395|Hamburg village|Incorporated Place|A|Calhoun County
+IL|17|32408|Hamel village|Incorporated Place|A|Madison County
+IL|17|32434|Hamilton city|Incorporated Place|A|Hancock County
+IL|17|32499|Hammond village|Incorporated Place|A|Piatt County
+IL|17|32525|Hampshire village|Incorporated Place|A|Kane County
+IL|17|32564|Hampton village|Incorporated Place|A|Rock Island County
+IL|17|32616|Hanaford village|Incorporated Place|A|Franklin County
+IL|17|32668|Hanna City village|Incorporated Place|A|Peoria County
+IL|17|32707|Hanover village|Incorporated Place|A|Jo Daviess County
+IL|17|32746|Hanover Park village|Incorporated Place|A|Cook County, DuPage County
+IL|17|32850|Hardin village|Incorporated Place|A|Calhoun County
+IL|17|32967|Harmon village|Incorporated Place|A|Lee County
+IL|17|33136|Harrisburg city|Incorporated Place|A|Saline County
+IL|17|33162|Harrison CDP|Census Designated Place|S|Jackson County
+IL|17|33227|Harristown village|Incorporated Place|A|Macon County
+IL|17|33279|Hartford village|Incorporated Place|A|Madison County
+IL|17|33318|Hartsburg village|Incorporated Place|A|Logan County
+IL|17|33331|Harvard city|Incorporated Place|A|McHenry County
+IL|17|33357|Harvel village|Incorporated Place|A|Christian County, Montgomery County
+IL|17|33383|Harvey city|Incorporated Place|A|Cook County
+IL|17|33435|Harwood Heights village|Incorporated Place|A|Cook County
+IL|17|33513|Havana city|Incorporated Place|A|Mason County
+IL|17|33630|Hawthorn Woods village|Incorporated Place|A|Lake County
+IL|17|33695|Hazel Crest village|Incorporated Place|A|Cook County
+IL|17|33851|Hebron village|Incorporated Place|A|McHenry County
+IL|17|33877|Hecker village|Incorporated Place|A|Monroe County, St. Clair County
+IL|17|34007|Henderson village|Incorporated Place|A|Knox County
+IL|17|34098|Hennepin village|Incorporated Place|A|Putnam County
+IL|17|34137|Henning village|Incorporated Place|A|Vermilion County
+IL|17|34163|Henry city|Incorporated Place|A|Marshall County
+IL|17|34272|Heritage Lake CDP|Census Designated Place|S|Tazewell County
+IL|17|34332|Herrick village|Incorporated Place|A|Shelby County
+IL|17|34358|Herrin city|Incorporated Place|A|Williamson County
+IL|17|34384|Herscher village|Incorporated Place|A|Kankakee County
+IL|17|34423|Hettick village|Incorporated Place|A|Macoupin County
+IL|17|34449|Heyworth village|Incorporated Place|A|McLean County
+IL|17|34514|Hickory Hills city|Incorporated Place|A|Cook County
+IL|17|34553|Hidalgo village|Incorporated Place|A|Jasper County
+IL|17|34670|Highland city|Incorporated Place|A|Madison County
+IL|17|34722|Highland Park city|Incorporated Place|A|Lake County
+IL|17|34865|Highwood city|Incorporated Place|A|Lake County
+IL|17|34982|Hillcrest village|Incorporated Place|A|Ogle County
+IL|17|35047|Hillsboro city|Incorporated Place|A|Montgomery County
+IL|17|35073|Hillsdale village|Incorporated Place|A|Rock Island County
+IL|17|35086|Hillside village|Incorporated Place|A|Cook County
+IL|17|35203|Hillview village|Incorporated Place|A|Greene County
+IL|17|35268|Hinckley village|Incorporated Place|A|DeKalb County
+IL|17|35281|Hindsboro village|Incorporated Place|A|Douglas County
+IL|17|35307|Hinsdale village|Incorporated Place|A|Cook County, DuPage County
+IL|17|35385|Hodgkins village|Incorporated Place|A|Cook County
+IL|17|35398|Hoffman village|Incorporated Place|A|Clinton County
+IL|17|35411|Hoffman Estates village|Incorporated Place|A|Cook County, Kane County
+IL|17|35515|Holiday Hills village|Incorporated Place|A|McHenry County
+IL|17|35541|Holiday Shores CDP|Census Designated Place|S|Madison County
+IL|17|35671|Hollowayville village|Incorporated Place|A|Bureau County
+IL|17|35814|Homer village|Incorporated Place|A|Champaign County
+IL|17|35835|Homer Glen village|Incorporated Place|A|Will County
+IL|17|35866|Hometown city|Incorporated Place|A|Cook County
+IL|17|35879|Homewood village|Incorporated Place|A|Cook County
+IL|17|36061|Hoopeston city|Incorporated Place|A|Vermilion County
+IL|17|36074|Hooppole village|Incorporated Place|A|Henry County
+IL|17|36126|Hopedale village|Incorporated Place|A|Tazewell County
+IL|17|36150|Hopewell village|Incorporated Place|A|Marshall County
+IL|17|36190|Hopkins Park village|Incorporated Place|A|Kankakee County
+IL|17|36347|Hoyleton village|Incorporated Place|A|Washington County
+IL|17|36438|Hudson village|Incorporated Place|A|McLean County
+IL|17|36477|Huey village|Incorporated Place|A|Clinton County
+IL|17|36516|Hull village|Incorporated Place|A|Pike County
+IL|17|36542|Humboldt village|Incorporated Place|A|Coles County
+IL|17|36568|Hume village|Incorporated Place|A|Edgar County
+IL|17|36750|Huntley village|Incorporated Place|A|Kane County, McHenry County
+IL|17|36815|Hurst city|Incorporated Place|A|Williamson County
+IL|17|36841|Hutsonville village|Incorporated Place|A|Crawford County
+IL|17|37127|Illiopolis village|Incorporated Place|A|Sangamon County
+IL|17|37179|Ina village|Incorporated Place|A|Jefferson County
+IL|17|37218|Indian Creek village|Incorporated Place|A|Lake County
+IL|17|37257|Indian Head Park village|Incorporated Place|A|Cook County
+IL|17|37348|Indianola village|Incorporated Place|A|Vermilion County
+IL|17|37439|Industry village|Incorporated Place|A|McDonough County
+IL|17|37465|Ingalls Park CDP|Census Designated Place|S|Will County
+IL|17|37608|Inverness village|Incorporated Place|A|Cook County
+IL|17|37621|Iola village|Incorporated Place|A|Clay County
+IL|17|37647|Ipava village|Incorporated Place|A|Fulton County
+IL|17|37712|Iroquois village|Incorporated Place|A|Iroquois County
+IL|17|37738|Irving village|Incorporated Place|A|Montgomery County
+IL|17|37777|Irvington village|Incorporated Place|A|Washington County
+IL|17|37803|Irwin village|Incorporated Place|A|Kankakee County
+IL|17|37894|Island Lake village|Incorporated Place|A|Lake County, McHenry County
+IL|17|37907|Itasca village|Incorporated Place|A|DuPage County
+IL|17|37933|Iuka village|Incorporated Place|A|Marion County
+IL|17|37998|Ivesdale village|Incorporated Place|A|Champaign County, Piatt County
+IL|17|38115|Jacksonville city|Incorporated Place|A|Morgan County
+IL|17|38323|Jeffersonville village|Incorporated Place|A|Wayne County
+IL|17|38349|Jeisyville village|Incorporated Place|A|Christian County
+IL|17|38375|Jerome village|Incorporated Place|A|Sangamon County
+IL|17|38414|Jerseyville city|Incorporated Place|A|Jersey County
+IL|17|38427|Jewett village|Incorporated Place|A|Cumberland County
+IL|17|38479|Johnsburg village|Incorporated Place|A|McHenry County
+IL|17|38531|Johnsonville village|Incorporated Place|A|Wayne County
+IL|17|38544|Johnston City city|Incorporated Place|A|Williamson County
+IL|17|38570|Joliet city|Incorporated Place|A|Kendall County, Will County
+IL|17|38635|Jonesboro city|Incorporated Place|A|Union County
+IL|17|38674|Joppa village|Incorporated Place|A|Massac County
+IL|17|38739|Joy village|Incorporated Place|A|Mercer County
+IL|17|38778|Junction village|Incorporated Place|A|Gallatin County
+IL|17|38791|Junction City village|Incorporated Place|A|Marion County
+IL|17|38830|Justice village|Incorporated Place|A|Cook County
+IL|17|38856|Kampsville village|Incorporated Place|A|Calhoun County
+IL|17|38869|Kane village|Incorporated Place|A|Greene County
+IL|17|38895|Kaneville village|Incorporated Place|A|Kane County
+IL|17|38921|Kangley village|Incorporated Place|A|LaSalle County
+IL|17|38934|Kankakee city|Incorporated Place|A|Kankakee County
+IL|17|38986|Kansas village|Incorporated Place|A|Edgar County
+IL|17|39038|Kappa village|Incorporated Place|A|Woodford County
+IL|17|39077|Karnak village|Incorporated Place|A|Pulaski County
+IL|17|39129|Kaskaskia village|Incorporated Place|A|Randolph County
+IL|17|39233|Keenes village|Incorporated Place|A|Wayne County
+IL|17|39259|Keensburg village|Incorporated Place|A|Wabash County
+IL|17|39298|Keithsburg city|Incorporated Place|A|Mercer County
+IL|17|39324|Kell village|Incorporated Place|A|Marion County
+IL|17|39441|Kempton village|Incorporated Place|A|Ford County
+IL|17|39519|Kenilworth village|Incorporated Place|A|Cook County
+IL|17|39532|Kenney village|Incorporated Place|A|De Witt County
+IL|17|39727|Kewanee city|Incorporated Place|A|Henry County
+IL|17|39753|Keyesport village|Incorporated Place|A|Bond County, Clinton County
+IL|17|39857|Kilbourne village|Incorporated Place|A|Mason County
+IL|17|39883|Kildeer village|Incorporated Place|A|Lake County
+IL|17|39909|Kincaid village|Incorporated Place|A|Christian County
+IL|17|39922|Kinderhook village|Incorporated Place|A|Pike County
+IL|17|40065|Kingston village|Incorporated Place|A|DeKalb County
+IL|17|40091|Kingston Mines village|Incorporated Place|A|Peoria County
+IL|17|40117|Kinmundy city|Incorporated Place|A|Marion County
+IL|17|40143|Kinsman village|Incorporated Place|A|Grundy County
+IL|17|40156|Kirkland village|Incorporated Place|A|DeKalb County
+IL|17|40182|Kirkwood village|Incorporated Place|A|Warren County
+IL|17|40364|Knollwood CDP|Census Designated Place|S|Lake County
+IL|17|40416|Knoxville city|Incorporated Place|A|Knox County
+IL|17|40559|Lacon city|Incorporated Place|A|Marshall County
+IL|17|40598|Ladd village|Incorporated Place|A|Bureau County
+IL|17|40676|La Fayette village|Incorporated Place|A|Stark County
+IL|17|40767|La Grange village|Incorporated Place|A|Cook County
+IL|17|40793|La Grange Park village|Incorporated Place|A|Cook County
+IL|17|40832|La Harpe city|Incorporated Place|A|Hancock County
+IL|17|40884|Lake Barrington village|Incorporated Place|A|Lake County
+IL|17|40910|Lake Bluff village|Incorporated Place|A|Lake County
+IL|17|40962|Lake Camelot CDP|Census Designated Place|S|Peoria County
+IL|17|40988|Lake Catherine CDP|Census Designated Place|S|Lake County
+IL|17|41105|Lake Forest city|Incorporated Place|A|Lake County
+IL|17|41157|Lake Holiday CDP|Census Designated Place|S|LaSalle County
+IL|17|41183|Lake in the Hills village|Incorporated Place|A|McHenry County
+IL|17|41214|Lake Ka-Ho village|Incorporated Place|A|Macoupin County
+IL|17|41326|Lakemoor village|Incorporated Place|A|Lake County, McHenry County
+IL|17|41346|Lake of the Woods CDP|Census Designated Place|S|Champaign County
+IL|17|41404|Lake Petersburg CDP|Census Designated Place|S|Menard County
+IL|17|41456|Lake Summerset CDP|Census Designated Place|S|Stephenson County, Winnebago County
+IL|17|41586|Lake Villa village|Incorporated Place|A|Lake County
+IL|17|41651|Lakewood village|Incorporated Place|A|McHenry County
+IL|17|41716|Lakewood Shores CDP|Census Designated Place|S|Will County
+IL|17|41742|Lake Zurich village|Incorporated Place|A|Lake County
+IL|17|41794|La Moille village|Incorporated Place|A|Bureau County
+IL|17|41859|Lanark city|Incorporated Place|A|Carroll County
+IL|17|42002|Langleyville CDP|Census Designated Place|S|Christian County
+IL|17|42028|Lansing village|Incorporated Place|A|Cook County
+IL|17|42067|LaPlace CDP|Census Designated Place|S|Piatt County
+IL|17|42080|La Prairie village|Incorporated Place|A|Adams County
+IL|17|42171|La Rose village|Incorporated Place|A|Marshall County
+IL|17|42184|LaSalle city|Incorporated Place|A|LaSalle County
+IL|17|42249|Latham village|Incorporated Place|A|Logan County
+IL|17|42405|Lawrenceville city|Incorporated Place|A|Lawrence County
+IL|17|42457|Leaf River village|Incorporated Place|A|Ogle County
+IL|17|42496|Lebanon city|Incorporated Place|A|St. Clair County
+IL|17|42587|Lee village|Incorporated Place|A|DeKalb County, Lee County
+IL|17|42756|Leland village|Incorporated Place|A|LaSalle County
+IL|17|42769|Leland Grove city|Incorporated Place|A|Sangamon County
+IL|17|42795|Lemont village|Incorporated Place|A|Cook County, DuPage County, Will County
+IL|17|42834|Lena village|Incorporated Place|A|Stephenson County
+IL|17|42860|Lenzburg village|Incorporated Place|A|St. Clair County
+IL|17|42912|Leonore village|Incorporated Place|A|LaSalle County
+IL|17|42938|Lerna village|Incorporated Place|A|Coles County
+IL|17|42971|Le Roy city|Incorporated Place|A|McLean County
+IL|17|43055|Lewistown city|Incorporated Place|A|Fulton County
+IL|17|43094|Lexington city|Incorporated Place|A|McLean County
+IL|17|43133|Liberty village|Incorporated Place|A|Adams County
+IL|17|43250|Libertyville village|Incorporated Place|A|Lake County
+IL|17|43406|Lily Lake village|Incorporated Place|A|Kane County
+IL|17|43445|Lima village|Incorporated Place|A|Adams County
+IL|17|43510|Limestone village|Incorporated Place|A|Kankakee County
+IL|17|43536|Lincoln city|Incorporated Place|A|Logan County
+IL|17|43666|Lincolnshire village|Incorporated Place|A|Lake County
+IL|17|43744|Lincolnwood village|Incorporated Place|A|Cook County
+IL|17|43770|Lindenhurst village|Incorporated Place|A|Lake County
+IL|17|43900|Lisbon village|Incorporated Place|A|Kendall County
+IL|17|43939|Lisle village|Incorporated Place|A|DuPage County
+IL|17|43965|Litchfield city|Incorporated Place|A|Montgomery County
+IL|17|44056|Littleton village|Incorporated Place|A|Schuyler County
+IL|17|44082|Little York village|Incorporated Place|A|Warren County
+IL|17|44121|Liverpool village|Incorporated Place|A|Fulton County
+IL|17|44160|Livingston village|Incorporated Place|A|Madison County
+IL|17|44173|Loami village|Incorporated Place|A|Sangamon County
+IL|17|44225|Lockport city|Incorporated Place|A|Will County
+IL|17|44264|Loda village|Incorporated Place|A|Iroquois County
+IL|17|44381|Lomax village|Incorporated Place|A|Henderson County
+IL|17|44407|Lombard village|Incorporated Place|A|DuPage County
+IL|17|44446|London Mills village|Incorporated Place|A|Fulton County, Knox County
+IL|17|44498|Long Creek village|Incorporated Place|A|Macon County
+IL|17|44524|Long Grove village|Incorporated Place|A|Lake County
+IL|17|44550|Long Lake CDP|Census Designated Place|S|Lake County
+IL|17|44576|Long Point village|Incorporated Place|A|Livingston County
+IL|17|44602|Longview village|Incorporated Place|A|Champaign County
+IL|17|44719|Loraine village|Incorporated Place|A|Adams County
+IL|17|44823|Lostant village|Incorporated Place|A|LaSalle County
+IL|17|44836|Lost Nation CDP|Census Designated Place|S|Ogle County
+IL|17|44927|Louisville village|Incorporated Place|A|Clay County
+IL|17|45031|Loves Park city|Incorporated Place|A|Boone County, Winnebago County
+IL|17|45044|Lovington village|Incorporated Place|A|Moultrie County
+IL|17|45174|Ludlow village|Incorporated Place|A|Champaign County
+IL|17|45278|Lyndon village|Incorporated Place|A|Whiteside County
+IL|17|45369|Lynnville village|Incorporated Place|A|Morgan County
+IL|17|45421|Lynwood village|Incorporated Place|A|Cook County
+IL|17|45434|Lyons village|Incorporated Place|A|Cook County
+IL|17|45525|McClure village|Incorporated Place|A|Alexander County
+IL|17|45564|McCook village|Incorporated Place|A|Cook County
+IL|17|45616|McCullom Lake village|Incorporated Place|A|McHenry County
+IL|17|45642|Macedonia village|Incorporated Place|A|Franklin County, Hamilton County
+IL|17|45694|McHenry city|Incorporated Place|A|McHenry County
+IL|17|45726|Machesney Park village|Incorporated Place|A|Winnebago County
+IL|17|45785|Mackinaw village|Incorporated Place|A|Tazewell County
+IL|17|45811|McLean village|Incorporated Place|A|McLean County
+IL|17|45824|McLeansboro city|Incorporated Place|A|Hamilton County
+IL|17|45850|McNabb village|Incorporated Place|A|Putnam County
+IL|17|45889|Macomb city|Incorporated Place|A|McDonough County
+IL|17|45941|Macon city|Incorporated Place|A|Macon County
+IL|17|45993|Madison city|Incorporated Place|A|Madison County, St. Clair County
+IL|17|46058|Maeystown village|Incorporated Place|A|Monroe County
+IL|17|46110|Magnolia village|Incorporated Place|A|Putnam County
+IL|17|46136|Mahomet village|Incorporated Place|A|Champaign County
+IL|17|46214|Makanda village|Incorporated Place|A|Jackson County
+IL|17|46240|Malden village|Incorporated Place|A|Bureau County
+IL|17|46279|Malta village|Incorporated Place|A|DeKalb County
+IL|17|46331|Manchester village|Incorporated Place|A|Scott County
+IL|17|46357|Manhattan village|Incorporated Place|A|Will County
+IL|17|46383|Manito village|Incorporated Place|A|Mason County
+IL|17|46422|Manlius village|Incorporated Place|A|Bureau County
+IL|17|46487|Mansfield village|Incorporated Place|A|Piatt County
+IL|17|46500|Manteno village|Incorporated Place|A|Kankakee County
+IL|17|46604|Maple Park village|Incorporated Place|A|DeKalb County, Kane County
+IL|17|46643|Mapleton village|Incorporated Place|A|Peoria County
+IL|17|46695|Maquon village|Incorporated Place|A|Knox County
+IL|17|46786|Marengo city|Incorporated Place|A|McHenry County
+IL|17|46825|Marietta village|Incorporated Place|A|Fulton County
+IL|17|46864|Marine village|Incorporated Place|A|Madison County
+IL|17|46916|Marion city|Incorporated Place|A|Johnson County, Williamson County
+IL|17|46955|Marissa village|Incorporated Place|A|St. Clair County
+IL|17|46981|Mark village|Incorporated Place|A|Putnam County
+IL|17|47007|Markham city|Incorporated Place|A|Cook County
+IL|17|47072|Maroa city|Incorporated Place|A|Macon County
+IL|17|47111|Marquette Heights city|Incorporated Place|A|Tazewell County
+IL|17|47150|Marseilles city|Incorporated Place|A|LaSalle County
+IL|17|47163|Marshall city|Incorporated Place|A|Clark County
+IL|17|47254|Martinsville city|Incorporated Place|A|Clark County
+IL|17|47280|Martinton village|Incorporated Place|A|Iroquois County
+IL|17|47397|Maryville village|Incorporated Place|A|Madison County
+IL|17|47423|Mascoutah city|Incorporated Place|A|St. Clair County
+IL|17|47449|Mason town|Incorporated Place|A|Effingham County
+IL|17|47475|Mason City city|Incorporated Place|A|Mason County
+IL|17|47527|Matherville village|Incorporated Place|A|Mercer County
+IL|17|47540|Matteson village|Incorporated Place|A|Cook County, Will County
+IL|17|47553|Mattoon city|Incorporated Place|A|Coles County
+IL|17|47592|Maunie village|Incorporated Place|A|White County
+IL|17|47774|Maywood village|Incorporated Place|A|Cook County
+IL|17|47787|Mazon village|Incorporated Place|A|Grundy County
+IL|17|48021|Mechanicsburg village|Incorporated Place|A|Sangamon County
+IL|17|48073|Media village|Incorporated Place|A|Henderson County
+IL|17|48138|Medora village|Incorporated Place|A|Jersey County, Macoupin County
+IL|17|48242|Melrose Park village|Incorporated Place|A|Cook County
+IL|17|48268|Melvin village|Incorporated Place|A|Ford County
+IL|17|48307|Mendon village|Incorporated Place|A|Adams County
+IL|17|48333|Mendota city|Incorporated Place|A|LaSalle County
+IL|17|48359|Menominee village|Incorporated Place|A|Jo Daviess County
+IL|17|48424|Meredosia village|Incorporated Place|A|Morgan County
+IL|17|48554|Merrionette Park village|Incorporated Place|A|Cook County
+IL|17|48606|Metamora village|Incorporated Place|A|Woodford County
+IL|17|48632|Metcalf village|Incorporated Place|A|Edgar County
+IL|17|48645|Metropolis city|Incorporated Place|A|Massac County
+IL|17|48671|Mettawa village|Incorporated Place|A|Lake County
+IL|17|48853|Middletown village|Incorporated Place|A|Logan County
+IL|17|48892|Midlothian village|Incorporated Place|A|Cook County
+IL|17|49009|Milan village|Incorporated Place|A|Rock Island County
+IL|17|49048|Milford village|Incorporated Place|A|Iroquois County
+IL|17|49100|Millbrook village|Incorporated Place|A|Kendall County
+IL|17|49178|Mill Creek village|Incorporated Place|A|Union County
+IL|17|49191|Milledgeville village|Incorporated Place|A|Carroll County
+IL|17|49308|Millington village|Incorporated Place|A|Kendall County, LaSalle County
+IL|17|49347|Mill Shoals village|Incorporated Place|A|Wayne County, White County
+IL|17|49386|Millstadt village|Incorporated Place|A|St. Clair County
+IL|17|49477|Milton village|Incorporated Place|A|Pike County
+IL|17|49516|Mineral village|Incorporated Place|A|Bureau County
+IL|17|49555|Minier village|Incorporated Place|A|Tazewell County
+IL|17|49568|Minonk city|Incorporated Place|A|Woodford County
+IL|17|49607|Minooka village|Incorporated Place|A|Grundy County, Kendall County, Will County
+IL|17|49698|Mitchell CDP|Census Designated Place|S|Madison County
+IL|17|49802|Modesto village|Incorporated Place|A|Macoupin County
+IL|17|49854|Mokena village|Incorporated Place|A|Will County
+IL|17|49867|Moline city|Incorporated Place|A|Rock Island County
+IL|17|49893|Momence city|Incorporated Place|A|Kankakee County
+IL|17|49945|Monee village|Incorporated Place|A|Will County
+IL|17|50010|Monmouth city|Incorporated Place|A|Warren County
+IL|17|50062|Monroe Center village|Incorporated Place|A|Ogle County
+IL|17|50218|Montgomery village|Incorporated Place|A|Kane County, Kendall County
+IL|17|50244|Monticello city|Incorporated Place|A|Piatt County
+IL|17|50283|Montrose village|Incorporated Place|A|Cumberland County, Effingham County
+IL|17|50491|Morris city|Incorporated Place|A|Grundy County
+IL|17|50530|Morrison city|Incorporated Place|A|Whiteside County
+IL|17|50543|Morrisonville village|Incorporated Place|A|Christian County
+IL|17|50621|Morton village|Incorporated Place|A|Tazewell County
+IL|17|50647|Morton Grove village|Incorporated Place|A|Cook County
+IL|17|50751|Mound City city|Incorporated Place|A|Pulaski County
+IL|17|50777|Mounds city|Incorporated Place|A|Pulaski County
+IL|17|50790|Mound Station village|Incorporated Place|A|Brown County
+IL|17|50829|Mount Auburn village|Incorporated Place|A|Christian County
+IL|17|50868|Mount Carmel city|Incorporated Place|A|Wabash County
+IL|17|50881|Mount Carroll city|Incorporated Place|A|Carroll County
+IL|17|50920|Mount Clare village|Incorporated Place|A|Macoupin County
+IL|17|50933|Mount Erie village|Incorporated Place|A|Wayne County
+IL|17|50998|Mount Morris village|Incorporated Place|A|Ogle County
+IL|17|51024|Mount Olive city|Incorporated Place|A|Macoupin County
+IL|17|51089|Mount Prospect village|Incorporated Place|A|Cook County
+IL|17|51128|Mount Pulaski city|Incorporated Place|A|Logan County
+IL|17|51154|Mount Sterling city|Incorporated Place|A|Brown County
+IL|17|51180|Mount Vernon city|Incorporated Place|A|Jefferson County
+IL|17|51206|Mount Zion village|Incorporated Place|A|Macon County
+IL|17|51232|Moweaqua village|Incorporated Place|A|Christian County, Shelby County
+IL|17|51271|Muddy village|Incorporated Place|A|Saline County
+IL|17|51284|Mulberry Grove village|Incorporated Place|A|Bond County
+IL|17|51310|Mulkeytown CDP|Census Designated Place|S|Franklin County
+IL|17|51336|Muncie village|Incorporated Place|A|Vermilion County
+IL|17|51349|Mundelein village|Incorporated Place|A|Lake County
+IL|17|51453|Murphysboro city|Incorporated Place|A|Jackson County
+IL|17|51479|Murrayville village|Incorporated Place|A|Morgan County
+IL|17|51622|Naperville city|Incorporated Place|A|DuPage County, Will County
+IL|17|51648|Naplate village|Incorporated Place|A|LaSalle County
+IL|17|51661|Naples town|Incorporated Place|A|Scott County
+IL|17|51700|Nashville city|Incorporated Place|A|Washington County
+IL|17|51726|Nason city|Incorporated Place|A|Jefferson County
+IL|17|51791|Nauvoo city|Incorporated Place|A|Hancock County
+IL|17|51882|Nebo village|Incorporated Place|A|Pike County
+IL|17|51947|Nelson village|Incorporated Place|A|Lee County
+IL|17|51986|Neoga city|Incorporated Place|A|Cumberland County
+IL|17|51999|Neponset village|Incorporated Place|A|Bureau County
+IL|17|52103|Newark village|Incorporated Place|A|Kendall County
+IL|17|52116|New Athens village|Incorporated Place|A|St. Clair County
+IL|17|52142|New Baden village|Incorporated Place|A|Clinton County, St. Clair County
+IL|17|52155|New Bedford village|Incorporated Place|A|Bureau County
+IL|17|52168|New Berlin village|Incorporated Place|A|Sangamon County
+IL|17|52220|New Boston city|Incorporated Place|A|Mercer County
+IL|17|52285|New Burnside village|Incorporated Place|A|Johnson County
+IL|17|52311|New Canton town|Incorporated Place|A|Pike County
+IL|17|52415|New Douglas village|Incorporated Place|A|Madison County
+IL|17|52467|New Grand Chain village|Incorporated Place|A|Pulaski County
+IL|17|52506|New Haven village|Incorporated Place|A|Gallatin County, White County
+IL|17|52545|New Holland village|Incorporated Place|A|Logan County
+IL|17|52584|New Lenox village|Incorporated Place|A|Will County
+IL|17|52623|Newman city|Incorporated Place|A|Douglas County
+IL|17|52701|New Milford village|Incorporated Place|A|Winnebago County
+IL|17|52714|New Minden village|Incorporated Place|A|Washington County
+IL|17|52805|New Salem village|Incorporated Place|A|Pike County
+IL|17|52844|Newton city|Incorporated Place|A|Jasper County
+IL|17|52961|Niantic village|Incorporated Place|A|Macon County
+IL|17|53000|Niles village|Incorporated Place|A|Cook County
+IL|17|53039|Nilwood town|Incorporated Place|A|Macoupin County
+IL|17|53143|Noble village|Incorporated Place|A|Richland County
+IL|17|53169|Nokomis city|Incorporated Place|A|Montgomery County
+IL|17|53195|Nora village|Incorporated Place|A|Jo Daviess County
+IL|17|53234|Normal town|Incorporated Place|A|McLean County
+IL|17|53377|Norridge village|Incorporated Place|A|Cook County
+IL|17|53390|Norris village|Incorporated Place|A|Fulton County
+IL|17|53403|Norris City village|Incorporated Place|A|White County
+IL|17|53442|North Aurora village|Incorporated Place|A|Kane County
+IL|17|53455|North Barrington village|Incorporated Place|A|Lake County
+IL|17|53481|Northbrook village|Incorporated Place|A|Cook County
+IL|17|53559|North Chicago city|Incorporated Place|A|Lake County
+IL|17|53585|North City village|Incorporated Place|A|Franklin County
+IL|17|53663|Northfield village|Incorporated Place|A|Cook County
+IL|17|53793|North Henderson village|Incorporated Place|A|Mercer County
+IL|17|53871|Northlake city|Incorporated Place|A|Cook County
+IL|17|54092|North Pekin village|Incorporated Place|A|Tazewell County
+IL|17|54144|North Riverside village|Incorporated Place|A|Cook County
+IL|17|54222|North Utica village|Incorporated Place|A|LaSalle County
+IL|17|54404|Norwood village|Incorporated Place|A|Peoria County
+IL|17|54534|Oak Brook village|Incorporated Place|A|Cook County, DuPage County
+IL|17|54560|Oakbrook Terrace city|Incorporated Place|A|DuPage County
+IL|17|54586|Oakdale village|Incorporated Place|A|Washington County
+IL|17|54625|Oakford village|Incorporated Place|A|Menard County
+IL|17|54638|Oak Forest city|Incorporated Place|A|Cook County
+IL|17|54703|Oak Grove village|Incorporated Place|A|Rock Island County
+IL|17|54781|Oakland city|Incorporated Place|A|Coles County
+IL|17|54820|Oak Lawn village|Incorporated Place|A|Cook County
+IL|17|54885|Oak Park village|Incorporated Place|A|Cook County
+IL|17|54924|Oak Run CDP|Census Designated Place|S|Knox County
+IL|17|55002|Oakwood village|Incorporated Place|A|Vermilion County
+IL|17|55041|Oakwood Hills village|Incorporated Place|A|McHenry County
+IL|17|55106|Oblong village|Incorporated Place|A|Crawford County
+IL|17|55132|Oconee village|Incorporated Place|A|Shelby County
+IL|17|55171|Odell village|Incorporated Place|A|Livingston County
+IL|17|55210|Odin village|Incorporated Place|A|Marion County
+IL|17|55249|O'Fallon city|Incorporated Place|A|St. Clair County
+IL|17|55275|Ogden village|Incorporated Place|A|Champaign County
+IL|17|55353|Oglesby city|Incorporated Place|A|LaSalle County
+IL|17|55379|Ohio village|Incorporated Place|A|Bureau County
+IL|17|55418|Ohlman village|Incorporated Place|A|Montgomery County
+IL|17|55470|Okawville village|Incorporated Place|A|Washington County
+IL|17|55639|Old Mill Creek village|Incorporated Place|A|Lake County
+IL|17|55717|Old Ripley village|Incorporated Place|A|Bond County
+IL|17|55756|Old Shawneetown village|Incorporated Place|A|Gallatin County
+IL|17|55847|Olive Branch CDP|Census Designated Place|S|Alexander County
+IL|17|55886|Olivet CDP|Census Designated Place|S|Vermilion County
+IL|17|55899|Olmsted village|Incorporated Place|A|Pulaski County
+IL|17|55912|Olney city|Incorporated Place|A|Richland County
+IL|17|55938|Olympia Fields village|Incorporated Place|A|Cook County
+IL|17|56003|Omaha village|Incorporated Place|A|Gallatin County
+IL|17|56081|Onarga village|Incorporated Place|A|Iroquois County
+IL|17|56159|Oneida city|Incorporated Place|A|Knox County
+IL|17|56198|Opdyke CDP|Census Designated Place|S|Jefferson County
+IL|17|56237|Oquawka village|Incorporated Place|A|Henderson County
+IL|17|56341|Orangeville village|Incorporated Place|A|Stephenson County
+IL|17|56471|Oreana village|Incorporated Place|A|Macon County
+IL|17|56484|Oregon city|Incorporated Place|A|Ogle County
+IL|17|56536|Orient city|Incorporated Place|A|Franklin County
+IL|17|56601|Orion village|Incorporated Place|A|Henry County
+IL|17|56627|Orland Hills village|Incorporated Place|A|Cook County
+IL|17|56640|Orland Park village|Incorporated Place|A|Cook County, Will County
+IL|17|56887|Oswego village|Incorporated Place|A|Kendall County
+IL|17|56926|Ottawa city|Incorporated Place|A|LaSalle County
+IL|17|56978|Otterville town|Incorporated Place|A|Jersey County
+IL|17|57043|Owaneco village|Incorporated Place|A|Christian County
+IL|17|57160|Paderborn CDP|Census Designated Place|S|St. Clair County
+IL|17|57225|Palatine village|Incorporated Place|A|Cook County, Lake County
+IL|17|57277|Palestine village|Incorporated Place|A|Crawford County
+IL|17|57303|Palmer village|Incorporated Place|A|Christian County
+IL|17|57329|Palmyra village|Incorporated Place|A|Macoupin County
+IL|17|57381|Palos Heights city|Incorporated Place|A|Cook County
+IL|17|57394|Palos Hills city|Incorporated Place|A|Cook County
+IL|17|57407|Palos Park village|Incorporated Place|A|Cook County
+IL|17|57472|Pana city|Incorporated Place|A|Christian County, Shelby County
+IL|17|57498|Panama village|Incorporated Place|A|Bond County, Montgomery County
+IL|17|57524|Panola village|Incorporated Place|A|Woodford County
+IL|17|57576|Papineau village|Incorporated Place|A|Iroquois County
+IL|17|57628|Paris city|Incorporated Place|A|Edgar County
+IL|17|57654|Park City city|Incorporated Place|A|Lake County
+IL|17|57693|Parkersburg village|Incorporated Place|A|Richland County
+IL|17|57732|Park Forest village|Incorporated Place|A|Cook County, Will County
+IL|17|57875|Park Ridge city|Incorporated Place|A|Cook County
+IL|17|58057|Patoka village|Incorporated Place|A|Marion County
+IL|17|58174|Pawnee village|Incorporated Place|A|Sangamon County
+IL|17|58226|Paw Paw village|Incorporated Place|A|Lee County
+IL|17|58239|Paxton city|Incorporated Place|A|Ford County
+IL|17|58265|Payson village|Incorporated Place|A|Adams County
+IL|17|58343|Pearl village|Incorporated Place|A|Pike County
+IL|17|58369|Pearl City village|Incorporated Place|A|Stephenson County
+IL|17|58408|Pecatonica village|Incorporated Place|A|Winnebago County
+IL|17|58447|Pekin city|Incorporated Place|A|Peoria County, Tazewell County
+IL|17|58577|Penfield CDP|Census Designated Place|S|Champaign County
+IL|17|59000|Peoria city|Incorporated Place|A|Peoria County
+IL|17|59026|Peoria Heights village|Incorporated Place|A|Peoria County, Tazewell County, Woodford County
+IL|17|59052|Peotone village|Incorporated Place|A|Will County
+IL|17|59104|Percy village|Incorporated Place|A|Randolph County
+IL|17|59156|Perry village|Incorporated Place|A|Pike County
+IL|17|59234|Peru city|Incorporated Place|A|LaSalle County
+IL|17|59273|Pesotum village|Incorporated Place|A|Champaign County
+IL|17|59312|Petersburg city|Incorporated Place|A|Menard County
+IL|17|59520|Phillipstown village|Incorporated Place|A|White County
+IL|17|59533|Philo village|Incorporated Place|A|Champaign County
+IL|17|59572|Phoenix village|Incorporated Place|A|Cook County
+IL|17|59709|Pierron village|Incorporated Place|A|Bond County, Madison County
+IL|17|59884|Pinckneyville city|Incorporated Place|A|Perry County
+IL|17|59988|Pingree Grove village|Incorporated Place|A|Kane County
+IL|17|60079|Piper City village|Incorporated Place|A|Ford County
+IL|17|60144|Pistakee Highlands CDP|Census Designated Place|S|McHenry County
+IL|17|60209|Pittsburg village|Incorporated Place|A|Williamson County
+IL|17|60222|Pittsfield city|Incorporated Place|A|Pike County
+IL|17|60287|Plainfield village|Incorporated Place|A|Kendall County, Will County
+IL|17|60339|Plainville village|Incorporated Place|A|Adams County
+IL|17|60352|Plano city|Incorporated Place|A|Kendall County
+IL|17|60391|Plattville village|Incorporated Place|A|Kendall County
+IL|17|60534|Pleasant Hill village|Incorporated Place|A|Pike County
+IL|17|60599|Pleasant Plains village|Incorporated Place|A|Sangamon County
+IL|17|60833|Plymouth village|Incorporated Place|A|Hancock County, McDonough County
+IL|17|60872|Pocahontas village|Incorporated Place|A|Bond County
+IL|17|60937|Polo city|Incorporated Place|A|Ogle County
+IL|17|61015|Pontiac city|Incorporated Place|A|Livingston County
+IL|17|61067|Pontoon Beach village|Incorporated Place|A|Madison County
+IL|17|61080|Pontoosuc village|Incorporated Place|A|Hancock County
+IL|17|61145|Poplar Grove village|Incorporated Place|A|Boone County
+IL|17|61216|Port Barrington village|Incorporated Place|A|Lake County, McHenry County
+IL|17|61223|Port Byron village|Incorporated Place|A|Rock Island County
+IL|17|61314|Posen village|Incorporated Place|A|Cook County
+IL|17|61366|Potomac village|Incorporated Place|A|Vermilion County
+IL|17|61548|Prairie City village|Incorporated Place|A|McDonough County
+IL|17|61639|Prairie du Rocher village|Incorporated Place|A|Randolph County
+IL|17|61678|Prairie Grove village|Incorporated Place|A|McHenry County
+IL|17|61821|Prestbury CDP|Census Designated Place|S|Kane County
+IL|17|61860|Preston Heights CDP|Census Designated Place|S|Will County
+IL|17|61899|Princeton city|Incorporated Place|A|Bureau County
+IL|17|61925|Princeville village|Incorporated Place|A|Peoria County
+IL|17|61977|Prophetstown city|Incorporated Place|A|Whiteside County
+IL|17|62016|Prospect Heights city|Incorporated Place|A|Cook County
+IL|17|62211|Pulaski village|Incorporated Place|A|Pulaski County
+IL|17|62367|Quincy city|Incorporated Place|A|Adams County
+IL|17|62523|Radom village|Incorporated Place|A|Washington County
+IL|17|62588|Raleigh village|Incorporated Place|A|Saline County
+IL|17|62627|Ramsey village|Incorporated Place|A|Fayette County
+IL|17|62744|Rankin village|Incorporated Place|A|Vermilion County
+IL|17|62757|Ransom village|Incorporated Place|A|LaSalle County
+IL|17|62783|Rantoul village|Incorporated Place|A|Champaign County
+IL|17|62822|Rapids City village|Incorporated Place|A|Rock Island County
+IL|17|62848|Raritan village|Incorporated Place|A|Henderson County
+IL|17|62965|Raymond village|Incorporated Place|A|Montgomery County
+IL|17|63043|Red Bud city|Incorporated Place|A|Randolph County
+IL|17|63056|Reddick village|Incorporated Place|A|Kankakee County, Livingston County
+IL|17|63069|Redmon village|Incorporated Place|A|Edgar County
+IL|17|63355|Rentchler CDP|Census Designated Place|S|St. Clair County
+IL|17|63420|Reynolds village|Incorporated Place|A|Mercer County, Rock Island County
+IL|17|63641|Richmond village|Incorporated Place|A|McHenry County
+IL|17|63706|Richton Park village|Incorporated Place|A|Cook County
+IL|17|63719|Richview village|Incorporated Place|A|Washington County
+IL|17|63862|Ridge Farm village|Incorporated Place|A|Vermilion County
+IL|17|64018|Ridgway village|Incorporated Place|A|Gallatin County
+IL|17|64044|Ridott village|Incorporated Place|A|Stephenson County
+IL|17|64135|Ringwood village|Incorporated Place|A|McHenry County
+IL|17|64148|Rio village|Incorporated Place|A|Knox County
+IL|17|64174|Ripley village|Incorporated Place|A|Brown County
+IL|17|64278|Riverdale village|Incorporated Place|A|Cook County
+IL|17|64304|River Forest village|Incorporated Place|A|Cook County
+IL|17|64343|River Grove village|Incorporated Place|A|Cook County
+IL|17|64421|Riverside village|Incorporated Place|A|Cook County
+IL|17|64486|Riverton village|Incorporated Place|A|Sangamon County
+IL|17|64538|Riverwoods village|Incorporated Place|A|Lake County
+IL|17|64590|Roanoke village|Incorporated Place|A|Woodford County
+IL|17|64616|Robbins village|Incorporated Place|A|Cook County
+IL|17|64655|Roberts village|Incorporated Place|A|Ford County
+IL|17|64707|Robinson city|Incorporated Place|A|Crawford County
+IL|17|64746|Rochelle city|Incorporated Place|A|Lee County, Ogle County
+IL|17|64759|Rochester village|Incorporated Place|A|Sangamon County
+IL|17|64811|Rockbridge village|Incorporated Place|A|Greene County
+IL|17|64837|Rock City village|Incorporated Place|A|Stephenson County
+IL|17|64902|Rockdale village|Incorporated Place|A|Will County
+IL|17|64928|Rock Falls city|Incorporated Place|A|Whiteside County
+IL|17|65000|Rockford city|Incorporated Place|A|Winnebago County
+IL|17|65078|Rock Island city|Incorporated Place|A|Rock Island County
+IL|17|65104|Rock Island Arsenal CDP|Census Designated Place|S|Rock Island County
+IL|17|65156|Rockton village|Incorporated Place|A|Winnebago County
+IL|17|65221|Rockwood village|Incorporated Place|A|Randolph County
+IL|17|65338|Rolling Meadows city|Incorporated Place|A|Cook County
+IL|17|65403|Rome CDP|Census Designated Place|S|Peoria County
+IL|17|65442|Romeoville village|Incorporated Place|A|Will County
+IL|17|65481|Roodhouse city|Incorporated Place|A|Greene County
+IL|17|65611|Roscoe village|Incorporated Place|A|Winnebago County
+IL|17|65754|Rose Hill village|Incorporated Place|A|Jasper County
+IL|17|65806|Roselle village|Incorporated Place|A|Cook County, DuPage County
+IL|17|65819|Rosemont village|Incorporated Place|A|Cook County
+IL|17|65845|Roseville village|Incorporated Place|A|Warren County
+IL|17|65884|Rosewood Heights CDP|Census Designated Place|S|Madison County
+IL|17|65897|Rosiclare city|Incorporated Place|A|Hardin County
+IL|17|65962|Rossville village|Incorporated Place|A|Vermilion County
+IL|17|66027|Round Lake village|Incorporated Place|A|Lake County
+IL|17|66040|Round Lake Beach village|Incorporated Place|A|Lake County
+IL|17|66053|Round Lake Heights village|Incorporated Place|A|Lake County
+IL|17|66066|Round Lake Park village|Incorporated Place|A|Lake County
+IL|17|66131|Roxana village|Incorporated Place|A|Madison County
+IL|17|66157|Royal village|Incorporated Place|A|Champaign County
+IL|17|66196|Royal Lakes village|Incorporated Place|A|Macoupin County
+IL|17|66209|Royalton village|Incorporated Place|A|Franklin County
+IL|17|66287|Ruma village|Incorporated Place|A|Randolph County
+IL|17|66339|Rushville city|Incorporated Place|A|Schuyler County
+IL|17|66404|Russellville village|Incorporated Place|A|Lawrence County
+IL|17|66443|Rutland village|Incorporated Place|A|LaSalle County
+IL|17|66534|Sadorus village|Incorporated Place|A|Champaign County
+IL|17|66599|Sailor Springs village|Incorporated Place|A|Clay County
+IL|17|66638|St. Anne village|Incorporated Place|A|Kankakee County
+IL|17|66677|St. Augustine village|Incorporated Place|A|Knox County
+IL|17|66703|St. Charles city|Incorporated Place|A|DuPage County, Kane County
+IL|17|66768|St. David village|Incorporated Place|A|Fulton County
+IL|17|66794|St. Elmo city|Incorporated Place|A|Fayette County
+IL|17|66800|Ste. Marie village|Incorporated Place|A|Jasper County
+IL|17|66833|St. Francisville city|Incorporated Place|A|Lawrence County
+IL|17|66859|St. Jacob village|Incorporated Place|A|Madison County
+IL|17|66924|St. Johns village|Incorporated Place|A|Perry County
+IL|17|66950|St. Joseph village|Incorporated Place|A|Champaign County
+IL|17|66989|St. Libory village|Incorporated Place|A|St. Clair County
+IL|17|67132|St. Peter village|Incorporated Place|A|Fayette County
+IL|17|67236|Salem city|Incorporated Place|A|Marion County
+IL|17|67372|Sammons Point village|Incorporated Place|A|Kankakee County
+IL|17|67444|Sandoval village|Incorporated Place|A|Marion County
+IL|17|67548|Sandwich city|Incorporated Place|A|DeKalb County, Kendall County
+IL|17|67613|San Jose village|Incorporated Place|A|Logan County, Mason County
+IL|17|67756|Sauget village|Incorporated Place|A|St. Clair County
+IL|17|67769|Sauk Village village|Incorporated Place|A|Cook County, Will County
+IL|17|67795|Saunemin village|Incorporated Place|A|Livingston County
+IL|17|67821|Savanna city|Incorporated Place|A|Carroll County
+IL|17|67860|Savoy village|Incorporated Place|A|Champaign County
+IL|17|67873|Sawyerville village|Incorporated Place|A|Macoupin County
+IL|17|67912|Saybrook village|Incorporated Place|A|McLean County
+IL|17|67925|Scales Mound village|Incorporated Place|A|Jo Daviess County
+IL|17|68003|Schaumburg village|Incorporated Place|A|Cook County, DuPage County
+IL|17|68081|Schiller Park village|Incorporated Place|A|Cook County
+IL|17|68120|Schram City village|Incorporated Place|A|Montgomery County
+IL|17|68198|Sciota village|Incorporated Place|A|McDonough County
+IL|17|68328|Scott AFB CDP|Census Designated Place|S|St. Clair County
+IL|17|68406|Scottville village|Incorporated Place|A|Macoupin County
+IL|17|68458|Seaton village|Incorporated Place|A|Mercer County
+IL|17|68471|Seatonville village|Incorporated Place|A|Bureau County
+IL|17|68510|Secor village|Incorporated Place|A|Woodford County
+IL|17|68640|Seneca village|Incorporated Place|A|Grundy County, LaSalle County
+IL|17|68705|Sesser city|Incorporated Place|A|Franklin County
+IL|17|68809|Seymour CDP|Census Designated Place|S|Champaign County
+IL|17|68822|Shabbona village|Incorporated Place|A|DeKalb County
+IL|17|68991|Shannon village|Incorporated Place|A|Carroll County
+IL|17|69082|Shawneetown city|Incorporated Place|A|Gallatin County
+IL|17|69147|Sheffield village|Incorporated Place|A|Bureau County
+IL|17|69186|Shelbyville city|Incorporated Place|A|Shelby County
+IL|17|69212|Sheldon village|Incorporated Place|A|Iroquois County
+IL|17|69277|Sheridan village|Incorporated Place|A|LaSalle County
+IL|17|69342|Sherman village|Incorporated Place|A|Sangamon County
+IL|17|69368|Sherrard village|Incorporated Place|A|Mercer County
+IL|17|69524|Shiloh village|Incorporated Place|A|St. Clair County
+IL|17|69563|Shipman town|Incorporated Place|A|Macoupin County
+IL|17|69758|Shorewood village|Incorporated Place|A|Will County
+IL|17|69797|Shumway village|Incorporated Place|A|Effingham County
+IL|17|69810|Sibley village|Incorporated Place|A|Ford County
+IL|17|69836|Sidell village|Incorporated Place|A|Vermilion County
+IL|17|69875|Sidney village|Incorporated Place|A|Champaign County
+IL|17|69914|Sigel town|Incorporated Place|A|Shelby County
+IL|17|69979|Silvis city|Incorporated Place|A|Rock Island County
+IL|17|70005|Simpson village|Incorporated Place|A|Johnson County
+IL|17|70031|Sims village|Incorporated Place|A|Wayne County
+IL|17|70122|Skokie village|Incorporated Place|A|Cook County
+IL|17|70161|Sleepy Hollow village|Incorporated Place|A|Kane County
+IL|17|70213|Smithboro village|Incorporated Place|A|Bond County
+IL|17|70226|Smithfield village|Incorporated Place|A|Fulton County
+IL|17|70252|Smithton village|Incorporated Place|A|St. Clair County
+IL|17|70460|Somonauk village|Incorporated Place|A|DeKalb County, LaSalle County
+IL|17|70525|Sorento village|Incorporated Place|A|Bond County
+IL|17|70564|South Barrington village|Incorporated Place|A|Cook County
+IL|17|70590|South Beloit city|Incorporated Place|A|Winnebago County
+IL|17|70629|South Chicago Heights village|Incorporated Place|A|Cook County
+IL|17|70720|South Elgin village|Incorporated Place|A|Kane County
+IL|17|70759|Southern View village|Incorporated Place|A|Sangamon County
+IL|17|70850|South Holland village|Incorporated Place|A|Cook County
+IL|17|70889|South Jacksonville village|Incorporated Place|A|Morgan County
+IL|17|71175|South Pekin village|Incorporated Place|A|Tazewell County
+IL|17|71240|South Roxana village|Incorporated Place|A|Madison County
+IL|17|71370|South Wilmington village|Incorporated Place|A|Grundy County
+IL|17|71422|Sparland village|Incorporated Place|A|Marshall County
+IL|17|71448|Sparta city|Incorporated Place|A|Randolph County
+IL|17|71474|Spaulding village|Incorporated Place|A|Sangamon County
+IL|17|71526|Spillertown village|Incorporated Place|A|Williamson County
+IL|17|71604|Spring Bay village|Incorporated Place|A|Woodford County
+IL|17|71643|Springerton village|Incorporated Place|A|White County
+IL|17|72000|Springfield city|Incorporated Place|A|Sangamon County
+IL|17|72052|Spring Grove village|Incorporated Place|A|McHenry County
+IL|17|72156|Spring Valley city|Incorporated Place|A|Bureau County
+IL|17|72221|Standard village|Incorporated Place|A|Putnam County
+IL|17|72234|Standard City village|Incorporated Place|A|Macoupin County
+IL|17|72260|Stanford village|Incorporated Place|A|McLean County
+IL|17|72403|Staunton city|Incorporated Place|A|Macoupin County
+IL|17|72468|Steeleville village|Incorporated Place|A|Randolph County
+IL|17|72520|Steger village|Incorporated Place|A|Cook County, Will County
+IL|17|72546|Sterling city|Incorporated Place|A|Whiteside County
+IL|17|72624|Steward village|Incorporated Place|A|Lee County
+IL|17|72650|Stewardson village|Incorporated Place|A|Shelby County
+IL|17|72676|Stickney village|Incorporated Place|A|Cook County
+IL|17|72702|Stillman Valley village|Incorporated Place|A|Ogle County
+IL|17|72780|Stockton village|Incorporated Place|A|Jo Daviess County
+IL|17|72884|Stonefort village|Incorporated Place|A|Saline County, Williamson County
+IL|17|72923|Stone Park village|Incorporated Place|A|Cook County
+IL|17|72949|Stonington village|Incorporated Place|A|Christian County
+IL|17|73027|Stoy village|Incorporated Place|A|Crawford County
+IL|17|73040|Strasburg village|Incorporated Place|A|Shelby County
+IL|17|73131|Strawn village|Incorporated Place|A|Livingston County
+IL|17|73157|Streamwood village|Incorporated Place|A|Cook County
+IL|17|73170|Streator city|Incorporated Place|A|LaSalle County, Livingston County
+IL|17|73261|Stronghurst village|Incorporated Place|A|Henderson County
+IL|17|73287|Sublette village|Incorporated Place|A|Lee County
+IL|17|73391|Sugar Grove village|Incorporated Place|A|Kane County
+IL|17|73495|Sullivan city|Incorporated Place|A|Moultrie County
+IL|17|73547|Summerfield village|Incorporated Place|A|St. Clair County
+IL|17|73638|Summit village|Incorporated Place|A|Cook County
+IL|17|73703|Sumner city|Incorporated Place|A|Lawrence County
+IL|17|73943|Sun River Terrace village|Incorporated Place|A|Kankakee County
+IL|17|74119|Swansea village|Incorporated Place|A|St. Clair County
+IL|17|74223|Sycamore city|Incorporated Place|A|DeKalb County
+IL|17|74275|Symerton village|Incorporated Place|A|Will County
+IL|17|74301|Table Grove village|Incorporated Place|A|Fulton County
+IL|17|74379|Tallula village|Incorporated Place|A|Menard County
+IL|17|74444|Tamaroa village|Incorporated Place|A|Perry County
+IL|17|74457|Tamms village|Incorporated Place|A|Alexander County
+IL|17|74470|Tampico village|Incorporated Place|A|Whiteside County
+IL|17|74561|Taylor Springs village|Incorporated Place|A|Montgomery County
+IL|17|74574|Taylorville city|Incorporated Place|A|Christian County
+IL|17|74665|Tennessee village|Incorporated Place|A|McDonough County
+IL|17|74743|Teutopolis village|Incorporated Place|A|Effingham County
+IL|17|74847|Thawville village|Incorporated Place|A|Iroquois County
+IL|17|74860|Thayer village|Incorporated Place|A|Sangamon County
+IL|17|74873|Thebes village|Incorporated Place|A|Alexander County
+IL|17|74970|The Galena Territory CDP|Census Designated Place|S|Jo Daviess County
+IL|17|75081|Third Lake village|Incorporated Place|A|Lake County
+IL|17|75107|Thomasboro village|Incorporated Place|A|Champaign County
+IL|17|75159|Thompsonville village|Incorporated Place|A|Franklin County
+IL|17|75172|Thomson village|Incorporated Place|A|Carroll County
+IL|17|75185|Thornton village|Incorporated Place|A|Cook County
+IL|17|75263|Tilden village|Incorporated Place|A|Randolph County
+IL|17|75276|Tilton village|Incorporated Place|A|Vermilion County
+IL|17|75360|Timberlane village|Incorporated Place|A|Boone County
+IL|17|75419|Time village|Incorporated Place|A|Pike County
+IL|17|75484|Tinley Park village|Incorporated Place|A|Cook County, Will County
+IL|17|75549|Tiskilwa village|Incorporated Place|A|Bureau County
+IL|17|75601|Toledo village|Incorporated Place|A|Cumberland County
+IL|17|75614|Tolono village|Incorporated Place|A|Champaign County
+IL|17|75653|Toluca city|Incorporated Place|A|Marshall County
+IL|17|75718|Tonica village|Incorporated Place|A|LaSalle County
+IL|17|75757|Topeka village|Incorporated Place|A|Mason County
+IL|17|75783|Toulon city|Incorporated Place|A|Stark County
+IL|17|75809|Tovey village|Incorporated Place|A|Christian County
+IL|17|75822|Towanda village|Incorporated Place|A|McLean County
+IL|17|75848|Tower Hill village|Incorporated Place|A|Shelby County
+IL|17|75874|Tower Lakes village|Incorporated Place|A|Lake County
+IL|17|75965|Tremont village|Incorporated Place|A|Tazewell County
+IL|17|75991|Trenton city|Incorporated Place|A|Clinton County
+IL|17|76160|Trout Valley village|Incorporated Place|A|McHenry County
+IL|17|76199|Troy city|Incorporated Place|A|Madison County
+IL|17|76225|Troy Grove village|Incorporated Place|A|LaSalle County
+IL|17|76407|Tuscola city|Incorporated Place|A|Douglas County
+IL|17|76511|Twin Grove CDP|Census Designated Place|S|McLean County
+IL|17|76615|Ullin village|Incorporated Place|A|Pulaski County
+IL|17|76706|Union village|Incorporated Place|A|McHenry County
+IL|17|76771|Union Hill village|Incorporated Place|A|Kankakee County
+IL|17|76935|University Park village|Incorporated Place|A|Cook County, Will County
+IL|17|77005|Urbana city|Incorporated Place|A|Champaign County
+IL|17|77044|Ursa village|Incorporated Place|A|Adams County
+IL|17|77148|Valier village|Incorporated Place|A|Franklin County
+IL|17|77187|Valley City village|Incorporated Place|A|Pike County
+IL|17|77265|Valmeyer village|Incorporated Place|A|Monroe County
+IL|17|77317|Vandalia city|Incorporated Place|A|Fayette County
+IL|17|77395|Varna village|Incorporated Place|A|Marshall County
+IL|17|77408|Venedy village|Incorporated Place|A|Washington County
+IL|17|77460|Venetian Village CDP|Census Designated Place|S|Lake County
+IL|17|77473|Venice city|Incorporated Place|A|Madison County
+IL|17|77525|Vergennes village|Incorporated Place|A|Jackson County
+IL|17|77551|Vermilion village|Incorporated Place|A|Edgar County
+IL|17|77642|Vermont village|Incorporated Place|A|Fulton County
+IL|17|77681|Vernon village|Incorporated Place|A|Marion County
+IL|17|77694|Vernon Hills village|Incorporated Place|A|Lake County
+IL|17|77707|Verona village|Incorporated Place|A|Grundy County
+IL|17|77720|Versailles village|Incorporated Place|A|Brown County
+IL|17|77811|Victoria village|Incorporated Place|A|Knox County
+IL|17|77863|Vienna city|Incorporated Place|A|Johnson County
+IL|17|77941|Villa Grove city|Incorporated Place|A|Douglas County
+IL|17|77993|Villa Park village|Incorporated Place|A|DuPage County
+IL|17|78123|Viola village|Incorporated Place|A|Mercer County
+IL|17|78149|Virden city|Incorporated Place|A|Macoupin County, Sangamon County
+IL|17|78175|Virgil village|Incorporated Place|A|Kane County
+IL|17|78201|Virginia city|Incorporated Place|A|Cass County
+IL|17|78227|Volo village|Incorporated Place|A|Lake County
+IL|17|78370|Wadsworth village|Incorporated Place|A|Lake County
+IL|17|78383|Waggoner village|Incorporated Place|A|Montgomery County
+IL|17|78526|Walnut village|Incorporated Place|A|Bureau County
+IL|17|78604|Walnut Hill village|Incorporated Place|A|Marion County
+IL|17|78656|Walshville village|Incorporated Place|A|Montgomery County
+IL|17|78708|Waltonville village|Incorporated Place|A|Jefferson County
+IL|17|78721|Wamac city|Incorporated Place|A|Clinton County, Marion County, Washington County
+IL|17|78773|Wapella village|Incorporated Place|A|De Witt County
+IL|17|78851|Warren village|Incorporated Place|A|Jo Daviess County
+IL|17|78916|Warrensburg village|Incorporated Place|A|Macon County
+IL|17|78929|Warrenville city|Incorporated Place|A|DuPage County
+IL|17|78942|Warsaw city|Incorporated Place|A|Hancock County
+IL|17|79007|Washburn village|Incorporated Place|A|Marshall County, Woodford County
+IL|17|79033|Washington city|Incorporated Place|A|Tazewell County
+IL|17|79085|Washington Park village|Incorporated Place|A|St. Clair County
+IL|17|79124|Wataga village|Incorporated Place|A|Knox County
+IL|17|79150|Waterloo city|Incorporated Place|A|Monroe County
+IL|17|79163|Waterman village|Incorporated Place|A|DeKalb County
+IL|17|79228|Watseka city|Incorporated Place|A|Iroquois County
+IL|17|79241|Watson village|Incorporated Place|A|Effingham County
+IL|17|79267|Wauconda village|Incorporated Place|A|Lake County
+IL|17|79293|Waukegan city|Incorporated Place|A|Lake County
+IL|17|79358|Waverly city|Incorporated Place|A|Morgan County
+IL|17|79397|Wayne village|Incorporated Place|A|DuPage County, Kane County
+IL|17|79436|Wayne City village|Incorporated Place|A|Wayne County
+IL|17|79449|Waynesville village|Incorporated Place|A|De Witt County
+IL|17|79683|Weldon village|Incorporated Place|A|De Witt County
+IL|17|79735|Wellington village|Incorporated Place|A|Iroquois County
+IL|17|79813|Wenona city|Incorporated Place|A|LaSalle County, Marshall County
+IL|17|79826|Wenonah village|Incorporated Place|A|Montgomery County
+IL|17|80008|West Brooklyn village|Incorporated Place|A|Lee County
+IL|17|80047|Westchester village|Incorporated Place|A|Cook County
+IL|17|80060|West Chicago city|Incorporated Place|A|DuPage County
+IL|17|80073|West City village|Incorporated Place|A|Franklin County
+IL|17|80125|West Dundee village|Incorporated Place|A|Kane County
+IL|17|80242|Western Springs village|Incorporated Place|A|Cook County
+IL|17|80255|Westervelt CDP|Census Designated Place|S|Shelby County
+IL|17|80281|Westfield village|Incorporated Place|A|Clark County
+IL|17|80333|West Frankfort city|Incorporated Place|A|Franklin County
+IL|17|80645|Westmont village|Incorporated Place|A|DuPage County
+IL|17|80736|West Peoria city|Incorporated Place|A|Peoria County
+IL|17|80762|West Point village|Incorporated Place|A|Hancock County
+IL|17|80853|West Salem village|Incorporated Place|A|Edwards County
+IL|17|80879|West Union CDP|Census Designated Place|S|Clark County
+IL|17|80931|Westville village|Incorporated Place|A|Vermilion County
+IL|17|80957|West York CDP|Census Designated Place|S|Crawford County
+IL|17|81048|Wheaton city|Incorporated Place|A|DuPage County
+IL|17|81074|Wheeler village|Incorporated Place|A|Jasper County
+IL|17|81087|Wheeling village|Incorporated Place|A|Cook County, Lake County
+IL|17|81165|Whiteash village|Incorporated Place|A|Williamson County
+IL|17|81191|White City village|Incorporated Place|A|Macoupin County
+IL|17|81256|White Hall city|Incorporated Place|A|Greene County
+IL|17|81295|White Heath CDP|Census Designated Place|S|Piatt County
+IL|17|81802|Williamsfield village|Incorporated Place|A|Knox County
+IL|17|81815|Williamson village|Incorporated Place|A|Madison County
+IL|17|81854|Williamsville village|Incorporated Place|A|Sangamon County
+IL|17|81867|Willisville village|Incorporated Place|A|Perry County
+IL|17|81919|Willowbrook village|Incorporated Place|A|DuPage County
+IL|17|81938|Willowbrook CDP|Census Designated Place|S|Will County
+IL|17|82010|Willow Hill village|Incorporated Place|A|Jasper County
+IL|17|82049|Willow Springs village|Incorporated Place|A|Cook County, DuPage County
+IL|17|82075|Wilmette village|Incorporated Place|A|Cook County
+IL|17|82088|Wilmington village|Incorporated Place|A|Greene County
+IL|17|82101|Wilmington city|Incorporated Place|A|Will County
+IL|17|82218|Wilsonville village|Incorporated Place|A|Macoupin County
+IL|17|82270|Winchester city|Incorporated Place|A|Scott County
+IL|17|82309|Windsor village|Incorporated Place|A|Mercer County
+IL|17|82322|Windsor city|Incorporated Place|A|Shelby County
+IL|17|82400|Winfield village|Incorporated Place|A|DuPage County
+IL|17|82491|Winnebago village|Incorporated Place|A|Winnebago County
+IL|17|82530|Winnetka village|Incorporated Place|A|Cook County
+IL|17|82543|Winslow village|Incorporated Place|A|Stephenson County
+IL|17|82686|Winthrop Harbor village|Incorporated Place|A|Lake County
+IL|17|82725|Witt city|Incorporated Place|A|Montgomery County
+IL|17|82855|Wonder Lake village|Incorporated Place|A|McHenry County
+IL|17|82985|Wood Dale city|Incorporated Place|A|DuPage County
+IL|17|83063|Woodhull village|Incorporated Place|A|Henry County
+IL|17|83102|Woodland village|Incorporated Place|A|Iroquois County
+IL|17|83206|Woodlawn village|Incorporated Place|A|Jefferson County
+IL|17|83245|Woodridge village|Incorporated Place|A|Cook County, DuPage County, Will County
+IL|17|83271|Wood River city|Incorporated Place|A|Madison County
+IL|17|83336|Woodson village|Incorporated Place|A|Morgan County
+IL|17|83349|Woodstock city|Incorporated Place|A|McHenry County
+IL|17|83505|Worden village|Incorporated Place|A|Madison County
+IL|17|83518|Worth village|Incorporated Place|A|Cook County
+IL|17|83622|Wyanet village|Incorporated Place|A|Bureau County
+IL|17|83687|Wyoming city|Incorporated Place|A|Stark County
+IL|17|83739|Xenia village|Incorporated Place|A|Clay County
+IL|17|83765|Yale village|Incorporated Place|A|Jasper County
+IL|17|83817|Yates City village|Incorporated Place|A|Knox County
+IL|17|84038|Yorkville city|Incorporated Place|A|Kendall County
+IL|17|84155|Zeigler city|Incorporated Place|A|Franklin County
+IL|17|84220|Zion city|Incorporated Place|A|Lake County

@@ -1,0 +1,443 @@
+NM|35|00240|Abeytas CDP|Census Designated Place|S|Socorro County
+NM|35|00310|Abiquiu CDP|Census Designated Place|S|Rio Arriba County
+NM|35|00765|Acomita Lake CDP|Census Designated Place|S|Cibola County
+NM|35|00940|Adelino CDP|Census Designated Place|S|Valencia County
+NM|35|01220|Agua Fria CDP|Census Designated Place|S|Santa Fe County
+NM|35|01640|Alamillo CDP|Census Designated Place|S|Socorro County
+NM|35|01710|Alamo CDP|Census Designated Place|S|Socorro County
+NM|35|01780|Alamogordo city|Incorporated Place|A|Otero County
+NM|35|02000|Albuquerque city|Incorporated Place|A|Bernalillo County
+NM|35|02070|Alcalde CDP|Census Designated Place|S|Rio Arriba County
+NM|35|02210|Algodones CDP|Census Designated Place|S|Sandoval County
+NM|35|03400|Angel Fire village|Incorporated Place|A|Colfax County
+NM|35|03750|Animas CDP|Census Designated Place|S|Hidalgo County
+NM|35|03820|Anthony CDP|Census Designated Place|S|Doña Ana County
+NM|35|03890|Anton Chico CDP|Census Designated Place|S|Guadalupe County
+NM|35|03970|Anzac Village CDP|Census Designated Place|S|Cibola County
+NM|35|04030|Apache Creek CDP|Census Designated Place|S|Catron County
+NM|35|04450|Aragon CDP|Census Designated Place|S|Catron County
+NM|35|04660|Arenas Valley CDP|Census Designated Place|S|Grant County
+NM|35|04870|Arrey CDP|Census Designated Place|S|Sierra County
+NM|35|05010|Arroyo Hondo CDP|Census Designated Place|S|Taos County
+NM|35|05150|Arroyo Seco CDP|Census Designated Place|S|Taos County
+NM|35|05220|Artesia city|Incorporated Place|A|Eddy County
+NM|35|05430|Atoka CDP|Census Designated Place|S|Eddy County
+NM|35|05780|Aztec city|Incorporated Place|A|San Juan County
+NM|35|06270|Bayard city|Incorporated Place|A|Grant County
+NM|35|06425|Beclabito CDP|Census Designated Place|S|San Juan County
+NM|35|06480|Belen city|Incorporated Place|A|Valencia County
+NM|35|06760|Bent CDP|Census Designated Place|S|Otero County
+NM|35|06830|Berino CDP|Census Designated Place|S|Doña Ana County
+NM|35|06970|Bernalillo town|Incorporated Place|A|Sandoval County
+NM|35|07145|Bibo CDP|Census Designated Place|S|Cibola County
+NM|35|07670|Black Rock CDP|Census Designated Place|S|McKinley County
+NM|35|07810|Blanco CDP|Census Designated Place|S|San Juan County
+NM|35|07880|Bloomfield city|Incorporated Place|A|San Juan County
+NM|35|08185|Bluewater Acres CDP|Census Designated Place|S|Cibola County
+NM|35|08190|Bluewater Village CDP|Census Designated Place|S|Cibola County
+NM|35|08440|Boles Acres CDP|Census Designated Place|S|Otero County
+NM|35|08580|Bosque Farms village|Incorporated Place|A|Valencia County
+NM|35|08860|Brazos CDP|Census Designated Place|S|Rio Arriba County
+NM|35|09035|Brimhall Nizhoni CDP|Census Designated Place|S|McKinley County
+NM|35|09630|Buckhorn CDP|Census Designated Place|S|Grant County
+NM|35|10050|Caballo CDP|Census Designated Place|S|Sierra County
+NM|35|10470|Cañada de los Alamos CDP|Census Designated Place|S|Santa Fe County
+NM|35|10610|Canjilon CDP|Census Designated Place|S|Rio Arriba County
+NM|35|10750|Cannon AFB CDP|Census Designated Place|S|Curry County
+NM|35|10770|Cañon CDP|Census Designated Place|S|Sandoval County
+NM|35|11310|Cañones CDP|Census Designated Place|S|Rio Arriba County
+NM|35|11520|Canova CDP|Census Designated Place|S|Rio Arriba County
+NM|35|11800|Capitan village|Incorporated Place|A|Lincoln County
+NM|35|12008|Gallina CDP|Census Designated Place|S|Rio Arriba County
+NM|35|12010|Capulin CDP|Census Designated Place|S|Union County
+NM|35|12150|Carlsbad city|Incorporated Place|A|Eddy County
+NM|35|12430|Carnuel CDP|Census Designated Place|S|Bernalillo County
+NM|35|12500|Carrizozo town|Incorporated Place|A|Lincoln County
+NM|35|12786|Casa Colorada CDP|Census Designated Place|S|Valencia County
+NM|35|12850|Causey village|Incorporated Place|A|Roosevelt County
+NM|35|13200|Cedar Crest CDP|Census Designated Place|S|Bernalillo County
+NM|35|13270|Cedar Grove CDP|Census Designated Place|S|Santa Fe County
+NM|35|13340|Cedar Hill CDP|Census Designated Place|S|San Juan County
+NM|35|13450|Cedro CDP|Census Designated Place|S|Bernalillo County
+NM|35|13970|Chama village|Incorporated Place|A|Rio Arriba County
+NM|35|14040|Chamberino CDP|Census Designated Place|S|Doña Ana County
+NM|35|14110|Chamisal CDP|Census Designated Place|S|Taos County
+NM|35|14180|Chamita CDP|Census Designated Place|S|Rio Arriba County
+NM|35|14200|Chamizal CDP|Census Designated Place|S|Socorro County
+NM|35|14250|Chaparral CDP|Census Designated Place|S|Doña Ana County, Otero County
+NM|35|14670|Chical CDP|Census Designated Place|S|Valencia County
+NM|35|14810|Chili CDP|Census Designated Place|S|Rio Arriba County
+NM|35|14880|Chilili CDP|Census Designated Place|S|Bernalillo County
+NM|35|14950|Chimayo CDP|Census Designated Place|S|Rio Arriba County, Santa Fe County
+NM|35|15300|Chupadero CDP|Census Designated Place|S|Santa Fe County
+NM|35|15370|Church Rock CDP|Census Designated Place|S|McKinley County
+NM|35|15440|Cimarron village|Incorporated Place|A|Colfax County
+NM|35|15560|City of the Sun CDP|Census Designated Place|S|Luna County
+NM|35|15720|Clayton town|Incorporated Place|A|Union County
+NM|35|15860|Cliff CDP|Census Designated Place|S|Grant County
+NM|35|16280|Cloudcroft village|Incorporated Place|A|Otero County
+NM|35|16420|Clovis city|Incorporated Place|A|Curry County
+NM|35|16490|Cobre CDP|Census Designated Place|S|Grant County
+NM|35|16560|Cochiti CDP|Census Designated Place|S|Sandoval County
+NM|35|16585|Cochiti Lake CDP|Census Designated Place|S|Sandoval County
+NM|35|17050|Columbus village|Incorporated Place|A|Luna County
+NM|35|17260|Conchas Dam CDP|Census Designated Place|S|San Miguel County
+NM|35|17610|Cordova CDP|Census Designated Place|S|Rio Arriba County
+NM|35|17680|Corona village|Incorporated Place|A|Lincoln County
+NM|35|17960|Corrales village|Incorporated Place|A|Sandoval County
+NM|35|18240|Costilla CDP|Census Designated Place|S|Taos County
+NM|35|18310|Cotton City CDP|Census Designated Place|S|Hidalgo County
+NM|35|18660|Coyote CDP|Census Designated Place|S|Rio Arriba County
+NM|35|18940|Crownpoint CDP|Census Designated Place|S|McKinley County
+NM|35|19010|Cruzville CDP|Census Designated Place|S|Catron County
+NM|35|19080|Crystal CDP|Census Designated Place|S|McKinley County, San Juan County
+NM|35|19110|Cuartelez CDP|Census Designated Place|S|Santa Fe County
+NM|35|19150|Cuba village|Incorporated Place|A|Sandoval County
+NM|35|19220|Cubero CDP|Census Designated Place|S|Cibola County
+NM|35|19500|Cundiyo CDP|Census Designated Place|S|Santa Fe County
+NM|35|19640|Cuyamungue CDP|Census Designated Place|S|Santa Fe County
+NM|35|19645|Cuyamungue Grant CDP|Census Designated Place|S|Santa Fe County
+NM|35|19920|Datil CDP|Census Designated Place|S|Catron County
+NM|35|20270|Deming city|Incorporated Place|A|Luna County
+NM|35|20480|Des Moines village|Incorporated Place|A|Union County
+NM|35|20620|Dexter town|Incorporated Place|A|Chaves County
+NM|35|20830|Dixon CDP|Census Designated Place|S|Rio Arriba County
+NM|35|21110|Doña Ana CDP|Census Designated Place|S|Doña Ana County
+NM|35|21180|Dora village|Incorporated Place|A|Roosevelt County
+NM|35|21390|Dulce CDP|Census Designated Place|S|Rio Arriba County
+NM|35|21810|Duran CDP|Census Designated Place|S|Torrance County
+NM|35|22020|Eagle Nest village|Incorporated Place|A|Colfax County
+NM|35|22230|East Pecos CDP|Census Designated Place|S|San Miguel County
+NM|35|22380|Edgewood town|Incorporated Place|A|Bernalillo County, Sandoval County, Santa Fe County
+NM|35|22390|Edith Endave CDP|Census Designated Place|S|Bernalillo County
+NM|35|22580|El Cerro CDP|Census Designated Place|S|Valencia County
+NM|35|22582|El Cerro Mission CDP|Census Designated Place|S|Valencia County
+NM|35|22625|Eldorado at Santa Fe CDP|Census Designated Place|S|Santa Fe County
+NM|35|22650|El Duende CDP|Census Designated Place|S|Rio Arriba County
+NM|35|22720|Elephant Butte city|Incorporated Place|A|Sierra County
+NM|35|23000|Elida town|Incorporated Place|A|Roosevelt County
+NM|35|23840|El Rancho CDP|Census Designated Place|S|Santa Fe County
+NM|35|24120|El Rito CDP|Census Designated Place|S|Rio Arriba County
+NM|35|24347|El Valle de Arroyo Seco CDP|Census Designated Place|S|Santa Fe County
+NM|35|24540|Encinal CDP|Census Designated Place|S|Cibola County
+NM|35|24610|Encino village|Incorporated Place|A|Torrance County
+NM|35|24960|Ensenada CDP|Census Designated Place|S|Rio Arriba County
+NM|35|25100|Escondida CDP|Census Designated Place|S|Socorro County
+NM|35|25135|Escudilla Bonita CDP|Census Designated Place|S|Catron County
+NM|35|25170|Espanola city|Incorporated Place|A|Rio Arriba County, Santa Fe County
+NM|35|25380|Estancia town|Incorporated Place|A|Torrance County
+NM|35|25450|Eunice city|Incorporated Place|A|Lea County
+NM|35|25590|Fairacres CDP|Census Designated Place|S|Doña Ana County
+NM|35|25800|Farmington city|Incorporated Place|A|San Juan County
+NM|35|25870|Faywood CDP|Census Designated Place|S|Grant County
+NM|35|26010|Fence Lake CDP|Census Designated Place|S|Cibola County
+NM|35|26360|Flora Vista CDP|Census Designated Place|S|San Juan County
+NM|35|26570|Floyd village|Incorporated Place|A|Roosevelt County
+NM|35|26780|Folsom village|Incorporated Place|A|Union County
+NM|35|27340|Fort Sumner village|Incorporated Place|A|De Baca County
+NM|35|27970|Galisteo CDP|Census Designated Place|S|Santa Fe County
+NM|35|28460|Gallup city|Incorporated Place|A|McKinley County
+NM|35|28670|Garfield CDP|Census Designated Place|S|Doña Ana County
+NM|35|29160|Gila CDP|Census Designated Place|S|Grant County
+NM|35|29540|Glen Acres CDP|Census Designated Place|S|Hidalgo County
+NM|35|29790|Glenwood CDP|Census Designated Place|S|Catron County
+NM|35|29860|Glorieta CDP|Census Designated Place|S|Santa Fe County
+NM|35|30000|Golden CDP|Census Designated Place|S|Santa Fe County
+NM|35|30210|Grady village|Incorporated Place|A|Curry County
+NM|35|30490|Grants city|Incorporated Place|A|Cibola County
+NM|35|30770|Grenville village|Incorporated Place|A|Union County
+NM|35|31190|Hachita CDP|Census Designated Place|S|Grant County
+NM|35|31330|Hagerman town|Incorporated Place|A|Chaves County
+NM|35|31540|Hanover CDP|Census Designated Place|S|Grant County
+NM|35|31680|Happy Valley CDP|Census Designated Place|S|Eddy County
+NM|35|31820|Hatch village|Incorporated Place|A|Doña Ana County
+NM|35|32100|Hernandez CDP|Census Designated Place|S|Rio Arriba County
+NM|35|32148|Highland Meadows CDP|Census Designated Place|S|Valencia County
+NM|35|32160|High Rolls CDP|Census Designated Place|S|Otero County
+NM|35|32380|Hillsboro CDP|Census Designated Place|S|Sierra County
+NM|35|32520|Hobbs city|Incorporated Place|A|Lea County
+NM|35|32940|Holloman AFB CDP|Census Designated Place|S|Otero County
+NM|35|33130|Homestead CDP|Census Designated Place|S|Catron County
+NM|35|33290|Hope village|Incorporated Place|A|Eddy County
+NM|35|33640|Hot Springs Landing CDP|Census Designated Place|S|Sierra County
+NM|35|33710|House village|Incorporated Place|A|Quay County
+NM|35|33850|Hurley town|Incorporated Place|A|Grant County
+NM|35|34430|Indian Hills CDP|Census Designated Place|S|Torrance County
+NM|35|34760|Isleta Village Proper CDP|Census Designated Place|S|Bernalillo County
+NM|35|34900|Jacona CDP|Census Designated Place|S|Santa Fe County
+NM|35|34925|Jaconita CDP|Census Designated Place|S|Santa Fe County
+NM|35|35040|Jal city|Incorporated Place|A|Lea County
+NM|35|35110|Jarales CDP|Census Designated Place|S|Valencia County
+NM|35|35250|Jemez Pueblo CDP|Census Designated Place|S|Sandoval County
+NM|35|35320|Jemez Springs village|Incorporated Place|A|Sandoval County
+NM|35|35595|Keeler Farm CDP|Census Designated Place|S|Luna County
+NM|35|36090|Kingston CDP|Census Designated Place|S|Sierra County
+NM|35|36230|Kirtland CDP|Census Designated Place|S|San Juan County
+NM|35|36720|La Cienega CDP|Census Designated Place|S|Santa Fe County
+NM|35|36880|La Cueva CDP|Census Designated Place|S|Sandoval County
+NM|35|37070|Laguna CDP|Census Designated Place|S|Cibola County
+NM|35|37407|La Hacienda CDP|Census Designated Place|S|Luna County
+NM|35|37420|La Huerta CDP|Census Designated Place|S|Eddy County
+NM|35|37490|La Jara CDP|Census Designated Place|S|Sandoval County
+NM|35|37700|La Joya CDP|Census Designated Place|S|Socorro County
+NM|35|37840|Lake Arthur town|Incorporated Place|A|Chaves County
+NM|35|37860|Lake Roberts CDP|Census Designated Place|S|Grant County
+NM|35|37862|Lake Roberts Heights CDP|Census Designated Place|S|Grant County
+NM|35|37875|Lake Sumner CDP|Census Designated Place|S|De Baca County
+NM|35|37910|Lake Valley CDP|Census Designated Place|S|San Juan County
+NM|35|38330|La Luz CDP|Census Designated Place|S|Otero County
+NM|35|38470|La Madera CDP|Census Designated Place|S|Rio Arriba County
+NM|35|38680|La Mesa CDP|Census Designated Place|S|Doña Ana County
+NM|35|38820|La Mesilla CDP|Census Designated Place|S|Rio Arriba County
+NM|35|38890|Lamy CDP|Census Designated Place|S|Santa Fe County
+NM|35|39030|La Plata CDP|Census Designated Place|S|San Juan County
+NM|35|39170|La Puebla CDP|Census Designated Place|S|Santa Fe County
+NM|35|39380|Las Cruces city|Incorporated Place|A|Doña Ana County
+NM|35|39430|Las Maravillas CDP|Census Designated Place|S|Valencia County
+NM|35|39450|Las Nutrias CDP|Census Designated Place|S|Socorro County
+NM|35|39520|Las Palomas CDP|Census Designated Place|S|Sierra County
+NM|35|39940|Las Vegas city|Incorporated Place|A|San Miguel County
+NM|35|40220|La Union CDP|Census Designated Place|S|Doña Ana County
+NM|35|40360|La Villita CDP|Census Designated Place|S|Rio Arriba County
+NM|35|40525|Lee Acres CDP|Census Designated Place|S|San Juan County
+NM|35|40570|Lemitar CDP|Census Designated Place|S|Socorro County
+NM|35|41420|Livingston Wheeler CDP|Census Designated Place|S|Eddy County
+NM|35|41620|Llano del Medio CDP|Census Designated Place|S|Guadalupe County
+NM|35|41970|Loco Hills CDP|Census Designated Place|S|Eddy County
+NM|35|42040|Logan village|Incorporated Place|A|Quay County
+NM|35|42180|Lordsburg city|Incorporated Place|A|Hidalgo County
+NM|35|42320|Los Alamos CDP|Census Designated Place|S|Los Alamos County
+NM|35|42600|Los Cerrillos CDP|Census Designated Place|S|Santa Fe County
+NM|35|42740|Los Chaves CDP|Census Designated Place|S|Valencia County
+NM|35|43300|Los Luceros CDP|Census Designated Place|S|Rio Arriba County
+NM|35|43370|Los Lunas village|Incorporated Place|A|Valencia County
+NM|35|43510|Los Ojos CDP|Census Designated Place|S|Rio Arriba County
+NM|35|43930|Los Ranchos de Albuquerque village|Incorporated Place|A|Bernalillo County
+NM|35|44420|Loving village|Incorporated Place|A|Eddy County
+NM|35|44490|Lovington city|Incorporated Place|A|Lea County
+NM|35|44595|Lower Frisco CDP|Census Designated Place|S|Catron County
+NM|35|45190|Luis Lopez CDP|Census Designated Place|S|Socorro County
+NM|35|45260|Lumberton CDP|Census Designated Place|S|Rio Arriba County
+NM|35|45330|Luna CDP|Census Designated Place|S|Catron County
+NM|35|45400|Lyden CDP|Census Designated Place|S|Rio Arriba County
+NM|35|45690|McCartys Village CDP|Census Designated Place|S|Cibola County
+NM|35|46030|McIntosh CDP|Census Designated Place|S|Torrance County
+NM|35|46100|Madrid CDP|Census Designated Place|S|Santa Fe County
+NM|35|46170|Madrone CDP|Census Designated Place|S|Valencia County
+NM|35|46310|Magdalena village|Incorporated Place|A|Socorro County
+NM|35|46380|Malaga CDP|Census Designated Place|S|Eddy County
+NM|35|46730|Manzano CDP|Census Designated Place|S|Torrance County
+NM|35|46770|Manzano Springs CDP|Census Designated Place|S|Bernalillo County, Torrance County
+NM|35|47080|Maxwell village|Incorporated Place|A|Colfax County
+NM|35|47150|Mayhill CDP|Census Designated Place|S|Otero County
+NM|35|47220|Meadow Lake CDP|Census Designated Place|S|Valencia County
+NM|35|47570|Melrose village|Incorporated Place|A|Curry County
+NM|35|47920|Mescalero CDP|Census Designated Place|S|Otero County
+NM|35|48060|Mesilla town|Incorporated Place|A|Doña Ana County
+NM|35|48200|Mesita CDP|Census Designated Place|S|Cibola County
+NM|35|48270|Mesquite CDP|Census Designated Place|S|Doña Ana County
+NM|35|48425|Middle Frisco CDP|Census Designated Place|S|Catron County
+NM|35|48480|Midway CDP|Census Designated Place|S|Chaves County
+NM|35|48620|Milan village|Incorporated Place|A|Cibola County
+NM|35|48830|Mimbres CDP|Census Designated Place|S|Grant County
+NM|35|49515|Monterey Park CDP|Census Designated Place|S|Valencia County
+NM|35|49950|Monument CDP|Census Designated Place|S|Lea County
+NM|35|50020|Moquino CDP|Census Designated Place|S|Cibola County
+NM|35|50090|Mora CDP|Census Designated Place|S|Mora County
+NM|35|50160|Moriarty city|Incorporated Place|A|Torrance County
+NM|35|50195|Morningside CDP|Census Designated Place|S|Eddy County
+NM|35|50300|Mosquero village|Incorporated Place|A|Harding County, San Miguel County
+NM|35|50370|Mountainair town|Incorporated Place|A|Torrance County
+NM|35|50515|Mountain View CDP|Census Designated Place|S|Luna County
+NM|35|50720|Nadine CDP|Census Designated Place|S|Lea County
+NM|35|50790|Nageezi CDP|Census Designated Place|S|San Juan County
+NM|35|50860|Nakaibito CDP|Census Designated Place|S|McKinley County
+NM|35|50930|Nambe CDP|Census Designated Place|S|Santa Fe County
+NM|35|51035|Napi Headquarters CDP|Census Designated Place|S|San Juan County
+NM|35|51140|Nara Visa CDP|Census Designated Place|S|Quay County
+NM|35|51280|Naschitti CDP|Census Designated Place|S|San Juan County
+NM|35|51420|Navajo CDP|Census Designated Place|S|McKinley County
+NM|35|51490|Navajo Dam CDP|Census Designated Place|S|San Juan County
+NM|35|51715|Nenahnezad CDP|Census Designated Place|S|San Juan County
+NM|35|51770|Newcomb CDP|Census Designated Place|S|San Juan County
+NM|35|51840|Newkirk CDP|Census Designated Place|S|Guadalupe County
+NM|35|52190|Nogal CDP|Census Designated Place|S|Lincoln County
+NM|35|52300|North Acomita Village CDP|Census Designated Place|S|Cibola County
+NM|35|52500|North Hobbs CDP|Census Designated Place|S|Lea County
+NM|35|52540|North Hurley CDP|Census Designated Place|S|Grant County
+NM|35|52560|North Light Plant CDP|Census Designated Place|S|San Juan County
+NM|35|52680|North San Ysidro CDP|Census Designated Place|S|San Miguel County
+NM|35|52750|North Valley CDP|Census Designated Place|S|Bernalillo County
+NM|35|53010|Oasis CDP|Census Designated Place|S|Sierra County
+NM|35|53150|Ohkay Owingeh CDP|Census Designated Place|S|Rio Arriba County
+NM|35|53485|Ojo Amarillo CDP|Census Designated Place|S|San Juan County
+NM|35|54430|Organ CDP|Census Designated Place|S|Doña Ana County
+NM|35|54500|Orogrande CDP|Census Designated Place|S|Otero County
+NM|35|54710|Paguate CDP|Census Designated Place|S|Cibola County
+NM|35|54940|Pajarito Mesa CDP|Census Designated Place|S|Bernalillo County
+NM|35|55270|Paradise Hills CDP|Census Designated Place|S|Bernalillo County
+NM|35|55340|Paraje CDP|Census Designated Place|S|Cibola County
+NM|35|55550|Pastura CDP|Census Designated Place|S|Guadalupe County
+NM|35|55595|Peak Place CDP|Census Designated Place|S|Santa Fe County
+NM|35|55605|Pecan Park CDP|Census Designated Place|S|Luna County
+NM|35|55620|Pecos village|Incorporated Place|A|San Miguel County
+NM|35|55830|Peña Blanca CDP|Census Designated Place|S|Sandoval County
+NM|35|55900|Peñasco CDP|Census Designated Place|S|Taos County
+NM|35|56180|Peralta town|Incorporated Place|A|Valencia County
+NM|35|56810|Picuris Pueblo CDP|Census Designated Place|S|Taos County
+NM|35|56950|Pie Town CDP|Census Designated Place|S|Catron County
+NM|35|57190|Pinehill CDP|Census Designated Place|S|Cibola County
+NM|35|57440|Pinon CDP|Census Designated Place|S|Otero County
+NM|35|57510|Pinos Altos CDP|Census Designated Place|S|Grant County
+NM|35|57990|Placitas CDP|Census Designated Place|S|Doña Ana County
+NM|35|58070|Placitas CDP|Census Designated Place|S|Sandoval County
+NM|35|58210|Playas CDP|Census Designated Place|S|Hidalgo County
+NM|35|58420|Pleasanton CDP|Census Designated Place|S|Catron County
+NM|35|58630|Pojoaque CDP|Census Designated Place|S|Santa Fe County
+NM|35|58910|Polvadera CDP|Census Designated Place|S|Socorro County
+NM|35|58980|Ponderosa CDP|Census Designated Place|S|Sandoval County
+NM|35|59120|Ponderosa Pine CDP|Census Designated Place|S|Bernalillo County
+NM|35|59260|Portales city|Incorporated Place|A|Roosevelt County
+NM|35|59750|Pueblito CDP|Census Designated Place|S|Rio Arriba County
+NM|35|59820|Pueblitos CDP|Census Designated Place|S|Valencia County
+NM|35|59860|Pueblo CDP|Census Designated Place|S|San Miguel County
+NM|35|59950|Pueblo of Sandia Village CDP|Census Designated Place|S|Sandoval County
+NM|35|60000|Pueblo Pintado CDP|Census Designated Place|S|McKinley County
+NM|35|60170|Puerto de Luna CDP|Census Designated Place|S|Guadalupe County
+NM|35|60205|Pulpotio Bareas CDP|Census Designated Place|S|Luna County
+NM|35|60730|Quemado CDP|Census Designated Place|S|Catron County
+NM|35|60870|Questa village|Incorporated Place|A|Taos County
+NM|35|61010|Radium Springs CDP|Census Designated Place|S|Doña Ana County
+NM|35|61220|Ramah CDP|Census Designated Place|S|McKinley County
+NM|35|61675|Rancho Grande CDP|Census Designated Place|S|Catron County
+NM|35|61710|Ranchos de Taos CDP|Census Designated Place|S|Taos County
+NM|35|62060|Raton city|Incorporated Place|A|Colfax County
+NM|35|62200|Red River town|Incorporated Place|A|Taos County
+NM|35|62340|Regina CDP|Census Designated Place|S|Sandoval County
+NM|35|62620|Reserve village|Incorporated Place|A|Catron County
+NM|35|62760|Ribera CDP|Census Designated Place|S|San Miguel County
+NM|35|62900|Rincon CDP|Census Designated Place|S|Doña Ana County
+NM|35|63145|Rio Communities CDP|Census Designated Place|S|Valencia County
+NM|35|63168|Rio en Medio CDP|Census Designated Place|S|Santa Fe County
+NM|35|63250|Rio Lucio CDP|Census Designated Place|S|Taos County
+NM|35|63460|Rio Rancho city|Incorporated Place|A|Bernalillo County, Sandoval County
+NM|35|63660|Rivers CDP|Census Designated Place|S|Catron County
+NM|35|64230|Rock Springs CDP|Census Designated Place|S|McKinley County
+NM|35|64370|Rodeo CDP|Census Designated Place|S|Hidalgo County
+NM|35|64440|Rodey CDP|Census Designated Place|S|Doña Ana County
+NM|35|64900|Rosedale CDP|Census Designated Place|S|Grant County
+NM|35|64930|Roswell city|Incorporated Place|A|Chaves County
+NM|35|65000|Rowe CDP|Census Designated Place|S|San Miguel County
+NM|35|65070|Roy village|Incorporated Place|A|Harding County
+NM|35|65210|Ruidoso village|Incorporated Place|A|Lincoln County
+NM|35|65280|Ruidoso Downs city|Incorporated Place|A|Lincoln County
+NM|35|65560|Sacramento CDP|Census Designated Place|S|Otero County
+NM|35|65840|Salem CDP|Census Designated Place|S|Doña Ana County
+NM|35|65910|San Acacia CDP|Census Designated Place|S|Socorro County
+NM|35|66120|San Antonio CDP|Census Designated Place|S|Socorro County
+NM|35|66330|San Antonito CDP|Census Designated Place|S|Bernalillo County
+NM|35|66400|San Antonito CDP|Census Designated Place|S|Socorro County
+NM|35|66540|San Cristobal CDP|Census Designated Place|S|Taos County
+NM|35|66765|Sandia Heights CDP|Census Designated Place|S|Bernalillo County
+NM|35|66890|Sandia Knolls CDP|Census Designated Place|S|Bernalillo County
+NM|35|66960|Sandia Park CDP|Census Designated Place|S|Bernalillo County
+NM|35|67450|San Felipe Pueblo CDP|Census Designated Place|S|Sandoval County
+NM|35|67520|San Fidel CDP|Census Designated Place|S|Cibola County
+NM|35|68010|San Ildefonso Pueblo CDP|Census Designated Place|S|Santa Fe County
+NM|35|68150|San Jon village|Incorporated Place|A|Quay County
+NM|35|68430|San Jose CDP|Census Designated Place|S|Rio Arriba County
+NM|35|68500|San Jose CDP|Census Designated Place|S|San Miguel County
+NM|35|68920|San Lorenzo CDP|Census Designated Place|S|Grant County
+NM|35|69060|San Luis CDP|Census Designated Place|S|Sandoval County
+NM|35|69270|San Mateo CDP|Census Designated Place|S|Cibola County
+NM|35|69410|San Miguel CDP|Census Designated Place|S|Doña Ana County
+NM|35|69620|Sanostee CDP|Census Designated Place|S|San Juan County
+NM|35|69645|San Pablo CDP|Census Designated Place|S|Doña Ana County
+NM|35|69825|San Pedro CDP|Census Designated Place|S|Santa Fe County
+NM|35|69875|San Rafael CDP|Census Designated Place|S|Cibola County
+NM|35|70250|Santa Ana Pueblo CDP|Census Designated Place|S|Sandoval County
+NM|35|70270|Santa Clara village|Incorporated Place|A|Grant County
+NM|35|70390|Santa Clara Pueblo CDP|Census Designated Place|S|Rio Arriba County
+NM|35|70460|Santa Cruz CDP|Census Designated Place|S|Santa Fe County
+NM|35|70500|Santa Fe city|Incorporated Place|A|Santa Fe County
+NM|35|70670|Santa Rosa city|Incorporated Place|A|Guadalupe County
+NM|35|70700|Santa Teresa CDP|Census Designated Place|S|Doña Ana County
+NM|35|70810|Santo Domingo Pueblo CDP|Census Designated Place|S|Sandoval County
+NM|35|71015|San Ysidro CDP|Census Designated Place|S|Doña Ana County
+NM|35|71020|San Ysidro village|Incorporated Place|A|Sandoval County
+NM|35|71145|Sausal CDP|Census Designated Place|S|Valencia County
+NM|35|71440|Seama CDP|Census Designated Place|S|Cibola County
+NM|35|71510|Seboyeta CDP|Census Designated Place|S|Cibola County
+NM|35|71700|Sedillo CDP|Census Designated Place|S|Bernalillo County
+NM|35|71790|Sena CDP|Census Designated Place|S|San Miguel County
+NM|35|72600|Sheep Springs CDP|Census Designated Place|S|San Juan County
+NM|35|72770|Shiprock CDP|Census Designated Place|S|San Juan County
+NM|35|73260|Silver City town|Incorporated Place|A|Grant County
+NM|35|73440|Skyline-Ganipa CDP|Census Designated Place|S|Cibola County
+NM|35|73540|Socorro city|Incorporated Place|A|Socorro County
+NM|35|73680|Soham CDP|Census Designated Place|S|San Miguel County
+NM|35|73890|Sombrillo CDP|Census Designated Place|S|Santa Fe County
+NM|35|73925|South Acomita Village CDP|Census Designated Place|S|Cibola County
+NM|35|74520|South Valley CDP|Census Designated Place|S|Bernalillo County
+NM|35|74660|Spencerville CDP|Census Designated Place|S|San Juan County
+NM|35|74800|Springer town|Incorporated Place|A|Colfax County
+NM|35|75640|Sunland Park city|Incorporated Place|A|Doña Ana County
+NM|35|75710|Sunshine CDP|Census Designated Place|S|Luna County
+NM|35|76060|Tajique CDP|Census Designated Place|S|Torrance County
+NM|35|76130|Talpa CDP|Census Designated Place|S|Taos County
+NM|35|76200|Taos town|Incorporated Place|A|Taos County
+NM|35|76410|Taos Pueblo CDP|Census Designated Place|S|Taos County
+NM|35|76480|Taos Ski Valley village|Incorporated Place|A|Taos County
+NM|35|76620|Tatum town|Incorporated Place|A|Lea County
+NM|35|76760|Tecolote CDP|Census Designated Place|S|San Miguel County
+NM|35|76830|Tecolotito CDP|Census Designated Place|S|San Miguel County
+NM|35|77040|Tesuque CDP|Census Designated Place|S|Santa Fe County
+NM|35|77100|Tesuque Pueblo CDP|Census Designated Place|S|Santa Fe County
+NM|35|77250|Texico city|Incorporated Place|A|Curry County
+NM|35|77530|Thoreau CDP|Census Designated Place|S|McKinley County
+NM|35|77670|Tierra Amarilla CDP|Census Designated Place|S|Rio Arriba County
+NM|35|77880|Tijeras village|Incorporated Place|A|Bernalillo County
+NM|35|77950|Timberon CDP|Census Designated Place|S|Otero County
+NM|35|78440|Tohatchi CDP|Census Designated Place|S|McKinley County
+NM|35|78650|Tome CDP|Census Designated Place|S|Valencia County
+NM|35|79070|Torreon CDP|Census Designated Place|S|Sandoval County
+NM|35|79140|Torreon CDP|Census Designated Place|S|Torrance County
+NM|35|79680|Trout Valley CDP|Census Designated Place|S|Grant County
+NM|35|79700|Truchas CDP|Census Designated Place|S|Rio Arriba County
+NM|35|79840|Truth or Consequences city|Incorporated Place|A|Sierra County
+NM|35|79885|Tse Bonito CDP|Census Designated Place|S|McKinley County
+NM|35|79910|Tucumcari city|Incorporated Place|A|Quay County
+NM|35|79980|Tularosa village|Incorporated Place|A|Otero County
+NM|35|80470|Twin Forks CDP|Census Designated Place|S|Otero County
+NM|35|80540|Twin Lakes CDP|Census Designated Place|S|McKinley County
+NM|35|80820|Tyrone CDP|Census Designated Place|S|Grant County
+NM|35|81030|University Park CDP|Census Designated Place|S|Doña Ana County
+NM|35|81177|Upper Fruitland CDP|Census Designated Place|S|San Juan County
+NM|35|81450|Ute Park CDP|Census Designated Place|S|Colfax County
+NM|35|81520|Vadito CDP|Census Designated Place|S|Taos County
+NM|35|81590|Vado CDP|Census Designated Place|S|Doña Ana County
+NM|35|81800|Valencia CDP|Census Designated Place|S|Valencia County
+NM|35|82570|Vaughn town|Incorporated Place|A|Guadalupe County
+NM|35|82640|Veguita CDP|Census Designated Place|S|Socorro County
+NM|35|82710|Velarde CDP|Census Designated Place|S|Rio Arriba County
+NM|35|82800|Ventura CDP|Census Designated Place|S|Luna County
+NM|35|83130|Villanueva CDP|Census Designated Place|S|San Miguel County
+NM|35|83200|Virden village|Incorporated Place|A|Hidalgo County
+NM|35|83340|Wagon Mound village|Incorporated Place|A|Mora County
+NM|35|83760|Waterflow CDP|Census Designated Place|S|San Juan County
+NM|35|83830|Watrous CDP|Census Designated Place|S|Mora County
+NM|35|83970|Weed CDP|Census Designated Place|S|Otero County
+NM|35|84200|West Hammond CDP|Census Designated Place|S|San Juan County
+NM|35|84740|White Rock CDP|Census Designated Place|S|Los Alamos County
+NM|35|84845|White Sands CDP|Census Designated Place|S|Doña Ana County
+NM|35|84950|Whites City CDP|Census Designated Place|S|Eddy County
+NM|35|84975|White Signal CDP|Census Designated Place|S|Grant County
+NM|35|85160|Willard village|Incorporated Place|A|Torrance County
+NM|35|85300|Williamsburg village|Incorporated Place|A|Sierra County
+NM|35|85485|Windmill CDP|Census Designated Place|S|Hidalgo County
+NM|35|85720|Winston CDP|Census Designated Place|S|Sierra County
+NM|35|85860|Yah-ta-hey CDP|Census Designated Place|S|McKinley County
+NM|35|86175|Young Place CDP|Census Designated Place|S|San Juan County
+NM|35|86210|Youngsville CDP|Census Designated Place|S|Rio Arriba County
+NM|35|86420|Zia Pueblo CDP|Census Designated Place|S|Sandoval County
+NM|35|86595|Zuni Pueblo CDP|Census Designated Place|S|McKinley County

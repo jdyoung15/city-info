@@ -1,0 +1,1752 @@
+TX|48|00100|Abbott city|Incorporated Place|A|Hill County
+TX|48|00160|Abernathy city|Incorporated Place|A|Hale County, Lubbock County
+TX|48|01000|Abilene city|Incorporated Place|A|Jones County, Taylor County
+TX|48|01060|Abram CDP|Census Designated Place|S|Hidalgo County
+TX|48|01108|Ackerly city|Incorporated Place|A|Dawson County, Martin County
+TX|48|01240|Addison town|Incorporated Place|A|Dallas County
+TX|48|01324|Adrian city|Incorporated Place|A|Oldham County
+TX|48|01390|Agua Dulce CDP|Census Designated Place|S|El Paso County
+TX|48|01396|Agua Dulce city|Incorporated Place|A|Nueces County
+TX|48|01420|Aguilares CDP|Census Designated Place|S|Webb County
+TX|48|01500|Airport Heights CDP|Census Designated Place|S|Starr County
+TX|48|01514|Airport Road Addition CDP|Census Designated Place|S|Brooks County
+TX|48|01576|Alamo city|Incorporated Place|A|Hidalgo County
+TX|48|01600|Alamo Heights city|Incorporated Place|A|Bexar County
+TX|48|01636|Alba town|Incorporated Place|A|Rains County, Wood County
+TX|48|01648|Albany city|Incorporated Place|A|Shackelford County
+TX|48|01696|Aldine CDP|Census Designated Place|S|Harris County
+TX|48|01744|Aledo city|Incorporated Place|A|Parker County
+TX|48|01816|Alfred CDP|Census Designated Place|S|Jim Wells County
+TX|48|01852|Alice city|Incorporated Place|A|Jim Wells County
+TX|48|01858|Alice Acres CDP|Census Designated Place|S|Jim Wells County
+TX|48|01924|Allen city|Incorporated Place|A|Collin County
+TX|48|02044|Alma town|Incorporated Place|A|Ellis County
+TX|48|02104|Alpine city|Incorporated Place|A|Brewster County
+TX|48|02188|Alto town|Incorporated Place|A|Cherokee County
+TX|48|02194|Alto Bonito Heights CDP|Census Designated Place|S|Starr County
+TX|48|02212|Alton city|Incorporated Place|A|Hidalgo County
+TX|48|02260|Alvarado city|Incorporated Place|A|Johnson County
+TX|48|02272|Alvin city|Incorporated Place|A|Brazoria County
+TX|48|02284|Alvord town|Incorporated Place|A|Wise County
+TX|48|02286|Amada Acres CDP|Census Designated Place|S|Starr County
+TX|48|02290|Amargosa CDP|Census Designated Place|S|Jim Wells County
+TX|48|03000|Amarillo city|Incorporated Place|A|Potter County, Randall County
+TX|48|03008|Amaya CDP|Census Designated Place|S|Zavala County
+TX|48|03072|Ames city|Incorporated Place|A|Liberty County
+TX|48|03084|Amherst city|Incorporated Place|A|Lamb County
+TX|48|03096|Amistad CDP|Census Designated Place|S|Val Verde County
+TX|48|03126|Anacua CDP|Census Designated Place|S|Starr County
+TX|48|03144|Anahuac city|Incorporated Place|A|Chambers County
+TX|48|03192|Anderson city|Incorporated Place|A|Grimes County
+TX|48|03216|Andrews city|Incorporated Place|A|Andrews County
+TX|48|03264|Angleton city|Incorporated Place|A|Brazoria County
+TX|48|03288|Angus city|Incorporated Place|A|Navarro County
+TX|48|03300|Anna city|Incorporated Place|A|Collin County
+TX|48|03336|Annetta town|Incorporated Place|A|Parker County
+TX|48|03340|Annetta North town|Incorporated Place|A|Parker County
+TX|48|03342|Annetta South town|Incorporated Place|A|Parker County
+TX|48|03360|Annona town|Incorporated Place|A|Red River County
+TX|48|03372|Anson city|Incorporated Place|A|Jones County
+TX|48|03432|Anthony town|Incorporated Place|A|El Paso County
+TX|48|03540|Anton city|Incorporated Place|A|Hockley County
+TX|48|03564|Appleby city|Incorporated Place|A|Nacogdoches County
+TX|48|03588|Aquilla city|Incorporated Place|A|Hill County
+TX|48|03600|Aransas Pass city|Incorporated Place|A|Aransas County, Nueces County, San Patricio County
+TX|48|03696|Archer City city|Incorporated Place|A|Archer County
+TX|48|03708|Arcola city|Incorporated Place|A|Fort Bend County
+TX|48|03768|Argyle city|Incorporated Place|A|Denton County
+TX|48|04000|Arlington city|Incorporated Place|A|Tarrant County
+TX|48|04156|Arp city|Incorporated Place|A|Smith County
+TX|48|04174|Arroyo Colorado Estates CDP|Census Designated Place|S|Cameron County
+TX|48|04176|Arroyo Gardens CDP|Census Designated Place|S|Cameron County
+TX|48|04300|Asherton city|Incorporated Place|A|Dimmit County
+TX|48|04408|Aspermont town|Incorporated Place|A|Stonewall County
+TX|48|04462|Atascocita CDP|Census Designated Place|S|Harris County
+TX|48|04504|Athens city|Incorporated Place|A|Henderson County
+TX|48|04516|Atlanta city|Incorporated Place|A|Cass County
+TX|48|04600|Aubrey city|Incorporated Place|A|Denton County
+TX|48|04672|Aurora city|Incorporated Place|A|Wise County
+TX|48|05000|Austin city|Incorporated Place|A|Hays County, Travis County, Williamson County
+TX|48|05036|Austwell city|Incorporated Place|A|Refugio County
+TX|48|05072|Avery town|Incorporated Place|A|Red River County
+TX|48|05084|Avinger town|Incorporated Place|A|Cass County
+TX|48|05168|Azle city|Incorporated Place|A|Parker County, Tarrant County
+TX|48|05180|Bacliff CDP|Census Designated Place|S|Galveston County
+TX|48|05264|Bailey city|Incorporated Place|A|Fannin County
+TX|48|05288|Bailey's Prairie village|Incorporated Place|A|Brazoria County
+TX|48|05336|Baird city|Incorporated Place|A|Callahan County
+TX|48|05372|Balch Springs city|Incorporated Place|A|Dallas County
+TX|48|05384|Balcones Heights city|Incorporated Place|A|Bexar County
+TX|48|05456|Ballinger city|Incorporated Place|A|Runnels County
+TX|48|05468|Balmorhea city|Incorporated Place|A|Reeves County
+TX|48|05520|B and E CDP|Census Designated Place|S|Starr County
+TX|48|05528|Bandera city|Incorporated Place|A|Bandera County
+TX|48|05552|Bangs city|Incorporated Place|A|Brown County
+TX|48|05576|Banquete CDP|Census Designated Place|S|Nueces County
+TX|48|05612|Bardwell city|Incorporated Place|A|Ellis County
+TX|48|05690|Barrera CDP|Census Designated Place|S|Starr County
+TX|48|05696|Barrett CDP|Census Designated Place|S|Harris County
+TX|48|05708|Barry city|Incorporated Place|A|Navarro County
+TX|48|05720|Barstow city|Incorporated Place|A|Ward County
+TX|48|05732|Bartlett city|Incorporated Place|A|Bell County, Williamson County
+TX|48|05750|Barton Creek CDP|Census Designated Place|S|Travis County
+TX|48|05768|Bartonville town|Incorporated Place|A|Denton County
+TX|48|05864|Bastrop city|Incorporated Place|A|Bastrop County
+TX|48|05924|Batesville CDP|Census Designated Place|S|Zavala County
+TX|48|05984|Bay City city|Incorporated Place|A|Matagorda County
+TX|48|06060|Bayou Vista city|Incorporated Place|A|Galveston County
+TX|48|06104|Bayside town|Incorporated Place|A|Refugio County
+TX|48|06128|Baytown city|Incorporated Place|A|Chambers County, Harris County
+TX|48|06140|Bayview town|Incorporated Place|A|Cameron County
+TX|48|06200|Beach City city|Incorporated Place|A|Chambers County
+TX|48|06242|Bear Creek village|Incorporated Place|A|Hays County
+TX|48|06272|Beasley city|Incorporated Place|A|Fort Bend County
+TX|48|07000|Beaumont city|Incorporated Place|A|Jefferson County
+TX|48|07108|Beckville city|Incorporated Place|A|Panola County
+TX|48|07132|Bedford city|Incorporated Place|A|Tarrant County
+TX|48|07144|Bedias city|Incorporated Place|A|Grimes County
+TX|48|07156|Bee Cave city|Incorporated Place|A|Travis County
+TX|48|07192|Beeville city|Incorporated Place|A|Bee County
+TX|48|07300|Bellaire city|Incorporated Place|A|Harris County
+TX|48|07396|Bellevue city|Incorporated Place|A|Clay County
+TX|48|07408|Bellmead city|Incorporated Place|A|McLennan County
+TX|48|07420|Bells town|Incorporated Place|A|Grayson County
+TX|48|07432|Bellville city|Incorporated Place|A|Austin County
+TX|48|07492|Belton city|Incorporated Place|A|Bell County
+TX|48|07528|Benavides city|Incorporated Place|A|Duval County
+TX|48|07552|Benbrook city|Incorporated Place|A|Tarrant County
+TX|48|07636|Benjamin city|Incorporated Place|A|Knox County
+TX|48|07642|Benjamin Perez CDP|Census Designated Place|S|Starr County
+TX|48|07852|Berryville town|Incorporated Place|A|Henderson County
+TX|48|07864|Bertram city|Incorporated Place|A|Burnet County
+TX|48|08104|Beverly Hills city|Incorporated Place|A|McLennan County
+TX|48|08128|Bevil Oaks city|Incorporated Place|A|Jefferson County
+TX|48|08164|Bigfoot CDP|Census Designated Place|S|Frio County
+TX|48|08212|Big Lake city|Incorporated Place|A|Reagan County
+TX|48|08224|Big Sandy town|Incorporated Place|A|Upshur County
+TX|48|08236|Big Spring city|Incorporated Place|A|Howard County
+TX|48|08240|Big Thicket Lake Estates CDP|Census Designated Place|S|Liberty County, Polk County
+TX|48|08260|Big Wells city|Incorporated Place|A|Dimmit County
+TX|48|08392|Bishop city|Incorporated Place|A|Nueces County
+TX|48|08398|Bishop Hills town|Incorporated Place|A|Potter County
+TX|48|08410|Bixby CDP|Census Designated Place|S|Cameron County
+TX|48|08488|Blackwell city|Incorporated Place|A|Coke County, Nolan County
+TX|48|08536|Blanco city|Incorporated Place|A|Blanco County
+TX|48|08596|Blanket town|Incorporated Place|A|Brown County
+TX|48|08668|Blessing CDP|Census Designated Place|S|Matagorda County
+TX|48|08752|Bloomburg town|Incorporated Place|A|Cass County
+TX|48|08788|Blooming Grove town|Incorporated Place|A|Navarro County
+TX|48|08800|Bloomington CDP|Census Designated Place|S|Victoria County
+TX|48|08812|Blossom city|Incorporated Place|A|Lamar County
+TX|48|08830|Blue Berry Hill CDP|Census Designated Place|S|Bee County
+TX|48|08860|Blue Mound city|Incorporated Place|A|Tarrant County
+TX|48|08872|Blue Ridge city|Incorporated Place|A|Collin County
+TX|48|08908|Bluetown CDP|Census Designated Place|S|Cameron County
+TX|48|09004|Blum town|Incorporated Place|A|Hill County
+TX|48|09160|Boerne city|Incorporated Place|A|Kendall County
+TX|48|09172|Bogata city|Incorporated Place|A|Red River County
+TX|48|09232|Boling CDP|Census Designated Place|S|Wharton County
+TX|48|09250|Bolivar Peninsula CDP|Census Designated Place|S|Galveston County
+TX|48|09310|Bonanza Hills CDP|Census Designated Place|S|Webb County
+TX|48|09328|Bonham city|Incorporated Place|A|Fannin County
+TX|48|09388|Bonney village|Incorporated Place|A|Brazoria County
+TX|48|09448|Booker town|Incorporated Place|A|Lipscomb County, Ochiltree County
+TX|48|09556|Borger city|Incorporated Place|A|Hutchinson County
+TX|48|09598|Botines CDP|Census Designated Place|S|Webb County
+TX|48|09628|Bovina city|Incorporated Place|A|Parmer County
+TX|48|09640|Bowie city|Incorporated Place|A|Montague County
+TX|48|09656|Box Canyon CDP|Census Designated Place|S|Val Verde County
+TX|48|09748|Boyd town|Incorporated Place|A|Wise County
+TX|48|09796|Boys Ranch CDP|Census Designated Place|S|Oldham County
+TX|48|09868|Brackettville city|Incorporated Place|A|Kinney County
+TX|48|09916|Brady city|Incorporated Place|A|McCulloch County
+TX|48|10072|Brazoria city|Incorporated Place|A|Brazoria County
+TX|48|10087|Brazos Bend city|Incorporated Place|A|Hood County
+TX|48|10090|Brazos Country city|Incorporated Place|A|Austin County
+TX|48|10132|Breckenridge city|Incorporated Place|A|Stephens County
+TX|48|10144|Bremond city|Incorporated Place|A|Robertson County
+TX|48|10156|Brenham city|Incorporated Place|A|Washington County
+TX|48|10192|Briar CDP|Census Designated Place|S|Parker County, Tarrant County, Wise County
+TX|48|10197|Briarcliff village|Incorporated Place|A|Travis County
+TX|48|10216|Briaroaks city|Incorporated Place|A|Johnson County
+TX|48|10252|Bridge City city|Incorporated Place|A|Orange County
+TX|48|10264|Bridgeport city|Incorporated Place|A|Wise County
+TX|48|10336|Bristol CDP|Census Designated Place|S|Ellis County
+TX|48|10384|Broaddus town|Incorporated Place|A|San Augustine County
+TX|48|10528|Bronte town|Incorporated Place|A|Coke County
+TX|48|10636|Brookshire city|Incorporated Place|A|Waller County
+TX|48|10648|Brookside Village city|Incorporated Place|A|Brazoria County
+TX|48|10708|Browndell city|Incorporated Place|A|Jasper County
+TX|48|10720|Brownfield city|Incorporated Place|A|Terry County
+TX|48|10756|Brownsboro city|Incorporated Place|A|Henderson County
+TX|48|10768|Brownsville city|Incorporated Place|A|Cameron County
+TX|48|10780|Brownwood city|Incorporated Place|A|Brown County
+TX|48|10828|Bruceville-Eddy city|Incorporated Place|A|Falls County, McLennan County
+TX|48|10852|Brundage CDP|Census Designated Place|S|Dimmit County
+TX|48|10876|Bruni CDP|Census Designated Place|S|Webb County
+TX|48|10897|Brushy Creek CDP|Census Designated Place|S|Williamson County
+TX|48|10912|Bryan city|Incorporated Place|A|Brazos County
+TX|48|10960|Bryson city|Incorporated Place|A|Jack County
+TX|48|10984|Buchanan Dam CDP|Census Designated Place|S|Llano County
+TX|48|10990|Buchanan Lake Village CDP|Census Designated Place|S|Llano County
+TX|48|11020|Buckholts town|Incorporated Place|A|Milam County
+TX|48|11080|Buda city|Incorporated Place|A|Hays County
+TX|48|11102|Buena Vista CDP|Census Designated Place|S|Starr County
+TX|48|11116|Buffalo city|Incorporated Place|A|Leon County
+TX|48|11128|Buffalo Gap town|Incorporated Place|A|Taylor County
+TX|48|11155|Buffalo Springs village|Incorporated Place|A|Lubbock County
+TX|48|11212|Bullard town|Incorporated Place|A|Cherokee County, Smith County
+TX|48|11224|Bulverde city|Incorporated Place|A|Comal County
+TX|48|11236|Buna CDP|Census Designated Place|S|Jasper County
+TX|48|11300|Bunker Hill Village city|Incorporated Place|A|Harris County
+TX|48|11368|Burkburnett city|Incorporated Place|A|Wichita County
+TX|48|11380|Burke city|Incorporated Place|A|Angelina County
+TX|48|11428|Burleson city|Incorporated Place|A|Johnson County, Tarrant County
+TX|48|11464|Burnet city|Incorporated Place|A|Burnet County
+TX|48|11536|Burton city|Incorporated Place|A|Washington County
+TX|48|11626|Butterfield CDP|Census Designated Place|S|El Paso County
+TX|48|11644|Byers city|Incorporated Place|A|Clay County
+TX|48|11656|Bynum town|Incorporated Place|A|Hill County
+TX|48|11692|Cactus city|Incorporated Place|A|Moore County
+TX|48|11716|Caddo Mills city|Incorporated Place|A|Hunt County
+TX|48|11836|Caldwell city|Incorporated Place|A|Burleson County
+TX|48|11940|Callender Lake CDP|Census Designated Place|S|Van Zandt County
+TX|48|11968|Callisburg city|Incorporated Place|A|Cooke County
+TX|48|11992|Calvert city|Incorporated Place|A|Robertson County
+TX|48|12010|Camargito CDP|Census Designated Place|S|Starr County
+TX|48|12040|Cameron city|Incorporated Place|A|Milam County
+TX|48|12045|Cameron Park CDP|Census Designated Place|S|Cameron County
+TX|48|12112|Campbell city|Incorporated Place|A|Hunt County
+TX|48|12226|Campo Verde CDP|Census Designated Place|S|Starr County
+TX|48|12334|Camp Swift CDP|Census Designated Place|S|Bastrop County
+TX|48|12388|Camp Wood city|Incorporated Place|A|Real County
+TX|48|12412|Canadian city|Incorporated Place|A|Hemphill County
+TX|48|12472|Caney City town|Incorporated Place|A|Henderson County
+TX|48|12496|Canton city|Incorporated Place|A|Van Zandt County
+TX|48|12502|Cantu Addition CDP|Census Designated Place|S|Brooks County
+TX|48|12508|Canutillo CDP|Census Designated Place|S|El Paso County
+TX|48|12532|Canyon city|Incorporated Place|A|Randall County
+TX|48|12562|Canyon Creek CDP|Census Designated Place|S|Hood County
+TX|48|12580|Canyon Lake CDP|Census Designated Place|S|Comal County
+TX|48|12600|Cape Royale CDP|Census Designated Place|S|San Jacinto County
+TX|48|12736|Carbon town|Incorporated Place|A|Eastland County
+TX|48|12892|Carlsbad CDP|Census Designated Place|S|Tom Green County
+TX|48|12895|Carl's Corner town|Incorporated Place|A|Hill County
+TX|48|12916|Carmine city|Incorporated Place|A|Fayette County
+TX|48|12982|Carrizo Hill CDP|Census Designated Place|S|Dimmit County
+TX|48|12988|Carrizo Springs city|Incorporated Place|A|Dimmit County
+TX|48|13024|Carrollton city|Incorporated Place|A|Collin County, Dallas County, Denton County
+TX|48|13108|Carthage city|Incorporated Place|A|Panola County
+TX|48|13128|Casa Blanca CDP|Census Designated Place|S|Starr County
+TX|48|13150|Casas CDP|Census Designated Place|S|Starr County
+TX|48|13198|Cashion Community city|Incorporated Place|A|Wichita County
+TX|48|13276|Castle Hills city|Incorporated Place|A|Bexar County
+TX|48|13312|Castroville city|Incorporated Place|A|Medina County
+TX|48|13324|Catarina CDP|Census Designated Place|S|Dimmit County
+TX|48|13492|Cedar Hill city|Incorporated Place|A|Dallas County, Ellis County
+TX|48|13552|Cedar Park city|Incorporated Place|A|Travis County, Williamson County
+TX|48|13570|Cedar Point CDP|Census Designated Place|S|Polk County
+TX|48|13672|Celeste city|Incorporated Place|A|Hunt County
+TX|48|13684|Celina city|Incorporated Place|A|Collin County, Denton County
+TX|48|13732|Center city|Incorporated Place|A|Shelby County
+TX|48|13900|Centerville city|Incorporated Place|A|Leon County
+TX|48|13972|Central Gardens CDP|Census Designated Place|S|Jefferson County
+TX|48|14038|Cesar Chavez CDP|Census Designated Place|S|Hidalgo County
+TX|48|14224|Chandler city|Incorporated Place|A|Henderson County
+TX|48|14236|Channelview CDP|Census Designated Place|S|Harris County
+TX|48|14260|Channing city|Incorporated Place|A|Hartley County
+TX|48|14266|Chaparrito CDP|Census Designated Place|S|Starr County
+TX|48|14290|Chapeno CDP|Census Designated Place|S|Starr County
+TX|48|14404|Charlotte city|Incorporated Place|A|Atascosa County
+TX|48|14584|Chester town|Incorporated Place|A|Tyler County
+TX|48|14620|Chico city|Incorporated Place|A|Wise County
+TX|48|14668|Childress city|Incorporated Place|A|Childress County
+TX|48|14680|Chillicothe city|Incorporated Place|A|Hardeman County
+TX|48|14692|Chilton CDP|Census Designated Place|S|Falls County
+TX|48|14704|China city|Incorporated Place|A|Jefferson County
+TX|48|14716|China Grove town|Incorporated Place|A|Bexar County
+TX|48|14740|China Spring CDP|Census Designated Place|S|McLennan County
+TX|48|14776|Chireno city|Incorporated Place|A|Nacogdoches County
+TX|48|14860|Christine town|Incorporated Place|A|Atascosa County
+TX|48|14872|Christoval CDP|Census Designated Place|S|Tom Green County
+TX|48|14880|Chula Vista CDP|Census Designated Place|S|Cameron County
+TX|48|14881|Chula Vista CDP|Census Designated Place|S|Maverick County
+TX|48|14882|Chula Vista CDP|Census Designated Place|S|Zavala County
+TX|48|14920|Cibolo city|Incorporated Place|A|Bexar County, Guadalupe County
+TX|48|14927|Cienegas Terrace CDP|Census Designated Place|S|Val Verde County
+TX|48|14929|Cinco Ranch CDP|Census Designated Place|S|Fort Bend County, Harris County
+TX|48|14986|Circle D-KC Estates CDP|Census Designated Place|S|Bastrop County
+TX|48|15004|Cisco city|Incorporated Place|A|Eastland County
+TX|48|15028|Citrus City CDP|Census Designated Place|S|Hidalgo County
+TX|48|15112|Clarendon city|Incorporated Place|A|Donley County
+TX|48|15160|Clarksville city|Incorporated Place|A|Red River County
+TX|48|15172|Clarksville City city|Incorporated Place|A|Gregg County, Upshur County
+TX|48|15196|Claude city|Incorporated Place|A|Armstrong County
+TX|48|15328|Clear Lake Shores city|Incorporated Place|A|Galveston County
+TX|48|15364|Cleburne city|Incorporated Place|A|Johnson County
+TX|48|15436|Cleveland city|Incorporated Place|A|Liberty County, Montgomery County
+TX|48|15472|Clifton city|Incorporated Place|A|Bosque County
+TX|48|15544|Clint town|Incorporated Place|A|El Paso County
+TX|48|15628|Cloverleaf CDP|Census Designated Place|S|Harris County
+TX|48|15652|Clute city|Incorporated Place|A|Brazoria County
+TX|48|15676|Clyde city|Incorporated Place|A|Callahan County
+TX|48|15700|Coahoma town|Incorporated Place|A|Howard County
+TX|48|15796|Cockrell Hill city|Incorporated Place|A|Dallas County
+TX|48|15820|Coffee City town|Incorporated Place|A|Henderson County
+TX|48|15892|Coldspring city|Incorporated Place|A|San Jacinto County
+TX|48|15916|Coleman city|Incorporated Place|A|Coleman County
+TX|48|15976|College Station city|Incorporated Place|A|Brazos County
+TX|48|15988|Colleyville city|Incorporated Place|A|Tarrant County
+TX|48|16036|Collinsville town|Incorporated Place|A|Grayson County
+TX|48|16048|Colmesneil city|Incorporated Place|A|Tyler County
+TX|48|16110|Colorado Acres CDP|Census Designated Place|S|Webb County
+TX|48|16120|Colorado City city|Incorporated Place|A|Mitchell County
+TX|48|16168|Columbus city|Incorporated Place|A|Colorado County
+TX|48|16192|Comanche city|Incorporated Place|A|Comanche County
+TX|48|16204|Combes town|Incorporated Place|A|Cameron County
+TX|48|16216|Combine city|Incorporated Place|A|Dallas County, Kaufman County
+TX|48|16228|Comfort CDP|Census Designated Place|S|Kendall County
+TX|48|16240|Commerce city|Incorporated Place|A|Hunt County
+TX|48|16252|Como town|Incorporated Place|A|Hopkins County
+TX|48|16300|Concepcion CDP|Census Designated Place|S|Duval County
+TX|48|16432|Conroe city|Incorporated Place|A|Montgomery County
+TX|48|16468|Converse city|Incorporated Place|A|Bexar County
+TX|48|16540|Cool city|Incorporated Place|A|Parker County
+TX|48|16552|Coolidge town|Incorporated Place|A|Limestone County
+TX|48|16564|Cooper city|Incorporated Place|A|Delta County
+TX|48|16612|Coppell city|Incorporated Place|A|Dallas County, Denton County
+TX|48|16624|Copperas Cove city|Incorporated Place|A|Bell County, Coryell County, Lampasas County
+TX|48|16636|Copper Canyon town|Incorporated Place|A|Denton County
+TX|48|16696|Corinth city|Incorporated Place|A|Denton County
+TX|48|17000|Corpus Christi city|Incorporated Place|A|Aransas County, Kleberg County, Nueces County, San Patricio County
+TX|48|17024|Corral City town|Incorporated Place|A|Denton County
+TX|48|17036|Corrigan town|Incorporated Place|A|Polk County
+TX|48|17060|Corsicana city|Incorporated Place|A|Navarro County
+TX|48|17200|Cottonwood city|Incorporated Place|A|Kaufman County
+TX|48|17208|Cottonwood Shores city|Incorporated Place|A|Burnet County
+TX|48|17216|Cotulla city|Incorporated Place|A|La Salle County
+TX|48|17236|Country Acres CDP|Census Designated Place|S|San Patricio County
+TX|48|17336|Cove city|Incorporated Place|A|Chambers County
+TX|48|17372|Covington city|Incorporated Place|A|Hill County
+TX|48|17408|Coyanosa CDP|Census Designated Place|S|Pecos County
+TX|48|17426|Coyote Acres CDP|Census Designated Place|S|Jim Wells County
+TX|48|17429|Coyote Flats CDP|Census Designated Place|S|Johnson County
+TX|48|17504|Crandall city|Incorporated Place|A|Kaufman County
+TX|48|17516|Crane city|Incorporated Place|A|Crane County
+TX|48|17540|Cranfills Gap city|Incorporated Place|A|Bosque County
+TX|48|17564|Crawford town|Incorporated Place|A|McLennan County
+TX|48|17612|Creedmoor city|Incorporated Place|A|Travis County
+TX|48|17648|Cresson city|Incorporated Place|A|Hood County, Johnson County, Parker County
+TX|48|17744|Crockett city|Incorporated Place|A|Houston County
+TX|48|17756|Crosby CDP|Census Designated Place|S|Harris County
+TX|48|17768|Crosbyton city|Incorporated Place|A|Crosby County
+TX|48|17811|Cross Mountain CDP|Census Designated Place|S|Bexar County
+TX|48|17816|Cross Plains town|Incorporated Place|A|Callahan County
+TX|48|17852|Cross Roads town|Incorporated Place|A|Denton County
+TX|48|17917|Cross Timber town|Incorporated Place|A|Johnson County
+TX|48|17948|Crowell city|Incorporated Place|A|Foard County
+TX|48|17960|Crowley city|Incorporated Place|A|Johnson County, Tarrant County
+TX|48|18020|Crystal City city|Incorporated Place|A|Zavala County
+TX|48|18092|Cuero city|Incorporated Place|A|DeWitt County
+TX|48|18104|Cuevitas CDP|Census Designated Place|S|Hidalgo County
+TX|48|18128|Cumby city|Incorporated Place|A|Hopkins County
+TX|48|18134|Cumings CDP|Census Designated Place|S|Fort Bend County
+TX|48|18152|Cuney town|Incorporated Place|A|Cherokee County
+TX|48|18224|Cushing city|Incorporated Place|A|Nacogdoches County
+TX|48|18260|Cut and Shoot city|Incorporated Place|A|Montgomery County
+TX|48|18464|Daingerfield city|Incorporated Place|A|Morris County
+TX|48|18476|Daisetta city|Incorporated Place|A|Liberty County
+TX|48|18524|Dalhart city|Incorporated Place|A|Dallam County, Hartley County
+TX|48|19000|Dallas city|Incorporated Place|A|Collin County, Dallas County, Denton County, Kaufman County, Rockwall County
+TX|48|19084|Dalworthington Gardens city|Incorporated Place|A|Tarrant County
+TX|48|19108|Damon CDP|Census Designated Place|S|Brazoria County
+TX|48|19120|Danbury city|Incorporated Place|A|Brazoria County
+TX|48|19288|Darrouzett town|Incorporated Place|A|Lipscomb County
+TX|48|19420|Dawson town|Incorporated Place|A|Navarro County
+TX|48|19432|Dayton city|Incorporated Place|A|Liberty County
+TX|48|19435|Dayton Lakes city|Incorporated Place|A|Liberty County
+TX|48|19456|Dean city|Incorporated Place|A|Clay County
+TX|48|19528|Decatur city|Incorporated Place|A|Wise County
+TX|48|19570|DeCordova city|Incorporated Place|A|Hood County
+TX|48|19624|Deer Park city|Incorporated Place|A|Harris County
+TX|48|19648|De Kalb city|Incorporated Place|A|Bowie County
+TX|48|19672|De Leon city|Incorporated Place|A|Comanche County
+TX|48|19708|Dell City city|Incorporated Place|A|Hudspeth County
+TX|48|19714|Del Mar Heights CDP|Census Designated Place|S|Cameron County
+TX|48|19732|Delmita CDP|Census Designated Place|S|Starr County
+TX|48|19792|Del Rio city|Incorporated Place|A|Val Verde County
+TX|48|19808|Del Sol CDP|Census Designated Place|S|San Patricio County
+TX|48|19900|Denison city|Incorporated Place|A|Grayson County
+TX|48|19972|Denton city|Incorporated Place|A|Denton County
+TX|48|19984|Denver City town|Incorporated Place|A|Gaines County, Yoakum County
+TX|48|20020|Deport city|Incorporated Place|A|Lamar County, Red River County
+TX|48|20092|DeSoto city|Incorporated Place|A|Dallas County
+TX|48|20128|Detroit town|Incorporated Place|A|Red River County
+TX|48|20140|Devers city|Incorporated Place|A|Liberty County
+TX|48|20152|Devine city|Incorporated Place|A|Medina County
+TX|48|20212|Deweyville CDP|Census Designated Place|S|Newton County
+TX|48|20248|D'Hanis CDP|Census Designated Place|S|Medina County
+TX|48|20308|Diboll city|Incorporated Place|A|Angelina County
+TX|48|20332|Dickens city|Incorporated Place|A|Dickens County
+TX|48|20344|Dickinson city|Incorporated Place|A|Galveston County
+TX|48|20428|Dilley city|Incorporated Place|A|Frio County
+TX|48|20464|Dimmitt city|Incorporated Place|A|Castro County
+TX|48|20540|DISH town|Incorporated Place|A|Denton County
+TX|48|20680|Dodd City town|Incorporated Place|A|Fannin County
+TX|48|20716|Dodson town|Incorporated Place|A|Collingsworth County
+TX|48|20734|Doffing CDP|Census Designated Place|S|Hidalgo County
+TX|48|20848|Domino town|Incorporated Place|A|Cass County
+TX|48|20884|Donna city|Incorporated Place|A|Hidalgo County
+TX|48|20926|Doolittle CDP|Census Designated Place|S|Hidalgo County
+TX|48|20932|Dorchester city|Incorporated Place|A|Grayson County
+TX|48|21028|Double Oak town|Incorporated Place|A|Denton County
+TX|48|21112|Douglassville town|Incorporated Place|A|Cass County
+TX|48|21283|Doyle CDP|Census Designated Place|S|San Patricio County
+TX|48|21412|Driftwood CDP|Census Designated Place|S|Hays County
+TX|48|21424|Dripping Springs city|Incorporated Place|A|Hays County
+TX|48|21436|Driscoll city|Incorporated Place|A|Nueces County
+TX|48|21484|Dublin city|Incorporated Place|A|Erath County
+TX|48|21556|Dumas city|Incorporated Place|A|Moore County
+TX|48|21628|Duncanville city|Incorporated Place|A|Dallas County
+TX|48|21844|Eagle Lake city|Incorporated Place|A|Colorado County
+TX|48|21892|Eagle Pass city|Incorporated Place|A|Maverick County
+TX|48|21904|Early city|Incorporated Place|A|Brown County
+TX|48|21928|Earth city|Incorporated Place|A|Lamb County
+TX|48|21958|East Alto Bonito CDP|Census Designated Place|S|Starr County
+TX|48|21988|East Bernard city|Incorporated Place|A|Wharton County
+TX|48|22132|Eastland city|Incorporated Place|A|Eastland County
+TX|48|22150|East Lopez CDP|Census Designated Place|S|Starr County
+TX|48|22168|East Mountain city|Incorporated Place|A|Gregg County, Upshur County
+TX|48|22192|Easton city|Incorporated Place|A|Gregg County, Rusk County
+TX|48|22276|East Tawakoni city|Incorporated Place|A|Rains County
+TX|48|22516|Ector city|Incorporated Place|A|Fannin County
+TX|48|22528|Edcouch city|Incorporated Place|A|Hidalgo County
+TX|48|22552|Eden city|Incorporated Place|A|Concho County
+TX|48|22588|Edgecliff Village town|Incorporated Place|A|Tarrant County
+TX|48|22593|Edgewater Estates CDP|Census Designated Place|S|San Patricio County
+TX|48|22612|Edgewood town|Incorporated Place|A|Van Zandt County
+TX|48|22660|Edinburg city|Incorporated Place|A|Hidalgo County
+TX|48|22708|Edmonson town|Incorporated Place|A|Hale County
+TX|48|22720|Edna city|Incorporated Place|A|Jackson County
+TX|48|22744|Edom city|Incorporated Place|A|Van Zandt County
+TX|48|22768|Edroy CDP|Census Designated Place|S|San Patricio County
+TX|48|22810|Eidson Road CDP|Census Designated Place|S|Maverick County
+TX|48|22840|Elbert CDP|Census Designated Place|S|Throckmorton County
+TX|48|22853|El Brazil CDP|Census Designated Place|S|Starr County
+TX|48|22858|El Camino Angosto CDP|Census Designated Place|S|Cameron County
+TX|48|22864|El Campo city|Incorporated Place|A|Wharton County
+TX|48|22892|El Castillo CDP|Census Designated Place|S|Starr County
+TX|48|22898|El Cenizo CDP|Census Designated Place|S|Starr County
+TX|48|22905|El Cenizo city|Incorporated Place|A|Webb County
+TX|48|22920|El Chaparral CDP|Census Designated Place|S|Starr County
+TX|48|22960|Eldorado city|Incorporated Place|A|Schleicher County
+TX|48|22984|Electra city|Incorporated Place|A|Wichita County
+TX|48|23044|Elgin city|Incorporated Place|A|Bastrop County, Travis County
+TX|48|23062|Elias-Fela Solis CDP|Census Designated Place|S|Starr County
+TX|48|23080|El Indio CDP|Census Designated Place|S|Maverick County
+TX|48|23140|Elkhart town|Incorporated Place|A|Anderson County
+TX|48|23164|El Lago city|Incorporated Place|A|Harris County
+TX|48|23254|Elm Creek CDP|Census Designated Place|S|Maverick County
+TX|48|23272|Elmendorf city|Incorporated Place|A|Bexar County, Wilson County
+TX|48|23278|El Mesquite CDP|Census Designated Place|S|Starr County
+TX|48|23356|Elmo CDP|Census Designated Place|S|Kaufman County
+TX|48|24000|El Paso city|Incorporated Place|A|El Paso County
+TX|48|24013|El Quiote CDP|Census Designated Place|S|Starr County
+TX|48|24015|El Rancho Vela CDP|Census Designated Place|S|Starr County
+TX|48|24018|El Refugio CDP|Census Designated Place|S|Starr County
+TX|48|24036|Elsa city|Incorporated Place|A|Hidalgo County
+TX|48|24055|El Socio CDP|Census Designated Place|S|Starr County
+TX|48|24158|Emerald Bay CDP|Census Designated Place|S|Smith County
+TX|48|24168|Emhouse town|Incorporated Place|A|Navarro County
+TX|48|24216|Emory city|Incorporated Place|A|Rains County
+TX|48|24223|Encantada-Ranchito-El Calaboz CDP|Census Designated Place|S|Cameron County
+TX|48|24228|Enchanted Oaks town|Incorporated Place|A|Henderson County
+TX|48|24240|Encinal city|Incorporated Place|A|La Salle County
+TX|48|24252|Encino CDP|Census Designated Place|S|Brooks County
+TX|48|24348|Ennis city|Incorporated Place|A|Ellis County
+TX|48|24552|Escobares city|Incorporated Place|A|Starr County
+TX|48|24558|Escobar I CDP|Census Designated Place|S|Starr County
+TX|48|24636|Estelline town|Incorporated Place|A|Hall County
+TX|48|24738|Eugenio Saenz CDP|Census Designated Place|S|Starr County
+TX|48|24768|Euless city|Incorporated Place|A|Tarrant County
+TX|48|24816|Eureka city|Incorporated Place|A|Navarro County
+TX|48|24828|Eustace city|Incorporated Place|A|Henderson County
+TX|48|24840|Evadale CDP|Census Designated Place|S|Jasper County
+TX|48|24864|Evant town|Incorporated Place|A|Coryell County, Hamilton County
+TX|48|24894|Evergreen CDP|Census Designated Place|S|Starr County
+TX|48|24912|Everman city|Incorporated Place|A|Tarrant County
+TX|48|25032|Fabens CDP|Census Designated Place|S|El Paso County
+TX|48|25038|Fabrica CDP|Census Designated Place|S|Maverick County
+TX|48|25068|Fairchilds village|Incorporated Place|A|Fort Bend County
+TX|48|25104|Fairfield city|Incorporated Place|A|Freestone County
+TX|48|25168|Fair Oaks Ranch city|Incorporated Place|A|Bexar County, Comal County, Kendall County
+TX|48|25224|Fairview town|Incorporated Place|A|Collin County
+TX|48|25338|Falconaire CDP|Census Designated Place|S|Starr County
+TX|48|25344|Falcon Heights CDP|Census Designated Place|S|Starr County
+TX|48|25348|Falcon Lake Estates CDP|Census Designated Place|S|Zapata County
+TX|48|25352|Falcon Mesa CDP|Census Designated Place|S|Zapata County
+TX|48|25356|Falcon Village CDP|Census Designated Place|S|Starr County
+TX|48|25368|Falfurrias city|Incorporated Place|A|Brooks County
+TX|48|25392|Falls City city|Incorporated Place|A|Karnes County
+TX|48|25397|Falman CDP|Census Designated Place|S|San Patricio County
+TX|48|25404|Fannett CDP|Census Designated Place|S|Jefferson County
+TX|48|25452|Farmers Branch city|Incorporated Place|A|Dallas County
+TX|48|25488|Farmersville city|Incorporated Place|A|Collin County
+TX|48|25548|Farwell city|Incorporated Place|A|Parmer County
+TX|48|25572|Fate city|Incorporated Place|A|Rockwall County
+TX|48|25644|Fayetteville city|Incorporated Place|A|Fayette County
+TX|48|25656|Faysville CDP|Census Designated Place|S|Hidalgo County
+TX|48|25744|Fernando Salinas CDP|Census Designated Place|S|Starr County
+TX|48|25752|Ferris city|Incorporated Place|A|Dallas County, Ellis County
+TX|48|25795|Fifth Street CDP|Census Designated Place|S|Fort Bend County
+TX|48|26028|Flatonia town|Incorporated Place|A|Fayette County
+TX|48|26130|Flor del Rio CDP|Census Designated Place|S|Starr County
+TX|48|26136|Florence city|Incorporated Place|A|Williamson County
+TX|48|26160|Floresville city|Incorporated Place|A|Wilson County
+TX|48|26220|Flowella CDP|Census Designated Place|S|Brooks County
+TX|48|26232|Flower Mound town|Incorporated Place|A|Denton County, Tarrant County
+TX|48|26268|Floydada city|Incorporated Place|A|Floyd County
+TX|48|26328|Follett city|Incorporated Place|A|Lipscomb County
+TX|48|26544|Forest Hill city|Incorporated Place|A|Tarrant County
+TX|48|26604|Forney city|Incorporated Place|A|Kaufman County
+TX|48|26640|Forsan city|Incorporated Place|A|Howard County
+TX|48|26664|Fort Bliss CDP|Census Designated Place|S|El Paso County
+TX|48|26680|Fort Clark Springs CDP|Census Designated Place|S|Kinney County
+TX|48|26688|Fort Davis CDP|Census Designated Place|S|Jeff Davis County
+TX|48|26724|Fort Hancock CDP|Census Designated Place|S|Hudspeth County
+TX|48|26736|Fort Hood CDP|Census Designated Place|S|Bell County, Coryell County
+TX|48|26808|Fort Stockton city|Incorporated Place|A|Pecos County
+TX|48|27000|Fort Worth city|Incorporated Place|A|Denton County, Parker County, Tarrant County, Wise County
+TX|48|27102|Four Corners CDP|Census Designated Place|S|Fort Bend County
+TX|48|27124|Four Points CDP|Census Designated Place|S|Webb County
+TX|48|27144|Fowlerton CDP|Census Designated Place|S|La Salle County
+TX|48|27288|Franklin city|Incorporated Place|A|Robertson County
+TX|48|27300|Frankston town|Incorporated Place|A|Anderson County, Henderson County
+TX|48|27348|Fredericksburg city|Incorporated Place|A|Gillespie County
+TX|48|27420|Freeport city|Incorporated Place|A|Brazoria County
+TX|48|27432|Freer city|Incorporated Place|A|Duval County
+TX|48|27540|Fresno CDP|Census Designated Place|S|Fort Bend County
+TX|48|27648|Friendswood city|Incorporated Place|A|Galveston County, Harris County
+TX|48|27660|Friona city|Incorporated Place|A|Parmer County
+TX|48|27684|Frisco city|Incorporated Place|A|Collin County, Denton County
+TX|48|27696|Fritch city|Incorporated Place|A|Hutchinson County, Moore County
+TX|48|27744|Fronton CDP|Census Designated Place|S|Starr County
+TX|48|27748|Fronton Ranchettes CDP|Census Designated Place|S|Starr County
+TX|48|27768|Frost city|Incorporated Place|A|Navarro County
+TX|48|27804|Fruitvale city|Incorporated Place|A|Van Zandt County
+TX|48|27876|Fulshear city|Incorporated Place|A|Fort Bend County
+TX|48|27888|Fulton town|Incorporated Place|A|Aransas County
+TX|48|27972|Gail CDP|Census Designated Place|S|Borden County
+TX|48|27984|Gainesville city|Incorporated Place|A|Cooke County
+TX|48|27996|Galena Park city|Incorporated Place|A|Harris County
+TX|48|28008|Gallatin city|Incorporated Place|A|Cherokee County
+TX|48|28068|Galveston city|Incorporated Place|A|Galveston County
+TX|48|28080|Ganado city|Incorporated Place|A|Jackson County
+TX|48|28128|Garceno CDP|Census Designated Place|S|Starr County
+TX|48|28152|Garciasville CDP|Census Designated Place|S|Starr County
+TX|48|28176|Garden City CDP|Census Designated Place|S|Glasscock County
+TX|48|28200|Gardendale CDP|Census Designated Place|S|Ector County
+TX|48|28248|Garden Ridge city|Incorporated Place|A|Comal County
+TX|48|28320|Garfield CDP|Census Designated Place|S|Travis County
+TX|48|29000|Garland city|Incorporated Place|A|Collin County, Dallas County, Rockwall County
+TX|48|29036|Garrett town|Incorporated Place|A|Ellis County
+TX|48|29060|Garrison city|Incorporated Place|A|Nacogdoches County
+TX|48|29108|Gary City town|Incorporated Place|A|Panola County
+TX|48|29114|Garza-Salinas II CDP|Census Designated Place|S|Starr County
+TX|48|29168|Gatesville city|Incorporated Place|A|Coryell County
+TX|48|29336|Georgetown city|Incorporated Place|A|Williamson County
+TX|48|29348|George West city|Incorporated Place|A|Live Oak County
+TX|48|29384|Geronimo CDP|Census Designated Place|S|Guadalupe County
+TX|48|29408|Gholson city|Incorporated Place|A|McLennan County
+TX|48|29432|Giddings city|Incorporated Place|A|Lee County
+TX|48|29564|Gilmer city|Incorporated Place|A|Upshur County
+TX|48|29612|Girard CDP|Census Designated Place|S|Kent County
+TX|48|29660|Gladewater city|Incorporated Place|A|Gregg County, Upshur County
+TX|48|29840|Glenn Heights city|Incorporated Place|A|Dallas County, Ellis County
+TX|48|29876|Glen Rose city|Incorporated Place|A|Somervell County
+TX|48|29912|Glidden CDP|Census Designated Place|S|Colorado County
+TX|48|29972|Godley city|Incorporated Place|A|Johnson County
+TX|48|30044|Goldsmith city|Incorporated Place|A|Ector County
+TX|48|30056|Goldthwaite city|Incorporated Place|A|Mills County
+TX|48|30080|Goliad city|Incorporated Place|A|Goliad County
+TX|48|30092|Golinda city|Incorporated Place|A|Falls County, McLennan County
+TX|48|30116|Gonzales city|Incorporated Place|A|Gonzales County
+TX|48|30188|Goodlow city|Incorporated Place|A|Navarro County
+TX|48|30224|Goodrich city|Incorporated Place|A|Polk County
+TX|48|30272|Gordon city|Incorporated Place|A|Palo Pinto County
+TX|48|30296|Goree city|Incorporated Place|A|Knox County
+TX|48|30308|Gorman city|Incorporated Place|A|Eastland County
+TX|48|30380|Graford city|Incorporated Place|A|Palo Pinto County
+TX|48|30392|Graham city|Incorporated Place|A|Young County
+TX|48|30416|Granbury city|Incorporated Place|A|Hood County
+TX|48|30422|Grand Acres CDP|Census Designated Place|S|Cameron County
+TX|48|30440|Grandfalls town|Incorporated Place|A|Ward County
+TX|48|30464|Grand Prairie city|Incorporated Place|A|Dallas County, Ellis County, Tarrant County
+TX|48|30476|Grand Saline city|Incorporated Place|A|Van Zandt County
+TX|48|30512|Grandview city|Incorporated Place|A|Johnson County
+TX|48|30548|Granger city|Incorporated Place|A|Williamson County
+TX|48|30584|Granite Shoals city|Incorporated Place|A|Burnet County
+TX|48|30608|Granjeno city|Incorporated Place|A|Hidalgo County
+TX|48|30629|Grape Creek CDP|Census Designated Place|S|Tom Green County
+TX|48|30632|Grapeland city|Incorporated Place|A|Houston County
+TX|48|30644|Grapevine city|Incorporated Place|A|Dallas County, Denton County, Tarrant County
+TX|48|30752|Grays Prairie village|Incorporated Place|A|Kaufman County
+TX|48|30806|Greatwood CDP|Census Designated Place|S|Fort Bend County
+TX|48|30890|Green Valley Farms CDP|Census Designated Place|S|Cameron County
+TX|48|30920|Greenville city|Incorporated Place|A|Hunt County
+TX|48|31064|Gregory city|Incorporated Place|A|San Patricio County
+TX|48|31100|Grey Forest city|Incorporated Place|A|Bexar County
+TX|48|31280|Groesbeck city|Incorporated Place|A|Limestone County
+TX|48|31292|Groom town|Incorporated Place|A|Carson County
+TX|48|31328|Groves city|Incorporated Place|A|Jefferson County
+TX|48|31340|Groveton city|Incorporated Place|A|Trinity County
+TX|48|31412|Gruver city|Incorporated Place|A|Hansford County
+TX|48|31442|Guadalupe-Guerra CDP|Census Designated Place|S|Starr County
+TX|48|31484|Guerra CDP|Census Designated Place|S|Jim Hogg County
+TX|48|31592|Gun Barrel City city|Incorporated Place|A|Henderson County
+TX|48|31616|Gunter city|Incorporated Place|A|Grayson County
+TX|48|31628|Gustine town|Incorporated Place|A|Comanche County
+TX|48|31640|Guthrie CDP|Census Designated Place|S|King County
+TX|48|31646|Gutierrez CDP|Census Designated Place|S|Starr County
+TX|48|31715|Hackberry town|Incorporated Place|A|Denton County
+TX|48|31820|Hale Center city|Incorporated Place|A|Hale County
+TX|48|31868|Hallettsville city|Incorporated Place|A|Lavaca County
+TX|48|31880|Hallsburg city|Incorporated Place|A|McLennan County
+TX|48|31904|Hallsville city|Incorporated Place|A|Harrison County
+TX|48|31928|Haltom City city|Incorporated Place|A|Tarrant County
+TX|48|31952|Hamilton city|Incorporated Place|A|Hamilton County
+TX|48|31964|Hamlin city|Incorporated Place|A|Fisher County, Jones County
+TX|48|32156|Happy town|Incorporated Place|A|Randall County, Swisher County
+TX|48|32240|Hardin city|Incorporated Place|A|Liberty County
+TX|48|32300|Hargill CDP|Census Designated Place|S|Hidalgo County
+TX|48|32312|Harker Heights city|Incorporated Place|A|Bell County
+TX|48|32372|Harlingen city|Incorporated Place|A|Cameron County
+TX|48|32456|Harper CDP|Census Designated Place|S|Gillespie County
+TX|48|32576|Hart city|Incorporated Place|A|Castro County
+TX|48|32612|Hartley CDP|Census Designated Place|S|Hartley County
+TX|48|32696|Haskell city|Incorporated Place|A|Haskell County
+TX|48|32720|Haslet city|Incorporated Place|A|Denton County, Tarrant County
+TX|48|32792|Havana CDP|Census Designated Place|S|Hidalgo County
+TX|48|32810|Hawk Cove city|Incorporated Place|A|Hunt County
+TX|48|32816|Hawkins city|Incorporated Place|A|Wood County
+TX|48|32840|Hawley city|Incorporated Place|A|Jones County
+TX|48|32906|Hays city|Incorporated Place|A|Hays County
+TX|48|32910|H. Cuellar Estates CDP|Census Designated Place|S|Starr County
+TX|48|32972|Hearne city|Incorporated Place|A|Robertson County
+TX|48|32984|Heath city|Incorporated Place|A|Kaufman County, Rockwall County
+TX|48|33008|Hebbronville CDP|Census Designated Place|S|Jim Hogg County
+TX|48|33020|Hebron town|Incorporated Place|A|Collin County, Denton County
+TX|48|33044|Hedley city|Incorporated Place|A|Donley County
+TX|48|33068|Hedwig Village city|Incorporated Place|A|Harris County
+TX|48|33092|Heidelberg CDP|Census Designated Place|S|Hidalgo County
+TX|48|33146|Helotes city|Incorporated Place|A|Bexar County
+TX|48|33188|Hemphill city|Incorporated Place|A|Sabine County
+TX|48|33200|Hempstead city|Incorporated Place|A|Waller County
+TX|48|33212|Henderson city|Incorporated Place|A|Rusk County
+TX|48|33284|Henrietta city|Incorporated Place|A|Clay County
+TX|48|33320|Hereford city|Incorporated Place|A|Deaf Smith County
+TX|48|33356|Hermleigh CDP|Census Designated Place|S|Scurry County
+TX|48|33428|Hewitt city|Incorporated Place|A|McLennan County
+TX|48|33476|Hickory Creek town|Incorporated Place|A|Denton County
+TX|48|33548|Hico city|Incorporated Place|A|Erath County, Hamilton County
+TX|48|33560|Hidalgo city|Incorporated Place|A|Hidalgo County
+TX|48|33578|Hideaway city|Incorporated Place|A|Smith County
+TX|48|33608|Higgins city|Incorporated Place|A|Lipscomb County
+TX|48|33794|Highland Haven city|Incorporated Place|A|Burnet County
+TX|48|33824|Highland Park town|Incorporated Place|A|Dallas County
+TX|48|33836|Highlands CDP|Census Designated Place|S|Harris County
+TX|48|33848|Highland Village city|Incorporated Place|A|Denton County
+TX|48|33968|Hill Country Village city|Incorporated Place|A|Bexar County
+TX|48|33980|Hillcrest village|Incorporated Place|A|Brazoria County
+TX|48|34088|Hillsboro city|Incorporated Place|A|Hill County
+TX|48|34105|Hillside Acres CDP|Census Designated Place|S|Webb County
+TX|48|34130|Hilltop CDP|Census Designated Place|S|Frio County
+TX|48|34133|Hilltop CDP|Census Designated Place|S|Starr County
+TX|48|34136|Hilltop Lakes CDP|Census Designated Place|S|Leon County
+TX|48|34148|Hilshire Village city|Incorporated Place|A|Harris County
+TX|48|34220|Hitchcock city|Incorporated Place|A|Galveston County
+TX|48|34478|Holiday Beach CDP|Census Designated Place|S|Aransas County
+TX|48|34502|Holiday Lakes town|Incorporated Place|A|Brazoria County
+TX|48|34508|Holland town|Incorporated Place|A|Bell County
+TX|48|34532|Holliday city|Incorporated Place|A|Archer County
+TX|48|34586|Holly Lake Ranch CDP|Census Designated Place|S|Wood County
+TX|48|34628|Hollywood Park town|Incorporated Place|A|Bexar County
+TX|48|34671|Homestead Meadows North CDP|Census Designated Place|S|El Paso County
+TX|48|34673|Homestead Meadows South CDP|Census Designated Place|S|El Paso County
+TX|48|34676|Hondo city|Incorporated Place|A|Medina County
+TX|48|34700|Honey Grove city|Incorporated Place|A|Fannin County
+TX|48|34736|Hooks city|Incorporated Place|A|Bowie County
+TX|48|34832|Horizon City city|Incorporated Place|A|El Paso County
+TX|48|34856|Hornsby Bend CDP|Census Designated Place|S|Travis County
+TX|48|34862|Horseshoe Bay city|Incorporated Place|A|Burnet County, Llano County
+TX|48|34865|Horseshoe Bend CDP|Census Designated Place|S|Parker County
+TX|48|35000|Houston city|Incorporated Place|A|Fort Bend County, Harris County, Montgomery County
+TX|48|35072|Howardwick city|Incorporated Place|A|Donley County
+TX|48|35084|Howe town|Incorporated Place|A|Grayson County
+TX|48|35180|Hubbard city|Incorporated Place|A|Hill County
+TX|48|35228|Hudson city|Incorporated Place|A|Angelina County
+TX|48|35253|Hudson Bend CDP|Census Designated Place|S|Travis County
+TX|48|35254|Hudson Oaks city|Incorporated Place|A|Parker County
+TX|48|35300|Hughes Springs city|Incorporated Place|A|Cass County, Morris County
+TX|48|35324|Hull CDP|Census Designated Place|S|Liberty County
+TX|48|35348|Humble city|Incorporated Place|A|Harris County
+TX|48|35420|Hungerford CDP|Census Designated Place|S|Wharton County
+TX|48|35480|Hunters Creek Village city|Incorporated Place|A|Harris County
+TX|48|35492|Huntington city|Incorporated Place|A|Angelina County
+TX|48|35528|Huntsville city|Incorporated Place|A|Walker County
+TX|48|35576|Hurst city|Incorporated Place|A|Tarrant County
+TX|48|35612|Hutchins city|Incorporated Place|A|Dallas County
+TX|48|35624|Hutto city|Incorporated Place|A|Williamson County
+TX|48|35636|Huxley city|Incorporated Place|A|Shelby County
+TX|48|35684|Iago CDP|Census Designated Place|S|Wharton County
+TX|48|35732|Idalou city|Incorporated Place|A|Lubbock County
+TX|48|35754|Iglesia Antigua CDP|Census Designated Place|S|Cameron County
+TX|48|35816|Impact town|Incorporated Place|A|Taylor County
+TX|48|35828|Imperial CDP|Census Designated Place|S|Pecos County
+TX|48|35915|Indian Hills CDP|Census Designated Place|S|Hidalgo County
+TX|48|35918|Indian Lake town|Incorporated Place|A|Cameron County
+TX|48|35954|Indian Springs CDP|Census Designated Place|S|Polk County
+TX|48|35966|Indio CDP|Census Designated Place|S|Starr County
+TX|48|35984|Industry city|Incorporated Place|A|Austin County
+TX|48|35996|Inez CDP|Census Designated Place|S|Victoria County
+TX|48|36008|Ingleside city|Incorporated Place|A|Nueces County, San Patricio County
+TX|48|36020|Ingleside on the Bay city|Incorporated Place|A|San Patricio County
+TX|48|36032|Ingram city|Incorporated Place|A|Kerr County
+TX|48|36068|Iola city|Incorporated Place|A|Grimes County
+TX|48|36092|Iowa Colony village|Incorporated Place|A|Brazoria County
+TX|48|36104|Iowa Park city|Incorporated Place|A|Wichita County
+TX|48|36128|Iraan city|Incorporated Place|A|Pecos County
+TX|48|36140|Iredell city|Incorporated Place|A|Bosque County
+TX|48|37000|Irving city|Incorporated Place|A|Dallas County
+TX|48|37072|Italy town|Incorporated Place|A|Ellis County
+TX|48|37084|Itasca city|Incorporated Place|A|Hill County
+TX|48|37112|Ivanhoe city|Incorporated Place|A|Tyler County
+TX|48|37116|Ivanhoe North city|Incorporated Place|A|Tyler County
+TX|48|37156|Jacinto City city|Incorporated Place|A|Harris County
+TX|48|37168|Jacksboro city|Incorporated Place|A|Jack County
+TX|48|37216|Jacksonville city|Incorporated Place|A|Cherokee County
+TX|48|37252|Jamaica Beach city|Incorporated Place|A|Galveston County
+TX|48|37390|Jardin de San Julian CDP|Census Designated Place|S|Starr County
+TX|48|37396|Jarrell city|Incorporated Place|A|Williamson County
+TX|48|37420|Jasper city|Incorporated Place|A|Jasper County
+TX|48|37468|Jayton city|Incorporated Place|A|Kent County
+TX|48|37528|Jefferson city|Incorporated Place|A|Marion County
+TX|48|37612|Jersey Village city|Incorporated Place|A|Harris County
+TX|48|37648|Jewett city|Incorporated Place|A|Leon County
+TX|48|37665|JF Villarreal CDP|Census Designated Place|S|Starr County
+TX|48|37684|Joaquin city|Incorporated Place|A|Shelby County
+TX|48|37780|Johnson City city|Incorporated Place|A|Blanco County
+TX|48|37924|Jolly city|Incorporated Place|A|Clay County
+TX|48|37936|Jollyville CDP|Census Designated Place|S|Travis County, Williamson County
+TX|48|37984|Jones Creek village|Incorporated Place|A|Brazoria County
+TX|48|38020|Jonestown city|Incorporated Place|A|Travis County
+TX|48|38068|Josephine city|Incorporated Place|A|Collin County, Hunt County
+TX|48|38080|Joshua city|Incorporated Place|A|Johnson County
+TX|48|38116|Jourdanton city|Incorporated Place|A|Atascosa County
+TX|48|38168|Juarez CDP|Census Designated Place|S|Cameron County
+TX|48|38248|Junction city|Incorporated Place|A|Kimble County
+TX|48|38332|Justin city|Incorporated Place|A|Denton County
+TX|48|38452|Karnes City city|Incorporated Place|A|Karnes County
+TX|48|38476|Katy city|Incorporated Place|A|Fort Bend County, Harris County, Waller County
+TX|48|38488|Kaufman city|Incorporated Place|A|Kaufman County
+TX|48|38518|K-Bar Ranch CDP|Census Designated Place|S|Jim Wells County
+TX|48|38548|Keene city|Incorporated Place|A|Johnson County
+TX|48|38632|Keller city|Incorporated Place|A|Tarrant County
+TX|48|38776|Kemah city|Incorporated Place|A|Galveston County
+TX|48|38788|Kemp city|Incorporated Place|A|Kaufman County
+TX|48|38800|Kempner city|Incorporated Place|A|Lampasas County
+TX|48|38848|Kendleton city|Incorporated Place|A|Fort Bend County
+TX|48|38860|Kenedy city|Incorporated Place|A|Karnes County
+TX|48|38872|Kenefick town|Incorporated Place|A|Liberty County
+TX|48|38884|Kennard city|Incorporated Place|A|Houston County
+TX|48|38896|Kennedale city|Incorporated Place|A|Tarrant County
+TX|48|38992|Kerens city|Incorporated Place|A|Navarro County
+TX|48|39004|Kermit city|Incorporated Place|A|Winkler County
+TX|48|39040|Kerrville city|Incorporated Place|A|Kerr County
+TX|48|39124|Kilgore city|Incorporated Place|A|Gregg County, Rusk County
+TX|48|39148|Killeen city|Incorporated Place|A|Bell County
+TX|48|39292|Kingsbury CDP|Census Designated Place|S|Guadalupe County
+TX|48|39304|Kingsland CDP|Census Designated Place|S|Llano County
+TX|48|39352|Kingsville city|Incorporated Place|A|Kleberg County
+TX|48|39448|Kirby city|Incorporated Place|A|Bexar County
+TX|48|39460|Kirbyville city|Incorporated Place|A|Jasper County
+TX|48|39520|Kirvin town|Incorporated Place|A|Freestone County
+TX|48|39664|Knippa CDP|Census Designated Place|S|Uvalde County
+TX|48|39680|Knollwood city|Incorporated Place|A|Grayson County
+TX|48|39700|Knox City town|Incorporated Place|A|Knox County
+TX|48|39844|Kosse town|Incorporated Place|A|Limestone County
+TX|48|39868|Kountze city|Incorporated Place|A|Hardin County
+TX|48|39904|Kress city|Incorporated Place|A|Swisher County
+TX|48|39916|Krugerville city|Incorporated Place|A|Denton County
+TX|48|39928|Krum city|Incorporated Place|A|Denton County
+TX|48|39940|Kurten town|Incorporated Place|A|Brazos County
+TX|48|39952|Kyle city|Incorporated Place|A|Hays County
+TX|48|39988|La Blanca CDP|Census Designated Place|S|Hidalgo County
+TX|48|39994|La Carla CDP|Census Designated Place|S|Starr County
+TX|48|40000|La Casita CDP|Census Designated Place|S|Starr County
+TX|48|40018|La Chuparosa CDP|Census Designated Place|S|Starr County
+TX|48|40036|Lackland AFB CDP|Census Designated Place|S|Bexar County
+TX|48|40100|La Coma CDP|Census Designated Place|S|Webb County
+TX|48|40108|LaCoste city|Incorporated Place|A|Medina County
+TX|48|40168|Lacy-Lakeview city|Incorporated Place|A|McLennan County
+TX|48|40180|Ladonia town|Incorporated Place|A|Fannin County
+TX|48|40186|La Escondida CDP|Census Designated Place|S|Starr County
+TX|48|40188|La Esperanza CDP|Census Designated Place|S|Starr County
+TX|48|40204|La Feria city|Incorporated Place|A|Cameron County
+TX|48|40210|La Feria North CDP|Census Designated Place|S|Cameron County
+TX|48|40258|Lago CDP|Census Designated Place|S|Cameron County
+TX|48|40264|Lago Vista city|Incorporated Place|A|Travis County
+TX|48|40270|Lago Vista CDP|Census Designated Place|S|Starr County
+TX|48|40276|La Grange city|Incorporated Place|A|Fayette County
+TX|48|40288|La Grulla city|Incorporated Place|A|Starr County
+TX|48|40300|Laguna Heights CDP|Census Designated Place|S|Cameron County
+TX|48|40312|Laguna Park CDP|Census Designated Place|S|Bosque County
+TX|48|40320|Laguna Seca CDP|Census Designated Place|S|Hidalgo County
+TX|48|40336|Laguna Vista town|Incorporated Place|A|Cameron County
+TX|48|40342|La Homa CDP|Census Designated Place|S|Hidalgo County
+TX|48|40384|La Joya city|Incorporated Place|A|Hidalgo County
+TX|48|40450|Lake Bridgeport city|Incorporated Place|A|Wise County
+TX|48|40456|Lake Brownwood CDP|Census Designated Place|S|Brown County
+TX|48|40462|Lake Bryan CDP|Census Designated Place|S|Brazos County
+TX|48|40468|Lake Cherokee CDP|Census Designated Place|S|Gregg County, Rusk County
+TX|48|40472|Lake City town|Incorporated Place|A|San Patricio County
+TX|48|40475|Lake Colorado City CDP|Census Designated Place|S|Mitchell County
+TX|48|40516|Lake Dallas city|Incorporated Place|A|Denton County
+TX|48|40522|Lake Dunlap CDP|Census Designated Place|S|Guadalupe County
+TX|48|40576|Lakehills CDP|Census Designated Place|S|Bandera County
+TX|48|40588|Lake Jackson city|Incorporated Place|A|Brazoria County
+TX|48|40624|Lake Kiowa CDP|Census Designated Place|S|Cooke County
+TX|48|40674|Lake Medina Shores CDP|Census Designated Place|S|Bandera County, Medina County
+TX|48|40676|Lake Meredith Estates CDP|Census Designated Place|S|Hutchinson County
+TX|48|40696|Lakeport city|Incorporated Place|A|Gregg County
+TX|48|40714|Lakeshore Gardens-Hidden Acres CDP|Census Designated Place|S|San Patricio County
+TX|48|40738|Lakeside town|Incorporated Place|A|San Patricio County
+TX|48|40744|Lakeside town|Incorporated Place|A|Tarrant County
+TX|48|40756|Lakeside City town|Incorporated Place|A|Archer County
+TX|48|40804|Lake Tanglewood village|Incorporated Place|A|Randall County
+TX|48|40888|Lakeview town|Incorporated Place|A|Hall County
+TX|48|40966|Lake View CDP|Census Designated Place|S|Val Verde County
+TX|48|40984|Lakeway city|Incorporated Place|A|Travis County
+TX|48|41050|Lakewood Village city|Incorporated Place|A|Denton County
+TX|48|41056|Lake Worth city|Incorporated Place|A|Tarrant County
+TX|48|41086|La Loma de Falcon CDP|Census Designated Place|S|Starr County
+TX|48|41092|Lamar CDP|Census Designated Place|S|Aransas County
+TX|48|41116|La Marque city|Incorporated Place|A|Galveston County
+TX|48|41164|Lamesa city|Incorporated Place|A|Dawson County
+TX|48|41170|La Minita CDP|Census Designated Place|S|Starr County
+TX|48|41188|Lampasas city|Incorporated Place|A|Lampasas County
+TX|48|41212|Lancaster city|Incorporated Place|A|Dallas County
+TX|48|41404|Lantana CDP|Census Designated Place|S|Denton County
+TX|48|41416|La Paloma CDP|Census Designated Place|S|Cameron County
+TX|48|41420|La Paloma Addition CDP|Census Designated Place|S|San Patricio County
+TX|48|41422|La Paloma-Lost Creek CDP|Census Designated Place|S|Nueces County
+TX|48|41424|La Paloma Ranchettes CDP|Census Designated Place|S|Starr County
+TX|48|41440|La Porte city|Incorporated Place|A|Harris County
+TX|48|41449|La Presa CDP|Census Designated Place|S|Webb County
+TX|48|41452|La Pryor CDP|Census Designated Place|S|Zavala County
+TX|48|41458|La Puerta CDP|Census Designated Place|S|Starr County
+TX|48|41464|Laredo city|Incorporated Place|A|Webb County
+TX|48|41473|Laredo Ranchettes CDP|Census Designated Place|S|Webb County
+TX|48|41475|Laredo Ranchettes West CDP|Census Designated Place|S|Webb County
+TX|48|41503|La Rosita CDP|Census Designated Place|S|Starr County
+TX|48|41542|Lasana CDP|Census Designated Place|S|Cameron County
+TX|48|41548|Lasara CDP|Census Designated Place|S|Willacy County
+TX|48|41565|Las Haciendas CDP|Census Designated Place|S|Webb County
+TX|48|41566|Las Lomas CDP|Census Designated Place|S|Starr County
+TX|48|41569|Las Lomitas CDP|Census Designated Place|S|Jim Hogg County
+TX|48|41579|Las Palmas CDP|Census Designated Place|S|Zapata County
+TX|48|41580|Las Palmas II CDP|Census Designated Place|S|Cameron County
+TX|48|41582|Las Pilas CDP|Census Designated Place|S|Webb County
+TX|48|41583|Las Quintas Fronterizas CDP|Census Designated Place|S|Maverick County
+TX|48|41644|Latexo city|Incorporated Place|A|Houston County
+TX|48|41660|La Tina Ranch CDP|Census Designated Place|S|Cameron County
+TX|48|41704|Laughlin AFB CDP|Census Designated Place|S|Val Verde County
+TX|48|41728|Laureles CDP|Census Designated Place|S|Cameron County
+TX|48|41764|La Vernia city|Incorporated Place|A|Wilson County
+TX|48|41782|La Victoria CDP|Census Designated Place|S|Starr County
+TX|48|41788|La Villa city|Incorporated Place|A|Hidalgo County
+TX|48|41800|Lavon city|Incorporated Place|A|Collin County
+TX|48|41848|La Ward city|Incorporated Place|A|Jackson County
+TX|48|41872|Lawn town|Incorporated Place|A|Taylor County
+TX|48|41980|League City city|Incorporated Place|A|Galveston County, Harris County
+TX|48|42004|Leakey city|Incorporated Place|A|Real County
+TX|48|42016|Leander city|Incorporated Place|A|Travis County, Williamson County
+TX|48|42028|Leary city|Incorporated Place|A|Bowie County
+TX|48|42148|Lefors town|Incorporated Place|A|Gray County
+TX|48|42256|Leming CDP|Census Designated Place|S|Atascosa County
+TX|48|42340|Leona city|Incorporated Place|A|Leon County
+TX|48|42352|Leonard city|Incorporated Place|A|Fannin County
+TX|48|42388|Leon Valley city|Incorporated Place|A|Bexar County
+TX|48|42400|Leroy city|Incorporated Place|A|McLennan County
+TX|48|42448|Levelland city|Incorporated Place|A|Hockley County
+TX|48|42508|Lewisville city|Incorporated Place|A|Dallas County, Denton County
+TX|48|42532|Lexington town|Incorporated Place|A|Lee County
+TX|48|42568|Liberty city|Incorporated Place|A|Liberty County
+TX|48|42616|Liberty City CDP|Census Designated Place|S|Gregg County
+TX|48|42664|Liberty Hill city|Incorporated Place|A|Williamson County
+TX|48|42808|Lincoln Park town|Incorporated Place|A|Denton County
+TX|48|42820|Lindale city|Incorporated Place|A|Smith County
+TX|48|42844|Linden city|Incorporated Place|A|Cass County
+TX|48|42868|Lindsay city|Incorporated Place|A|Cooke County
+TX|48|42874|Lindsay CDP|Census Designated Place|S|Reeves County
+TX|48|42916|Linn CDP|Census Designated Place|S|Hidalgo County
+TX|48|42940|Lipan city|Incorporated Place|A|Hood County
+TX|48|42952|Lipscomb CDP|Census Designated Place|S|Lipscomb County
+TX|48|43012|Little Elm city|Incorporated Place|A|Denton County
+TX|48|43024|Littlefield city|Incorporated Place|A|Lamb County
+TX|48|43066|Little River-Academy city|Incorporated Place|A|Bell County
+TX|48|43096|Live Oak city|Incorporated Place|A|Bexar County
+TX|48|43120|Liverpool city|Incorporated Place|A|Brazoria County
+TX|48|43132|Livingston town|Incorporated Place|A|Polk County
+TX|48|43144|Llano city|Incorporated Place|A|Llano County
+TX|48|43150|Llano Grande CDP|Census Designated Place|S|Hidalgo County
+TX|48|43240|Lockhart city|Incorporated Place|A|Caldwell County
+TX|48|43252|Lockney town|Incorporated Place|A|Floyd County
+TX|48|43354|Log Cabin city|Incorporated Place|A|Henderson County
+TX|48|43432|Lolita CDP|Census Designated Place|S|Jackson County
+TX|48|43458|Loma Grande CDP|Census Designated Place|S|Zavala County
+TX|48|43460|Loma Linda CDP|Census Designated Place|S|San Patricio County
+TX|48|43462|Loma Linda East CDP|Census Designated Place|S|Jim Wells County
+TX|48|43463|Loma Linda East CDP|Census Designated Place|S|Starr County
+TX|48|43465|Loma Linda West CDP|Census Designated Place|S|Starr County
+TX|48|43474|Loma Vista CDP|Census Designated Place|S|Starr County
+TX|48|43516|Lometa city|Incorporated Place|A|Lampasas County
+TX|48|43636|Lone Oak city|Incorporated Place|A|Hunt County
+TX|48|43684|Lone Star city|Incorporated Place|A|Morris County
+TX|48|43822|Longoria CDP|Census Designated Place|S|Starr County
+TX|48|43888|Longview city|Incorporated Place|A|Gregg County, Harrison County
+TX|48|43948|Loop CDP|Census Designated Place|S|Gaines County
+TX|48|43960|Lopeño CDP|Census Designated Place|S|Zapata County
+TX|48|43972|Lopezville CDP|Census Designated Place|S|Hidalgo County
+TX|48|43996|Loraine town|Incorporated Place|A|Mitchell County
+TX|48|44020|Lorena city|Incorporated Place|A|McLennan County
+TX|48|44032|Lorenzo city|Incorporated Place|A|Crosby County
+TX|48|44038|Los Altos CDP|Census Designated Place|S|Webb County
+TX|48|44044|Los Alvarez CDP|Census Designated Place|S|Starr County
+TX|48|44062|Los Angeles CDP|Census Designated Place|S|Willacy County
+TX|48|44072|Los Arcos CDP|Census Designated Place|S|Webb County
+TX|48|44075|Los Arrieros CDP|Census Designated Place|S|Starr County
+TX|48|44076|Los Barreras CDP|Census Designated Place|S|Starr County
+TX|48|44078|Los Centenarios CDP|Census Designated Place|S|Webb County
+TX|48|44079|Los Corralitos CDP|Census Designated Place|S|Webb County
+TX|48|44104|Los Ebanos CDP|Census Designated Place|S|Hidalgo County
+TX|48|44110|Los Ebanos CDP|Census Designated Place|S|Starr County
+TX|48|44116|Los Fresnos city|Incorporated Place|A|Cameron County
+TX|48|44120|Los Fresnos CDP|Census Designated Place|S|Webb County
+TX|48|44123|Los Huisaches CDP|Census Designated Place|S|Webb County
+TX|48|44128|Los Indios town|Incorporated Place|A|Cameron County
+TX|48|44142|Los Lobos CDP|Census Designated Place|S|Zapata County
+TX|48|44145|Los Minerales CDP|Census Designated Place|S|Webb County
+TX|48|44146|Los Nopalitos CDP|Census Designated Place|S|Webb County
+TX|48|44166|Lost Creek CDP|Census Designated Place|S|Travis County
+TX|48|44167|Los Veteranos I CDP|Census Designated Place|S|Webb County
+TX|48|44168|Los Veteranos II CDP|Census Designated Place|S|Webb County
+TX|48|44170|Los Ybanez city|Incorporated Place|A|Dawson County
+TX|48|44176|Lott city|Incorporated Place|A|Falls County
+TX|48|44212|Louise CDP|Census Designated Place|S|Wharton County
+TX|48|44260|Lovelady city|Incorporated Place|A|Houston County
+TX|48|44308|Lowry Crossing city|Incorporated Place|A|Collin County
+TX|48|44344|Lozano CDP|Census Designated Place|S|Cameron County
+TX|48|45000|Lubbock city|Incorporated Place|A|Lubbock County
+TX|48|45012|Lucas city|Incorporated Place|A|Collin County
+TX|48|45048|Lueders city|Incorporated Place|A|Jones County, Shackelford County
+TX|48|45072|Lufkin city|Incorporated Place|A|Angelina County
+TX|48|45096|Luling city|Incorporated Place|A|Caldwell County, Guadalupe County
+TX|48|45120|Lumberton city|Incorporated Place|A|Hardin County
+TX|48|45228|Lyford city|Incorporated Place|A|Willacy County
+TX|48|45288|Lytle city|Incorporated Place|A|Atascosa County, Bexar County, Medina County
+TX|48|45324|Mabank town|Incorporated Place|A|Henderson County, Kaufman County
+TX|48|45384|McAllen city|Incorporated Place|A|Hidalgo County
+TX|48|45432|McCamey city|Incorporated Place|A|Upton County
+TX|48|45564|McDade CDP|Census Designated Place|S|Bastrop County
+TX|48|45576|Macdona CDP|Census Designated Place|S|Bexar County
+TX|48|45672|McGregor city|Incorporated Place|A|Coryell County, McLennan County
+TX|48|45744|McKinney city|Incorporated Place|A|Collin County
+TX|48|45750|McKinney Acres CDP|Census Designated Place|S|Andrews County
+TX|48|45780|McLean town|Incorporated Place|A|Gray County
+TX|48|45804|McLendon-Chisholm city|Incorporated Place|A|Rockwall County
+TX|48|45948|McQueeney CDP|Census Designated Place|S|Guadalupe County
+TX|48|45996|Madisonville city|Incorporated Place|A|Madison County
+TX|48|46056|Magnolia city|Incorporated Place|A|Montgomery County
+TX|48|46224|Malakoff city|Incorporated Place|A|Henderson County
+TX|48|46260|Malone town|Incorporated Place|A|Hill County
+TX|48|46308|Manchaca CDP|Census Designated Place|S|Travis County
+TX|48|46440|Manor city|Incorporated Place|A|Travis County
+TX|48|46452|Mansfield city|Incorporated Place|A|Ellis County, Johnson County, Tarrant County
+TX|48|46492|Manuel Garcia CDP|Census Designated Place|S|Starr County
+TX|48|46494|Manuel Garcia II CDP|Census Designated Place|S|Starr County
+TX|48|46500|Manvel city|Incorporated Place|A|Brazoria County
+TX|48|46572|Marathon CDP|Census Designated Place|S|Brewster County
+TX|48|46584|Marble Falls city|Incorporated Place|A|Burnet County
+TX|48|46620|Marfa city|Incorporated Place|A|Presidio County
+TX|48|46668|Marietta town|Incorporated Place|A|Cass County
+TX|48|46692|Marion city|Incorporated Place|A|Guadalupe County
+TX|48|46716|Markham CDP|Census Designated Place|S|Matagorda County
+TX|48|46740|Marlin city|Incorporated Place|A|Falls County
+TX|48|46752|Marquez city|Incorporated Place|A|Leon County
+TX|48|46776|Marshall city|Incorporated Place|A|Harrison County
+TX|48|46824|Mart city|Incorporated Place|A|Limestone County, McLennan County
+TX|48|46848|Martindale city|Incorporated Place|A|Caldwell County
+TX|48|46854|Martinez CDP|Census Designated Place|S|Starr County
+TX|48|46968|Mason city|Incorporated Place|A|Mason County
+TX|48|47004|Matador town|Incorporated Place|A|Motley County
+TX|48|47016|Matagorda CDP|Census Designated Place|S|Matagorda County
+TX|48|47040|Mathis city|Incorporated Place|A|San Patricio County
+TX|48|47088|Maud city|Incorporated Place|A|Bowie County
+TX|48|47100|Mauriceville CDP|Census Designated Place|S|Orange County
+TX|48|47268|Maypearl city|Incorporated Place|A|Ellis County
+TX|48|47316|Meadow town|Incorporated Place|A|Terry County
+TX|48|47330|Meadowlakes city|Incorporated Place|A|Burnet County
+TX|48|47337|Meadows Place city|Incorporated Place|A|Fort Bend County
+TX|48|47406|Medina CDP|Census Designated Place|S|Zapata County
+TX|48|47460|Megargel town|Incorporated Place|A|Archer County
+TX|48|47496|Melissa city|Incorporated Place|A|Collin County
+TX|48|47568|Melvin town|Incorporated Place|A|McCulloch County
+TX|48|47616|Memphis city|Incorporated Place|A|Hall County
+TX|48|47628|Menard city|Incorporated Place|A|Menard County
+TX|48|47676|Mentone CDP|Census Designated Place|S|Loving County
+TX|48|47700|Mercedes city|Incorporated Place|A|Hidalgo County
+TX|48|47760|Meridian city|Incorporated Place|A|Bosque County
+TX|48|47796|Merkel town|Incorporated Place|A|Taylor County
+TX|48|47820|Mertens town|Incorporated Place|A|Hill County
+TX|48|47832|Mertzon city|Incorporated Place|A|Irion County
+TX|48|47892|Mesquite city|Incorporated Place|A|Dallas County, Kaufman County
+TX|48|47898|Mesquite CDP|Census Designated Place|S|Starr County
+TX|48|47916|Mexia city|Incorporated Place|A|Limestone County
+TX|48|47988|Miami city|Incorporated Place|A|Roberts County
+TX|48|48072|Midland city|Incorporated Place|A|Martin County, Midland County
+TX|48|48096|Midlothian city|Incorporated Place|A|Ellis County
+TX|48|48180|Midway city|Incorporated Place|A|Madison County
+TX|48|48272|Midway North CDP|Census Designated Place|S|Hidalgo County
+TX|48|48280|Midway South CDP|Census Designated Place|S|Hidalgo County
+TX|48|48315|Miguel Barrera CDP|Census Designated Place|S|Starr County
+TX|48|48318|Mikes CDP|Census Designated Place|S|Starr County
+TX|48|48320|Mila Doce CDP|Census Designated Place|S|Hidalgo County
+TX|48|48324|Milam CDP|Census Designated Place|S|Sabine County
+TX|48|48336|Milano city|Incorporated Place|A|Milam County
+TX|48|48372|Mildred town|Incorporated Place|A|Navarro County
+TX|48|48396|Miles city|Incorporated Place|A|Runnels County
+TX|48|48408|Milford town|Incorporated Place|A|Ellis County
+TX|48|48478|Miller's Cove town|Incorporated Place|A|Titus County
+TX|48|48516|Millican town|Incorporated Place|A|Brazos County
+TX|48|48564|Millsap town|Incorporated Place|A|Parker County
+TX|48|48648|Mineola city|Incorporated Place|A|Wood County
+TX|48|48684|Mineral Wells city|Incorporated Place|A|Palo Pinto County, Parker County
+TX|48|48720|Mingus city|Incorporated Place|A|Palo Pinto County
+TX|48|48750|Mi Ranchito Estate CDP|Census Designated Place|S|Starr County
+TX|48|48756|Mirando City CDP|Census Designated Place|S|Webb County
+TX|48|48768|Mission city|Incorporated Place|A|Hidalgo County
+TX|48|48772|Mission Bend CDP|Census Designated Place|S|Fort Bend County, Harris County
+TX|48|48804|Missouri City city|Incorporated Place|A|Fort Bend County, Harris County
+TX|48|48852|Mobeetie city|Incorporated Place|A|Wheeler County
+TX|48|48858|Mobile City city|Incorporated Place|A|Rockwall County
+TX|48|48936|Monahans city|Incorporated Place|A|Ward County, Winkler County
+TX|48|49032|Montague CDP|Census Designated Place|S|Montague County
+TX|48|49068|Mont Belvieu city|Incorporated Place|A|Chambers County, Liberty County
+TX|48|49080|Monte Alto CDP|Census Designated Place|S|Hidalgo County
+TX|48|49128|Montgomery city|Incorporated Place|A|Montgomery County
+TX|48|49200|Moody city|Incorporated Place|A|McLennan County
+TX|48|49224|Moore CDP|Census Designated Place|S|Frio County
+TX|48|49272|Moore Station city|Incorporated Place|A|Henderson County
+TX|48|49300|Moraida CDP|Census Designated Place|S|Starr County
+TX|48|49314|Morales-Sanchez CDP|Census Designated Place|S|Zapata County
+TX|48|49320|Moran city|Incorporated Place|A|Shackelford County
+TX|48|49356|Morgan city|Incorporated Place|A|Bosque County
+TX|48|49359|Morgan Farm CDP|Census Designated Place|S|San Patricio County
+TX|48|49380|Morgan's Point city|Incorporated Place|A|Harris County
+TX|48|49392|Morgan's Point Resort city|Incorporated Place|A|Bell County
+TX|48|49411|Morning Glory CDP|Census Designated Place|S|El Paso County
+TX|48|49440|Morse CDP|Census Designated Place|S|Hansford County
+TX|48|49464|Morton city|Incorporated Place|A|Cochran County
+TX|48|49560|Moulton town|Incorporated Place|A|Lavaca County
+TX|48|49600|Mountain City city|Incorporated Place|A|Hays County
+TX|48|49692|Mount Calm city|Incorporated Place|A|Hill County
+TX|48|49728|Mount Enterprise city|Incorporated Place|A|Rusk County
+TX|48|49800|Mount Pleasant city|Incorporated Place|A|Titus County
+TX|48|49860|Mount Vernon town|Incorporated Place|A|Franklin County
+TX|48|49932|Muenster city|Incorporated Place|A|Cooke County
+TX|48|49968|Muleshoe city|Incorporated Place|A|Bailey County
+TX|48|49992|Mullin town|Incorporated Place|A|Mills County
+TX|48|50040|Munday city|Incorporated Place|A|Knox County
+TX|48|50058|Muniz CDP|Census Designated Place|S|Hidalgo County
+TX|48|50076|Murchison city|Incorporated Place|A|Henderson County
+TX|48|50092|Murillo CDP|Census Designated Place|S|Hidalgo County
+TX|48|50100|Murphy city|Incorporated Place|A|Collin County
+TX|48|50184|Mustang town|Incorporated Place|A|Navarro County
+TX|48|50200|Mustang Ridge city|Incorporated Place|A|Bastrop County, Caldwell County, Travis County
+TX|48|50232|Myrtle Springs CDP|Census Designated Place|S|Van Zandt County
+TX|48|50256|Nacogdoches city|Incorporated Place|A|Nacogdoches County
+TX|48|50316|Naples city|Incorporated Place|A|Morris County
+TX|48|50322|Narciso Pena CDP|Census Designated Place|S|Starr County
+TX|48|50352|Nash city|Incorporated Place|A|Bowie County
+TX|48|50376|Nassau Bay city|Incorporated Place|A|Harris County
+TX|48|50400|Natalia city|Incorporated Place|A|Medina County
+TX|48|50448|Navarro town|Incorporated Place|A|Navarro County
+TX|48|50472|Navasota city|Incorporated Place|A|Grimes County
+TX|48|50496|Nazareth city|Incorporated Place|A|Castro County
+TX|48|50580|Nederland city|Incorporated Place|A|Jefferson County
+TX|48|50628|Needville city|Incorporated Place|A|Fort Bend County
+TX|48|50724|Nesbitt town|Incorporated Place|I|Harrison County
+TX|48|50742|Netos CDP|Census Designated Place|S|Starr County
+TX|48|50760|Nevada city|Incorporated Place|A|Collin County
+TX|48|50772|Newark city|Incorporated Place|A|Tarrant County, Wise County
+TX|48|50796|New Berlin city|Incorporated Place|A|Guadalupe County
+TX|48|50808|New Boston city|Incorporated Place|A|Bowie County
+TX|48|50820|New Braunfels city|Incorporated Place|A|Comal County, Guadalupe County
+TX|48|50868|Newcastle city|Incorporated Place|A|Young County
+TX|48|50876|New Chapel Hill city|Incorporated Place|A|Smith County
+TX|48|50916|New Deal town|Incorporated Place|A|Lubbock County
+TX|48|50920|New Fairview city|Incorporated Place|A|Wise County
+TX|48|50924|New Falcon CDP|Census Designated Place|S|Zapata County
+TX|48|51012|New Home city|Incorporated Place|A|Lynn County
+TX|48|51036|New Hope town|Incorporated Place|A|Collin County
+TX|48|51168|New London city|Incorporated Place|A|Rusk County
+TX|48|51336|New Summerfield city|Incorporated Place|A|Cherokee County
+TX|48|51366|New Territory CDP|Census Designated Place|S|Fort Bend County
+TX|48|51372|Newton city|Incorporated Place|A|Newton County
+TX|48|51396|New Waverly city|Incorporated Place|A|Walker County
+TX|48|51444|Neylandville town|Incorporated Place|A|Hunt County
+TX|48|51492|Niederwald city|Incorporated Place|A|Caldwell County, Hays County
+TX|48|51552|Nina CDP|Census Designated Place|S|Starr County
+TX|48|51588|Nixon city|Incorporated Place|A|Gonzales County, Wilson County
+TX|48|51648|Nocona city|Incorporated Place|A|Montague County
+TX|48|51654|Nocona Hills CDP|Census Designated Place|S|Montague County
+TX|48|51708|Nolanville city|Incorporated Place|A|Bell County
+TX|48|51720|Nome city|Incorporated Place|A|Jefferson County
+TX|48|51756|Noonday city|Incorporated Place|A|Smith County
+TX|48|51792|Nordheim city|Incorporated Place|A|DeWitt County
+TX|48|51840|Normangee town|Incorporated Place|A|Leon County, Madison County
+TX|48|51852|Normanna CDP|Census Designated Place|S|Bee County
+TX|48|51900|North Alamo CDP|Census Designated Place|S|Hidalgo County
+TX|48|51984|North Cleveland city|Incorporated Place|A|Liberty County
+TX|48|52068|North Escobares CDP|Census Designated Place|S|Starr County
+TX|48|52212|Northlake town|Incorporated Place|A|Denton County
+TX|48|52302|North Pearsall CDP|Census Designated Place|S|Frio County
+TX|48|52356|North Richland Hills city|Incorporated Place|A|Tarrant County
+TX|48|52362|Northridge CDP|Census Designated Place|S|Starr County
+TX|48|52404|North San Pedro CDP|Census Designated Place|S|Nueces County
+TX|48|52668|Novice city|Incorporated Place|A|Coleman County
+TX|48|52902|Oak Grove town|Incorporated Place|A|Kaufman County
+TX|48|52992|Oakhurst CDP|Census Designated Place|S|San Jacinto County
+TX|48|53004|Oak Island CDP|Census Designated Place|S|Chambers County
+TX|48|53115|Oak Leaf city|Incorporated Place|A|Ellis County
+TX|48|53130|Oak Point city|Incorporated Place|A|Denton County
+TX|48|53154|Oak Ridge town|Incorporated Place|A|Cooke County
+TX|48|53160|Oak Ridge town|Incorporated Place|A|Kaufman County
+TX|48|53190|Oak Ridge North city|Incorporated Place|A|Montgomery County
+TX|48|53212|Oak Trail Shores CDP|Census Designated Place|S|Hood County
+TX|48|53217|Oak Valley town|Incorporated Place|A|Navarro County
+TX|48|53232|Oakwood town|Incorporated Place|A|Freestone County, Leon County
+TX|48|53304|O'Brien city|Incorporated Place|A|Haskell County
+TX|48|53376|Odem city|Incorporated Place|A|San Patricio County
+TX|48|53388|Odessa city|Incorporated Place|A|Ector County, Midland County
+TX|48|53436|O'Donnell city|Incorporated Place|A|Dawson County, Lynn County
+TX|48|53520|Oglesby city|Incorporated Place|A|Coryell County
+TX|48|53556|Oilton CDP|Census Designated Place|S|Webb County
+TX|48|53718|Old Escobares CDP|Census Designated Place|S|Starr County
+TX|48|53824|Old River-Winfree city|Incorporated Place|A|Chambers County, Liberty County
+TX|48|53934|Olivarez CDP|Census Designated Place|S|Hidalgo County
+TX|48|53946|Olivia Lopez de Gutierrez CDP|Census Designated Place|S|Starr County
+TX|48|53964|Olmito CDP|Census Designated Place|S|Cameron County
+TX|48|53970|Olmito and Olmito CDP|Census Designated Place|S|Starr County
+TX|48|53988|Olmos Park city|Incorporated Place|A|Bexar County
+TX|48|54000|Olney city|Incorporated Place|A|Young County
+TX|48|54012|Olton city|Incorporated Place|A|Lamb County
+TX|48|54024|Omaha city|Incorporated Place|A|Morris County
+TX|48|54048|Onalaska city|Incorporated Place|A|Polk County
+TX|48|54075|Opdyke West town|Incorporated Place|A|Hockley County
+TX|48|54132|Orange city|Incorporated Place|A|Orange County
+TX|48|54168|Orange Grove city|Incorporated Place|A|Jim Wells County
+TX|48|54186|Orason CDP|Census Designated Place|S|Cameron County
+TX|48|54192|Orchard city|Incorporated Place|A|Fort Bend County
+TX|48|54216|Ore City city|Incorporated Place|A|Upshur County
+TX|48|54432|Overton city|Incorporated Place|A|Rusk County, Smith County
+TX|48|54444|Ovilla city|Incorporated Place|A|Dallas County, Ellis County
+TX|48|54509|Owl Ranch CDP|Census Designated Place|S|Jim Wells County
+TX|48|54528|Oyster Creek city|Incorporated Place|A|Brazoria County
+TX|48|54552|Ozona CDP|Census Designated Place|S|Crockett County
+TX|48|54558|Pablo Pena CDP|Census Designated Place|S|Starr County
+TX|48|54600|Paducah town|Incorporated Place|A|Cottle County
+TX|48|54636|Paint Rock town|Incorporated Place|A|Concho County
+TX|48|54666|Paisano Park CDP|Census Designated Place|S|San Patricio County
+TX|48|54684|Palacios city|Incorporated Place|A|Matagorda County
+TX|48|54708|Palestine city|Incorporated Place|A|Anderson County
+TX|48|54726|Palisades village|Incorporated Place|A|Randall County
+TX|48|54744|Palmer town|Incorporated Place|A|Ellis County
+TX|48|54780|Palmhurst city|Incorporated Place|A|Hidalgo County
+TX|48|54798|Palm Valley city|Incorporated Place|A|Cameron County
+TX|48|54804|Palmview city|Incorporated Place|A|Hidalgo County
+TX|48|54810|Palmview South CDP|Census Designated Place|S|Hidalgo County
+TX|48|54846|Palo Blanco CDP|Census Designated Place|S|Starr County
+TX|48|54868|Paloma Creek CDP|Census Designated Place|S|Denton County
+TX|48|54872|Paloma Creek South CDP|Census Designated Place|S|Denton County
+TX|48|54876|Palo Pinto CDP|Census Designated Place|S|Palo Pinto County
+TX|48|54912|Pampa city|Incorporated Place|A|Gray County
+TX|48|54960|Panhandle town|Incorporated Place|A|Carson County
+TX|48|55008|Panorama Village city|Incorporated Place|A|Montgomery County
+TX|48|55020|Pantego town|Incorporated Place|A|Tarrant County
+TX|48|55056|Paradise city|Incorporated Place|A|Wise County
+TX|48|55080|Paris city|Incorporated Place|A|Lamar County
+TX|48|55152|Parker city|Incorporated Place|A|Collin County
+TX|48|56000|Pasadena city|Incorporated Place|A|Harris County
+TX|48|56108|Pattison city|Incorporated Place|A|Waller County
+TX|48|56156|Patton Village city|Incorporated Place|A|Montgomery County
+TX|48|56252|Pawnee CDP|Census Designated Place|S|Bee County
+TX|48|56276|Payne Springs town|Incorporated Place|A|Henderson County
+TX|48|56348|Pearland city|Incorporated Place|A|Brazoria County, Fort Bend County, Harris County
+TX|48|56384|Pearsall city|Incorporated Place|A|Frio County
+TX|48|56462|Pecan Acres CDP|Census Designated Place|S|Tarrant County, Wise County
+TX|48|56468|Pecan Gap city|Incorporated Place|A|Delta County, Fannin County
+TX|48|56482|Pecan Grove CDP|Census Designated Place|S|Fort Bend County
+TX|48|56485|Pecan Hill city|Incorporated Place|A|Ellis County
+TX|48|56498|Pecan Plantation CDP|Census Designated Place|S|Hood County, Johnson County
+TX|48|56516|Pecos city|Incorporated Place|A|Reeves County
+TX|48|56640|Pelican Bay city|Incorporated Place|A|Tarrant County
+TX|48|56644|Pena CDP|Census Designated Place|S|Starr County
+TX|48|56672|Penelope town|Incorporated Place|A|Hill County
+TX|48|56696|Penitas city|Incorporated Place|A|Hidalgo County
+TX|48|56804|Perezville CDP|Census Designated Place|S|Hidalgo County
+TX|48|56864|Perrin CDP|Census Designated Place|S|Jack County
+TX|48|56912|Perryton city|Incorporated Place|A|Ochiltree County
+TX|48|56996|Petersburg city|Incorporated Place|A|Hale County
+TX|48|57044|Petrolia city|Incorporated Place|A|Clay County
+TX|48|57056|Petronila city|Incorporated Place|A|Nueces County
+TX|48|57116|Pettus CDP|Census Designated Place|S|Bee County
+TX|48|57176|Pflugerville city|Incorporated Place|A|Travis County, Williamson County
+TX|48|57200|Pharr city|Incorporated Place|A|Hidalgo County
+TX|48|57476|Pilot Point city|Incorporated Place|A|Denton County
+TX|48|57524|Pine Forest city|Incorporated Place|A|Orange County
+TX|48|57566|Pine Harbor CDP|Census Designated Place|S|Marion County
+TX|48|57596|Pinehurst CDP|Census Designated Place|S|Montgomery County
+TX|48|57608|Pinehurst city|Incorporated Place|A|Orange County
+TX|48|57615|Pine Island town|Incorporated Place|A|Waller County
+TX|48|57644|Pineland city|Incorporated Place|A|Sabine County
+TX|48|57752|Pinewood Estates CDP|Census Designated Place|S|Hardin County
+TX|48|57800|Piney Point Village city|Incorporated Place|A|Harris County
+TX|48|57908|Pittsburg city|Incorporated Place|A|Camp County
+TX|48|57932|Placedo CDP|Census Designated Place|S|Victoria County
+TX|48|57968|Plains town|Incorporated Place|A|Yoakum County
+TX|48|57980|Plainview city|Incorporated Place|A|Hale County
+TX|48|58016|Plano city|Incorporated Place|A|Collin County, Denton County
+TX|48|58088|Pleak village|Incorporated Place|A|Fort Bend County
+TX|48|58232|Pleasant Hill CDP|Census Designated Place|S|Polk County
+TX|48|58280|Pleasanton city|Incorporated Place|A|Atascosa County
+TX|48|58400|Pleasant Valley town|Incorporated Place|A|Wichita County
+TX|48|58448|Plum Grove city|Incorporated Place|A|Liberty County
+TX|48|58532|Point city|Incorporated Place|A|Rains County
+TX|48|58556|Point Blank city|Incorporated Place|A|San Jacinto County
+TX|48|58568|Point Comfort city|Incorporated Place|A|Calhoun County
+TX|48|58586|Point Venture village|Incorporated Place|A|Travis County
+TX|48|58664|Ponder town|Incorporated Place|A|Denton County
+TX|48|58808|Port Aransas city|Incorporated Place|A|Nueces County
+TX|48|58820|Port Arthur city|Incorporated Place|A|Jefferson County, Orange County
+TX|48|58850|Porter Heights CDP|Census Designated Place|S|Montgomery County
+TX|48|58892|Port Isabel city|Incorporated Place|A|Cameron County
+TX|48|58904|Portland city|Incorporated Place|A|Nueces County, San Patricio County
+TX|48|58916|Port Lavaca city|Incorporated Place|A|Calhoun County
+TX|48|58928|Port Mansfield CDP|Census Designated Place|S|Willacy County
+TX|48|58940|Port Neches city|Incorporated Place|A|Jefferson County
+TX|48|58952|Port O'Connor CDP|Census Designated Place|S|Calhoun County
+TX|48|59012|Post city|Incorporated Place|A|Garza County
+TX|48|59066|Post Oak Bend City town|Incorporated Place|A|Kaufman County
+TX|48|59084|Poteet city|Incorporated Place|A|Atascosa County
+TX|48|59096|Poth town|Incorporated Place|A|Wilson County
+TX|48|59108|Potosi CDP|Census Designated Place|S|Taylor County
+TX|48|59132|Pottsboro town|Incorporated Place|A|Grayson County
+TX|48|59156|Powderly CDP|Census Designated Place|S|Lamar County
+TX|48|59168|Powell town|Incorporated Place|A|Navarro County
+TX|48|59192|Poynor town|Incorporated Place|A|Henderson County
+TX|48|59210|Prado Verde CDP|Census Designated Place|S|El Paso County
+TX|48|59336|Prairie View city|Incorporated Place|A|Waller County
+TX|48|59384|Premont city|Incorporated Place|A|Jim Wells County
+TX|48|59396|Presidio city|Incorporated Place|A|Presidio County
+TX|48|59420|Preston CDP|Census Designated Place|S|Grayson County
+TX|48|59540|Primera town|Incorporated Place|A|Cameron County
+TX|48|59576|Princeton city|Incorporated Place|A|Collin County
+TX|48|59636|Progreso city|Incorporated Place|A|Hidalgo County
+TX|48|59642|Progreso Lakes city|Incorporated Place|A|Hidalgo County
+TX|48|59696|Prosper town|Incorporated Place|A|Collin County, Denton County
+TX|48|59726|Providence CDP|Census Designated Place|S|Denton County
+TX|48|59794|Pueblo East CDP|Census Designated Place|S|Webb County
+TX|48|59798|Pueblo Nuevo CDP|Census Designated Place|S|Webb County
+TX|48|59984|Putnam town|Incorporated Place|A|Callahan County
+TX|48|59996|Pyote town|Incorporated Place|A|Ward County
+TX|48|60020|Quail CDP|Census Designated Place|S|Collingsworth County
+TX|48|60026|Quail Creek CDP|Census Designated Place|S|Victoria County
+TX|48|60044|Quanah city|Incorporated Place|A|Hardeman County
+TX|48|60080|Queen City city|Incorporated Place|A|Cass County
+TX|48|60092|Quemado CDP|Census Designated Place|S|Maverick County
+TX|48|60098|Quesada CDP|Census Designated Place|S|Starr County
+TX|48|60140|Quinlan city|Incorporated Place|A|Hunt County
+TX|48|60164|Quintana town|Incorporated Place|A|Brazoria County
+TX|48|60176|Quitaque city|Incorporated Place|A|Briscoe County
+TX|48|60188|Quitman city|Incorporated Place|A|Wood County
+TX|48|60278|Radar Base CDP|Census Designated Place|S|Maverick County
+TX|48|60290|Rafael Pena CDP|Census Designated Place|S|Starr County
+TX|48|60356|Ralls city|Incorporated Place|A|Crosby County
+TX|48|60380|Ramireno CDP|Census Designated Place|S|Zapata County
+TX|48|60408|Ramirez-Perez CDP|Census Designated Place|S|Starr County
+TX|48|60422|Ramos CDP|Census Designated Place|S|Starr County
+TX|48|60458|Ranchette Estates CDP|Census Designated Place|S|Willacy County
+TX|48|60478|Ranchitos Del Norte CDP|Census Designated Place|S|Starr County
+TX|48|60480|Ranchitos East CDP|Census Designated Place|S|Webb County
+TX|48|60482|Ranchitos Las Lomas CDP|Census Designated Place|S|Webb County
+TX|48|60518|Rancho Alegre CDP|Census Designated Place|S|Jim Wells County
+TX|48|60529|Rancho Banquete CDP|Census Designated Place|S|Nueces County
+TX|48|60534|Rancho Chico CDP|Census Designated Place|S|San Patricio County
+TX|48|60539|Ranchos Penitas West CDP|Census Designated Place|S|Webb County
+TX|48|60544|Rancho Viejo town|Incorporated Place|A|Cameron County
+TX|48|60554|Rancho Viejo CDP|Census Designated Place|S|Starr County
+TX|48|60608|Randolph AFB CDP|Census Designated Place|S|Bexar County
+TX|48|60632|Ranger city|Incorporated Place|A|Eastland County
+TX|48|60644|Rangerville village|Incorporated Place|I|Cameron County
+TX|48|60668|Rankin city|Incorporated Place|A|Upton County
+TX|48|60672|Ransom Canyon town|Incorporated Place|A|Lubbock County
+TX|48|60686|Ratamosa CDP|Census Designated Place|S|Cameron County
+TX|48|60752|Ravenna city|Incorporated Place|A|Fannin County
+TX|48|60836|Raymondville city|Incorporated Place|A|Willacy County
+TX|48|60932|Realitos CDP|Census Designated Place|S|Duval County
+TX|48|61040|Redfield CDP|Census Designated Place|S|Nacogdoches County
+TX|48|61076|Redford CDP|Census Designated Place|S|Presidio County
+TX|48|61124|Redland CDP|Census Designated Place|S|Angelina County
+TX|48|61172|Red Lick city|Incorporated Place|A|Bowie County
+TX|48|61196|Red Oak city|Incorporated Place|A|Ellis County
+TX|48|61340|Redwater city|Incorporated Place|A|Bowie County
+TX|48|61352|Redwood CDP|Census Designated Place|S|Guadalupe County
+TX|48|61436|Refugio town|Incorporated Place|A|Refugio County
+TX|48|61454|Regino Ramirez CDP|Census Designated Place|S|Starr County
+TX|48|61466|Reid Hope King CDP|Census Designated Place|S|Cameron County
+TX|48|61508|Reklaw city|Incorporated Place|A|Cherokee County, Rusk County
+TX|48|61532|Relampago CDP|Census Designated Place|S|Hidalgo County
+TX|48|61568|Rendon CDP|Census Designated Place|S|Tarrant County
+TX|48|61592|Reno city|Incorporated Place|A|Lamar County
+TX|48|61604|Reno city|Incorporated Place|A|Parker County, Tarrant County
+TX|48|61616|Retreat town|Incorporated Place|A|Navarro County
+TX|48|61700|Rhome city|Incorporated Place|A|Wise County
+TX|48|61724|Ricardo CDP|Census Designated Place|S|Kleberg County
+TX|48|61736|Rice city|Incorporated Place|A|Navarro County
+TX|48|61796|Richardson city|Incorporated Place|A|Collin County, Dallas County
+TX|48|61820|Richland town|Incorporated Place|A|Navarro County
+TX|48|61844|Richland Hills city|Incorporated Place|A|Tarrant County
+TX|48|61880|Richland Springs town|Incorporated Place|A|San Saba County
+TX|48|61892|Richmond city|Incorporated Place|A|Fort Bend County
+TX|48|61904|Richwood city|Incorporated Place|A|Brazoria County
+TX|48|62108|Riesel city|Incorporated Place|A|McLennan County
+TX|48|62138|Rio Bravo city|Incorporated Place|A|Webb County
+TX|48|62168|Rio Grande City city|Incorporated Place|A|Starr County
+TX|48|62180|Rio Hondo city|Incorporated Place|A|Cameron County
+TX|48|62240|Rio Vista city|Incorporated Place|A|Johnson County
+TX|48|62252|Rising Star town|Incorporated Place|A|Eastland County
+TX|48|62292|Rivera CDP|Census Designated Place|S|Starr County
+TX|48|62318|Rivereno CDP|Census Designated Place|S|Starr County
+TX|48|62384|River Oaks city|Incorporated Place|A|Tarrant County
+TX|48|62408|Riverside city|Incorporated Place|A|Walker County
+TX|48|62468|Riviera CDP|Census Designated Place|S|Kleberg County
+TX|48|62504|Roanoke city|Incorporated Place|A|Denton County, Tarrant County
+TX|48|62528|Roaring Springs town|Incorporated Place|A|Motley County
+TX|48|62564|Robert Lee city|Incorporated Place|A|Coke County
+TX|48|62588|Robinson city|Incorporated Place|A|McLennan County
+TX|48|62600|Robstown city|Incorporated Place|A|Nueces County
+TX|48|62612|Roby city|Incorporated Place|A|Fisher County
+TX|48|62636|Rochester town|Incorporated Place|A|Haskell County
+TX|48|62672|Rockdale city|Incorporated Place|A|Milam County
+TX|48|62804|Rockport city|Incorporated Place|A|Aransas County
+TX|48|62816|Rocksprings town|Incorporated Place|A|Edwards County
+TX|48|62828|Rockwall city|Incorporated Place|A|Rockwall County
+TX|48|62870|Rocky Mound town|Incorporated Place|A|Camp County
+TX|48|62924|Rogers town|Incorporated Place|A|Bell County
+TX|48|63008|Rollingwood city|Incorporated Place|A|Travis County
+TX|48|63020|Roma city|Incorporated Place|A|Starr County
+TX|48|63026|Roma Creek CDP|Census Designated Place|S|Starr County
+TX|48|63044|Roman Forest town|Incorporated Place|A|Montgomery County
+TX|48|63140|Ropesville city|Incorporated Place|A|Hockley County
+TX|48|63176|Roscoe city|Incorporated Place|A|Nolan County
+TX|48|63188|Rosebud city|Incorporated Place|A|Falls County
+TX|48|63200|Rose City city|Incorporated Place|A|Orange County
+TX|48|63272|Rose Hill Acres city|Incorporated Place|A|Hardin County
+TX|48|63284|Rosenberg city|Incorporated Place|A|Fort Bend County
+TX|48|63332|Rosharon CDP|Census Designated Place|S|Brazoria County
+TX|48|63350|Rosita CDP|Census Designated Place|S|Maverick County
+TX|48|63380|Ross city|Incorporated Place|A|McLennan County
+TX|48|63404|Rosser village|Incorporated Place|A|Kaufman County
+TX|48|63464|Rotan city|Incorporated Place|A|Fisher County
+TX|48|63476|Round Mountain town|Incorporated Place|A|Blanco County
+TX|48|63500|Round Rock city|Incorporated Place|A|Travis County, Williamson County
+TX|48|63524|Round Top town|Incorporated Place|A|Fayette County
+TX|48|63572|Rowlett city|Incorporated Place|A|Dallas County, Rockwall County
+TX|48|63584|Roxton city|Incorporated Place|A|Lamar County
+TX|48|63668|Royse City city|Incorporated Place|A|Collin County, Hunt County, Rockwall County
+TX|48|63752|Rule town|Incorporated Place|A|Haskell County
+TX|48|63782|Runaway Bay city|Incorporated Place|A|Wise County
+TX|48|63788|Runge town|Incorporated Place|A|Karnes County
+TX|48|63848|Rusk city|Incorporated Place|A|Cherokee County
+TX|48|64004|Sabinal city|Incorporated Place|A|Uvalde County
+TX|48|64064|Sachse city|Incorporated Place|A|Collin County, Dallas County
+TX|48|64088|Sadler city|Incorporated Place|A|Grayson County
+TX|48|64112|Saginaw city|Incorporated Place|A|Tarrant County
+TX|48|64172|St. Hedwig town|Incorporated Place|A|Bexar County
+TX|48|64184|St. Jo city|Incorporated Place|A|Montague County
+TX|48|64220|St. Paul town|Incorporated Place|A|Collin County
+TX|48|64244|St. Paul CDP|Census Designated Place|S|San Patricio County
+TX|48|64268|Salado village|Incorporated Place|A|Bell County
+TX|48|64316|Salineño CDP|Census Designated Place|S|Starr County
+TX|48|64322|Salineño North CDP|Census Designated Place|S|Starr County
+TX|48|64442|Sammy Martinez CDP|Census Designated Place|S|Starr County
+TX|48|64448|Samnorwood CDP|Census Designated Place|S|Collingsworth County
+TX|48|64460|Sam Rayburn CDP|Census Designated Place|S|Jasper County
+TX|48|64472|San Angelo city|Incorporated Place|A|Tom Green County
+TX|48|65000|San Antonio city|Incorporated Place|A|Bexar County, Comal County, Medina County
+TX|48|65024|San Augustine city|Incorporated Place|A|San Augustine County
+TX|48|65036|San Benito city|Incorporated Place|A|Cameron County
+TX|48|65048|San Carlos CDP|Census Designated Place|S|Hidalgo County
+TX|48|65049|San Carlos I CDP|Census Designated Place|S|Webb County
+TX|48|65050|San Carlos II CDP|Census Designated Place|S|Webb County
+TX|48|65066|Sanctuary town|Incorporated Place|A|Parker County
+TX|48|65084|Sanderson CDP|Census Designated Place|S|Terrell County
+TX|48|65168|Sandia CDP|Census Designated Place|S|Jim Wells County
+TX|48|65180|San Diego city|Incorporated Place|A|Duval County, Jim Wells County
+TX|48|65210|Sandoval CDP|Census Designated Place|S|Starr County
+TX|48|65240|Sand Springs CDP|Census Designated Place|S|Howard County
+TX|48|65342|Sandy Hollow-Escondidas CDP|Census Designated Place|S|Nueces County
+TX|48|65360|San Elizario CDP|Census Designated Place|S|El Paso County
+TX|48|65372|San Felipe town|Incorporated Place|A|Austin County
+TX|48|65378|San Fernando CDP|Census Designated Place|S|Starr County
+TX|48|65384|Sanford town|Incorporated Place|A|Hutchinson County
+TX|48|65408|Sanger city|Incorporated Place|A|Denton County
+TX|48|65432|San Isidro CDP|Census Designated Place|S|Starr County
+TX|48|65516|San Juan city|Incorporated Place|A|Hidalgo County
+TX|48|65532|San Juan CDP|Census Designated Place|S|Starr County
+TX|48|65552|San Leanna village|Incorporated Place|A|Travis County
+TX|48|65564|San Leon CDP|Census Designated Place|S|Galveston County
+TX|48|65600|San Marcos city|Incorporated Place|A|Caldwell County, Guadalupe County, Hays County
+TX|48|65612|San Patricio city|Incorporated Place|A|San Patricio County
+TX|48|65620|San Pedro CDP|Census Designated Place|S|Cameron County
+TX|48|65636|San Perlita city|Incorporated Place|A|Willacy County
+TX|48|65648|San Saba town|Incorporated Place|A|San Saba County
+TX|48|65660|Sansom Park city|Incorporated Place|A|Tarrant County
+TX|48|65672|Santa Anna town|Incorporated Place|A|Coleman County
+TX|48|65678|Santa Anna CDP|Census Designated Place|S|Starr County
+TX|48|65690|Santa Clara city|Incorporated Place|A|Guadalupe County
+TX|48|65708|Santa Cruz CDP|Census Designated Place|S|Starr County
+TX|48|65726|Santa Fe city|Incorporated Place|A|Galveston County
+TX|48|65744|Santa Maria CDP|Census Designated Place|S|Cameron County
+TX|48|65756|Santa Monica CDP|Census Designated Place|S|Willacy County
+TX|48|65768|Santa Rosa town|Incorporated Place|A|Cameron County
+TX|48|65774|Santa Rosa CDP|Census Designated Place|S|Starr County
+TX|48|65777|Santel CDP|Census Designated Place|S|Starr County
+TX|48|65792|San Ygnacio CDP|Census Designated Place|S|Zapata County
+TX|48|65876|Sarita CDP|Census Designated Place|S|Kenedy County
+TX|48|66000|Savannah CDP|Census Designated Place|S|Denton County
+TX|48|66008|Savoy city|Incorporated Place|A|Fannin County
+TX|48|66089|Scenic Oaks CDP|Census Designated Place|S|Bexar County
+TX|48|66128|Schertz city|Incorporated Place|A|Bexar County, Comal County, Guadalupe County
+TX|48|66188|Schulenburg city|Incorporated Place|A|Fayette County
+TX|48|66248|Scissors CDP|Census Designated Place|S|Hidalgo County
+TX|48|66284|Scotland city|Incorporated Place|A|Archer County
+TX|48|66332|Scottsville city|Incorporated Place|A|Harrison County
+TX|48|66368|Scurry town|Incorporated Place|A|Kaufman County
+TX|48|66392|Seabrook city|Incorporated Place|A|Chambers County, Galveston County, Harris County
+TX|48|66416|Seadrift city|Incorporated Place|A|Calhoun County
+TX|48|66428|Seagoville city|Incorporated Place|A|Dallas County, Kaufman County
+TX|48|66440|Seagraves city|Incorporated Place|A|Gaines County
+TX|48|66464|Sealy city|Incorporated Place|A|Austin County
+TX|48|66512|Sebastian CDP|Census Designated Place|S|Willacy County
+TX|48|66536|Seco Mines CDP|Census Designated Place|S|Maverick County
+TX|48|66644|Seguin city|Incorporated Place|A|Guadalupe County
+TX|48|66704|Selma city|Incorporated Place|A|Bexar County, Comal County, Guadalupe County
+TX|48|66764|Seminole city|Incorporated Place|A|Gaines County
+TX|48|66806|Serenada CDP|Census Designated Place|S|Williamson County
+TX|48|66848|Seth Ward CDP|Census Designated Place|S|Hale County
+TX|48|66884|Seven Oaks city|Incorporated Place|A|Polk County
+TX|48|66908|Seven Points city|Incorporated Place|A|Henderson County, Kaufman County
+TX|48|66968|Seymour city|Incorporated Place|A|Baylor County
+TX|48|67010|Shadybrook CDP|Census Designated Place|S|Cherokee County
+TX|48|67082|Shady Hollow CDP|Census Designated Place|S|Travis County
+TX|48|67100|Shady Shores town|Incorporated Place|A|Denton County
+TX|48|67136|Shallowater city|Incorporated Place|A|Lubbock County
+TX|48|67160|Shamrock city|Incorporated Place|A|Wheeler County
+TX|48|67268|Shavano Park city|Incorporated Place|A|Bexar County
+TX|48|67376|Sheldon CDP|Census Designated Place|S|Harris County
+TX|48|67400|Shenandoah city|Incorporated Place|A|Montgomery County
+TX|48|67424|Shepherd city|Incorporated Place|A|San Jacinto County
+TX|48|67496|Sherman city|Incorporated Place|A|Grayson County
+TX|48|67554|Sherwood Shores CDP|Census Designated Place|S|Grayson County
+TX|48|67640|Shiner city|Incorporated Place|A|Lavaca County
+TX|48|67688|Shoreacres city|Incorporated Place|A|Chambers County, Harris County
+TX|48|67766|Sienna Plantation CDP|Census Designated Place|S|Fort Bend County
+TX|48|67772|Sierra Blanca CDP|Census Designated Place|S|Hudspeth County
+TX|48|67775|Siesta Acres CDP|Census Designated Place|S|Maverick County
+TX|48|67778|Siesta Shores CDP|Census Designated Place|S|Zapata County
+TX|48|67832|Silsbee city|Incorporated Place|A|Hardin County
+TX|48|67904|Silverton city|Incorporated Place|A|Briscoe County
+TX|48|67964|Simonton city|Incorporated Place|A|Fort Bend County
+TX|48|68036|Sinton city|Incorporated Place|A|San Patricio County
+TX|48|68120|Skellytown town|Incorporated Place|A|Carson County
+TX|48|68132|Skidmore CDP|Census Designated Place|S|Bee County
+TX|48|68180|Slaton city|Incorporated Place|A|Lubbock County
+TX|48|68300|Smiley city|Incorporated Place|A|Gonzales County
+TX|48|68456|Smithville city|Incorporated Place|A|Bastrop County
+TX|48|68504|Smyer town|Incorporated Place|A|Hockley County
+TX|48|68576|Snook city|Incorporated Place|A|Burleson County
+TX|48|68624|Snyder city|Incorporated Place|A|Scurry County
+TX|48|68636|Socorro city|Incorporated Place|A|El Paso County
+TX|48|68678|Solis CDP|Census Designated Place|S|Cameron County
+TX|48|68708|Somerset city|Incorporated Place|A|Bexar County
+TX|48|68720|Somerville city|Incorporated Place|A|Burleson County
+TX|48|68756|Sonora city|Incorporated Place|A|Sutton County
+TX|48|68828|Sour Lake city|Incorporated Place|A|Hardin County
+TX|48|68846|South Alamo CDP|Census Designated Place|S|Hidalgo County
+TX|48|68966|South Fork Estates CDP|Census Designated Place|S|Jim Hogg County
+TX|48|69020|South Houston city|Incorporated Place|A|Harris County
+TX|48|69032|Southlake city|Incorporated Place|A|Denton County, Tarrant County
+TX|48|69072|South La Paloma CDP|Census Designated Place|S|Jim Wells County
+TX|48|69104|Southmayd city|Incorporated Place|A|Grayson County
+TX|48|69120|South Mountain town|Incorporated Place|A|Coryell County
+TX|48|69140|South Padre Island town|Incorporated Place|A|Cameron County
+TX|48|69194|South Point CDP|Census Designated Place|S|Cameron County
+TX|48|69272|Southside Place city|Incorporated Place|A|Harris County
+TX|48|69326|South Toledo Bend CDP|Census Designated Place|S|Newton County
+TX|48|69380|Spade CDP|Census Designated Place|S|Lamb County
+TX|48|69432|Sparks CDP|Census Designated Place|S|El Paso County
+TX|48|69476|Spearman city|Incorporated Place|A|Hansford County
+TX|48|69548|Splendora city|Incorporated Place|A|Montgomery County
+TX|48|69560|Spofford city|Incorporated Place|A|Kinney County
+TX|48|69596|Spring CDP|Census Designated Place|S|Harris County
+TX|48|69708|Spring Gardens CDP|Census Designated Place|S|Nueces County
+TX|48|69764|Springlake town|Incorporated Place|A|Lamb County
+TX|48|69800|Springtown city|Incorporated Place|A|Parker County, Wise County
+TX|48|69830|Spring Valley Village city|Incorporated Place|A|Harris County
+TX|48|69848|Spur city|Incorporated Place|A|Dickens County
+TX|48|69908|Stafford city|Incorporated Place|A|Fort Bend County, Harris County
+TX|48|69932|Stagecoach town|Incorporated Place|A|Montgomery County
+TX|48|69980|Stamford city|Incorporated Place|A|Haskell County, Jones County
+TX|48|70040|Stanton city|Incorporated Place|A|Martin County
+TX|48|70052|Staples city|Incorporated Place|A|Guadalupe County
+TX|48|70076|Star Harbor city|Incorporated Place|A|Henderson County
+TX|48|70208|Stephenville city|Incorporated Place|A|Erath County
+TX|48|70232|Sterling City city|Incorporated Place|A|Sterling County
+TX|48|70340|Stinnett city|Incorporated Place|A|Hutchinson County
+TX|48|70376|Stockdale city|Incorporated Place|A|Wilson County
+TX|48|70460|Stonewall CDP|Census Designated Place|S|Gillespie County
+TX|48|70520|Stowell CDP|Census Designated Place|S|Chambers County
+TX|48|70544|Stratford city|Incorporated Place|A|Sherman County
+TX|48|70580|Strawn city|Incorporated Place|A|Palo Pinto County
+TX|48|70604|Streetman town|Incorporated Place|A|Freestone County, Navarro County
+TX|48|70688|Study Butte CDP|Census Designated Place|S|Brewster County
+TX|48|70772|Sudan city|Incorporated Place|A|Lamb County
+TX|48|70808|Sugar Land city|Incorporated Place|A|Fort Bend County
+TX|48|70868|Sullivan City city|Incorporated Place|A|Hidalgo County
+TX|48|70904|Sulphur Springs city|Incorporated Place|A|Hopkins County
+TX|48|71060|Sundown city|Incorporated Place|A|Hockley County
+TX|48|71156|Sunnyvale town|Incorporated Place|A|Dallas County
+TX|48|71180|Sunray city|Incorporated Place|A|Moore County
+TX|48|71228|Sunrise Beach Village city|Incorporated Place|A|Llano County
+TX|48|71264|Sunset CDP|Census Designated Place|S|Montague County
+TX|48|71274|Sunset CDP|Census Designated Place|S|Starr County
+TX|48|71289|Sunset Acres CDP|Census Designated Place|S|Webb County
+TX|48|71324|Sunset Valley city|Incorporated Place|A|Travis County
+TX|48|71356|Sun Valley city|Incorporated Place|A|Lamar County
+TX|48|71384|Surfside Beach city|Incorporated Place|A|Brazoria County
+TX|48|71492|Sweeny city|Incorporated Place|A|Brazoria County
+TX|48|71540|Sweetwater city|Incorporated Place|A|Nolan County
+TX|48|71684|Taft city|Incorporated Place|A|San Patricio County
+TX|48|71696|Taft Southwest CDP|Census Designated Place|S|San Patricio County
+TX|48|71708|Tahoka city|Incorporated Place|A|Lynn County
+TX|48|71732|Talco city|Incorporated Place|A|Titus County
+TX|48|71756|Talty town|Incorporated Place|A|Kaufman County
+TX|48|71820|Tanquecitos South Acres CDP|Census Designated Place|S|Webb County
+TX|48|71824|Tanquecitos South Acres II CDP|Census Designated Place|S|Webb County
+TX|48|71924|Tatum city|Incorporated Place|A|Panola County, Rusk County
+TX|48|71948|Taylor city|Incorporated Place|A|Williamson County
+TX|48|71960|Taylor Lake Village city|Incorporated Place|A|Harris County
+TX|48|71966|Taylor Landing city|Incorporated Place|A|Jefferson County
+TX|48|72020|Teague city|Incorporated Place|A|Freestone County
+TX|48|72080|Tehuacana town|Incorporated Place|A|Limestone County
+TX|48|72176|Temple city|Incorporated Place|A|Bell County
+TX|48|72188|Tenaha town|Incorporated Place|A|Shelby County
+TX|48|72248|Terlingua CDP|Census Designated Place|S|Brewster County
+TX|48|72284|Terrell city|Incorporated Place|A|Kaufman County
+TX|48|72296|Terrell Hills city|Incorporated Place|A|Bexar County
+TX|48|72368|Texarkana city|Incorporated Place|A|Bowie County
+TX|48|72392|Texas City city|Incorporated Place|A|Chambers County, Galveston County
+TX|48|72464|Texhoma city|Incorporated Place|A|Sherman County
+TX|48|72476|Texline town|Incorporated Place|A|Dallam County
+TX|48|72530|The Colony city|Incorporated Place|A|Denton County
+TX|48|72578|The Hills village|Incorporated Place|A|Travis County
+TX|48|72656|The Woodlands CDP|Census Designated Place|S|Harris County, Montgomery County
+TX|48|72740|Thompsons town|Incorporated Place|A|Fort Bend County
+TX|48|72758|Thompsonville CDP|Census Designated Place|S|Jim Hogg County
+TX|48|72776|Thorndale city|Incorporated Place|A|Milam County, Williamson County
+TX|48|72788|Thornton town|Incorporated Place|A|Limestone County
+TX|48|72800|Thorntonville town|Incorporated Place|A|Ward County
+TX|48|72824|Thrall city|Incorporated Place|A|Williamson County
+TX|48|72872|Three Rivers city|Incorporated Place|A|Live Oak County
+TX|48|72896|Throckmorton town|Incorporated Place|A|Throckmorton County
+TX|48|72902|Thunderbird Bay CDP|Census Designated Place|S|Brown County
+TX|48|72948|Tierra Bonita CDP|Census Designated Place|S|Cameron County
+TX|48|72950|Tierra Dorada CDP|Census Designated Place|S|Starr County
+TX|48|72952|Tierra Grande CDP|Census Designated Place|S|Nueces County
+TX|48|72954|Tierra Verde CDP|Census Designated Place|S|Nueces County
+TX|48|72989|Tiki Island village|Incorporated Place|A|Galveston County
+TX|48|72992|Tilden CDP|Census Designated Place|S|McMullen County
+TX|48|73030|Timbercreek Canyon village|Incorporated Place|A|Randall County
+TX|48|73057|Timberwood Park CDP|Census Designated Place|S|Bexar County
+TX|48|73076|Timpson city|Incorporated Place|A|Shelby County
+TX|48|73112|Tioga town|Incorporated Place|A|Grayson County
+TX|48|73124|Tira town|Incorporated Place|A|Hopkins County
+TX|48|73148|Tivoli CDP|Census Designated Place|S|Refugio County
+TX|48|73196|Toco city|Incorporated Place|A|Lamar County
+TX|48|73224|Todd Mission city|Incorporated Place|A|Grimes County
+TX|48|73268|Tolar city|Incorporated Place|A|Hood County
+TX|48|73316|Tomball city|Incorporated Place|A|Harris County, Montgomery County
+TX|48|73328|Tom Bean city|Incorporated Place|A|Grayson County
+TX|48|73352|Tool city|Incorporated Place|A|Henderson County
+TX|48|73376|Tornillo CDP|Census Designated Place|S|El Paso County
+TX|48|73496|Toyah town|Incorporated Place|A|Reeves County
+TX|48|73526|Tradewinds CDP|Census Designated Place|S|San Patricio County
+TX|48|73562|Travis Ranch CDP|Census Designated Place|S|Kaufman County
+TX|48|73580|Trent town|Incorporated Place|A|Taylor County
+TX|48|73592|Trenton city|Incorporated Place|A|Fannin County
+TX|48|73652|Trinidad city|Incorporated Place|A|Henderson County
+TX|48|73664|Trinity city|Incorporated Place|A|Trinity County
+TX|48|73710|Trophy Club town|Incorporated Place|A|Denton County, Tarrant County
+TX|48|73724|Troup city|Incorporated Place|A|Cherokee County, Smith County
+TX|48|73748|Troy city|Incorporated Place|A|Bell County
+TX|48|73856|Tuleta CDP|Census Designated Place|S|Bee County
+TX|48|73868|Tulia city|Incorporated Place|A|Swisher County
+TX|48|73904|Tulsita CDP|Census Designated Place|S|Bee County
+TX|48|73964|Turkey city|Incorporated Place|A|Hall County
+TX|48|74048|Tuscola city|Incorporated Place|A|Taylor County
+TX|48|74132|Tye city|Incorporated Place|A|Taylor County
+TX|48|74144|Tyler city|Incorporated Place|A|Smith County
+TX|48|74168|Tynan CDP|Census Designated Place|S|Bee County
+TX|48|74216|Uhland city|Incorporated Place|A|Caldwell County, Hays County
+TX|48|74240|Uncertain city|Incorporated Place|A|Harrison County
+TX|48|74312|Union Grove city|Incorporated Place|A|Upshur County
+TX|48|74372|Union Valley city|Incorporated Place|A|Hunt County
+TX|48|74408|Universal City city|Incorporated Place|A|Bexar County
+TX|48|74492|University Park city|Incorporated Place|A|Dallas County
+TX|48|74576|Utopia CDP|Census Designated Place|S|Uvalde County
+TX|48|74588|Uvalde city|Incorporated Place|A|Uvalde County
+TX|48|74594|Uvalde Estates CDP|Census Designated Place|S|Uvalde County
+TX|48|74648|Valentine town|Incorporated Place|A|Jeff Davis County
+TX|48|74667|Valle Hermoso CDP|Census Designated Place|S|Starr County
+TX|48|74668|Valle Verde CDP|Census Designated Place|S|Webb County
+TX|48|74670|Valle Vista CDP|Census Designated Place|S|Starr County
+TX|48|74732|Valley Mills city|Incorporated Place|A|Bosque County, McLennan County
+TX|48|74756|Valley View city|Incorporated Place|A|Cooke County
+TX|48|74895|Val Verde Park CDP|Census Designated Place|S|Val Verde County
+TX|48|74912|Van city|Incorporated Place|A|Van Zandt County
+TX|48|74924|Van Alstyne city|Incorporated Place|A|Collin County, Grayson County
+TX|48|74984|Vanderbilt CDP|Census Designated Place|S|Jackson County
+TX|48|75032|Van Horn town|Incorporated Place|A|Culberson County
+TX|48|75068|Van Vleck CDP|Census Designated Place|S|Matagorda County
+TX|48|75188|Vega city|Incorporated Place|A|Oldham County
+TX|48|75236|Venus town|Incorporated Place|A|Ellis County, Johnson County
+TX|48|75308|Vernon city|Incorporated Place|A|Wilbarger County
+TX|48|75428|Victoria city|Incorporated Place|A|Victoria County
+TX|48|75432|Victoria Vera CDP|Census Designated Place|S|Starr County
+TX|48|75476|Vidor city|Incorporated Place|A|Orange County
+TX|48|75554|Villa del Sol CDP|Census Designated Place|S|Cameron County
+TX|48|75614|Villa Pancho CDP|Census Designated Place|S|Cameron County
+TX|48|75617|Villarreal CDP|Census Designated Place|S|Starr County
+TX|48|75626|Villa Verde CDP|Census Designated Place|S|Hidalgo County
+TX|48|75668|Vinton village|Incorporated Place|A|El Paso County
+TX|48|75752|Volente village|Incorporated Place|A|Travis County
+TX|48|75764|Von Ormy city|Incorporated Place|A|Bexar County
+TX|48|76000|Waco city|Incorporated Place|A|McLennan County
+TX|48|76024|Waelder city|Incorporated Place|A|Gonzales County
+TX|48|76096|Wake Village city|Incorporated Place|A|Bowie County
+TX|48|76228|Waller city|Incorporated Place|A|Harris County, Waller County
+TX|48|76240|Wallis city|Incorporated Place|A|Austin County
+TX|48|76348|Walnut Springs city|Incorporated Place|A|Bosque County
+TX|48|76564|Warren CDP|Census Designated Place|S|Tyler County
+TX|48|76576|Warren City city|Incorporated Place|A|Gregg County, Upshur County
+TX|48|76636|Waskom city|Incorporated Place|A|Harrison County
+TX|48|76672|Watauga city|Incorporated Place|A|Tarrant County
+TX|48|76816|Waxahachie city|Incorporated Place|A|Ellis County
+TX|48|76864|Weatherford city|Incorporated Place|A|Parker County
+TX|48|76924|Webberville village|Incorporated Place|A|Travis County
+TX|48|76948|Webster city|Incorporated Place|A|Harris County
+TX|48|77020|Weimar city|Incorporated Place|A|Colorado County
+TX|48|77044|Weinert city|Incorporated Place|A|Haskell County
+TX|48|77056|Weir city|Incorporated Place|A|Williamson County
+TX|48|77080|Welch CDP|Census Designated Place|S|Dawson County
+TX|48|77152|Wellington city|Incorporated Place|A|Collingsworth County
+TX|48|77164|Wellman city|Incorporated Place|A|Terry County
+TX|48|77176|Wells town|Incorporated Place|A|Cherokee County
+TX|48|77196|Wells Branch CDP|Census Designated Place|S|Travis County
+TX|48|77272|Weslaco city|Incorporated Place|A|Hidalgo County
+TX|48|77332|West city|Incorporated Place|A|McLennan County
+TX|48|77336|West Alto Bonito CDP|Census Designated Place|S|Starr County
+TX|48|77380|Westbrook city|Incorporated Place|A|Mitchell County
+TX|48|77416|West Columbia city|Incorporated Place|A|Brazoria County
+TX|48|77422|Westdale CDP|Census Designated Place|S|Jim Wells County
+TX|48|77490|Western Lake CDP|Census Designated Place|S|Parker County
+TX|48|77620|Westlake town|Incorporated Place|A|Denton County, Tarrant County
+TX|48|77632|West Lake Hills city|Incorporated Place|A|Travis County
+TX|48|77662|West Livingston CDP|Census Designated Place|S|Polk County
+TX|48|77680|Westminster CDP|Census Designated Place|S|Collin County
+TX|48|77728|West Odessa CDP|Census Designated Place|S|Ector County
+TX|48|77740|Weston city|Incorporated Place|A|Collin County
+TX|48|77746|Weston Lakes city|Incorporated Place|A|Fort Bend County
+TX|48|77752|West Orange city|Incorporated Place|A|Orange County
+TX|48|77788|Westover Hills town|Incorporated Place|A|Tarrant County
+TX|48|77866|West Sharyland CDP|Census Designated Place|S|Hidalgo County
+TX|48|77896|West Tawakoni city|Incorporated Place|A|Hunt County
+TX|48|77956|West University Place city|Incorporated Place|A|Harris County
+TX|48|78016|Westway CDP|Census Designated Place|S|El Paso County
+TX|48|78040|Westwood Shores CDP|Census Designated Place|S|Trinity County
+TX|48|78076|Westworth Village city|Incorporated Place|A|Tarrant County
+TX|48|78136|Wharton city|Incorporated Place|A|Wharton County
+TX|48|78208|Wheeler city|Incorporated Place|A|Wheeler County
+TX|48|78316|White Deer town|Incorporated Place|A|Carson County
+TX|48|78328|Whiteface town|Incorporated Place|A|Cochran County
+TX|48|78388|Whitehouse city|Incorporated Place|A|Smith County
+TX|48|78436|White Oak city|Incorporated Place|A|Gregg County
+TX|48|78532|Whitesboro city|Incorporated Place|A|Grayson County
+TX|48|78544|White Settlement city|Incorporated Place|A|Tarrant County
+TX|48|78628|Whitewright town|Incorporated Place|A|Fannin County, Grayson County
+TX|48|78664|Whitney town|Incorporated Place|A|Hill County
+TX|48|79000|Wichita Falls city|Incorporated Place|A|Wichita County
+TX|48|79036|Wickett town|Incorporated Place|A|Ward County
+TX|48|79192|Wild Peach Village CDP|Census Designated Place|S|Brazoria County
+TX|48|79204|Wildwood CDP|Census Designated Place|S|Hardin County, Tyler County
+TX|48|79408|Willis city|Incorporated Place|A|Montgomery County
+TX|48|79492|Willow Park city|Incorporated Place|A|Parker County
+TX|48|79564|Wills Point city|Incorporated Place|A|Van Zandt County
+TX|48|79576|Wilmer city|Incorporated Place|A|Dallas County
+TX|48|79612|Wilson city|Incorporated Place|A|Lynn County
+TX|48|79624|Wimberley city|Incorporated Place|A|Hays County
+TX|48|79672|Windcrest city|Incorporated Place|A|Bexar County
+TX|48|79676|Windemere CDP|Census Designated Place|S|Travis County
+TX|48|79684|Windom town|Incorporated Place|A|Fannin County
+TX|48|79696|Windthorst town|Incorporated Place|A|Archer County, Clay County
+TX|48|79720|Winfield city|Incorporated Place|A|Titus County
+TX|48|79768|Wink city|Incorporated Place|A|Winkler County
+TX|48|79792|Winnie CDP|Census Designated Place|S|Chambers County
+TX|48|79816|Winnsboro city|Incorporated Place|A|Franklin County, Wood County
+TX|48|79828|Winona town|Incorporated Place|A|Smith County
+TX|48|79876|Winters city|Incorporated Place|A|Runnels County
+TX|48|79919|Wixon Valley city|Incorporated Place|A|Brazos County
+TX|48|79948|Wolfe City city|Incorporated Place|A|Hunt County
+TX|48|79972|Wolfforth city|Incorporated Place|A|Lubbock County
+TX|48|80044|Woodbranch city|Incorporated Place|A|Montgomery County
+TX|48|80058|Woodcreek city|Incorporated Place|A|Hays County
+TX|48|80144|Woodloch town|Incorporated Place|A|Montgomery County
+TX|48|80176|Woodsboro town|Incorporated Place|A|Refugio County
+TX|48|80188|Woodson town|Incorporated Place|A|Throckmorton County
+TX|48|80212|Woodville town|Incorporated Place|A|Tyler County
+TX|48|80224|Woodway city|Incorporated Place|A|McLennan County
+TX|48|80296|Wortham town|Incorporated Place|A|Freestone County
+TX|48|80350|Wyldwood CDP|Census Designated Place|S|Bastrop County
+TX|48|80356|Wylie city|Incorporated Place|A|Collin County, Dallas County, Rockwall County
+TX|48|80440|Yantis town|Incorporated Place|A|Wood County
+TX|48|80560|Yoakum city|Incorporated Place|A|DeWitt County, Lavaca County
+TX|48|80584|Yorktown city|Incorporated Place|A|DeWitt County
+TX|48|80686|Yznaga CDP|Census Designated Place|S|Cameron County
+TX|48|80716|Zapata CDP|Census Designated Place|S|Zapata County
+TX|48|80722|Zapata Ranch CDP|Census Designated Place|S|Willacy County
+TX|48|80724|Zarate CDP|Census Designated Place|S|Starr County
+TX|48|80728|Zavalla city|Incorporated Place|A|Angelina County
+TX|48|80836|Zuehl CDP|Census Designated Place|S|Guadalupe County

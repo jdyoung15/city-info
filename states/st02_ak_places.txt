@@ -1,0 +1,355 @@
+AK|02|00065|Adak city|Incorporated Place|A|Aleutians West Census Area
+AK|02|00650|Akhiok city|Incorporated Place|A|Kodiak Island Borough
+AK|02|00760|Akiachak CDP|Census Designated Place|S|Bethel Census Area
+AK|02|00870|Akiak city|Incorporated Place|A|Bethel Census Area
+AK|02|01090|Akutan city|Incorporated Place|A|Aleutians East Borough
+AK|02|01200|Alakanuk city|Incorporated Place|A|Wade Hampton Census Area
+AK|02|01305|Alatna CDP|Census Designated Place|S|Yukon-Koyukuk Census Area
+AK|02|01390|Alcan Border CDP|Census Designated Place|S|Southeast Fairbanks Census Area
+AK|02|01420|Aleknagik city|Incorporated Place|A|Dillingham Census Area
+AK|02|01560|Aleneva CDP|Census Designated Place|S|Kodiak Island Borough
+AK|02|01860|Allakaket city|Incorporated Place|A|Yukon-Koyukuk Census Area
+AK|02|01970|Ambler city|Incorporated Place|A|Northwest Arctic Borough
+AK|02|02080|Anaktuvuk Pass city|Incorporated Place|A|North Slope Borough
+AK|02|03000|Anchorage municipality|Incorporated Place|A|Anchorage Municipality
+AK|02|03110|Anchor Point CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|03220|Anderson city|Incorporated Place|A|Denali Borough
+AK|02|03440|Angoon city|Incorporated Place|A|Hoonah-Angoon Census Area
+AK|02|03550|Aniak city|Incorporated Place|A|Bethel Census Area
+AK|02|03880|Anvik city|Incorporated Place|A|Yukon-Koyukuk Census Area
+AK|02|03990|Arctic Village CDP|Census Designated Place|S|Yukon-Koyukuk Census Area
+AK|02|04210|Atka city|Incorporated Place|A|Aleutians West Census Area
+AK|02|04430|Atmautluak CDP|Census Designated Place|S|Bethel Census Area
+AK|02|04500|Atqasuk city|Incorporated Place|A|North Slope Borough
+AK|02|04670|Attu Station CDP|Census Designated Place|S|Aleutians West Census Area
+AK|02|05000|Badger CDP|Census Designated Place|S|Fairbanks North Star Borough
+AK|02|05200|Barrow city|Incorporated Place|A|North Slope Borough
+AK|02|05585|Bear Creek CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|05750|Beaver CDP|Census Designated Place|S|Yukon-Koyukuk Census Area
+AK|02|06245|Beluga CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|06520|Bethel city|Incorporated Place|A|Bethel Census Area
+AK|02|06630|Bettles city|Incorporated Place|A|Yukon-Koyukuk Census Area
+AK|02|06850|Big Delta CDP|Census Designated Place|S|Southeast Fairbanks Census Area
+AK|02|07070|Big Lake CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|07620|Birch Creek CDP|Census Designated Place|S|Yukon-Koyukuk Census Area
+AK|02|08740|Brevig Mission city|Incorporated Place|A|Nome Census Area
+AK|02|09600|Buckland city|Incorporated Place|A|Northwest Arctic Borough
+AK|02|09657|Buffalo Soapstone CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|09710|Butte CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|10150|Cantwell CDP|Census Designated Place|S|Denali Borough
+AK|02|11690|Central CDP|Census Designated Place|S|Yukon-Koyukuk Census Area
+AK|02|11800|Chalkyitsik CDP|Census Designated Place|S|Yukon-Koyukuk Census Area
+AK|02|12350|Chase CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|12680|Chefornak city|Incorporated Place|A|Bethel Census Area
+AK|02|12920|Chena Ridge CDP|Census Designated Place|S|Fairbanks North Star Borough
+AK|02|12970|Chenega CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|13230|Chevak city|Incorporated Place|A|Wade Hampton Census Area
+AK|02|13340|Chickaloon CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|13450|Chicken CDP|Census Designated Place|S|Southeast Fairbanks Census Area
+AK|02|13550|Chignik city|Incorporated Place|A|Lake and Peninsula Borough
+AK|02|13670|Chignik Lagoon CDP|Census Designated Place|S|Lake and Peninsula Borough
+AK|02|13780|Chignik Lake CDP|Census Designated Place|S|Lake and Peninsula Borough
+AK|02|13860|Chiniak CDP|Census Designated Place|S|Kodiak Island Borough
+AK|02|13890|Chisana CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|14000|Chistochina CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|14110|Chitina CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|14330|Chuathbaluk city|Incorporated Place|A|Bethel Census Area
+AK|02|14880|Circle CDP|Census Designated Place|S|Yukon-Koyukuk Census Area
+AK|02|15320|Clam Gulch CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|15430|Clark's Point city|Incorporated Place|A|Dillingham Census Area
+AK|02|16360|Coffman Cove city|Incorporated Place|A|Prince of Wales-Hyder Census Area
+AK|02|16420|Cohoe CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|16530|Cold Bay city|Incorporated Place|A|Aleutians East Borough
+AK|02|16630|Coldfoot CDP|Census Designated Place|S|Yukon-Koyukuk Census Area
+AK|02|16750|College CDP|Census Designated Place|S|Fairbanks North Star Borough
+AK|02|17190|Cooper Landing CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|17300|Copper Center CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|17410|Cordova city|Incorporated Place|A|Valdez-Cordova Census Area
+AK|02|17670|Covenant Life CDP|Census Designated Place|S|Haines Borough
+AK|02|17740|Craig city|Incorporated Place|A|Prince of Wales-Hyder Census Area
+AK|02|17850|Crooked Creek CDP|Census Designated Place|S|Bethel Census Area
+AK|02|17960|Crown Point CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|18510|Deering city|Incorporated Place|A|Northwest Arctic Borough
+AK|02|18620|Delta Junction city|Incorporated Place|A|Southeast Fairbanks Census Area
+AK|02|18675|Deltana CDP|Census Designated Place|S|Southeast Fairbanks Census Area
+AK|02|18925|Diamond Ridge CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|18950|Dillingham city|Incorporated Place|A|Dillingham Census Area
+AK|02|19060|Diomede city|Incorporated Place|A|Nome Census Area
+AK|02|19720|Dot Lake CDP|Census Designated Place|S|Southeast Fairbanks Census Area
+AK|02|19750|Dot Lake Village CDP|Census Designated Place|S|Southeast Fairbanks Census Area
+AK|02|20020|Dry Creek CDP|Census Designated Place|S|Southeast Fairbanks Census Area
+AK|02|20380|Eagle city|Incorporated Place|A|Southeast Fairbanks Census Area
+AK|02|20600|Eagle Village CDP|Census Designated Place|S|Southeast Fairbanks Census Area
+AK|02|20970|Edna Bay CDP|Census Designated Place|S|Prince of Wales-Hyder Census Area
+AK|02|21040|Eek city|Incorporated Place|A|Bethel Census Area
+AK|02|21150|Egegik city|Incorporated Place|A|Lake and Peninsula Borough
+AK|02|21370|Eielson AFB CDP|Census Designated Place|S|Fairbanks North Star Borough
+AK|02|21810|Ekwok city|Incorporated Place|A|Dillingham Census Area
+AK|02|22140|Elfin Cove CDP|Census Designated Place|S|Hoonah-Angoon Census Area
+AK|02|22250|Elim city|Incorporated Place|A|Nome Census Area
+AK|02|22910|Emmonak city|Incorporated Place|A|Wade Hampton Census Area
+AK|02|23460|Ester CDP|Census Designated Place|S|Fairbanks North Star Borough
+AK|02|23720|Eureka Roadhouse CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|23790|Evansville CDP|Census Designated Place|S|Yukon-Koyukuk Census Area
+AK|02|23900|Excursion Inlet CDP|Census Designated Place|S|Haines Borough
+AK|02|24230|Fairbanks city|Incorporated Place|A|Fairbanks North Star Borough
+AK|02|24660|False Pass city|Incorporated Place|A|Aleutians East Borough
+AK|02|24980|Farmers Loop CDP|Census Designated Place|S|Fairbanks North Star Borough
+AK|02|25000|Farm Loop CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|25220|Ferry CDP|Census Designated Place|S|Denali Borough
+AK|02|25550|Fishhook CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|25880|Flat CDP|Census Designated Place|S|Yukon-Koyukuk Census Area
+AK|02|26100|Fort Greely CDP|Census Designated Place|S|Southeast Fairbanks Census Area
+AK|02|26760|Fort Yukon city|Incorporated Place|A|Yukon-Koyukuk Census Area
+AK|02|26835|Four Mile Road CDP|Census Designated Place|S|Yukon-Koyukuk Census Area
+AK|02|26870|Fox CDP|Census Designated Place|S|Fairbanks North Star Borough
+AK|02|26910|Fox River CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|27090|Fritz Creek CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|27145|Funny River CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|27420|Gakona CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|27530|Galena city|Incorporated Place|A|Yukon-Koyukuk Census Area
+AK|02|27640|Gambell city|Incorporated Place|A|Nome Census Area
+AK|02|27700|Game Creek CDP|Census Designated Place|S|Hoonah-Angoon Census Area
+AK|02|28200|Gateway CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|28590|Glacier View CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|28740|Glennallen CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|29130|Goldstream CDP|Census Designated Place|S|Fairbanks North Star Borough
+AK|02|29180|Golovin city|Incorporated Place|A|Nome Census Area
+AK|02|29290|Goodnews Bay city|Incorporated Place|A|Bethel Census Area
+AK|02|30060|Grayling city|Incorporated Place|A|Yukon-Koyukuk Census Area
+AK|02|30500|Gulkana CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|30940|Gustavus city|Incorporated Place|A|Hoonah-Angoon Census Area
+AK|02|31050|Haines CDP|Census Designated Place|S|Haines Borough
+AK|02|31270|Halibut Cove CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|31710|Happy Valley CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|31765|Harding-Birch Lakes CDP|Census Designated Place|S|Fairbanks North Star Borough
+AK|02|32150|Healy CDP|Census Designated Place|S|Denali Borough
+AK|02|32310|Healy Lake CDP|Census Designated Place|S|Southeast Fairbanks Census Area
+AK|02|32550|Hobart Bay CDP|Census Designated Place|S|Hoonah-Angoon Census Area
+AK|02|32810|Hollis CDP|Census Designated Place|S|Prince of Wales-Hyder Census Area
+AK|02|33030|Holy Cross city|Incorporated Place|A|Yukon-Koyukuk Census Area
+AK|02|33140|Homer city|Incorporated Place|A|Kenai Peninsula Borough
+AK|02|33360|Hoonah city|Incorporated Place|A|Hoonah-Angoon Census Area
+AK|02|33470|Hooper Bay city|Incorporated Place|A|Wade Hampton Census Area
+AK|02|33580|Hope CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|33800|Houston city|Incorporated Place|A|Matanuska-Susitna Borough
+AK|02|33910|Hughes city|Incorporated Place|A|Yukon-Koyukuk Census Area
+AK|02|34350|Huslia city|Incorporated Place|A|Yukon-Koyukuk Census Area
+AK|02|34460|Hydaburg city|Incorporated Place|A|Prince of Wales-Hyder Census Area
+AK|02|34570|Hyder CDP|Census Designated Place|S|Prince of Wales-Hyder Census Area
+AK|02|34790|Igiugig CDP|Census Designated Place|S|Lake and Peninsula Borough
+AK|02|35120|Iliamna CDP|Census Designated Place|S|Lake and Peninsula Borough
+AK|02|35890|Ivanof Bay CDP|Census Designated Place|S|Lake and Peninsula Borough
+AK|02|36400|Juneau city and borough|Incorporated Place|A|Juneau City and Borough
+AK|02|36550|Kachemak city|Incorporated Place|A|Kenai Peninsula Borough
+AK|02|36770|Kake city|Incorporated Place|A|Petersburg Census Area
+AK|02|36990|Kaktovik city|Incorporated Place|A|North Slope Borough
+AK|02|37250|Kalifornsky CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|37430|Kaltag city|Incorporated Place|A|Yukon-Koyukuk Census Area
+AK|02|37540|Karluk CDP|Census Designated Place|S|Kodiak Island Borough
+AK|02|37650|Kasaan city|Incorporated Place|A|Prince of Wales-Hyder Census Area
+AK|02|37975|Kasigluk CDP|Census Designated Place|S|Bethel Census Area
+AK|02|38090|Kasilof CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|38420|Kenai city|Incorporated Place|A|Kenai Peninsula Borough
+AK|02|38910|Kenny Lake CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|38970|Ketchikan city|Incorporated Place|A|Ketchikan Gateway Borough
+AK|02|39300|Kiana city|Incorporated Place|A|Northwest Arctic Borough
+AK|02|39410|King Cove city|Incorporated Place|A|Aleutians East Borough
+AK|02|39630|King Salmon CDP|Census Designated Place|S|Bristol Bay Borough
+AK|02|39740|Kipnuk CDP|Census Designated Place|S|Bethel Census Area
+AK|02|39960|Kivalina city|Incorporated Place|A|Northwest Arctic Borough
+AK|02|40400|Klawock city|Incorporated Place|A|Prince of Wales-Hyder Census Area
+AK|02|40510|Klukwan CDP|Census Designated Place|S|Hoonah-Angoon Census Area
+AK|02|40645|Knik-Fairview CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|40670|Knik River CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|40840|Kobuk city|Incorporated Place|A|Northwest Arctic Borough
+AK|02|40950|Kodiak city|Incorporated Place|A|Kodiak Island Borough
+AK|02|41210|Kodiak Station CDP|Census Designated Place|S|Kodiak Island Borough
+AK|02|41280|Kokhanok CDP|Census Designated Place|S|Lake and Peninsula Borough
+AK|02|41500|Koliganek CDP|Census Designated Place|S|Dillingham Census Area
+AK|02|41610|Kongiganak CDP|Census Designated Place|S|Bethel Census Area
+AK|02|41720|Kotlik city|Incorporated Place|A|Wade Hampton Census Area
+AK|02|41830|Kotzebue city|Incorporated Place|A|Northwest Arctic Borough
+AK|02|41940|Koyuk city|Incorporated Place|A|Nome Census Area
+AK|02|42050|Koyukuk city|Incorporated Place|A|Yukon-Koyukuk Census Area
+AK|02|42160|Kupreanof city|Incorporated Place|A|Petersburg Census Area
+AK|02|42380|Kwethluk city|Incorporated Place|A|Bethel Census Area
+AK|02|42490|Kwigillingok CDP|Census Designated Place|S|Bethel Census Area
+AK|02|42805|Lake Louise CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|42820|Lake Minchumina CDP|Census Designated Place|S|Yukon-Koyukuk Census Area
+AK|02|42832|Lakes CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|43040|Larsen Bay city|Incorporated Place|A|Kodiak Island Borough
+AK|02|43260|Lazy Mountain CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|43810|Levelock CDP|Census Designated Place|S|Lake and Peninsula Borough
+AK|02|44030|Lime Village CDP|Census Designated Place|S|Bethel Census Area
+AK|02|44580|Livengood CDP|Census Designated Place|S|Yukon-Koyukuk Census Area
+AK|02|45020|Loring CDP|Census Designated Place|S|Ketchikan Gateway Borough
+AK|02|45295|Lowell Point CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|45460|Lower Kalskag city|Incorporated Place|A|Bethel Census Area
+AK|02|45700|Lutak CDP|Census Designated Place|S|Haines Borough
+AK|02|45790|McCarthy CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|46010|McGrath city|Incorporated Place|A|Yukon-Koyukuk Census Area
+AK|02|46560|McKinley Park CDP|Census Designated Place|S|Denali Borough
+AK|02|46780|Manley Hot Springs CDP|Census Designated Place|S|Yukon-Koyukuk Census Area
+AK|02|46890|Manokotak city|Incorporated Place|A|Dillingham Census Area
+AK|02|47000|Marshall city|Incorporated Place|A|Wade Hampton Census Area
+AK|02|47735|Meadow Lakes CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|47990|Mekoryuk city|Incorporated Place|A|Bethel Census Area
+AK|02|48200|Mendeltna CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|48540|Mentasta Lake CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|48590|Mertarvik CDP|Census Designated Place|S|Bethel Census Area
+AK|02|48870|Metlakatla CDP|Census Designated Place|S|Prince of Wales-Hyder Census Area
+AK|02|49530|Minto CDP|Census Designated Place|S|Yukon-Koyukuk Census Area
+AK|02|50080|Moose Creek CDP|Census Designated Place|S|Fairbanks North Star Borough
+AK|02|50190|Moose Pass CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|50800|Mosquito Lake CDP|Census Designated Place|S|Haines Borough
+AK|02|51180|Mountain Village city|Incorporated Place|A|Wade Hampton Census Area
+AK|02|51455|Mud Bay CDP|Census Designated Place|S|Haines Borough
+AK|02|51960|Nabesna CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|52060|Naknek CDP|Census Designated Place|S|Bristol Bay Borough
+AK|02|52210|Nanwalek CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|52390|Napakiak city|Incorporated Place|A|Bethel Census Area
+AK|02|52720|Napaskiak city|Incorporated Place|A|Bethel Census Area
+AK|02|52845|Naukati Bay CDP|Census Designated Place|S|Prince of Wales-Hyder Census Area
+AK|02|52915|Nelchina CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|52940|Nelson Lagoon CDP|Census Designated Place|S|Aleutians East Borough
+AK|02|53050|Nenana city|Incorporated Place|A|Yukon-Koyukuk Census Area
+AK|02|53162|New Allakaket CDP|Census Designated Place|S|Yukon-Koyukuk Census Area
+AK|02|53270|Newhalen city|Incorporated Place|A|Lake and Peninsula Borough
+AK|02|53710|New Stuyahok city|Incorporated Place|A|Dillingham Census Area
+AK|02|53820|Newtok CDP|Census Designated Place|S|Bethel Census Area
+AK|02|53930|Nightmute city|Incorporated Place|A|Bethel Census Area
+AK|02|54050|Nikiski CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|54085|Nikolaevsk CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|54150|Nikolai city|Incorporated Place|A|Yukon-Koyukuk Census Area
+AK|02|54260|Nikolski CDP|Census Designated Place|S|Aleutians West Census Area
+AK|02|54480|Ninilchik CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|54700|Noatak CDP|Census Designated Place|S|Northwest Arctic Borough
+AK|02|54920|Nome city|Incorporated Place|A|Nome Census Area
+AK|02|55030|Nondalton city|Incorporated Place|A|Lake and Peninsula Borough
+AK|02|55140|Noorvik city|Incorporated Place|A|Northwest Arctic Borough
+AK|02|55910|North Pole city|Incorporated Place|A|Fairbanks North Star Borough
+AK|02|56220|Northway CDP|Census Designated Place|S|Southeast Fairbanks Census Area
+AK|02|56250|Northway Junction CDP|Census Designated Place|S|Southeast Fairbanks Census Area
+AK|02|56260|Northway Village CDP|Census Designated Place|S|Southeast Fairbanks Census Area
+AK|02|56320|Nuiqsut city|Incorporated Place|A|North Slope Borough
+AK|02|56350|Nulato city|Incorporated Place|A|Yukon-Koyukuk Census Area
+AK|02|56600|Nunam Iqua city|Incorporated Place|A|Wade Hampton Census Area
+AK|02|56680|Nunapitchuk city|Incorporated Place|A|Bethel Census Area
+AK|02|57340|Old Harbor city|Incorporated Place|A|Kodiak Island Borough
+AK|02|58330|Oscarville CDP|Census Designated Place|S|Bethel Census Area
+AK|02|58550|Ouzinkie city|Incorporated Place|A|Kodiak Island Borough
+AK|02|58660|Palmer city|Incorporated Place|A|Matanuska-Susitna Borough
+AK|02|59320|Paxson CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|59540|Pedro Bay CDP|Census Designated Place|S|Lake and Peninsula Borough
+AK|02|59650|Pelican city|Incorporated Place|A|Hoonah-Angoon Census Area
+AK|02|60200|Perryville CDP|Census Designated Place|S|Lake and Peninsula Borough
+AK|02|60310|Petersburg city|Incorporated Place|A|Petersburg Census Area
+AK|02|60460|Petersville CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|60640|Pilot Point city|Incorporated Place|A|Lake and Peninsula Borough
+AK|02|60750|Pilot Station city|Incorporated Place|A|Wade Hampton Census Area
+AK|02|60860|Pitkas Point CDP|Census Designated Place|S|Wade Hampton Census Area
+AK|02|61080|Platinum city|Incorporated Place|A|Bethel Census Area
+AK|02|61120|Pleasant Valley CDP|Census Designated Place|S|Fairbanks North Star Borough
+AK|02|61190|Point Baker CDP|Census Designated Place|S|Prince of Wales-Hyder Census Area
+AK|02|61630|Point Hope city|Incorporated Place|A|North Slope Borough
+AK|02|61700|Point Lay CDP|Census Designated Place|S|North Slope Borough
+AK|02|61788|Point MacKenzie CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|61825|Point Possession CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|62125|Pope-Vannoy Landing CDP|Census Designated Place|S|Lake and Peninsula Borough
+AK|02|62285|Portage Creek CDP|Census Designated Place|S|Dillingham Census Area
+AK|02|62510|Port Alexander city|Incorporated Place|A|Petersburg Census Area
+AK|02|62620|Port Alsworth CDP|Census Designated Place|S|Lake and Peninsula Borough
+AK|02|63170|Port Clarence CDP|Census Designated Place|S|Nome Census Area
+AK|02|63280|Port Graham CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|63390|Port Heiden city|Incorporated Place|A|Lake and Peninsula Borough
+AK|02|63610|Port Lions city|Incorporated Place|A|Kodiak Island Borough
+AK|02|63870|Port Protection CDP|Census Designated Place|S|Prince of Wales-Hyder Census Area
+AK|02|64240|Primrose CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|64380|Prudhoe Bay CDP|Census Designated Place|S|North Slope Borough
+AK|02|64600|Quinhagak city|Incorporated Place|A|Bethel Census Area
+AK|02|64820|Rampart CDP|Census Designated Place|S|Yukon-Koyukuk Census Area
+AK|02|64930|Red Devil CDP|Census Designated Place|S|Bethel Census Area
+AK|02|64980|Red Dog Mine CDP|Census Designated Place|S|Northwest Arctic Borough
+AK|02|65345|Ridgeway CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|65590|Ruby city|Incorporated Place|A|Yukon-Koyukuk Census Area
+AK|02|65700|Russian Mission city|Incorporated Place|A|Wade Hampton Census Area
+AK|02|65800|St. George city|Incorporated Place|A|Aleutians West Census Area
+AK|02|66140|St. Mary's city|Incorporated Place|A|Wade Hampton Census Area
+AK|02|66360|St. Michael city|Incorporated Place|A|Nome Census Area
+AK|02|66470|St. Paul city|Incorporated Place|A|Aleutians West Census Area
+AK|02|66510|Salamatof CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|66550|Salcha CDP|Census Designated Place|S|Fairbanks North Star Borough
+AK|02|67020|Sand Point city|Incorporated Place|A|Aleutians East Borough
+AK|02|67460|Savoonga city|Incorporated Place|A|Nome Census Area
+AK|02|67570|Saxman city|Incorporated Place|A|Ketchikan Gateway Borough
+AK|02|67680|Scammon Bay city|Incorporated Place|A|Wade Hampton Census Area
+AK|02|68230|Selawik city|Incorporated Place|A|Northwest Arctic Borough
+AK|02|68340|Seldovia city|Incorporated Place|A|Kenai Peninsula Borough
+AK|02|68370|Seldovia Village CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|68560|Seward city|Incorporated Place|A|Kenai Peninsula Borough
+AK|02|68670|Shageluk city|Incorporated Place|A|Yukon-Koyukuk Census Area
+AK|02|68890|Shaktoolik city|Incorporated Place|A|Nome Census Area
+AK|02|69770|Shishmaref city|Incorporated Place|A|Nome Census Area
+AK|02|70100|Shungnak city|Incorporated Place|A|Northwest Arctic Borough
+AK|02|70320|Silver Springs CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|70540|Sitka city and borough|Incorporated Place|A|Sitka City and Borough
+AK|02|70760|Skagway CDP|Census Designated Place|S|Skagway Municipality
+AK|02|70870|Skwentna CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|70930|Slana CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|71090|Sleetmute CDP|Census Designated Place|S|Bethel Census Area
+AK|02|71640|Soldotna city|Incorporated Place|A|Kenai Peninsula Borough
+AK|02|72190|South Naknek CDP|Census Designated Place|S|Bristol Bay Borough
+AK|02|72230|South Van Horn CDP|Census Designated Place|S|Fairbanks North Star Borough
+AK|02|72960|Stebbins city|Incorporated Place|A|Nome Census Area
+AK|02|72985|Steele Creek CDP|Census Designated Place|S|Fairbanks North Star Borough
+AK|02|73070|Sterling CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|73290|Stevens Village CDP|Census Designated Place|S|Yukon-Koyukuk Census Area
+AK|02|73400|Stony River CDP|Census Designated Place|S|Bethel Census Area
+AK|02|73950|Sunrise CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|74340|Susitna CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|74350|Susitna North CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|74525|Sutton-Alpine CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|74610|Takotna CDP|Census Designated Place|S|Yukon-Koyukuk Census Area
+AK|02|74830|Talkeetna CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|75050|Tanacross CDP|Census Designated Place|S|Southeast Fairbanks Census Area
+AK|02|75077|Tanaina CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|75160|Tanana city|Incorporated Place|A|Yukon-Koyukuk Census Area
+AK|02|75380|Tatitlek CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|75480|Tazlina CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|75930|Teller city|Incorporated Place|A|Nome Census Area
+AK|02|76260|Tenakee Springs city|Incorporated Place|A|Hoonah-Angoon Census Area
+AK|02|76590|Tetlin CDP|Census Designated Place|S|Southeast Fairbanks Census Area
+AK|02|77140|Thorne Bay city|Incorporated Place|A|Prince of Wales-Hyder Census Area
+AK|02|77690|Togiak city|Incorporated Place|A|Dillingham Census Area
+AK|02|77800|Tok CDP|Census Designated Place|S|Southeast Fairbanks Census Area
+AK|02|78240|Toksook Bay city|Incorporated Place|A|Bethel Census Area
+AK|02|78297|Tolsona CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|78350|Tonsina CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|78680|Trapper Creek CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|78790|Tuluksak CDP|Census Designated Place|S|Bethel Census Area
+AK|02|79120|Tuntutuliak CDP|Census Designated Place|S|Bethel Census Area
+AK|02|79230|Tununak CDP|Census Designated Place|S|Bethel Census Area
+AK|02|79780|Twin Hills CDP|Census Designated Place|S|Dillingham Census Area
+AK|02|79830|Two Rivers CDP|Census Designated Place|S|Fairbanks North Star Borough
+AK|02|79890|Tyonek CDP|Census Designated Place|S|Kenai Peninsula Borough
+AK|02|80100|Ugashik CDP|Census Designated Place|S|Lake and Peninsula Borough
+AK|02|80660|Unalakleet city|Incorporated Place|A|Nome Census Area
+AK|02|80770|Unalaska city|Incorporated Place|A|Aleutians West Census Area
+AK|02|81320|Upper Kalskag city|Incorporated Place|A|Bethel Census Area
+AK|02|82200|Valdez city|Incorporated Place|A|Valdez-Cordova Census Area
+AK|02|82420|Venetie CDP|Census Designated Place|S|Yukon-Koyukuk Census Area
+AK|02|82750|Wainwright city|Incorporated Place|A|North Slope Borough
+AK|02|82860|Wales city|Incorporated Place|A|Nome Census Area
+AK|02|83080|Wasilla city|Incorporated Place|A|Matanuska-Susitna Borough
+AK|02|84000|Whale Pass CDP|Census Designated Place|S|Prince of Wales-Hyder Census Area
+AK|02|84070|White Mountain city|Incorporated Place|A|Nome Census Area
+AK|02|84120|Whitestone CDP|Census Designated Place|S|Southeast Fairbanks Census Area
+AK|02|84200|Whitestone Logging Camp CDP|Census Designated Place|S|Hoonah-Angoon Census Area
+AK|02|84510|Whittier city|Incorporated Place|A|Valdez-Cordova Census Area
+AK|02|85280|Willow CDP|Census Designated Place|S|Matanuska-Susitna Borough
+AK|02|85290|Willow Creek CDP|Census Designated Place|S|Valdez-Cordova Census Area
+AK|02|85610|Wiseman CDP|Census Designated Place|S|Yukon-Koyukuk Census Area
+AK|02|85680|Womens Bay CDP|Census Designated Place|S|Kodiak Island Borough
+AK|02|86380|Wrangell city and borough|Incorporated Place|A|Wrangell City and Borough
+AK|02|86490|Yakutat CDP|Census Designated Place|S|Yakutat City and Borough

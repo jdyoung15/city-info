@@ -1,0 +1,401 @@
+WV|54|00196|Accoville CDP|Census Designated Place|S|Logan County
+WV|54|00364|Addison (Webster Springs) town|Incorporated Place|A|Webster County
+WV|54|00748|Albright town|Incorporated Place|A|Preston County
+WV|54|00772|Alderson town|Incorporated Place|A|Greenbrier County, Monroe County
+WV|54|01396|Alum Creek CDP|Census Designated Place|S|Kanawha County, Lincoln County
+WV|54|01660|Amherstdale CDP|Census Designated Place|S|Logan County
+WV|54|01780|Anawalt town|Incorporated Place|A|McDowell County
+WV|54|01900|Anmoore town|Incorporated Place|A|Harrison County
+WV|54|01996|Ansted town|Incorporated Place|A|Fayette County
+WV|54|02188|Apple Grove CDP|Census Designated Place|S|Mason County
+WV|54|03292|Athens town|Incorporated Place|A|Mercer County
+WV|54|03364|Auburn town|Incorporated Place|A|Ritchie County
+WV|54|03460|Aurora CDP|Census Designated Place|S|Preston County
+WV|54|04204|Bancroft town|Incorporated Place|A|Putnam County
+WV|54|04276|Barboursville village|Incorporated Place|A|Cabell County
+WV|54|04612|Barrackville town|Incorporated Place|A|Marion County
+WV|54|04732|Bartley CDP|Census Designated Place|S|McDowell County
+WV|54|04780|Bartow CDP|Census Designated Place|S|Pocahontas County
+WV|54|04876|Bath (Berkeley Springs) town|Incorporated Place|A|Morgan County
+WV|54|04924|Bayard town|Incorporated Place|A|Grant County
+WV|54|05068|Beards Fork CDP|Census Designated Place|S|Fayette County
+WV|54|05260|Beaver CDP|Census Designated Place|S|Raleigh County
+WV|54|05332|Beckley city|Incorporated Place|A|Raleigh County
+WV|54|05452|Beech Bottom village|Incorporated Place|A|Brooke County
+WV|54|05788|Belington town|Incorporated Place|A|Barbour County
+WV|54|05836|Belle town|Incorporated Place|A|Kanawha County
+WV|54|06004|Belmont city|Incorporated Place|A|Pleasants County
+WV|54|06052|Belva CDP|Census Designated Place|S|Nicholas County
+WV|54|06340|Benwood city|Incorporated Place|A|Marshall County
+WV|54|06436|Bergoo CDP|Census Designated Place|S|Webster County
+WV|54|06748|Berwind CDP|Census Designated Place|S|McDowell County
+WV|54|06844|Bethany town|Incorporated Place|A|Brooke County
+WV|54|06940|Bethlehem village|Incorporated Place|A|Ohio County
+WV|54|06988|Beverly town|Incorporated Place|A|Randolph County
+WV|54|07204|Big Chimney CDP|Census Designated Place|S|Kanawha County
+WV|54|07228|Big Creek CDP|Census Designated Place|S|Logan County
+WV|54|07516|Big Sandy CDP|Census Designated Place|S|McDowell County
+WV|54|07756|Birch River CDP|Census Designated Place|S|Nicholas County
+WV|54|08092|Blacksville town|Incorporated Place|A|Monongalia County
+WV|54|08308|Blennerhassett CDP|Census Designated Place|S|Wood County
+WV|54|08524|Bluefield city|Incorporated Place|A|Mercer County
+WV|54|08764|Bluewell CDP|Census Designated Place|S|Mercer County
+WV|54|08836|Boaz CDP|Census Designated Place|S|Wood County
+WV|54|08932|Bolivar town|Incorporated Place|A|Jefferson County
+WV|54|08956|Bolt CDP|Census Designated Place|S|Raleigh County
+WV|54|09100|Boomer CDP|Census Designated Place|S|Fayette County
+WV|54|09364|Bowden CDP|Census Designated Place|S|Randolph County
+WV|54|09676|Bradley CDP|Census Designated Place|S|Raleigh County
+WV|54|09700|Bradshaw town|Incorporated Place|A|McDowell County
+WV|54|09796|Bramwell town|Incorporated Place|A|Mercer County
+WV|54|09844|Brandonville town|Incorporated Place|A|Preston County
+WV|54|09868|Brandywine CDP|Census Designated Place|S|Pendleton County
+WV|54|09964|Brenton CDP|Census Designated Place|S|Wyoming County
+WV|54|10180|Bridgeport city|Incorporated Place|A|Harrison County
+WV|54|10420|Brookhaven CDP|Census Designated Place|S|Monongalia County
+WV|54|10852|Bruceton Mills town|Incorporated Place|A|Preston County
+WV|54|10876|Bruno CDP|Census Designated Place|S|Logan County
+WV|54|10948|Brush Fork CDP|Census Designated Place|S|Mercer County
+WV|54|11188|Buckhannon city|Incorporated Place|A|Upshur County
+WV|54|11212|Bud CDP|Census Designated Place|S|Wyoming County
+WV|54|11284|Buffalo town|Incorporated Place|A|Putnam County
+WV|54|11620|Burlington CDP|Census Designated Place|S|Mineral County
+WV|54|11716|Burnsville town|Incorporated Place|A|Braxton County
+WV|54|12124|Cairo town|Incorporated Place|A|Ritchie County
+WV|54|12436|Camden-on-Gauley town|Incorporated Place|A|Webster County
+WV|54|12484|Cameron city|Incorporated Place|A|Marshall County
+WV|54|13108|Capon Bridge town|Incorporated Place|A|Hampshire County
+WV|54|13468|Carolina CDP|Census Designated Place|S|Marion County
+WV|54|13525|Carpendale town|Incorporated Place|A|Mineral County
+WV|54|13684|Cass CDP|Census Designated Place|S|Pocahontas County
+WV|54|13756|Cassville CDP|Census Designated Place|S|Monongalia County
+WV|54|13924|Cedar Grove town|Incorporated Place|A|Kanawha County
+WV|54|14212|Century CDP|Census Designated Place|S|Barbour County
+WV|54|14308|Ceredo city|Incorporated Place|A|Wayne County
+WV|54|14524|Chapmanville town|Incorporated Place|A|Logan County
+WV|54|14600|Charleston city|Incorporated Place|A|Kanawha County
+WV|54|14610|Charles Town city|Incorporated Place|A|Jefferson County
+WV|54|14630|Charlton Heights CDP|Census Designated Place|S|Fayette County
+WV|54|14692|Chattaroy CDP|Census Designated Place|S|Mingo County
+WV|54|14716|Chauncey CDP|Census Designated Place|S|Logan County
+WV|54|14775|Cheat Lake CDP|Census Designated Place|S|Monongalia County
+WV|54|14812|Chelyan CDP|Census Designated Place|S|Kanawha County
+WV|54|15028|Chesapeake town|Incorporated Place|A|Kanawha County
+WV|54|15076|Chester city|Incorporated Place|A|Hancock County
+WV|54|15628|Clarksburg city|Incorporated Place|A|Harrison County
+WV|54|15676|Clay town|Incorporated Place|A|Clay County
+WV|54|15916|Clearview village|Incorporated Place|A|Ohio County
+WV|54|16012|Clendenin town|Incorporated Place|A|Kanawha County
+WV|54|16516|Coal City CDP|Census Designated Place|S|Raleigh County
+WV|54|16612|Coal Fork CDP|Census Designated Place|S|Kanawha County
+WV|54|17380|Comfort CDP|Census Designated Place|S|Boone County
+WV|54|17836|Corinne CDP|Census Designated Place|S|Wyoming County
+WV|54|18388|Covel CDP|Census Designated Place|S|Wyoming County
+WV|54|18412|Cowen town|Incorporated Place|A|Webster County
+WV|54|18508|Crab Orchard CDP|Census Designated Place|S|Raleigh County
+WV|54|18604|Craigsville CDP|Census Designated Place|S|Nicholas County
+WV|54|19108|Cross Lanes CDP|Census Designated Place|S|Kanawha County
+WV|54|19300|Crum CDP|Census Designated Place|S|Wayne County
+WV|54|19324|Crumpler CDP|Census Designated Place|S|McDowell County
+WV|54|19492|Cucumber CDP|Census Designated Place|S|McDowell County
+WV|54|19516|Culloden CDP|Census Designated Place|S|Cabell County, Putnam County
+WV|54|19948|Dailey CDP|Census Designated Place|S|Randolph County
+WV|54|20164|Daniels CDP|Census Designated Place|S|Raleigh County
+WV|54|20212|Danville town|Incorporated Place|A|Boone County
+WV|54|20428|Davis town|Incorporated Place|A|Tucker County
+WV|54|20500|Davy town|Incorporated Place|A|McDowell County
+WV|54|20764|Deep Water CDP|Census Designated Place|S|Fayette County
+WV|54|20980|Delbarton town|Incorporated Place|A|Mingo County
+WV|54|21316|Despard CDP|Census Designated Place|S|Harrison County
+WV|54|21628|Dixie CDP|Census Designated Place|S|Fayette County, Nicholas County
+WV|54|22564|Dunbar city|Incorporated Place|A|Kanawha County
+WV|54|22852|Durbin town|Incorporated Place|A|Pocahontas County
+WV|54|23092|East Bank town|Incorporated Place|A|Kanawha County
+WV|54|23140|East Dailey CDP|Census Designated Place|S|Randolph County
+WV|54|23644|Eccles CDP|Census Designated Place|S|Raleigh County
+WV|54|24292|Eleanor town|Incorporated Place|A|Putnam County
+WV|54|24364|Elizabeth town|Incorporated Place|A|Wirt County
+WV|54|24484|Elk Garden town|Incorporated Place|A|Mineral County
+WV|54|24580|Elkins city|Incorporated Place|A|Randolph County
+WV|54|24748|Elkview CDP|Census Designated Place|S|Kanawha County
+WV|54|24844|Ellenboro town|Incorporated Place|A|Ritchie County
+WV|54|25516|Enterprise CDP|Census Designated Place|S|Harrison County
+WV|54|26428|Fairlea CDP|Census Designated Place|S|Greenbrier County
+WV|54|26452|Fairmont city|Incorporated Place|A|Marion County
+WV|54|26524|Fairview town|Incorporated Place|A|Marion County
+WV|54|26692|Falling Spring town|Incorporated Place|A|Greenbrier County
+WV|54|26716|Falling Waters CDP|Census Designated Place|S|Berkeley County
+WV|54|26812|Falls View CDP|Census Designated Place|S|Fayette County
+WV|54|26932|Farmington town|Incorporated Place|A|Marion County
+WV|54|27028|Fayetteville town|Incorporated Place|A|Fayette County
+WV|54|27196|Fenwick CDP|Census Designated Place|S|Nicholas County
+WV|54|27868|Flatwoods town|Incorporated Place|A|Braxton County
+WV|54|27940|Flemington town|Incorporated Place|A|Taylor County
+WV|54|28204|Follansbee city|Incorporated Place|A|Brooke County
+WV|54|28444|Fort Ashby CDP|Census Designated Place|S|Mineral County
+WV|54|28516|Fort Gay town|Incorporated Place|A|Wayne County
+WV|54|28948|Frank CDP|Census Designated Place|S|Pocahontas County
+WV|54|29044|Franklin town|Incorporated Place|A|Pendleton County
+WV|54|29404|Friendly town|Incorporated Place|A|Tyler County
+WV|54|29716|Gallipolis Ferry CDP|Census Designated Place|S|Mason County
+WV|54|29740|Galloway CDP|Census Designated Place|S|Barbour County
+WV|54|30196|Gary city|Incorporated Place|A|McDowell County
+WV|54|30220|Gassaway town|Incorporated Place|A|Braxton County
+WV|54|30364|Gauley Bridge town|Incorporated Place|A|Fayette County
+WV|54|30724|Ghent CDP|Census Designated Place|S|Raleigh County
+WV|54|30772|Gilbert town|Incorporated Place|A|Mingo County
+WV|54|30777|Gilbert Creek CDP|Census Designated Place|S|Mingo County
+WV|54|31324|Glasgow town|Incorporated Place|A|Kanawha County
+WV|54|31492|Glen Dale city|Incorporated Place|A|Marshall County
+WV|54|31732|Glen Ferris CDP|Census Designated Place|S|Fayette County
+WV|54|31756|Glen Fork CDP|Census Designated Place|S|Wyoming County
+WV|54|31876|Glen Jean CDP|Census Designated Place|S|Fayette County
+WV|54|32044|Glenville town|Incorporated Place|A|Gilmer County
+WV|54|32068|Glen White CDP|Census Designated Place|S|Raleigh County
+WV|54|32716|Grafton city|Incorporated Place|A|Taylor County
+WV|54|32884|Grantsville town|Incorporated Place|A|Calhoun County
+WV|54|32908|Grant Town town|Incorporated Place|A|Marion County
+WV|54|32932|Granville town|Incorporated Place|A|Monongalia County
+WV|54|33100|Great Cacapon CDP|Census Designated Place|S|Morgan County
+WV|54|33124|Green Bank CDP|Census Designated Place|S|Pocahontas County
+WV|54|33436|Green Spring CDP|Census Designated Place|S|Hampshire County
+WV|54|33580|Greenview CDP|Census Designated Place|S|Boone County
+WV|54|34180|Gypsy CDP|Census Designated Place|S|Harrison County
+WV|54|34492|Hambleton town|Incorporated Place|A|Tucker County
+WV|54|34516|Hamlin town|Incorporated Place|A|Lincoln County
+WV|54|34756|Handley town|Incorporated Place|A|Kanawha County
+WV|54|35092|Harman town|Incorporated Place|A|Randolph County
+WV|54|35284|Harpers Ferry town|Incorporated Place|A|Jefferson County
+WV|54|35428|Harrisville town|Incorporated Place|A|Ritchie County
+WV|54|35500|Hartford City town|Incorporated Place|A|Mason County
+WV|54|35596|Harts CDP|Census Designated Place|S|Lincoln County
+WV|54|36220|Hedgesville town|Incorporated Place|A|Berkeley County
+WV|54|36292|Helen CDP|Census Designated Place|S|Raleigh County
+WV|54|36340|Helvetia CDP|Census Designated Place|S|Randolph County
+WV|54|36436|Henderson town|Incorporated Place|A|Mason County
+WV|54|36460|Hendricks town|Incorporated Place|A|Tucker County
+WV|54|36484|Henlawson CDP|Census Designated Place|S|Logan County
+WV|54|36628|Hepzibah CDP|Census Designated Place|S|Harrison County
+WV|54|37036|Hico CDP|Census Designated Place|S|Fayette County
+WV|54|37372|Hillsboro town|Incorporated Place|A|Pocahontas County
+WV|54|37444|Hilltop CDP|Census Designated Place|S|Fayette County
+WV|54|37636|Hinton city|Incorporated Place|A|Summers County
+WV|54|37948|Holden CDP|Census Designated Place|S|Logan County
+WV|54|38260|Hometown CDP|Census Designated Place|S|Putnam County
+WV|54|38476|Hooverson Heights CDP|Census Designated Place|S|Brooke County
+WV|54|39340|Hundred town|Incorporated Place|A|Wetzel County
+WV|54|39412|Huntersville CDP|Census Designated Place|S|Pocahontas County
+WV|54|39460|Huntington city|Incorporated Place|A|Cabell County, Wayne County
+WV|54|39532|Hurricane city|Incorporated Place|A|Putnam County
+WV|54|39628|Huttonsville town|Incorporated Place|A|Randolph County
+WV|54|39652|Iaeger town|Incorporated Place|A|McDowell County
+WV|54|39676|Idamay CDP|Census Designated Place|S|Marion County
+WV|54|40204|Inwood CDP|Census Designated Place|S|Berkeley County
+WV|54|40444|Itmann CDP|Census Designated Place|S|Wyoming County
+WV|54|40636|Jacksonburg CDP|Census Designated Place|S|Wetzel County
+WV|54|40828|Jane Lew town|Incorporated Place|A|Lewis County
+WV|54|41010|Jefferson CDP|Census Designated Place|S|Kanawha County
+WV|54|42244|Junior town|Incorporated Place|A|Barbour County
+WV|54|42292|Justice CDP|Census Designated Place|S|Mingo County
+WV|54|43180|Kenova city|Incorporated Place|A|Wayne County
+WV|54|43300|Kermit town|Incorporated Place|A|Mingo County
+WV|54|43492|Keyser city|Incorporated Place|A|Mineral County
+WV|54|43516|Keystone city|Incorporated Place|A|McDowell County
+WV|54|43780|Kimball town|Incorporated Place|A|McDowell County
+WV|54|43828|Kimberly CDP|Census Designated Place|S|Fayette County
+WV|54|43852|Kincaid CDP|Census Designated Place|S|Fayette County
+WV|54|44044|Kingwood city|Incorporated Place|A|Preston County
+WV|54|44188|Kistler CDP|Census Designated Place|S|Logan County
+WV|54|44548|Kopperston CDP|Census Designated Place|S|Wyoming County
+WV|54|45292|Lashmeet CDP|Census Designated Place|S|Mercer County
+WV|54|45580|Lavalette CDP|Census Designated Place|S|Wayne County
+WV|54|46300|Leon town|Incorporated Place|A|Mason County
+WV|54|46420|Lesage CDP|Census Designated Place|S|Cabell County
+WV|54|46468|Lester town|Incorporated Place|A|Raleigh County
+WV|54|46636|Lewisburg city|Incorporated Place|A|Greenbrier County
+WV|54|47788|Littleton CDP|Census Designated Place|S|Wetzel County
+WV|54|48148|Logan city|Incorporated Place|A|Logan County
+WV|54|48748|Lost Creek town|Incorporated Place|A|Harrison County
+WV|54|49156|Lubeck CDP|Census Designated Place|S|Wood County
+WV|54|49252|Lumberport town|Incorporated Place|A|Harrison County
+WV|54|49492|Mabscott town|Incorporated Place|A|Raleigh County
+WV|54|49564|MacArthur CDP|Census Designated Place|S|Raleigh County
+WV|54|49732|McConnell CDP|Census Designated Place|S|Logan County
+WV|54|50260|McMechen city|Incorporated Place|A|Marshall County
+WV|54|50524|Madison city|Incorporated Place|A|Boone County
+WV|54|50860|Mallory CDP|Census Designated Place|S|Logan County
+WV|54|50932|Man town|Incorporated Place|A|Logan County
+WV|54|51100|Mannington city|Incorporated Place|A|Marion County
+WV|54|51676|Marlinton town|Incorporated Place|A|Pocahontas County
+WV|54|51724|Marmet city|Incorporated Place|A|Kanawha County
+WV|54|52060|Martinsburg city|Incorporated Place|A|Berkeley County
+WV|54|52180|Mason town|Incorporated Place|A|Mason County
+WV|54|52228|Masontown town|Incorporated Place|A|Preston County
+WV|54|52324|Matewan town|Incorporated Place|A|Mingo County
+WV|54|52372|Matheny CDP|Census Designated Place|S|Wyoming County
+WV|54|52420|Matoaka town|Incorporated Place|A|Mercer County
+WV|54|52588|Maybeury CDP|Census Designated Place|S|McDowell County
+WV|54|52780|Meadow Bridge town|Incorporated Place|A|Fayette County
+WV|54|53572|Middlebourne town|Incorporated Place|A|Tyler County
+WV|54|53692|Middleway CDP|Census Designated Place|S|Jefferson County
+WV|54|54100|Mill Creek town|Incorporated Place|A|Randolph County
+WV|54|54484|Milton town|Incorporated Place|A|Cabell County
+WV|54|54508|Minden CDP|Census Designated Place|S|Fayette County
+WV|54|54580|Mineralwells CDP|Census Designated Place|S|Wood County
+WV|54|54892|Mitchell Heights town|Incorporated Place|A|Logan County
+WV|54|55132|Monaville CDP|Census Designated Place|S|Logan County
+WV|54|55276|Monongah town|Incorporated Place|A|Marion County
+WV|54|55372|Montcalm CDP|Census Designated Place|S|Mercer County
+WV|54|55468|Montgomery city|Incorporated Place|A|Fayette County, Kanawha County
+WV|54|55540|Montrose town|Incorporated Place|A|Randolph County
+WV|54|55588|Moorefield town|Incorporated Place|A|Hardy County
+WV|54|55756|Morgantown city|Incorporated Place|A|Monongalia County
+WV|54|56020|Moundsville city|Incorporated Place|A|Marshall County
+WV|54|56212|Mount Carbon CDP|Census Designated Place|S|Fayette County
+WV|54|56342|Mount Gay-Shamrock CDP|Census Designated Place|S|Logan County
+WV|54|56404|Mount Hope city|Incorporated Place|A|Fayette County
+WV|54|57148|Mullens city|Incorporated Place|A|Wyoming County
+WV|54|57916|Neibert CDP|Census Designated Place|S|Logan County
+WV|54|58180|Nettie CDP|Census Designated Place|S|Nicholas County
+WV|54|58300|Newburg town|Incorporated Place|A|Preston County
+WV|54|58372|New Cumberland city|Incorporated Place|A|Hancock County
+WV|54|58420|Newell CDP|Census Designated Place|S|Hancock County
+WV|54|58564|New Haven town|Incorporated Place|A|Mason County
+WV|54|58684|New Martinsville city|Incorporated Place|A|Wetzel County
+WV|54|58756|New Richmond CDP|Census Designated Place|S|Wyoming County
+WV|54|59068|Nitro city|Incorporated Place|A|Kanawha County, Putnam County
+WV|54|59428|Northfork town|Incorporated Place|A|McDowell County
+WV|54|59458|North Hills town|Incorporated Place|A|Wood County
+WV|54|59836|Nutter Fort town|Incorporated Place|A|Harrison County
+WV|54|60028|Oak Hill city|Incorporated Place|A|Fayette County
+WV|54|60196|Oakvale town|Incorporated Place|A|Mercer County
+WV|54|60364|Oceana town|Incorporated Place|A|Wyoming County
+WV|54|60628|Omar CDP|Census Designated Place|S|Logan County
+WV|54|61636|Paden City city|Incorporated Place|A|Tyler County, Wetzel County
+WV|54|61660|Page CDP|Census Designated Place|S|Fayette County
+WV|54|61684|Pageton CDP|Census Designated Place|S|McDowell County
+WV|54|62140|Parkersburg city|Incorporated Place|A|Wood County
+WV|54|62284|Parsons city|Incorporated Place|A|Tucker County
+WV|54|62332|Paw Paw town|Incorporated Place|A|Morgan County
+WV|54|62356|Pax town|Incorporated Place|A|Fayette County
+WV|54|62488|Pea Ridge CDP|Census Designated Place|S|Cabell County
+WV|54|62764|Pennsboro city|Incorporated Place|A|Ritchie County
+WV|54|62788|Pentress CDP|Census Designated Place|S|Monongalia County
+WV|54|62956|Petersburg city|Incorporated Place|A|Grant County
+WV|54|63052|Peterstown town|Incorporated Place|A|Monroe County
+WV|54|63292|Philippi city|Incorporated Place|A|Barbour County
+WV|54|63484|Pickens CDP|Census Designated Place|S|Randolph County
+WV|54|63604|Piedmont town|Incorporated Place|A|Mineral County
+WV|54|63772|Pinch CDP|Census Designated Place|S|Kanawha County
+WV|54|63892|Pine Grove town|Incorporated Place|A|Wetzel County
+WV|54|63940|Pineville town|Incorporated Place|A|Wyoming County
+WV|54|63988|Piney View CDP|Census Designated Place|S|Raleigh County
+WV|54|64228|Pleasant Valley city|Incorporated Place|A|Marion County
+WV|54|64516|Poca town|Incorporated Place|A|Putnam County
+WV|54|64708|Point Pleasant city|Incorporated Place|A|Mason County
+WV|54|65284|Powellton CDP|Census Designated Place|S|Fayette County
+WV|54|65356|Pratt town|Incorporated Place|A|Kanawha County
+WV|54|65596|Prichard CDP|Census Designated Place|S|Wayne County
+WV|54|65668|Prince CDP|Census Designated Place|S|Fayette County
+WV|54|65692|Princeton city|Incorporated Place|A|Mercer County
+WV|54|65836|Prosperity CDP|Census Designated Place|S|Raleigh County
+WV|54|65956|Pullman town|Incorporated Place|A|Ritchie County
+WV|54|66412|Quinwood town|Incorporated Place|A|Greenbrier County
+WV|54|66460|Rachel CDP|Census Designated Place|S|Marion County
+WV|54|66484|Racine CDP|Census Designated Place|S|Boone County
+WV|54|66652|Rainelle town|Incorporated Place|A|Greenbrier County
+WV|54|66892|Rand CDP|Census Designated Place|S|Kanawha County
+WV|54|66988|Ranson corporation|Incorporated Place|A|Jefferson County
+WV|54|67108|Ravenswood city|Incorporated Place|A|Jackson County
+WV|54|67228|Raysal CDP|Census Designated Place|S|McDowell County
+WV|54|67252|Reader CDP|Census Designated Place|S|Wetzel County
+WV|54|67396|Red Jacket CDP|Census Designated Place|S|Mingo County
+WV|54|67636|Reedsville town|Incorporated Place|A|Preston County
+WV|54|67660|Reedy town|Incorporated Place|A|Roane County
+WV|54|67996|Rhodell town|Incorporated Place|A|Raleigh County
+WV|54|68116|Richwood city|Incorporated Place|A|Nicholas County
+WV|54|68260|Ridgeley town|Incorporated Place|A|Mineral County
+WV|54|68596|Ripley city|Incorporated Place|A|Jackson County
+WV|54|68908|Rivesville town|Incorporated Place|A|Marion County
+WV|54|69100|Robinette CDP|Census Designated Place|S|Logan County
+WV|54|69844|Roderfield CDP|Census Designated Place|S|McDowell County
+WV|54|70084|Romney city|Incorporated Place|A|Hampshire County
+WV|54|70156|Ronceverte city|Incorporated Place|A|Greenbrier County
+WV|54|70468|Rossmore CDP|Census Designated Place|S|Logan County
+WV|54|70588|Rowlesburg town|Incorporated Place|A|Preston County
+WV|54|70828|Rupert town|Incorporated Place|A|Greenbrier County
+WV|54|71212|St. Albans city|Incorporated Place|A|Kanawha County
+WV|54|71356|St. Marys city|Incorporated Place|A|Pleasants County
+WV|54|71380|Salem city|Incorporated Place|A|Harrison County
+WV|54|71476|Salt Rock CDP|Census Designated Place|S|Cabell County
+WV|54|71620|Sand Fork town|Incorporated Place|A|Gilmer County
+WV|54|72004|Sarah Ann CDP|Census Designated Place|S|Logan County
+WV|54|72292|Scarbro CDP|Census Designated Place|S|Fayette County
+WV|54|73108|Shady Spring CDP|Census Designated Place|S|Raleigh County
+WV|54|73252|Shannondale CDP|Census Designated Place|S|Jefferson County
+WV|54|73444|Shenandoah Junction CDP|Census Designated Place|S|Jefferson County
+WV|54|73468|Shepherdstown town|Incorporated Place|A|Jefferson County
+WV|54|73636|Shinnston city|Incorporated Place|A|Harrison County
+WV|54|73876|Shrewsbury CDP|Census Designated Place|S|Kanawha County
+WV|54|74356|Sissonville CDP|Census Designated Place|S|Kanawha County
+WV|54|74380|Sistersville city|Incorporated Place|A|Tyler County
+WV|54|74740|Smithers city|Incorporated Place|A|Fayette County, Kanawha County
+WV|54|74788|Smithfield town|Incorporated Place|A|Wetzel County
+WV|54|75172|Sophia town|Incorporated Place|A|Raleigh County
+WV|54|75292|South Charleston city|Incorporated Place|A|Kanawha County
+WV|54|75796|Spelter CDP|Census Designated Place|S|Harrison County
+WV|54|75820|Spencer city|Incorporated Place|A|Roane County
+WV|54|76084|Springfield CDP|Census Designated Place|S|Hampshire County
+WV|54|76444|Stanaford CDP|Census Designated Place|S|Raleigh County
+WV|54|76516|Star City town|Incorporated Place|A|Monongalia County
+WV|54|76996|Stollings CDP|Census Designated Place|S|Logan County
+WV|54|77188|Stonewood city|Incorporated Place|A|Harrison County
+WV|54|77980|Summersville town|Incorporated Place|A|Nicholas County
+WV|54|78580|Sutton town|Incorporated Place|A|Braxton County
+WV|54|78796|Switzer CDP|Census Designated Place|S|Logan County
+WV|54|78964|Sylvester town|Incorporated Place|A|Boone County
+WV|54|79545|Teays Valley CDP|Census Designated Place|S|Putnam County
+WV|54|79708|Terra Alta town|Incorporated Place|A|Preston County
+WV|54|80020|Thomas city|Incorporated Place|A|Tucker County
+WV|54|80284|Thurmond town|Incorporated Place|A|Fayette County
+WV|54|80476|Tioga CDP|Census Designated Place|S|Nicholas County
+WV|54|80932|Triadelphia town|Incorporated Place|A|Ohio County
+WV|54|81268|Tunnelton town|Incorporated Place|A|Preston County
+WV|54|81484|Twilight CDP|Census Designated Place|S|Boone County
+WV|54|81940|Union town|Incorporated Place|A|Monroe County
+WV|54|82180|Upper Falls CDP|Census Designated Place|S|Kanawha County
+WV|54|82564|Valley Bend CDP|Census Designated Place|S|Randolph County
+WV|54|82732|Valley Grove village|Incorporated Place|A|Ohio County
+WV|54|82756|Valley Head CDP|Census Designated Place|S|Randolph County
+WV|54|82852|Van CDP|Census Designated Place|S|Boone County
+WV|54|83332|Verdunville CDP|Census Designated Place|S|Logan County
+WV|54|83500|Vienna city|Incorporated Place|A|Wood County
+WV|54|83764|Vivian CDP|Census Designated Place|S|McDowell County
+WV|54|84484|War city|Incorporated Place|A|McDowell County
+WV|54|84580|Wardensville town|Incorporated Place|A|Hardy County
+WV|54|84724|Washington CDP|Census Designated Place|S|Wood County
+WV|54|84916|Waverly CDP|Census Designated Place|S|Wood County
+WV|54|84940|Wayne town|Incorporated Place|A|Wayne County
+WV|54|85156|Weirton city|Incorporated Place|A|Brooke County, Hancock County
+WV|54|85228|Welch city|Incorporated Place|A|McDowell County
+WV|54|85324|Wellsburg city|Incorporated Place|A|Brooke County
+WV|54|85804|West Hamlin town|Incorporated Place|A|Lincoln County
+WV|54|85876|West Liberty town|Incorporated Place|A|Ohio County
+WV|54|85900|West Logan town|Incorporated Place|A|Logan County
+WV|54|85924|West Milford town|Incorporated Place|A|Harrison County
+WV|54|85972|Weston city|Incorporated Place|A|Lewis County
+WV|54|85996|Westover city|Incorporated Place|A|Monongalia County
+WV|54|86116|West Union town|Incorporated Place|A|Doddridge County
+WV|54|86452|Wheeling city|Incorporated Place|A|Marshall County, Ohio County
+WV|54|86620|White Hall town|Incorporated Place|A|Marion County
+WV|54|86812|White Sulphur Springs city|Incorporated Place|A|Greenbrier County
+WV|54|86836|Whitesville town|Incorporated Place|A|Boone County
+WV|54|86932|Whitmer CDP|Census Designated Place|S|Randolph County
+WV|54|87316|Wiley Ford CDP|Census Designated Place|S|Mineral County
+WV|54|87508|Williamson city|Incorporated Place|A|Mingo County
+WV|54|87556|Williamstown city|Incorporated Place|A|Wood County
+WV|54|87892|Windsor Heights village|Incorporated Place|A|Brooke County
+WV|54|87988|Winfield town|Incorporated Place|A|Putnam County
+WV|54|88276|Wolf Summit CDP|Census Designated Place|S|Harrison County
+WV|54|88324|Womelsdorf (Coalton) town|Incorporated Place|A|Randolph County
+WV|54|88708|Worthington town|Incorporated Place|A|Marion County

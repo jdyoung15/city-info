@@ -1,0 +1,1116 @@
+NJ|34|00000|County Subdivisions not defined|County Subdivision|F|Atlantic County
+NJ|34|00000|County Subdivisions not defined|County Subdivision|F|Cape May County
+NJ|34|00000|County Subdivisions not defined|County Subdivision|F|Cumberland County
+NJ|34|00000|County Subdivisions not defined|County Subdivision|F|Monmouth County
+NJ|34|00000|County Subdivisions not defined|County Subdivision|F|Ocean County
+NJ|34|00070|Aberdeen township|County Subdivision|A|Monmouth County
+NJ|34|00100|Absecon city|County Subdivision|F|Atlantic County
+NJ|34|00100|Absecon city|Incorporated Place|A|Atlantic County
+NJ|34|00550|Alexandria township|County Subdivision|A|Hunterdon County
+NJ|34|00640|Allamuchy CDP|Census Designated Place|S|Warren County
+NJ|34|00670|Allamuchy township|County Subdivision|A|Warren County
+NJ|34|00700|Allendale borough|County Subdivision|F|Bergen County
+NJ|34|00700|Allendale borough|Incorporated Place|A|Bergen County
+NJ|34|00730|Allenhurst borough|County Subdivision|F|Monmouth County
+NJ|34|00730|Allenhurst borough|Incorporated Place|A|Monmouth County
+NJ|34|00760|Allentown borough|County Subdivision|F|Monmouth County
+NJ|34|00760|Allentown borough|Incorporated Place|A|Monmouth County
+NJ|34|00790|Allenwood CDP|Census Designated Place|S|Monmouth County
+NJ|34|00850|Alloway CDP|Census Designated Place|S|Salem County
+NJ|34|00880|Alloway township|County Subdivision|A|Salem County
+NJ|34|01030|Alpha borough|County Subdivision|F|Warren County
+NJ|34|01030|Alpha borough|Incorporated Place|A|Warren County
+NJ|34|01090|Alpine borough|County Subdivision|F|Bergen County
+NJ|34|01090|Alpine borough|Incorporated Place|A|Bergen County
+NJ|34|01300|Anderson CDP|Census Designated Place|S|Warren County
+NJ|34|01330|Andover borough|County Subdivision|F|Sussex County
+NJ|34|01330|Andover borough|Incorporated Place|A|Sussex County
+NJ|34|01360|Andover township|County Subdivision|A|Sussex County
+NJ|34|01480|Annandale CDP|Census Designated Place|S|Hunterdon County
+NJ|34|01900|Asbury CDP|Census Designated Place|S|Warren County
+NJ|34|01960|Asbury Park city|County Subdivision|F|Monmouth County
+NJ|34|01960|Asbury Park city|Incorporated Place|A|Monmouth County
+NJ|34|01990|Ashland CDP|Census Designated Place|S|Camden County
+NJ|34|02080|Atlantic City city|County Subdivision|F|Atlantic County
+NJ|34|02080|Atlantic City city|Incorporated Place|A|Atlantic County
+NJ|34|02110|Atlantic Highlands borough|County Subdivision|F|Monmouth County
+NJ|34|02110|Atlantic Highlands borough|Incorporated Place|A|Monmouth County
+NJ|34|02200|Audubon borough|County Subdivision|F|Camden County
+NJ|34|02200|Audubon borough|Incorporated Place|A|Camden County
+NJ|34|02230|Audubon Park borough|County Subdivision|F|Camden County
+NJ|34|02230|Audubon Park borough|Incorporated Place|A|Camden County
+NJ|34|02320|Avalon borough|County Subdivision|F|Cape May County
+NJ|34|02320|Avalon borough|Incorporated Place|A|Cape May County
+NJ|34|02350|Avenel CDP|Census Designated Place|S|Middlesex County
+NJ|34|02440|Avon-by-the-Sea borough|County Subdivision|F|Monmouth County
+NJ|34|02440|Avon-by-the-Sea borough|Incorporated Place|A|Monmouth County
+NJ|34|02880|Barclay CDP|Census Designated Place|S|Camden County
+NJ|34|03040|Barnegat CDP|Census Designated Place|S|Ocean County
+NJ|34|03050|Barnegat township|County Subdivision|A|Ocean County
+NJ|34|03130|Barnegat Light borough|County Subdivision|F|Ocean County
+NJ|34|03130|Barnegat Light borough|Incorporated Place|A|Ocean County
+NJ|34|03250|Barrington borough|County Subdivision|F|Camden County
+NJ|34|03250|Barrington borough|Incorporated Place|A|Camden County
+NJ|34|03370|Bass River township|County Subdivision|A|Burlington County
+NJ|34|03520|Bay Head borough|County Subdivision|F|Ocean County
+NJ|34|03520|Bay Head borough|Incorporated Place|A|Ocean County
+NJ|34|03580|Bayonne city|County Subdivision|F|Hudson County
+NJ|34|03580|Bayonne city|Incorporated Place|A|Hudson County
+NJ|34|03940|Beach Haven borough|County Subdivision|F|Ocean County
+NJ|34|03940|Beach Haven borough|Incorporated Place|A|Ocean County
+NJ|34|04120|Beach Haven West CDP|Census Designated Place|S|Ocean County
+NJ|34|04180|Beachwood borough|County Subdivision|F|Ocean County
+NJ|34|04180|Beachwood borough|Incorporated Place|A|Ocean County
+NJ|34|04252|Beattystown CDP|Census Designated Place|S|Warren County
+NJ|34|04400|Beckett CDP|Census Designated Place|S|Gloucester County
+NJ|34|04450|Bedminster township|County Subdivision|A|Somerset County
+NJ|34|04600|Belford CDP|Census Designated Place|S|Monmouth County
+NJ|34|04630|Belle Mead CDP|Census Designated Place|S|Somerset County
+NJ|34|04660|Belleplain CDP|Census Designated Place|S|Cape May County
+NJ|34|04695|Belleville township|County Subdivision|A|Essex County
+NJ|34|04750|Bellmawr borough|County Subdivision|F|Camden County
+NJ|34|04750|Bellmawr borough|Incorporated Place|A|Camden County
+NJ|34|04930|Belmar borough|County Subdivision|F|Monmouth County
+NJ|34|04930|Belmar borough|Incorporated Place|A|Monmouth County
+NJ|34|04990|Belvidere town|County Subdivision|F|Warren County
+NJ|34|04990|Belvidere town|Incorporated Place|A|Warren County
+NJ|34|05170|Bergenfield borough|County Subdivision|F|Bergen County
+NJ|34|05170|Bergenfield borough|Incorporated Place|A|Bergen County
+NJ|34|05305|Berkeley township|County Subdivision|A|Ocean County
+NJ|34|05320|Berkeley Heights township|County Subdivision|A|Union County
+NJ|34|05440|Berlin borough|County Subdivision|F|Camden County
+NJ|34|05440|Berlin borough|Incorporated Place|A|Camden County
+NJ|34|05470|Berlin township|County Subdivision|A|Camden County
+NJ|34|05560|Bernards township|County Subdivision|A|Somerset County
+NJ|34|05590|Bernardsville borough|County Subdivision|F|Somerset County
+NJ|34|05590|Bernardsville borough|Incorporated Place|A|Somerset County
+NJ|34|05650|Bethlehem township|County Subdivision|A|Hunterdon County
+NJ|34|05740|Beverly city|County Subdivision|F|Burlington County
+NJ|34|05740|Beverly city|Incorporated Place|A|Burlington County
+NJ|34|06025|Blackwells Mills CDP|Census Designated Place|S|Somerset County
+NJ|34|06040|Blackwood CDP|Census Designated Place|S|Camden County
+NJ|34|06130|Blairstown CDP|Census Designated Place|S|Warren County
+NJ|34|06160|Blairstown township|County Subdivision|A|Warren County
+NJ|34|06190|Blawenburg CDP|Census Designated Place|S|Somerset County
+NJ|34|06260|Bloomfield township|County Subdivision|A|Essex County
+NJ|34|06340|Bloomingdale borough|County Subdivision|F|Passaic County
+NJ|34|06340|Bloomingdale borough|Incorporated Place|A|Passaic County
+NJ|34|06370|Bloomsbury borough|County Subdivision|F|Hunterdon County
+NJ|34|06370|Bloomsbury borough|Incorporated Place|A|Hunterdon County
+NJ|34|06490|Bogota borough|County Subdivision|F|Bergen County
+NJ|34|06490|Bogota borough|Incorporated Place|A|Bergen County
+NJ|34|06610|Boonton town|County Subdivision|F|Morris County
+NJ|34|06610|Boonton town|Incorporated Place|A|Morris County
+NJ|34|06640|Boonton township|County Subdivision|A|Morris County
+NJ|34|06670|Bordentown city|County Subdivision|F|Burlington County
+NJ|34|06670|Bordentown city|Incorporated Place|A|Burlington County
+NJ|34|06700|Bordentown township|County Subdivision|A|Burlington County
+NJ|34|06790|Bound Brook borough|County Subdivision|F|Somerset County
+NJ|34|06790|Bound Brook borough|Incorporated Place|A|Somerset County
+NJ|34|06970|Bradley Beach borough|County Subdivision|F|Monmouth County
+NJ|34|06970|Bradley Beach borough|Incorporated Place|A|Monmouth County
+NJ|34|07000|Bradley Gardens CDP|Census Designated Place|S|Somerset County
+NJ|34|07120|Brainards CDP|Census Designated Place|S|Warren County
+NJ|34|07180|Branchburg township|County Subdivision|A|Somerset County
+NJ|34|07300|Branchville borough|County Subdivision|F|Sussex County
+NJ|34|07300|Branchville borough|Incorporated Place|A|Sussex County
+NJ|34|07360|Brass Castle CDP|Census Designated Place|S|Warren County
+NJ|34|07420|Brick township|County Subdivision|A|Ocean County
+NJ|34|07600|Bridgeton city|County Subdivision|F|Cumberland County
+NJ|34|07600|Bridgeton city|Incorporated Place|A|Cumberland County
+NJ|34|07660|Bridgeville CDP|Census Designated Place|S|Warren County
+NJ|34|07720|Bridgewater township|County Subdivision|A|Somerset County
+NJ|34|07750|Brielle borough|County Subdivision|F|Monmouth County
+NJ|34|07750|Brielle borough|Incorporated Place|A|Monmouth County
+NJ|34|07810|Brigantine city|County Subdivision|F|Atlantic County
+NJ|34|07810|Brigantine city|Incorporated Place|A|Atlantic County
+NJ|34|08020|Broadway CDP|Census Designated Place|S|Warren County
+NJ|34|08110|Brookdale CDP|Census Designated Place|S|Essex County
+NJ|34|08140|Brookfield CDP|Census Designated Place|S|Warren County
+NJ|34|08170|Brooklawn borough|County Subdivision|F|Camden County
+NJ|34|08170|Brooklawn borough|Incorporated Place|A|Camden County
+NJ|34|08455|Browns Mills CDP|Census Designated Place|S|Burlington County
+NJ|34|08492|Brownville CDP|Census Designated Place|S|Middlesex County
+NJ|34|08620|Budd Lake CDP|Census Designated Place|S|Morris County
+NJ|34|08680|Buena borough|County Subdivision|F|Atlantic County
+NJ|34|08680|Buena borough|Incorporated Place|A|Atlantic County
+NJ|34|08710|Buena Vista township|County Subdivision|A|Atlantic County
+NJ|34|08890|Burleigh CDP|Census Designated Place|S|Cape May County
+NJ|34|08920|Burlington city|County Subdivision|F|Burlington County
+NJ|34|08920|Burlington city|Incorporated Place|A|Burlington County
+NJ|34|08950|Burlington township|County Subdivision|A|Burlington County
+NJ|34|09040|Butler borough|County Subdivision|F|Morris County
+NJ|34|09040|Butler borough|Incorporated Place|A|Morris County
+NJ|34|09100|Buttzville CDP|Census Designated Place|S|Warren County
+NJ|34|09160|Byram township|County Subdivision|A|Sussex County
+NJ|34|09170|Byram Center CDP|Census Designated Place|S|Sussex County
+NJ|34|09250|Caldwell borough|County Subdivision|F|Essex County
+NJ|34|09250|Caldwell borough|Incorporated Place|A|Essex County
+NJ|34|09280|Califon borough|County Subdivision|F|Hunterdon County
+NJ|34|09280|Califon borough|Incorporated Place|A|Hunterdon County
+NJ|34|10000|Camden city|County Subdivision|F|Camden County
+NJ|34|10000|Camden city|Incorporated Place|A|Camden County
+NJ|34|10270|Cape May city|County Subdivision|F|Cape May County
+NJ|34|10270|Cape May city|Incorporated Place|A|Cape May County
+NJ|34|10300|Cape May Court House CDP|Census Designated Place|S|Cape May County
+NJ|34|10330|Cape May Point borough|County Subdivision|F|Cape May County
+NJ|34|10330|Cape May Point borough|Incorporated Place|A|Cape May County
+NJ|34|10480|Carlstadt borough|County Subdivision|F|Bergen County
+NJ|34|10480|Carlstadt borough|Incorporated Place|A|Bergen County
+NJ|34|10600|Carneys Point CDP|Census Designated Place|S|Salem County
+NJ|34|10610|Carneys Point township|County Subdivision|A|Salem County
+NJ|34|10750|Carteret borough|County Subdivision|F|Middlesex County
+NJ|34|10750|Carteret borough|Incorporated Place|A|Middlesex County
+NJ|34|11140|Cedar Glen Lakes CDP|Census Designated Place|S|Ocean County
+NJ|34|11155|Cedar Glen West CDP|Census Designated Place|S|Ocean County
+NJ|34|11200|Cedar Grove township|County Subdivision|A|Essex County
+NJ|34|11410|Cedarville CDP|Census Designated Place|S|Cumberland County
+NJ|34|12100|Chatham borough|County Subdivision|F|Morris County
+NJ|34|12100|Chatham borough|Incorporated Place|A|Morris County
+NJ|34|12130|Chatham township|County Subdivision|A|Morris County
+NJ|34|12280|Cherry Hill township|County Subdivision|A|Camden County
+NJ|34|12385|Cherry Hill Mall CDP|Census Designated Place|S|Camden County
+NJ|34|12550|Chesilhurst borough|County Subdivision|F|Camden County
+NJ|34|12550|Chesilhurst borough|Incorporated Place|A|Camden County
+NJ|34|12580|Chester borough|County Subdivision|F|Morris County
+NJ|34|12580|Chester borough|Incorporated Place|A|Morris County
+NJ|34|12610|Chester township|County Subdivision|A|Morris County
+NJ|34|12670|Chesterfield township|County Subdivision|A|Burlington County
+NJ|34|12940|Cinnaminson township|County Subdivision|A|Burlington County
+NJ|34|13045|City of Orange township|County Subdivision|A|Essex County
+NJ|34|13150|Clark township|County Subdivision|A|Union County
+NJ|34|13360|Clayton borough|County Subdivision|F|Gloucester County
+NJ|34|13360|Clayton borough|Incorporated Place|A|Gloucester County
+NJ|34|13399|Clearbrook Park CDP|Census Designated Place|S|Middlesex County
+NJ|34|13420|Clementon borough|County Subdivision|F|Camden County
+NJ|34|13420|Clementon borough|Incorporated Place|A|Camden County
+NJ|34|13570|Cliffside Park borough|County Subdivision|F|Bergen County
+NJ|34|13570|Cliffside Park borough|Incorporated Place|A|Bergen County
+NJ|34|13630|Cliffwood Beach CDP|Census Designated Place|S|Monmouth County
+NJ|34|13690|Clifton city|County Subdivision|F|Passaic County
+NJ|34|13690|Clifton city|Incorporated Place|A|Passaic County
+NJ|34|13720|Clinton town|County Subdivision|F|Hunterdon County
+NJ|34|13720|Clinton town|Incorporated Place|A|Hunterdon County
+NJ|34|13750|Clinton township|County Subdivision|A|Hunterdon County
+NJ|34|13810|Closter borough|County Subdivision|F|Bergen County
+NJ|34|13810|Closter borough|Incorporated Place|A|Bergen County
+NJ|34|13990|Clyde CDP|Census Designated Place|S|Somerset County
+NJ|34|14230|Collings Lakes CDP|Census Designated Place|S|Atlantic County
+NJ|34|14260|Collingswood borough|County Subdivision|F|Camden County
+NJ|34|14260|Collingswood borough|Incorporated Place|A|Camden County
+NJ|34|14380|Colonia CDP|Census Designated Place|S|Middlesex County
+NJ|34|14560|Colts Neck township|County Subdivision|A|Monmouth County
+NJ|34|14590|Columbia CDP|Census Designated Place|S|Warren County
+NJ|34|14710|Commercial township|County Subdivision|A|Cumberland County
+NJ|34|14758|Concordia CDP|Census Designated Place|S|Middlesex County
+NJ|34|15160|Corbin City city|County Subdivision|F|Atlantic County
+NJ|34|15160|Corbin City city|Incorporated Place|A|Atlantic County
+NJ|34|15250|Country Lake Estates CDP|Census Designated Place|S|Burlington County
+NJ|34|15520|Cranbury CDP|Census Designated Place|S|Middlesex County
+NJ|34|15550|Cranbury township|County Subdivision|A|Middlesex County
+NJ|34|15610|Crandon Lakes CDP|Census Designated Place|S|Sussex County
+NJ|34|15640|Cranford township|County Subdivision|A|Union County
+NJ|34|15820|Cresskill borough|County Subdivision|F|Bergen County
+NJ|34|15820|Cresskill borough|Incorporated Place|A|Bergen County
+NJ|34|15910|Crestwood Village CDP|Census Designated Place|S|Ocean County
+NJ|34|16630|Dayton CDP|Census Designated Place|S|Middlesex County
+NJ|34|16660|Deal borough|County Subdivision|F|Monmouth County
+NJ|34|16660|Deal borough|Incorporated Place|A|Monmouth County
+NJ|34|16900|Deerfield township|County Subdivision|A|Cumberland County
+NJ|34|17080|Delanco township|County Subdivision|A|Burlington County
+NJ|34|17170|Delaware township|County Subdivision|A|Hunterdon County
+NJ|34|17200|Delaware CDP|Census Designated Place|S|Warren County
+NJ|34|17260|Delaware Park CDP|Census Designated Place|S|Warren County
+NJ|34|17440|Delran township|County Subdivision|A|Burlington County
+NJ|34|17530|Demarest borough|County Subdivision|F|Bergen County
+NJ|34|17530|Demarest borough|Incorporated Place|A|Bergen County
+NJ|34|17560|Dennis township|County Subdivision|A|Cape May County
+NJ|34|17650|Denville township|County Subdivision|A|Morris County
+NJ|34|17710|Deptford township|County Subdivision|A|Gloucester County
+NJ|34|17815|Diamond Beach CDP|Census Designated Place|S|Cape May County
+NJ|34|18070|Dover town|County Subdivision|F|Morris County
+NJ|34|18070|Dover town|Incorporated Place|A|Morris County
+NJ|34|18148|Dover Beaches North CDP|Census Designated Place|S|Ocean County
+NJ|34|18151|Dover Beaches South CDP|Census Designated Place|S|Ocean County
+NJ|34|18220|Downe township|County Subdivision|A|Cumberland County
+NJ|34|18400|Dumont borough|County Subdivision|F|Bergen County
+NJ|34|18400|Dumont borough|Incorporated Place|A|Bergen County
+NJ|34|18490|Dunellen borough|County Subdivision|F|Middlesex County
+NJ|34|18490|Dunellen borough|Incorporated Place|A|Middlesex County
+NJ|34|18670|Eagleswood township|County Subdivision|A|Ocean County
+NJ|34|18790|Eastampton township|County Subdivision|A|Burlington County
+NJ|34|18820|East Amwell township|County Subdivision|A|Hunterdon County
+NJ|34|19000|East Brunswick township|County Subdivision|A|Middlesex County
+NJ|34|19130|East Franklin CDP|Census Designated Place|S|Somerset County
+NJ|34|19150|East Freehold CDP|Census Designated Place|S|Monmouth County
+NJ|34|19180|East Greenwich township|County Subdivision|A|Gloucester County
+NJ|34|19210|East Hanover township|County Subdivision|A|Morris County
+NJ|34|19330|East Millstone CDP|Census Designated Place|S|Somerset County
+NJ|34|19360|East Newark borough|County Subdivision|F|Hudson County
+NJ|34|19360|East Newark borough|Incorporated Place|A|Hudson County
+NJ|34|19390|East Orange city|County Subdivision|F|Essex County
+NJ|34|19390|East Orange city|Incorporated Place|A|Essex County
+NJ|34|19490|East Rocky Hill CDP|Census Designated Place|S|Somerset County
+NJ|34|19510|East Rutherford borough|County Subdivision|F|Bergen County
+NJ|34|19510|East Rutherford borough|Incorporated Place|A|Bergen County
+NJ|34|19780|East Windsor township|County Subdivision|A|Mercer County
+NJ|34|19840|Eatontown borough|County Subdivision|F|Monmouth County
+NJ|34|19840|Eatontown borough|Incorporated Place|A|Monmouth County
+NJ|34|19900|Echelon CDP|Census Designated Place|S|Camden County
+NJ|34|20020|Edgewater borough|County Subdivision|F|Bergen County
+NJ|34|20020|Edgewater borough|Incorporated Place|A|Bergen County
+NJ|34|20050|Edgewater Park township|County Subdivision|A|Burlington County
+NJ|34|20230|Edison township|County Subdivision|A|Middlesex County
+NJ|34|20290|Egg Harbor township|County Subdivision|A|Atlantic County
+NJ|34|20350|Egg Harbor City city|County Subdivision|F|Atlantic County
+NJ|34|20350|Egg Harbor City city|Incorporated Place|A|Atlantic County
+NJ|34|21000|Elizabeth city|County Subdivision|F|Union County
+NJ|34|21000|Elizabeth city|Incorporated Place|A|Union County
+NJ|34|21060|Elk township|County Subdivision|A|Gloucester County
+NJ|34|21120|Ellisburg CDP|Census Designated Place|S|Camden County
+NJ|34|21240|Elmer borough|County Subdivision|F|Salem County
+NJ|34|21240|Elmer borough|Incorporated Place|A|Salem County
+NJ|34|21300|Elmwood Park borough|County Subdivision|F|Bergen County
+NJ|34|21300|Elmwood Park borough|Incorporated Place|A|Bergen County
+NJ|34|21330|Elsinboro township|County Subdivision|A|Salem County
+NJ|34|21420|Elwood CDP|Census Designated Place|S|Atlantic County
+NJ|34|21450|Emerson borough|County Subdivision|F|Bergen County
+NJ|34|21450|Emerson borough|Incorporated Place|A|Bergen County
+NJ|34|21480|Englewood city|County Subdivision|F|Bergen County
+NJ|34|21480|Englewood city|Incorporated Place|A|Bergen County
+NJ|34|21510|Englewood Cliffs borough|County Subdivision|F|Bergen County
+NJ|34|21510|Englewood Cliffs borough|Incorporated Place|A|Bergen County
+NJ|34|21570|Englishtown borough|County Subdivision|F|Monmouth County
+NJ|34|21570|Englishtown borough|Incorporated Place|A|Monmouth County
+NJ|34|21660|Erma CDP|Census Designated Place|S|Cape May County
+NJ|34|21840|Essex Fells borough|County Subdivision|F|Essex County
+NJ|34|21840|Essex Fells borough|Incorporated Place|A|Essex County
+NJ|34|21870|Estell Manor city|County Subdivision|F|Atlantic County
+NJ|34|21870|Estell Manor city|Incorporated Place|A|Atlantic County
+NJ|34|22110|Evesham township|County Subdivision|A|Burlington County
+NJ|34|22185|Ewing township|County Subdivision|A|Mercer County
+NJ|34|22350|Fairfield township|County Subdivision|A|Cumberland County
+NJ|34|22385|Fairfield township|County Subdivision|A|Essex County
+NJ|34|22440|Fair Haven borough|County Subdivision|F|Monmouth County
+NJ|34|22440|Fair Haven borough|Incorporated Place|A|Monmouth County
+NJ|34|22470|Fair Lawn borough|County Subdivision|F|Bergen County
+NJ|34|22470|Fair Lawn borough|Incorporated Place|A|Bergen County
+NJ|34|22530|Fairton CDP|Census Designated Place|S|Cumberland County
+NJ|34|22560|Fairview borough|County Subdivision|F|Bergen County
+NJ|34|22560|Fairview borough|Incorporated Place|A|Bergen County
+NJ|34|22740|Fairview CDP|Census Designated Place|S|Monmouth County
+NJ|34|22860|Fanwood borough|County Subdivision|F|Union County
+NJ|34|22860|Fanwood borough|Incorporated Place|A|Union County
+NJ|34|22890|Far Hills borough|County Subdivision|F|Somerset County
+NJ|34|22890|Far Hills borough|Incorporated Place|A|Somerset County
+NJ|34|22950|Farmingdale borough|County Subdivision|F|Monmouth County
+NJ|34|22950|Farmingdale borough|Incorporated Place|A|Monmouth County
+NJ|34|23250|Fieldsboro borough|County Subdivision|F|Burlington County
+NJ|34|23250|Fieldsboro borough|Incorporated Place|A|Burlington County
+NJ|34|23310|Finderne CDP|Census Designated Place|S|Somerset County
+NJ|34|23340|Finesville CDP|Census Designated Place|S|Warren County
+NJ|34|23700|Flemington borough|County Subdivision|F|Hunterdon County
+NJ|34|23700|Flemington borough|Incorporated Place|A|Hunterdon County
+NJ|34|23850|Florence township|County Subdivision|A|Burlington County
+NJ|34|23880|Florence CDP|Census Designated Place|S|Burlington County
+NJ|34|23910|Florham Park borough|County Subdivision|F|Morris County
+NJ|34|23910|Florham Park borough|Incorporated Place|A|Morris County
+NJ|34|23940|Folsom borough|County Subdivision|F|Atlantic County
+NJ|34|23940|Folsom borough|Incorporated Place|A|Atlantic County
+NJ|34|24030|Fords CDP|Census Designated Place|S|Middlesex County
+NJ|34|24180|Forked River CDP|Census Designated Place|S|Ocean County
+NJ|34|24300|Fort Dix CDP|Census Designated Place|S|Burlington County
+NJ|34|24420|Fort Lee borough|County Subdivision|F|Bergen County
+NJ|34|24420|Fort Lee borough|Incorporated Place|A|Bergen County
+NJ|34|24810|Frankford township|County Subdivision|A|Sussex County
+NJ|34|24840|Franklin township|County Subdivision|A|Gloucester County
+NJ|34|24870|Franklin township|County Subdivision|A|Hunterdon County
+NJ|34|24900|Franklin township|County Subdivision|A|Somerset County
+NJ|34|24930|Franklin borough|County Subdivision|F|Sussex County
+NJ|34|24930|Franklin borough|Incorporated Place|A|Sussex County
+NJ|34|24960|Franklin township|County Subdivision|A|Warren County
+NJ|34|24965|Franklin Center CDP|Census Designated Place|S|Somerset County
+NJ|34|24990|Franklin Lakes borough|County Subdivision|F|Bergen County
+NJ|34|24990|Franklin Lakes borough|Incorporated Place|A|Bergen County
+NJ|34|25020|Franklin Park CDP|Census Designated Place|S|Somerset County
+NJ|34|25140|Fredon township|County Subdivision|A|Sussex County
+NJ|34|25200|Freehold borough|County Subdivision|F|Monmouth County
+NJ|34|25200|Freehold borough|Incorporated Place|A|Monmouth County
+NJ|34|25230|Freehold township|County Subdivision|A|Monmouth County
+NJ|34|25320|Frelinghuysen township|County Subdivision|A|Warren County
+NJ|34|25350|Frenchtown borough|County Subdivision|F|Hunterdon County
+NJ|34|25350|Frenchtown borough|Incorporated Place|A|Hunterdon County
+NJ|34|25560|Galloway township|County Subdivision|A|Atlantic County
+NJ|34|25770|Garfield city|County Subdivision|F|Bergen County
+NJ|34|25770|Garfield city|Incorporated Place|A|Bergen County
+NJ|34|25800|Garwood borough|County Subdivision|F|Union County
+NJ|34|25800|Garwood borough|Incorporated Place|A|Union County
+NJ|34|26070|Gibbsboro borough|County Subdivision|F|Camden County
+NJ|34|26070|Gibbsboro borough|Incorporated Place|A|Camden County
+NJ|34|26100|Gibbstown CDP|Census Designated Place|S|Gloucester County
+NJ|34|26340|Glassboro borough|County Subdivision|F|Gloucester County
+NJ|34|26340|Glassboro borough|Incorporated Place|A|Gloucester County
+NJ|34|26520|Glendora CDP|Census Designated Place|S|Camden County
+NJ|34|26550|Glen Gardner borough|County Subdivision|F|Hunterdon County
+NJ|34|26550|Glen Gardner borough|Incorporated Place|A|Hunterdon County
+NJ|34|26610|Glen Ridge borough|County Subdivision|F|Essex County
+NJ|34|26610|Glen Ridge borough|Incorporated Place|A|Essex County
+NJ|34|26640|Glen Rock borough|County Subdivision|F|Bergen County
+NJ|34|26640|Glen Rock borough|Incorporated Place|A|Bergen County
+NJ|34|26760|Gloucester township|County Subdivision|A|Camden County
+NJ|34|26820|Gloucester City city|County Subdivision|F|Camden County
+NJ|34|26820|Gloucester City city|Incorporated Place|A|Camden County
+NJ|34|26902|Golden Triangle CDP|Census Designated Place|S|Camden County
+NJ|34|27360|Great Meadows CDP|Census Designated Place|S|Warren County
+NJ|34|27420|Green township|County Subdivision|A|Sussex County
+NJ|34|27510|Green Brook township|County Subdivision|A|Somerset County
+NJ|34|27840|Green Knoll CDP|Census Designated Place|S|Somerset County
+NJ|34|27995|Greentree CDP|Census Designated Place|S|Camden County
+NJ|34|28170|Greenwich township|County Subdivision|A|Cumberland County
+NJ|34|28185|Greenwich township|County Subdivision|A|Gloucester County
+NJ|34|28250|Greenwich CDP|Census Designated Place|S|Warren County
+NJ|34|28260|Greenwich township|County Subdivision|A|Warren County
+NJ|34|28470|Griggstown CDP|Census Designated Place|S|Somerset County
+NJ|34|28620|Groveville CDP|Census Designated Place|S|Mercer County
+NJ|34|28650|Guttenberg town|County Subdivision|F|Hudson County
+NJ|34|28650|Guttenberg town|Incorporated Place|A|Hudson County
+NJ|34|28680|Hackensack city|County Subdivision|F|Bergen County
+NJ|34|28680|Hackensack city|Incorporated Place|A|Bergen County
+NJ|34|28710|Hackettstown town|County Subdivision|F|Warren County
+NJ|34|28710|Hackettstown town|Incorporated Place|A|Warren County
+NJ|34|28740|Haddon township|County Subdivision|A|Camden County
+NJ|34|28770|Haddonfield borough|County Subdivision|F|Camden County
+NJ|34|28770|Haddonfield borough|Incorporated Place|A|Camden County
+NJ|34|28800|Haddon Heights borough|County Subdivision|F|Camden County
+NJ|34|28800|Haddon Heights borough|Incorporated Place|A|Camden County
+NJ|34|28920|Hainesburg CDP|Census Designated Place|S|Warren County
+NJ|34|29010|Hainesport township|County Subdivision|A|Burlington County
+NJ|34|29070|Haledon borough|County Subdivision|F|Passaic County
+NJ|34|29070|Haledon borough|Incorporated Place|A|Passaic County
+NJ|34|29220|Hamburg borough|County Subdivision|F|Sussex County
+NJ|34|29220|Hamburg borough|Incorporated Place|A|Sussex County
+NJ|34|29280|Hamilton township|County Subdivision|A|Atlantic County
+NJ|34|29310|Hamilton township|County Subdivision|A|Mercer County
+NJ|34|29370|Hamilton Square CDP|Census Designated Place|S|Mercer County
+NJ|34|29430|Hammonton town|County Subdivision|F|Atlantic County
+NJ|34|29430|Hammonton town|Incorporated Place|A|Atlantic County
+NJ|34|29460|Hampton borough|County Subdivision|F|Hunterdon County
+NJ|34|29460|Hampton borough|Incorporated Place|A|Hunterdon County
+NJ|34|29490|Hampton township|County Subdivision|A|Sussex County
+NJ|34|29520|Hancocks Bridge CDP|Census Designated Place|S|Salem County
+NJ|34|29550|Hanover township|County Subdivision|A|Morris County
+NJ|34|29700|Harding township|County Subdivision|A|Morris County
+NJ|34|29820|Hardwick township|County Subdivision|A|Warren County
+NJ|34|29850|Hardyston township|County Subdivision|A|Sussex County
+NJ|34|29940|Harlingen CDP|Census Designated Place|S|Somerset County
+NJ|34|30060|Harmony CDP|Census Designated Place|S|Warren County
+NJ|34|30090|Harmony township|County Subdivision|A|Warren County
+NJ|34|30150|Harrington Park borough|County Subdivision|F|Bergen County
+NJ|34|30150|Harrington Park borough|Incorporated Place|A|Bergen County
+NJ|34|30180|Harrison township|County Subdivision|A|Gloucester County
+NJ|34|30210|Harrison town|County Subdivision|F|Hudson County
+NJ|34|30210|Harrison town|Incorporated Place|A|Hudson County
+NJ|34|30390|Harvey Cedars borough|County Subdivision|F|Ocean County
+NJ|34|30390|Harvey Cedars borough|Incorporated Place|A|Ocean County
+NJ|34|30420|Hasbrouck Heights borough|County Subdivision|F|Bergen County
+NJ|34|30420|Hasbrouck Heights borough|Incorporated Place|A|Bergen County
+NJ|34|30540|Haworth borough|County Subdivision|F|Bergen County
+NJ|34|30540|Haworth borough|Incorporated Place|A|Bergen County
+NJ|34|30570|Hawthorne borough|County Subdivision|F|Passaic County
+NJ|34|30570|Hawthorne borough|Incorporated Place|A|Passaic County
+NJ|34|30690|Hazlet township|County Subdivision|A|Monmouth County
+NJ|34|30738|Heathcote CDP|Census Designated Place|S|Middlesex County
+NJ|34|30840|Helmetta borough|County Subdivision|F|Middlesex County
+NJ|34|30840|Helmetta borough|Incorporated Place|A|Middlesex County
+NJ|34|31320|High Bridge borough|County Subdivision|F|Hunterdon County
+NJ|34|31320|High Bridge borough|Incorporated Place|A|Hunterdon County
+NJ|34|31405|Highland Lake CDP|Census Designated Place|S|Sussex County
+NJ|34|31470|Highland Park borough|County Subdivision|F|Middlesex County
+NJ|34|31470|Highland Park borough|Incorporated Place|A|Middlesex County
+NJ|34|31500|Highlands borough|County Subdivision|F|Monmouth County
+NJ|34|31500|Highlands borough|Incorporated Place|A|Monmouth County
+NJ|34|31620|Hightstown borough|County Subdivision|F|Mercer County
+NJ|34|31620|Hightstown borough|Incorporated Place|A|Mercer County
+NJ|34|31890|Hillsborough township|County Subdivision|A|Somerset County
+NJ|34|31920|Hillsdale borough|County Subdivision|F|Bergen County
+NJ|34|31920|Hillsdale borough|Incorporated Place|A|Bergen County
+NJ|34|31980|Hillside township|County Subdivision|A|Union County
+NJ|34|32220|Hi-Nella borough|County Subdivision|F|Camden County
+NJ|34|32220|Hi-Nella borough|Incorporated Place|A|Camden County
+NJ|34|32250|Hoboken city|County Subdivision|F|Hudson County
+NJ|34|32250|Hoboken city|Incorporated Place|A|Hudson County
+NJ|34|32310|Ho-Ho-Kus borough|County Subdivision|F|Bergen County
+NJ|34|32310|Ho-Ho-Kus borough|Incorporated Place|A|Bergen County
+NJ|34|32415|Holiday City-Berkeley CDP|Census Designated Place|S|Ocean County
+NJ|34|32418|Holiday City South CDP|Census Designated Place|S|Ocean County
+NJ|34|32424|Holiday Heights CDP|Census Designated Place|S|Ocean County
+NJ|34|32460|Holland township|County Subdivision|A|Hunterdon County
+NJ|34|32640|Holmdel township|County Subdivision|A|Monmouth County
+NJ|34|32910|Hopatcong borough|County Subdivision|F|Sussex County
+NJ|34|32910|Hopatcong borough|Incorporated Place|A|Sussex County
+NJ|34|33030|Hope CDP|Census Designated Place|S|Warren County
+NJ|34|33060|Hope township|County Subdivision|A|Warren County
+NJ|34|33120|Hopewell township|County Subdivision|A|Cumberland County
+NJ|34|33150|Hopewell borough|County Subdivision|F|Mercer County
+NJ|34|33150|Hopewell borough|Incorporated Place|A|Mercer County
+NJ|34|33180|Hopewell township|County Subdivision|A|Mercer County
+NJ|34|33300|Howell township|County Subdivision|A|Monmouth County
+NJ|34|33690|Hutchinson CDP|Census Designated Place|S|Warren County
+NJ|34|33930|Independence township|County Subdivision|A|Warren County
+NJ|34|34200|Interlaken borough|County Subdivision|F|Monmouth County
+NJ|34|34200|Interlaken borough|Incorporated Place|A|Monmouth County
+NJ|34|34450|Irvington township|County Subdivision|A|Essex County
+NJ|34|34470|Iselin CDP|Census Designated Place|S|Middlesex County
+NJ|34|34530|Island Heights borough|County Subdivision|F|Ocean County
+NJ|34|34530|Island Heights borough|Incorporated Place|A|Ocean County
+NJ|34|34680|Jackson township|County Subdivision|A|Ocean County
+NJ|34|34890|Jamesburg borough|County Subdivision|F|Middlesex County
+NJ|34|34890|Jamesburg borough|Incorporated Place|A|Middlesex County
+NJ|34|34980|Jefferson township|County Subdivision|A|Morris County
+NJ|34|36000|Jersey City city|County Subdivision|F|Hudson County
+NJ|34|36000|Jersey City city|Incorporated Place|A|Hudson County
+NJ|34|36150|Johnsonburg CDP|Census Designated Place|S|Warren County
+NJ|34|36300|Juliustown CDP|Census Designated Place|S|Burlington County
+NJ|34|36480|Keansburg borough|County Subdivision|F|Monmouth County
+NJ|34|36480|Keansburg borough|Incorporated Place|A|Monmouth County
+NJ|34|36510|Kearny town|County Subdivision|F|Hudson County
+NJ|34|36510|Kearny town|Incorporated Place|A|Hudson County
+NJ|34|36660|Kendall Park CDP|Census Designated Place|S|Middlesex County
+NJ|34|36690|Kenilworth borough|County Subdivision|F|Union County
+NJ|34|36690|Kenilworth borough|Incorporated Place|A|Union County
+NJ|34|36720|Kenvil CDP|Census Designated Place|S|Morris County
+NJ|34|36810|Keyport borough|County Subdivision|F|Monmouth County
+NJ|34|36810|Keyport borough|Incorporated Place|A|Monmouth County
+NJ|34|36930|Kingston CDP|Census Designated Place|S|Middlesex County, Somerset County
+NJ|34|36960|Kingston Estates CDP|Census Designated Place|S|Camden County
+NJ|34|37065|Kingwood township|County Subdivision|A|Hunterdon County
+NJ|34|37110|Kinnelon borough|County Subdivision|F|Morris County
+NJ|34|37110|Kinnelon borough|Incorporated Place|A|Morris County
+NJ|34|37320|Knowlton township|County Subdivision|A|Warren County
+NJ|34|37380|Lacey township|County Subdivision|A|Ocean County
+NJ|34|37440|Lafayette township|County Subdivision|A|Sussex County
+NJ|34|37560|Lake Como borough|County Subdivision|F|Monmouth County
+NJ|34|37560|Lake Como borough|Incorporated Place|A|Monmouth County
+NJ|34|37770|Lakehurst borough|County Subdivision|F|Ocean County
+NJ|34|37770|Lakehurst borough|Incorporated Place|A|Ocean County
+NJ|34|38040|Lake Mohawk CDP|Census Designated Place|S|Sussex County
+NJ|34|38430|Lake Telemark CDP|Census Designated Place|S|Morris County
+NJ|34|38550|Lakewood township|County Subdivision|A|Ocean County
+NJ|34|38580|Lakewood CDP|Census Designated Place|S|Ocean County
+NJ|34|38610|Lambertville city|County Subdivision|F|Hunterdon County
+NJ|34|38610|Lambertville city|Incorporated Place|A|Hunterdon County
+NJ|34|39120|Laurel Lake CDP|Census Designated Place|S|Cumberland County
+NJ|34|39210|Laurel Springs borough|County Subdivision|F|Camden County
+NJ|34|39210|Laurel Springs borough|Incorporated Place|A|Camden County
+NJ|34|39360|Laurence Harbor CDP|Census Designated Place|S|Middlesex County
+NJ|34|39390|Lavallette borough|County Subdivision|F|Ocean County
+NJ|34|39390|Lavallette borough|Incorporated Place|A|Ocean County
+NJ|34|39420|Lawnside borough|County Subdivision|F|Camden County
+NJ|34|39420|Lawnside borough|Incorporated Place|A|Camden County
+NJ|34|39450|Lawrence township|County Subdivision|A|Cumberland County
+NJ|34|39510|Lawrence township|County Subdivision|A|Mercer County
+NJ|34|39570|Lawrenceville CDP|Census Designated Place|S|Mercer County
+NJ|34|39630|Lebanon borough|County Subdivision|F|Hunterdon County
+NJ|34|39630|Lebanon borough|Incorporated Place|A|Hunterdon County
+NJ|34|39660|Lebanon township|County Subdivision|A|Hunterdon County
+NJ|34|39883|Leisure Knoll CDP|Census Designated Place|S|Ocean County
+NJ|34|39885|Leisuretowne CDP|Census Designated Place|S|Burlington County
+NJ|34|39900|Leisure Village CDP|Census Designated Place|S|Ocean County
+NJ|34|39910|Leisure Village East CDP|Census Designated Place|S|Ocean County
+NJ|34|39920|Leisure Village West CDP|Census Designated Place|S|Ocean County
+NJ|34|39990|Leonardo CDP|Census Designated Place|S|Monmouth County
+NJ|34|40020|Leonia borough|County Subdivision|F|Bergen County
+NJ|34|40020|Leonia borough|Incorporated Place|A|Bergen County
+NJ|34|40110|Liberty township|County Subdivision|A|Warren County
+NJ|34|40290|Lincoln Park borough|County Subdivision|F|Morris County
+NJ|34|40290|Lincoln Park borough|Incorporated Place|A|Morris County
+NJ|34|40320|Lincroft CDP|Census Designated Place|S|Monmouth County
+NJ|34|40350|Linden city|County Subdivision|F|Union County
+NJ|34|40350|Linden city|Incorporated Place|A|Union County
+NJ|34|40440|Lindenwold borough|County Subdivision|F|Camden County
+NJ|34|40440|Lindenwold borough|Incorporated Place|A|Camden County
+NJ|34|40530|Linwood city|County Subdivision|F|Atlantic County
+NJ|34|40530|Linwood city|Incorporated Place|A|Atlantic County
+NJ|34|40560|Little Egg Harbor township|County Subdivision|A|Ocean County
+NJ|34|40620|Little Falls township|County Subdivision|A|Passaic County
+NJ|34|40680|Little Ferry borough|County Subdivision|F|Bergen County
+NJ|34|40680|Little Ferry borough|Incorporated Place|A|Bergen County
+NJ|34|40770|Little Silver borough|County Subdivision|F|Monmouth County
+NJ|34|40770|Little Silver borough|Incorporated Place|A|Monmouth County
+NJ|34|40890|Livingston township|County Subdivision|A|Essex County
+NJ|34|41010|Loch Arbour village|County Subdivision|F|Monmouth County
+NJ|34|41010|Loch Arbour village|Incorporated Place|A|Monmouth County
+NJ|34|41100|Lodi borough|County Subdivision|F|Bergen County
+NJ|34|41100|Lodi borough|Incorporated Place|A|Bergen County
+NJ|34|41160|Logan township|County Subdivision|A|Gloucester County
+NJ|34|41250|Long Beach township|County Subdivision|A|Ocean County
+NJ|34|41310|Long Branch city|County Subdivision|F|Monmouth County
+NJ|34|41310|Long Branch city|Incorporated Place|A|Monmouth County
+NJ|34|41362|Long Hill township|County Subdivision|A|Morris County
+NJ|34|41370|Longport borough|County Subdivision|F|Atlantic County
+NJ|34|41370|Longport borough|Incorporated Place|A|Atlantic County
+NJ|34|41400|Long Valley CDP|Census Designated Place|S|Morris County
+NJ|34|41490|Lopatcong township|County Subdivision|A|Warren County
+NJ|34|41495|Lopatcong Overlook CDP|Census Designated Place|S|Warren County
+NJ|34|41610|Lower township|County Subdivision|A|Cape May County
+NJ|34|41640|Lower Alloways Creek township|County Subdivision|A|Salem County
+NJ|34|42060|Lumberton township|County Subdivision|A|Burlington County
+NJ|34|42090|Lyndhurst township|County Subdivision|A|Bergen County
+NJ|34|42390|McGuire AFB CDP|Census Designated Place|S|Burlington County
+NJ|34|42510|Madison borough|County Subdivision|F|Morris County
+NJ|34|42510|Madison borough|Incorporated Place|A|Morris County
+NJ|34|42540|Madison Park CDP|Census Designated Place|S|Middlesex County
+NJ|34|42630|Magnolia borough|County Subdivision|F|Camden County
+NJ|34|42630|Magnolia borough|Incorporated Place|A|Camden County
+NJ|34|42750|Mahwah township|County Subdivision|A|Bergen County
+NJ|34|42930|Manahawkin CDP|Census Designated Place|S|Ocean County
+NJ|34|42990|Manalapan township|County Subdivision|A|Monmouth County
+NJ|34|43050|Manasquan borough|County Subdivision|F|Monmouth County
+NJ|34|43050|Manasquan borough|Incorporated Place|A|Monmouth County
+NJ|34|43140|Manchester township|County Subdivision|A|Ocean County
+NJ|34|43200|Mannington township|County Subdivision|A|Salem County
+NJ|34|43290|Mansfield township|County Subdivision|A|Burlington County
+NJ|34|43320|Mansfield township|County Subdivision|A|Warren County
+NJ|34|43380|Mantoloking borough|County Subdivision|F|Ocean County
+NJ|34|43380|Mantoloking borough|Incorporated Place|A|Ocean County
+NJ|34|43440|Mantua township|County Subdivision|A|Gloucester County
+NJ|34|43620|Manville borough|County Subdivision|F|Somerset County
+NJ|34|43620|Manville borough|Incorporated Place|A|Somerset County
+NJ|34|43740|Maple Shade township|County Subdivision|A|Burlington County
+NJ|34|43800|Maplewood township|County Subdivision|A|Essex County
+NJ|34|43890|Margate City city|County Subdivision|F|Atlantic County
+NJ|34|43890|Margate City city|Incorporated Place|A|Atlantic County
+NJ|34|43980|Marksboro CDP|Census Designated Place|S|Warren County
+NJ|34|44070|Marlboro township|County Subdivision|A|Monmouth County
+NJ|34|44100|Marlton CDP|Census Designated Place|S|Burlington County
+NJ|34|44430|Martinsville CDP|Census Designated Place|S|Somerset County
+NJ|34|44520|Matawan borough|County Subdivision|F|Monmouth County
+NJ|34|44520|Matawan borough|Incorporated Place|A|Monmouth County
+NJ|34|44580|Maurice River township|County Subdivision|A|Cumberland County
+NJ|34|44820|Mays Landing CDP|Census Designated Place|S|Atlantic County
+NJ|34|44880|Maywood borough|County Subdivision|F|Bergen County
+NJ|34|44880|Maywood borough|Incorporated Place|A|Bergen County
+NJ|34|45120|Medford township|County Subdivision|A|Burlington County
+NJ|34|45210|Medford Lakes borough|County Subdivision|F|Burlington County
+NJ|34|45210|Medford Lakes borough|Incorporated Place|A|Burlington County
+NJ|34|45330|Mendham borough|County Subdivision|F|Morris County
+NJ|34|45330|Mendham borough|Incorporated Place|A|Morris County
+NJ|34|45360|Mendham township|County Subdivision|A|Morris County
+NJ|34|45480|Mercerville CDP|Census Designated Place|S|Mercer County
+NJ|34|45510|Merchantville borough|County Subdivision|F|Camden County
+NJ|34|45510|Merchantville borough|Incorporated Place|A|Camden County
+NJ|34|45690|Metuchen borough|County Subdivision|F|Middlesex County
+NJ|34|45690|Metuchen borough|Incorporated Place|A|Middlesex County
+NJ|34|45810|Middle township|County Subdivision|A|Cape May County
+NJ|34|45870|Middlebush CDP|Census Designated Place|S|Somerset County
+NJ|34|45900|Middlesex borough|County Subdivision|F|Middlesex County
+NJ|34|45900|Middlesex borough|Incorporated Place|A|Middlesex County
+NJ|34|45990|Middletown township|County Subdivision|A|Monmouth County
+NJ|34|46110|Midland Park borough|County Subdivision|F|Bergen County
+NJ|34|46110|Midland Park borough|Incorporated Place|A|Bergen County
+NJ|34|46260|Milford borough|County Subdivision|F|Hunterdon County
+NJ|34|46260|Milford borough|Incorporated Place|A|Hunterdon County
+NJ|34|46380|Millburn township|County Subdivision|A|Essex County
+NJ|34|46560|Millstone township|County Subdivision|A|Monmouth County
+NJ|34|46590|Millstone borough|County Subdivision|F|Somerset County
+NJ|34|46590|Millstone borough|Incorporated Place|A|Somerset County
+NJ|34|46620|Milltown borough|County Subdivision|F|Middlesex County
+NJ|34|46620|Milltown borough|Incorporated Place|A|Middlesex County
+NJ|34|46680|Millville city|County Subdivision|F|Cumberland County
+NJ|34|46680|Millville city|Incorporated Place|A|Cumberland County
+NJ|34|46860|Mine Hill township|County Subdivision|A|Morris County
+NJ|34|47130|Monmouth Beach borough|County Subdivision|F|Monmouth County
+NJ|34|47130|Monmouth Beach borough|Incorporated Place|A|Monmouth County
+NJ|34|47190|Monmouth Junction CDP|Census Designated Place|S|Middlesex County
+NJ|34|47250|Monroe township|County Subdivision|A|Gloucester County
+NJ|34|47280|Monroe township|County Subdivision|A|Middlesex County
+NJ|34|47430|Montague township|County Subdivision|A|Sussex County
+NJ|34|47500|Montclair township|County Subdivision|A|Essex County
+NJ|34|47580|Montgomery township|County Subdivision|A|Somerset County
+NJ|34|47610|Montvale borough|County Subdivision|F|Bergen County
+NJ|34|47610|Montvale borough|Incorporated Place|A|Bergen County
+NJ|34|47670|Montville township|County Subdivision|A|Morris County
+NJ|34|47700|Moonachie borough|County Subdivision|F|Bergen County
+NJ|34|47700|Moonachie borough|Incorporated Place|A|Bergen County
+NJ|34|47880|Moorestown township|County Subdivision|A|Burlington County
+NJ|34|47895|Moorestown-Lenola CDP|Census Designated Place|S|Burlington County
+NJ|34|48030|Morganville CDP|Census Designated Place|S|Monmouth County
+NJ|34|48090|Morris township|County Subdivision|A|Morris County
+NJ|34|48210|Morris Plains borough|County Subdivision|F|Morris County
+NJ|34|48210|Morris Plains borough|Incorporated Place|A|Morris County
+NJ|34|48300|Morristown town|County Subdivision|F|Morris County
+NJ|34|48300|Morristown town|Incorporated Place|A|Morris County
+NJ|34|48450|Mountain Lake CDP|Census Designated Place|S|Warren County
+NJ|34|48480|Mountain Lakes borough|County Subdivision|F|Morris County
+NJ|34|48480|Mountain Lakes borough|Incorporated Place|A|Morris County
+NJ|34|48510|Mountainside borough|County Subdivision|F|Union County
+NJ|34|48510|Mountainside borough|Incorporated Place|A|Union County
+NJ|34|48690|Mount Arlington borough|County Subdivision|F|Morris County
+NJ|34|48690|Mount Arlington borough|Incorporated Place|A|Morris County
+NJ|34|48750|Mount Ephraim borough|County Subdivision|F|Camden County
+NJ|34|48750|Mount Ephraim borough|Incorporated Place|A|Camden County
+NJ|34|48840|Mount Hermon CDP|Census Designated Place|S|Warren County
+NJ|34|48900|Mount Holly township|County Subdivision|A|Burlington County
+NJ|34|49020|Mount Laurel township|County Subdivision|A|Burlington County
+NJ|34|49080|Mount Olive township|County Subdivision|A|Morris County
+NJ|34|49410|Mullica township|County Subdivision|A|Atlantic County
+NJ|34|49440|Mullica Hill CDP|Census Designated Place|S|Gloucester County
+NJ|34|49560|Mystic Island CDP|Census Designated Place|S|Ocean County
+NJ|34|49680|National Park borough|County Subdivision|F|Gloucester County
+NJ|34|49680|National Park borough|Incorporated Place|A|Gloucester County
+NJ|34|49740|Navesink CDP|Census Designated Place|S|Monmouth County
+NJ|34|49890|Neptune township|County Subdivision|A|Monmouth County
+NJ|34|49920|Neptune City borough|County Subdivision|F|Monmouth County
+NJ|34|49920|Neptune City borough|Incorporated Place|A|Monmouth County
+NJ|34|50130|Netcong borough|County Subdivision|F|Morris County
+NJ|34|50130|Netcong borough|Incorporated Place|A|Morris County
+NJ|34|51000|Newark city|County Subdivision|F|Essex County
+NJ|34|51000|Newark city|Incorporated Place|A|Essex County
+NJ|34|51210|New Brunswick city|County Subdivision|F|Middlesex County
+NJ|34|51210|New Brunswick city|Incorporated Place|A|Middlesex County
+NJ|34|51360|New Egypt CDP|Census Designated Place|S|Ocean County
+NJ|34|51390|Newfield borough|County Subdivision|F|Gloucester County
+NJ|34|51390|Newfield borough|Incorporated Place|A|Gloucester County
+NJ|34|51510|New Hanover township|County Subdivision|A|Burlington County
+NJ|34|51660|New Milford borough|County Subdivision|F|Bergen County
+NJ|34|51660|New Milford borough|Incorporated Place|A|Bergen County
+NJ|34|51810|New Providence borough|County Subdivision|F|Union County
+NJ|34|51810|New Providence borough|Incorporated Place|A|Union County
+NJ|34|51930|Newton town|County Subdivision|F|Sussex County
+NJ|34|51930|Newton town|Incorporated Place|A|Sussex County
+NJ|34|52050|New Village CDP|Census Designated Place|S|Warren County
+NJ|34|52320|North Arlington borough|County Subdivision|F|Bergen County
+NJ|34|52320|North Arlington borough|Incorporated Place|A|Bergen County
+NJ|34|52410|North Beach Haven CDP|Census Designated Place|S|Ocean County
+NJ|34|52470|North Bergen township|County Subdivision|A|Hudson County
+NJ|34|52560|North Brunswick township|County Subdivision|A|Middlesex County
+NJ|34|52620|North Caldwell borough|County Subdivision|F|Essex County
+NJ|34|52620|North Caldwell borough|Incorporated Place|A|Essex County
+NJ|34|52650|North Cape May CDP|Census Designated Place|S|Cape May County
+NJ|34|52950|Northfield city|County Subdivision|F|Atlantic County
+NJ|34|52950|Northfield city|Incorporated Place|A|Atlantic County
+NJ|34|53040|North Haledon borough|County Subdivision|F|Passaic County
+NJ|34|53040|North Haledon borough|Incorporated Place|A|Passaic County
+NJ|34|53070|North Hanover township|County Subdivision|A|Burlington County
+NJ|34|53205|North Middletown CDP|Census Designated Place|S|Monmouth County
+NJ|34|53280|North Plainfield borough|County Subdivision|F|Somerset County
+NJ|34|53280|North Plainfield borough|Incorporated Place|A|Somerset County
+NJ|34|53430|Northvale borough|County Subdivision|F|Bergen County
+NJ|34|53430|Northvale borough|Incorporated Place|A|Bergen County
+NJ|34|53490|North Wildwood city|County Subdivision|F|Cape May County
+NJ|34|53490|North Wildwood city|Incorporated Place|A|Cape May County
+NJ|34|53610|Norwood borough|County Subdivision|F|Bergen County
+NJ|34|53610|Norwood borough|Incorporated Place|A|Bergen County
+NJ|34|53680|Nutley township|County Subdivision|A|Essex County
+NJ|34|53790|Oakhurst CDP|Census Designated Place|S|Monmouth County
+NJ|34|53850|Oakland borough|County Subdivision|F|Bergen County
+NJ|34|53850|Oakland borough|Incorporated Place|A|Bergen County
+NJ|34|53880|Oaklyn borough|County Subdivision|F|Camden County
+NJ|34|53880|Oaklyn borough|Incorporated Place|A|Camden County
+NJ|34|54060|Oak Valley CDP|Census Designated Place|S|Gloucester County
+NJ|34|54270|Ocean township|County Subdivision|A|Monmouth County
+NJ|34|54300|Ocean township|County Subdivision|A|Ocean County
+NJ|34|54315|Ocean Acres CDP|Census Designated Place|S|Ocean County
+NJ|34|54360|Ocean City city|County Subdivision|F|Cape May County
+NJ|34|54360|Ocean City city|Incorporated Place|A|Cape May County
+NJ|34|54450|Ocean Gate borough|County Subdivision|F|Ocean County
+NJ|34|54450|Ocean Gate borough|Incorporated Place|A|Ocean County
+NJ|34|54480|Ocean Grove CDP|Census Designated Place|S|Monmouth County
+NJ|34|54570|Oceanport borough|County Subdivision|F|Monmouth County
+NJ|34|54570|Oceanport borough|Incorporated Place|A|Monmouth County
+NJ|34|54660|Ogdensburg borough|County Subdivision|F|Sussex County
+NJ|34|54660|Ogdensburg borough|Incorporated Place|A|Sussex County
+NJ|34|54690|Old Bridge CDP|Census Designated Place|S|Middlesex County
+NJ|34|54705|Old Bridge township|County Subdivision|A|Middlesex County
+NJ|34|54810|Oldmans township|County Subdivision|A|Salem County
+NJ|34|54870|Old Tappan borough|County Subdivision|F|Bergen County
+NJ|34|54870|Old Tappan borough|Incorporated Place|A|Bergen County
+NJ|34|54960|Olivet CDP|Census Designated Place|S|Salem County
+NJ|34|54990|Oradell borough|County Subdivision|F|Bergen County
+NJ|34|54990|Oradell borough|Incorporated Place|A|Bergen County
+NJ|34|55500|Oxford CDP|Census Designated Place|S|Warren County
+NJ|34|55530|Oxford township|County Subdivision|A|Warren County
+NJ|34|55770|Palisades Park borough|County Subdivision|F|Bergen County
+NJ|34|55770|Palisades Park borough|Incorporated Place|A|Bergen County
+NJ|34|55800|Palmyra borough|County Subdivision|F|Burlington County
+NJ|34|55800|Palmyra borough|Incorporated Place|A|Burlington County
+NJ|34|55895|Panther Valley CDP|Census Designated Place|S|Warren County
+NJ|34|55950|Paramus borough|County Subdivision|F|Bergen County
+NJ|34|55950|Paramus borough|Incorporated Place|A|Bergen County
+NJ|34|56130|Park Ridge borough|County Subdivision|F|Bergen County
+NJ|34|56130|Park Ridge borough|Incorporated Place|A|Bergen County
+NJ|34|56460|Parsippany-Troy Hills township|County Subdivision|A|Morris County
+NJ|34|56550|Passaic city|County Subdivision|F|Passaic County
+NJ|34|56550|Passaic city|Incorporated Place|A|Passaic County
+NJ|34|57000|Paterson city|County Subdivision|F|Passaic County
+NJ|34|57000|Paterson city|Incorporated Place|A|Passaic County
+NJ|34|57150|Paulsboro borough|County Subdivision|F|Gloucester County
+NJ|34|57150|Paulsboro borough|Incorporated Place|A|Gloucester County
+NJ|34|57300|Peapack and Gladstone borough|County Subdivision|F|Somerset County
+NJ|34|57300|Peapack and Gladstone borough|Incorporated Place|A|Somerset County
+NJ|34|57360|Pedricktown CDP|Census Designated Place|S|Salem County
+NJ|34|57480|Pemberton borough|County Subdivision|F|Burlington County
+NJ|34|57480|Pemberton borough|Incorporated Place|A|Burlington County
+NJ|34|57510|Pemberton township|County Subdivision|A|Burlington County
+NJ|34|57540|Pemberton Heights CDP|Census Designated Place|S|Burlington County
+NJ|34|57600|Pennington borough|County Subdivision|F|Mercer County
+NJ|34|57600|Pennington borough|Incorporated Place|A|Mercer County
+NJ|34|57660|Pennsauken township|County Subdivision|A|Camden County
+NJ|34|57750|Penns Grove borough|County Subdivision|F|Salem County
+NJ|34|57750|Penns Grove borough|Incorporated Place|A|Salem County
+NJ|34|57840|Pennsville CDP|Census Designated Place|S|Salem County
+NJ|34|57870|Pennsville township|County Subdivision|A|Salem County
+NJ|34|58110|Pequannock township|County Subdivision|A|Morris County
+NJ|34|58200|Perth Amboy city|County Subdivision|F|Middlesex County
+NJ|34|58200|Perth Amboy city|Incorporated Place|A|Middlesex County
+NJ|34|58350|Phillipsburg town|County Subdivision|F|Warren County
+NJ|34|58350|Phillipsburg town|Incorporated Place|A|Warren County
+NJ|34|58530|Pilesgrove township|County Subdivision|A|Salem County
+NJ|34|58590|Pine Beach borough|County Subdivision|F|Ocean County
+NJ|34|58590|Pine Beach borough|Incorporated Place|A|Ocean County
+NJ|34|58770|Pine Hill borough|County Subdivision|F|Camden County
+NJ|34|58770|Pine Hill borough|Incorporated Place|A|Camden County
+NJ|34|58830|Pine Lake Park CDP|Census Designated Place|S|Ocean County
+NJ|34|58852|Pine Ridge at Crestwood CDP|Census Designated Place|S|Ocean County
+NJ|34|58920|Pine Valley borough|County Subdivision|F|Camden County
+NJ|34|58920|Pine Valley borough|Incorporated Place|A|Camden County
+NJ|34|59010|Piscataway township|County Subdivision|A|Middlesex County
+NJ|34|59070|Pitman borough|County Subdivision|F|Gloucester County
+NJ|34|59070|Pitman borough|Incorporated Place|A|Gloucester County
+NJ|34|59130|Pittsgrove township|County Subdivision|A|Salem County
+NJ|34|59190|Plainfield city|County Subdivision|F|Union County
+NJ|34|59190|Plainfield city|Incorporated Place|A|Union County
+NJ|34|59280|Plainsboro township|County Subdivision|A|Middlesex County
+NJ|34|59285|Plainsboro Center CDP|Census Designated Place|S|Middlesex County
+NJ|34|59500|Pleasant Plains CDP|Census Designated Place|S|Somerset County
+NJ|34|59640|Pleasantville city|County Subdivision|F|Atlantic County
+NJ|34|59640|Pleasantville city|Incorporated Place|A|Atlantic County
+NJ|34|59790|Plumsted township|County Subdivision|A|Ocean County
+NJ|34|59820|Pohatcong township|County Subdivision|A|Warren County
+NJ|34|59880|Point Pleasant borough|County Subdivision|F|Ocean County
+NJ|34|59880|Point Pleasant borough|Incorporated Place|A|Ocean County
+NJ|34|59910|Point Pleasant Beach borough|County Subdivision|F|Ocean County
+NJ|34|59910|Point Pleasant Beach borough|Incorporated Place|A|Ocean County
+NJ|34|60030|Pomona CDP|Census Designated Place|S|Atlantic County
+NJ|34|60090|Pompton Lakes borough|County Subdivision|F|Passaic County
+NJ|34|60090|Pompton Lakes borough|Incorporated Place|A|Passaic County
+NJ|34|60210|Port Colden CDP|Census Designated Place|S|Warren County
+NJ|34|60360|Port Monmouth CDP|Census Designated Place|S|Monmouth County
+NJ|34|60450|Port Murray CDP|Census Designated Place|S|Warren County
+NJ|34|60510|Port Norris CDP|Census Designated Place|S|Cumberland County
+NJ|34|60540|Port Reading CDP|Census Designated Place|S|Middlesex County
+NJ|34|60600|Port Republic city|County Subdivision|F|Atlantic County
+NJ|34|60600|Port Republic city|Incorporated Place|A|Atlantic County
+NJ|34|60840|Presidential Lakes Estates CDP|Census Designated Place|S|Burlington County
+NJ|34|60900|Princeton borough|County Subdivision|F|Mercer County
+NJ|34|60900|Princeton borough|Incorporated Place|A|Mercer County
+NJ|34|60915|Princeton township|County Subdivision|A|Mercer County
+NJ|34|60960|Princeton Junction CDP|Census Designated Place|S|Mercer County
+NJ|34|60975|Princeton Meadows CDP|Census Designated Place|S|Middlesex County
+NJ|34|61170|Prospect Park borough|County Subdivision|F|Passaic County
+NJ|34|61170|Prospect Park borough|Incorporated Place|A|Passaic County
+NJ|34|61440|Quinton CDP|Census Designated Place|S|Salem County
+NJ|34|61470|Quinton township|County Subdivision|A|Salem County
+NJ|34|61530|Rahway city|County Subdivision|F|Union County
+NJ|34|61530|Rahway city|Incorporated Place|A|Union County
+NJ|34|61650|Ramblewood CDP|Census Designated Place|S|Burlington County
+NJ|34|61680|Ramsey borough|County Subdivision|F|Bergen County
+NJ|34|61680|Ramsey borough|Incorporated Place|A|Bergen County
+NJ|34|61725|Ramtown CDP|Census Designated Place|S|Monmouth County
+NJ|34|61890|Randolph township|County Subdivision|A|Morris County
+NJ|34|61920|Raritan township|County Subdivision|A|Hunterdon County
+NJ|34|61980|Raritan borough|County Subdivision|F|Somerset County
+NJ|34|61980|Raritan borough|Incorporated Place|A|Somerset County
+NJ|34|62250|Readington township|County Subdivision|A|Hunterdon County
+NJ|34|62430|Red Bank borough|County Subdivision|F|Monmouth County
+NJ|34|62430|Red Bank borough|Incorporated Place|A|Monmouth County
+NJ|34|62820|Richwood CDP|Census Designated Place|S|Gloucester County
+NJ|34|62910|Ridgefield borough|County Subdivision|F|Bergen County
+NJ|34|62910|Ridgefield borough|Incorporated Place|A|Bergen County
+NJ|34|62940|Ridgefield Park village|County Subdivision|F|Bergen County
+NJ|34|62940|Ridgefield Park village|Incorporated Place|A|Bergen County
+NJ|34|63000|Ridgewood village|County Subdivision|F|Bergen County
+NJ|34|63000|Ridgewood village|Incorporated Place|A|Bergen County
+NJ|34|63150|Ringwood borough|County Subdivision|F|Passaic County
+NJ|34|63150|Ringwood borough|Incorporated Place|A|Passaic County
+NJ|34|63180|Rio Grande CDP|Census Designated Place|S|Cape May County
+NJ|34|63300|Riverdale borough|County Subdivision|F|Morris County
+NJ|34|63300|Riverdale borough|Incorporated Place|A|Morris County
+NJ|34|63360|River Edge borough|County Subdivision|F|Bergen County
+NJ|34|63360|River Edge borough|Incorporated Place|A|Bergen County
+NJ|34|63510|Riverside township|County Subdivision|A|Burlington County
+NJ|34|63660|Riverton borough|County Subdivision|F|Burlington County
+NJ|34|63660|Riverton borough|Incorporated Place|A|Burlington County
+NJ|34|63690|River Vale township|County Subdivision|A|Bergen County
+NJ|34|63840|Robbinsville CDP|Census Designated Place|S|Mercer County
+NJ|34|63850|Robbinsville township|County Subdivision|A|Mercer County
+NJ|34|63900|Robertsville CDP|Census Designated Place|S|Monmouth County
+NJ|34|63990|Rochelle Park township|County Subdivision|A|Bergen County
+NJ|34|64050|Rockaway borough|County Subdivision|F|Morris County
+NJ|34|64050|Rockaway borough|Incorporated Place|A|Morris County
+NJ|34|64080|Rockaway township|County Subdivision|A|Morris County
+NJ|34|64170|Rockleigh borough|County Subdivision|F|Bergen County
+NJ|34|64170|Rockleigh borough|Incorporated Place|A|Bergen County
+NJ|34|64320|Rocky Hill borough|County Subdivision|F|Somerset County
+NJ|34|64320|Rocky Hill borough|Incorporated Place|A|Somerset County
+NJ|34|64350|Roebling CDP|Census Designated Place|S|Burlington County
+NJ|34|64410|Roosevelt borough|County Subdivision|F|Monmouth County
+NJ|34|64410|Roosevelt borough|Incorporated Place|A|Monmouth County
+NJ|34|64590|Roseland borough|County Subdivision|F|Essex County
+NJ|34|64590|Roseland borough|Incorporated Place|A|Essex County
+NJ|34|64620|Roselle borough|County Subdivision|F|Union County
+NJ|34|64620|Roselle borough|Incorporated Place|A|Union County
+NJ|34|64650|Roselle Park borough|County Subdivision|F|Union County
+NJ|34|64650|Roselle Park borough|Incorporated Place|A|Union County
+NJ|34|64740|Rosenhayn CDP|Census Designated Place|S|Cumberland County
+NJ|34|64860|Ross Corner CDP|Census Designated Place|S|Sussex County
+NJ|34|64865|Rossmoor CDP|Census Designated Place|S|Middlesex County
+NJ|34|64980|Roxbury township|County Subdivision|A|Morris County
+NJ|34|65130|Rumson borough|County Subdivision|F|Monmouth County
+NJ|34|65130|Rumson borough|Incorporated Place|A|Monmouth County
+NJ|34|65160|Runnemede borough|County Subdivision|F|Camden County
+NJ|34|65160|Runnemede borough|Incorporated Place|A|Camden County
+NJ|34|65280|Rutherford borough|County Subdivision|F|Bergen County
+NJ|34|65280|Rutherford borough|Incorporated Place|A|Bergen County
+NJ|34|65340|Saddle Brook township|County Subdivision|A|Bergen County
+NJ|34|65400|Saddle River borough|County Subdivision|F|Bergen County
+NJ|34|65400|Saddle River borough|Incorporated Place|A|Bergen County
+NJ|34|65490|Salem city|County Subdivision|F|Salem County
+NJ|34|65490|Salem city|Incorporated Place|A|Salem County
+NJ|34|65700|Sandyston township|County Subdivision|A|Sussex County
+NJ|34|65790|Sayreville borough|County Subdivision|F|Middlesex County
+NJ|34|65790|Sayreville borough|Incorporated Place|A|Middlesex County
+NJ|34|66060|Scotch Plains township|County Subdivision|A|Union County
+NJ|34|66240|Sea Bright borough|County Subdivision|F|Monmouth County
+NJ|34|66240|Sea Bright borough|Incorporated Place|A|Monmouth County
+NJ|34|66300|Seabrook Farms CDP|Census Designated Place|S|Cumberland County
+NJ|34|66330|Sea Girt borough|County Subdivision|F|Monmouth County
+NJ|34|66330|Sea Girt borough|Incorporated Place|A|Monmouth County
+NJ|34|66390|Sea Isle City city|County Subdivision|F|Cape May County
+NJ|34|66390|Sea Isle City city|Incorporated Place|A|Cape May County
+NJ|34|66450|Seaside Heights borough|County Subdivision|F|Ocean County
+NJ|34|66450|Seaside Heights borough|Incorporated Place|A|Ocean County
+NJ|34|66480|Seaside Park borough|County Subdivision|F|Ocean County
+NJ|34|66480|Seaside Park borough|Incorporated Place|A|Ocean County
+NJ|34|66570|Secaucus town|County Subdivision|F|Hudson County
+NJ|34|66570|Secaucus town|Incorporated Place|A|Hudson County
+NJ|34|66720|Sewaren CDP|Census Designated Place|S|Middlesex County
+NJ|34|66810|Shamong township|County Subdivision|A|Burlington County
+NJ|34|66840|Shark River Hills CDP|Census Designated Place|S|Monmouth County
+NJ|34|67020|Shiloh borough|County Subdivision|F|Cumberland County
+NJ|34|67020|Shiloh borough|Incorporated Place|A|Cumberland County
+NJ|34|67110|Ship Bottom borough|County Subdivision|F|Ocean County
+NJ|34|67110|Ship Bottom borough|Incorporated Place|A|Ocean County
+NJ|34|67320|Short Hills CDP|Census Designated Place|S|Essex County
+NJ|34|67350|Shrewsbury borough|County Subdivision|F|Monmouth County
+NJ|34|67350|Shrewsbury borough|Incorporated Place|A|Monmouth County
+NJ|34|67365|Shrewsbury township|County Subdivision|A|Monmouth County
+NJ|34|67590|Silver Lake CDP|Census Designated Place|S|Essex County
+NJ|34|67650|Silver Lake CDP|Census Designated Place|S|Warren County
+NJ|34|67665|Silver Ridge CDP|Census Designated Place|S|Ocean County
+NJ|34|67770|Singac CDP|Census Designated Place|S|Passaic County
+NJ|34|67820|Six Mile Run CDP|Census Designated Place|S|Somerset County
+NJ|34|67860|Skillman CDP|Census Designated Place|S|Somerset County
+NJ|34|68190|Smithville CDP|Census Designated Place|S|Atlantic County
+NJ|34|68304|Society Hill CDP|Census Designated Place|S|Middlesex County
+NJ|34|68340|Somerdale borough|County Subdivision|F|Camden County
+NJ|34|68340|Somerdale borough|Incorporated Place|A|Camden County
+NJ|34|68370|Somerset CDP|Census Designated Place|S|Somerset County
+NJ|34|68430|Somers Point city|County Subdivision|F|Atlantic County
+NJ|34|68430|Somers Point city|Incorporated Place|A|Atlantic County
+NJ|34|68460|Somerville borough|County Subdivision|F|Somerset County
+NJ|34|68460|Somerville borough|Incorporated Place|A|Somerset County
+NJ|34|68550|South Amboy city|County Subdivision|F|Middlesex County
+NJ|34|68550|South Amboy city|Incorporated Place|A|Middlesex County
+NJ|34|68610|Southampton township|County Subdivision|A|Burlington County
+NJ|34|68730|South Bound Brook borough|County Subdivision|F|Somerset County
+NJ|34|68730|South Bound Brook borough|Incorporated Place|A|Somerset County
+NJ|34|68790|South Brunswick township|County Subdivision|A|Middlesex County
+NJ|34|68970|South Hackensack township|County Subdivision|A|Bergen County
+NJ|34|69030|South Harrison township|County Subdivision|A|Gloucester County
+NJ|34|69274|South Orange Village township|County Subdivision|A|Essex County
+NJ|34|69390|South Plainfield borough|County Subdivision|F|Middlesex County
+NJ|34|69390|South Plainfield borough|Incorporated Place|A|Middlesex County
+NJ|34|69420|South River borough|County Subdivision|F|Middlesex County
+NJ|34|69420|South River borough|Incorporated Place|A|Middlesex County
+NJ|34|69510|South Toms River borough|County Subdivision|F|Ocean County
+NJ|34|69510|South Toms River borough|Incorporated Place|A|Ocean County
+NJ|34|69690|Sparta township|County Subdivision|A|Sussex County
+NJ|34|69810|Spotswood borough|County Subdivision|F|Middlesex County
+NJ|34|69810|Spotswood borough|Incorporated Place|A|Middlesex County
+NJ|34|69900|Springdale CDP|Census Designated Place|S|Camden County
+NJ|34|69990|Springfield township|County Subdivision|A|Burlington County
+NJ|34|70020|Springfield township|County Subdivision|A|Union County
+NJ|34|70110|Spring Lake borough|County Subdivision|F|Monmouth County
+NJ|34|70110|Spring Lake borough|Incorporated Place|A|Monmouth County
+NJ|34|70140|Spring Lake Heights borough|County Subdivision|F|Monmouth County
+NJ|34|70140|Spring Lake Heights borough|Incorporated Place|A|Monmouth County
+NJ|34|70320|Stafford township|County Subdivision|A|Ocean County
+NJ|34|70380|Stanhope borough|County Subdivision|F|Sussex County
+NJ|34|70380|Stanhope borough|Incorporated Place|A|Sussex County
+NJ|34|70800|Stewartsville CDP|Census Designated Place|S|Warren County
+NJ|34|70890|Stillwater township|County Subdivision|A|Sussex County
+NJ|34|70980|Stockton borough|County Subdivision|F|Hunterdon County
+NJ|34|70980|Stockton borough|Incorporated Place|A|Hunterdon County
+NJ|34|71010|Stone Harbor borough|County Subdivision|F|Cape May County
+NJ|34|71010|Stone Harbor borough|Incorporated Place|A|Cape May County
+NJ|34|71160|Stow Creek township|County Subdivision|A|Cumberland County
+NJ|34|71220|Stratford borough|County Subdivision|F|Camden County
+NJ|34|71220|Stratford borough|Incorporated Place|A|Camden County
+NJ|34|71250|Strathmere CDP|Census Designated Place|S|Cape May County
+NJ|34|71280|Strathmore CDP|Census Designated Place|S|Monmouth County
+NJ|34|71370|Succasunna CDP|Census Designated Place|S|Morris County
+NJ|34|71430|Summit city|County Subdivision|F|Union County
+NJ|34|71430|Summit city|Incorporated Place|A|Union County
+NJ|34|71640|Surf City borough|County Subdivision|F|Ocean County
+NJ|34|71640|Surf City borough|Incorporated Place|A|Ocean County
+NJ|34|71670|Sussex borough|County Subdivision|F|Sussex County
+NJ|34|71670|Sussex borough|Incorporated Place|A|Sussex County
+NJ|34|71850|Swedesboro borough|County Subdivision|F|Gloucester County
+NJ|34|71850|Swedesboro borough|Incorporated Place|A|Gloucester County
+NJ|34|72060|Tabernacle township|County Subdivision|A|Burlington County
+NJ|34|72240|Tavistock borough|County Subdivision|F|Camden County
+NJ|34|72240|Tavistock borough|Incorporated Place|A|Camden County
+NJ|34|72360|Teaneck township|County Subdivision|A|Bergen County
+NJ|34|72420|Tenafly borough|County Subdivision|F|Bergen County
+NJ|34|72420|Tenafly borough|Incorporated Place|A|Bergen County
+NJ|34|72435|Ten Mile Run CDP|Census Designated Place|S|Somerset County
+NJ|34|72480|Teterboro borough|County Subdivision|F|Bergen County
+NJ|34|72480|Teterboro borough|Incorporated Place|A|Bergen County
+NJ|34|72510|Tewksbury township|County Subdivision|A|Hunterdon County
+NJ|34|73020|Tinton Falls borough|County Subdivision|F|Monmouth County
+NJ|34|73020|Tinton Falls borough|Incorporated Place|A|Monmouth County
+NJ|34|73110|Toms River CDP|Census Designated Place|S|Ocean County
+NJ|34|73125|Toms River township|County Subdivision|A|Ocean County
+NJ|34|73140|Totowa borough|County Subdivision|F|Passaic County
+NJ|34|73140|Totowa borough|Incorporated Place|A|Passaic County
+NJ|34|74000|Trenton city|County Subdivision|F|Mercer County
+NJ|34|74000|Trenton city|Incorporated Place|A|Mercer County
+NJ|34|74210|Tuckerton borough|County Subdivision|F|Ocean County
+NJ|34|74210|Tuckerton borough|Incorporated Place|A|Ocean County
+NJ|34|74270|Turnersville CDP|Census Designated Place|S|Gloucester County
+NJ|34|74330|Twin Rivers CDP|Census Designated Place|S|Mercer County
+NJ|34|74420|Union township|County Subdivision|A|Hunterdon County
+NJ|34|74480|Union township|County Subdivision|A|Union County
+NJ|34|74540|Union Beach borough|County Subdivision|F|Monmouth County
+NJ|34|74540|Union Beach borough|Incorporated Place|A|Monmouth County
+NJ|34|74630|Union City city|County Subdivision|F|Hudson County
+NJ|34|74630|Union City city|Incorporated Place|A|Hudson County
+NJ|34|74810|Upper township|County Subdivision|A|Cape May County
+NJ|34|74870|Upper Deerfield township|County Subdivision|A|Cumberland County
+NJ|34|74900|Upper Freehold township|County Subdivision|A|Monmouth County
+NJ|34|75020|Upper Montclair CDP|Census Designated Place|S|Essex County
+NJ|34|75110|Upper Pittsgrove township|County Subdivision|A|Salem County
+NJ|34|75120|Upper Pohatcong CDP|Census Designated Place|S|Warren County
+NJ|34|75140|Upper Saddle River borough|County Subdivision|F|Bergen County
+NJ|34|75140|Upper Saddle River borough|Incorporated Place|A|Bergen County
+NJ|34|75145|Upper Stewartsville CDP|Census Designated Place|S|Warren County
+NJ|34|75620|Ventnor City city|County Subdivision|F|Atlantic County
+NJ|34|75620|Ventnor City city|Incorporated Place|A|Atlantic County
+NJ|34|75740|Vernon township|County Subdivision|A|Sussex County
+NJ|34|75745|Vernon Center CDP|Census Designated Place|S|Sussex County
+NJ|34|75750|Vernon Valley CDP|Census Designated Place|S|Sussex County
+NJ|34|75815|Verona township|County Subdivision|A|Essex County
+NJ|34|75890|Victory Gardens borough|County Subdivision|F|Morris County
+NJ|34|75890|Victory Gardens borough|Incorporated Place|A|Morris County
+NJ|34|75920|Victory Lakes CDP|Census Designated Place|S|Gloucester County
+NJ|34|75950|Vienna CDP|Census Designated Place|S|Warren County
+NJ|34|76010|Villas CDP|Census Designated Place|S|Cape May County
+NJ|34|76070|Vineland city|County Subdivision|F|Cumberland County
+NJ|34|76070|Vineland city|Incorporated Place|A|Cumberland County
+NJ|34|76107|Vista Center CDP|Census Designated Place|S|Ocean County
+NJ|34|76220|Voorhees township|County Subdivision|A|Camden County
+NJ|34|76250|Voorhees CDP|Census Designated Place|S|Somerset County
+NJ|34|76400|Waldwick borough|County Subdivision|F|Bergen County
+NJ|34|76400|Waldwick borough|Incorporated Place|A|Bergen County
+NJ|34|76460|Wall township|County Subdivision|A|Monmouth County
+NJ|34|76490|Wallington borough|County Subdivision|F|Bergen County
+NJ|34|76490|Wallington borough|Incorporated Place|A|Bergen County
+NJ|34|76640|Walpack township|County Subdivision|A|Sussex County
+NJ|34|76700|Wanamassa CDP|Census Designated Place|S|Monmouth County
+NJ|34|76730|Wanaque borough|County Subdivision|F|Passaic County
+NJ|34|76730|Wanaque borough|Incorporated Place|A|Passaic County
+NJ|34|76790|Wantage township|County Subdivision|A|Sussex County
+NJ|34|76820|Waretown CDP|Census Designated Place|S|Ocean County
+NJ|34|76940|Warren township|County Subdivision|A|Somerset County
+NJ|34|77135|Washington township|County Subdivision|A|Bergen County
+NJ|34|77150|Washington township|County Subdivision|A|Burlington County
+NJ|34|77180|Washington township|County Subdivision|A|Gloucester County
+NJ|34|77240|Washington township|County Subdivision|A|Morris County
+NJ|34|77270|Washington borough|County Subdivision|F|Warren County
+NJ|34|77270|Washington borough|Incorporated Place|A|Warren County
+NJ|34|77300|Washington township|County Subdivision|A|Warren County
+NJ|34|77600|Watchung borough|County Subdivision|F|Somerset County
+NJ|34|77600|Watchung borough|Incorporated Place|A|Somerset County
+NJ|34|77630|Waterford township|County Subdivision|A|Camden County
+NJ|34|77840|Wayne township|County Subdivision|A|Passaic County
+NJ|34|77930|Weehawken township|County Subdivision|A|Hudson County
+NJ|34|78110|Wenonah borough|County Subdivision|F|Gloucester County
+NJ|34|78110|Wenonah borough|Incorporated Place|A|Gloucester County
+NJ|34|78200|Westampton township|County Subdivision|A|Burlington County
+NJ|34|78230|West Amwell township|County Subdivision|A|Hunterdon County
+NJ|34|78350|West Belmar CDP|Census Designated Place|S|Monmouth County
+NJ|34|78510|West Caldwell township|County Subdivision|A|Essex County
+NJ|34|78530|West Cape May borough|County Subdivision|F|Cape May County
+NJ|34|78530|West Cape May borough|Incorporated Place|A|Cape May County
+NJ|34|78800|West Deptford township|County Subdivision|A|Gloucester County
+NJ|34|79040|Westfield town|County Subdivision|F|Union County
+NJ|34|79040|Westfield town|Incorporated Place|A|Union County
+NJ|34|79100|West Freehold CDP|Census Designated Place|S|Monmouth County
+NJ|34|79310|West Long Branch borough|County Subdivision|F|Monmouth County
+NJ|34|79310|West Long Branch borough|Incorporated Place|A|Monmouth County
+NJ|34|79460|West Milford township|County Subdivision|A|Passaic County
+NJ|34|79610|West New York town|County Subdivision|F|Hudson County
+NJ|34|79610|West New York town|Incorporated Place|A|Hudson County
+NJ|34|79715|Weston CDP|Census Designated Place|S|Somerset County
+NJ|34|79800|West Orange township|County Subdivision|A|Essex County
+NJ|34|80120|Westville borough|County Subdivision|F|Gloucester County
+NJ|34|80120|Westville borough|Incorporated Place|A|Gloucester County
+NJ|34|80210|West Wildwood borough|County Subdivision|F|Cape May County
+NJ|34|80210|West Wildwood borough|Incorporated Place|A|Cape May County
+NJ|34|80240|West Windsor township|County Subdivision|A|Mercer County
+NJ|34|80270|Westwood borough|County Subdivision|F|Bergen County
+NJ|34|80270|Westwood borough|Incorporated Place|A|Bergen County
+NJ|34|80330|Weymouth township|County Subdivision|A|Atlantic County
+NJ|34|80390|Wharton borough|County Subdivision|F|Morris County
+NJ|34|80390|Wharton borough|Incorporated Place|A|Morris County
+NJ|34|80570|White township|County Subdivision|A|Warren County
+NJ|34|80630|White Horse CDP|Census Designated Place|S|Mercer County
+NJ|34|80720|White House Station CDP|Census Designated Place|S|Hunterdon County
+NJ|34|80750|White Meadow Lake CDP|Census Designated Place|S|Morris County
+NJ|34|80855|Whitesboro CDP|Census Designated Place|S|Cape May County
+NJ|34|81042|Whittingham CDP|Census Designated Place|S|Middlesex County
+NJ|34|81170|Wildwood city|County Subdivision|F|Cape May County
+NJ|34|81170|Wildwood city|Incorporated Place|A|Cape May County
+NJ|34|81200|Wildwood Crest borough|County Subdivision|F|Cape May County
+NJ|34|81200|Wildwood Crest borough|Incorporated Place|A|Cape May County
+NJ|34|81380|Williamstown CDP|Census Designated Place|S|Gloucester County
+NJ|34|81440|Willingboro township|County Subdivision|A|Burlington County
+NJ|34|81650|Winfield township|County Subdivision|A|Union County
+NJ|34|81740|Winslow township|County Subdivision|A|Camden County
+NJ|34|81890|Woodbine borough|County Subdivision|F|Cape May County
+NJ|34|81890|Woodbine borough|Incorporated Place|A|Cape May County
+NJ|34|81950|Woodbridge CDP|Census Designated Place|S|Middlesex County
+NJ|34|82000|Woodbridge township|County Subdivision|A|Middlesex County
+NJ|34|82120|Woodbury city|County Subdivision|F|Gloucester County
+NJ|34|82120|Woodbury city|Incorporated Place|A|Gloucester County
+NJ|34|82180|Woodbury Heights borough|County Subdivision|F|Gloucester County
+NJ|34|82180|Woodbury Heights borough|Incorporated Place|A|Gloucester County
+NJ|34|82300|Woodcliff Lake borough|County Subdivision|F|Bergen County
+NJ|34|82300|Woodcliff Lake borough|Incorporated Place|A|Bergen County
+NJ|34|82420|Woodland township|County Subdivision|A|Burlington County
+NJ|34|82423|Woodland Park borough|County Subdivision|F|Passaic County
+NJ|34|82423|Woodland Park borough|Incorporated Place|A|Passaic County
+NJ|34|82450|Woodlynne borough|County Subdivision|F|Camden County
+NJ|34|82450|Woodlynne borough|Incorporated Place|A|Camden County
+NJ|34|82570|Wood-Ridge borough|County Subdivision|F|Bergen County
+NJ|34|82570|Wood-Ridge borough|Incorporated Place|A|Bergen County
+NJ|34|82720|Woodstown borough|County Subdivision|F|Salem County
+NJ|34|82720|Woodstown borough|Incorporated Place|A|Salem County
+NJ|34|82840|Woolwich township|County Subdivision|A|Gloucester County
+NJ|34|82960|Wrightstown borough|County Subdivision|F|Burlington County
+NJ|34|82960|Wrightstown borough|Incorporated Place|A|Burlington County
+NJ|34|83050|Wyckoff township|County Subdivision|A|Bergen County
+NJ|34|83170|Yardville CDP|Census Designated Place|S|Mercer County
+NJ|34|83245|Yorketown CDP|Census Designated Place|S|Monmouth County
+NJ|34|83290|Zarephath CDP|Census Designated Place|S|Somerset County

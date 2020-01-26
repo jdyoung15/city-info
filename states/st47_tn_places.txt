@@ -1,0 +1,428 @@
+TN|47|00200|Adams city|Incorporated Place|A|Robertson County
+TN|47|00240|Adamsville town|Incorporated Place|A|Hardin County, McNairy County
+TN|47|00440|Alamo town|Incorporated Place|A|Crockett County
+TN|47|00540|Alcoa city|Incorporated Place|A|Blount County
+TN|47|00620|Alexandria town|Incorporated Place|A|DeKalb County
+TN|47|00640|Algood city|Incorporated Place|A|Putnam County
+TN|47|00660|Allardt city|Incorporated Place|A|Fentress County
+TN|47|00940|Altamont town|Incorporated Place|A|Grundy County
+TN|47|01220|Andersonville CDP|Census Designated Place|S|Anderson County
+TN|47|01480|Apison CDP|Census Designated Place|S|Hamilton County
+TN|47|01640|Ardmore city|Incorporated Place|A|Giles County, Lincoln County
+TN|47|01740|Arlington town|Incorporated Place|A|Shelby County
+TN|47|02180|Ashland City town|Incorporated Place|A|Cheatham County
+TN|47|02320|Athens city|Incorporated Place|A|McMinn County
+TN|47|02340|Atoka town|Incorporated Place|A|Tipton County
+TN|47|02380|Atwood town|Incorporated Place|A|Carroll County
+TN|47|02400|Auburntown town|Incorporated Place|A|Cannon County
+TN|47|02780|Baileyton town|Incorporated Place|A|Greene County
+TN|47|03078|Baneberry city|Incorporated Place|A|Jefferson County
+TN|47|03120|Banner Hill CDP|Census Designated Place|S|Unicoi County
+TN|47|03440|Bartlett city|Incorporated Place|A|Shelby County
+TN|47|03680|Baxter town|Incorporated Place|A|Putnam County
+TN|47|03760|Bean Station city|Incorporated Place|A|Grainger County
+TN|47|04240|Beersheba Springs town|Incorporated Place|A|Grundy County
+TN|47|04460|Bell Buckle town|Incorporated Place|A|Bedford County
+TN|47|04620|Belle Meade city|Incorporated Place|A|Davidson County
+TN|47|04720|Bells city|Incorporated Place|A|Crockett County
+TN|47|05040|Benton town|Incorporated Place|A|Polk County
+TN|47|05140|Berry Hill city|Incorporated Place|A|Davidson County
+TN|47|05380|Bethel Springs town|Incorporated Place|A|McNairy County
+TN|47|05500|Bethpage CDP|Census Designated Place|S|Sumner County
+TN|47|05860|Big Sandy town|Incorporated Place|A|Benton County
+TN|47|06340|Blaine city|Incorporated Place|A|Grainger County
+TN|47|06640|Bloomingdale CDP|Census Designated Place|S|Sullivan County
+TN|47|06740|Blountville CDP|Census Designated Place|S|Sullivan County
+TN|47|06960|Bluff City city|Incorporated Place|A|Sullivan County
+TN|47|07180|Bolivar city|Incorporated Place|A|Hardeman County
+TN|47|07280|Bon Aqua Junction CDP|Census Designated Place|S|Hickman County
+TN|47|07620|Bowman CDP|Census Designated Place|S|Cumberland County
+TN|47|07840|Braden town|Incorporated Place|A|Fayette County
+TN|47|07860|Bradford town|Incorporated Place|A|Gibson County
+TN|47|08080|Bransford CDP|Census Designated Place|S|Sumner County
+TN|47|08280|Brentwood city|Incorporated Place|A|Williamson County
+TN|47|08500|Brighton town|Incorporated Place|A|Tipton County
+TN|47|08540|Bristol city|Incorporated Place|A|Sullivan County
+TN|47|08920|Brownsville city|Incorporated Place|A|Haywood County
+TN|47|08960|Bruceton town|Incorporated Place|A|Carroll County
+TN|47|09560|Bulls Gap town|Incorporated Place|A|Hawkins County
+TN|47|09860|Burlison town|Incorporated Place|A|Tipton County
+TN|47|09880|Burns town|Incorporated Place|A|Dickson County
+TN|47|10180|Byrdstown town|Incorporated Place|A|Pickett County
+TN|47|10440|Calhoun town|Incorporated Place|A|McMinn County
+TN|47|10560|Camden city|Incorporated Place|A|Benton County
+TN|47|11280|Carthage town|Incorporated Place|A|Smith County
+TN|47|11360|Caryville town|Incorporated Place|A|Campbell County
+TN|47|11440|Castalian Springs CDP|Census Designated Place|S|Sumner County
+TN|47|11980|Cedar Hill city|Incorporated Place|A|Robertson County
+TN|47|12100|Celina city|Incorporated Place|A|Clay County
+TN|47|12380|Centertown town|Incorporated Place|A|Warren County
+TN|47|12420|Centerville town|Incorporated Place|A|Hickman County
+TN|47|12460|Central CDP|Census Designated Place|S|Carter County
+TN|47|12880|Chapel Hill town|Incorporated Place|A|Marshall County
+TN|47|13020|Charleston city|Incorporated Place|A|Bradley County
+TN|47|13080|Charlotte town|Incorporated Place|A|Dickson County
+TN|47|14000|Chattanooga city|Incorporated Place|A|Hamilton County
+TN|47|14220|Chesterfield CDP|Census Designated Place|S|Henderson County
+TN|47|14980|Church Hill city|Incorporated Place|A|Hawkins County
+TN|47|15120|Clarkrange CDP|Census Designated Place|S|Fentress County
+TN|47|15140|Clarksburg town|Incorporated Place|A|Carroll County
+TN|47|15160|Clarksville city|Incorporated Place|A|Montgomery County
+TN|47|15400|Cleveland city|Incorporated Place|A|Bradley County
+TN|47|15480|Clifton city|Incorporated Place|A|Wayne County
+TN|47|15580|Clinton city|Incorporated Place|A|Anderson County
+TN|47|15880|Coalfield CDP|Census Designated Place|S|Morgan County
+TN|47|15920|Coalmont city|Incorporated Place|A|Grundy County
+TN|47|16300|Collegedale city|Incorporated Place|A|Hamilton County
+TN|47|16420|Collierville town|Incorporated Place|A|Fayette County, Shelby County
+TN|47|16480|Collinwood city|Incorporated Place|A|Wayne County
+TN|47|16500|Colonial Heights CDP|Census Designated Place|S|Sullivan County
+TN|47|16540|Columbia city|Incorporated Place|A|Maury County
+TN|47|16920|Cookeville city|Incorporated Place|A|Putnam County
+TN|47|16980|Coopertown town|Incorporated Place|A|Robertson County
+TN|47|17000|Copperhill city|Incorporated Place|A|Polk County
+TN|47|17180|Cornersville town|Incorporated Place|A|Marshall County
+TN|47|17340|Cottage Grove town|Incorporated Place|A|Henry County
+TN|47|17420|Cottontown CDP|Census Designated Place|S|Sumner County
+TN|47|17680|Covington city|Incorporated Place|A|Tipton County
+TN|47|17700|Cowan city|Incorporated Place|A|Franklin County
+TN|47|17840|Crab Orchard city|Incorporated Place|A|Cumberland County
+TN|47|18420|Cross Plains city|Incorporated Place|A|Robertson County
+TN|47|18540|Crossville city|Incorporated Place|A|Cumberland County
+TN|47|18620|Crump city|Incorporated Place|A|Hardin County
+TN|47|18820|Cumberland City town|Incorporated Place|A|Stewart County
+TN|47|18880|Cumberland Gap town|Incorporated Place|A|Claiborne County
+TN|47|19380|Dandridge town|Incorporated Place|A|Jefferson County
+TN|47|19500|Darden CDP|Census Designated Place|S|Henderson County
+TN|47|19700|Dayton city|Incorporated Place|A|Rhea County
+TN|47|19880|Decatur town|Incorporated Place|A|Meigs County
+TN|47|19900|Decaturville town|Incorporated Place|A|Decatur County
+TN|47|19920|Decherd city|Incorporated Place|A|Franklin County
+TN|47|20620|Dickson city|Incorporated Place|A|Dickson County
+TN|47|20930|Dodson Branch CDP|Census Designated Place|S|Jackson County
+TN|47|21400|Dover city|Incorporated Place|A|Stewart County
+TN|47|21420|Dowelltown town|Incorporated Place|A|DeKalb County
+TN|47|21500|Doyle town|Incorporated Place|A|White County
+TN|47|21540|Dresden town|Incorporated Place|A|Weakley County
+TN|47|21740|Ducktown city|Incorporated Place|A|Polk County
+TN|47|22000|Dunlap city|Incorporated Place|A|Sequatchie County
+TN|47|22180|Dyer city|Incorporated Place|A|Gibson County
+TN|47|22200|Dyersburg city|Incorporated Place|A|Dyer County
+TN|47|22340|Eagleton Village CDP|Census Designated Place|S|Blount County
+TN|47|22360|Eagleville city|Incorporated Place|A|Rutherford County
+TN|47|22500|East Cleveland CDP|Census Designated Place|S|Bradley County
+TN|47|22720|East Ridge city|Incorporated Place|A|Hamilton County
+TN|47|22920|Eastview town|Incorporated Place|A|McNairy County
+TN|47|23440|Elgin CDP|Census Designated Place|S|Scott County
+TN|47|23500|Elizabethton city|Incorporated Place|A|Carter County
+TN|47|23660|Elkton city|Incorporated Place|A|Giles County
+TN|47|24040|Englewood town|Incorporated Place|A|McMinn County
+TN|47|24240|Enville town|Incorporated Place|A|Chester County, McNairy County
+TN|47|24320|Erin city|Incorporated Place|A|Houston County
+TN|47|24360|Erwin town|Incorporated Place|A|Unicoi County
+TN|47|24440|Estill Springs town|Incorporated Place|A|Franklin County
+TN|47|24460|Ethridge town|Incorporated Place|A|Lawrence County
+TN|47|24480|Etowah city|Incorporated Place|A|McMinn County
+TN|47|24640|Eva CDP|Census Designated Place|S|Benton County
+TN|47|24960|Fairfield CDP|Census Designated Place|S|Sumner County
+TN|47|24980|Fairfield Glade CDP|Census Designated Place|S|Cumberland County
+TN|47|24990|Fairgarden CDP|Census Designated Place|S|Sevier County
+TN|47|25080|Fairmount CDP|Census Designated Place|S|Hamilton County
+TN|47|25440|Fairview city|Incorporated Place|A|Williamson County
+TN|47|25540|Fall Branch CDP|Census Designated Place|S|Greene County, Washington County
+TN|47|25560|Falling Water CDP|Census Designated Place|S|Hamilton County
+TN|47|25760|Farragut town|Incorporated Place|A|Knox County, Loudon County
+TN|47|25920|Fayetteville city|Incorporated Place|A|Lincoln County
+TN|47|26120|Fincastle CDP|Census Designated Place|S|Campbell County
+TN|47|26160|Finger city|Incorporated Place|A|McNairy County
+TN|47|26490|Flat Top Mountain CDP|Census Designated Place|S|Hamilton County
+TN|47|26580|Flintville CDP|Census Designated Place|S|Lincoln County
+TN|47|27020|Forest Hills city|Incorporated Place|A|Davidson County
+TN|47|27740|Franklin city|Incorporated Place|A|Williamson County
+TN|47|27960|Friendship city|Incorporated Place|A|Crockett County
+TN|47|28060|Friendsville city|Incorporated Place|A|Blount County
+TN|47|28380|Gadsden town|Incorporated Place|A|Crockett County
+TN|47|28420|Gainesboro town|Incorporated Place|A|Jackson County
+TN|47|28540|Gallatin city|Incorporated Place|A|Sumner County
+TN|47|28560|Gallaway city|Incorporated Place|A|Fayette County
+TN|47|28680|Garland town|Incorporated Place|A|Tipton County
+TN|47|28740|Gates town|Incorporated Place|A|Lauderdale County
+TN|47|28800|Gatlinburg city|Incorporated Place|A|Sevier County
+TN|47|28960|Germantown city|Incorporated Place|A|Shelby County
+TN|47|29020|Gibson town|Incorporated Place|A|Gibson County
+TN|47|29160|Gilt Edge city|Incorporated Place|A|Tipton County
+TN|47|29300|Gleason town|Incorporated Place|A|Weakley County
+TN|47|29920|Goodlettsville city|Incorporated Place|A|Davidson County, Sumner County
+TN|47|30120|Gordonsville town|Incorporated Place|A|Smith County
+TN|47|30220|Graball CDP|Census Designated Place|S|Sumner County
+TN|47|30280|Grand Junction city|Incorporated Place|A|Fayette County, Hardeman County
+TN|47|30700|Gray CDP|Census Designated Place|S|Washington County
+TN|47|30760|Graysville town|Incorporated Place|A|Rhea County
+TN|47|30880|Greenback city|Incorporated Place|A|Loudon County
+TN|47|30960|Greenbrier town|Incorporated Place|A|Robertson County
+TN|47|30980|Greeneville town|Incorporated Place|A|Greene County
+TN|47|31000|Greenfield city|Incorporated Place|A|Weakley County
+TN|47|31100|Green Hill CDP|Census Designated Place|S|Wilson County
+TN|47|31420|Grimsley CDP|Census Designated Place|S|Fentress County
+TN|47|31490|Gruetli-Laager city|Incorporated Place|A|Grundy County
+TN|47|31680|Guys town|Incorporated Place|A|McNairy County
+TN|47|31820|Halls town|Incorporated Place|A|Lauderdale County
+TN|47|32520|Harriman city|Incorporated Place|A|Morgan County, Roane County
+TN|47|32600|Harrison CDP|Census Designated Place|S|Hamilton County
+TN|47|32640|Harrogate city|Incorporated Place|A|Claiborne County
+TN|47|32742|Hartsville/Trousdale County|Incorporated Place|A|Trousdale County
+TN|47|33120|Helenwood CDP|Census Designated Place|S|Scott County
+TN|47|33260|Henderson city|Incorporated Place|A|Chester County
+TN|47|33280|Hendersonville city|Incorporated Place|A|Sumner County
+TN|47|33360|Henning town|Incorporated Place|A|Lauderdale County
+TN|47|33400|Henry town|Incorporated Place|A|Henry County
+TN|47|33920|Hickory Valley town|Incorporated Place|A|Hardeman County
+TN|47|34700|Hillsboro CDP|Census Designated Place|S|Coffee County
+TN|47|35160|Hohenwald city|Incorporated Place|A|Lewis County
+TN|47|35280|Hollow Rock town|Incorporated Place|A|Carroll County
+TN|47|35880|Hopewell CDP|Census Designated Place|S|Bradley County
+TN|47|36000|Hornbeak town|Incorporated Place|A|Obion County
+TN|47|36080|Hornsby town|Incorporated Place|A|Hardeman County
+TN|47|36460|Humboldt city|Incorporated Place|A|Gibson County, Madison County
+TN|47|36500|Hunter CDP|Census Designated Place|S|Carter County
+TN|47|36580|Huntingdon town|Incorporated Place|A|Carroll County
+TN|47|36600|Huntland town|Incorporated Place|A|Franklin County
+TN|47|36640|Huntsville town|Incorporated Place|A|Scott County
+TN|47|37360|Iron City city|Incorporated Place|A|Lawrence County, Wayne County
+TN|47|37600|Jacksboro town|Incorporated Place|A|Campbell County
+TN|47|37640|Jackson city|Incorporated Place|A|Madison County
+TN|47|37780|Jamestown city|Incorporated Place|A|Fentress County
+TN|47|37820|Jasper town|Incorporated Place|A|Marion County
+TN|47|37960|Jefferson City city|Incorporated Place|A|Jefferson County
+TN|47|38020|Jellico city|Incorporated Place|A|Campbell County
+TN|47|38320|Johnson City city|Incorporated Place|A|Carter County, Sullivan County, Washington County
+TN|47|38540|Jonesborough town|Incorporated Place|A|Washington County
+TN|47|39140|Kenton town|Incorporated Place|A|Gibson County, Obion County
+TN|47|39400|Kimball town|Incorporated Place|A|Marion County
+TN|47|39560|Kingsport city|Incorporated Place|A|Hawkins County, Sullivan County
+TN|47|39620|Kingston city|Incorporated Place|A|Roane County
+TN|47|39660|Kingston Springs town|Incorporated Place|A|Cheatham County
+TN|47|40000|Knoxville city|Incorporated Place|A|Knox County
+TN|47|40160|Lafayette city|Incorporated Place|A|Macon County
+TN|47|40180|La Follette city|Incorporated Place|A|Campbell County
+TN|47|40200|La Grange town|Incorporated Place|A|Fayette County
+TN|47|40240|Lake City city|Incorporated Place|A|Anderson County, Campbell County
+TN|47|40350|Lakeland city|Incorporated Place|A|Shelby County
+TN|47|40540|Lakesite city|Incorporated Place|A|Hamilton County
+TN|47|40560|Lake Tansi CDP|Census Designated Place|S|Cumberland County
+TN|47|40720|Lakewood city|Incorporated Place|A|Davidson County
+TN|47|40732|Lakewood Park CDP|Census Designated Place|S|Coffee County
+TN|47|41200|La Vergne city|Incorporated Place|A|Rutherford County
+TN|47|41340|Lawrenceburg city|Incorporated Place|A|Lawrence County
+TN|47|41520|Lebanon city|Incorporated Place|A|Wilson County
+TN|47|41760|Lenoir City city|Incorporated Place|A|Loudon County
+TN|47|41860|Lewisburg city|Incorporated Place|A|Marshall County
+TN|47|41980|Lexington city|Incorporated Place|A|Henderson County
+TN|47|42040|Liberty town|Incorporated Place|A|DeKalb County
+TN|47|42720|Linden town|Incorporated Place|A|Perry County
+TN|47|43140|Livingston town|Incorporated Place|A|Overton County
+TN|47|43160|Lobelville city|Incorporated Place|A|Perry County
+TN|47|43420|Lone Oak CDP|Census Designated Place|S|Sequatchie County
+TN|47|43640|Lookout Mountain town|Incorporated Place|A|Hamilton County
+TN|47|43700|Loretto city|Incorporated Place|A|Lawrence County
+TN|47|43780|Loudon town|Incorporated Place|A|Loudon County
+TN|47|43820|Louisville city|Incorporated Place|A|Blount County
+TN|47|44300|Luttrell town|Incorporated Place|A|Union County
+TN|47|44360|Lyles CDP|Census Designated Place|S|Hickman County
+TN|47|44382|Lynchburg, Moore County metropolitan government|Incorporated Place|A|Moore County
+TN|47|44420|Lynnville town|Incorporated Place|A|Giles County
+TN|47|44840|McEwen city|Incorporated Place|A|Humphreys County
+TN|47|44940|McKenzie city|Incorporated Place|A|Carroll County, Henry County, Weakley County
+TN|47|45000|McLemoresville town|Incorporated Place|A|Carroll County
+TN|47|45100|McMinnville city|Incorporated Place|A|Warren County
+TN|47|45320|Madisonville city|Incorporated Place|A|Monroe County
+TN|47|45500|Manchester city|Incorporated Place|A|Coffee County
+TN|47|46240|Martin city|Incorporated Place|A|Weakley County
+TN|47|46380|Maryville city|Incorporated Place|A|Blount County
+TN|47|46400|Mascot CDP|Census Designated Place|S|Knox County
+TN|47|46420|Mason town|Incorporated Place|A|Tipton County
+TN|47|46540|Maury City town|Incorporated Place|A|Crockett County
+TN|47|46700|Maynardville city|Incorporated Place|A|Union County
+TN|47|47000|Medina city|Incorporated Place|A|Gibson County
+TN|47|47020|Medon city|Incorporated Place|A|Madison County
+TN|47|48000|Memphis city|Incorporated Place|A|Shelby County
+TN|47|48180|Michie town|Incorporated Place|A|McNairy County
+TN|47|48340|Middleton city|Incorporated Place|A|Hardeman County
+TN|47|48360|Middle Valley CDP|Census Designated Place|S|Hamilton County
+TN|47|48460|Midtown CDP|Census Designated Place|S|Roane County
+TN|47|48660|Milan city|Incorporated Place|A|Gibson County
+TN|47|48920|Milledgeville town|Incorporated Place|A|Chester County, Hardin County, McNairy County
+TN|47|48980|Millersville city|Incorporated Place|A|Robertson County, Sumner County
+TN|47|49060|Millington city|Incorporated Place|A|Shelby County
+TN|47|49360|Minor Hill city|Incorporated Place|A|Giles County
+TN|47|49460|Mitchellville city|Incorporated Place|A|Sumner County
+TN|47|49740|Monteagle town|Incorporated Place|A|Franklin County, Grundy County, Marion County
+TN|47|49760|Monterey town|Incorporated Place|A|Putnam County
+TN|47|49940|Mooresburg CDP|Census Designated Place|S|Hawkins County
+TN|47|50220|Morrison town|Incorporated Place|A|Warren County
+TN|47|50280|Morristown city|Incorporated Place|A|Hamblen County, Jefferson County
+TN|47|50300|Moscow city|Incorporated Place|A|Fayette County
+TN|47|50320|Mosheim town|Incorporated Place|A|Greene County
+TN|47|50400|Mountain City town|Incorporated Place|A|Johnson County
+TN|47|50580|Mount Carmel town|Incorporated Place|A|Hawkins County
+TN|47|50780|Mount Juliet city|Incorporated Place|A|Wilson County
+TN|47|51080|Mount Pleasant city|Incorporated Place|A|Maury County
+TN|47|51402|Mowbray Mountain CDP|Census Designated Place|S|Hamilton County
+TN|47|51540|Munford city|Incorporated Place|A|Tipton County
+TN|47|51560|Murfreesboro city|Incorporated Place|A|Rutherford County
+TN|47|52006|Nashville-Davidson metropolitan government (balance)|Incorporated Place|F|Davidson County
+TN|47|52400|Newbern town|Incorporated Place|A|Dyer County
+TN|47|52520|New Deal CDP|Census Designated Place|S|Sumner County
+TN|47|52780|New Hope city|Incorporated Place|A|Marion County
+TN|47|52820|New Johnsonville city|Incorporated Place|A|Humphreys County
+TN|47|52940|New Market town|Incorporated Place|A|Jefferson County
+TN|47|53000|Newport city|Incorporated Place|A|Cocke County
+TN|47|53140|New Tazewell town|Incorporated Place|A|Claiborne County
+TN|47|53240|New Union CDP|Census Designated Place|S|Coffee County
+TN|47|53380|Niota city|Incorporated Place|A|McMinn County
+TN|47|53460|Nolensville town|Incorporated Place|A|Williamson County
+TN|47|53580|Normandy town|Incorporated Place|A|Bedford County
+TN|47|53600|Norris city|Incorporated Place|A|Anderson County
+TN|47|54280|Oakdale town|Incorporated Place|A|Morgan County
+TN|47|54640|Oak Grove CDP|Census Designated Place|S|Sumner County
+TN|47|54700|Oak Grove CDP|Census Designated Place|S|Washington County
+TN|47|54780|Oak Hill city|Incorporated Place|A|Davidson County
+TN|47|54920|Oakland town|Incorporated Place|A|Fayette County
+TN|47|55120|Oak Ridge city|Incorporated Place|A|Anderson County, Roane County
+TN|47|55240|Obion town|Incorporated Place|A|Obion County
+TN|47|55800|Oliver Springs town|Incorporated Place|A|Anderson County, Morgan County, Roane County
+TN|47|55820|Olivet CDP|Census Designated Place|S|Hardin County
+TN|47|55860|Oneida town|Incorporated Place|A|Scott County
+TN|47|55900|Ooltewah CDP|Census Designated Place|S|Hamilton County
+TN|47|56020|Orlinda city|Incorporated Place|A|Robertson County
+TN|47|56040|Orme town|Incorporated Place|A|Marion County
+TN|47|56560|Palmer town|Incorporated Place|A|Grundy County
+TN|47|56720|Paris city|Incorporated Place|A|Henry County
+TN|47|56800|Park City CDP|Census Designated Place|S|Lincoln County
+TN|47|56870|Parker's Crossroads city|Incorporated Place|A|Henderson County
+TN|47|57040|Parrottsville town|Incorporated Place|A|Cocke County
+TN|47|57080|Parsons city|Incorporated Place|A|Decatur County
+TN|47|57480|Pegram town|Incorporated Place|A|Cheatham County
+TN|47|57500|Pelham CDP|Census Designated Place|S|Grundy County
+TN|47|57740|Petersburg town|Incorporated Place|A|Lincoln County, Marshall County
+TN|47|57780|Petros CDP|Census Designated Place|S|Morgan County
+TN|47|57900|Philadelphia city|Incorporated Place|A|Loudon County
+TN|47|58080|Pigeon Forge city|Incorporated Place|A|Sevier County
+TN|47|58120|Pikeville city|Incorporated Place|A|Bledsoe County
+TN|47|58240|Pine Crest CDP|Census Designated Place|S|Carter County
+TN|47|58840|Piperton city|Incorporated Place|A|Fayette County
+TN|47|58940|Pittman Center town|Incorporated Place|A|Sevier County
+TN|47|59020|Plainview city|Incorporated Place|A|Union County
+TN|47|59240|Pleasant Hill town|Incorporated Place|A|Cumberland County
+TN|47|59560|Pleasant View city|Incorporated Place|A|Cheatham County
+TN|47|60280|Portland city|Incorporated Place|A|Robertson County, Sumner County
+TN|47|60500|Powells Crossroads town|Incorporated Place|A|Marion County
+TN|47|61040|Pulaski city|Incorporated Place|A|Giles County
+TN|47|61160|Puryear city|Incorporated Place|A|Henry County
+TN|47|61520|Ramer city|Incorporated Place|A|McNairy County
+TN|47|61960|Red Bank city|Incorporated Place|A|Hamilton County
+TN|47|62000|Red Boiling Springs city|Incorporated Place|A|Macon County
+TN|47|62580|Riceville CDP|Census Designated Place|S|McMinn County
+TN|47|63060|Ridgely town|Incorporated Place|A|Lake County
+TN|47|63080|Ridgeside city|Incorporated Place|A|Hamilton County
+TN|47|63140|Ridgetop city|Incorporated Place|A|Davidson County, Robertson County
+TN|47|63340|Ripley city|Incorporated Place|A|Lauderdale County
+TN|47|63800|Rives town|Incorporated Place|A|Obion County
+TN|47|63840|Roan Mountain CDP|Census Designated Place|S|Carter County
+TN|47|63920|Robbins CDP|Census Designated Place|S|Scott County
+TN|47|64160|Rockford city|Incorporated Place|A|Blount County
+TN|47|64440|Rockwood city|Incorporated Place|A|Roane County
+TN|47|64820|Rogersville town|Incorporated Place|A|Hawkins County
+TN|47|65240|Rossville town|Incorporated Place|A|Fayette County
+TN|47|65642|Rural Hill CDP|Census Designated Place|S|Wilson County
+TN|47|65760|Rutherford town|Incorporated Place|A|Gibson County
+TN|47|65820|Rutledge town|Incorporated Place|A|Grainger County
+TN|47|66160|St. Joseph city|Incorporated Place|A|Lawrence County
+TN|47|66220|Sale Creek CDP|Census Designated Place|S|Hamilton County
+TN|47|66340|Saltillo town|Incorporated Place|A|Hardin County
+TN|47|66360|Samburg town|Incorporated Place|A|Obion County
+TN|47|66660|Sardis town|Incorporated Place|A|Henderson County
+TN|47|66680|Saulsbury town|Incorporated Place|A|Hardeman County
+TN|47|66720|Savannah city|Incorporated Place|A|Hardin County
+TN|47|66880|Scotts Hill town|Incorporated Place|A|Decatur County, Henderson County
+TN|47|66940|Selmer town|Incorporated Place|A|McNairy County
+TN|47|67120|Sevierville city|Incorporated Place|A|Sevier County
+TN|47|67140|Sewanee CDP|Census Designated Place|S|Franklin County
+TN|47|67200|Seymour CDP|Census Designated Place|S|Blount County, Sevier County
+TN|47|67230|Shackle Island CDP|Census Designated Place|S|Sumner County
+TN|47|67540|Sharon town|Incorporated Place|A|Weakley County
+TN|47|67760|Shelbyville city|Incorporated Place|A|Bedford County
+TN|47|68540|Signal Mountain town|Incorporated Place|A|Hamilton County
+TN|47|68560|Silerton town|Incorporated Place|A|Chester County, Hardeman County
+TN|47|69080|Slayden town|Incorporated Place|A|Dickson County
+TN|47|69320|Smithville city|Incorporated Place|A|DeKalb County
+TN|47|69420|Smyrna town|Incorporated Place|A|Rutherford County
+TN|47|69460|Sneedville town|Incorporated Place|A|Hancock County
+TN|47|69560|Soddy-Daisy city|Incorporated Place|A|Hamilton County
+TN|47|69620|Somerville town|Incorporated Place|A|Fayette County
+TN|47|69680|South Carthage town|Incorporated Place|A|Smith County
+TN|47|69740|South Cleveland CDP|Census Designated Place|S|Bradley County
+TN|47|69900|South Fulton city|Incorporated Place|A|Obion County
+TN|47|70060|South Pittsburg city|Incorporated Place|A|Marion County
+TN|47|70180|Sparta city|Incorporated Place|A|White County
+TN|47|70240|Spencer town|Incorporated Place|A|Van Buren County
+TN|47|70400|Spring City town|Incorporated Place|A|Rhea County
+TN|47|70500|Springfield city|Incorporated Place|A|Robertson County
+TN|47|70580|Spring Hill city|Incorporated Place|A|Maury County, Williamson County
+TN|47|70680|Spurgeon CDP|Census Designated Place|S|Sullivan County, Washington County
+TN|47|70820|Stanton town|Incorporated Place|A|Haywood County
+TN|47|70840|Stantonville town|Incorporated Place|A|McNairy County
+TN|47|72040|Summertown CDP|Census Designated Place|S|Lawrence County
+TN|47|72140|Sunbright city|Incorporated Place|A|Morgan County
+TN|47|72380|Surgoinsville town|Incorporated Place|A|Hawkins County
+TN|47|72540|Sweetwater city|Incorporated Place|A|McMinn County, Monroe County
+TN|47|73120|Tazewell town|Incorporated Place|A|Claiborne County
+TN|47|73220|Telford CDP|Census Designated Place|S|Washington County
+TN|47|73260|Tellico Plains town|Incorporated Place|A|Monroe County
+TN|47|73270|Tellico Village CDP|Census Designated Place|S|Loudon County
+TN|47|73460|Tennessee Ridge town|Incorporated Place|A|Houston County, Stewart County
+TN|47|73900|Thompson's Station town|Incorporated Place|A|Williamson County
+TN|47|74100|Three Way city|Incorporated Place|A|Madison County
+TN|47|74540|Tiptonville town|Incorporated Place|A|Lake County
+TN|47|74640|Toone town|Incorporated Place|A|Hardeman County
+TN|47|74860|Townsend city|Incorporated Place|A|Blount County
+TN|47|74880|Tracy City town|Incorporated Place|A|Grundy County
+TN|47|75000|Trenton city|Incorporated Place|A|Gibson County
+TN|47|75100|Trezevant town|Incorporated Place|A|Carroll County
+TN|47|75160|Trimble town|Incorporated Place|A|Dyer County, Obion County
+TN|47|75240|Troy town|Incorporated Place|A|Obion County
+TN|47|75320|Tullahoma city|Incorporated Place|A|Coffee County, Franklin County
+TN|47|75560|Tusculum city|Incorporated Place|A|Greene County
+TN|47|75820|Unicoi town|Incorporated Place|A|Unicoi County
+TN|47|75940|Union City city|Incorporated Place|A|Obion County
+TN|47|76180|Unionville CDP|Census Designated Place|S|Bedford County
+TN|47|76860|Vanleer town|Incorporated Place|A|Dickson County
+TN|47|77400|Viola town|Incorporated Place|A|Warren County
+TN|47|77480|Vonore town|Incorporated Place|A|Blount County, Monroe County
+TN|47|77540|Walden town|Incorporated Place|A|Hamilton County
+TN|47|77700|Walland CDP|Census Designated Place|S|Blount County
+TN|47|77760|Walnut Grove CDP|Census Designated Place|S|Hardin County
+TN|47|77820|Walnut Grove CDP|Census Designated Place|S|Sumner County
+TN|47|77900|Walnut Hill CDP|Census Designated Place|S|Sullivan County
+TN|47|77980|Walterhill CDP|Census Designated Place|S|Rutherford County
+TN|47|78100|Wartburg city|Incorporated Place|A|Morgan County
+TN|47|78120|Wartrace town|Incorporated Place|A|Bedford County
+TN|47|78240|Watauga city|Incorporated Place|A|Carter County, Washington County
+TN|47|78320|Watertown city|Incorporated Place|A|Wilson County
+TN|47|78560|Waverly city|Incorporated Place|A|Humphreys County
+TN|47|78600|Waynesboro city|Incorporated Place|A|Wayne County
+TN|47|79420|Westmoreland town|Incorporated Place|A|Sumner County
+TN|47|79980|White Bluff town|Incorporated Place|A|Dickson County
+TN|47|80200|White House city|Incorporated Place|A|Robertson County, Sumner County
+TN|47|80360|White Pine town|Incorporated Place|A|Hamblen County, Jefferson County
+TN|47|80540|Whiteville town|Incorporated Place|A|Hardeman County
+TN|47|80620|Whitwell city|Incorporated Place|A|Marion County
+TN|47|80740|Wildwood CDP|Census Designated Place|S|Blount County
+TN|47|80760|Wildwood Lake CDP|Census Designated Place|S|Bradley County
+TN|47|81020|Williston city|Incorporated Place|A|Fayette County
+TN|47|81080|Winchester city|Incorporated Place|A|Franklin County
+TN|47|81280|Winfield town|Incorporated Place|A|Scott County
+TN|47|81560|Woodbury town|Incorporated Place|A|Cannon County
+TN|47|81700|Woodland Mills city|Incorporated Place|A|Obion County
+TN|47|82120|Wrigley CDP|Census Designated Place|S|Hickman County
+TN|47|82360|Yorkville city|Incorporated Place|A|Gibson County

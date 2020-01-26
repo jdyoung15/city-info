@@ -1,0 +1,76 @@
+DE|10|01400|Arden village|Incorporated Place|A|New Castle County
+DE|10|01530|Ardencroft village|Incorporated Place|A|New Castle County
+DE|10|01660|Ardentown village|Incorporated Place|A|New Castle County
+DE|10|04130|Bear CDP|Census Designated Place|S|New Castle County
+DE|10|04650|Bellefonte town|Incorporated Place|A|New Castle County
+DE|10|05690|Bethany Beach town|Incorporated Place|A|Sussex County
+DE|10|05820|Bethel town|Incorporated Place|A|Sussex County
+DE|10|06730|Blades town|Incorporated Place|A|Sussex County
+DE|10|07250|Bowers town|Incorporated Place|A|Kent County
+DE|10|08680|Bridgeville town|Incorporated Place|A|Sussex County
+DE|10|09850|Brookside CDP|Census Designated Place|S|New Castle County
+DE|10|10760|Camden town|Incorporated Place|A|Kent County
+DE|10|14660|Cheswold town|Incorporated Place|A|Kent County
+DE|10|15310|Claymont CDP|Census Designated Place|S|New Castle County
+DE|10|15440|Clayton town|Incorporated Place|A|Kent County, New Castle County
+DE|10|18950|Dagsboro town|Incorporated Place|A|Sussex County
+DE|10|19730|Delaware City city|Incorporated Place|A|New Castle County
+DE|10|20380|Delmar town|Incorporated Place|A|Sussex County
+DE|10|20900|Dewey Beach town|Incorporated Place|A|Sussex County
+DE|10|21200|Dover city|Incorporated Place|A|Kent County
+DE|10|21387|Dover Base Housing CDP|Census Designated Place|S|Kent County
+DE|10|23240|Edgemoor CDP|Census Designated Place|S|New Castle County
+DE|10|24020|Ellendale town|Incorporated Place|A|Sussex County
+DE|10|24540|Elsmere town|Incorporated Place|A|New Castle County
+DE|10|25840|Farmington town|Incorporated Place|A|Kent County
+DE|10|26620|Felton town|Incorporated Place|A|Kent County
+DE|10|26880|Fenwick Island town|Incorporated Place|A|Sussex County
+DE|10|28310|Frankford town|Incorporated Place|A|Sussex County
+DE|10|28440|Frederica town|Incorporated Place|A|Kent County
+DE|10|29090|Georgetown town|Incorporated Place|A|Sussex County
+DE|10|29350|Glasgow CDP|Census Designated Place|S|New Castle County
+DE|10|31430|Greenville CDP|Census Designated Place|S|New Castle County
+DE|10|31560|Greenwood town|Incorporated Place|A|Sussex County
+DE|10|33120|Harrington city|Incorporated Place|A|Kent County
+DE|10|33250|Hartly town|Incorporated Place|A|Kent County
+DE|10|33900|Henlopen Acres town|Incorporated Place|A|Sussex County
+DE|10|34810|Highland Acres CDP|Census Designated Place|S|Kent County
+DE|10|35850|Hockessin CDP|Census Designated Place|S|New Castle County
+DE|10|36760|Houston town|Incorporated Place|A|Kent County
+DE|10|38710|Kent Acres CDP|Census Designated Place|S|Kent County
+DE|10|39100|Kenton town|Incorporated Place|A|Kent County
+DE|10|41310|Laurel town|Incorporated Place|A|Sussex County
+DE|10|41700|Leipsic town|Incorporated Place|A|Kent County
+DE|10|41830|Lewes city|Incorporated Place|A|Sussex County
+DE|10|42870|Little Creek town|Incorporated Place|A|Kent County
+DE|10|43245|Long Neck CDP|Census Designated Place|S|Sussex County
+DE|10|44430|Magnolia town|Incorporated Place|A|Kent County
+DE|10|47030|Middletown town|Incorporated Place|A|New Castle County
+DE|10|47420|Milford city|Incorporated Place|A|Kent County, Sussex County
+DE|10|47940|Millsboro town|Incorporated Place|A|Sussex County
+DE|10|48200|Millville town|Incorporated Place|A|Sussex County
+DE|10|48330|Milton town|Incorporated Place|A|Sussex County
+DE|10|50670|Newark city|Incorporated Place|A|New Castle County
+DE|10|50800|New Castle city|Incorporated Place|A|New Castle County
+DE|10|51190|Newport town|Incorporated Place|A|New Castle County
+DE|10|52490|North Star CDP|Census Designated Place|S|New Castle County
+DE|10|53920|Ocean View town|Incorporated Place|A|Sussex County
+DE|10|54050|Odessa town|Incorporated Place|A|New Castle County
+DE|10|56490|Pike Creek CDP|Census Designated Place|S|New Castle County
+DE|10|56500|Pike Creek Valley CDP|Census Designated Place|S|New Castle County
+DE|10|60290|Rehoboth Beach city|Incorporated Place|A|Sussex County
+DE|10|61265|Rising Sun-Lebanon CDP|Census Designated Place|S|Kent County
+DE|10|61480|Riverview CDP|Census Designated Place|S|Kent County
+DE|10|61720|Rodney Village CDP|Census Designated Place|S|Kent County
+DE|10|64320|Seaford city|Incorporated Place|A|Sussex County
+DE|10|64840|Selbyville town|Incorporated Place|A|Sussex County
+DE|10|67050|Slaughter Beach town|Incorporated Place|A|Sussex County
+DE|10|67310|Smyrna town|Incorporated Place|A|Kent County, New Castle County
+DE|10|67700|South Bethany town|Incorporated Place|A|Sussex County
+DE|10|72510|Townsend town|Incorporated Place|A|New Castle County
+DE|10|74330|Viola town|Incorporated Place|A|Kent County
+DE|10|77580|Wilmington city|Incorporated Place|A|New Castle County
+DE|10|77840|Wilmington Manor CDP|Census Designated Place|S|New Castle County
+DE|10|80830|Woodside town|Incorporated Place|A|Kent County
+DE|10|80895|Woodside East CDP|Census Designated Place|S|Kent County
+DE|10|81350|Wyoming town|Incorporated Place|A|Kent County

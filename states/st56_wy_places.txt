@@ -1,0 +1,203 @@
+WY|56|00245|Afton town|Incorporated Place|A|Lincoln County
+WY|56|00680|Albany CDP|Census Designated Place|S|Albany County
+WY|56|00825|Albin town|Incorporated Place|A|Laramie County
+WY|56|01115|Alcova CDP|Census Designated Place|S|Natrona County
+WY|56|01695|Alpine town|Incorporated Place|A|Lincoln County
+WY|56|01888|Alpine Northeast CDP|Census Designated Place|S|Lincoln County
+WY|56|01936|Alpine Northwest CDP|Census Designated Place|S|Lincoln County
+WY|56|01985|Alta CDP|Census Designated Place|S|Teton County
+WY|56|02877|Antelope Hills CDP|Census Designated Place|S|Natrona County
+WY|56|02900|Antelope Valley-Crestview CDP|Census Designated Place|S|Campbell County
+WY|56|03000|Arapahoe CDP|Census Designated Place|S|Fremont County
+WY|56|03245|Arlington CDP|Census Designated Place|S|Carbon County
+WY|56|03652|Arrowhead Springs CDP|Census Designated Place|S|Sweetwater County
+WY|56|03725|Arvada CDP|Census Designated Place|S|Sheridan County
+WY|56|04015|Atlantic City CDP|Census Designated Place|S|Fremont County
+WY|56|04160|Auburn CDP|Census Designated Place|S|Lincoln County
+WY|56|04740|Baggs town|Incorporated Place|A|Carbon County
+WY|56|04885|Bairoil town|Incorporated Place|A|Sweetwater County
+WY|56|05245|Bar Nunn town|Incorporated Place|A|Natrona County
+WY|56|05320|Basin town|Incorporated Place|A|Big Horn County
+WY|56|05625|Bear River town|Incorporated Place|A|Uinta County
+WY|56|06045|Bedford CDP|Census Designated Place|S|Lincoln County
+WY|56|06407|Bessemer Bend CDP|Census Designated Place|S|Natrona County
+WY|56|06480|Beulah CDP|Census Designated Place|S|Crook County
+WY|56|06770|Big Horn CDP|Census Designated Place|S|Sheridan County
+WY|56|07060|Big Piney town|Incorporated Place|A|Sublette County
+WY|56|08365|Bondurant CDP|Census Designated Place|S|Sublette County
+WY|56|09235|Boulder CDP|Census Designated Place|S|Sublette County
+WY|56|09307|Boulder Flats CDP|Census Designated Place|S|Fremont County
+WY|56|10175|Brookhurst CDP|Census Designated Place|S|Natrona County
+WY|56|10685|Buffalo city|Incorporated Place|A|Johnson County
+WY|56|11120|Burlington town|Incorporated Place|A|Big Horn County
+WY|56|11265|Burns town|Incorporated Place|A|Laramie County
+WY|56|11700|Byron town|Incorporated Place|A|Big Horn County
+WY|56|12860|Carpenter CDP|Census Designated Place|S|Laramie County
+WY|56|13005|Carter CDP|Census Designated Place|S|Uinta County
+WY|56|13150|Casper city|Incorporated Place|A|Natrona County
+WY|56|13222|Casper Mountain CDP|Census Designated Place|S|Natrona County
+WY|56|13440|Centennial CDP|Census Designated Place|S|Albany County
+WY|56|13900|Cheyenne city|Incorporated Place|A|Laramie County
+WY|56|14097|Chugcreek CDP|Census Designated Place|S|Platte County
+WY|56|14165|Chugwater town|Incorporated Place|A|Platte County
+WY|56|15325|Clearmont town|Incorporated Place|A|Sheridan County
+WY|56|15400|Clearview Acres CDP|Census Designated Place|S|Sweetwater County
+WY|56|15760|Cody city|Incorporated Place|A|Park County
+WY|56|15905|Cokeville town|Incorporated Place|A|Lincoln County
+WY|56|17210|Cora CDP|Census Designated Place|S|Sublette County
+WY|56|17645|Cowley town|Incorporated Place|A|Big Horn County
+WY|56|18225|Crowheart CDP|Census Designated Place|S|Fremont County
+WY|56|18950|Daniel CDP|Census Designated Place|S|Sublette County
+WY|56|19385|Dayton town|Incorporated Place|A|Sheridan County
+WY|56|19530|Deaver town|Incorporated Place|A|Big Horn County
+WY|56|20110|Diamondville town|Incorporated Place|A|Lincoln County
+WY|56|20690|Dixon town|Incorporated Place|A|Carbon County
+WY|56|21125|Douglas city|Incorporated Place|A|Converse County
+WY|56|21415|Dubois town|Incorporated Place|A|Fremont County
+WY|56|22720|East Thermopolis town|Incorporated Place|A|Hot Springs County
+WY|56|23010|Eden CDP|Census Designated Place|S|Sweetwater County
+WY|56|23155|Edgerton town|Incorporated Place|A|Natrona County
+WY|56|24025|Elk Mountain town|Incorporated Place|A|Carbon County
+WY|56|24750|Encampment town|Incorporated Place|A|Carbon County
+WY|56|25185|Esterbrook CDP|Census Designated Place|S|Converse County
+WY|56|25330|Ethete CDP|Census Designated Place|S|Fremont County
+WY|56|25475|Etna CDP|Census Designated Place|S|Lincoln County
+WY|56|25620|Evanston city|Incorporated Place|A|Uinta County
+WY|56|25765|Evansville town|Incorporated Place|A|Natrona County
+WY|56|25910|Fairview CDP|Census Designated Place|S|Lincoln County
+WY|56|26055|Farson CDP|Census Designated Place|S|Sweetwater County
+WY|56|27650|Fontenelle CDP|Census Designated Place|S|Lincoln County
+WY|56|27940|Fort Bridger CDP|Census Designated Place|S|Uinta County
+WY|56|28230|Fort Laramie town|Incorporated Place|A|Goshen County
+WY|56|28665|Fort Washakie CDP|Census Designated Place|S|Fremont County
+WY|56|29300|Fox Farm-College CDP|Census Designated Place|S|Laramie County
+WY|56|29390|Fox Park CDP|Census Designated Place|S|Albany County
+WY|56|29825|Frannie town|Incorporated Place|A|Big Horn County, Park County
+WY|56|30115|Freedom CDP|Census Designated Place|S|Lincoln County
+WY|56|30985|Garland CDP|Census Designated Place|S|Park County
+WY|56|31855|Gillette city|Incorporated Place|A|Campbell County
+WY|56|32290|Glendo town|Incorporated Place|A|Platte County
+WY|56|32435|Glenrock town|Incorporated Place|A|Converse County
+WY|56|32870|Granger town|Incorporated Place|A|Sweetwater County
+WY|56|33740|Green River city|Incorporated Place|A|Sweetwater County
+WY|56|33885|Greybull town|Incorporated Place|A|Big Horn County
+WY|56|34030|Grover CDP|Census Designated Place|S|Lincoln County
+WY|56|34320|Guernsey town|Incorporated Place|A|Platte County
+WY|56|35335|Hanna town|Incorporated Place|A|Carbon County
+WY|56|35552|Hartrandt CDP|Census Designated Place|S|Natrona County
+WY|56|35625|Hartville town|Incorporated Place|A|Platte County
+WY|56|36060|Hawk Springs CDP|Census Designated Place|S|Goshen County
+WY|56|37510|Hillsdale CDP|Census Designated Place|S|Laramie County
+WY|56|37727|Hill View Heights CDP|Census Designated Place|S|Weston County
+WY|56|37945|Hoback CDP|Census Designated Place|S|Teton County
+WY|56|38307|Homa Hills CDP|Census Designated Place|S|Natrona County
+WY|56|38960|Hudson town|Incorporated Place|A|Fremont County
+WY|56|39105|Hulett town|Incorporated Place|A|Crook County
+WY|56|39250|Huntley CDP|Census Designated Place|S|Goshen County
+WY|56|39395|Hyattville CDP|Census Designated Place|S|Big Horn County
+WY|56|40120|Jackson town|Incorporated Place|A|Teton County
+WY|56|40265|James Town CDP|Census Designated Place|S|Sweetwater County
+WY|56|40555|Jeffrey City CDP|Census Designated Place|S|Fremont County
+WY|56|40945|Johnstown CDP|Census Designated Place|S|Fremont County
+WY|56|41353|Kaycee town|Incorporated Place|A|Johnson County
+WY|56|41860|Kelly CDP|Census Designated Place|S|Teton County
+WY|56|42005|Kemmerer city|Incorporated Place|A|Lincoln County
+WY|56|42730|Kirby town|Incorporated Place|A|Hot Springs County
+WY|56|43455|La Barge town|Incorporated Place|A|Lincoln County
+WY|56|43745|La Grange town|Incorporated Place|A|Goshen County
+WY|56|44252|Lakeview North CDP|Census Designated Place|S|Platte County
+WY|56|44615|Lance Creek CDP|Census Designated Place|S|Niobrara County
+WY|56|44760|Lander city|Incorporated Place|A|Fremont County
+WY|56|45050|Laramie city|Incorporated Place|A|Albany County
+WY|56|46790|Lingle town|Incorporated Place|A|Goshen County
+WY|56|46935|Little America CDP|Census Designated Place|S|Sweetwater County
+WY|56|47370|Lonetree CDP|Census Designated Place|S|Uinta County
+WY|56|47805|Lost Springs town|Incorporated Place|A|Converse County
+WY|56|47950|Lovell town|Incorporated Place|A|Big Horn County
+WY|56|48240|Lucerne CDP|Census Designated Place|S|Hot Springs County
+WY|56|48530|Lusk town|Incorporated Place|A|Niobrara County
+WY|56|48675|Lyman town|Incorporated Place|A|Uinta County
+WY|56|49400|McKinnon CDP|Census Designated Place|S|Sweetwater County
+WY|56|49775|Mammoth CDP|Census Designated Place|S|Park County
+WY|56|49980|Manderson town|Incorporated Place|A|Big Horn County
+WY|56|50270|Manville town|Incorporated Place|A|Niobrara County
+WY|56|50415|Marbleton town|Incorporated Place|A|Sublette County
+WY|56|51285|Meadow Acres CDP|Census Designated Place|S|Natrona County
+WY|56|51575|Medicine Bow town|Incorporated Place|A|Carbon County
+WY|56|51720|Meeteetse town|Incorporated Place|A|Park County
+WY|56|52445|Midwest town|Incorporated Place|A|Natrona County
+WY|56|53460|Mills town|Incorporated Place|A|Natrona County
+WY|56|54185|Moorcroft town|Incorporated Place|A|Crook County
+WY|56|54402|Moose Wilson Road CDP|Census Designated Place|S|Teton County
+WY|56|55200|Mountain View CDP|Census Designated Place|S|Natrona County
+WY|56|55345|Mountain View town|Incorporated Place|A|Uinta County
+WY|56|56215|Newcastle city|Incorporated Place|A|Weston County
+WY|56|56520|Nordic CDP|Census Designated Place|S|Lincoln County
+WY|56|56700|North Rock Springs CDP|Census Designated Place|S|Sweetwater County
+WY|56|57375|Oakley CDP|Census Designated Place|S|Lincoln County
+WY|56|57810|Opal town|Incorporated Place|A|Lincoln County
+WY|56|58100|Orin CDP|Census Designated Place|S|Converse County
+WY|56|58680|Osage CDP|Census Designated Place|S|Weston County
+WY|56|58970|Osmond CDP|Census Designated Place|S|Lincoln County
+WY|56|59332|Owl Creek CDP|Census Designated Place|S|Hot Springs County
+WY|56|59985|Parkman CDP|Census Designated Place|S|Sheridan County
+WY|56|60130|Pavillion town|Incorporated Place|A|Fremont County
+WY|56|61435|Pine Bluffs town|Incorporated Place|A|Laramie County
+WY|56|61580|Pinedale town|Incorporated Place|A|Sublette County
+WY|56|61610|Pine Haven town|Incorporated Place|A|Crook County
+WY|56|62305|Powder River CDP|Census Designated Place|S|Natrona County
+WY|56|62450|Powell city|Incorporated Place|A|Park County
+WY|56|62812|Purple Sage CDP|Census Designated Place|S|Sweetwater County
+WY|56|63100|Rafter J Ranch CDP|Census Designated Place|S|Teton County
+WY|56|63465|Ralston CDP|Census Designated Place|S|Park County
+WY|56|63755|Ranchester town|Incorporated Place|A|Sheridan County
+WY|56|63800|Ranchettes CDP|Census Designated Place|S|Laramie County
+WY|56|63900|Rawlins city|Incorporated Place|A|Carbon County
+WY|56|64400|Red Butte CDP|Census Designated Place|S|Natrona County
+WY|56|65060|Reliance CDP|Census Designated Place|S|Sweetwater County
+WY|56|66075|Riverside town|Incorporated Place|A|Carbon County
+WY|56|66220|Riverton city|Incorporated Place|A|Fremont County
+WY|56|66655|Robertson CDP|Census Designated Place|S|Uinta County
+WY|56|67090|Rock River town|Incorporated Place|A|Albany County
+WY|56|67235|Rock Springs city|Incorporated Place|A|Sweetwater County
+WY|56|67440|Rolling Hills town|Incorporated Place|A|Converse County
+WY|56|67670|Ryan Park CDP|Census Designated Place|S|Carbon County
+WY|56|68685|Saratoga town|Incorporated Place|A|Carbon County
+WY|56|69700|Shell CDP|Census Designated Place|S|Big Horn County
+WY|56|69845|Sheridan city|Incorporated Place|A|Sheridan County
+WY|56|70570|Shoshoni town|Incorporated Place|A|Fremont County
+WY|56|71150|Sinclair town|Incorporated Place|A|Carbon County
+WY|56|71295|Slater CDP|Census Designated Place|S|Platte County
+WY|56|71350|Sleepy Hollow CDP|Census Designated Place|S|Campbell County
+WY|56|71440|Smoot CDP|Census Designated Place|S|Lincoln County
+WY|56|71800|South Greeley CDP|Census Designated Place|S|Laramie County
+WY|56|71947|South Park CDP|Census Designated Place|S|Teton County
+WY|56|73180|Star Valley Ranch town|Incorporated Place|A|Lincoln County
+WY|56|73615|Story CDP|Census Designated Place|S|Sheridan County
+WY|56|74195|Sundance town|Incorporated Place|A|Crook County
+WY|56|74775|Superior town|Incorporated Place|A|Sweetwater County
+WY|56|75355|Table Rock CDP|Census Designated Place|S|Sweetwater County
+WY|56|75572|Taylor CDP|Census Designated Place|S|Lincoln County
+WY|56|75790|Ten Sleep town|Incorporated Place|A|Washakie County
+WY|56|75935|Teton Village CDP|Census Designated Place|S|Teton County
+WY|56|76370|Thayne town|Incorporated Place|A|Lincoln County
+WY|56|76515|Thermopolis town|Incorporated Place|A|Hot Springs County
+WY|56|77530|Torrington city|Incorporated Place|A|Goshen County
+WY|56|78400|Turnerville CDP|Census Designated Place|S|Lincoln County
+WY|56|79125|Upton town|Incorporated Place|A|Weston County
+WY|56|79270|Urie CDP|Census Designated Place|S|Uinta County
+WY|56|79705|Van Tassell town|Incorporated Place|A|Niobrara County
+WY|56|80285|Veteran CDP|Census Designated Place|S|Goshen County
+WY|56|80575|Vista West CDP|Census Designated Place|S|Natrona County
+WY|56|81300|Wamsutter town|Incorporated Place|A|Sweetwater County
+WY|56|81640|Warren AFB CDP|Census Designated Place|S|Laramie County
+WY|56|81703|Washam CDP|Census Designated Place|S|Sweetwater County
+WY|56|82967|Westview Circle CDP|Census Designated Place|S|Platte County
+WY|56|83040|Wheatland town|Incorporated Place|A|Platte County
+WY|56|83100|Whiting CDP|Census Designated Place|S|Platte County
+WY|56|83765|Wilson CDP|Census Designated Place|S|Teton County
+WY|56|84852|Woods Landing-Jelm CDP|Census Designated Place|S|Albany County
+WY|56|84925|Worland city|Incorporated Place|A|Washakie County
+WY|56|85015|Wright town|Incorporated Place|A|Campbell County
+WY|56|86665|Yoder town|Incorporated Place|A|Goshen County
+WY|56|86737|Y-O Ranch CDP|Census Designated Place|S|Platte County

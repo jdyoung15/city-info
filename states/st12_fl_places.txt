@@ -1,0 +1,920 @@
+FL|12|00075|Acacia Villas CDP|Census Designated Place|S|Palm Beach County
+FL|12|00375|Alachua city|Incorporated Place|A|Alachua County
+FL|12|00410|Alafaya CDP|Census Designated Place|S|Orange County
+FL|12|00625|Alford town|Incorporated Place|A|Jackson County
+FL|12|00800|Allentown CDP|Census Designated Place|S|Santa Rosa County
+FL|12|00950|Altamonte Springs city|Incorporated Place|A|Seminole County
+FL|12|01000|Altha town|Incorporated Place|A|Calhoun County
+FL|12|01050|Altoona CDP|Census Designated Place|S|Lake County
+FL|12|01100|Alturas CDP|Census Designated Place|S|Polk County
+FL|12|01125|Alva CDP|Census Designated Place|S|Lee County
+FL|12|01353|Andrews CDP|Census Designated Place|S|Levy County
+FL|12|01475|Anna Maria city|Incorporated Place|A|Manatee County
+FL|12|01625|Apalachicola city|Incorporated Place|A|Franklin County
+FL|12|01675|Apollo Beach CDP|Census Designated Place|S|Hillsborough County
+FL|12|01700|Apopka city|Incorporated Place|A|Orange County
+FL|12|01750|Arcadia city|Incorporated Place|A|DeSoto County
+FL|12|01775|Archer city|Incorporated Place|A|Alachua County
+FL|12|01875|Aripeka CDP|Census Designated Place|S|Hernando County, Pasco County
+FL|12|02187|Asbury Lake CDP|Census Designated Place|S|Clay County
+FL|12|02250|Astatula town|Incorporated Place|A|Lake County
+FL|12|02275|Astor CDP|Census Designated Place|S|Lake County
+FL|12|02400|Atlantic Beach city|Incorporated Place|A|Duval County
+FL|12|02500|Atlantis city|Incorporated Place|A|Palm Beach County
+FL|12|02550|Auburndale city|Incorporated Place|A|Polk County
+FL|12|02575|Aucilla CDP|Census Designated Place|S|Jefferson County
+FL|12|02660|Avalon CDP|Census Designated Place|S|Santa Rosa County
+FL|12|02681|Aventura city|Incorporated Place|A|Miami-Dade County
+FL|12|02750|Avon Park city|Incorporated Place|A|Highlands County
+FL|12|02850|Azalea Park CDP|Census Designated Place|S|Orange County
+FL|12|02900|Babson Park CDP|Census Designated Place|S|Polk County
+FL|12|02925|Bagdad CDP|Census Designated Place|S|Santa Rosa County
+FL|12|03250|Baldwin town|Incorporated Place|A|Duval County
+FL|12|03275|Bal Harbour village|Incorporated Place|A|Miami-Dade County
+FL|12|03375|Balm CDP|Census Designated Place|S|Hillsborough County
+FL|12|03480|Bardmoor CDP|Census Designated Place|S|Pinellas County
+FL|12|03675|Bartow city|Incorporated Place|A|Polk County
+FL|12|03725|Bascom town|Incorporated Place|A|Jackson County
+FL|12|03975|Bay Harbor Islands town|Incorporated Place|A|Miami-Dade County
+FL|12|04070|Bay Hill CDP|Census Designated Place|S|Orange County
+FL|12|04150|Bay Lake city|Incorporated Place|A|Orange County
+FL|12|04162|Bayonet Point CDP|Census Designated Place|S|Pasco County
+FL|12|04200|Bay Pines CDP|Census Designated Place|S|Pinellas County
+FL|12|04250|Bayport CDP|Census Designated Place|S|Hernando County
+FL|12|04350|Bayshore Gardens CDP|Census Designated Place|S|Manatee County
+FL|12|04650|Beacon Square CDP|Census Designated Place|S|Pasco County
+FL|12|04735|Bear Creek CDP|Census Designated Place|S|Pinellas County
+FL|12|04925|Bee Ridge CDP|Census Designated Place|S|Sarasota County
+FL|12|04975|Bell town|Incorporated Place|A|Gilchrist County
+FL|12|05025|Bellair-Meadowbrook Terrace CDP|Census Designated Place|S|Clay County
+FL|12|05075|Belleair town|Incorporated Place|A|Pinellas County
+FL|12|05100|Belleair Beach city|Incorporated Place|A|Pinellas County
+FL|12|05125|Belleair Bluffs city|Incorporated Place|A|Pinellas County
+FL|12|05150|Belleair Shore town|Incorporated Place|A|Pinellas County
+FL|12|05200|Belle Glade city|Incorporated Place|A|Palm Beach County
+FL|12|05300|Belle Isle city|Incorporated Place|A|Orange County
+FL|12|05375|Belleview city|Incorporated Place|A|Marion County
+FL|12|05462|Bellview CDP|Census Designated Place|S|Escambia County
+FL|12|05825|Berrydale CDP|Census Designated Place|S|Santa Rosa County
+FL|12|06100|Beverly Beach town|Incorporated Place|A|Flagler County
+FL|12|06125|Beverly Hills CDP|Census Designated Place|S|Citrus County
+FL|12|06350|Big Coppitt Key CDP|Census Designated Place|S|Monroe County
+FL|12|06425|Big Pine Key CDP|Census Designated Place|S|Monroe County
+FL|12|06600|Biscayne Park village|Incorporated Place|A|Miami-Dade County
+FL|12|06625|Bithlo CDP|Census Designated Place|S|Orange County
+FL|12|06667|Black Diamond CDP|Census Designated Place|S|Citrus County
+FL|12|06670|Black Hammock CDP|Census Designated Place|S|Seminole County
+FL|12|06875|Bloomingdale CDP|Census Designated Place|S|Hillsborough County
+FL|12|06925|Blountstown city|Incorporated Place|A|Calhoun County
+FL|12|07300|Boca Raton city|Incorporated Place|A|Palm Beach County
+FL|12|07375|Bokeelia CDP|Census Designated Place|S|Lee County
+FL|12|07450|Bonifay city|Incorporated Place|A|Holmes County
+FL|12|07525|Bonita Springs city|Incorporated Place|A|Lee County
+FL|12|07687|Boulevard Gardens CDP|Census Designated Place|S|Broward County
+FL|12|07775|Bowling Green city|Incorporated Place|A|Hardee County
+FL|12|07875|Boynton Beach city|Incorporated Place|A|Palm Beach County
+FL|12|07950|Bradenton city|Incorporated Place|A|Manatee County
+FL|12|07975|Bradenton Beach city|Incorporated Place|A|Manatee County
+FL|12|08125|Bradley Junction CDP|Census Designated Place|S|Polk County
+FL|12|08150|Brandon CDP|Census Designated Place|S|Hillsborough County
+FL|12|08175|Branford town|Incorporated Place|A|Suwannee County
+FL|12|08300|Brent CDP|Census Designated Place|S|Escambia County
+FL|12|08450|Brewster CDP|Census Designated Place|S|Polk County
+FL|12|08575|Briny Breezes town|Incorporated Place|A|Palm Beach County
+FL|12|08600|Bristol city|Incorporated Place|A|Liberty County
+FL|12|08650|Broadview Park CDP|Census Designated Place|S|Broward County
+FL|12|08700|Bronson town|Incorporated Place|A|Levy County
+FL|12|08725|Brooker town|Incorporated Place|A|Bradford County
+FL|12|08762|Brookridge CDP|Census Designated Place|S|Hernando County
+FL|12|08800|Brooksville city|Incorporated Place|A|Hernando County
+FL|12|08925|Brownsdale CDP|Census Designated Place|S|Santa Rosa County
+FL|12|09000|Brownsville CDP|Census Designated Place|S|Miami-Dade County
+FL|12|09315|Buckhead Ridge CDP|Census Designated Place|S|Glades County
+FL|12|09350|Buckingham CDP|Census Designated Place|S|Lee County
+FL|12|09415|Buenaventura Lakes CDP|Census Designated Place|S|Osceola County
+FL|12|09550|Bunnell city|Incorporated Place|A|Flagler County
+FL|12|09612|Burnt Store Marina CDP|Census Designated Place|S|Lee County
+FL|12|09625|Bushnell city|Incorporated Place|A|Sumter County
+FL|12|09630|Butler Beach CDP|Census Designated Place|S|St. Johns County
+FL|12|09655|Cabana Colony CDP|Census Designated Place|S|Palm Beach County
+FL|12|09700|Callahan town|Incorporated Place|A|Nassau County
+FL|12|09725|Callaway city|Incorporated Place|A|Bay County
+FL|12|09875|Campbell CDP|Census Designated Place|S|Osceola County
+FL|12|09900|Campbellton town|Incorporated Place|A|Jackson County
+FL|12|10100|Canal Point CDP|Census Designated Place|S|Palm Beach County
+FL|12|10250|Cape Canaveral city|Incorporated Place|A|Brevard County
+FL|12|10275|Cape Coral city|Incorporated Place|A|Lee County
+FL|12|10425|Captiva CDP|Census Designated Place|S|Lee County
+FL|12|10725|Carrabelle city|Incorporated Place|A|Franklin County
+FL|12|10825|Carrollwood CDP|Census Designated Place|S|Hillsborough County
+FL|12|10975|Caryville town|Incorporated Place|A|Washington County
+FL|12|11050|Casselberry city|Incorporated Place|A|Seminole County
+FL|12|11150|Cedar Grove CDP|Census Designated Place|S|Bay County
+FL|12|11225|Cedar Key city|Incorporated Place|A|Levy County
+FL|12|11285|Celebration CDP|Census Designated Place|S|Osceola County
+FL|12|11325|Center Hill city|Incorporated Place|A|Sumter County
+FL|12|11362|Century town|Incorporated Place|A|Escambia County
+FL|12|11597|Charleston Park CDP|Census Designated Place|S|Lee County
+FL|12|11625|Charlotte Harbor CDP|Census Designated Place|S|Charlotte County
+FL|12|11650|Charlotte Park CDP|Census Designated Place|S|Charlotte County
+FL|12|11800|Chattahoochee city|Incorporated Place|A|Gadsden County
+FL|12|11912|Cheval CDP|Census Designated Place|S|Hillsborough County
+FL|12|11925|Chiefland city|Incorporated Place|A|Levy County
+FL|12|11975|Chipley city|Incorporated Place|A|Washington County
+FL|12|12150|Chokoloskee CDP|Census Designated Place|S|Collier County
+FL|12|12250|Christmas CDP|Census Designated Place|S|Orange County
+FL|12|12275|Chuluota CDP|Census Designated Place|S|Seminole County
+FL|12|12300|Chumuckla CDP|Census Designated Place|S|Santa Rosa County
+FL|12|12325|Cinco Bayou town|Incorporated Place|A|Okaloosa County
+FL|12|12412|Citrus Hills CDP|Census Designated Place|S|Citrus County
+FL|12|12425|Citrus Park CDP|Census Designated Place|S|Hillsborough County
+FL|12|12450|Citrus Springs CDP|Census Designated Place|S|Citrus County
+FL|12|12675|Clarcona CDP|Census Designated Place|S|Orange County
+FL|12|12875|Clearwater city|Incorporated Place|A|Pinellas County
+FL|12|12925|Clermont city|Incorporated Place|A|Lake County
+FL|12|12950|Cleveland CDP|Census Designated Place|S|Charlotte County
+FL|12|13000|Clewiston city|Incorporated Place|A|Hendry County
+FL|12|13050|Cloud Lake town|Incorporated Place|A|Palm Beach County
+FL|12|13125|Cobbtown CDP|Census Designated Place|S|Santa Rosa County
+FL|12|13150|Cocoa city|Incorporated Place|A|Brevard County
+FL|12|13175|Cocoa Beach city|Incorporated Place|A|Brevard County
+FL|12|13225|Cocoa West CDP|Census Designated Place|S|Brevard County
+FL|12|13275|Coconut Creek city|Incorporated Place|A|Broward County
+FL|12|13400|Coleman city|Incorporated Place|A|Sumter County
+FL|12|13775|Combee Settlement CDP|Census Designated Place|S|Polk County
+FL|12|13965|Connerton CDP|Census Designated Place|S|Pasco County
+FL|12|14050|Conway CDP|Census Designated Place|S|Orange County
+FL|12|14125|Cooper City city|Incorporated Place|A|Broward County
+FL|12|14250|Coral Gables city|Incorporated Place|A|Miami-Dade County
+FL|12|14400|Coral Springs city|Incorporated Place|A|Broward County
+FL|12|14412|Coral Terrace CDP|Census Designated Place|S|Miami-Dade County
+FL|12|14700|Cortez CDP|Census Designated Place|S|Manatee County
+FL|12|14850|Cottondale town|Incorporated Place|A|Jackson County
+FL|12|14895|Country Club CDP|Census Designated Place|S|Miami-Dade County
+FL|12|15055|Country Walk CDP|Census Designated Place|S|Miami-Dade County
+FL|12|15300|Crawfordville CDP|Census Designated Place|S|Wakulla County
+FL|12|15325|Crescent Beach CDP|Census Designated Place|S|St. Johns County
+FL|12|15375|Crescent City city|Incorporated Place|A|Putnam County
+FL|12|15475|Crestview city|Incorporated Place|A|Okaloosa County
+FL|12|15515|Crooked Lake Park CDP|Census Designated Place|S|Polk County
+FL|12|15575|Cross City town|Incorporated Place|A|Dixie County
+FL|12|15725|Crystal Lake CDP|Census Designated Place|S|Polk County
+FL|12|15775|Crystal River city|Incorporated Place|A|Citrus County
+FL|12|15800|Crystal Springs CDP|Census Designated Place|S|Pasco County
+FL|12|15862|Cudjoe Key CDP|Census Designated Place|S|Monroe County
+FL|12|15968|Cutler Bay town|Incorporated Place|A|Miami-Dade County
+FL|12|16050|Cypress Gardens CDP|Census Designated Place|S|Polk County
+FL|12|16062|Cypress Lake CDP|Census Designated Place|S|Lee County
+FL|12|16100|Cypress Quarters CDP|Census Designated Place|S|Okeechobee County
+FL|12|16125|Dade City city|Incorporated Place|A|Pasco County
+FL|12|16175|Dade City North CDP|Census Designated Place|S|Pasco County
+FL|12|16335|Dania Beach city|Incorporated Place|A|Broward County
+FL|12|16450|Davenport city|Incorporated Place|A|Polk County
+FL|12|16475|Davie town|Incorporated Place|A|Broward County
+FL|12|16500|Day CDP|Census Designated Place|S|Lafayette County
+FL|12|16525|Daytona Beach city|Incorporated Place|A|Volusia County
+FL|12|16550|Daytona Beach Shores city|Incorporated Place|A|Volusia County
+FL|12|16675|DeBary city|Incorporated Place|A|Volusia County
+FL|12|16725|Deerfield Beach city|Incorporated Place|A|Broward County
+FL|12|16800|De Funiak Springs city|Incorporated Place|A|Walton County
+FL|12|16875|DeLand city|Incorporated Place|A|Volusia County
+FL|12|16937|DeLand Southwest CDP|Census Designated Place|S|Volusia County
+FL|12|16975|De Leon Springs CDP|Census Designated Place|S|Volusia County
+FL|12|17100|Delray Beach city|Incorporated Place|A|Palm Beach County
+FL|12|17200|Deltona city|Incorporated Place|A|Volusia County
+FL|12|17300|Desoto Lakes CDP|Census Designated Place|S|Sarasota County
+FL|12|17325|Destin city|Incorporated Place|A|Okaloosa County
+FL|12|17450|Dickerson City CDP|Census Designated Place|S|Santa Rosa County
+FL|12|17710|Dixonville CDP|Census Designated Place|S|Santa Rosa County
+FL|12|17725|Doctor Phillips CDP|Census Designated Place|S|Orange County
+FL|12|17935|Doral city|Incorporated Place|A|Miami-Dade County
+FL|12|18075|Dover CDP|Census Designated Place|S|Hillsborough County
+FL|12|18425|Duck Key CDP|Census Designated Place|S|Monroe County
+FL|12|18550|Dundee town|Incorporated Place|A|Polk County
+FL|12|18575|Dunedin city|Incorporated Place|A|Pinellas County
+FL|12|18675|Dunnellon city|Incorporated Place|A|Marion County
+FL|12|18875|Eagle Lake city|Incorporated Place|A|Polk County
+FL|12|19025|East Bronson CDP|Census Designated Place|S|Levy County
+FL|12|19206|East Lake CDP|Census Designated Place|S|Pinellas County
+FL|12|19212|East Lake-Orient Park CDP|Census Designated Place|S|Hillsborough County
+FL|12|19275|East Milton CDP|Census Designated Place|S|Santa Rosa County
+FL|12|19350|East Palatka CDP|Census Designated Place|S|Putnam County
+FL|12|19400|Eastpoint CDP|Census Designated Place|S|Franklin County
+FL|12|19575|East Williston CDP|Census Designated Place|S|Levy County
+FL|12|19650|Eatonville town|Incorporated Place|A|Orange County
+FL|12|19725|Ebro town|Incorporated Place|A|Washington County
+FL|12|19825|Edgewater city|Incorporated Place|A|Volusia County
+FL|12|19900|Edgewood city|Incorporated Place|A|Orange County
+FL|12|20050|Eglin AFB CDP|Census Designated Place|S|Okaloosa County
+FL|12|20108|Egypt Lake-Leto CDP|Census Designated Place|S|Hillsborough County
+FL|12|20275|Elfers CDP|Census Designated Place|S|Pasco County
+FL|12|20375|Ellenton CDP|Census Designated Place|S|Manatee County
+FL|12|20650|El Portal village|Incorporated Place|A|Miami-Dade County
+FL|12|20825|Englewood CDP|Census Designated Place|S|Charlotte County, Sarasota County
+FL|12|20925|Ensley CDP|Census Designated Place|S|Escambia County
+FL|12|21150|Estero CDP|Census Designated Place|S|Lee County
+FL|12|21250|Esto town|Incorporated Place|A|Holmes County
+FL|12|21350|Eustis city|Incorporated Place|A|Lake County
+FL|12|21425|Everglades city|Incorporated Place|A|Collier County
+FL|12|21750|Fairview Shores CDP|Census Designated Place|S|Orange County
+FL|12|21850|Fanning Springs city|Incorporated Place|A|Gilchrist County, Levy County
+FL|12|21945|Feather Sound CDP|Census Designated Place|S|Pinellas County
+FL|12|22100|Fellsmere city|Incorporated Place|A|Indian River County
+FL|12|22175|Fernandina Beach city|Incorporated Place|A|Nassau County
+FL|12|22225|Ferndale CDP|Census Designated Place|S|Lake County
+FL|12|22250|Fern Park CDP|Census Designated Place|S|Seminole County
+FL|12|22275|Ferry Pass CDP|Census Designated Place|S|Escambia County
+FL|12|22325|Fidelis CDP|Census Designated Place|S|Santa Rosa County
+FL|12|22375|Fisher Island CDP|Census Designated Place|S|Miami-Dade County
+FL|12|22387|Fish Hawk CDP|Census Designated Place|S|Hillsborough County
+FL|12|22475|Five Points CDP|Census Designated Place|S|Columbia County
+FL|12|22550|Flagler Beach city|Incorporated Place|A|Flagler County, Volusia County
+FL|12|22560|Flagler Estates CDP|Census Designated Place|S|St. Johns County
+FL|12|22660|Fleming Island CDP|Census Designated Place|S|Clay County
+FL|12|22775|Floral City CDP|Census Designated Place|S|Citrus County
+FL|12|22975|Florida City city|Incorporated Place|A|Miami-Dade County
+FL|12|23050|Florida Ridge CDP|Census Designated Place|S|Indian River County
+FL|12|23125|Floridatown CDP|Census Designated Place|S|Santa Rosa County
+FL|12|23375|Forest City CDP|Census Designated Place|S|Seminole County
+FL|12|23730|Fort Denaud CDP|Census Designated Place|S|Hendry County
+FL|12|23850|Fort Green CDP|Census Designated Place|S|Hardee County
+FL|12|23875|Fort Green Springs CDP|Census Designated Place|S|Hardee County
+FL|12|24000|Fort Lauderdale city|Incorporated Place|A|Broward County
+FL|12|24100|Fort Meade city|Incorporated Place|A|Polk County
+FL|12|24125|Fort Myers city|Incorporated Place|A|Lee County
+FL|12|24150|Fort Myers Beach town|Incorporated Place|A|Lee County
+FL|12|24175|Fort Myers Shores CDP|Census Designated Place|S|Lee County
+FL|12|24300|Fort Pierce city|Incorporated Place|A|St. Lucie County
+FL|12|24337|Fort Pierce North CDP|Census Designated Place|S|St. Lucie County
+FL|12|24387|Fort Pierce South CDP|Census Designated Place|S|St. Lucie County
+FL|12|24475|Fort Walton Beach city|Incorporated Place|A|Okaloosa County
+FL|12|24500|Fort White town|Incorporated Place|A|Columbia County
+FL|12|24562|Fountainebleau CDP|Census Designated Place|S|Miami-Dade County
+FL|12|24581|Four Corners CDP|Census Designated Place|S|Lake County, Orange County, Osceola County, Polk County
+FL|12|24710|Franklin Park CDP|Census Designated Place|S|Broward County
+FL|12|24825|Freeport city|Incorporated Place|A|Walton County
+FL|12|24900|Frostproof city|Incorporated Place|A|Polk County
+FL|12|24925|Fruit Cove CDP|Census Designated Place|S|St. Johns County
+FL|12|24975|Fruitland Park city|Incorporated Place|A|Lake County
+FL|12|25000|Fruitville CDP|Census Designated Place|S|Sarasota County
+FL|12|25025|Fuller Heights CDP|Census Designated Place|S|Polk County
+FL|12|25125|Fussels Corner CDP|Census Designated Place|S|Polk County
+FL|12|25175|Gainesville city|Incorporated Place|A|Alachua County
+FL|12|25392|Garcon Point CDP|Census Designated Place|S|Santa Rosa County
+FL|12|25475|Garden Grove CDP|Census Designated Place|S|Hernando County
+FL|12|25550|Gardner CDP|Census Designated Place|S|Hardee County
+FL|12|25655|Gateway CDP|Census Designated Place|S|Lee County
+FL|12|25750|Geneva CDP|Census Designated Place|S|Seminole County
+FL|12|25900|Gibsonton CDP|Census Designated Place|S|Hillsborough County
+FL|12|25925|Gifford CDP|Census Designated Place|S|Indian River County
+FL|12|25987|Gladeview CDP|Census Designated Place|S|Miami-Dade County
+FL|12|26000|Glencoe CDP|Census Designated Place|S|Volusia County
+FL|12|26050|Glen Ridge town|Incorporated Place|A|Palm Beach County
+FL|12|26075|Glen St. Mary town|Incorporated Place|A|Baker County
+FL|12|26100|Glenvar Heights CDP|Census Designated Place|S|Miami-Dade County
+FL|12|26250|Golden Beach town|Incorporated Place|A|Miami-Dade County
+FL|12|26300|Golden Gate CDP|Census Designated Place|S|Collier County
+FL|12|26375|Golden Glades CDP|Census Designated Place|S|Miami-Dade County
+FL|12|26475|Goldenrod CDP|Census Designated Place|S|Orange County, Seminole County
+FL|12|26550|Golf village|Incorporated Place|A|Palm Beach County
+FL|12|26700|Gonzalez CDP|Census Designated Place|S|Escambia County
+FL|12|26775|Goodland CDP|Census Designated Place|S|Collier County
+FL|12|26900|Gotha CDP|Census Designated Place|S|Orange County
+FL|12|26925|Goulding CDP|Census Designated Place|S|Escambia County
+FL|12|26950|Goulds CDP|Census Designated Place|S|Miami-Dade County
+FL|12|27000|Graceville city|Incorporated Place|A|Jackson County
+FL|12|27175|Grand Ridge town|Incorporated Place|A|Jackson County
+FL|12|27256|Grant-Valkaria town|Incorporated Place|A|Brevard County
+FL|12|27322|Greenacres city|Incorporated Place|A|Palm Beach County
+FL|12|27360|Greenbriar CDP|Census Designated Place|S|Pinellas County
+FL|12|27400|Green Cove Springs city|Incorporated Place|A|Clay County
+FL|12|27550|Greensboro town|Incorporated Place|A|Gadsden County
+FL|12|27575|Greenville town|Incorporated Place|A|Madison County
+FL|12|27600|Greenwood town|Incorporated Place|A|Jackson County
+FL|12|27635|Grenelefe CDP|Census Designated Place|S|Polk County
+FL|12|27650|Gretna city|Incorporated Place|A|Gadsden County
+FL|12|27775|Grove City CDP|Census Designated Place|S|Charlotte County
+FL|12|27800|Groveland city|Incorporated Place|A|Lake County
+FL|12|28000|Gulf Breeze city|Incorporated Place|A|Santa Rosa County
+FL|12|28050|Gulf Gate Estates CDP|Census Designated Place|S|Sarasota County
+FL|12|28175|Gulfport city|Incorporated Place|A|Pinellas County
+FL|12|28275|Gulf Stream town|Incorporated Place|A|Palm Beach County
+FL|12|28305|Gun Club Estates CDP|Census Designated Place|S|Palm Beach County
+FL|12|28400|Haines City city|Incorporated Place|A|Polk County
+FL|12|28452|Hallandale Beach city|Incorporated Place|A|Broward County
+FL|12|28575|Hampton city|Incorporated Place|A|Bradford County
+FL|12|28650|Harbor Bluffs CDP|Census Designated Place|S|Pinellas County
+FL|12|28800|Harbour Heights CDP|Census Designated Place|S|Charlotte County
+FL|12|28925|Harlem CDP|Census Designated Place|S|Hendry County
+FL|12|28937|Harlem Heights CDP|Census Designated Place|S|Lee County
+FL|12|29000|Harold CDP|Census Designated Place|S|Santa Rosa County
+FL|12|29100|Hastings town|Incorporated Place|A|St. Johns County
+FL|12|29150|Havana town|Incorporated Place|A|Gadsden County
+FL|12|29200|Haverhill town|Incorporated Place|A|Palm Beach County
+FL|12|29275|Hawthorne city|Incorporated Place|A|Alachua County
+FL|12|29320|Heathrow CDP|Census Designated Place|S|Seminole County
+FL|12|29385|Heritage Pines CDP|Census Designated Place|S|Pasco County
+FL|12|29425|Hernando CDP|Census Designated Place|S|Citrus County
+FL|12|29437|Hernando Beach CDP|Census Designated Place|S|Hernando County
+FL|12|30000|Hialeah city|Incorporated Place|A|Miami-Dade County
+FL|12|30025|Hialeah Gardens city|Incorporated Place|A|Miami-Dade County
+FL|12|30200|Highland Beach town|Incorporated Place|A|Palm Beach County
+FL|12|30225|Highland City CDP|Census Designated Place|S|Polk County
+FL|12|30325|Highland Park village|Incorporated Place|A|Polk County
+FL|12|30494|High Point CDP|Census Designated Place|S|Hernando County
+FL|12|30525|High Springs city|Incorporated Place|A|Alachua County
+FL|12|30700|Hillcrest Heights town|Incorporated Place|A|Polk County
+FL|12|30750|Hilliard town|Incorporated Place|A|Nassau County
+FL|12|30800|Hill 'n Dale CDP|Census Designated Place|S|Hernando County
+FL|12|30850|Hillsboro Beach town|Incorporated Place|A|Broward County
+FL|12|30858|Hillsboro Pines CDP|Census Designated Place|S|Broward County
+FL|12|30975|Hobe Sound CDP|Census Designated Place|S|Martin County
+FL|12|31025|Holden Heights CDP|Census Designated Place|S|Orange County
+FL|12|31075|Holiday CDP|Census Designated Place|S|Pasco County
+FL|12|31275|Holley CDP|Census Designated Place|S|Santa Rosa County
+FL|12|31350|Holly Hill city|Incorporated Place|A|Volusia County
+FL|12|32000|Hollywood city|Incorporated Place|A|Broward County
+FL|12|32150|Holmes Beach city|Incorporated Place|A|Manatee County
+FL|12|32250|Homeland CDP|Census Designated Place|S|Polk County
+FL|12|32275|Homestead city|Incorporated Place|A|Miami-Dade County
+FL|12|32325|Homestead Base CDP|Census Designated Place|S|Miami-Dade County
+FL|12|32375|Homosassa CDP|Census Designated Place|S|Citrus County
+FL|12|32400|Homosassa Springs CDP|Census Designated Place|S|Citrus County
+FL|12|32610|Horizon West CDP|Census Designated Place|S|Orange County
+FL|12|32650|Horseshoe Beach town|Incorporated Place|A|Dixie County
+FL|12|32675|Hosford CDP|Census Designated Place|S|Liberty County
+FL|12|32775|Howey-in-the-Hills town|Incorporated Place|A|Lake County
+FL|12|32825|Hudson CDP|Census Designated Place|S|Pasco County
+FL|12|32967|Hunters Creek CDP|Census Designated Place|S|Orange County
+FL|12|32993|Hutchinson Island South CDP|Census Designated Place|S|St. Lucie County
+FL|12|33150|Hypoluxo town|Incorporated Place|A|Palm Beach County
+FL|12|33250|Immokalee CDP|Census Designated Place|S|Collier County
+FL|12|33375|Indialantic town|Incorporated Place|A|Brevard County
+FL|12|33425|Indian Creek village|Incorporated Place|A|Miami-Dade County
+FL|12|33450|Indian Harbour Beach city|Incorporated Place|A|Brevard County
+FL|12|33585|Indian River Estates CDP|Census Designated Place|S|St. Lucie County
+FL|12|33600|Indian River Shores town|Incorporated Place|A|Indian River County
+FL|12|33625|Indian Rocks Beach city|Incorporated Place|A|Pinellas County
+FL|12|33675|Indian Shores town|Incorporated Place|A|Pinellas County
+FL|12|33700|Indiantown CDP|Census Designated Place|S|Martin County
+FL|12|33800|Inglis town|Incorporated Place|A|Levy County
+FL|12|33900|Interlachen town|Incorporated Place|A|Putnam County
+FL|12|33950|Inverness city|Incorporated Place|A|Citrus County
+FL|12|33958|Inverness Highlands North CDP|Census Designated Place|S|Citrus County
+FL|12|33966|Inverness Highlands South CDP|Census Designated Place|S|Citrus County
+FL|12|34000|Inwood CDP|Census Designated Place|S|Polk County
+FL|12|34012|Iona CDP|Census Designated Place|S|Lee County
+FL|12|34132|Islamorada, Village of Islands village|Incorporated Place|A|Monroe County
+FL|12|34175|Islandia city|Incorporated Place|I|Miami-Dade County
+FL|12|34185|Island Walk CDP|Census Designated Place|S|Collier County
+FL|12|34275|Istachatta CDP|Census Designated Place|S|Hernando County
+FL|12|34400|Ives Estates CDP|Census Designated Place|S|Miami-Dade County
+FL|12|35000|Jacksonville city|Incorporated Place|A|Duval County
+FL|12|35050|Jacksonville Beach city|Incorporated Place|A|Duval County
+FL|12|35200|Jacob City city|Incorporated Place|A|Jackson County
+FL|12|35300|Jan Phyl Village CDP|Census Designated Place|S|Polk County
+FL|12|35350|Jasmine Estates CDP|Census Designated Place|S|Pasco County
+FL|12|35375|Jasper city|Incorporated Place|A|Hamilton County
+FL|12|35425|Jay town|Incorporated Place|A|Santa Rosa County
+FL|12|35525|Jennings town|Incorporated Place|A|Hamilton County
+FL|12|35550|Jensen Beach CDP|Census Designated Place|S|Martin County
+FL|12|35800|June Park CDP|Census Designated Place|S|Brevard County
+FL|12|35850|Juno Beach town|Incorporated Place|A|Palm Beach County
+FL|12|35862|Juno Ridge CDP|Census Designated Place|S|Palm Beach County
+FL|12|35875|Jupiter town|Incorporated Place|A|Palm Beach County
+FL|12|35890|Jupiter Farms CDP|Census Designated Place|S|Palm Beach County
+FL|12|35900|Jupiter Inlet Colony town|Incorporated Place|A|Palm Beach County
+FL|12|35925|Jupiter Island town|Incorporated Place|A|Martin County
+FL|12|35950|Kathleen CDP|Census Designated Place|S|Polk County
+FL|12|36062|Kendale Lakes CDP|Census Designated Place|S|Miami-Dade County
+FL|12|36100|Kendall CDP|Census Designated Place|S|Miami-Dade County
+FL|12|36121|Kendall West CDP|Census Designated Place|S|Miami-Dade County
+FL|12|36175|Kenneth City town|Incorporated Place|A|Pinellas County
+FL|12|36200|Kensington Park CDP|Census Designated Place|S|Sarasota County
+FL|12|36220|Kenwood Estates CDP|Census Designated Place|S|Palm Beach County
+FL|12|36300|Key Biscayne village|Incorporated Place|A|Miami-Dade County
+FL|12|36325|Key Colony Beach city|Incorporated Place|A|Monroe County
+FL|12|36375|Key Largo CDP|Census Designated Place|S|Monroe County
+FL|12|36462|Keystone CDP|Census Designated Place|S|Hillsborough County
+FL|12|36475|Keystone Heights city|Incorporated Place|A|Clay County
+FL|12|36535|Key Vista CDP|Census Designated Place|S|Pasco County
+FL|12|36550|Key West city|Incorporated Place|A|Monroe County
+FL|12|36950|Kissimmee city|Incorporated Place|A|Osceola County
+FL|12|37225|LaBelle city|Incorporated Place|A|Hendry County
+FL|12|37275|Lacoochee CDP|Census Designated Place|S|Pasco County
+FL|12|37300|La Crosse town|Incorporated Place|A|Alachua County
+FL|12|37375|Lady Lake town|Incorporated Place|A|Lake County
+FL|12|37500|Laguna Beach CDP|Census Designated Place|S|Bay County
+FL|12|37525|Lake Alfred city|Incorporated Place|A|Polk County
+FL|12|37542|Lake Belvedere Estates CDP|Census Designated Place|S|Palm Beach County
+FL|12|37625|Lake Buena Vista city|Incorporated Place|A|Orange County
+FL|12|37648|Lake Butler CDP|Census Designated Place|S|Orange County
+FL|12|37650|Lake Butler city|Incorporated Place|A|Union County
+FL|12|37775|Lake City city|Incorporated Place|A|Columbia County
+FL|12|37800|Lake Clarke Shores town|Incorporated Place|A|Palm Beach County
+FL|12|37975|Lake Hamilton town|Incorporated Place|A|Polk County
+FL|12|38000|Lake Harbor CDP|Census Designated Place|S|Palm Beach County
+FL|12|38012|Lake Hart CDP|Census Designated Place|S|Orange County
+FL|12|38025|Lake Helen city|Incorporated Place|A|Volusia County
+FL|12|38162|Lake Kathryn CDP|Census Designated Place|S|Lake County
+FL|12|38250|Lakeland city|Incorporated Place|A|Polk County
+FL|12|38262|Lakeland Highlands CDP|Census Designated Place|S|Polk County
+FL|12|38275|Lake Lindsey CDP|Census Designated Place|S|Hernando County
+FL|12|38287|Lake Lorraine CDP|Census Designated Place|S|Okaloosa County
+FL|12|38332|Lake Mack-Forest Hills CDP|Census Designated Place|S|Lake County
+FL|12|38350|Lake Magdalene CDP|Census Designated Place|S|Hillsborough County
+FL|12|38425|Lake Mary city|Incorporated Place|A|Seminole County
+FL|12|38430|Lake Mary Jane CDP|Census Designated Place|S|Orange County
+FL|12|38519|Lake Mystic CDP|Census Designated Place|S|Liberty County
+FL|12|38575|Lake Panasoffkee CDP|Census Designated Place|S|Sumter County
+FL|12|38600|Lake Park town|Incorporated Place|A|Palm Beach County
+FL|12|38625|Lake Placid town|Incorporated Place|A|Highlands County
+FL|12|38690|Lake Sarasota CDP|Census Designated Place|S|Sarasota County
+FL|12|38813|Lakeside CDP|Census Designated Place|S|Clay County
+FL|12|38950|Lake Wales city|Incorporated Place|A|Polk County
+FL|12|39056|Lakewood Gardens CDP|Census Designated Place|S|Palm Beach County
+FL|12|39062|Lakewood Park CDP|Census Designated Place|S|St. Lucie County
+FL|12|39075|Lake Worth city|Incorporated Place|A|Palm Beach County
+FL|12|39100|Lamont CDP|Census Designated Place|S|Jefferson County
+FL|12|39200|Land O' Lakes CDP|Census Designated Place|S|Pasco County
+FL|12|39375|Lantana town|Incorporated Place|A|Palm Beach County
+FL|12|39425|Largo city|Incorporated Place|A|Pinellas County
+FL|12|39475|Lauderdale-by-the-Sea town|Incorporated Place|A|Broward County
+FL|12|39525|Lauderdale Lakes city|Incorporated Place|A|Broward County
+FL|12|39550|Lauderhill city|Incorporated Place|A|Broward County
+FL|12|39600|Laurel CDP|Census Designated Place|S|Sarasota County
+FL|12|39650|Laurel Hill city|Incorporated Place|A|Okaloosa County
+FL|12|39700|Lawtey city|Incorporated Place|A|Bradford County
+FL|12|39725|Layton city|Incorporated Place|A|Monroe County
+FL|12|39750|Lazy Lake village|Incorporated Place|A|Broward County
+FL|12|39775|Lealman CDP|Census Designated Place|S|Pinellas County
+FL|12|39825|Lecanto CDP|Census Designated Place|S|Citrus County
+FL|12|39850|Lee town|Incorporated Place|A|Madison County
+FL|12|39875|Leesburg city|Incorporated Place|A|Lake County
+FL|12|39925|Lehigh Acres CDP|Census Designated Place|S|Lee County
+FL|12|39950|Leisure City CDP|Census Designated Place|S|Miami-Dade County
+FL|12|39987|Lely CDP|Census Designated Place|S|Collier County
+FL|12|40037|Lely Resort CDP|Census Designated Place|S|Collier County
+FL|12|40100|Lemon Grove CDP|Census Designated Place|S|Hardee County
+FL|12|40450|Lighthouse Point city|Incorporated Place|A|Broward County
+FL|12|40525|Limestone CDP|Census Designated Place|S|Hardee County
+FL|12|40562|Limestone Creek CDP|Census Designated Place|S|Palm Beach County
+FL|12|40750|Lisbon CDP|Census Designated Place|S|Lake County
+FL|12|40875|Live Oak city|Incorporated Place|A|Suwannee County
+FL|12|40950|Lloyd CDP|Census Designated Place|S|Jefferson County
+FL|12|40985|Lochmoor Waterway Estates CDP|Census Designated Place|S|Lee County
+FL|12|41025|Lockhart CDP|Census Designated Place|S|Orange County
+FL|12|41150|Longboat Key town|Incorporated Place|A|Manatee County, Sarasota County
+FL|12|41250|Longwood city|Incorporated Place|A|Seminole County
+FL|12|41400|Loughman CDP|Census Designated Place|S|Polk County
+FL|12|41562|Lower Grand Lagoon CDP|Census Designated Place|S|Bay County
+FL|12|41577|Loxahatchee Groves town|Incorporated Place|A|Palm Beach County
+FL|12|41775|Lutz CDP|Census Designated Place|S|Hillsborough County
+FL|12|41825|Lynn Haven city|Incorporated Place|A|Bay County
+FL|12|41950|Macclenny city|Incorporated Place|A|Baker County
+FL|12|42090|McGregor CDP|Census Designated Place|S|Lee County
+FL|12|42150|McIntosh town|Incorporated Place|A|Marion County
+FL|12|42400|Madeira Beach city|Incorporated Place|A|Pinellas County
+FL|12|42425|Madison city|Incorporated Place|A|Madison County
+FL|12|42575|Maitland city|Incorporated Place|A|Orange County
+FL|12|42625|Malabar town|Incorporated Place|A|Brevard County
+FL|12|42650|Malone town|Incorporated Place|A|Jackson County
+FL|12|42700|Manalapan town|Incorporated Place|A|Palm Beach County
+FL|12|42750|Manasota Key CDP|Census Designated Place|S|Charlotte County
+FL|12|42787|Manatee Road CDP|Census Designated Place|S|Levy County
+FL|12|42850|Mango CDP|Census Designated Place|S|Hillsborough County
+FL|12|42900|Mangonia Park town|Incorporated Place|A|Palm Beach County
+FL|12|43000|Marathon city|Incorporated Place|A|Monroe County
+FL|12|43083|Marco Island city|Incorporated Place|A|Collier County
+FL|12|43125|Margate city|Incorporated Place|A|Broward County
+FL|12|43175|Marianna city|Incorporated Place|A|Jackson County
+FL|12|43250|Marineland town|Incorporated Place|A|Flagler County, St. Johns County
+FL|12|43375|Mary Esther city|Incorporated Place|A|Okaloosa County
+FL|12|43400|Masaryktown CDP|Census Designated Place|S|Hernando County
+FL|12|43425|Mascotte city|Incorporated Place|A|Lake County
+FL|12|43475|Matlacha CDP|Census Designated Place|S|Lee County
+FL|12|43484|Matlacha Isles-Matlacha Shores CDP|Census Designated Place|S|Lee County
+FL|12|43575|Mayo town|Incorporated Place|A|Lafayette County
+FL|12|43785|Meadow Oaks CDP|Census Designated Place|S|Pasco County
+FL|12|43800|Meadow Woods CDP|Census Designated Place|S|Orange County
+FL|12|43900|Medley town|Incorporated Place|A|Miami-Dade County
+FL|12|43925|Medulla CDP|Census Designated Place|S|Polk County
+FL|12|43975|Melbourne city|Incorporated Place|A|Brevard County
+FL|12|44000|Melbourne Beach town|Incorporated Place|A|Brevard County
+FL|12|44075|Melbourne Village town|Incorporated Place|A|Brevard County
+FL|12|44175|Memphis CDP|Census Designated Place|S|Manatee County
+FL|12|44275|Merritt Island CDP|Census Designated Place|S|Brevard County
+FL|12|44300|Mexico Beach city|Incorporated Place|A|Bay County
+FL|12|45000|Miami city|Incorporated Place|A|Miami-Dade County
+FL|12|45025|Miami Beach city|Incorporated Place|A|Miami-Dade County
+FL|12|45060|Miami Gardens city|Incorporated Place|A|Miami-Dade County
+FL|12|45100|Miami Lakes town|Incorporated Place|A|Miami-Dade County
+FL|12|45175|Miami Shores village|Incorporated Place|A|Miami-Dade County
+FL|12|45200|Miami Springs city|Incorporated Place|A|Miami-Dade County
+FL|12|45225|Micanopy town|Incorporated Place|A|Alachua County
+FL|12|45275|Micco CDP|Census Designated Place|S|Brevard County
+FL|12|45350|Middleburg CDP|Census Designated Place|S|Clay County
+FL|12|45425|Midway city|Incorporated Place|A|Gadsden County
+FL|12|45465|Midway CDP|Census Designated Place|S|Santa Rosa County
+FL|12|45475|Midway CDP|Census Designated Place|S|Seminole County
+FL|12|45750|Milton city|Incorporated Place|A|Santa Rosa County
+FL|12|45775|Mims CDP|Census Designated Place|S|Brevard County
+FL|12|45900|Minneola city|Incorporated Place|A|Lake County
+FL|12|45975|Miramar city|Incorporated Place|A|Broward County
+FL|12|46000|Miramar Beach CDP|Census Designated Place|S|Walton County
+FL|12|46225|Molino CDP|Census Designated Place|S|Escambia County
+FL|12|46500|Monticello city|Incorporated Place|A|Jefferson County
+FL|12|46520|Montura CDP|Census Designated Place|S|Hendry County
+FL|12|46525|Montverde town|Incorporated Place|A|Lake County
+FL|12|46540|Moon Lake CDP|Census Designated Place|S|Pasco County
+FL|12|46550|Moore Haven city|Incorporated Place|A|Glades County
+FL|12|46725|Morriston CDP|Census Designated Place|S|Levy County
+FL|12|47000|Mount Carmel CDP|Census Designated Place|S|Santa Rosa County
+FL|12|47050|Mount Dora city|Incorporated Place|A|Lake County
+FL|12|47125|Mount Plymouth CDP|Census Designated Place|S|Lake County
+FL|12|47175|Mulat CDP|Census Designated Place|S|Santa Rosa County
+FL|12|47200|Mulberry city|Incorporated Place|A|Polk County
+FL|12|47300|Munson CDP|Census Designated Place|S|Santa Rosa County
+FL|12|47550|Myrtle Grove CDP|Census Designated Place|S|Escambia County
+FL|12|47625|Naples city|Incorporated Place|A|Collier County
+FL|12|47650|Naples Manor CDP|Census Designated Place|S|Collier County
+FL|12|47675|Naples Park CDP|Census Designated Place|S|Collier County
+FL|12|47700|Naranja CDP|Census Designated Place|S|Miami-Dade County
+FL|12|47787|Nassau Village-Ratliff CDP|Census Designated Place|S|Nassau County
+FL|12|48050|Navarre CDP|Census Designated Place|S|Santa Rosa County
+FL|12|48055|Navarre Beach CDP|Census Designated Place|S|Santa Rosa County
+FL|12|48100|Neptune Beach city|Incorporated Place|A|Duval County
+FL|12|48200|Newberry city|Incorporated Place|A|Alachua County
+FL|12|48500|New Port Richey city|Incorporated Place|A|Pasco County
+FL|12|48525|New Port Richey East CDP|Census Designated Place|S|Pasco County
+FL|12|48625|New Smyrna Beach city|Incorporated Place|A|Volusia County
+FL|12|48750|Niceville city|Incorporated Place|A|Okaloosa County
+FL|12|48825|Nobleton CDP|Census Designated Place|S|Hernando County
+FL|12|48850|Nocatee CDP|Census Designated Place|S|St. Johns County
+FL|12|48875|Nokomis CDP|Census Designated Place|S|Sarasota County
+FL|12|48900|Noma town|Incorporated Place|A|Holmes County
+FL|12|49225|North Bay Village city|Incorporated Place|A|Miami-Dade County
+FL|12|49237|North Brooksville CDP|Census Designated Place|S|Hernando County
+FL|12|49260|Northdale CDP|Census Designated Place|S|Hillsborough County
+FL|12|49275|North DeLand CDP|Census Designated Place|S|Volusia County
+FL|12|49350|North Fort Myers CDP|Census Designated Place|S|Lee County
+FL|12|49406|North Key Largo CDP|Census Designated Place|S|Monroe County
+FL|12|49425|North Lauderdale city|Incorporated Place|A|Broward County
+FL|12|49450|North Miami city|Incorporated Place|A|Miami-Dade County
+FL|12|49475|North Miami Beach city|Incorporated Place|A|Miami-Dade County
+FL|12|49600|North Palm Beach village|Incorporated Place|A|Palm Beach County
+FL|12|49675|North Port city|Incorporated Place|A|Sarasota County
+FL|12|49725|North Redington Beach town|Incorporated Place|A|Pinellas County
+FL|12|49750|North River Shores CDP|Census Designated Place|S|Martin County
+FL|12|49787|North Sarasota CDP|Census Designated Place|S|Sarasota County
+FL|12|49905|North Weeki Wachee CDP|Census Designated Place|S|Hernando County
+FL|12|50450|Oak Hill city|Incorporated Place|A|Volusia County
+FL|12|50525|Oakland town|Incorporated Place|A|Orange County
+FL|12|50575|Oakland Park city|Incorporated Place|A|Broward County
+FL|12|50630|Oakleaf Plantation CDP|Census Designated Place|S|Clay County
+FL|12|50638|Oak Ridge CDP|Census Designated Place|S|Orange County
+FL|12|50750|Ocala city|Incorporated Place|A|Marion County
+FL|12|50900|Ocean Breeze Park town|Incorporated Place|A|Martin County
+FL|12|50925|Ocean City CDP|Census Designated Place|S|Okaloosa County
+FL|12|50950|Ocean Ridge town|Incorporated Place|A|Palm Beach County
+FL|12|51075|Ocoee city|Incorporated Place|A|Orange County
+FL|12|51100|Odessa CDP|Census Designated Place|S|Pasco County
+FL|12|51125|Ojus CDP|Census Designated Place|S|Miami-Dade County
+FL|12|51150|Okahumpka CDP|Census Designated Place|S|Lake County
+FL|12|51200|Okeechobee city|Incorporated Place|A|Okeechobee County
+FL|12|51350|Oldsmar city|Incorporated Place|A|Pinellas County
+FL|12|51400|Olga CDP|Census Designated Place|S|Lee County
+FL|12|51475|Olympia Heights CDP|Census Designated Place|S|Miami-Dade County
+FL|12|51505|Ona CDP|Census Designated Place|S|Hardee County
+FL|12|51650|Opa-locka city|Incorporated Place|A|Miami-Dade County
+FL|12|51825|Orange City city|Incorporated Place|A|Volusia County
+FL|12|52125|Orange Park town|Incorporated Place|A|Clay County
+FL|12|52162|Orangetree CDP|Census Designated Place|S|Collier County
+FL|12|52175|Orchid town|Incorporated Place|A|Indian River County
+FL|12|52250|Oriole Beach CDP|Census Designated Place|S|Santa Rosa County
+FL|12|53000|Orlando city|Incorporated Place|A|Orange County
+FL|12|53100|Orlovista CDP|Census Designated Place|S|Orange County
+FL|12|53150|Ormond Beach city|Incorporated Place|A|Volusia County
+FL|12|53200|Ormond-by-the-Sea CDP|Census Designated Place|S|Volusia County
+FL|12|53425|Osprey CDP|Census Designated Place|S|Sarasota County
+FL|12|53500|Otter Creek town|Incorporated Place|A|Levy County
+FL|12|53575|Oviedo city|Incorporated Place|A|Seminole County
+FL|12|53725|Pace CDP|Census Designated Place|S|Santa Rosa County
+FL|12|53775|Page Park CDP|Census Designated Place|S|Lee County
+FL|12|53800|Pahokee city|Incorporated Place|A|Palm Beach County
+FL|12|53850|Paisley CDP|Census Designated Place|S|Lake County
+FL|12|53875|Palatka city|Incorporated Place|A|Putnam County
+FL|12|54000|Palm Bay city|Incorporated Place|A|Brevard County
+FL|12|54025|Palm Beach town|Incorporated Place|A|Palm Beach County
+FL|12|54075|Palm Beach Gardens city|Incorporated Place|A|Palm Beach County
+FL|12|54150|Palm Beach Shores town|Incorporated Place|A|Palm Beach County
+FL|12|54175|Palm City CDP|Census Designated Place|S|Martin County
+FL|12|54200|Palm Coast city|Incorporated Place|A|Flagler County
+FL|12|54250|Palmetto city|Incorporated Place|A|Manatee County
+FL|12|54275|Palmetto Bay village|Incorporated Place|A|Miami-Dade County
+FL|12|54300|Palmetto Estates CDP|Census Designated Place|S|Miami-Dade County
+FL|12|54350|Palm Harbor CDP|Census Designated Place|S|Pinellas County
+FL|12|54357|Palmona Park CDP|Census Designated Place|S|Lee County
+FL|12|54387|Palm River-Clair Mel CDP|Census Designated Place|S|Hillsborough County
+FL|12|54425|Palm Shores town|Incorporated Place|A|Brevard County
+FL|12|54450|Palm Springs village|Incorporated Place|A|Palm Beach County
+FL|12|54500|Palm Springs North CDP|Census Designated Place|S|Miami-Dade County
+FL|12|54525|Palm Valley CDP|Census Designated Place|S|St. Johns County
+FL|12|54625|Panacea CDP|Census Designated Place|S|Wakulla County
+FL|12|54700|Panama City city|Incorporated Place|A|Bay County
+FL|12|54725|Panama City Beach city|Incorporated Place|A|Bay County
+FL|12|54912|Paradise Heights CDP|Census Designated Place|S|Orange County
+FL|12|55075|Parker city|Incorporated Place|A|Bay County
+FL|12|55125|Parkland city|Incorporated Place|A|Broward County
+FL|12|55305|Pasadena Hills CDP|Census Designated Place|S|Pasco County
+FL|12|55375|Patrick AFB CDP|Census Designated Place|S|Brevard County
+FL|12|55475|Paxton town|Incorporated Place|A|Walton County
+FL|12|55532|Pea Ridge CDP|Census Designated Place|S|Santa Rosa County
+FL|12|55540|Pebble Creek CDP|Census Designated Place|S|Hillsborough County
+FL|12|55650|Pelican Bay CDP|Census Designated Place|S|Collier County
+FL|12|55750|Pembroke Park town|Incorporated Place|A|Broward County
+FL|12|55775|Pembroke Pines city|Incorporated Place|A|Broward County
+FL|12|55875|Penney Farms town|Incorporated Place|A|Clay County
+FL|12|55925|Pensacola city|Incorporated Place|A|Escambia County
+FL|12|56150|Perry city|Incorporated Place|A|Taylor County
+FL|12|56425|Pierson town|Incorporated Place|A|Volusia County
+FL|12|56475|Pine Air CDP|Census Designated Place|S|Palm Beach County
+FL|12|56500|Pine Castle CDP|Census Designated Place|S|Orange County
+FL|12|56625|Pinecrest village|Incorporated Place|A|Miami-Dade County
+FL|12|56825|Pine Hills CDP|Census Designated Place|S|Orange County
+FL|12|56840|Pine Island CDP|Census Designated Place|S|Hernando County
+FL|12|56850|Pine Island Center CDP|Census Designated Place|S|Lee County
+FL|12|56865|Pine Lakes CDP|Census Designated Place|S|Lake County
+FL|12|56875|Pineland CDP|Census Designated Place|S|Lee County
+FL|12|56955|Pine Level CDP|Census Designated Place|S|Santa Rosa County
+FL|12|56975|Pinellas Park city|Incorporated Place|A|Pinellas County
+FL|12|57025|Pine Manor CDP|Census Designated Place|S|Lee County
+FL|12|57058|Pine Ridge CDP|Census Designated Place|S|Citrus County
+FL|12|57066|Pine Ridge CDP|Census Designated Place|S|Collier County
+FL|12|57250|Pinewood CDP|Census Designated Place|S|Miami-Dade County
+FL|12|57320|Pioneer CDP|Census Designated Place|S|Hendry County
+FL|12|57380|Pittman CDP|Census Designated Place|S|Lake County
+FL|12|57425|Plantation city|Incorporated Place|A|Broward County
+FL|12|57450|Plantation CDP|Census Designated Place|S|Sarasota County
+FL|12|57492|Plantation Island CDP|Census Designated Place|S|Collier County
+FL|12|57518|Plantation Mobile Home Park CDP|Census Designated Place|S|Palm Beach County
+FL|12|57550|Plant City city|Incorporated Place|A|Hillsborough County
+FL|12|57900|Poinciana CDP|Census Designated Place|S|Osceola County, Polk County
+FL|12|57908|Point Baker CDP|Census Designated Place|S|Santa Rosa County
+FL|12|57950|Polk City town|Incorporated Place|A|Polk County
+FL|12|58025|Pomona Park town|Incorporated Place|A|Putnam County
+FL|12|58050|Pompano Beach city|Incorporated Place|A|Broward County
+FL|12|58175|Ponce de Leon town|Incorporated Place|A|Holmes County
+FL|12|58200|Ponce Inlet town|Incorporated Place|A|Volusia County
+FL|12|58350|Port Charlotte CDP|Census Designated Place|S|Charlotte County
+FL|12|58420|Port LaBelle CDP|Census Designated Place|S|Hendry County
+FL|12|58575|Port Orange city|Incorporated Place|A|Volusia County
+FL|12|58600|Port Richey city|Incorporated Place|A|Pasco County
+FL|12|58675|Port St. Joe city|Incorporated Place|A|Gulf County
+FL|12|58700|Port St. John CDP|Census Designated Place|S|Brevard County
+FL|12|58715|Port St. Lucie city|Incorporated Place|A|St. Lucie County
+FL|12|58727|Port Salerno CDP|Census Designated Place|S|Martin County
+FL|12|58962|Pretty Bayou CDP|Census Designated Place|S|Bay County
+FL|12|58975|Princeton CDP|Census Designated Place|S|Miami-Dade County
+FL|12|59050|Progress Village CDP|Census Designated Place|S|Hillsborough County
+FL|12|59200|Punta Gorda city|Incorporated Place|A|Charlotte County
+FL|12|59250|Punta Rassa CDP|Census Designated Place|S|Lee County
+FL|12|59311|Quail Ridge CDP|Census Designated Place|S|Pasco County
+FL|12|59325|Quincy city|Incorporated Place|A|Gadsden County
+FL|12|59400|Raiford town|Incorporated Place|A|Union County
+FL|12|59475|Raleigh CDP|Census Designated Place|S|Levy County
+FL|12|59675|Reddick town|Incorporated Place|A|Marion County
+FL|12|59725|Redington Beach town|Incorporated Place|A|Pinellas County
+FL|12|59750|Redington Shores town|Incorporated Place|A|Pinellas County
+FL|12|60225|Richmond Heights CDP|Census Designated Place|S|Miami-Dade County
+FL|12|60230|Richmond West CDP|Census Designated Place|S|Miami-Dade County
+FL|12|60275|Ridgecrest CDP|Census Designated Place|S|Pinellas County
+FL|12|60325|Ridge Manor CDP|Census Designated Place|S|Hernando County
+FL|12|60475|Ridge Wood Heights CDP|Census Designated Place|S|Sarasota County
+FL|12|60550|Rio CDP|Census Designated Place|S|Martin County
+FL|12|60562|Rio Pinar CDP|Census Designated Place|S|Orange County
+FL|12|60785|River Park CDP|Census Designated Place|S|St. Lucie County
+FL|12|60835|River Ridge CDP|Census Designated Place|S|Pasco County
+FL|12|60950|Riverview CDP|Census Designated Place|S|Hillsborough County
+FL|12|60975|Riviera Beach city|Incorporated Place|A|Palm Beach County
+FL|12|61500|Rockledge city|Incorporated Place|A|Brevard County
+FL|12|61615|Roeville CDP|Census Designated Place|S|Santa Rosa County
+FL|12|61807|Roosevelt Gardens CDP|Census Designated Place|S|Broward County
+FL|12|61875|Roseland CDP|Census Designated Place|S|Indian River County
+FL|12|61937|Rotonda CDP|Census Designated Place|S|Charlotte County
+FL|12|62100|Royal Palm Beach village|Incorporated Place|A|Palm Beach County
+FL|12|62118|Royal Palm Estates CDP|Census Designated Place|S|Palm Beach County
+FL|12|62275|Ruskin CDP|Census Designated Place|S|Hillsborough County
+FL|12|62425|Safety Harbor city|Incorporated Place|A|Pinellas County
+FL|12|62500|St. Augustine city|Incorporated Place|A|St. Johns County
+FL|12|62525|St. Augustine Beach city|Incorporated Place|A|St. Johns County
+FL|12|62550|St. Augustine Shores CDP|Census Designated Place|S|St. Johns County
+FL|12|62562|St. Augustine South CDP|Census Designated Place|S|St. Johns County
+FL|12|62625|St. Cloud city|Incorporated Place|A|Osceola County
+FL|12|62675|St. James City CDP|Census Designated Place|S|Lee County
+FL|12|62775|St. Leo town|Incorporated Place|A|Pasco County
+FL|12|62800|St. Lucie Village town|Incorporated Place|A|St. Lucie County
+FL|12|62825|St. Marks city|Incorporated Place|A|Wakulla County
+FL|12|62885|St. Pete Beach city|Incorporated Place|A|Pinellas County
+FL|12|63000|St. Petersburg city|Incorporated Place|A|Pinellas County
+FL|12|63225|Samoset CDP|Census Designated Place|S|Manatee County
+FL|12|63362|Samsula-Spruce Creek CDP|Census Designated Place|S|Volusia County
+FL|12|63375|San Antonio city|Incorporated Place|A|Pasco County
+FL|12|63425|San Carlos Park CDP|Census Designated Place|S|Lee County
+FL|12|63435|San Castle CDP|Census Designated Place|S|Palm Beach County
+FL|12|63650|Sanford city|Incorporated Place|A|Seminole County
+FL|12|63700|Sanibel city|Incorporated Place|A|Lee County
+FL|12|64175|Sarasota city|Incorporated Place|A|Sarasota County
+FL|12|64325|Sarasota Springs CDP|Census Designated Place|S|Sarasota County
+FL|12|64400|Satellite Beach city|Incorporated Place|A|Brevard County
+FL|12|64525|Sawgrass CDP|Census Designated Place|S|St. Johns County
+FL|12|64547|Schall Circle CDP|Census Designated Place|S|Palm Beach County
+FL|12|64725|Sea Ranch Lakes village|Incorporated Place|A|Broward County
+FL|12|64825|Sebastian city|Incorporated Place|A|Indian River County
+FL|12|64875|Sebring city|Incorporated Place|A|Highlands County
+FL|12|64925|Seffner CDP|Census Designated Place|S|Hillsborough County
+FL|12|64975|Seminole city|Incorporated Place|A|Pinellas County
+FL|12|65100|Seminole Manor CDP|Census Designated Place|S|Palm Beach County
+FL|12|65200|Seville CDP|Census Designated Place|S|Volusia County
+FL|12|65225|Sewall's Point town|Incorporated Place|A|Martin County
+FL|12|65385|Shady Hills CDP|Census Designated Place|S|Pasco County
+FL|12|65425|Shalimar town|Incorporated Place|A|Okaloosa County
+FL|12|65525|Sharpes CDP|Census Designated Place|S|Brevard County
+FL|12|66000|Siesta Key CDP|Census Designated Place|S|Sarasota County
+FL|12|66062|Silver Lake CDP|Census Designated Place|S|Lake County
+FL|12|66175|Silver Springs Shores CDP|Census Designated Place|S|Marion County
+FL|12|66425|Sky Lake CDP|Census Designated Place|S|Orange County
+FL|12|66725|Sneads town|Incorporated Place|A|Jackson County
+FL|12|66875|Solana CDP|Census Designated Place|S|Charlotte County
+FL|12|66925|Sopchoppy city|Incorporated Place|A|Wakulla County
+FL|12|66975|Sorrento CDP|Census Designated Place|S|Lake County
+FL|12|67163|South Apopka CDP|Census Designated Place|S|Orange County
+FL|12|67175|South Bay city|Incorporated Place|A|Palm Beach County
+FL|12|67192|South Beach CDP|Census Designated Place|S|Indian River County
+FL|12|67258|South Bradenton CDP|Census Designated Place|S|Manatee County
+FL|12|67266|South Brooksville CDP|Census Designated Place|S|Hernando County
+FL|12|67270|Southchase CDP|Census Designated Place|S|Orange County
+FL|12|67325|South Daytona city|Incorporated Place|A|Volusia County
+FL|12|67355|Southeast Arcadia CDP|Census Designated Place|S|DeSoto County
+FL|12|67425|Southgate CDP|Census Designated Place|S|Sarasota County
+FL|12|67450|South Gate Ridge CDP|Census Designated Place|S|Sarasota County
+FL|12|67462|South Highpoint CDP|Census Designated Place|S|Pinellas County
+FL|12|67550|South Miami city|Incorporated Place|A|Miami-Dade County
+FL|12|67575|South Miami Heights CDP|Census Designated Place|S|Miami-Dade County
+FL|12|67650|South Palm Beach town|Incorporated Place|A|Palm Beach County
+FL|12|67675|South Pasadena city|Incorporated Place|A|Pinellas County
+FL|12|67725|South Patrick Shores CDP|Census Designated Place|S|Brevard County
+FL|12|67887|South Sarasota CDP|Census Designated Place|S|Sarasota County
+FL|12|68100|South Venice CDP|Census Designated Place|S|Sarasota County
+FL|12|68135|Southwest Ranches town|Incorporated Place|A|Broward County
+FL|12|68275|Springfield city|Incorporated Place|A|Bay County
+FL|12|68350|Spring Hill CDP|Census Designated Place|S|Hernando County
+FL|12|68365|Springhill CDP|Census Designated Place|S|Santa Rosa County
+FL|12|68375|Spring Lake CDP|Census Designated Place|S|Hernando County
+FL|12|68435|Spring Ridge CDP|Census Designated Place|S|Gilchrist County
+FL|12|68487|Stacey Street CDP|Census Designated Place|S|Palm Beach County
+FL|12|68525|Starke city|Incorporated Place|A|Bradford County
+FL|12|68625|Steinhatchee CDP|Census Designated Place|S|Taylor County
+FL|12|68800|Stock Island CDP|Census Designated Place|S|Monroe County
+FL|12|68875|Stuart city|Incorporated Place|A|Martin County
+FL|12|68950|Sugarmill Woods CDP|Census Designated Place|S|Citrus County
+FL|12|69025|Sumatra CDP|Census Designated Place|S|Liberty County
+FL|12|69250|Sun City Center CDP|Census Designated Place|S|Hillsborough County
+FL|12|69275|Suncoast Estates CDP|Census Designated Place|S|Lee County
+FL|12|69555|Sunny Isles Beach city|Incorporated Place|A|Miami-Dade County
+FL|12|69700|Sunrise city|Incorporated Place|A|Broward County
+FL|12|69812|Sunset CDP|Census Designated Place|S|Miami-Dade County
+FL|12|70075|Surfside town|Incorporated Place|A|Miami-Dade County
+FL|12|70345|Sweetwater city|Incorporated Place|A|Miami-Dade County
+FL|12|70525|Taft CDP|Census Designated Place|S|Orange County
+FL|12|70600|Tallahassee city|Incorporated Place|A|Leon County
+FL|12|70675|Tamarac city|Incorporated Place|A|Broward County
+FL|12|70700|Tamiami CDP|Census Designated Place|S|Miami-Dade County
+FL|12|71000|Tampa city|Incorporated Place|A|Hillsborough County
+FL|12|71075|Tangelo Park CDP|Census Designated Place|S|Orange County
+FL|12|71100|Tangerine CDP|Census Designated Place|S|Orange County
+FL|12|71150|Tarpon Springs city|Incorporated Place|A|Pinellas County
+FL|12|71225|Tavares city|Incorporated Place|A|Lake County
+FL|12|71250|Tavernier CDP|Census Designated Place|S|Monroe County
+FL|12|71300|Taylor Creek CDP|Census Designated Place|S|Okeechobee County
+FL|12|71400|Temple Terrace city|Incorporated Place|A|Hillsborough County
+FL|12|71525|Tequesta village|Incorporated Place|A|Palm Beach County
+FL|12|71564|The Acreage CDP|Census Designated Place|S|Palm Beach County
+FL|12|71567|The Crossings CDP|Census Designated Place|S|Miami-Dade County
+FL|12|71569|The Hammocks CDP|Census Designated Place|S|Miami-Dade County
+FL|12|71580|The Meadows CDP|Census Designated Place|S|Sarasota County
+FL|12|71625|The Villages CDP|Census Designated Place|S|Marion County, Sumter County
+FL|12|71725|Thonotosassa CDP|Census Designated Place|S|Hillsborough County
+FL|12|71741|Three Lakes CDP|Census Designated Place|S|Miami-Dade County
+FL|12|71758|Three Oaks CDP|Census Designated Place|S|Lee County
+FL|12|71800|Tice CDP|Census Designated Place|S|Lee County
+FL|12|71825|Tierra Verde CDP|Census Designated Place|S|Pinellas County
+FL|12|71842|Tiger Point CDP|Census Designated Place|S|Santa Rosa County
+FL|12|71850|Tildenville CDP|Census Designated Place|S|Orange County
+FL|12|71867|Timber Pines CDP|Census Designated Place|S|Hernando County
+FL|12|71900|Titusville city|Incorporated Place|A|Brevard County
+FL|12|72145|Town 'n' Country CDP|Census Designated Place|S|Hillsborough County
+FL|12|72325|Treasure Island city|Incorporated Place|A|Pinellas County
+FL|12|72350|Trenton city|Incorporated Place|A|Gilchrist County
+FL|12|72425|Trilby CDP|Census Designated Place|S|Pasco County
+FL|12|72442|Trinity CDP|Census Designated Place|S|Pasco County
+FL|12|72875|Tyndall AFB CDP|Census Designated Place|S|Bay County
+FL|12|73025|Umatilla city|Incorporated Place|A|Lake County
+FL|12|73075|Union Park CDP|Census Designated Place|S|Orange County
+FL|12|73163|University CDP|Census Designated Place|S|Hillsborough County
+FL|12|73172|University CDP|Census Designated Place|S|Orange County
+FL|12|73287|University Park CDP|Census Designated Place|S|Miami-Dade County
+FL|12|73312|Upper Grand Lagoon CDP|Census Designated Place|S|Bay County
+FL|12|73675|Valparaiso city|Incorporated Place|A|Okaloosa County
+FL|12|73700|Valrico CDP|Census Designated Place|S|Hillsborough County
+FL|12|73725|Vamo CDP|Census Designated Place|S|Sarasota County
+FL|12|73900|Venice city|Incorporated Place|A|Sarasota County
+FL|12|73950|Venice Gardens CDP|Census Designated Place|S|Sarasota County
+FL|12|74125|Vernon city|Incorporated Place|A|Washington County
+FL|12|74150|Vero Beach city|Incorporated Place|A|Indian River County
+FL|12|74200|Vero Beach South CDP|Census Designated Place|S|Indian River County
+FL|12|74235|Verona Walk CDP|Census Designated Place|S|Collier County
+FL|12|74368|Viera East CDP|Census Designated Place|S|Brevard County
+FL|12|74370|Viera West CDP|Census Designated Place|S|Brevard County
+FL|12|74498|Villano Beach CDP|Census Designated Place|S|St. Johns County
+FL|12|74512|Villas CDP|Census Designated Place|S|Lee County
+FL|12|74562|Vineyards CDP|Census Designated Place|S|Collier County
+FL|12|74575|Virginia Gardens village|Incorporated Place|A|Miami-Dade County
+FL|12|74625|Wabasso CDP|Census Designated Place|S|Indian River County
+FL|12|74635|Wabasso Beach CDP|Census Designated Place|S|Indian River County
+FL|12|74700|Wacissa CDP|Census Designated Place|S|Jefferson County
+FL|12|74775|Wahneta CDP|Census Designated Place|S|Polk County
+FL|12|74925|Waldo city|Incorporated Place|A|Alachua County
+FL|12|74975|Wallace CDP|Census Designated Place|S|Santa Rosa County
+FL|12|75175|Warm Mineral Springs CDP|Census Designated Place|S|Sarasota County
+FL|12|75200|Warrington CDP|Census Designated Place|S|Escambia County
+FL|12|75225|Washington Park CDP|Census Designated Place|S|Broward County
+FL|12|75275|Watergate CDP|Census Designated Place|S|Palm Beach County
+FL|12|75300|Watertown CDP|Census Designated Place|S|Columbia County
+FL|12|75375|Wauchula city|Incorporated Place|A|Hardee County
+FL|12|75425|Waukeenah CDP|Census Designated Place|S|Jefferson County
+FL|12|75450|Wausau town|Incorporated Place|A|Washington County
+FL|12|75475|Waverly CDP|Census Designated Place|S|Polk County
+FL|12|75600|Webster city|Incorporated Place|A|Sumter County
+FL|12|75612|Wedgefield CDP|Census Designated Place|S|Orange County
+FL|12|75625|Weeki Wachee city|Incorporated Place|A|Hernando County
+FL|12|75641|Weeki Wachee Gardens CDP|Census Designated Place|S|Hernando County
+FL|12|75725|Wekiwa Springs CDP|Census Designated Place|S|Seminole County
+FL|12|75750|Welaka town|Incorporated Place|A|Putnam County
+FL|12|75812|Wellington village|Incorporated Place|A|Palm Beach County
+FL|12|75875|Wesley Chapel CDP|Census Designated Place|S|Pasco County
+FL|12|76050|West Bradenton CDP|Census Designated Place|S|Manatee County
+FL|12|76062|Westchase CDP|Census Designated Place|S|Hillsborough County
+FL|12|76075|Westchester CDP|Census Designated Place|S|Miami-Dade County
+FL|12|76087|West DeLand CDP|Census Designated Place|S|Volusia County
+FL|12|76290|Westgate CDP|Census Designated Place|S|Palm Beach County
+FL|12|76481|West Lealman CDP|Census Designated Place|S|Pinellas County
+FL|12|76487|West Little River CDP|Census Designated Place|S|Miami-Dade County
+FL|12|76500|West Melbourne city|Incorporated Place|A|Brevard County
+FL|12|76525|West Miami city|Incorporated Place|A|Miami-Dade County
+FL|12|76582|Weston city|Incorporated Place|A|Broward County
+FL|12|76600|West Palm Beach city|Incorporated Place|A|Palm Beach County
+FL|12|76658|West Park city|Incorporated Place|A|Broward County
+FL|12|76675|West Pensacola CDP|Census Designated Place|S|Escambia County
+FL|12|76700|West Perrine CDP|Census Designated Place|S|Miami-Dade County
+FL|12|76740|West Samoset CDP|Census Designated Place|S|Manatee County
+FL|12|76937|West Vero Corridor CDP|Census Designated Place|S|Indian River County
+FL|12|76950|Westview CDP|Census Designated Place|S|Miami-Dade County
+FL|12|76975|Westville town|Incorporated Place|A|Holmes County
+FL|12|77075|Westwood Lakes CDP|Census Designated Place|S|Miami-Dade County
+FL|12|77100|Wewahitchka city|Incorporated Place|A|Gulf County
+FL|12|77137|Whiskey Creek CDP|Census Designated Place|S|Lee County
+FL|12|77275|White City CDP|Census Designated Place|S|St. Lucie County
+FL|12|77400|White Springs town|Incorporated Place|A|Hamilton County
+FL|12|77467|Whitfield CDP|Census Designated Place|S|Manatee County
+FL|12|77470|Whitfield CDP|Census Designated Place|S|Santa Rosa County
+FL|12|77675|Wildwood city|Incorporated Place|A|Sumter County
+FL|12|77735|Williamsburg CDP|Census Designated Place|S|Orange County
+FL|12|77825|Williston city|Incorporated Place|A|Levy County
+FL|12|77837|Williston Highlands CDP|Census Designated Place|S|Levy County
+FL|12|77862|Willow Oak CDP|Census Designated Place|S|Polk County
+FL|12|78000|Wilton Manors city|Incorporated Place|A|Broward County
+FL|12|78025|Wimauma CDP|Census Designated Place|S|Hillsborough County
+FL|12|78050|Windermere town|Incorporated Place|A|Orange County
+FL|12|78110|Windsor CDP|Census Designated Place|S|Indian River County
+FL|12|78225|Winter Beach CDP|Census Designated Place|S|Indian River County
+FL|12|78250|Winter Garden city|Incorporated Place|A|Orange County
+FL|12|78275|Winter Haven city|Incorporated Place|A|Polk County
+FL|12|78300|Winter Park city|Incorporated Place|A|Orange County
+FL|12|78325|Winter Springs city|Incorporated Place|A|Seminole County
+FL|12|78340|Wiscon CDP|Census Designated Place|S|Hernando County
+FL|12|78500|Woodlawn Beach CDP|Census Designated Place|S|Santa Rosa County
+FL|12|78700|Woodville CDP|Census Designated Place|S|Leon County
+FL|12|78740|World Golf Village CDP|Census Designated Place|S|St. Johns County
+FL|12|78775|Worthington Springs town|Incorporated Place|A|Union County
+FL|12|78800|Wright CDP|Census Designated Place|S|Okaloosa County
+FL|12|78900|Yalaha CDP|Census Designated Place|S|Lake County
+FL|12|78925|Yankeetown town|Incorporated Place|A|Levy County
+FL|12|78975|Yeehaw Junction CDP|Census Designated Place|S|Osceola County
+FL|12|79175|Yulee CDP|Census Designated Place|S|Nassau County
+FL|12|79200|Zellwood CDP|Census Designated Place|S|Orange County
+FL|12|79225|Zephyrhills city|Incorporated Place|A|Pasco County
+FL|12|79231|Zephyrhills North CDP|Census Designated Place|S|Pasco County
+FL|12|79237|Zephyrhills South CDP|Census Designated Place|S|Pasco County
+FL|12|79243|Zephyrhills West CDP|Census Designated Place|S|Pasco County
+FL|12|79250|Zolfo Springs town|Incorporated Place|A|Hardee County

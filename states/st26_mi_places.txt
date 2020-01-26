@@ -1,0 +1,2247 @@
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Alcona County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Alger County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Allegan County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Alpena County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Antrim County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Arenac County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Baraga County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Bay County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Benzie County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Berrien County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Charlevoix County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Cheboygan County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Chippewa County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Delta County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Emmet County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Gogebic County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Grand Traverse County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Houghton County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Huron County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Iosco County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Keweenaw County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Leelanau County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Luce County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Mackinac County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Macomb County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Manistee County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Marquette County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Mason County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Menominee County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Monroe County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Muskegon County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Oceana County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Ontonagon County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Ottawa County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Presque Isle County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Sanilac County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Schoolcraft County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|St. Clair County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Tuscola County
+MI|26|00000|County Subdivisions not defined|County Subdivision|F|Van Buren County
+MI|26|00200|Acme township|County Subdivision|A|Grand Traverse County
+MI|26|00240|Ada township|County Subdivision|A|Kent County
+MI|26|00280|Adams township|County Subdivision|A|Arenac County
+MI|26|00300|Adams township|County Subdivision|A|Hillsdale County
+MI|26|00320|Adams township|County Subdivision|A|Houghton County
+MI|26|00380|Addison village|Incorporated Place|A|Lenawee County
+MI|26|00400|Addison township|County Subdivision|A|Oakland County
+MI|26|00440|Adrian city|County Subdivision|F|Lenawee County
+MI|26|00440|Adrian city|Incorporated Place|A|Lenawee County
+MI|26|00460|Adrian township|County Subdivision|A|Lenawee County
+MI|26|00480|Advance CDP|Census Designated Place|S|Charlevoix County
+MI|26|00500|Aetna township|County Subdivision|A|Mecosta County
+MI|26|00520|Aetna township|County Subdivision|A|Missaukee County
+MI|26|00620|Ahmeek village|Incorporated Place|A|Keweenaw County
+MI|26|00700|Akron village|Incorporated Place|A|Tuscola County
+MI|26|00720|Akron township|County Subdivision|A|Tuscola County
+MI|26|00760|Alabaster township|County Subdivision|A|Iosco County
+MI|26|00800|Alaiedon township|County Subdivision|A|Ingham County
+MI|26|00840|Alamo township|County Subdivision|A|Kalamazoo County
+MI|26|00860|Alanson village|Incorporated Place|A|Emmet County
+MI|26|00900|Alba CDP|Census Designated Place|S|Antrim County
+MI|26|00920|Albee township|County Subdivision|A|Saginaw County
+MI|26|00940|Albert township|County Subdivision|A|Montmorency County
+MI|26|00980|Albion city|County Subdivision|F|Calhoun County
+MI|26|00980|Albion city|Incorporated Place|A|Calhoun County
+MI|26|01000|Albion township|County Subdivision|A|Calhoun County
+MI|26|01040|Alcona township|County Subdivision|A|Alcona County
+MI|26|01060|Alden CDP|Census Designated Place|S|Antrim County
+MI|26|01120|Algansee township|County Subdivision|A|Branch County
+MI|26|01160|Algoma township|County Subdivision|A|Kent County
+MI|26|01180|Algonac city|County Subdivision|F|St. Clair County
+MI|26|01180|Algonac city|Incorporated Place|A|St. Clair County
+MI|26|01260|Allegan city|County Subdivision|F|Allegan County
+MI|26|01260|Allegan city|Incorporated Place|A|Allegan County
+MI|26|01280|Allegan township|County Subdivision|A|Allegan County
+MI|26|01300|Allen village|Incorporated Place|A|Hillsdale County
+MI|26|01320|Allen township|County Subdivision|A|Hillsdale County
+MI|26|01340|Allendale CDP|Census Designated Place|S|Ottawa County
+MI|26|01360|Allendale charter township|County Subdivision|A|Ottawa County
+MI|26|01380|Allen Park city|County Subdivision|F|Wayne County
+MI|26|01380|Allen Park city|Incorporated Place|A|Wayne County
+MI|26|01480|Allis township|County Subdivision|A|Presque Isle County
+MI|26|01520|Allouez township|County Subdivision|A|Keweenaw County
+MI|26|01540|Alma city|County Subdivision|F|Gratiot County
+MI|26|01540|Alma city|Incorporated Place|A|Gratiot County
+MI|26|01600|Almena township|County Subdivision|A|Van Buren County
+MI|26|01620|Almer township|County Subdivision|A|Tuscola County
+MI|26|01640|Almira township|County Subdivision|A|Benzie County
+MI|26|01660|Almont village|Incorporated Place|A|Lapeer County
+MI|26|01680|Almont township|County Subdivision|A|Lapeer County
+MI|26|01720|Aloha township|County Subdivision|A|Cheboygan County
+MI|26|01740|Alpena city|County Subdivision|F|Alpena County
+MI|26|01740|Alpena city|Incorporated Place|A|Alpena County
+MI|26|01760|Alpena township|County Subdivision|A|Alpena County
+MI|26|01800|Alpha village|Incorporated Place|A|Iron County
+MI|26|01840|Alpine township|County Subdivision|A|Kent County
+MI|26|01960|Amasa CDP|Census Designated Place|S|Iron County
+MI|26|01980|Amber township|County Subdivision|A|Mason County
+MI|26|02020|Amboy township|County Subdivision|A|Hillsdale County
+MI|26|03000|Ann Arbor city|County Subdivision|F|Washtenaw County
+MI|26|03000|Ann Arbor city|Incorporated Place|A|Washtenaw County
+MI|26|03020|Ann Arbor charter township|County Subdivision|A|Washtenaw County
+MI|26|03060|Antioch township|County Subdivision|A|Wexford County
+MI|26|03120|Antrim township|County Subdivision|A|Shiawassee County
+MI|26|03140|Antwerp township|County Subdivision|A|Van Buren County
+MI|26|03200|Applegate village|Incorporated Place|A|Sanilac County
+MI|26|03220|Arbela township|County Subdivision|A|Tuscola County
+MI|26|03260|Arcada township|County Subdivision|A|Gratiot County
+MI|26|03280|Arcadia township|County Subdivision|A|Lapeer County
+MI|26|03300|Arcadia CDP|Census Designated Place|S|Manistee County
+MI|26|03320|Arcadia township|County Subdivision|A|Manistee County
+MI|26|03360|Arenac township|County Subdivision|A|Arenac County
+MI|26|03400|Argentine CDP|Census Designated Place|S|Genesee County
+MI|26|03420|Argentine township|County Subdivision|A|Genesee County
+MI|26|03460|Argyle township|County Subdivision|A|Sanilac County
+MI|26|03500|Arlington township|County Subdivision|A|Van Buren County
+MI|26|03520|Armada village|Incorporated Place|A|Macomb County
+MI|26|03540|Armada township|County Subdivision|A|Macomb County
+MI|26|03620|Arthur township|County Subdivision|A|Clare County
+MI|26|03660|Arvon township|County Subdivision|A|Baraga County
+MI|26|03680|Ash township|County Subdivision|A|Monroe County
+MI|26|03700|Ashland township|County Subdivision|A|Newaygo County
+MI|26|03740|Ashley village|Incorporated Place|A|Gratiot County
+MI|26|03860|Assyria township|County Subdivision|A|Barry County
+MI|26|03880|Athens village|Incorporated Place|A|Calhoun County
+MI|26|03900|Athens township|County Subdivision|A|Calhoun County
+MI|26|03920|Atlanta CDP|Census Designated Place|S|Montmorency County
+MI|26|04000|Atlas township|County Subdivision|A|Genesee County
+MI|26|04020|Attica CDP|Census Designated Place|S|Lapeer County
+MI|26|04040|Attica township|County Subdivision|A|Lapeer County
+MI|26|04080|Auburn city|County Subdivision|F|Bay County
+MI|26|04080|Auburn city|Incorporated Place|A|Bay County
+MI|26|04105|Auburn Hills city|County Subdivision|F|Oakland County
+MI|26|04105|Auburn Hills city|Incorporated Place|A|Oakland County
+MI|26|04120|Au Gres city|County Subdivision|F|Arenac County
+MI|26|04120|Au Gres city|Incorporated Place|A|Arenac County
+MI|26|04140|Au Gres township|County Subdivision|A|Arenac County
+MI|26|04160|Augusta village|Incorporated Place|A|Kalamazoo County
+MI|26|04180|Augusta charter township|County Subdivision|A|Washtenaw County
+MI|26|04240|Aurelius township|County Subdivision|A|Ingham County
+MI|26|04280|Au Sable CDP|Census Designated Place|S|Iosco County
+MI|26|04300|Au Sable charter township|County Subdivision|A|Iosco County
+MI|26|04320|Au Sable township|County Subdivision|A|Roscommon County
+MI|26|04380|Austin township|County Subdivision|A|Mecosta County
+MI|26|04400|Austin township|County Subdivision|A|Sanilac County
+MI|26|04460|Au Train township|County Subdivision|A|Alger County
+MI|26|04580|Avery township|County Subdivision|A|Montmorency County
+MI|26|04720|Backus township|County Subdivision|A|Roscommon County
+MI|26|04740|Bad Axe city|County Subdivision|F|Huron County
+MI|26|04740|Bad Axe city|Incorporated Place|A|Huron County
+MI|26|04780|Bagley township|County Subdivision|A|Otsego County
+MI|26|04840|Bainbridge township|County Subdivision|A|Berrien County
+MI|26|04900|Baldwin township|County Subdivision|A|Delta County
+MI|26|04920|Baldwin township|County Subdivision|A|Iosco County
+MI|26|04940|Baldwin village|Incorporated Place|A|Lake County
+MI|26|05020|Baltimore township|County Subdivision|A|Barry County
+MI|26|05080|Bancroft village|Incorporated Place|A|Shiawassee County
+MI|26|05120|Bangor charter township|County Subdivision|A|Bay County
+MI|26|05140|Bangor city|County Subdivision|F|Van Buren County
+MI|26|05140|Bangor city|Incorporated Place|A|Van Buren County
+MI|26|05160|Bangor township|County Subdivision|A|Van Buren County
+MI|26|05240|Banks township|County Subdivision|A|Antrim County
+MI|26|05320|Baraga village|Incorporated Place|A|Baraga County
+MI|26|05340|Baraga township|County Subdivision|A|Baraga County
+MI|26|05420|Bark River township|County Subdivision|A|Delta County
+MI|26|05470|Barnes Lake-Millers Lake CDP|Census Designated Place|S|Lapeer County
+MI|26|05500|Baroda village|Incorporated Place|A|Berrien County
+MI|26|05520|Baroda township|County Subdivision|A|Berrien County
+MI|26|05560|Barry township|County Subdivision|A|Barry County
+MI|26|05580|Barryton village|Incorporated Place|A|Mecosta County
+MI|26|05620|Barton township|County Subdivision|A|Newaygo County
+MI|26|05660|Barton Hills village|Incorporated Place|A|Washtenaw County
+MI|26|05800|Batavia township|County Subdivision|A|Branch County
+MI|26|05860|Bates township|County Subdivision|A|Iron County
+MI|26|05880|Bath CDP|Census Designated Place|S|Clinton County
+MI|26|05900|Bath charter township|County Subdivision|A|Clinton County
+MI|26|05920|Battle Creek city|County Subdivision|F|Calhoun County
+MI|26|05920|Battle Creek city|Incorporated Place|A|Calhoun County
+MI|26|06000|Bay township|County Subdivision|A|Charlevoix County
+MI|26|06020|Bay City city|County Subdivision|F|Bay County
+MI|26|06020|Bay City city|Incorporated Place|A|Bay County
+MI|26|06040|Bay de Noc township|County Subdivision|A|Delta County
+MI|26|06070|Bay Mills township|County Subdivision|A|Chippewa County
+MI|26|06120|Bay Port CDP|Census Designated Place|S|Huron County
+MI|26|06190|Bay Shore CDP|Census Designated Place|S|Charlevoix County, Emmet County
+MI|26|06260|Bay View CDP|Census Designated Place|S|Emmet County
+MI|26|06360|Beal City CDP|Census Designated Place|S|Isabella County
+MI|26|06380|Bear Creek township|County Subdivision|A|Emmet County
+MI|26|06400|Bearinger township|County Subdivision|A|Presque Isle County
+MI|26|06430|Bear Lake CDP|Census Designated Place|S|Kalkaska County
+MI|26|06440|Bear Lake township|County Subdivision|A|Kalkaska County
+MI|26|06460|Bear Lake village|Incorporated Place|A|Manistee County
+MI|26|06480|Bear Lake township|County Subdivision|A|Manistee County
+MI|26|06500|Beaugrand township|County Subdivision|A|Cheboygan County
+MI|26|06540|Beaver township|County Subdivision|A|Bay County
+MI|26|06580|Beaver township|County Subdivision|A|Newaygo County
+MI|26|06600|Beaver Creek township|County Subdivision|A|Crawford County
+MI|26|06660|Beaverton city|County Subdivision|F|Gladwin County
+MI|26|06660|Beaverton city|Incorporated Place|A|Gladwin County
+MI|26|06680|Beaverton township|County Subdivision|A|Gladwin County
+MI|26|06720|Bedford charter township|County Subdivision|A|Calhoun County
+MI|26|06740|Bedford township|County Subdivision|A|Monroe County
+MI|26|06820|Beecher CDP|Census Designated Place|S|Genesee County
+MI|26|06880|Beechwood CDP|Census Designated Place|S|Ottawa County
+MI|26|06900|Belding city|County Subdivision|F|Ionia County
+MI|26|06900|Belding city|Incorporated Place|A|Ionia County
+MI|26|06920|Belknap township|County Subdivision|A|Presque Isle County
+MI|26|06980|Bellaire village|Incorporated Place|A|Antrim County
+MI|26|07020|Belleville city|County Subdivision|F|Wayne County
+MI|26|07020|Belleville city|Incorporated Place|A|Wayne County
+MI|26|07060|Bellevue village|Incorporated Place|A|Eaton County
+MI|26|07080|Bellevue township|County Subdivision|A|Eaton County
+MI|26|07200|Belvidere township|County Subdivision|A|Montcalm County
+MI|26|07220|Bendon CDP|Census Designated Place|S|Benzie County
+MI|26|07240|Bengal township|County Subdivision|A|Clinton County
+MI|26|07280|Bennington township|County Subdivision|A|Shiawassee County
+MI|26|07300|Benona township|County Subdivision|A|Oceana County
+MI|26|07360|Bentley township|County Subdivision|A|Gladwin County
+MI|26|07400|Benton charter township|County Subdivision|A|Berrien County
+MI|26|07420|Benton township|County Subdivision|A|Cheboygan County
+MI|26|07440|Benton township|County Subdivision|A|Eaton County
+MI|26|07520|Benton Harbor city|County Subdivision|F|Berrien County
+MI|26|07520|Benton Harbor city|Incorporated Place|A|Berrien County
+MI|26|07540|Benton Heights CDP|Census Designated Place|S|Berrien County
+MI|26|07580|Benzonia village|Incorporated Place|A|Benzie County
+MI|26|07600|Benzonia township|County Subdivision|A|Benzie County
+MI|26|07640|Bergland township|County Subdivision|A|Ontonagon County
+MI|26|07660|Berkley city|County Subdivision|F|Oakland County
+MI|26|07660|Berkley city|Incorporated Place|A|Oakland County
+MI|26|07700|Berlin township|County Subdivision|A|Ionia County
+MI|26|07720|Berlin charter township|County Subdivision|A|Monroe County
+MI|26|07760|Berlin township|County Subdivision|A|St. Clair County
+MI|26|07820|Berrien township|County Subdivision|A|Berrien County
+MI|26|07860|Berrien Springs village|Incorporated Place|A|Berrien County
+MI|26|07920|Bertrand township|County Subdivision|A|Berrien County
+MI|26|07960|Bessemer city|County Subdivision|F|Gogebic County
+MI|26|07960|Bessemer city|Incorporated Place|A|Gogebic County
+MI|26|07980|Bessemer township|County Subdivision|A|Gogebic County
+MI|26|08020|Bethany township|County Subdivision|A|Gratiot County
+MI|26|08060|Bethel township|County Subdivision|A|Branch County
+MI|26|08100|Beulah village|Incorporated Place|A|Benzie County
+MI|26|08160|Beverly Hills village|Incorporated Place|A|Oakland County
+MI|26|08180|Big Bay CDP|Census Designated Place|S|Marquette County
+MI|26|08220|Big Creek township|County Subdivision|A|Oscoda County
+MI|26|08280|Big Prairie township|County Subdivision|A|Newaygo County
+MI|26|08300|Big Rapids city|County Subdivision|F|Mecosta County
+MI|26|08300|Big Rapids city|Incorporated Place|A|Mecosta County
+MI|26|08320|Big Rapids charter township|County Subdivision|A|Mecosta County
+MI|26|08360|Billings township|County Subdivision|A|Gladwin County
+MI|26|08400|Bingham township|County Subdivision|A|Clinton County
+MI|26|08420|Bingham township|County Subdivision|A|Huron County
+MI|26|08440|Bingham township|County Subdivision|A|Leelanau County
+MI|26|08460|Bingham Farms village|Incorporated Place|A|Oakland County
+MI|26|08540|Birch Run village|Incorporated Place|A|Saginaw County
+MI|26|08560|Birch Run township|County Subdivision|A|Saginaw County
+MI|26|08640|Birmingham city|County Subdivision|F|Oakland County
+MI|26|08640|Birmingham city|Incorporated Place|A|Oakland County
+MI|26|08700|Bismarck township|County Subdivision|A|Presque Isle County
+MI|26|08760|Blackman charter township|County Subdivision|A|Jackson County
+MI|26|08840|Blaine township|County Subdivision|A|Benzie County
+MI|26|08880|Blair township|County Subdivision|A|Grand Traverse County
+MI|26|08940|Blendon township|County Subdivision|A|Ottawa County
+MI|26|08980|Bliss township|County Subdivision|A|Emmet County
+MI|26|09000|Blissfield village|Incorporated Place|A|Lenawee County
+MI|26|09020|Blissfield township|County Subdivision|A|Lenawee County
+MI|26|09040|Bloomer township|County Subdivision|A|Montcalm County
+MI|26|09060|Bloomfield township|County Subdivision|A|Huron County
+MI|26|09080|Bloomfield township|County Subdivision|A|Missaukee County
+MI|26|09110|Bloomfield charter township|County Subdivision|A|Oakland County
+MI|26|09180|Bloomfield Hills city|County Subdivision|F|Oakland County
+MI|26|09180|Bloomfield Hills city|Incorporated Place|A|Oakland County
+MI|26|09220|Bloomingdale village|Incorporated Place|A|Van Buren County
+MI|26|09240|Bloomingdale township|County Subdivision|A|Van Buren County
+MI|26|09320|Blue Lake township|County Subdivision|A|Kalkaska County
+MI|26|09340|Blue Lake township|County Subdivision|A|Muskegon County
+MI|26|09400|Blumfield township|County Subdivision|A|Saginaw County
+MI|26|09440|Boardman township|County Subdivision|A|Kalkaska County
+MI|26|09460|Bohemia township|County Subdivision|A|Ontonagon County
+MI|26|09500|Bois Blanc township|County Subdivision|A|Mackinac County
+MI|26|09560|Boon CDP|Census Designated Place|S|Wexford County
+MI|26|09580|Boon township|County Subdivision|A|Wexford County
+MI|26|09680|Boston township|County Subdivision|A|Ionia County
+MI|26|09720|Bourret township|County Subdivision|A|Gladwin County
+MI|26|09780|Bowne township|County Subdivision|A|Kent County
+MI|26|09820|Boyne City city|County Subdivision|F|Charlevoix County
+MI|26|09820|Boyne City city|Incorporated Place|A|Charlevoix County
+MI|26|09840|Boyne Falls village|Incorporated Place|A|Charlevoix County
+MI|26|09860|Boyne Valley township|County Subdivision|A|Charlevoix County
+MI|26|09920|Brady township|County Subdivision|A|Kalamazoo County
+MI|26|09940|Brady township|County Subdivision|A|Saginaw County
+MI|26|09980|Brampton township|County Subdivision|A|Delta County
+MI|26|10020|Branch township|County Subdivision|A|Mason County
+MI|26|10040|Brandon charter township|County Subdivision|A|Oakland County
+MI|26|10100|Brant township|County Subdivision|A|Saginaw County
+MI|26|10160|Breckenridge village|Incorporated Place|A|Gratiot County
+MI|26|10180|Breedsville village|Incorporated Place|A|Van Buren County
+MI|26|10200|Breen township|County Subdivision|A|Dickinson County
+MI|26|10220|Breitung charter township|County Subdivision|A|Dickinson County
+MI|26|10300|Brethren CDP|Census Designated Place|S|Manistee County
+MI|26|10360|Brevort township|County Subdivision|A|Mackinac County
+MI|26|10420|Bridgehampton township|County Subdivision|A|Sanilac County
+MI|26|10440|Bridgeport CDP|Census Designated Place|S|Saginaw County
+MI|26|10460|Bridgeport charter township|County Subdivision|A|Saginaw County
+MI|26|10500|Bridgeton township|County Subdivision|A|Newaygo County
+MI|26|10560|Bridgewater township|County Subdivision|A|Washtenaw County
+MI|26|10580|Bridgman city|County Subdivision|F|Berrien County
+MI|26|10580|Bridgman city|Incorporated Place|A|Berrien County
+MI|26|10620|Brighton city|County Subdivision|F|Livingston County
+MI|26|10620|Brighton city|Incorporated Place|A|Livingston County
+MI|26|10640|Brighton township|County Subdivision|A|Livingston County
+MI|26|10660|Briley township|County Subdivision|A|Montmorency County
+MI|26|10760|Britton village|Incorporated Place|A|Lenawee County
+MI|26|10820|Brockway township|County Subdivision|A|St. Clair County
+MI|26|10860|Bronson city|County Subdivision|F|Branch County
+MI|26|10860|Bronson city|Incorporated Place|A|Branch County
+MI|26|10880|Bronson township|County Subdivision|A|Branch County
+MI|26|10920|Brookfield township|County Subdivision|A|Eaton County
+MI|26|10940|Brookfield township|County Subdivision|A|Huron County
+MI|26|11000|Brooklyn village|Incorporated Place|A|Jackson County
+MI|26|11060|Brooks township|County Subdivision|A|Newaygo County
+MI|26|11140|Broomfield township|County Subdivision|A|Isabella County
+MI|26|11160|Brown township|County Subdivision|A|Manistee County
+MI|26|11180|Brown City city|County Subdivision|F|Lapeer County, Sanilac County
+MI|26|11180|Brown City city|Incorporated Place|A|Lapeer County, Sanilac County
+MI|26|11200|Brownlee Park CDP|Census Designated Place|S|Calhoun County
+MI|26|11220|Brownstown charter township|County Subdivision|A|Wayne County
+MI|26|11280|Bruce township|County Subdivision|A|Chippewa County
+MI|26|11300|Bruce township|County Subdivision|A|Macomb County
+MI|26|11380|Brutus CDP|Census Designated Place|S|Emmet County
+MI|26|11400|Buchanan city|County Subdivision|F|Berrien County
+MI|26|11400|Buchanan city|Incorporated Place|A|Berrien County
+MI|26|11420|Buchanan township|County Subdivision|A|Berrien County
+MI|26|11440|Buckeye township|County Subdivision|A|Gladwin County
+MI|26|11480|Buckley village|Incorporated Place|A|Wexford County
+MI|26|11540|Buel township|County Subdivision|A|Sanilac County
+MI|26|11555|Buena Vista CDP|Census Designated Place|S|Saginaw County
+MI|26|11560|Buena Vista charter township|County Subdivision|A|Saginaw County
+MI|26|11640|Bunker Hill township|County Subdivision|A|Ingham County
+MI|26|11680|Burdell township|County Subdivision|A|Osceola County
+MI|26|11740|Burleigh township|County Subdivision|A|Iosco County
+MI|26|11800|Burlington village|Incorporated Place|A|Calhoun County
+MI|26|11820|Burlington township|County Subdivision|A|Calhoun County
+MI|26|11840|Burlington township|County Subdivision|A|Lapeer County
+MI|26|11880|Burns township|County Subdivision|A|Shiawassee County
+MI|26|11900|Burnside township|County Subdivision|A|Lapeer County
+MI|26|11920|Burr Oak village|Incorporated Place|A|St. Joseph County
+MI|26|11940|Burr Oak township|County Subdivision|A|St. Joseph County
+MI|26|11960|Burt township|County Subdivision|A|Alger County
+MI|26|11980|Burt township|County Subdivision|A|Cheboygan County
+MI|26|12000|Burt CDP|Census Designated Place|S|Saginaw County
+MI|26|12020|Burtchville township|County Subdivision|A|St. Clair County
+MI|26|12060|Burton city|County Subdivision|F|Genesee County
+MI|26|12060|Burton city|Incorporated Place|A|Genesee County
+MI|26|12120|Bushnell township|County Subdivision|A|Montcalm County
+MI|26|12140|Butler township|County Subdivision|A|Branch County
+MI|26|12180|Butman township|County Subdivision|A|Gladwin County
+MI|26|12200|Butterfield township|County Subdivision|A|Missaukee County
+MI|26|12240|Byron township|County Subdivision|A|Kent County
+MI|26|12260|Byron village|Incorporated Place|A|Shiawassee County
+MI|26|12280|Byron Center CDP|Census Designated Place|S|Kent County
+MI|26|12290|Caberfae CDP|Census Designated Place|S|Wexford County
+MI|26|12320|Cadillac city|County Subdivision|F|Wexford County
+MI|26|12320|Cadillac city|Incorporated Place|A|Wexford County
+MI|26|12440|Caldwell township|County Subdivision|A|Missaukee County
+MI|26|12460|Caledonia township|County Subdivision|A|Alcona County
+MI|26|12480|Caledonia village|Incorporated Place|A|Kent County
+MI|26|12500|Caledonia township|County Subdivision|A|Kent County
+MI|26|12520|Caledonia charter township|County Subdivision|A|Shiawassee County
+MI|26|12560|California township|County Subdivision|A|Branch County
+MI|26|12580|Calumet village|Incorporated Place|A|Houghton County
+MI|26|12600|Calumet charter township|County Subdivision|A|Houghton County
+MI|26|12620|Calvin township|County Subdivision|A|Cass County
+MI|26|12700|Cambria township|County Subdivision|A|Hillsdale County
+MI|26|12720|Cambridge township|County Subdivision|A|Lenawee County
+MI|26|12760|Camden village|Incorporated Place|A|Hillsdale County
+MI|26|12780|Camden township|County Subdivision|A|Hillsdale County
+MI|26|12840|Campbell township|County Subdivision|A|Ionia County
+MI|26|12980|Canada Creek Ranch CDP|Census Designated Place|S|Montmorency County
+MI|26|13010|Canadian Lakes CDP|Census Designated Place|S|Mecosta County
+MI|26|13080|Cannon township|County Subdivision|A|Kent County
+MI|26|13120|Canton charter township|County Subdivision|A|Wayne County
+MI|26|13140|Capac village|Incorporated Place|A|St. Clair County
+MI|26|13220|Carleton village|Incorporated Place|A|Monroe County
+MI|26|13340|Carlton township|County Subdivision|A|Barry County
+MI|26|13380|Carmel township|County Subdivision|A|Eaton County
+MI|26|13400|Carney village|Incorporated Place|A|Menominee County
+MI|26|13420|Caro village|Incorporated Place|A|Tuscola County
+MI|26|13480|Carp Lake CDP|Census Designated Place|S|Emmet County
+MI|26|13500|Carp Lake township|County Subdivision|A|Emmet County
+MI|26|13520|Carp Lake township|County Subdivision|A|Ontonagon County
+MI|26|13540|Carrollton township|County Subdivision|A|Saginaw County
+MI|26|13600|Carson City city|County Subdivision|F|Montcalm County
+MI|26|13600|Carson City city|Incorporated Place|A|Montcalm County
+MI|26|13620|Carsonville village|Incorporated Place|A|Sanilac County
+MI|26|13660|Cascade charter township|County Subdivision|A|Kent County
+MI|26|13700|Casco township|County Subdivision|A|Allegan County
+MI|26|13720|Casco township|County Subdivision|A|St. Clair County
+MI|26|13740|Case township|County Subdivision|A|Presque Isle County
+MI|26|13760|Caseville village|Incorporated Place|A|Huron County
+MI|26|13780|Caseville township|County Subdivision|A|Huron County
+MI|26|13820|Casnovia village|Incorporated Place|A|Kent County, Muskegon County
+MI|26|13840|Casnovia township|County Subdivision|A|Muskegon County
+MI|26|13860|Caspian city|County Subdivision|F|Iron County
+MI|26|13860|Caspian city|Incorporated Place|A|Iron County
+MI|26|13880|Cass City village|Incorporated Place|A|Tuscola County
+MI|26|13900|Cassopolis village|Incorporated Place|A|Cass County
+MI|26|13960|Castleton township|County Subdivision|A|Barry County
+MI|26|14000|Cato township|County Subdivision|A|Montcalm County
+MI|26|14020|Cedar CDP|Census Designated Place|S|Leelanau County
+MI|26|14040|Cedar township|County Subdivision|A|Osceola County
+MI|26|14100|Cedar Creek township|County Subdivision|A|Muskegon County
+MI|26|14120|Cedar Creek township|County Subdivision|A|Wexford County
+MI|26|14200|Cedar Springs city|County Subdivision|F|Kent County
+MI|26|14200|Cedar Springs city|Incorporated Place|A|Kent County
+MI|26|14240|Cedarville township|County Subdivision|A|Menominee County
+MI|26|14260|Cement City village|Incorporated Place|A|Jackson County, Lenawee County
+MI|26|14300|Center township|County Subdivision|A|Emmet County
+MI|26|14320|Center Line city|County Subdivision|F|Macomb County
+MI|26|14320|Center Line city|Incorporated Place|A|Macomb County
+MI|26|14340|Centerville township|County Subdivision|A|Leelanau County
+MI|26|14400|Central Lake village|Incorporated Place|A|Antrim County
+MI|26|14420|Central Lake township|County Subdivision|A|Antrim County
+MI|26|14460|Centreville village|Incorporated Place|A|St. Joseph County
+MI|26|14540|Champion township|County Subdivision|A|Marquette County
+MI|26|14560|Chandler township|County Subdivision|A|Charlevoix County
+MI|26|14600|Chandler township|County Subdivision|A|Huron County
+MI|26|14660|Chapin township|County Subdivision|A|Saginaw County
+MI|26|14720|Charleston township|County Subdivision|A|Kalamazoo County
+MI|26|14780|Charlevoix city|County Subdivision|F|Charlevoix County
+MI|26|14780|Charlevoix city|Incorporated Place|A|Charlevoix County
+MI|26|14800|Charlevoix township|County Subdivision|A|Charlevoix County
+MI|26|14820|Charlotte city|County Subdivision|F|Eaton County
+MI|26|14820|Charlotte city|Incorporated Place|A|Eaton County
+MI|26|14840|Charlton township|County Subdivision|A|Otsego County
+MI|26|14880|Chase township|County Subdivision|A|Lake County
+MI|26|14920|Chassell township|County Subdivision|A|Houghton County
+MI|26|14940|Chatham village|Incorporated Place|A|Alger County
+MI|26|15000|Cheboygan city|County Subdivision|F|Cheboygan County
+MI|26|15000|Cheboygan city|Incorporated Place|A|Cheboygan County
+MI|26|15020|Chelsea city|County Subdivision|F|Washtenaw County
+MI|26|15020|Chelsea city|Incorporated Place|A|Washtenaw County
+MI|26|15060|Cherry Grove township|County Subdivision|A|Wexford County
+MI|26|15100|Cherry Valley township|County Subdivision|A|Lake County
+MI|26|15140|Chesaning village|Incorporated Place|A|Saginaw County
+MI|26|15160|Chesaning township|County Subdivision|A|Saginaw County
+MI|26|15200|Cheshire township|County Subdivision|A|Allegan County
+MI|26|15260|Chester township|County Subdivision|A|Eaton County
+MI|26|15280|Chester township|County Subdivision|A|Otsego County
+MI|26|15300|Chester township|County Subdivision|A|Ottawa County
+MI|26|15340|Chesterfield township|County Subdivision|A|Macomb County
+MI|26|15380|Chestonia township|County Subdivision|A|Antrim County
+MI|26|15480|Chikaming township|County Subdivision|A|Berrien County
+MI|26|15540|China township|County Subdivision|A|St. Clair County
+MI|26|15560|Chippewa township|County Subdivision|A|Chippewa County
+MI|26|15580|Chippewa township|County Subdivision|A|Isabella County
+MI|26|15600|Chippewa township|County Subdivision|A|Mecosta County
+MI|26|15660|Chocolay charter township|County Subdivision|A|Marquette County
+MI|26|15715|Chums Corner CDP|Census Designated Place|S|Grand Traverse County
+MI|26|15740|Churchill township|County Subdivision|A|Ogemaw County
+MI|26|15860|Clam Lake township|County Subdivision|A|Wexford County
+MI|26|15900|Clam Union township|County Subdivision|A|Missaukee County
+MI|26|15920|Clare city|County Subdivision|F|Clare County, Isabella County
+MI|26|15920|Clare city|Incorporated Place|A|Clare County, Isabella County
+MI|26|15960|Clarence township|County Subdivision|A|Calhoun County
+MI|26|16020|Clarendon township|County Subdivision|A|Calhoun County
+MI|26|16060|Clark township|County Subdivision|A|Mackinac County
+MI|26|16140|Clarksville village|Incorporated Place|A|Ionia County
+MI|26|16160|Clawson city|County Subdivision|F|Oakland County
+MI|26|16160|Clawson city|Incorporated Place|A|Oakland County
+MI|26|16180|Clay township|County Subdivision|A|St. Clair County
+MI|26|16200|Claybanks township|County Subdivision|A|Oceana County
+MI|26|16240|Clayton township|County Subdivision|A|Arenac County
+MI|26|16260|Clayton charter township|County Subdivision|A|Genesee County
+MI|26|16280|Clayton village|Incorporated Place|A|Lenawee County
+MI|26|16340|Clearwater township|County Subdivision|A|Kalkaska County
+MI|26|16360|Clement township|County Subdivision|A|Gladwin County
+MI|26|16380|Cleon township|County Subdivision|A|Manistee County
+MI|26|16400|Cleveland township|County Subdivision|A|Leelanau County
+MI|26|16420|Clifford village|Incorporated Place|A|Lapeer County
+MI|26|16440|Climax village|Incorporated Place|A|Kalamazoo County
+MI|26|16460|Climax township|County Subdivision|A|Kalamazoo County
+MI|26|16480|Clinton village|Incorporated Place|A|Lenawee County
+MI|26|16500|Clinton township|County Subdivision|A|Lenawee County
+MI|26|16520|Clinton charter township|County Subdivision|A|Macomb County
+MI|26|16540|Clinton township|County Subdivision|A|Oscoda County
+MI|26|16620|Clio city|County Subdivision|F|Genesee County
+MI|26|16620|Clio city|Incorporated Place|A|Genesee County
+MI|26|16720|Clyde township|County Subdivision|A|Allegan County
+MI|26|16760|Clyde township|County Subdivision|A|St. Clair County
+MI|26|16880|Coe township|County Subdivision|A|Isabella County
+MI|26|16920|Cohoctah township|County Subdivision|A|Livingston County
+MI|26|17000|Coldsprings township|County Subdivision|A|Kalkaska County
+MI|26|17020|Coldwater city|County Subdivision|F|Branch County
+MI|26|17020|Coldwater city|Incorporated Place|A|Branch County
+MI|26|17040|Coldwater township|County Subdivision|A|Branch County
+MI|26|17060|Coldwater township|County Subdivision|A|Isabella County
+MI|26|17100|Coleman city|County Subdivision|F|Midland County
+MI|26|17100|Coleman city|Incorporated Place|A|Midland County
+MI|26|17120|Colfax township|County Subdivision|A|Benzie County
+MI|26|17140|Colfax township|County Subdivision|A|Huron County
+MI|26|17160|Colfax township|County Subdivision|A|Mecosta County
+MI|26|17180|Colfax township|County Subdivision|A|Oceana County
+MI|26|17200|Colfax township|County Subdivision|A|Wexford County
+MI|26|17320|Coloma city|County Subdivision|F|Berrien County
+MI|26|17320|Coloma city|Incorporated Place|A|Berrien County
+MI|26|17340|Coloma charter township|County Subdivision|A|Berrien County
+MI|26|17360|Colon village|Incorporated Place|A|St. Joseph County
+MI|26|17370|Colon township|County Subdivision|A|St. Joseph County
+MI|26|17400|Columbia township|County Subdivision|A|Jackson County
+MI|26|17420|Columbia township|County Subdivision|A|Tuscola County
+MI|26|17440|Columbia township|County Subdivision|A|Van Buren County
+MI|26|17460|Columbiaville village|Incorporated Place|A|Lapeer County
+MI|26|17480|Columbus township|County Subdivision|A|Luce County
+MI|26|17520|Columbus township|County Subdivision|A|St. Clair County
+MI|26|17600|Comins township|County Subdivision|A|Oscoda County
+MI|26|17640|Commerce charter township|County Subdivision|A|Oakland County
+MI|26|17680|Comstock charter township|County Subdivision|A|Kalamazoo County
+MI|26|17690|Comstock Northwest CDP|Census Designated Place|S|Kalamazoo County
+MI|26|17700|Comstock Park CDP|Census Designated Place|S|Kent County
+MI|26|17740|Concord village|Incorporated Place|A|Jackson County
+MI|26|17760|Concord township|County Subdivision|A|Jackson County
+MI|26|17840|Constantine village|Incorporated Place|A|St. Joseph County
+MI|26|17860|Constantine township|County Subdivision|A|St. Joseph County
+MI|26|17880|Convis township|County Subdivision|A|Calhoun County
+MI|26|17900|Conway CDP|Census Designated Place|S|Emmet County
+MI|26|17920|Conway township|County Subdivision|A|Livingston County
+MI|26|17980|Cooper charter township|County Subdivision|A|Kalamazoo County
+MI|26|18020|Coopersville city|County Subdivision|F|Ottawa County
+MI|26|18020|Coopersville city|Incorporated Place|A|Ottawa County
+MI|26|18040|Copemish village|Incorporated Place|A|Manistee County
+MI|26|18080|Copper City village|Incorporated Place|A|Houghton County
+MI|26|18100|Copper Harbor CDP|Census Designated Place|S|Keweenaw County
+MI|26|18280|Cornell township|County Subdivision|A|Delta County
+MI|26|18300|Corunna city|County Subdivision|F|Shiawassee County
+MI|26|18300|Corunna city|Incorporated Place|A|Shiawassee County
+MI|26|18320|Corwith township|County Subdivision|A|Otsego County
+MI|26|18400|Cottrellville township|County Subdivision|A|St. Clair County
+MI|26|18500|Courtland township|County Subdivision|A|Kent County
+MI|26|18560|Covert township|County Subdivision|A|Van Buren County
+MI|26|18600|Covington township|County Subdivision|A|Baraga County
+MI|26|18800|Crockery township|County Subdivision|A|Ottawa County
+MI|26|18880|Cross Village CDP|Census Designated Place|S|Emmet County
+MI|26|18900|Cross Village township|County Subdivision|A|Emmet County
+MI|26|18920|Croswell city|County Subdivision|F|Sanilac County
+MI|26|18920|Croswell city|Incorporated Place|A|Sanilac County
+MI|26|18980|Croton township|County Subdivision|A|Newaygo County
+MI|26|19080|Crystal township|County Subdivision|A|Montcalm County
+MI|26|19100|Crystal township|County Subdivision|A|Oceana County
+MI|26|19135|Crystal Downs Country Club CDP|Census Designated Place|S|Benzie County
+MI|26|19140|Crystal Falls city|County Subdivision|F|Iron County
+MI|26|19140|Crystal Falls city|Incorporated Place|A|Iron County
+MI|26|19150|Crystal Falls township|County Subdivision|A|Iron County
+MI|26|19180|Crystal Lake township|County Subdivision|A|Benzie County
+MI|26|19195|Crystal Mountain CDP|Census Designated Place|S|Benzie County
+MI|26|19260|Cumming township|County Subdivision|A|Ogemaw County
+MI|26|19320|Curtis township|County Subdivision|A|Alcona County
+MI|26|19400|Custer township|County Subdivision|A|Antrim County
+MI|26|19420|Custer village|Incorporated Place|A|Mason County
+MI|26|19440|Custer township|County Subdivision|A|Mason County
+MI|26|19460|Custer township|County Subdivision|A|Sanilac County
+MI|26|19500|Cutlerville CDP|Census Designated Place|S|Kent County
+MI|26|19540|Dafter township|County Subdivision|A|Chippewa County
+MI|26|19560|Daggett village|Incorporated Place|A|Menominee County
+MI|26|19580|Daggett township|County Subdivision|A|Menominee County
+MI|26|19620|Dallas township|County Subdivision|A|Clinton County
+MI|26|19660|Dalton township|County Subdivision|A|Muskegon County
+MI|26|19720|Danby township|County Subdivision|A|Ionia County
+MI|26|19780|Dansville village|Incorporated Place|A|Ingham County
+MI|26|19880|Davison city|County Subdivision|F|Genesee County
+MI|26|19880|Davison city|Incorporated Place|A|Genesee County
+MI|26|19900|Davison township|County Subdivision|A|Genesee County
+MI|26|19920|Day township|County Subdivision|A|Montcalm County
+MI|26|19960|Dayton township|County Subdivision|A|Newaygo County
+MI|26|19980|Dayton township|County Subdivision|A|Tuscola County
+MI|26|21000|Dearborn city|County Subdivision|F|Wayne County
+MI|26|21000|Dearborn city|Incorporated Place|A|Wayne County
+MI|26|21020|Dearborn Heights city|County Subdivision|F|Wayne County
+MI|26|21020|Dearborn Heights city|Incorporated Place|A|Wayne County
+MI|26|21040|Decatur village|Incorporated Place|A|Van Buren County
+MI|26|21060|Decatur township|County Subdivision|A|Van Buren County
+MI|26|21100|Deckerville village|Incorporated Place|A|Sanilac County
+MI|26|21120|Deep River township|County Subdivision|A|Arenac County
+MI|26|21140|Deerfield township|County Subdivision|A|Isabella County
+MI|26|21160|Deerfield township|County Subdivision|A|Lapeer County
+MI|26|21180|Deerfield village|Incorporated Place|A|Lenawee County
+MI|26|21200|Deerfield township|County Subdivision|A|Lenawee County
+MI|26|21220|Deerfield township|County Subdivision|A|Livingston County
+MI|26|21240|Deerfield township|County Subdivision|A|Mecosta County
+MI|26|21380|Delaware township|County Subdivision|A|Sanilac County
+MI|26|21420|Delhi charter township|County Subdivision|A|Ingham County
+MI|26|21520|Delta charter township|County Subdivision|A|Eaton County
+MI|26|21560|Delton CDP|Census Designated Place|S|Barry County
+MI|26|21600|Denmark township|County Subdivision|A|Tuscola County
+MI|26|21640|Denton township|County Subdivision|A|Roscommon County
+MI|26|21680|Denver township|County Subdivision|A|Isabella County
+MI|26|21700|Denver township|County Subdivision|A|Newaygo County
+MI|26|21770|Detour township|County Subdivision|A|Chippewa County
+MI|26|21780|De Tour Village village|Incorporated Place|A|Chippewa County
+MI|26|22000|Detroit city|County Subdivision|F|Wayne County
+MI|26|22000|Detroit city|Incorporated Place|A|Wayne County
+MI|26|22040|Detroit Beach CDP|Census Designated Place|S|Monroe County
+MI|26|22120|DeWitt city|County Subdivision|F|Clinton County
+MI|26|22120|DeWitt city|Incorporated Place|A|Clinton County
+MI|26|22140|DeWitt charter township|County Subdivision|A|Clinton County
+MI|26|22160|Dexter village|Incorporated Place|A|Washtenaw County
+MI|26|22180|Dexter township|County Subdivision|A|Washtenaw County
+MI|26|22320|Dickson township|County Subdivision|A|Manistee County
+MI|26|22380|Dimondale village|Incorporated Place|A|Eaton County
+MI|26|22520|Dollar Bay CDP|Census Designated Place|S|Houghton County
+MI|26|22680|Dorr township|County Subdivision|A|Allegan County
+MI|26|22740|Douglas city|County Subdivision|F|Allegan County
+MI|26|22740|Douglas city|Incorporated Place|A|Allegan County
+MI|26|22760|Douglass township|County Subdivision|A|Montcalm County
+MI|26|22800|Dover township|County Subdivision|A|Lake County
+MI|26|22820|Dover township|County Subdivision|A|Lenawee County
+MI|26|22840|Dover township|County Subdivision|A|Otsego County
+MI|26|22880|Dowagiac city|County Subdivision|F|Cass County
+MI|26|22880|Dowagiac city|Incorporated Place|A|Cass County
+MI|26|22900|Dowling CDP|Census Designated Place|S|Barry County
+MI|26|22960|Doyle township|County Subdivision|A|Schoolcraft County
+MI|26|23080|Drummond township|County Subdivision|A|Chippewa County
+MI|26|23140|Dryden village|Incorporated Place|A|Lapeer County
+MI|26|23160|Dryden township|County Subdivision|A|Lapeer County
+MI|26|23340|Duncan township|County Subdivision|A|Houghton County
+MI|26|23380|Dundee village|Incorporated Place|A|Monroe County
+MI|26|23400|Dundee township|County Subdivision|A|Monroe County
+MI|26|23460|Duplain township|County Subdivision|A|Clinton County
+MI|26|23500|Durand city|County Subdivision|F|Shiawassee County
+MI|26|23500|Durand city|Incorporated Place|A|Shiawassee County
+MI|26|23540|Dwight township|County Subdivision|A|Huron County
+MI|26|23560|Eagle village|Incorporated Place|A|Clinton County
+MI|26|23580|Eagle township|County Subdivision|A|Clinton County
+MI|26|23600|Eagle Harbor CDP|Census Designated Place|S|Keweenaw County
+MI|26|23620|Eagle Harbor township|County Subdivision|A|Keweenaw County
+MI|26|23740|Eagle River CDP|Census Designated Place|S|Keweenaw County
+MI|26|23800|East Bay township|County Subdivision|A|Grand Traverse County
+MI|26|23820|East China township|County Subdivision|A|St. Clair County
+MI|26|23980|East Grand Rapids city|County Subdivision|F|Kent County
+MI|26|23980|East Grand Rapids city|Incorporated Place|A|Kent County
+MI|26|24020|East Jordan city|County Subdivision|F|Charlevoix County
+MI|26|24020|East Jordan city|Incorporated Place|A|Charlevoix County
+MI|26|24060|Eastlake village|Incorporated Place|A|Manistee County
+MI|26|24120|East Lansing city|County Subdivision|F|Clinton County, Ingham County
+MI|26|24120|East Lansing city|Incorporated Place|A|Clinton County, Ingham County
+MI|26|24220|Easton township|County Subdivision|A|Ionia County
+MI|26|24290|Eastpointe city|County Subdivision|F|Macomb County
+MI|26|24290|Eastpointe city|Incorporated Place|A|Macomb County
+MI|26|24300|Eastport CDP|Census Designated Place|S|Antrim County
+MI|26|24420|East Tawas city|County Subdivision|F|Iosco County
+MI|26|24420|East Tawas city|Incorporated Place|A|Iosco County
+MI|26|24500|Eastwood CDP|Census Designated Place|S|Kalamazoo County
+MI|26|24520|Eaton township|County Subdivision|A|Eaton County
+MI|26|24540|Eaton Rapids city|County Subdivision|F|Eaton County
+MI|26|24540|Eaton Rapids city|Incorporated Place|A|Eaton County
+MI|26|24560|Eaton Rapids township|County Subdivision|A|Eaton County
+MI|26|24580|Eau Claire village|Incorporated Place|A|Berrien County
+MI|26|24640|Echo township|County Subdivision|A|Antrim County
+MI|26|24700|Eckford township|County Subdivision|A|Calhoun County
+MI|26|24740|Ecorse city|County Subdivision|F|Wayne County
+MI|26|24740|Ecorse city|Incorporated Place|A|Wayne County
+MI|26|24800|Eden township|County Subdivision|A|Lake County
+MI|26|24820|Eden township|County Subdivision|A|Mason County
+MI|26|24830|Edenville township|County Subdivision|A|Midland County
+MI|26|24880|Edgemont Park CDP|Census Designated Place|S|Ingham County
+MI|26|25000|Edmore village|Incorporated Place|A|Montcalm County
+MI|26|25020|Edwards township|County Subdivision|A|Ogemaw County
+MI|26|25040|Edwardsburg village|Incorporated Place|A|Cass County
+MI|26|25080|Egelston township|County Subdivision|A|Muskegon County
+MI|26|25120|Elba township|County Subdivision|A|Gratiot County
+MI|26|25160|Elba township|County Subdivision|A|Lapeer County
+MI|26|25180|Elberta village|Incorporated Place|A|Benzie County
+MI|26|25200|Elbridge township|County Subdivision|A|Oceana County
+MI|26|25260|Elk township|County Subdivision|A|Lake County
+MI|26|25280|Elk township|County Subdivision|A|Sanilac County
+MI|26|25300|Elkland township|County Subdivision|A|Tuscola County
+MI|26|25320|Elk Rapids village|Incorporated Place|A|Antrim County
+MI|26|25340|Elk Rapids township|County Subdivision|A|Antrim County
+MI|26|25360|Elkton village|Incorporated Place|A|Huron County
+MI|26|25380|Ellington township|County Subdivision|A|Tuscola County
+MI|26|25400|Ellis township|County Subdivision|A|Cheboygan County
+MI|26|25420|Ellsworth village|Incorporated Place|A|Antrim County
+MI|26|25440|Ellsworth township|County Subdivision|A|Lake County
+MI|26|25500|Elmer township|County Subdivision|A|Oscoda County
+MI|26|25540|Elmer township|County Subdivision|A|Sanilac County
+MI|26|25620|Elmira township|County Subdivision|A|Otsego County
+MI|26|25660|Elm River township|County Subdivision|A|Houghton County
+MI|26|25700|Elmwood charter township|County Subdivision|A|Leelanau County
+MI|26|25720|Elmwood township|County Subdivision|A|Tuscola County
+MI|26|25780|Elsie village|Incorporated Place|A|Clinton County
+MI|26|25820|Ely township|County Subdivision|A|Marquette County
+MI|26|25880|Emerson township|County Subdivision|A|Gratiot County
+MI|26|25935|Emmett charter township|County Subdivision|A|Calhoun County
+MI|26|25940|Emmett village|Incorporated Place|A|St. Clair County
+MI|26|25960|Emmett township|County Subdivision|A|St. Clair County
+MI|26|25980|Empire village|Incorporated Place|A|Leelanau County
+MI|26|26000|Empire township|County Subdivision|A|Leelanau County
+MI|26|26140|Ensign township|County Subdivision|A|Delta County
+MI|26|26160|Ensley township|County Subdivision|A|Newaygo County
+MI|26|26200|Enterprise township|County Subdivision|A|Missaukee County
+MI|26|26320|Erie township|County Subdivision|A|Monroe County
+MI|26|26340|Erwin township|County Subdivision|A|Gogebic County
+MI|26|26360|Escanaba city|County Subdivision|F|Delta County
+MI|26|26360|Escanaba city|Incorporated Place|A|Delta County
+MI|26|26380|Escanaba township|County Subdivision|A|Delta County
+MI|26|26400|Essex township|County Subdivision|A|Clinton County
+MI|26|26420|Essexville city|County Subdivision|F|Bay County
+MI|26|26420|Essexville city|Incorporated Place|A|Bay County
+MI|26|26460|Estral Beach village|Incorporated Place|A|Monroe County
+MI|26|26520|Eureka township|County Subdivision|A|Montcalm County
+MI|26|26580|Evangeline township|County Subdivision|A|Charlevoix County
+MI|26|26640|Evart city|County Subdivision|F|Osceola County
+MI|26|26640|Evart city|Incorporated Place|A|Osceola County
+MI|26|26660|Evart township|County Subdivision|A|Osceola County
+MI|26|26680|Eveline township|County Subdivision|A|Charlevoix County
+MI|26|26700|Everett township|County Subdivision|A|Newaygo County
+MI|26|26720|Evergreen township|County Subdivision|A|Montcalm County
+MI|26|26740|Evergreen township|County Subdivision|A|Sanilac County
+MI|26|26840|Ewing township|County Subdivision|A|Marquette County
+MI|26|26860|Excelsior township|County Subdivision|A|Kalkaska County
+MI|26|26880|Exeter township|County Subdivision|A|Monroe County
+MI|26|26920|Fabius township|County Subdivision|A|St. Joseph County
+MI|26|26960|Fairbanks township|County Subdivision|A|Delta County
+MI|26|27020|Fairfield township|County Subdivision|A|Lenawee County
+MI|26|27040|Fairfield township|County Subdivision|A|Shiawassee County
+MI|26|27080|Fairgrove village|Incorporated Place|A|Tuscola County
+MI|26|27100|Fairgrove township|County Subdivision|A|Tuscola County
+MI|26|27120|Fairhaven township|County Subdivision|A|Huron County
+MI|26|27160|Fair Plain CDP|Census Designated Place|S|Berrien County
+MI|26|27180|Fairplain township|County Subdivision|A|Montcalm County
+MI|26|27300|Faithorn township|County Subdivision|A|Menominee County
+MI|26|27380|Farmington city|County Subdivision|F|Oakland County
+MI|26|27380|Farmington city|Incorporated Place|A|Oakland County
+MI|26|27440|Farmington Hills city|County Subdivision|F|Oakland County
+MI|26|27440|Farmington Hills city|Incorporated Place|A|Oakland County
+MI|26|27500|Farwell village|Incorporated Place|A|Clare County
+MI|26|27540|Fawn River township|County Subdivision|A|St. Joseph County
+MI|26|27580|Fayette township|County Subdivision|A|Hillsdale County
+MI|26|27660|Felch township|County Subdivision|A|Dickinson County
+MI|26|27740|Fennville city|County Subdivision|F|Allegan County
+MI|26|27740|Fennville city|Incorporated Place|A|Allegan County
+MI|26|27760|Fenton city|County Subdivision|F|Genesee County, Livingston County, Oakland County
+MI|26|27760|Fenton city|Incorporated Place|A|Genesee County, Livingston County, Oakland County
+MI|26|27780|Fenton charter township|County Subdivision|A|Genesee County
+MI|26|27880|Ferndale city|County Subdivision|F|Oakland County
+MI|26|27880|Ferndale city|Incorporated Place|A|Oakland County
+MI|26|27900|Ferris township|County Subdivision|A|Montcalm County
+MI|26|27940|Ferry township|County Subdivision|A|Oceana County
+MI|26|27960|Ferrysburg city|County Subdivision|F|Ottawa County
+MI|26|27960|Ferrysburg city|Incorporated Place|A|Ottawa County
+MI|26|28000|Fife Lake village|Incorporated Place|A|Grand Traverse County
+MI|26|28020|Fife Lake township|County Subdivision|A|Grand Traverse County
+MI|26|28040|Filer charter township|County Subdivision|A|Manistee County
+MI|26|28060|Filer City CDP|Census Designated Place|S|Manistee County
+MI|26|28120|Fillmore township|County Subdivision|A|Allegan County
+MI|26|28360|Flat Rock city|County Subdivision|F|Monroe County, Wayne County
+MI|26|28360|Flat Rock city|Incorporated Place|A|Monroe County, Wayne County
+MI|26|29000|Flint city|County Subdivision|F|Genesee County
+MI|26|29000|Flint city|Incorporated Place|A|Genesee County
+MI|26|29020|Flint charter township|County Subdivision|A|Genesee County
+MI|26|29060|Florence township|County Subdivision|A|St. Joseph County
+MI|26|29140|Flowerfield township|County Subdivision|A|St. Joseph County
+MI|26|29200|Flushing city|County Subdivision|F|Genesee County
+MI|26|29200|Flushing city|Incorporated Place|A|Genesee County
+MI|26|29220|Flushing charter township|County Subdivision|A|Genesee County
+MI|26|29240|Flynn township|County Subdivision|A|Sanilac County
+MI|26|29380|Ford River township|County Subdivision|A|Delta County
+MI|26|29400|Forest township|County Subdivision|A|Cheboygan County
+MI|26|29420|Forest township|County Subdivision|A|Genesee County
+MI|26|29440|Forest township|County Subdivision|A|Missaukee County
+MI|26|29500|Forester township|County Subdivision|A|Sanilac County
+MI|26|29580|Forest Hills CDP|Census Designated Place|S|Kent County
+MI|26|29600|Forest Home township|County Subdivision|A|Antrim County
+MI|26|29660|Forestville village|Incorporated Place|A|Sanilac County
+MI|26|29680|Fork township|County Subdivision|A|Mecosta County
+MI|26|29720|Forsyth township|County Subdivision|A|Marquette County
+MI|26|29760|Fort Gratiot charter township|County Subdivision|A|St. Clair County
+MI|26|29860|Foster township|County Subdivision|A|Ogemaw County
+MI|26|29920|Fostoria CDP|Census Designated Place|S|Tuscola County
+MI|26|29940|Fountain village|Incorporated Place|A|Mason County
+MI|26|30040|Fowler village|Incorporated Place|A|Clinton County
+MI|26|30060|Fowlerville village|Incorporated Place|A|Livingston County
+MI|26|30180|Frankenlust township|County Subdivision|A|Bay County
+MI|26|30200|Frankenmuth city|County Subdivision|F|Saginaw County
+MI|26|30200|Frankenmuth city|Incorporated Place|A|Saginaw County
+MI|26|30220|Frankenmuth township|County Subdivision|A|Saginaw County
+MI|26|30260|Frankfort city|County Subdivision|F|Benzie County
+MI|26|30260|Frankfort city|Incorporated Place|A|Benzie County
+MI|26|30280|Franklin township|County Subdivision|A|Clare County
+MI|26|30300|Franklin township|County Subdivision|A|Houghton County
+MI|26|30320|Franklin township|County Subdivision|A|Lenawee County
+MI|26|30340|Franklin village|Incorporated Place|A|Oakland County
+MI|26|30400|Fraser township|County Subdivision|A|Bay County
+MI|26|30420|Fraser city|County Subdivision|F|Macomb County
+MI|26|30420|Fraser city|Incorporated Place|A|Macomb County
+MI|26|30480|Frederic township|County Subdivision|A|Crawford County
+MI|26|30500|Fredonia township|County Subdivision|A|Calhoun County
+MI|26|30520|Freedom township|County Subdivision|A|Washtenaw County
+MI|26|30540|Freeland CDP|Census Designated Place|S|Saginaw County
+MI|26|30560|Freeman township|County Subdivision|A|Clare County
+MI|26|30580|Freeport village|Incorporated Place|A|Barry County
+MI|26|30600|Free Soil village|Incorporated Place|A|Mason County
+MI|26|30620|Free Soil township|County Subdivision|A|Mason County
+MI|26|30680|Fremont township|County Subdivision|A|Isabella County
+MI|26|30700|Fremont city|County Subdivision|F|Newaygo County
+MI|26|30700|Fremont city|Incorporated Place|A|Newaygo County
+MI|26|30720|Fremont township|County Subdivision|A|Saginaw County
+MI|26|30740|Fremont township|County Subdivision|A|Sanilac County
+MI|26|30760|Fremont township|County Subdivision|A|Tuscola County
+MI|26|30820|Frenchtown township|County Subdivision|A|Monroe County
+MI|26|30860|Friendship township|County Subdivision|A|Emmet County
+MI|26|30900|Frost township|County Subdivision|A|Clare County
+MI|26|30980|Fruitland township|County Subdivision|A|Muskegon County
+MI|26|31000|Fruitport village|Incorporated Place|A|Muskegon County
+MI|26|31020|Fruitport charter township|County Subdivision|A|Muskegon County
+MI|26|31080|Fulton township|County Subdivision|A|Gratiot County
+MI|26|31160|Gaastra city|County Subdivision|F|Iron County
+MI|26|31160|Gaastra city|Incorporated Place|A|Iron County
+MI|26|31180|Gagetown village|Incorporated Place|A|Tuscola County
+MI|26|31200|Gaines village|Incorporated Place|A|Genesee County
+MI|26|31220|Gaines township|County Subdivision|A|Genesee County
+MI|26|31240|Gaines charter township|County Subdivision|A|Kent County
+MI|26|31260|Galesburg city|County Subdivision|F|Kalamazoo County
+MI|26|31260|Galesburg city|Incorporated Place|A|Kalamazoo County
+MI|26|31300|Galien village|Incorporated Place|A|Berrien County
+MI|26|31320|Galien township|County Subdivision|A|Berrien County
+MI|26|31360|Ganges township|County Subdivision|A|Allegan County
+MI|26|31380|Garden village|Incorporated Place|A|Delta County
+MI|26|31400|Garden township|County Subdivision|A|Delta County
+MI|26|31420|Garden City city|County Subdivision|F|Wayne County
+MI|26|31420|Garden City city|Incorporated Place|A|Wayne County
+MI|26|31540|Garfield township|County Subdivision|A|Bay County
+MI|26|31560|Garfield township|County Subdivision|A|Clare County
+MI|26|31580|Garfield charter township|County Subdivision|A|Grand Traverse County
+MI|26|31600|Garfield township|County Subdivision|A|Kalkaska County
+MI|26|31620|Garfield township|County Subdivision|A|Mackinac County
+MI|26|31640|Garfield township|County Subdivision|A|Newaygo County
+MI|26|31720|Gaylord city|County Subdivision|F|Otsego County
+MI|26|31720|Gaylord city|Incorporated Place|A|Otsego County
+MI|26|31800|Genesee charter township|County Subdivision|A|Genesee County
+MI|26|31820|Geneva township|County Subdivision|A|Midland County
+MI|26|31840|Geneva township|County Subdivision|A|Van Buren County
+MI|26|31860|Genoa township|County Subdivision|A|Livingston County
+MI|26|31880|Georgetown charter township|County Subdivision|A|Ottawa County
+MI|26|31940|Germfask township|County Subdivision|A|Schoolcraft County
+MI|26|31960|Gerrish township|County Subdivision|A|Roscommon County
+MI|26|32020|Gibraltar city|County Subdivision|F|Wayne County
+MI|26|32020|Gibraltar city|Incorporated Place|A|Wayne County
+MI|26|32040|Gibson township|County Subdivision|A|Bay County
+MI|26|32120|Gilead township|County Subdivision|A|Branch County
+MI|26|32160|Gilford township|County Subdivision|A|Tuscola County
+MI|26|32180|Gilmore township|County Subdivision|A|Benzie County
+MI|26|32200|Gilmore township|County Subdivision|A|Isabella County
+MI|26|32280|Girard township|County Subdivision|A|Branch County
+MI|26|32300|Gladstone city|County Subdivision|F|Delta County
+MI|26|32300|Gladstone city|Incorporated Place|A|Delta County
+MI|26|32320|Gladwin city|County Subdivision|F|Gladwin County
+MI|26|32320|Gladwin city|Incorporated Place|A|Gladwin County
+MI|26|32340|Gladwin township|County Subdivision|A|Gladwin County
+MI|26|32360|Glen Arbor CDP|Census Designated Place|S|Leelanau County
+MI|26|32380|Glen Arbor township|County Subdivision|A|Leelanau County
+MI|26|32640|Gobles city|County Subdivision|F|Van Buren County
+MI|26|32640|Gobles city|Incorporated Place|A|Van Buren County
+MI|26|32780|Golden township|County Subdivision|A|Oceana County
+MI|26|32860|Goodar township|County Subdivision|A|Ogemaw County
+MI|26|32960|Goodland township|County Subdivision|A|Lapeer County
+MI|26|32980|Goodrich village|Incorporated Place|A|Genesee County
+MI|26|33000|Goodwell township|County Subdivision|A|Newaygo County
+MI|26|33080|Gore township|County Subdivision|A|Huron County
+MI|26|33160|Gourley township|County Subdivision|A|Menominee County
+MI|26|33260|Grand Beach village|Incorporated Place|A|Berrien County
+MI|26|33280|Grand Blanc city|County Subdivision|F|Genesee County
+MI|26|33280|Grand Blanc city|Incorporated Place|A|Genesee County
+MI|26|33300|Grand Blanc charter township|County Subdivision|A|Genesee County
+MI|26|33340|Grand Haven city|County Subdivision|F|Ottawa County
+MI|26|33340|Grand Haven city|Incorporated Place|A|Ottawa County
+MI|26|33360|Grand Haven charter township|County Subdivision|A|Ottawa County
+MI|26|33380|Grand Island township|County Subdivision|A|Alger County
+MI|26|33420|Grand Ledge city|County Subdivision|F|Clinton County, Eaton County
+MI|26|33420|Grand Ledge city|Incorporated Place|A|Clinton County, Eaton County
+MI|26|34000|Grand Rapids city|County Subdivision|F|Kent County
+MI|26|34000|Grand Rapids city|Incorporated Place|A|Kent County
+MI|26|34020|Grand Rapids charter township|County Subdivision|A|Kent County
+MI|26|34160|Grandville city|County Subdivision|F|Kent County
+MI|26|34160|Grandville city|Incorporated Place|A|Kent County
+MI|26|34200|Grant township|County Subdivision|A|Cheboygan County
+MI|26|34220|Grant township|County Subdivision|A|Clare County
+MI|26|34240|Grant township|County Subdivision|A|Grand Traverse County
+MI|26|34260|Grant township|County Subdivision|A|Huron County
+MI|26|34280|Grant township|County Subdivision|A|Iosco County
+MI|26|34300|Grant township|County Subdivision|A|Keweenaw County
+MI|26|34320|Grant township|County Subdivision|A|Mason County
+MI|26|34340|Grant township|County Subdivision|A|Mecosta County
+MI|26|34360|Grant city|County Subdivision|F|Newaygo County
+MI|26|34360|Grant city|Incorporated Place|A|Newaygo County
+MI|26|34380|Grant township|County Subdivision|A|Newaygo County
+MI|26|34400|Grant township|County Subdivision|A|Oceana County
+MI|26|34420|Grant township|County Subdivision|A|St. Clair County
+MI|26|34480|Grass Lake village|Incorporated Place|A|Jackson County
+MI|26|34500|Grass Lake charter township|County Subdivision|A|Jackson County
+MI|26|34560|Grattan township|County Subdivision|A|Kent County
+MI|26|34620|Grawn CDP|Census Designated Place|S|Grand Traverse County
+MI|26|34640|Grayling city|County Subdivision|F|Crawford County
+MI|26|34640|Grayling city|Incorporated Place|A|Crawford County
+MI|26|34660|Grayling charter township|County Subdivision|A|Crawford County
+MI|26|34740|Green township|County Subdivision|A|Alpena County
+MI|26|34760|Green charter township|County Subdivision|A|Mecosta County
+MI|26|34820|Greenbush township|County Subdivision|A|Alcona County
+MI|26|34840|Greenbush township|County Subdivision|A|Clinton County
+MI|26|34860|Greendale township|County Subdivision|A|Midland County
+MI|26|34960|Green Lake township|County Subdivision|A|Grand Traverse County
+MI|26|35000|Greenland township|County Subdivision|A|Ontonagon County
+MI|26|35020|Greenleaf township|County Subdivision|A|Sanilac County
+MI|26|35060|Green Oak township|County Subdivision|A|Livingston County
+MI|26|35100|Greenville city|County Subdivision|F|Montcalm County
+MI|26|35100|Greenville city|Incorporated Place|A|Montcalm County
+MI|26|35120|Greenwood township|County Subdivision|A|Clare County
+MI|26|35160|Greenwood township|County Subdivision|A|Oceana County
+MI|26|35200|Greenwood township|County Subdivision|A|Oscoda County
+MI|26|35220|Greenwood township|County Subdivision|A|St. Clair County
+MI|26|35240|Greenwood township|County Subdivision|A|Wexford County
+MI|26|35300|Greilickville CDP|Census Designated Place|S|Leelanau County
+MI|26|35340|Grim township|County Subdivision|A|Gladwin County
+MI|26|35420|Grosse Ile township|County Subdivision|A|Wayne County
+MI|26|35480|Grosse Pointe city|County Subdivision|F|Wayne County
+MI|26|35480|Grosse Pointe city|Incorporated Place|A|Wayne County
+MI|26|35520|Grosse Pointe Farms city|County Subdivision|F|Wayne County
+MI|26|35520|Grosse Pointe Farms city|Incorporated Place|A|Wayne County
+MI|26|35540|Grosse Pointe Park city|County Subdivision|F|Wayne County
+MI|26|35540|Grosse Pointe Park city|Incorporated Place|A|Wayne County
+MI|26|35580|Grosse Pointe Woods city|County Subdivision|F|Wayne County
+MI|26|35580|Grosse Pointe Woods city|Incorporated Place|A|Wayne County
+MI|26|35620|Grout township|County Subdivision|A|Gladwin County
+MI|26|35640|Groveland township|County Subdivision|A|Oakland County
+MI|26|35720|Gun Plain township|County Subdivision|A|Allegan County
+MI|26|35740|Gustin township|County Subdivision|A|Alcona County
+MI|26|35760|Gwinn CDP|Census Designated Place|S|Marquette County
+MI|26|35840|Hadley township|County Subdivision|A|Lapeer County
+MI|26|35860|Hagar township|County Subdivision|A|Berrien County
+MI|26|35960|Haight township|County Subdivision|A|Ontonagon County
+MI|26|36100|Hamburg township|County Subdivision|A|Livingston County
+MI|26|36140|Hamilton township|County Subdivision|A|Clare County
+MI|26|36160|Hamilton township|County Subdivision|A|Gratiot County
+MI|26|36180|Hamilton township|County Subdivision|A|Van Buren County
+MI|26|36200|Hamlin township|County Subdivision|A|Eaton County
+MI|26|36220|Hamlin township|County Subdivision|A|Mason County
+MI|26|36260|Hampton charter township|County Subdivision|A|Bay County
+MI|26|36280|Hamtramck city|County Subdivision|F|Wayne County
+MI|26|36280|Hamtramck city|Incorporated Place|A|Wayne County
+MI|26|36300|Hancock city|County Subdivision|F|Houghton County
+MI|26|36300|Hancock city|Incorporated Place|A|Houghton County
+MI|26|36320|Hancock township|County Subdivision|A|Houghton County
+MI|26|36340|Handy township|County Subdivision|A|Livingston County
+MI|26|36380|Hanover village|Incorporated Place|A|Jackson County
+MI|26|36400|Hanover township|County Subdivision|A|Jackson County
+MI|26|36420|Hanover township|County Subdivision|A|Wexford County
+MI|26|36460|Harbor Beach city|County Subdivision|F|Huron County
+MI|26|36460|Harbor Beach city|Incorporated Place|A|Huron County
+MI|26|36560|Harbor Springs city|County Subdivision|F|Emmet County
+MI|26|36560|Harbor Springs city|Incorporated Place|A|Emmet County
+MI|26|36585|Hardwood Acres CDP|Census Designated Place|S|Benzie County
+MI|26|36590|Haring CDP|Census Designated Place|S|Wexford County
+MI|26|36600|Haring charter township|County Subdivision|A|Wexford County
+MI|26|36700|Harper Woods city|County Subdivision|F|Wayne County
+MI|26|36700|Harper Woods city|Incorporated Place|A|Wayne County
+MI|26|36720|Harrietta village|Incorporated Place|A|Wexford County
+MI|26|36760|Harris township|County Subdivision|A|Menominee County
+MI|26|36800|Harrison city|County Subdivision|F|Clare County
+MI|26|36800|Harrison city|Incorporated Place|A|Clare County
+MI|26|36820|Harrison charter township|County Subdivision|A|Macomb County
+MI|26|36860|Harrisville city|County Subdivision|F|Alcona County
+MI|26|36860|Harrisville city|Incorporated Place|A|Alcona County
+MI|26|36880|Harrisville township|County Subdivision|A|Alcona County
+MI|26|36920|Hart city|County Subdivision|F|Oceana County
+MI|26|36920|Hart city|Incorporated Place|A|Oceana County
+MI|26|36940|Hart township|County Subdivision|A|Oceana County
+MI|26|36960|Hartford city|County Subdivision|F|Van Buren County
+MI|26|36960|Hartford city|Incorporated Place|A|Van Buren County
+MI|26|36980|Hartford township|County Subdivision|A|Van Buren County
+MI|26|37040|Hartland township|County Subdivision|A|Livingston County
+MI|26|37060|Hartwick township|County Subdivision|A|Osceola County
+MI|26|37080|Harvey CDP|Census Designated Place|S|Marquette County
+MI|26|37100|Haslett CDP|Census Designated Place|S|Ingham County
+MI|26|37120|Hastings city|County Subdivision|F|Barry County
+MI|26|37120|Hastings city|Incorporated Place|A|Barry County
+MI|26|37140|Hastings charter township|County Subdivision|A|Barry County
+MI|26|37160|Hatton township|County Subdivision|A|Clare County
+MI|26|37220|Hawes township|County Subdivision|A|Alcona County
+MI|26|37300|Hay township|County Subdivision|A|Gladwin County
+MI|26|37320|Hayes township|County Subdivision|A|Charlevoix County
+MI|26|37340|Hayes township|County Subdivision|A|Clare County
+MI|26|37360|Hayes township|County Subdivision|A|Otsego County
+MI|26|37380|Haynes township|County Subdivision|A|Alcona County
+MI|26|37420|Hazel Park city|County Subdivision|F|Oakland County
+MI|26|37420|Hazel Park city|Incorporated Place|A|Oakland County
+MI|26|37440|Hazelton township|County Subdivision|A|Shiawassee County
+MI|26|37460|Heath township|County Subdivision|A|Allegan County
+MI|26|37480|Hebron township|County Subdivision|A|Cheboygan County
+MI|26|37500|Helena township|County Subdivision|A|Antrim County
+MI|26|37580|Hematite township|County Subdivision|A|Iron County
+MI|26|37600|Hemlock CDP|Census Designated Place|S|Saginaw County
+MI|26|37620|Henderson CDP|Census Designated Place|S|Shiawassee County
+MI|26|37640|Henderson township|County Subdivision|A|Wexford County
+MI|26|37660|Hendricks township|County Subdivision|A|Mackinac County
+MI|26|37700|Henrietta township|County Subdivision|A|Jackson County
+MI|26|37820|Hersey village|Incorporated Place|A|Osceola County
+MI|26|37840|Hersey township|County Subdivision|A|Osceola County
+MI|26|37860|Hesperia village|Incorporated Place|A|Newaygo County, Oceana County
+MI|26|37940|Hiawatha township|County Subdivision|A|Schoolcraft County
+MI|26|37960|Hickory Corners CDP|Census Designated Place|S|Barry County
+MI|26|38020|Higgins township|County Subdivision|A|Roscommon County
+MI|26|38080|Highland charter township|County Subdivision|A|Oakland County
+MI|26|38100|Highland township|County Subdivision|A|Osceola County
+MI|26|38180|Highland Park city|County Subdivision|F|Wayne County
+MI|26|38180|Highland Park city|Incorporated Place|A|Wayne County
+MI|26|38300|Hill township|County Subdivision|A|Ogemaw County
+MI|26|38380|Hillman village|Incorporated Place|A|Alpena County, Montmorency County
+MI|26|38400|Hillman township|County Subdivision|A|Montmorency County
+MI|26|38460|Hillsdale city|County Subdivision|F|Hillsdale County
+MI|26|38460|Hillsdale city|Incorporated Place|A|Hillsdale County
+MI|26|38480|Hillsdale township|County Subdivision|A|Hillsdale County
+MI|26|38540|Hinton township|County Subdivision|A|Mecosta County
+MI|26|38620|Holland township|County Subdivision|A|Missaukee County
+MI|26|38640|Holland city|County Subdivision|F|Allegan County, Ottawa County
+MI|26|38640|Holland city|Incorporated Place|A|Allegan County, Ottawa County
+MI|26|38660|Holland charter township|County Subdivision|A|Ottawa County
+MI|26|38700|Holly village|Incorporated Place|A|Oakland County
+MI|26|38720|Holly township|County Subdivision|A|Oakland County
+MI|26|38760|Holmes township|County Subdivision|A|Menominee County
+MI|26|38780|Holt CDP|Census Designated Place|S|Ingham County
+MI|26|38820|Holton township|County Subdivision|A|Muskegon County
+MI|26|38840|Home township|County Subdivision|A|Montcalm County
+MI|26|38860|Home township|County Subdivision|A|Newaygo County
+MI|26|38920|Homer village|Incorporated Place|A|Calhoun County
+MI|26|38940|Homer township|County Subdivision|A|Calhoun County
+MI|26|38980|Homer township|County Subdivision|A|Midland County
+MI|26|39000|Homestead township|County Subdivision|A|Benzie County
+MI|26|39080|Honor village|Incorporated Place|A|Benzie County
+MI|26|39120|Hope township|County Subdivision|A|Barry County
+MI|26|39160|Hope township|County Subdivision|A|Midland County
+MI|26|39180|Hopkins village|Incorporated Place|A|Allegan County
+MI|26|39200|Hopkins township|County Subdivision|A|Allegan County
+MI|26|39320|Horton township|County Subdivision|A|Ogemaw County
+MI|26|39340|Horton Bay CDP|Census Designated Place|S|Charlevoix County
+MI|26|39360|Houghton city|County Subdivision|F|Houghton County
+MI|26|39360|Houghton city|Incorporated Place|A|Houghton County
+MI|26|39380|Houghton township|County Subdivision|A|Keweenaw County
+MI|26|39400|Houghton Lake CDP|Census Designated Place|S|Roscommon County
+MI|26|39480|Howard township|County Subdivision|A|Cass County
+MI|26|39500|Howard City village|Incorporated Place|A|Montcalm County
+MI|26|39540|Howell city|County Subdivision|F|Livingston County
+MI|26|39540|Howell city|Incorporated Place|A|Livingston County
+MI|26|39560|Howell township|County Subdivision|A|Livingston County
+MI|26|39634|Hubbard Lake CDP|Census Designated Place|S|Alcona County
+MI|26|39660|Hubbardston village|Incorporated Place|A|Clinton County, Ionia County
+MI|26|39680|Hubbell CDP|Census Designated Place|S|Houghton County
+MI|26|39700|Hudson township|County Subdivision|A|Charlevoix County
+MI|26|39720|Hudson city|County Subdivision|F|Lenawee County
+MI|26|39720|Hudson city|Incorporated Place|A|Lenawee County
+MI|26|39740|Hudson township|County Subdivision|A|Lenawee County
+MI|26|39760|Hudson township|County Subdivision|A|Mackinac County
+MI|26|39800|Hudsonville city|County Subdivision|F|Ottawa County
+MI|26|39800|Hudsonville city|Incorporated Place|A|Ottawa County
+MI|26|39860|Hulbert township|County Subdivision|A|Chippewa County
+MI|26|39940|Humboldt township|County Subdivision|A|Marquette County
+MI|26|39960|Hume township|County Subdivision|A|Huron County
+MI|26|40000|Huntington Woods city|County Subdivision|F|Oakland County
+MI|26|40000|Huntington Woods city|Incorporated Place|A|Oakland County
+MI|26|40020|Huron township|County Subdivision|A|Huron County
+MI|26|40040|Huron charter township|County Subdivision|A|Wayne County
+MI|26|40260|Ida township|County Subdivision|A|Monroe County
+MI|26|40300|Imlay township|County Subdivision|A|Lapeer County
+MI|26|40320|Imlay City city|County Subdivision|F|Lapeer County
+MI|26|40320|Imlay City city|Incorporated Place|A|Lapeer County
+MI|26|40400|Independence charter township|County Subdivision|A|Oakland County
+MI|26|40440|Indianfields township|County Subdivision|A|Tuscola County
+MI|26|40480|Indian River CDP|Census Designated Place|S|Cheboygan County
+MI|26|40600|Ingallston township|County Subdivision|A|Menominee County
+MI|26|40620|Ingersoll township|County Subdivision|A|Midland County
+MI|26|40640|Ingham township|County Subdivision|A|Ingham County
+MI|26|40680|Inkster city|County Subdivision|F|Wayne County
+MI|26|40680|Inkster city|Incorporated Place|A|Wayne County
+MI|26|40700|Inland township|County Subdivision|A|Benzie County
+MI|26|40760|Interior township|County Subdivision|A|Ontonagon County
+MI|26|40800|Interlochen CDP|Census Designated Place|S|Grand Traverse County
+MI|26|40820|Inverness township|County Subdivision|A|Cheboygan County
+MI|26|40840|Inwood township|County Subdivision|A|Schoolcraft County
+MI|26|40860|Ionia city|County Subdivision|F|Ionia County
+MI|26|40860|Ionia city|Incorporated Place|A|Ionia County
+MI|26|40880|Ionia township|County Subdivision|A|Ionia County
+MI|26|40900|Iosco township|County Subdivision|A|Livingston County
+MI|26|40920|Ira township|County Subdivision|A|St. Clair County
+MI|26|40960|Iron Mountain city|County Subdivision|F|Dickinson County
+MI|26|40960|Iron Mountain city|Incorporated Place|A|Dickinson County
+MI|26|40980|Iron River city|County Subdivision|F|Iron County
+MI|26|40980|Iron River city|Incorporated Place|A|Iron County
+MI|26|41000|Iron River township|County Subdivision|A|Iron County
+MI|26|41040|Ironton CDP|Census Designated Place|S|Charlevoix County
+MI|26|41060|Ironwood city|County Subdivision|F|Gogebic County
+MI|26|41060|Ironwood city|Incorporated Place|A|Gogebic County
+MI|26|41080|Ironwood charter township|County Subdivision|A|Gogebic County
+MI|26|41120|Irving township|County Subdivision|A|Barry County
+MI|26|41160|Isabella township|County Subdivision|A|Isabella County
+MI|26|41220|Ishpeming city|County Subdivision|F|Marquette County
+MI|26|41220|Ishpeming city|Incorporated Place|A|Marquette County
+MI|26|41240|Ishpeming township|County Subdivision|A|Marquette County
+MI|26|41340|Ithaca city|County Subdivision|F|Gratiot County
+MI|26|41340|Ithaca city|Incorporated Place|A|Gratiot County
+MI|26|41420|Jackson city|County Subdivision|F|Jackson County
+MI|26|41420|Jackson city|Incorporated Place|A|Jackson County
+MI|26|41480|James township|County Subdivision|A|Saginaw County
+MI|26|41520|Jamestown charter township|County Subdivision|A|Ottawa County
+MI|26|41540|Jasper CDP|Census Designated Place|S|Lenawee County
+MI|26|41560|Jasper township|County Subdivision|A|Midland County
+MI|26|41600|Jefferson township|County Subdivision|A|Cass County
+MI|26|41620|Jefferson township|County Subdivision|A|Hillsdale County
+MI|26|41680|Jenison CDP|Census Designated Place|S|Ottawa County
+MI|26|41720|Jennings CDP|Census Designated Place|S|Missaukee County
+MI|26|41760|Jerome township|County Subdivision|A|Midland County
+MI|26|41860|Johnstown township|County Subdivision|A|Barry County
+MI|26|41900|Jonesfield township|County Subdivision|A|Saginaw County
+MI|26|41920|Jonesville village|Incorporated Place|A|Hillsdale County
+MI|26|41960|Jordan township|County Subdivision|A|Antrim County
+MI|26|42000|Joyfield township|County Subdivision|A|Benzie County
+MI|26|42140|Juniata township|County Subdivision|A|Tuscola County
+MI|26|42160|Kalamazoo city|County Subdivision|F|Kalamazoo County
+MI|26|42160|Kalamazoo city|Incorporated Place|A|Kalamazoo County
+MI|26|42180|Kalamazoo charter township|County Subdivision|A|Kalamazoo County
+MI|26|42220|Kalamo township|County Subdivision|A|Eaton County
+MI|26|42240|Kaleva village|Incorporated Place|A|Manistee County
+MI|26|42260|Kalkaska village|Incorporated Place|A|Kalkaska County
+MI|26|42280|Kalkaska township|County Subdivision|A|Kalkaska County
+MI|26|42320|Kasson township|County Subdivision|A|Leelanau County
+MI|26|42360|Kawkawlin township|County Subdivision|A|Bay County
+MI|26|42400|Kearney township|County Subdivision|A|Antrim County
+MI|26|42460|Keego Harbor city|County Subdivision|F|Oakland County
+MI|26|42460|Keego Harbor city|Incorporated Place|A|Oakland County
+MI|26|42500|Keeler township|County Subdivision|A|Van Buren County
+MI|26|42520|Keene township|County Subdivision|A|Ionia County
+MI|26|42740|Kenockee township|County Subdivision|A|St. Clair County
+MI|26|42780|Kent City village|Incorporated Place|A|Kent County
+MI|26|42820|Kentwood city|County Subdivision|F|Kent County
+MI|26|42820|Kentwood city|Incorporated Place|A|Kent County
+MI|26|43160|Kimball township|County Subdivision|A|St. Clair County
+MI|26|43220|Kinde village|Incorporated Place|A|Huron County
+MI|26|43260|Kinderhook township|County Subdivision|A|Branch County
+MI|26|43300|Kingsford city|County Subdivision|F|Dickinson County
+MI|26|43300|Kingsford city|Incorporated Place|A|Dickinson County
+MI|26|43340|Kingsley village|Incorporated Place|A|Grand Traverse County
+MI|26|43380|Kingston village|Incorporated Place|A|Tuscola County
+MI|26|43400|Kingston township|County Subdivision|A|Tuscola County
+MI|26|43480|Kinross charter township|County Subdivision|A|Chippewa County
+MI|26|43558|K. I. Sawyer CDP|Census Designated Place|S|Marquette County
+MI|26|43640|Klacking township|County Subdivision|A|Ogemaw County
+MI|26|43800|Kochville township|County Subdivision|A|Saginaw County
+MI|26|43820|Koehler township|County Subdivision|A|Cheboygan County
+MI|26|43880|Koylton township|County Subdivision|A|Tuscola County
+MI|26|43900|Krakow township|County Subdivision|A|Presque Isle County
+MI|26|44080|Lafayette township|County Subdivision|A|Gratiot County
+MI|26|44140|LaGrange township|County Subdivision|A|Cass County
+MI|26|44200|Laingsburg city|County Subdivision|F|Shiawassee County
+MI|26|44200|Laingsburg city|Incorporated Place|A|Shiawassee County
+MI|26|44220|Laird township|County Subdivision|A|Houghton County
+MI|26|44240|Lake township|County Subdivision|A|Benzie County
+MI|26|44260|Lake charter township|County Subdivision|A|Berrien County
+MI|26|44300|Lake township|County Subdivision|A|Huron County
+MI|26|44320|Lake township|County Subdivision|A|Lake County
+MI|26|44360|Lake township|County Subdivision|A|Menominee County
+MI|26|44380|Lake township|County Subdivision|A|Missaukee County
+MI|26|44400|Lake township|County Subdivision|A|Roscommon County
+MI|26|44440|Lake Angelus city|County Subdivision|F|Oakland County
+MI|26|44440|Lake Angelus city|Incorporated Place|A|Oakland County
+MI|26|44460|Lake Ann village|Incorporated Place|A|Benzie County
+MI|26|44480|Lake City city|County Subdivision|F|Missaukee County
+MI|26|44480|Lake City city|Incorporated Place|A|Missaukee County
+MI|26|44520|Lake Fenton CDP|Census Designated Place|S|Genesee County
+MI|26|44540|Lakefield township|County Subdivision|A|Luce County
+MI|26|44560|Lakefield township|County Subdivision|A|Saginaw County
+MI|26|44715|Lake Isabella village|Incorporated Place|A|Isabella County
+MI|26|44760|Lake Leelanau CDP|Census Designated Place|S|Leelanau County
+MI|26|44780|Lake Linden village|Incorporated Place|A|Houghton County
+MI|26|44820|Lake Michigan Beach CDP|Census Designated Place|S|Berrien County
+MI|26|44880|Lake Odessa village|Incorporated Place|A|Ionia County
+MI|26|44940|Lake Orion village|Incorporated Place|A|Oakland County
+MI|26|45070|Lakes of the North CDP|Census Designated Place|S|Antrim County
+MI|26|45160|Laketon township|County Subdivision|A|Muskegon County
+MI|26|45180|Laketown township|County Subdivision|A|Allegan County
+MI|26|45190|Lake Victoria CDP|Census Designated Place|S|Clinton County
+MI|26|45240|Lakeview village|Incorporated Place|A|Montcalm County
+MI|26|45340|Lakewood Club village|Incorporated Place|A|Muskegon County
+MI|26|45420|Lambertville CDP|Census Designated Place|S|Monroe County
+MI|26|45460|Lamotte township|County Subdivision|A|Sanilac County
+MI|26|45540|L'Anse village|Incorporated Place|A|Baraga County
+MI|26|45560|L'Anse township|County Subdivision|A|Baraga County
+MI|26|46000|Lansing city|County Subdivision|F|Eaton County, Ingham County
+MI|26|46000|Lansing city|Incorporated Place|A|Eaton County, Ingham County
+MI|26|46020|Lansing charter township|County Subdivision|A|Ingham County
+MI|26|46040|Lapeer city|County Subdivision|F|Lapeer County
+MI|26|46040|Lapeer city|Incorporated Place|A|Lapeer County
+MI|26|46060|Lapeer township|County Subdivision|A|Lapeer County
+MI|26|46160|Larkin charter township|County Subdivision|A|Midland County
+MI|26|46260|La Salle township|County Subdivision|A|Monroe County
+MI|26|46320|Lathrup Village city|County Subdivision|F|Oakland County
+MI|26|46320|Lathrup Village city|Incorporated Place|A|Oakland County
+MI|26|46360|Laurium village|Incorporated Place|A|Houghton County
+MI|26|46440|Lawrence village|Incorporated Place|A|Van Buren County
+MI|26|46460|Lawrence township|County Subdivision|A|Van Buren County
+MI|26|46500|Lawton village|Incorporated Place|A|Van Buren County
+MI|26|46560|Leavitt township|County Subdivision|A|Oceana County
+MI|26|46580|Lebanon township|County Subdivision|A|Clinton County
+MI|26|46600|Lee township|County Subdivision|A|Allegan County
+MI|26|46620|Lee township|County Subdivision|A|Calhoun County
+MI|26|46640|Lee township|County Subdivision|A|Midland County
+MI|26|46700|Leelanau township|County Subdivision|A|Leelanau County
+MI|26|46760|Leighton township|County Subdivision|A|Allegan County
+MI|26|46800|Leland CDP|Census Designated Place|S|Leelanau County
+MI|26|46820|Leland township|County Subdivision|A|Leelanau County
+MI|26|46880|Lennon village|Incorporated Place|A|Genesee County, Shiawassee County
+MI|26|46900|Lenox township|County Subdivision|A|Macomb County
+MI|26|46940|Leonard village|Incorporated Place|A|Oakland County
+MI|26|46980|Leoni township|County Subdivision|A|Jackson County
+MI|26|47020|Leonidas township|County Subdivision|A|St. Joseph County
+MI|26|47060|Leroy township|County Subdivision|A|Calhoun County
+MI|26|47080|Leroy township|County Subdivision|A|Ingham County
+MI|26|47100|Le Roy village|Incorporated Place|A|Osceola County
+MI|26|47120|Le Roy township|County Subdivision|A|Osceola County
+MI|26|47180|Leslie city|County Subdivision|F|Ingham County
+MI|26|47180|Leslie city|Incorporated Place|A|Ingham County
+MI|26|47200|Leslie township|County Subdivision|A|Ingham County
+MI|26|47230|Level Park-Oak Park CDP|Census Designated Place|S|Calhoun County
+MI|26|47240|Levering CDP|Census Designated Place|S|Emmet County
+MI|26|47260|Lewiston CDP|Census Designated Place|S|Montmorency County
+MI|26|47280|Lexington village|Incorporated Place|A|Sanilac County
+MI|26|47300|Lexington township|County Subdivision|A|Sanilac County
+MI|26|47360|Liberty township|County Subdivision|A|Jackson County
+MI|26|47380|Liberty township|County Subdivision|A|Wexford County
+MI|26|47440|Lilley township|County Subdivision|A|Newaygo County
+MI|26|47460|Lima township|County Subdivision|A|Washtenaw County
+MI|26|47540|Limestone township|County Subdivision|A|Alger County
+MI|26|47560|Lincoln village|Incorporated Place|A|Alcona County
+MI|26|47580|Lincoln township|County Subdivision|A|Arenac County
+MI|26|47600|Lincoln charter township|County Subdivision|A|Berrien County
+MI|26|47620|Lincoln township|County Subdivision|A|Clare County
+MI|26|47640|Lincoln township|County Subdivision|A|Huron County
+MI|26|47660|Lincoln township|County Subdivision|A|Isabella County
+MI|26|47680|Lincoln township|County Subdivision|A|Midland County
+MI|26|47700|Lincoln township|County Subdivision|A|Newaygo County
+MI|26|47720|Lincoln township|County Subdivision|A|Osceola County
+MI|26|47800|Lincoln Park city|County Subdivision|F|Wayne County
+MI|26|47800|Lincoln Park city|Incorporated Place|A|Wayne County
+MI|26|47820|Linden city|County Subdivision|F|Genesee County
+MI|26|47820|Linden city|Incorporated Place|A|Genesee County
+MI|26|47980|Litchfield city|County Subdivision|F|Hillsdale County
+MI|26|47980|Litchfield city|Incorporated Place|A|Hillsdale County
+MI|26|48000|Litchfield township|County Subdivision|A|Hillsdale County
+MI|26|48020|Littlefield township|County Subdivision|A|Emmet County
+MI|26|48080|Little Traverse township|County Subdivision|A|Emmet County
+MI|26|48140|Livingston township|County Subdivision|A|Otsego County
+MI|26|49000|Livonia city|County Subdivision|F|Wayne County
+MI|26|49000|Livonia city|Incorporated Place|A|Wayne County
+MI|26|49040|Locke township|County Subdivision|A|Ingham County
+MI|26|49060|Lockport township|County Subdivision|A|St. Joseph County
+MI|26|49120|Lodi township|County Subdivision|A|Washtenaw County
+MI|26|49140|Logan township|County Subdivision|A|Mason County
+MI|26|49160|Logan township|County Subdivision|A|Ogemaw County
+MI|26|49180|London township|County Subdivision|A|Monroe County
+MI|26|49240|Long Lake township|County Subdivision|A|Grand Traverse County
+MI|26|49360|Long Rapids township|County Subdivision|A|Alpena County
+MI|26|49400|Loomis CDP|Census Designated Place|S|Isabella County
+MI|26|49450|Lost Lake Woods CDP|Census Designated Place|S|Alcona County
+MI|26|49480|Loud township|County Subdivision|A|Montmorency County
+MI|26|49520|Lovells township|County Subdivision|A|Crawford County
+MI|26|49540|Lowell city|County Subdivision|F|Kent County
+MI|26|49540|Lowell city|Incorporated Place|A|Kent County
+MI|26|49560|Lowell charter township|County Subdivision|A|Kent County
+MI|26|49640|Ludington city|County Subdivision|F|Mason County
+MI|26|49640|Ludington city|Incorporated Place|A|Mason County
+MI|26|49700|Luna Pier city|County Subdivision|F|Monroe County
+MI|26|49700|Luna Pier city|Incorporated Place|A|Monroe County
+MI|26|49720|Lupton CDP|Census Designated Place|S|Ogemaw County
+MI|26|49740|Luther village|Incorporated Place|A|Lake County
+MI|26|49780|Lyndon township|County Subdivision|A|Washtenaw County
+MI|26|49800|Lynn township|County Subdivision|A|St. Clair County
+MI|26|49820|Lyon charter township|County Subdivision|A|Oakland County
+MI|26|49840|Lyon township|County Subdivision|A|Roscommon County
+MI|26|49900|Lyons village|Incorporated Place|A|Ionia County
+MI|26|49920|Lyons township|County Subdivision|A|Ionia County
+MI|26|49980|McBain city|County Subdivision|F|Missaukee County
+MI|26|49980|McBain city|Incorporated Place|A|Missaukee County
+MI|26|50000|McBride village|Incorporated Place|A|Montcalm County
+MI|26|50280|Mackinac Island city|County Subdivision|F|Mackinac County
+MI|26|50280|Mackinac Island city|Incorporated Place|A|Mackinac County
+MI|26|50300|Mackinaw township|County Subdivision|A|Cheboygan County
+MI|26|50320|Mackinaw City village|Incorporated Place|A|Cheboygan County, Emmet County
+MI|26|50340|McKinley township|County Subdivision|A|Emmet County
+MI|26|50360|McKinley township|County Subdivision|A|Huron County
+MI|26|50440|McMillan township|County Subdivision|A|Luce County
+MI|26|50460|McMillan township|County Subdivision|A|Ontonagon County
+MI|26|50480|Macomb township|County Subdivision|A|Macomb County
+MI|26|50520|Macon township|County Subdivision|A|Lenawee County
+MI|26|50540|Madison charter township|County Subdivision|A|Lenawee County
+MI|26|50560|Madison Heights city|County Subdivision|F|Oakland County
+MI|26|50560|Madison Heights city|Incorporated Place|A|Oakland County
+MI|26|50620|Mancelona village|Incorporated Place|A|Antrim County
+MI|26|50640|Mancelona township|County Subdivision|A|Antrim County
+MI|26|50660|Manchester village|Incorporated Place|A|Washtenaw County
+MI|26|50680|Manchester township|County Subdivision|A|Washtenaw County
+MI|26|50720|Manistee city|County Subdivision|F|Manistee County
+MI|26|50720|Manistee city|Incorporated Place|A|Manistee County
+MI|26|50740|Manistee township|County Subdivision|A|Manistee County
+MI|26|50755|Manistee Lake CDP|Census Designated Place|S|Kalkaska County
+MI|26|50760|Manistique city|County Subdivision|F|Schoolcraft County
+MI|26|50760|Manistique city|Incorporated Place|A|Schoolcraft County
+MI|26|50780|Manistique township|County Subdivision|A|Schoolcraft County
+MI|26|50830|Manitou Beach-Devils Lake CDP|Census Designated Place|S|Lenawee County
+MI|26|50840|Manlius township|County Subdivision|A|Allegan County
+MI|26|50860|Mansfield township|County Subdivision|A|Iron County
+MI|26|50880|Manton city|County Subdivision|F|Wexford County
+MI|26|50880|Manton city|Incorporated Place|A|Wexford County
+MI|26|50920|Maple City CDP|Census Designated Place|S|Leelanau County
+MI|26|50940|Maple Forest township|County Subdivision|A|Crawford County
+MI|26|50960|Maple Grove township|County Subdivision|A|Barry County
+MI|26|50970|Maple Grove CDP|Census Designated Place|S|Benzie County
+MI|26|51000|Maple Grove township|County Subdivision|A|Manistee County
+MI|26|51060|Maple Grove township|County Subdivision|A|Saginaw County
+MI|26|51200|Maple Rapids village|Incorporated Place|A|Clinton County
+MI|26|51220|Maple Ridge township|County Subdivision|A|Alpena County
+MI|26|51260|Maple Ridge township|County Subdivision|A|Delta County
+MI|26|51280|Maple River township|County Subdivision|A|Emmet County
+MI|26|51340|Maple Valley township|County Subdivision|A|Montcalm County
+MI|26|51380|Maple Valley township|County Subdivision|A|Sanilac County
+MI|26|51420|Marathon township|County Subdivision|A|Lapeer County
+MI|26|51460|Marcellus village|Incorporated Place|A|Cass County
+MI|26|51480|Marcellus township|County Subdivision|A|Cass County
+MI|26|51520|Marengo township|County Subdivision|A|Calhoun County
+MI|26|51540|Marenisco CDP|Census Designated Place|S|Gogebic County
+MI|26|51560|Marenisco township|County Subdivision|A|Gogebic County
+MI|26|51580|Marilla township|County Subdivision|A|Manistee County
+MI|26|51600|Marine City city|County Subdivision|F|St. Clair County
+MI|26|51600|Marine City city|Incorporated Place|A|St. Clair County
+MI|26|51620|Marion township|County Subdivision|A|Charlevoix County
+MI|26|51640|Marion township|County Subdivision|A|Livingston County
+MI|26|51660|Marion village|Incorporated Place|A|Osceola County
+MI|26|51680|Marion township|County Subdivision|A|Osceola County
+MI|26|51700|Marion township|County Subdivision|A|Saginaw County
+MI|26|51720|Marion township|County Subdivision|A|Sanilac County
+MI|26|51780|Markey township|County Subdivision|A|Roscommon County
+MI|26|51820|Marlette city|County Subdivision|F|Sanilac County
+MI|26|51820|Marlette city|Incorporated Place|A|Sanilac County
+MI|26|51840|Marlette township|County Subdivision|A|Sanilac County
+MI|26|51880|Marquette township|County Subdivision|A|Mackinac County
+MI|26|51900|Marquette city|County Subdivision|F|Marquette County
+MI|26|51900|Marquette city|Incorporated Place|A|Marquette County
+MI|26|51920|Marquette charter township|County Subdivision|A|Marquette County
+MI|26|51940|Marshall city|County Subdivision|F|Calhoun County
+MI|26|51940|Marshall city|Incorporated Place|A|Calhoun County
+MI|26|51960|Marshall township|County Subdivision|A|Calhoun County
+MI|26|51980|Martin village|Incorporated Place|A|Allegan County
+MI|26|52000|Martin township|County Subdivision|A|Allegan County
+MI|26|52060|Martiny township|County Subdivision|A|Mecosta County
+MI|26|52080|Marysville city|County Subdivision|F|St. Clair County
+MI|26|52080|Marysville city|Incorporated Place|A|St. Clair County
+MI|26|52120|Mason township|County Subdivision|A|Arenac County
+MI|26|52140|Mason township|County Subdivision|A|Cass County
+MI|26|52180|Mason city|County Subdivision|F|Ingham County
+MI|26|52180|Mason city|Incorporated Place|A|Ingham County
+MI|26|52220|Masonville township|County Subdivision|A|Delta County
+MI|26|52300|Mastodon township|County Subdivision|A|Iron County
+MI|26|52320|Matchwood township|County Subdivision|A|Ontonagon County
+MI|26|52360|Mathias township|County Subdivision|A|Alger County
+MI|26|52380|Mattawan village|Incorporated Place|A|Van Buren County
+MI|26|52400|Matteson township|County Subdivision|A|Branch County
+MI|26|52440|Maybee village|Incorporated Place|A|Monroe County
+MI|26|52480|Mayfield township|County Subdivision|A|Grand Traverse County
+MI|26|52500|Mayfield township|County Subdivision|A|Lapeer County
+MI|26|52540|Mayville village|Incorporated Place|A|Tuscola County
+MI|26|52600|Meade township|County Subdivision|A|Huron County
+MI|26|52640|Meade township|County Subdivision|A|Mason County
+MI|26|52760|Mecosta village|Incorporated Place|A|Mecosta County
+MI|26|52780|Mecosta township|County Subdivision|A|Mecosta County
+MI|26|52820|Medina township|County Subdivision|A|Lenawee County
+MI|26|52860|Mellen township|County Subdivision|A|Menominee County
+MI|26|52880|Melrose township|County Subdivision|A|Charlevoix County
+MI|26|52920|Melvin village|Incorporated Place|A|Sanilac County
+MI|26|52940|Melvindale city|County Subdivision|F|Wayne County
+MI|26|52940|Melvindale city|Incorporated Place|A|Wayne County
+MI|26|52960|Memphis city|County Subdivision|F|Macomb County, St. Clair County
+MI|26|52960|Memphis city|Incorporated Place|A|Macomb County, St. Clair County
+MI|26|52980|Mendon village|Incorporated Place|A|St. Joseph County
+MI|26|53000|Mendon township|County Subdivision|A|St. Joseph County
+MI|26|53020|Menominee city|County Subdivision|F|Menominee County
+MI|26|53020|Menominee city|Incorporated Place|A|Menominee County
+MI|26|53040|Menominee township|County Subdivision|A|Menominee County
+MI|26|53100|Mentor township|County Subdivision|A|Cheboygan County
+MI|26|53120|Mentor township|County Subdivision|A|Oscoda County
+MI|26|53140|Meridian charter township|County Subdivision|A|Ingham County
+MI|26|53160|Merrill township|County Subdivision|A|Newaygo County
+MI|26|53180|Merrill village|Incorporated Place|A|Saginaw County
+MI|26|53220|Merritt township|County Subdivision|A|Bay County
+MI|26|53320|Mesick village|Incorporated Place|A|Wexford County
+MI|26|53340|Metamora village|Incorporated Place|A|Lapeer County
+MI|26|53360|Metamora township|County Subdivision|A|Lapeer County
+MI|26|53440|Metz township|County Subdivision|A|Presque Isle County
+MI|26|53460|Meyer township|County Subdivision|A|Menominee County
+MI|26|53500|Michiana village|Incorporated Place|A|Berrien County
+MI|26|53520|Michigamme CDP|Census Designated Place|S|Marquette County
+MI|26|53540|Michigamme township|County Subdivision|A|Marquette County
+MI|26|53580|Michigan Center CDP|Census Designated Place|S|Jackson County
+MI|26|53660|Middle Branch township|County Subdivision|A|Osceola County
+MI|26|53680|Middlebury township|County Subdivision|A|Shiawassee County
+MI|26|53730|Middletown CDP|Census Designated Place|S|Shiawassee County
+MI|26|53760|Middleville village|Incorporated Place|A|Barry County
+MI|26|53780|Midland city|County Subdivision|F|Bay County, Midland County
+MI|26|53780|Midland city|Incorporated Place|A|Bay County, Midland County
+MI|26|53800|Midland charter township|County Subdivision|A|Midland County
+MI|26|53880|Mikado township|County Subdivision|A|Alcona County
+MI|26|53900|Milan township|County Subdivision|A|Monroe County
+MI|26|53920|Milan city|County Subdivision|F|Monroe County, Washtenaw County
+MI|26|53920|Milan city|Incorporated Place|A|Monroe County, Washtenaw County
+MI|26|53960|Milford village|Incorporated Place|A|Oakland County
+MI|26|53980|Milford charter township|County Subdivision|A|Oakland County
+MI|26|54020|Millbrook township|County Subdivision|A|Mecosta County
+MI|26|54060|Millen township|County Subdivision|A|Alcona County
+MI|26|54120|Millersburg village|Incorporated Place|A|Presque Isle County
+MI|26|54220|Millington village|Incorporated Place|A|Tuscola County
+MI|26|54240|Millington township|County Subdivision|A|Tuscola County
+MI|26|54320|Mills township|County Subdivision|A|Midland County
+MI|26|54340|Mills township|County Subdivision|A|Ogemaw County
+MI|26|54440|Milton township|County Subdivision|A|Antrim County
+MI|26|54460|Milton township|County Subdivision|A|Cass County
+MI|26|54540|Minden township|County Subdivision|A|Sanilac County
+MI|26|54560|Minden City village|Incorporated Place|A|Sanilac County
+MI|26|54660|Mio CDP|Census Designated Place|S|Oscoda County
+MI|26|54740|Mitchell township|County Subdivision|A|Alcona County
+MI|26|54800|Moffatt township|County Subdivision|A|Arenac County
+MI|26|54860|Moltke township|County Subdivision|A|Presque Isle County
+MI|26|54980|Monitor charter township|County Subdivision|A|Bay County
+MI|26|55020|Monroe city|County Subdivision|F|Monroe County
+MI|26|55020|Monroe city|Incorporated Place|A|Monroe County
+MI|26|55040|Monroe charter township|County Subdivision|A|Monroe County
+MI|26|55060|Monroe township|County Subdivision|A|Newaygo County
+MI|26|55100|Montague city|County Subdivision|F|Muskegon County
+MI|26|55100|Montague city|Incorporated Place|A|Muskegon County
+MI|26|55120|Montague township|County Subdivision|A|Muskegon County
+MI|26|55140|Montcalm township|County Subdivision|A|Montcalm County
+MI|26|55200|Monterey township|County Subdivision|A|Allegan County
+MI|26|55220|Montgomery village|Incorporated Place|A|Hillsdale County
+MI|26|55240|Montmorency township|County Subdivision|A|Montmorency County
+MI|26|55280|Montrose city|County Subdivision|F|Genesee County
+MI|26|55280|Montrose city|Incorporated Place|A|Genesee County
+MI|26|55300|Montrose charter township|County Subdivision|A|Genesee County
+MI|26|55320|Moore township|County Subdivision|A|Sanilac County
+MI|26|55440|Moorland township|County Subdivision|A|Muskegon County
+MI|26|55480|Moran township|County Subdivision|A|Mackinac County
+MI|26|55500|Morenci city|County Subdivision|F|Lenawee County
+MI|26|55500|Morenci city|Incorporated Place|A|Lenawee County
+MI|26|55540|Morley village|Incorporated Place|A|Mecosta County
+MI|26|55560|Morrice village|Incorporated Place|A|Shiawassee County
+MI|26|55600|Morton township|County Subdivision|A|Mecosta County
+MI|26|55640|Moscow township|County Subdivision|A|Hillsdale County
+MI|26|55780|Mottville township|County Subdivision|A|St. Joseph County
+MI|26|55820|Mount Clemens city|County Subdivision|F|Macomb County
+MI|26|55820|Mount Clemens city|Incorporated Place|A|Macomb County
+MI|26|55920|Mount Forest township|County Subdivision|A|Bay County
+MI|26|55940|Mount Haley township|County Subdivision|A|Midland County
+MI|26|55960|Mount Morris city|County Subdivision|F|Genesee County
+MI|26|55960|Mount Morris city|Incorporated Place|A|Genesee County
+MI|26|55980|Mount Morris township|County Subdivision|A|Genesee County
+MI|26|56020|Mount Pleasant city|County Subdivision|F|Isabella County
+MI|26|56020|Mount Pleasant city|Incorporated Place|A|Isabella County
+MI|26|56060|Mueller township|County Subdivision|A|Schoolcraft County
+MI|26|56080|Muir village|Incorporated Place|A|Ionia County
+MI|26|56100|Mullett township|County Subdivision|A|Cheboygan County
+MI|26|56140|Mulliken village|Incorporated Place|A|Eaton County
+MI|26|56160|Mundy township|County Subdivision|A|Genesee County
+MI|26|56200|Munising city|County Subdivision|F|Alger County
+MI|26|56200|Munising city|Incorporated Place|A|Alger County
+MI|26|56220|Munising township|County Subdivision|A|Alger County
+MI|26|56280|Munro township|County Subdivision|A|Cheboygan County
+MI|26|56320|Muskegon city|County Subdivision|F|Muskegon County
+MI|26|56320|Muskegon city|Incorporated Place|A|Muskegon County
+MI|26|56340|Muskegon charter township|County Subdivision|A|Muskegon County
+MI|26|56360|Muskegon Heights city|County Subdivision|F|Muskegon County
+MI|26|56360|Muskegon Heights city|Incorporated Place|A|Muskegon County
+MI|26|56380|Mussey township|County Subdivision|A|St. Clair County
+MI|26|56440|Nadeau township|County Subdivision|A|Menominee County
+MI|26|56500|Nahma township|County Subdivision|A|Delta County
+MI|26|56620|Napoleon CDP|Census Designated Place|S|Jackson County
+MI|26|56640|Napoleon township|County Subdivision|A|Jackson County
+MI|26|56680|Nashville village|Incorporated Place|A|Barry County
+MI|26|56860|Negaunee city|County Subdivision|F|Marquette County
+MI|26|56860|Negaunee city|Incorporated Place|A|Marquette County
+MI|26|56880|Negaunee township|County Subdivision|A|Marquette County
+MI|26|56920|Nelson township|County Subdivision|A|Kent County
+MI|26|56960|Nessen City CDP|Census Designated Place|S|Benzie County
+MI|26|56980|Nester township|County Subdivision|A|Roscommon County
+MI|26|57040|Newark township|County Subdivision|A|Gratiot County
+MI|26|57080|Newaygo city|County Subdivision|F|Newaygo County
+MI|26|57080|Newaygo city|Incorporated Place|A|Newaygo County
+MI|26|57100|New Baltimore city|County Subdivision|F|Macomb County
+MI|26|57100|New Baltimore city|Incorporated Place|A|Macomb County
+MI|26|57120|Newberg township|County Subdivision|A|Cass County
+MI|26|57140|Newberry village|Incorporated Place|A|Luce County
+MI|26|57220|New Buffalo city|County Subdivision|F|Berrien County
+MI|26|57220|New Buffalo city|Incorporated Place|A|Berrien County
+MI|26|57230|New Buffalo township|County Subdivision|A|Berrien County
+MI|26|57280|New Era village|Incorporated Place|A|Oceana County
+MI|26|57300|Newfield township|County Subdivision|A|Oceana County
+MI|26|57360|New Haven township|County Subdivision|A|Gratiot County
+MI|26|57380|New Haven village|Incorporated Place|A|Macomb County
+MI|26|57400|New Haven township|County Subdivision|A|Shiawassee County
+MI|26|57480|Newkirk township|County Subdivision|A|Lake County
+MI|26|57520|New Lothrop village|Incorporated Place|A|Shiawassee County
+MI|26|57620|Newton township|County Subdivision|A|Calhoun County
+MI|26|57640|Newton township|County Subdivision|A|Mackinac County
+MI|26|57660|New Troy CDP|Census Designated Place|S|Berrien County
+MI|26|57760|Niles city|County Subdivision|F|Berrien County, Cass County
+MI|26|57760|Niles city|Incorporated Place|A|Berrien County, Cass County
+MI|26|57780|Niles township|County Subdivision|A|Berrien County
+MI|26|57860|Noble township|County Subdivision|A|Branch County
+MI|26|57900|Norman township|County Subdivision|A|Manistee County
+MI|26|57920|North Adams village|Incorporated Place|A|Hillsdale County
+MI|26|57940|North Allis township|County Subdivision|A|Presque Isle County
+MI|26|58080|North Branch village|Incorporated Place|A|Lapeer County
+MI|26|58090|North Branch township|County Subdivision|A|Lapeer County
+MI|26|58280|Northfield township|County Subdivision|A|Washtenaw County
+MI|26|58640|North Muskegon city|County Subdivision|F|Muskegon County
+MI|26|58640|North Muskegon city|Incorporated Place|A|Muskegon County
+MI|26|58720|North Plains township|County Subdivision|A|Ionia County
+MI|26|58740|Northport village|Incorporated Place|A|Leelanau County
+MI|26|58800|North Shade township|County Subdivision|A|Gratiot County
+MI|26|58880|North Star township|County Subdivision|A|Gratiot County
+MI|26|58945|Northview CDP|Census Designated Place|S|Kent County
+MI|26|58980|Northville city|County Subdivision|F|Oakland County, Wayne County
+MI|26|58980|Northville city|Incorporated Place|A|Oakland County, Wayne County
+MI|26|59000|Northville township|County Subdivision|A|Wayne County
+MI|26|59140|Norton Shores city|County Subdivision|F|Muskegon County
+MI|26|59140|Norton Shores city|Incorporated Place|A|Muskegon County
+MI|26|59180|Norvell township|County Subdivision|A|Jackson County
+MI|26|59220|Norway city|County Subdivision|F|Dickinson County
+MI|26|59220|Norway city|Incorporated Place|A|Dickinson County
+MI|26|59240|Norway township|County Subdivision|A|Dickinson County
+MI|26|59280|Norwich township|County Subdivision|A|Missaukee County
+MI|26|59300|Norwich township|County Subdivision|A|Newaygo County
+MI|26|59320|Norwood CDP|Census Designated Place|S|Charlevoix County
+MI|26|59340|Norwood township|County Subdivision|A|Charlevoix County
+MI|26|59360|Nottawa township|County Subdivision|A|Isabella County
+MI|26|59400|Nottawa township|County Subdivision|A|St. Joseph County
+MI|26|59420|Novesta township|County Subdivision|A|Tuscola County
+MI|26|59440|Novi city|County Subdivision|F|Oakland County
+MI|26|59440|Novi city|Incorporated Place|A|Oakland County
+MI|26|59460|Novi township|County Subdivision|A|Oakland County
+MI|26|59500|Nunda township|County Subdivision|A|Cheboygan County
+MI|26|59580|Oakfield township|County Subdivision|A|Kent County
+MI|26|59740|Oak Hill CDP|Census Designated Place|S|Manistee County
+MI|26|59820|Oakland charter township|County Subdivision|A|Oakland County
+MI|26|59860|Oakley village|Incorporated Place|A|Saginaw County
+MI|26|59920|Oak Park city|County Subdivision|F|Oakland County
+MI|26|59920|Oak Park city|Incorporated Place|A|Oakland County
+MI|26|60120|Oceola township|County Subdivision|A|Livingston County
+MI|26|60160|Ocqueoc township|County Subdivision|A|Presque Isle County
+MI|26|60180|Oden CDP|Census Designated Place|S|Emmet County
+MI|26|60200|Odessa township|County Subdivision|A|Ionia County
+MI|26|60260|Ogden township|County Subdivision|A|Lenawee County
+MI|26|60300|Ogemaw township|County Subdivision|A|Ogemaw County
+MI|26|60340|Okemos CDP|Census Designated Place|S|Ingham County
+MI|26|60440|Olive township|County Subdivision|A|Clinton County
+MI|26|60460|Olive township|County Subdivision|A|Ottawa County
+MI|26|60520|Oliver township|County Subdivision|A|Huron County
+MI|26|60540|Oliver township|County Subdivision|A|Kalkaska County
+MI|26|60580|Olivet city|County Subdivision|F|Eaton County
+MI|26|60580|Olivet city|Incorporated Place|A|Eaton County
+MI|26|60640|Omena CDP|Census Designated Place|S|Leelanau County
+MI|26|60660|Omer city|County Subdivision|F|Arenac County
+MI|26|60660|Omer city|Incorporated Place|A|Arenac County
+MI|26|60680|Onaway city|County Subdivision|F|Presque Isle County
+MI|26|60680|Onaway city|Incorporated Place|A|Presque Isle County
+MI|26|60700|Oneida charter township|County Subdivision|A|Eaton County
+MI|26|60740|Onekama village|Incorporated Place|A|Manistee County
+MI|26|60760|Onekama township|County Subdivision|A|Manistee County
+MI|26|60800|Onondaga township|County Subdivision|A|Ingham County
+MI|26|60820|Onota township|County Subdivision|A|Alger County
+MI|26|60840|Onsted village|Incorporated Place|A|Lenawee County
+MI|26|60860|Ontonagon village|Incorporated Place|A|Ontonagon County
+MI|26|60880|Ontonagon township|County Subdivision|A|Ontonagon County
+MI|26|60900|Ontwa township|County Subdivision|A|Cass County
+MI|26|60920|Orange township|County Subdivision|A|Ionia County
+MI|26|60940|Orange township|County Subdivision|A|Kalkaska County
+MI|26|60980|Orangeville township|County Subdivision|A|Barry County
+MI|26|61020|Orchard Lake Village city|County Subdivision|F|Oakland County
+MI|26|61020|Orchard Lake Village city|Incorporated Place|A|Oakland County
+MI|26|61060|Oregon township|County Subdivision|A|Lapeer County
+MI|26|61080|Orient township|County Subdivision|A|Osceola County
+MI|26|61100|Orion charter township|County Subdivision|A|Oakland County
+MI|26|61160|Orleans township|County Subdivision|A|Ionia County
+MI|26|61180|Oronoko charter township|County Subdivision|A|Berrien County
+MI|26|61220|Ortonville village|Incorporated Place|A|Oakland County
+MI|26|61260|Osceola township|County Subdivision|A|Houghton County
+MI|26|61280|Osceola township|County Subdivision|A|Osceola County
+MI|26|61320|Oscoda CDP|Census Designated Place|S|Iosco County
+MI|26|61340|Oscoda charter township|County Subdivision|A|Iosco County
+MI|26|61400|Oshtemo charter township|County Subdivision|A|Kalamazoo County
+MI|26|61500|Ossineke CDP|Census Designated Place|S|Alpena County
+MI|26|61520|Ossineke township|County Subdivision|A|Alpena County
+MI|26|61580|Otisco township|County Subdivision|A|Ionia County
+MI|26|61600|Otisville village|Incorporated Place|A|Genesee County
+MI|26|61620|Otsego city|County Subdivision|F|Allegan County
+MI|26|61620|Otsego city|Incorporated Place|A|Allegan County
+MI|26|61640|Otsego township|County Subdivision|A|Allegan County
+MI|26|61680|Otsego Lake township|County Subdivision|A|Otsego County
+MI|26|61760|Otter Lake village|Incorporated Place|A|Genesee County, Lapeer County
+MI|26|61780|Otto township|County Subdivision|A|Oceana County
+MI|26|61820|Overisel township|County Subdivision|A|Allegan County
+MI|26|61840|Ovid township|County Subdivision|A|Branch County
+MI|26|61860|Ovid village|Incorporated Place|A|Clinton County, Shiawassee County
+MI|26|61880|Ovid township|County Subdivision|A|Clinton County
+MI|26|61920|Owendale village|Incorporated Place|A|Huron County
+MI|26|61940|Owosso city|County Subdivision|F|Shiawassee County
+MI|26|61940|Owosso city|Incorporated Place|A|Shiawassee County
+MI|26|61960|Owosso charter township|County Subdivision|A|Shiawassee County
+MI|26|62020|Oxford village|Incorporated Place|A|Oakland County
+MI|26|62040|Oxford charter township|County Subdivision|A|Oakland County
+MI|26|62180|Palmer CDP|Census Designated Place|S|Marquette County
+MI|26|62240|Palmyra township|County Subdivision|A|Lenawee County
+MI|26|62320|Paradise township|County Subdivision|A|Grand Traverse County
+MI|26|62340|Parchment city|County Subdivision|F|Kalamazoo County
+MI|26|62340|Parchment city|Incorporated Place|A|Kalamazoo County
+MI|26|62360|Paris township|County Subdivision|A|Huron County
+MI|26|62460|Park township|County Subdivision|A|Ottawa County
+MI|26|62480|Park township|County Subdivision|A|St. Joseph County
+MI|26|62500|Parkdale CDP|Census Designated Place|S|Manistee County
+MI|26|62740|Parma village|Incorporated Place|A|Jackson County
+MI|26|62760|Parma township|County Subdivision|A|Jackson County
+MI|26|62960|Pavilion township|County Subdivision|A|Kalamazoo County
+MI|26|62980|Paw Paw village|Incorporated Place|A|Van Buren County
+MI|26|63000|Paw Paw township|County Subdivision|A|Van Buren County
+MI|26|63020|Paw Paw Lake CDP|Census Designated Place|S|Berrien County
+MI|26|63120|Peacock township|County Subdivision|A|Lake County
+MI|26|63140|Peaine township|County Subdivision|A|Charlevoix County
+MI|26|63200|Pearl Beach CDP|Census Designated Place|S|St. Clair County
+MI|26|63260|Peck village|Incorporated Place|A|Sanilac County
+MI|26|63300|Pellston village|Incorporated Place|A|Emmet County
+MI|26|63340|Peninsula township|County Subdivision|A|Grand Traverse County
+MI|26|63380|Penn township|County Subdivision|A|Cass County
+MI|26|63440|Pennfield charter township|County Subdivision|A|Calhoun County
+MI|26|63500|Pentland township|County Subdivision|A|Luce County
+MI|26|63540|Pentwater village|Incorporated Place|A|Oceana County
+MI|26|63560|Pentwater township|County Subdivision|A|Oceana County
+MI|26|63600|Pere Marquette charter township|County Subdivision|A|Mason County
+MI|26|63660|Perrinton village|Incorporated Place|A|Gratiot County
+MI|26|63700|Perry city|County Subdivision|F|Shiawassee County
+MI|26|63700|Perry city|Incorporated Place|A|Shiawassee County
+MI|26|63720|Perry township|County Subdivision|A|Shiawassee County
+MI|26|63800|Petersburg city|County Subdivision|F|Monroe County
+MI|26|63800|Petersburg city|Incorporated Place|A|Monroe County
+MI|26|63820|Petoskey city|County Subdivision|F|Emmet County
+MI|26|63820|Petoskey city|Incorporated Place|A|Emmet County
+MI|26|63900|Pewamo village|Incorporated Place|A|Ionia County
+MI|26|63980|Pickford township|County Subdivision|A|Chippewa County
+MI|26|64020|Pierson village|Incorporated Place|A|Montcalm County
+MI|26|64040|Pierson township|County Subdivision|A|Montcalm County
+MI|26|64060|Pigeon village|Incorporated Place|A|Huron County
+MI|26|64100|Pilgrim CDP|Census Designated Place|S|Benzie County
+MI|26|64140|Pinckney village|Incorporated Place|A|Livingston County
+MI|26|64160|Pinconning city|County Subdivision|F|Bay County
+MI|26|64160|Pinconning city|Incorporated Place|A|Bay County
+MI|26|64180|Pinconning township|County Subdivision|A|Bay County
+MI|26|64200|Pine township|County Subdivision|A|Montcalm County
+MI|26|64280|Pine Grove township|County Subdivision|A|Van Buren County
+MI|26|64360|Pine River township|County Subdivision|A|Gratiot County
+MI|26|64440|Pinora township|County Subdivision|A|Lake County
+MI|26|64460|Pioneer township|County Subdivision|A|Missaukee County
+MI|26|64480|Pipestone township|County Subdivision|A|Berrien County
+MI|26|64560|Pittsfield charter township|County Subdivision|A|Washtenaw County
+MI|26|64620|Pittsford township|County Subdivision|A|Hillsdale County
+MI|26|64640|Plainfield township|County Subdivision|A|Iosco County
+MI|26|64660|Plainfield charter township|County Subdivision|A|Kent County
+MI|26|64740|Plainwell city|County Subdivision|F|Allegan County
+MI|26|64740|Plainwell city|Incorporated Place|A|Allegan County
+MI|26|64760|Platte township|County Subdivision|A|Benzie County
+MI|26|64860|Pleasanton township|County Subdivision|A|Manistee County
+MI|26|64880|Pleasant Plains township|County Subdivision|A|Lake County
+MI|26|64900|Pleasant Ridge city|County Subdivision|F|Oakland County
+MI|26|64900|Pleasant Ridge city|Incorporated Place|A|Oakland County
+MI|26|64960|Pleasantview township|County Subdivision|A|Emmet County
+MI|26|65060|Plymouth city|County Subdivision|F|Wayne County
+MI|26|65060|Plymouth city|Incorporated Place|A|Wayne County
+MI|26|65080|Plymouth charter township|County Subdivision|A|Wayne County
+MI|26|65180|Pointe Aux Barques township|County Subdivision|A|Huron County
+MI|26|65300|Pokagon township|County Subdivision|A|Cass County
+MI|26|65320|Polkton charter township|County Subdivision|A|Ottawa County
+MI|26|65420|Ponshewaing CDP|Census Designated Place|S|Emmet County
+MI|26|65440|Pontiac city|County Subdivision|F|Oakland County
+MI|26|65440|Pontiac city|Incorporated Place|A|Oakland County
+MI|26|65540|Portage charter township|County Subdivision|A|Houghton County
+MI|26|65560|Portage city|County Subdivision|F|Kalamazoo County
+MI|26|65560|Portage city|Incorporated Place|A|Kalamazoo County
+MI|26|65600|Portage township|County Subdivision|A|Mackinac County
+MI|26|65680|Port Austin village|Incorporated Place|A|Huron County
+MI|26|65700|Port Austin township|County Subdivision|A|Huron County
+MI|26|65720|Porter township|County Subdivision|A|Cass County
+MI|26|65740|Porter township|County Subdivision|A|Midland County
+MI|26|65760|Porter township|County Subdivision|A|Van Buren County
+MI|26|65800|Port Hope village|Incorporated Place|A|Huron County
+MI|26|65820|Port Huron city|County Subdivision|F|St. Clair County
+MI|26|65820|Port Huron city|Incorporated Place|A|St. Clair County
+MI|26|65840|Port Huron charter township|County Subdivision|A|St. Clair County
+MI|26|65860|Portland city|County Subdivision|F|Ionia County
+MI|26|65860|Portland city|Incorporated Place|A|Ionia County
+MI|26|65880|Portland township|County Subdivision|A|Ionia County
+MI|26|65900|Port Sanilac village|Incorporated Place|A|Sanilac County
+MI|26|65940|Port Sheldon township|County Subdivision|A|Ottawa County
+MI|26|65980|Portsmouth charter township|County Subdivision|A|Bay County
+MI|26|66000|Posen village|Incorporated Place|A|Presque Isle County
+MI|26|66020|Posen township|County Subdivision|A|Presque Isle County
+MI|26|66100|Potterville city|County Subdivision|F|Eaton County
+MI|26|66100|Potterville city|Incorporated Place|A|Eaton County
+MI|26|66120|Powell township|County Subdivision|A|Marquette County
+MI|26|66140|Powers village|Incorporated Place|A|Menominee County
+MI|26|66200|Prairie Ronde township|County Subdivision|A|Kalamazoo County
+MI|26|66260|Prairieville township|County Subdivision|A|Barry County
+MI|26|66300|Prescott village|Incorporated Place|A|Ogemaw County
+MI|26|66340|Presque Isle township|County Subdivision|A|Presque Isle County
+MI|26|66343|Presque Isle Harbor CDP|Census Designated Place|S|Presque Isle County
+MI|26|66400|Prudenville CDP|Census Designated Place|S|Roscommon County
+MI|26|66440|Pulaski township|County Subdivision|A|Jackson County
+MI|26|66460|Pulawski township|County Subdivision|A|Presque Isle County
+MI|26|66540|Putnam township|County Subdivision|A|Livingston County
+MI|26|66640|Quincy village|Incorporated Place|A|Branch County
+MI|26|66660|Quincy township|County Subdivision|A|Branch County
+MI|26|66680|Quincy township|County Subdivision|A|Houghton County
+MI|26|66720|Quinnesec CDP|Census Designated Place|S|Dickinson County
+MI|26|66760|Raber township|County Subdivision|A|Chippewa County
+MI|26|66840|Raisin township|County Subdivision|A|Lenawee County
+MI|26|66900|Raisinville township|County Subdivision|A|Monroe County
+MI|26|67120|Ransom township|County Subdivision|A|Hillsdale County
+MI|26|67140|Rapid City CDP|Census Designated Place|S|Kalkaska County
+MI|26|67180|Rapid River township|County Subdivision|A|Kalkaska County
+MI|26|67280|Ravenna village|Incorporated Place|A|Muskegon County
+MI|26|67300|Ravenna township|County Subdivision|A|Muskegon County
+MI|26|67420|Ray township|County Subdivision|A|Macomb County
+MI|26|67500|Reading city|County Subdivision|F|Hillsdale County
+MI|26|67500|Reading city|Incorporated Place|A|Hillsdale County
+MI|26|67520|Reading township|County Subdivision|A|Hillsdale County
+MI|26|67540|Readmond township|County Subdivision|A|Emmet County
+MI|26|67600|Redding township|County Subdivision|A|Clare County
+MI|26|67625|Redford charter township|County Subdivision|A|Wayne County
+MI|26|67820|Reed City city|County Subdivision|F|Osceola County
+MI|26|67820|Reed City city|Incorporated Place|A|Osceola County
+MI|26|67840|Reeder township|County Subdivision|A|Missaukee County
+MI|26|67900|Reese village|Incorporated Place|A|Saginaw County, Tuscola County
+MI|26|67960|Reno township|County Subdivision|A|Iosco County
+MI|26|67980|Republic CDP|Census Designated Place|S|Marquette County
+MI|26|68000|Republic township|County Subdivision|A|Marquette County
+MI|26|68060|Resort township|County Subdivision|A|Emmet County
+MI|26|68120|Reynolds township|County Subdivision|A|Montcalm County
+MI|26|68160|Rich township|County Subdivision|A|Lapeer County
+MI|26|68180|Richfield township|County Subdivision|A|Genesee County
+MI|26|68200|Richfield township|County Subdivision|A|Roscommon County
+MI|26|68240|Richland village|Incorporated Place|A|Kalamazoo County
+MI|26|68260|Richland township|County Subdivision|A|Kalamazoo County
+MI|26|68280|Richland township|County Subdivision|A|Missaukee County
+MI|26|68300|Richland township|County Subdivision|A|Montcalm County
+MI|26|68320|Richland township|County Subdivision|A|Ogemaw County
+MI|26|68340|Richland township|County Subdivision|A|Saginaw County
+MI|26|68380|Richmond city|County Subdivision|F|Macomb County, St. Clair County
+MI|26|68380|Richmond city|Incorporated Place|A|Macomb County, St. Clair County
+MI|26|68400|Richmond township|County Subdivision|A|Macomb County
+MI|26|68420|Richmond township|County Subdivision|A|Marquette County
+MI|26|68440|Richmond township|County Subdivision|A|Osceola County
+MI|26|68540|Ridgeway township|County Subdivision|A|Lenawee County
+MI|26|68580|Riga township|County Subdivision|A|Lenawee County
+MI|26|68600|Riley township|County Subdivision|A|Clinton County
+MI|26|68620|Riley township|County Subdivision|A|St. Clair County
+MI|26|68760|River Rouge city|County Subdivision|F|Wayne County
+MI|26|68760|River Rouge city|Incorporated Place|A|Wayne County
+MI|26|68820|Riverside township|County Subdivision|A|Missaukee County
+MI|26|68860|Riverton township|County Subdivision|A|Mason County
+MI|26|68880|Riverview city|County Subdivision|F|Wayne County
+MI|26|68880|Riverview city|Incorporated Place|A|Wayne County
+MI|26|68920|Rives township|County Subdivision|A|Jackson County
+MI|26|68990|Robin Glen-Indiantown CDP|Census Designated Place|S|Saginaw County
+MI|26|69000|Robinson township|County Subdivision|A|Ottawa County
+MI|26|69020|Rochester city|County Subdivision|F|Oakland County
+MI|26|69020|Rochester city|Incorporated Place|A|Oakland County
+MI|26|69035|Rochester Hills city|County Subdivision|F|Oakland County
+MI|26|69035|Rochester Hills city|Incorporated Place|A|Oakland County
+MI|26|69080|Rockford city|County Subdivision|F|Kent County
+MI|26|69080|Rockford city|Incorporated Place|A|Kent County
+MI|26|69140|Rockland township|County Subdivision|A|Ontonagon County
+MI|26|69160|Rock River township|County Subdivision|A|Alger County
+MI|26|69180|Rockwood city|County Subdivision|F|Wayne County
+MI|26|69180|Rockwood city|Incorporated Place|A|Wayne County
+MI|26|69240|Rogers township|County Subdivision|A|Presque Isle County
+MI|26|69260|Rogers City city|County Subdivision|F|Presque Isle County
+MI|26|69260|Rogers City city|Incorporated Place|A|Presque Isle County
+MI|26|69300|Rolland township|County Subdivision|A|Isabella County
+MI|26|69340|Rollin township|County Subdivision|A|Lenawee County
+MI|26|69360|Rome township|County Subdivision|A|Lenawee County
+MI|26|69400|Romeo village|Incorporated Place|A|Macomb County
+MI|26|69420|Romulus city|County Subdivision|F|Wayne County
+MI|26|69420|Romulus city|Incorporated Place|A|Wayne County
+MI|26|69440|Ronald township|County Subdivision|A|Ionia County
+MI|26|69520|Roosevelt Park city|County Subdivision|F|Muskegon County
+MI|26|69520|Roosevelt Park city|Incorporated Place|A|Muskegon County
+MI|26|69540|Roscommon village|Incorporated Place|A|Roscommon County
+MI|26|69560|Roscommon township|County Subdivision|A|Roscommon County
+MI|26|69580|Rose township|County Subdivision|A|Oakland County
+MI|26|69600|Rose township|County Subdivision|A|Ogemaw County
+MI|26|69640|Rosebush village|Incorporated Place|A|Isabella County
+MI|26|69680|Rose City city|County Subdivision|F|Ogemaw County
+MI|26|69680|Rose City city|Incorporated Place|A|Ogemaw County
+MI|26|69760|Rose Lake township|County Subdivision|A|Osceola County
+MI|26|69800|Roseville city|County Subdivision|F|Macomb County
+MI|26|69800|Roseville city|Incorporated Place|A|Macomb County
+MI|26|69820|Ross township|County Subdivision|A|Kalamazoo County
+MI|26|69880|Rothbury village|Incorporated Place|A|Oceana County
+MI|26|70020|Roxand township|County Subdivision|A|Eaton County
+MI|26|70040|Royal Oak city|County Subdivision|F|Oakland County
+MI|26|70040|Royal Oak city|Incorporated Place|A|Oakland County
+MI|26|70060|Royal Oak charter township|County Subdivision|A|Oakland County
+MI|26|70100|Royalton township|County Subdivision|A|Berrien County
+MI|26|70140|Rubicon township|County Subdivision|A|Huron County
+MI|26|70220|Rudyard township|County Subdivision|A|Chippewa County
+MI|26|70260|Rush township|County Subdivision|A|Shiawassee County
+MI|26|70380|Rust township|County Subdivision|A|Montmorency County
+MI|26|70420|Rutland charter township|County Subdivision|A|Barry County
+MI|26|70500|Sage township|County Subdivision|A|Gladwin County
+MI|26|70520|Saginaw city|County Subdivision|F|Saginaw County
+MI|26|70520|Saginaw city|Incorporated Place|A|Saginaw County
+MI|26|70540|Saginaw charter township|County Subdivision|A|Saginaw County
+MI|26|70600|Sagola township|County Subdivision|A|Dickinson County
+MI|26|70640|St. Charles village|Incorporated Place|A|Saginaw County
+MI|26|70660|St. Charles township|County Subdivision|A|Saginaw County
+MI|26|70680|St. Clair city|County Subdivision|F|St. Clair County
+MI|26|70680|St. Clair city|Incorporated Place|A|St. Clair County
+MI|26|70700|St. Clair township|County Subdivision|A|St. Clair County
+MI|26|70760|St. Clair Shores city|County Subdivision|F|Macomb County
+MI|26|70760|St. Clair Shores city|Incorporated Place|A|Macomb County
+MI|26|70800|St. Helen CDP|Census Designated Place|S|Roscommon County
+MI|26|70840|St. Ignace city|County Subdivision|F|Mackinac County
+MI|26|70840|St. Ignace city|Incorporated Place|A|Mackinac County
+MI|26|70860|St. Ignace township|County Subdivision|A|Mackinac County
+MI|26|70900|St. James CDP|Census Designated Place|S|Charlevoix County
+MI|26|70920|St. James township|County Subdivision|A|Charlevoix County
+MI|26|70940|St. Johns city|County Subdivision|F|Clinton County
+MI|26|70940|St. Johns city|Incorporated Place|A|Clinton County
+MI|26|70960|St. Joseph city|County Subdivision|F|Berrien County
+MI|26|70960|St. Joseph city|Incorporated Place|A|Berrien County
+MI|26|70980|St. Joseph charter township|County Subdivision|A|Berrien County
+MI|26|71000|St. Louis city|County Subdivision|F|Gratiot County
+MI|26|71000|St. Louis city|Incorporated Place|A|Gratiot County
+MI|26|71100|Salem township|County Subdivision|A|Allegan County
+MI|26|71130|Salem township|County Subdivision|A|Washtenaw County
+MI|26|71140|Saline city|County Subdivision|F|Washtenaw County
+MI|26|71140|Saline city|Incorporated Place|A|Washtenaw County
+MI|26|71160|Saline township|County Subdivision|A|Washtenaw County
+MI|26|71240|Sanborn township|County Subdivision|A|Alpena County
+MI|26|71260|Sand Beach township|County Subdivision|A|Huron County
+MI|26|71340|Sand Lake CDP|Census Designated Place|S|Iosco County
+MI|26|71360|Sand Lake village|Incorporated Place|A|Kent County
+MI|26|71460|Sands township|County Subdivision|A|Marquette County
+MI|26|71500|Sandstone township|County Subdivision|A|Jackson County
+MI|26|71540|Sandusky city|County Subdivision|F|Sanilac County
+MI|26|71540|Sandusky city|Incorporated Place|A|Sanilac County
+MI|26|71560|Sanford village|Incorporated Place|A|Midland County
+MI|26|71580|Sanilac township|County Subdivision|A|Sanilac County
+MI|26|71660|Saranac village|Incorporated Place|A|Ionia County
+MI|26|71680|Sauble township|County Subdivision|A|Lake County
+MI|26|71700|Saugatuck city|County Subdivision|F|Allegan County
+MI|26|71700|Saugatuck city|Incorporated Place|A|Allegan County
+MI|26|71720|Saugatuck township|County Subdivision|A|Allegan County
+MI|26|71740|Sault Ste. Marie city|County Subdivision|F|Chippewa County
+MI|26|71740|Sault Ste. Marie city|Incorporated Place|A|Chippewa County
+MI|26|71840|Schoolcraft township|County Subdivision|A|Houghton County
+MI|26|71860|Schoolcraft village|Incorporated Place|A|Kalamazoo County
+MI|26|71880|Schoolcraft township|County Subdivision|A|Kalamazoo County
+MI|26|71940|Scio township|County Subdivision|A|Washtenaw County
+MI|26|71960|Sciota township|County Subdivision|A|Shiawassee County
+MI|26|71980|Scipio township|County Subdivision|A|Hillsdale County
+MI|26|72080|Scottville city|County Subdivision|F|Mason County
+MI|26|72080|Scottville city|Incorporated Place|A|Mason County
+MI|26|72120|Sebewa township|County Subdivision|A|Ionia County
+MI|26|72180|Sebewaing village|Incorporated Place|A|Huron County
+MI|26|72200|Sebewaing township|County Subdivision|A|Huron County
+MI|26|72240|Secord township|County Subdivision|A|Gladwin County
+MI|26|72380|Selma township|County Subdivision|A|Wexford County
+MI|26|72440|Seneca township|County Subdivision|A|Lenawee County
+MI|26|72500|Seney township|County Subdivision|A|Schoolcraft County
+MI|26|72580|Seville township|County Subdivision|A|Gratiot County
+MI|26|72760|Sharon township|County Subdivision|A|Washtenaw County
+MI|26|72820|Shelby charter township|County Subdivision|A|Macomb County
+MI|26|72840|Shelby village|Incorporated Place|A|Oceana County
+MI|26|72860|Shelby township|County Subdivision|A|Oceana County
+MI|26|72960|Shepherd village|Incorporated Place|A|Isabella County
+MI|26|72980|Sheridan township|County Subdivision|A|Calhoun County
+MI|26|73000|Sheridan township|County Subdivision|A|Clare County
+MI|26|73040|Sheridan township|County Subdivision|A|Huron County
+MI|26|73060|Sheridan township|County Subdivision|A|Mason County
+MI|26|73080|Sheridan township|County Subdivision|A|Mecosta County
+MI|26|73100|Sheridan village|Incorporated Place|A|Montcalm County
+MI|26|73120|Sheridan charter township|County Subdivision|A|Newaygo County
+MI|26|73140|Sherman township|County Subdivision|A|Gladwin County
+MI|26|73160|Sherman township|County Subdivision|A|Huron County
+MI|26|73180|Sherman township|County Subdivision|A|Iosco County
+MI|26|73200|Sherman township|County Subdivision|A|Isabella County
+MI|26|73220|Sherman township|County Subdivision|A|Keweenaw County
+MI|26|73240|Sherman township|County Subdivision|A|Mason County
+MI|26|73260|Sherman township|County Subdivision|A|Newaygo County
+MI|26|73280|Sherman township|County Subdivision|A|Osceola County
+MI|26|73300|Sherman township|County Subdivision|A|St. Joseph County
+MI|26|73420|Sherwood village|Incorporated Place|A|Branch County
+MI|26|73440|Sherwood township|County Subdivision|A|Branch County
+MI|26|73520|Shiawassee township|County Subdivision|A|Shiawassee County
+MI|26|73560|Shields CDP|Census Designated Place|S|Saginaw County
+MI|26|73660|Shoreham village|Incorporated Place|A|Berrien County
+MI|26|73730|Shorewood-Tower Hills-Harbert CDP|Census Designated Place|S|Berrien County
+MI|26|73840|Sidney township|County Subdivision|A|Montcalm County
+MI|26|73880|Sigel township|County Subdivision|A|Huron County
+MI|26|73940|Silver Creek township|County Subdivision|A|Cass County
+MI|26|74020|Sims township|County Subdivision|A|Arenac County
+MI|26|74110|Skandia township|County Subdivision|A|Marquette County
+MI|26|74200|Skidway Lake CDP|Census Designated Place|S|Ogemaw County
+MI|26|74220|Slagle township|County Subdivision|A|Wexford County
+MI|26|74380|Snover CDP|Census Designated Place|S|Sanilac County
+MI|26|74440|Sodus township|County Subdivision|A|Berrien County
+MI|26|74460|Solon township|County Subdivision|A|Kent County
+MI|26|74500|Solon township|County Subdivision|A|Leelanau County
+MI|26|74560|Somerset township|County Subdivision|A|Hillsdale County
+MI|26|74620|Soo township|County Subdivision|A|Chippewa County
+MI|26|74680|South Arm township|County Subdivision|A|Charlevoix County
+MI|26|74740|South Boardman CDP|Census Designated Place|S|Kalkaska County
+MI|26|74760|South Branch township|County Subdivision|A|Crawford County
+MI|26|74820|South Branch township|County Subdivision|A|Wexford County
+MI|26|74900|Southfield city|County Subdivision|F|Oakland County
+MI|26|74900|Southfield city|Incorporated Place|A|Oakland County
+MI|26|74920|Southfield township|County Subdivision|A|Oakland County
+MI|26|74960|Southgate city|County Subdivision|F|Wayne County
+MI|26|74960|Southgate city|Incorporated Place|A|Wayne County
+MI|26|74975|South Gull Lake CDP|Census Designated Place|S|Kalamazoo County
+MI|26|74980|South Haven city|County Subdivision|F|Allegan County, Van Buren County
+MI|26|74980|South Haven city|Incorporated Place|A|Allegan County, Van Buren County
+MI|26|75000|South Haven charter township|County Subdivision|A|Van Buren County
+MI|26|75100|South Lyon city|County Subdivision|F|Oakland County
+MI|26|75100|South Lyon city|Incorporated Place|A|Oakland County
+MI|26|75140|South Monroe CDP|Census Designated Place|S|Monroe County
+MI|26|75220|South Range village|Incorporated Place|A|Houghton County
+MI|26|75280|South Rockwood village|Incorporated Place|A|Monroe County
+MI|26|75350|Spalding township|County Subdivision|A|Menominee County
+MI|26|75420|Sparta village|Incorporated Place|A|Kent County
+MI|26|75440|Sparta township|County Subdivision|A|Kent County
+MI|26|75480|Spaulding township|County Subdivision|A|Saginaw County
+MI|26|75500|Speaker township|County Subdivision|A|Sanilac County
+MI|26|75560|Spencer township|County Subdivision|A|Kent County
+MI|26|75620|Spring Arbor CDP|Census Designated Place|S|Jackson County
+MI|26|75640|Spring Arbor township|County Subdivision|A|Jackson County
+MI|26|75680|Springdale township|County Subdivision|A|Manistee County
+MI|26|75700|Springfield city|County Subdivision|F|Calhoun County
+MI|26|75700|Springfield city|Incorporated Place|A|Calhoun County
+MI|26|75720|Springfield township|County Subdivision|A|Kalkaska County
+MI|26|75760|Springfield charter township|County Subdivision|A|Oakland County
+MI|26|75820|Spring Lake village|Incorporated Place|A|Ottawa County
+MI|26|75840|Spring Lake township|County Subdivision|A|Ottawa County
+MI|26|75860|Springport village|Incorporated Place|A|Jackson County
+MI|26|75880|Springport township|County Subdivision|A|Jackson County
+MI|26|75900|Springvale township|County Subdivision|A|Emmet County
+MI|26|75940|Springville township|County Subdivision|A|Wexford County
+MI|26|76000|Spurr township|County Subdivision|A|Baraga County
+MI|26|76080|Stambaugh township|County Subdivision|A|Iron County
+MI|26|76120|Standish city|County Subdivision|F|Arenac County
+MI|26|76120|Standish city|Incorporated Place|A|Arenac County
+MI|26|76140|Standish township|County Subdivision|A|Arenac County
+MI|26|76180|Stannard township|County Subdivision|A|Ontonagon County
+MI|26|76200|Stanton township|County Subdivision|A|Houghton County
+MI|26|76220|Stanton city|County Subdivision|F|Montcalm County
+MI|26|76220|Stanton city|Incorporated Place|A|Montcalm County
+MI|26|76240|Stanwood village|Incorporated Place|A|Mecosta County
+MI|26|76260|Star township|County Subdivision|A|Antrim County
+MI|26|76380|Stephenson city|County Subdivision|F|Menominee County
+MI|26|76380|Stephenson city|Incorporated Place|A|Menominee County
+MI|26|76400|Stephenson township|County Subdivision|A|Menominee County
+MI|26|76420|Sterling village|Incorporated Place|A|Arenac County
+MI|26|76460|Sterling Heights city|County Subdivision|F|Macomb County
+MI|26|76460|Sterling Heights city|Incorporated Place|A|Macomb County
+MI|26|76500|Stevensville village|Incorporated Place|A|Berrien County
+MI|26|76560|Stockbridge village|Incorporated Place|A|Ingham County
+MI|26|76580|Stockbridge township|County Subdivision|A|Ingham County
+MI|26|76720|Stony Point CDP|Census Designated Place|S|Monroe County
+MI|26|76820|Stronach CDP|Census Designated Place|S|Manistee County
+MI|26|76840|Stronach township|County Subdivision|A|Manistee County
+MI|26|76960|Sturgis city|County Subdivision|F|St. Joseph County
+MI|26|76960|Sturgis city|Incorporated Place|A|St. Joseph County
+MI|26|76980|Sturgis township|County Subdivision|A|St. Joseph County
+MI|26|77020|Sugar Island township|County Subdivision|A|Chippewa County
+MI|26|77100|Sullivan township|County Subdivision|A|Muskegon County
+MI|26|77120|Summerfield township|County Subdivision|A|Clare County
+MI|26|77140|Summerfield township|County Subdivision|A|Monroe County
+MI|26|77200|Summit township|County Subdivision|A|Jackson County
+MI|26|77220|Summit township|County Subdivision|A|Mason County
+MI|26|77300|Sumner township|County Subdivision|A|Gratiot County
+MI|26|77360|Sumpter township|County Subdivision|A|Wayne County
+MI|26|77420|Sunfield village|Incorporated Place|A|Eaton County
+MI|26|77440|Sunfield township|County Subdivision|A|Eaton County
+MI|26|77540|Superior township|County Subdivision|A|Chippewa County
+MI|26|77560|Superior charter township|County Subdivision|A|Washtenaw County
+MI|26|77580|Surrey township|County Subdivision|A|Clare County
+MI|26|77600|Suttons Bay village|Incorporated Place|A|Leelanau County
+MI|26|77620|Suttons Bay township|County Subdivision|A|Leelanau County
+MI|26|77660|Swan Creek township|County Subdivision|A|Saginaw County
+MI|26|77700|Swartz Creek city|County Subdivision|F|Genesee County
+MI|26|77700|Swartz Creek city|Incorporated Place|A|Genesee County
+MI|26|77740|Sweetwater township|County Subdivision|A|Lake County
+MI|26|77760|Sylvan township|County Subdivision|A|Osceola County
+MI|26|77800|Sylvan township|County Subdivision|A|Washtenaw County
+MI|26|77860|Sylvan Lake city|County Subdivision|F|Oakland County
+MI|26|77860|Sylvan Lake city|Incorporated Place|A|Oakland County
+MI|26|77980|Tallmadge charter township|County Subdivision|A|Ottawa County
+MI|26|78100|Tawas township|County Subdivision|A|Iosco County
+MI|26|78140|Tawas City city|County Subdivision|F|Iosco County
+MI|26|78140|Tawas City city|Incorporated Place|A|Iosco County
+MI|26|79000|Taylor city|County Subdivision|F|Wayne County
+MI|26|79000|Taylor city|Incorporated Place|A|Wayne County
+MI|26|79100|Taymouth township|County Subdivision|A|Saginaw County
+MI|26|79120|Tecumseh city|County Subdivision|F|Lenawee County
+MI|26|79120|Tecumseh city|Incorporated Place|A|Lenawee County
+MI|26|79140|Tecumseh township|County Subdivision|A|Lenawee County
+MI|26|79160|Tekonsha village|Incorporated Place|A|Calhoun County
+MI|26|79180|Tekonsha township|County Subdivision|A|Calhoun County
+MI|26|79240|Temperance CDP|Census Designated Place|S|Monroe County
+MI|26|79300|Texas charter township|County Subdivision|A|Kalamazoo County
+MI|26|79460|Thetford township|County Subdivision|A|Genesee County
+MI|26|79520|Thomas township|County Subdivision|A|Saginaw County
+MI|26|79580|Thompson township|County Subdivision|A|Schoolcraft County
+MI|26|79600|Thompsonville village|Incorporated Place|A|Benzie County
+MI|26|79620|Thornapple township|County Subdivision|A|Barry County
+MI|26|79720|Three Oaks village|Incorporated Place|A|Berrien County
+MI|26|79740|Three Oaks township|County Subdivision|A|Berrien County
+MI|26|79760|Three Rivers city|County Subdivision|F|St. Joseph County
+MI|26|79760|Three Rivers city|Incorporated Place|A|St. Joseph County
+MI|26|79780|Tilden township|County Subdivision|A|Marquette County
+MI|26|79840|Tittabawassee township|County Subdivision|A|Saginaw County
+MI|26|79860|Tobacco township|County Subdivision|A|Gladwin County
+MI|26|79980|Tompkins township|County Subdivision|A|Jackson County
+MI|26|80100|Torch Lake township|County Subdivision|A|Antrim County
+MI|26|80120|Torch Lake township|County Subdivision|A|Houghton County
+MI|26|80340|Traverse City city|County Subdivision|F|Grand Traverse County, Leelanau County
+MI|26|80340|Traverse City city|Incorporated Place|A|Grand Traverse County, Leelanau County
+MI|26|80420|Trenton city|County Subdivision|F|Wayne County
+MI|26|80420|Trenton city|Incorporated Place|A|Wayne County
+MI|26|80600|Trout Lake township|County Subdivision|A|Chippewa County
+MI|26|80620|Trowbridge township|County Subdivision|A|Allegan County
+MI|26|80660|Trowbridge Park CDP|Census Designated Place|S|Marquette County
+MI|26|80680|Troy township|County Subdivision|A|Newaygo County
+MI|26|80700|Troy city|County Subdivision|F|Oakland County
+MI|26|80700|Troy city|Incorporated Place|A|Oakland County
+MI|26|80780|Turin township|County Subdivision|A|Marquette County
+MI|26|80820|Turner village|Incorporated Place|A|Arenac County
+MI|26|80840|Turner township|County Subdivision|A|Arenac County
+MI|26|80880|Tuscarora township|County Subdivision|A|Cheboygan County
+MI|26|80940|Tuscola township|County Subdivision|A|Tuscola County
+MI|26|80960|Tustin village|Incorporated Place|A|Osceola County
+MI|26|81020|Twining village|Incorporated Place|A|Arenac County
+MI|26|81040|Twin Lake CDP|Census Designated Place|S|Muskegon County
+MI|26|81140|Tyrone township|County Subdivision|A|Kent County
+MI|26|81160|Tyrone township|County Subdivision|A|Livingston County
+MI|26|81200|Ubly village|Incorporated Place|A|Huron County
+MI|26|81240|Unadilla township|County Subdivision|A|Livingston County
+MI|26|81280|Union township|County Subdivision|A|Branch County
+MI|26|81320|Union township|County Subdivision|A|Grand Traverse County
+MI|26|81340|Union charter township|County Subdivision|A|Isabella County
+MI|26|81360|Union City village|Incorporated Place|A|Branch County, Calhoun County
+MI|26|81420|Unionville village|Incorporated Place|A|Tuscola County
+MI|26|81540|Utica city|County Subdivision|F|Macomb County
+MI|26|81540|Utica city|Incorporated Place|A|Macomb County
+MI|26|81580|Valley township|County Subdivision|A|Allegan County
+MI|26|81660|Van Buren charter township|County Subdivision|A|Wayne County
+MI|26|81680|Vandalia village|Incorporated Place|A|Cass County
+MI|26|81700|Vanderbilt village|Incorporated Place|A|Otsego County
+MI|26|81740|Vandercook Lake CDP|Census Designated Place|S|Jackson County
+MI|26|81840|Vassar city|County Subdivision|F|Tuscola County
+MI|26|81840|Vassar city|Incorporated Place|A|Tuscola County
+MI|26|81860|Vassar township|County Subdivision|A|Tuscola County
+MI|26|81880|Venice township|County Subdivision|A|Shiawassee County
+MI|26|81920|Vergennes township|County Subdivision|A|Kent County
+MI|26|81960|Vermontville village|Incorporated Place|A|Eaton County
+MI|26|81980|Vermontville township|County Subdivision|A|Eaton County
+MI|26|82000|Vernon township|County Subdivision|A|Isabella County
+MI|26|82020|Vernon village|Incorporated Place|A|Shiawassee County
+MI|26|82040|Vernon township|County Subdivision|A|Shiawassee County
+MI|26|82140|Verona township|County Subdivision|A|Huron County
+MI|26|82220|Vevay township|County Subdivision|A|Ingham County
+MI|26|82300|Vicksburg village|Incorporated Place|A|Kalamazoo County
+MI|26|82320|Victor township|County Subdivision|A|Clinton County
+MI|26|82360|Victory township|County Subdivision|A|Mason County
+MI|26|82380|Vienna charter township|County Subdivision|A|Genesee County
+MI|26|82420|Vienna township|County Subdivision|A|Montmorency County
+MI|26|82450|Village of Clarkston city|County Subdivision|F|Oakland County
+MI|26|82450|Village of Clarkston city|Incorporated Place|A|Oakland County
+MI|26|82453|Village of Grosse Pointe Shores city|County Subdivision|F|Macomb County, Wayne County
+MI|26|82453|Village of Grosse Pointe Shores city|Incorporated Place|A|Macomb County, Wayne County
+MI|26|82490|Vineyard Lake CDP|Census Designated Place|S|Jackson County
+MI|26|82580|Volinia township|County Subdivision|A|Cass County
+MI|26|82680|Wacousta CDP|Census Designated Place|S|Clinton County
+MI|26|82780|Wakefield city|County Subdivision|F|Gogebic County
+MI|26|82780|Wakefield city|Incorporated Place|A|Gogebic County
+MI|26|82800|Wakefield township|County Subdivision|A|Gogebic County
+MI|26|82840|Wakeshma township|County Subdivision|A|Kalamazoo County
+MI|26|82880|Waldron village|Incorporated Place|A|Hillsdale County
+MI|26|82900|Wales township|County Subdivision|A|St. Clair County
+MI|26|82940|Walker township|County Subdivision|A|Cheboygan County
+MI|26|82960|Walker city|County Subdivision|F|Kent County
+MI|26|82960|Walker city|Incorporated Place|A|Kent County
+MI|26|83020|Walkerville village|Incorporated Place|A|Oceana County
+MI|26|83060|Walled Lake city|County Subdivision|F|Oakland County
+MI|26|83060|Walled Lake city|Incorporated Place|A|Oakland County
+MI|26|83140|Walloon Lake CDP|Census Designated Place|S|Charlevoix County
+MI|26|83180|Walton township|County Subdivision|A|Eaton County
+MI|26|83300|Warner township|County Subdivision|A|Antrim County
+MI|26|84000|Warren city|County Subdivision|F|Macomb County
+MI|26|84000|Warren city|Incorporated Place|A|Macomb County
+MI|26|84020|Warren township|County Subdivision|A|Midland County
+MI|26|84080|Washington township|County Subdivision|A|Gratiot County
+MI|26|84120|Washington township|County Subdivision|A|Macomb County
+MI|26|84140|Washington township|County Subdivision|A|Sanilac County
+MI|26|84240|Waterford charter township|County Subdivision|A|Oakland County
+MI|26|84300|Waterloo township|County Subdivision|A|Jackson County
+MI|26|84360|Watersmeet CDP|Census Designated Place|S|Gogebic County
+MI|26|84380|Watersmeet township|County Subdivision|A|Gogebic County
+MI|26|84400|Watertown charter township|County Subdivision|A|Clinton County
+MI|26|84440|Watertown township|County Subdivision|A|Sanilac County
+MI|26|84460|Watertown township|County Subdivision|A|Tuscola County
+MI|26|84500|Watervliet city|County Subdivision|F|Berrien County
+MI|26|84500|Watervliet city|Incorporated Place|A|Berrien County
+MI|26|84520|Watervliet township|County Subdivision|A|Berrien County
+MI|26|84580|Watson township|County Subdivision|A|Allegan County
+MI|26|84700|Waucedah township|County Subdivision|A|Dickinson County
+MI|26|84760|Waverly township|County Subdivision|A|Cheboygan County
+MI|26|84800|Waverly CDP|Census Designated Place|S|Eaton County
+MI|26|84820|Waverly township|County Subdivision|A|Van Buren County
+MI|26|84840|Wawatam township|County Subdivision|A|Emmet County
+MI|26|84880|Wayland city|County Subdivision|F|Allegan County
+MI|26|84880|Wayland city|Incorporated Place|A|Allegan County
+MI|26|84900|Wayland township|County Subdivision|A|Allegan County
+MI|26|84920|Wayne township|County Subdivision|A|Cass County
+MI|26|84940|Wayne city|County Subdivision|F|Wayne County
+MI|26|84940|Wayne city|Incorporated Place|A|Wayne County
+MI|26|85040|Weare township|County Subdivision|A|Oceana County
+MI|26|85060|Webber township|County Subdivision|A|Lake County
+MI|26|85080|Webberville village|Incorporated Place|A|Ingham County
+MI|26|85100|Webster township|County Subdivision|A|Washtenaw County
+MI|26|85110|Wedgewood CDP|Census Designated Place|S|Wexford County
+MI|26|85120|Weesaw township|County Subdivision|A|Berrien County
+MI|26|85140|Weidman CDP|Census Designated Place|S|Isabella County
+MI|26|85160|Weldon township|County Subdivision|A|Benzie County
+MI|26|85180|Wellington township|County Subdivision|A|Alpena County
+MI|26|85240|Wells township|County Subdivision|A|Delta County
+MI|26|85260|Wells township|County Subdivision|A|Marquette County
+MI|26|85280|Wells township|County Subdivision|A|Tuscola County
+MI|26|85300|Wellston CDP|Census Designated Place|S|Manistee County
+MI|26|85480|West Bloomfield charter township|County Subdivision|A|Oakland County
+MI|26|85520|West Branch township|County Subdivision|A|Dickinson County
+MI|26|85540|West Branch township|County Subdivision|A|Marquette County
+MI|26|85560|West Branch township|County Subdivision|A|Missaukee County
+MI|26|85580|West Branch city|County Subdivision|F|Ogemaw County
+MI|26|85580|West Branch city|Incorporated Place|A|Ogemaw County
+MI|26|85600|West Branch township|County Subdivision|A|Ogemaw County
+MI|26|85700|West Ishpeming CDP|Census Designated Place|S|Marquette County
+MI|26|86000|Westland city|County Subdivision|F|Wayne County
+MI|26|86000|Westland city|Incorporated Place|A|Wayne County
+MI|26|86050|West Monroe CDP|Census Designated Place|S|Monroe County
+MI|26|86120|Westphalia village|Incorporated Place|A|Clinton County
+MI|26|86140|Westphalia township|County Subdivision|A|Clinton County
+MI|26|86300|West Traverse township|County Subdivision|A|Emmet County
+MI|26|86380|Westwood CDP|Census Designated Place|S|Kalamazoo County
+MI|26|86500|Wexford township|County Subdivision|A|Wexford County
+MI|26|86520|Wheatfield township|County Subdivision|A|Ingham County
+MI|26|86540|Wheatland township|County Subdivision|A|Hillsdale County
+MI|26|86560|Wheatland township|County Subdivision|A|Mecosta County
+MI|26|86580|Wheatland township|County Subdivision|A|Sanilac County
+MI|26|86620|Wheeler township|County Subdivision|A|Gratiot County
+MI|26|86680|White Cloud city|County Subdivision|F|Newaygo County
+MI|26|86680|White Cloud city|Incorporated Place|A|Newaygo County
+MI|26|86700|Whitefish township|County Subdivision|A|Chippewa County
+MI|26|86740|Whiteford township|County Subdivision|A|Monroe County
+MI|26|86780|Whitehall city|County Subdivision|F|Muskegon County
+MI|26|86780|Whitehall city|Incorporated Place|A|Muskegon County
+MI|26|86800|Whitehall township|County Subdivision|A|Muskegon County
+MI|26|86860|White Lake charter township|County Subdivision|A|Oakland County
+MI|26|86900|White Oak township|County Subdivision|A|Ingham County
+MI|26|86920|White Pigeon village|Incorporated Place|A|St. Joseph County
+MI|26|86940|White Pigeon township|County Subdivision|A|St. Joseph County
+MI|26|86960|White Pine CDP|Census Designated Place|S|Ontonagon County
+MI|26|86980|White River township|County Subdivision|A|Muskegon County
+MI|26|87040|Whitewater township|County Subdivision|A|Grand Traverse County
+MI|26|87060|Whitmore Lake CDP|Census Designated Place|S|Livingston County, Washtenaw County
+MI|26|87080|Whitney township|County Subdivision|A|Arenac County
+MI|26|87140|Whittemore city|County Subdivision|F|Iosco County
+MI|26|87140|Whittemore city|Incorporated Place|A|Iosco County
+MI|26|87180|Wilber township|County Subdivision|A|Iosco County
+MI|26|87200|Wilcox township|County Subdivision|A|Newaygo County
+MI|26|87380|Williams charter township|County Subdivision|A|Bay County
+MI|26|87420|Williamston city|County Subdivision|F|Ingham County
+MI|26|87420|Williamston city|Incorporated Place|A|Ingham County
+MI|26|87440|Williamstown township|County Subdivision|A|Ingham County
+MI|26|87640|Wilmot township|County Subdivision|A|Cheboygan County
+MI|26|87680|Wilson township|County Subdivision|A|Alpena County
+MI|26|87700|Wilson township|County Subdivision|A|Charlevoix County
+MI|26|87840|Windsor charter township|County Subdivision|A|Eaton County
+MI|26|87880|Winfield township|County Subdivision|A|Montcalm County
+MI|26|87960|Winsor township|County Subdivision|A|Huron County
+MI|26|87980|Winterfield township|County Subdivision|A|Clare County
+MI|26|88040|Wise township|County Subdivision|A|Isabella County
+MI|26|88080|Wisner township|County Subdivision|A|Tuscola County
+MI|26|88140|Wixom city|County Subdivision|F|Oakland County
+MI|26|88140|Wixom city|Incorporated Place|A|Oakland County
+MI|26|88220|Wolf Lake CDP|Census Designated Place|S|Muskegon County
+MI|26|88240|Wolverine village|Incorporated Place|A|Cheboygan County
+MI|26|88260|Wolverine Lake village|Incorporated Place|A|Oakland County
+MI|26|88300|Woodbridge township|County Subdivision|A|Hillsdale County
+MI|26|88380|Woodhaven city|County Subdivision|F|Wayne County
+MI|26|88380|Woodhaven city|Incorporated Place|A|Wayne County
+MI|26|88400|Woodhull township|County Subdivision|A|Shiawassee County
+MI|26|88420|Woodland village|Incorporated Place|A|Barry County
+MI|26|88440|Woodland township|County Subdivision|A|Barry County
+MI|26|88480|Woodland Beach CDP|Census Designated Place|S|Monroe County
+MI|26|88640|Woodstock township|County Subdivision|A|Lenawee County
+MI|26|88760|Worth township|County Subdivision|A|Sanilac County
+MI|26|88780|Wright township|County Subdivision|A|Hillsdale County
+MI|26|88820|Wright township|County Subdivision|A|Ottawa County
+MI|26|88900|Wyandotte city|County Subdivision|F|Wayne County
+MI|26|88900|Wyandotte city|Incorporated Place|A|Wayne County
+MI|26|88940|Wyoming city|County Subdivision|F|Kent County
+MI|26|88940|Wyoming city|Incorporated Place|A|Kent County
+MI|26|89000|Yale city|County Subdivision|F|St. Clair County
+MI|26|89000|Yale city|Incorporated Place|A|St. Clair County
+MI|26|89020|Yankee Springs township|County Subdivision|A|Barry County
+MI|26|89040|Yates township|County Subdivision|A|Lake County
+MI|26|89100|York charter township|County Subdivision|A|Washtenaw County
+MI|26|89140|Ypsilanti city|County Subdivision|F|Washtenaw County
+MI|26|89140|Ypsilanti city|Incorporated Place|A|Washtenaw County
+MI|26|89160|Ypsilanti charter township|County Subdivision|A|Washtenaw County
+MI|26|89240|Zeba CDP|Census Designated Place|S|Baraga County
+MI|26|89260|Zeeland city|County Subdivision|F|Ottawa County
+MI|26|89260|Zeeland city|Incorporated Place|A|Ottawa County
+MI|26|89280|Zeeland charter township|County Subdivision|A|Ottawa County
+MI|26|89320|Zilwaukee city|County Subdivision|F|Saginaw County
+MI|26|89320|Zilwaukee city|Incorporated Place|A|Saginaw County
+MI|26|89340|Zilwaukee township|County Subdivision|A|Saginaw County

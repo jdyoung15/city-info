@@ -1,0 +1,253 @@
+PR|72|00186|Aceitunas comunidad|Census Designated Place|S|Moca Municipio
+PR|72|00358|Adjuntas zona urbana|Census Designated Place|S|Adjuntas Municipio
+PR|72|00616|Aguada zona urbana|Census Designated Place|S|Aguada Municipio
+PR|72|00745|Aguadilla zona urbana|Census Designated Place|S|Aguadilla Municipio
+PR|72|00874|Aguas Buenas zona urbana|Census Designated Place|S|Aguas Buenas Municipio
+PR|72|01003|Aguas Claras comunidad|Census Designated Place|S|Ceiba Municipio
+PR|72|01089|Aguilita comunidad|Census Designated Place|S|Juana Díaz Municipio
+PR|72|01218|Aibonito zona urbana|Census Designated Place|S|Aibonito Municipio
+PR|72|01863|Alianza comunidad|Census Designated Place|S|Camuy Municipio
+PR|72|02680|Añasco zona urbana|Census Designated Place|S|Añasco Municipio
+PR|72|03024|Animas comunidad|Census Designated Place|S|Arecibo Municipio
+PR|72|03174|Anon Raices comunidad|Census Designated Place|S|Ponce Municipio
+PR|72|03196|Antón Ruíz comunidad|Census Designated Place|S|Humacao Municipio
+PR|72|03368|Arecibo zona urbana|Census Designated Place|S|Arecibo Municipio
+PR|72|03927|Arroyo zona urbana|Census Designated Place|S|Arroyo Municipio
+PR|72|04620|Bairoa La Vienticinco comunidad|Census Designated Place|S|Caguas Municipio
+PR|72|04658|Bajadero comunidad|Census Designated Place|S|Arecibo Municipio
+PR|72|04701|Bajandas comunidad|Census Designated Place|S|Humacao Municipio
+PR|72|05217|Barahona comunidad|Census Designated Place|S|Morovis Municipio
+PR|72|05346|Barceloneta zona urbana|Census Designated Place|S|Barceloneta Municipio
+PR|72|05690|Barranquitas zona urbana|Census Designated Place|S|Barranquitas Municipio
+PR|72|06421|Bartolo comunidad|Census Designated Place|S|Río Grande Municipio
+PR|72|06593|Bayamón zona urbana|Census Designated Place|S|Bayamón Municipio
+PR|72|06679|Bayamón comunidad|Census Designated Place|S|Cidra Municipio
+PR|72|07496|Benítez comunidad|Census Designated Place|S|Canóvanas Municipio
+PR|72|07668|Betances comunidad|Census Designated Place|S|Cabo Rojo Municipio
+PR|72|07969|Boquerón comunidad|Census Designated Place|S|Cabo Rojo Municipio
+PR|72|08099|Boquerón comunidad|Census Designated Place|S|Las Piedras Municipio
+PR|72|08700|Breñas comunidad|Census Designated Place|S|Vega Alta Municipio
+PR|72|09087|Buena Vista comunidad|Census Designated Place|S|Arroyo Municipio
+PR|72|09250|Buena Vista comunidad|Census Designated Place|S|Humacao Municipio
+PR|72|09603|Búfalo comunidad|Census Designated Place|S|Barceloneta Municipio
+PR|72|09689|Cabán comunidad|Census Designated Place|S|Aguadilla Municipio
+PR|72|09861|Cabo Rojo zona urbana|Census Designated Place|S|Cabo Rojo Municipio
+PR|72|10048|Cacao comunidad|Census Designated Place|S|Quebradillas Municipio
+PR|72|10334|Caguas zona urbana|Census Designated Place|S|Caguas Municipio
+PR|72|11151|Calzada comunidad|Census Designated Place|S|Ponce Municipio
+PR|72|11581|Campanilla comunidad|Census Designated Place|S|Toa Baja Municipio
+PR|72|11710|Campo Rico comunidad|Census Designated Place|S|Canóvanas Municipio
+PR|72|11925|Camuy zona urbana|Census Designated Place|S|Camuy Municipio
+PR|72|12441|Candelaria comunidad|Census Designated Place|S|Toa Baja Municipio
+PR|72|12560|Candelaria Arenas comunidad|Census Designated Place|S|Toa Baja Municipio
+PR|72|12568|Candelero Abajo comunidad|Census Designated Place|S|Humacao Municipio
+PR|72|12613|Candelero Arriba comunidad|Census Designated Place|S|Humacao Municipio
+PR|72|12828|Canóvanas zona urbana|Census Designated Place|S|Canóvanas Municipio
+PR|72|13925|Capitanejo comunidad|Census Designated Place|S|Juana Díaz Municipio, Ponce Municipio
+PR|72|14290|Carolina zona urbana|Census Designated Place|S|Carolina Municipio
+PR|72|14634|Carrizales comunidad|Census Designated Place|S|Hatillo Municipio
+PR|72|15193|Cataño zona urbana|Census Designated Place|S|Cataño Municipio
+PR|72|15494|Cayey zona urbana|Census Designated Place|S|Cayey Municipio
+PR|72|15623|Cayuco comunidad|Census Designated Place|S|Utuado Municipio
+PR|72|15924|Ceiba zona urbana|Census Designated Place|S|Ceiba Municipio
+PR|72|16139|Ceiba comunidad|Census Designated Place|S|Vega Alta Municipio, Vega Baja Municipio
+PR|72|16440|Celada comunidad|Census Designated Place|S|Gurabo Municipio
+PR|72|16526|Central Aguirre comunidad|Census Designated Place|S|Salinas Municipio
+PR|72|17050|Cerillos Hoyos comunidad|Census Designated Place|S|Ponce Municipio
+PR|72|17773|Ciales zona urbana|Census Designated Place|S|Ciales Municipio
+PR|72|18074|Cidra zona urbana|Census Designated Place|S|Cidra Municipio
+PR|72|18719|Coamo zona urbana|Census Designated Place|S|Coamo Municipio
+PR|72|18891|Coco comunidad|Census Designated Place|S|Salinas Municipio
+PR|72|19665|Comerío zona urbana|Census Designated Place|S|Comerío Municipio
+PR|72|19837|Comunas comunidad|Census Designated Place|S|Yabucoa Municipio
+PR|72|20310|Coquí comunidad|Census Designated Place|S|Salinas Municipio
+PR|72|20353|Corazón comunidad|Census Designated Place|S|Guayama Municipio
+PR|72|20482|Corcovado comunidad|Census Designated Place|S|Hatillo Municipio
+PR|72|20783|Corozal zona urbana|Census Designated Place|S|Corozal Municipio
+PR|72|21020|Corral Viejo comunidad|Census Designated Place|S|Ponce Municipio
+PR|72|21213|Coto Laurel comunidad|Census Designated Place|S|Ponce Municipio
+PR|72|21385|Coto Norte comunidad|Census Designated Place|S|Manatí Municipio, Vega Baja Municipio
+PR|72|22589|Culebra zona urbana|Census Designated Place|S|Culebra Municipio
+PR|72|23062|Daguao comunidad|Census Designated Place|S|Naguabo Municipio
+PR|72|24008|Dorado zona urbana|Census Designated Place|S|Dorado Municipio
+PR|72|24395|Duque comunidad|Census Designated Place|S|Naguabo Municipio
+PR|72|24954|El Combate comunidad|Census Designated Place|S|Cabo Rojo Municipio
+PR|72|25556|El Mangó comunidad|Census Designated Place|S|Juncos Municipio
+PR|72|25685|El Negro comunidad|Census Designated Place|S|Yabucoa Municipio
+PR|72|25771|El Ojo comunidad|Census Designated Place|S|Santa Isabel Municipio
+PR|72|25835|El Paraiso comunidad|Census Designated Place|S|Ponce Municipio
+PR|72|26287|El Tumbao comunidad|Census Designated Place|S|Guánica Municipio
+PR|72|26502|Emajagua comunidad|Census Designated Place|S|Maunabo Municipio
+PR|72|27190|Esperanza comunidad|Census Designated Place|S|Vieques Municipio
+PR|72|27263|Espino comunidad|Census Designated Place|S|Añasco Municipio
+PR|72|27964|Fajardo zona urbana|Census Designated Place|S|Fajardo Municipio
+PR|72|28824|Florida zona urbana|Census Designated Place|S|Florida Municipio
+PR|72|29555|Fránquez comunidad|Census Designated Place|S|Morovis Municipio
+PR|72|29727|Fuig comunidad|Census Designated Place|S|Guánica Municipio
+PR|72|29813|Galateo comunidad|Census Designated Place|S|Toa Alta Municipio
+PR|72|30372|Garrochales comunidad|Census Designated Place|S|Barceloneta Municipio
+PR|72|30544|G. L. García comunidad|Census Designated Place|S|Cayey Municipio
+PR|72|31189|Guánica zona urbana|Census Designated Place|S|Guánica Municipio
+PR|72|31877|Guayabal comunidad|Census Designated Place|S|Juana Díaz Municipio
+PR|72|32221|Guayama zona urbana|Census Designated Place|S|Guayama Municipio
+PR|72|32307|Guayanilla zona urbana|Census Designated Place|S|Guayanilla Municipio
+PR|72|32522|Guaynabo zona urbana|Census Designated Place|S|Guaynabo Municipio
+PR|72|32823|Gurabo zona urbana|Census Designated Place|S|Gurabo Municipio
+PR|72|33184|Hacienda San Jose comunidad|Census Designated Place|S|Caguas Municipio
+PR|72|33296|Hatillo zona urbana|Census Designated Place|S|Hatillo Municipio
+PR|72|33597|Hato Arriba comunidad|Census Designated Place|S|San Sebastián Municipio
+PR|72|33683|Hato Candal comunidad|Census Designated Place|S|Río Grande Municipio
+PR|72|35059|Hormigueros zona urbana|Census Designated Place|S|Hormigueros Municipio
+PR|72|35403|H. Rivera Colón comunidad|Census Designated Place|S|Toa Alta Municipio
+PR|72|35532|Humacao zona urbana|Census Designated Place|S|Humacao Municipio
+PR|72|35962|Imbéry comunidad|Census Designated Place|S|Barceloneta Municipio
+PR|72|36177|Indios comunidad|Census Designated Place|S|Guayanilla Municipio
+PR|72|36263|Ingenio comunidad|Census Designated Place|S|Toa Baja Municipio
+PR|72|36478|Isabela zona urbana|Census Designated Place|S|Isabela Municipio
+PR|72|37166|Jagual comunidad|Census Designated Place|S|San Lorenzo Municipio
+PR|72|38241|Jauca comunidad|Census Designated Place|S|Santa Isabel Municipio
+PR|72|38370|Jayuya zona urbana|Census Designated Place|S|Jayuya Municipio
+PR|72|38671|Jobos comunidad|Census Designated Place|S|Guayama Municipio
+PR|72|38972|Juana Díaz zona urbana|Census Designated Place|S|Juana Díaz Municipio
+PR|72|39470|Juncal comunidad|Census Designated Place|S|San Sebastián Municipio
+PR|72|39574|Juncos zona urbana|Census Designated Place|S|Juncos Municipio
+PR|72|39875|La Alianza comunidad|Census Designated Place|S|Arecibo Municipio
+PR|72|40348|La Dolores comunidad|Census Designated Place|S|Río Grande Municipio
+PR|72|40563|La Fermina comunidad|Census Designated Place|S|Humacao Municipio, Las Piedras Municipio
+PR|72|40950|Lajas zona urbana|Census Designated Place|S|Lajas Municipio
+PR|72|41274|La Liga comunidad|Census Designated Place|S|Caguas Municipio
+PR|72|41294|La Luisa comunidad|Census Designated Place|S|Manatí Municipio
+PR|72|41466|Lamboglia comunidad|Census Designated Place|S|Patillas Municipio
+PR|72|41767|La Parguera comunidad|Census Designated Place|S|Lajas Municipio
+PR|72|42068|La Playa comunidad|Census Designated Place|S|Añasco Municipio
+PR|72|42197|La Plena comunidad|Census Designated Place|S|Salinas Municipio
+PR|72|42498|Lares zona urbana|Census Designated Place|S|Lares Municipio
+PR|72|42842|Las Carolinas comunidad|Census Designated Place|S|Caguas Municipio
+PR|72|43057|Las Croabas comunidad|Census Designated Place|S|Fajardo Municipio
+PR|72|43702|Las Marías comunidad|Census Designated Place|S|Añasco Municipio
+PR|72|43788|Las Marías zona urbana|Census Designated Place|S|Las Marías Municipio
+PR|72|44003|Las Ochenta comunidad|Census Designated Place|S|Salinas Municipio
+PR|72|44089|Las Ollas comunidad|Census Designated Place|S|Santa Isabel Municipio
+PR|72|44390|Las Piedras zona urbana|Census Designated Place|S|Las Piedras Municipio
+PR|72|45170|La Yuca comunidad|Census Designated Place|S|Ponce Municipio
+PR|72|45336|Levittown comunidad|Census Designated Place|S|Toa Baja Municipio
+PR|72|45379|Liborio Negrón Torres comunidad|Census Designated Place|S|Sabana Grande Municipio
+PR|72|46282|Lluveras comunidad|Census Designated Place|S|Sabana Grande Municipio
+PR|72|46368|Loíza zona urbana|Census Designated Place|S|Loíza Municipio
+PR|72|46626|Lomas comunidad|Census Designated Place|S|Canóvanas Municipio
+PR|72|47013|Los Llanos comunidad|Census Designated Place|S|Coamo Municipio
+PR|72|47336|Los Panes comunidad|Census Designated Place|S|Caguas Municipio
+PR|72|47422|Los Prados comunidad|Census Designated Place|S|Caguas Municipio
+PR|72|47615|Luis Lloréns Torres comunidad|Census Designated Place|S|Juana Díaz Municipio
+PR|72|47701|Luis M. Cintrón comunidad|Census Designated Place|S|Fajardo Municipio
+PR|72|47787|Luquillo zona urbana|Census Designated Place|S|Luquillo Municipio
+PR|72|47873|Luyando comunidad|Census Designated Place|S|Aguada Municipio
+PR|72|48604|Magas Arriba comunidad|Census Designated Place|S|Guayanilla Municipio
+PR|72|48862|Maguayo comunidad|Census Designated Place|S|Lajas Municipio
+PR|72|50152|Manatí zona urbana|Census Designated Place|S|Manatí Municipio
+PR|72|50754|María Antonia comunidad|Census Designated Place|S|Guánica Municipio
+PR|72|51055|Mariano Colón comunidad|Census Designated Place|S|Coamo Municipio, Santa Isabel Municipio
+PR|72|51270|Maricao zona urbana|Census Designated Place|S|Maricao Municipio
+PR|72|51657|Martorell comunidad|Census Designated Place|S|Yabucoa Municipio
+PR|72|51700|Marueño comunidad|Census Designated Place|S|Ponce Municipio
+PR|72|52345|Maunabo zona urbana|Census Designated Place|S|Maunabo Municipio
+PR|72|52431|Mayagüez zona urbana|Census Designated Place|S|Mayagüez Municipio
+PR|72|53678|Miranda comunidad|Census Designated Place|S|Vega Baja Municipio
+PR|72|53807|Moca zona urbana|Census Designated Place|S|Moca Municipio
+PR|72|53979|Monserrate comunidad|Census Designated Place|S|Vega Alta Municipio, Vega Baja Municipio
+PR|72|54366|Monte Grande comunidad|Census Designated Place|S|Cabo Rojo Municipio
+PR|72|54688|Monte Verde comunidad|Census Designated Place|S|Ponce Municipio
+PR|72|54882|Mora comunidad|Census Designated Place|S|Isabela Municipio
+PR|72|55097|Morovis zona urbana|Census Designated Place|S|Morovis Municipio
+PR|72|55355|Mucarabones comunidad|Census Designated Place|S|Toa Alta Municipio
+PR|72|55828|Naguabo zona urbana|Census Designated Place|S|Naguabo Municipio
+PR|72|56129|Naranjito zona urbana|Census Designated Place|S|Naranjito Municipio
+PR|72|57075|Olimpo comunidad|Census Designated Place|S|Guayama Municipio
+PR|72|57290|Orocovis zona urbana|Census Designated Place|S|Orocovis Municipio
+PR|72|57806|Pájaros comunidad|Census Designated Place|S|Toa Alta Municipio
+PR|72|57862|Pajonal comunidad|Census Designated Place|S|Florida Municipio
+PR|72|57978|Palmarejo comunidad|Census Designated Place|S|Coamo Municipio
+PR|72|58150|Palmarejo comunidad|Census Designated Place|S|Lajas Municipio
+PR|72|58516|Palmas comunidad|Census Designated Place|S|Arroyo Municipio, Patillas Municipio
+PR|72|58602|Palmas del Mar comunidad|Census Designated Place|S|Humacao Municipio
+PR|72|58666|Palmer comunidad|Census Designated Place|S|Río Grande Municipio
+PR|72|58967|Palomas comunidad|Census Designated Place|S|Comerío Municipio
+PR|72|59053|Palomas comunidad|Census Designated Place|S|Yauco Municipio
+PR|72|59139|Palo Seco comunidad|Census Designated Place|S|Maunabo Municipio
+PR|72|59386|Parcelas de Navarro comunidad|Census Designated Place|S|Gurabo Municipio
+PR|72|59420|Parcelas La Milagrosa comunidad|Census Designated Place|S|Cidra Municipio
+PR|72|59422|Parcelas Mandry comunidad|Census Designated Place|S|Ponce Municipio
+PR|72|59425|Parcelas Nuevas comunidad|Census Designated Place|S|Cidra Municipio
+PR|72|59440|Parcelas Peñuelas comunidad|Census Designated Place|S|Santa Isabel Municipio
+PR|72|59450|Parcelas Viejas Borinquen comunidad|Census Designated Place|S|Caguas Municipio
+PR|72|60257|Pastos comunidad|Census Designated Place|S|Aibonito Municipio
+PR|72|60472|Patillas zona urbana|Census Designated Place|S|Patillas Municipio
+PR|72|60945|Peña Pobre comunidad|Census Designated Place|S|Naguabo Municipio
+PR|72|61074|Peñuelas zona urbana|Census Designated Place|S|Peñuelas Municipio
+PR|72|61545|Piedra Aguza comunidad|Census Designated Place|S|Juana Díaz Municipio
+PR|72|61590|Piedra Gorda comunidad|Census Designated Place|S|Camuy Municipio
+PR|72|63310|Playa Fortuna comunidad|Census Designated Place|S|Luquillo Municipio
+PR|72|63503|Playita comunidad|Census Designated Place|S|Salinas Municipio
+PR|72|63525|Playita comunidad|Census Designated Place|S|Yabucoa Municipio
+PR|72|63568|Playita Cortada comunidad|Census Designated Place|S|Santa Isabel Municipio
+PR|72|63697|Pole Ojea comunidad|Census Designated Place|S|Cabo Rojo Municipio
+PR|72|63820|Ponce zona urbana|Census Designated Place|S|Ponce Municipio
+PR|72|64127|Potala Pastillo comunidad|Census Designated Place|S|Juana Díaz Municipio
+PR|72|64400|Pueblito del Carmen comunidad|Census Designated Place|S|Guayama Municipio
+PR|72|64500|Pueblito del Río comunidad|Census Designated Place|S|Las Piedras Municipio
+PR|72|65589|Puerto Real comunidad|Census Designated Place|S|Cabo Rojo Municipio
+PR|72|66492|Punta Santiago comunidad|Census Designated Place|S|Humacao Municipio
+PR|72|66660|Quebrada comunidad|Census Designated Place|S|Camuy Municipio
+PR|72|67200|Quebrada del Agua comunidad|Census Designated Place|S|Ponce Municipio
+PR|72|68040|Quebradillas zona urbana|Census Designated Place|S|Quebradillas Municipio
+PR|72|68513|Rafael Capó comunidad|Census Designated Place|S|Hatillo Municipio
+PR|72|68556|Rafael González comunidad|Census Designated Place|S|Hatillo Municipio
+PR|72|68599|Rafael Hernández comunidad|Census Designated Place|S|Aguadilla Municipio
+PR|72|68771|Ramos comunidad|Census Designated Place|S|Luquillo Municipio
+PR|72|69588|Rincón zona urbana|Census Designated Place|S|Rincón Municipio
+PR|72|70448|Río Blanco comunidad|Census Designated Place|S|Naguabo Municipio
+PR|72|70706|Río Cañas Abajo comunidad|Census Designated Place|S|Juana Díaz Municipio
+PR|72|71136|Río Grande zona urbana|Census Designated Place|S|Río Grande Municipio
+PR|72|71437|Río Lajas comunidad|Census Designated Place|S|Dorado Municipio
+PR|72|71996|Rodríguez Hevia zona urbana|Census Designated Place|S|Cidra Municipio
+PR|72|72555|Rosa Sánchez comunidad|Census Designated Place|S|Yabucoa Municipio
+PR|72|73200|Sabana comunidad|Census Designated Place|S|Vega Alta Municipio, Vega Baja Municipio
+PR|72|73372|Sabana Eneas comunidad|Census Designated Place|S|San Germán Municipio
+PR|72|73544|Sabana Grande zona urbana|Census Designated Place|S|Sabana Grande Municipio
+PR|72|73716|Sabana Hoyos comunidad|Census Designated Place|S|Arecibo Municipio
+PR|72|74189|Sabana Seca comunidad|Census Designated Place|S|Toa Baja Municipio
+PR|72|74877|Salinas zona urbana|Census Designated Place|S|Salinas Municipio
+PR|72|75608|San Antonio comunidad|Census Designated Place|S|Aguadilla Municipio
+PR|72|75694|San Antonio comunidad|Census Designated Place|S|Dorado Municipio
+PR|72|75780|San Antonio comunidad|Census Designated Place|S|Quebradillas Municipio
+PR|72|76167|San Germán zona urbana|Census Designated Place|S|San Germán Municipio
+PR|72|76339|San Isidro comunidad|Census Designated Place|S|Canóvanas Municipio
+PR|72|76683|San José comunidad|Census Designated Place|S|Toa Baja Municipio
+PR|72|76770|San Juan zona urbana|Census Designated Place|S|San Juan Municipio
+PR|72|77027|San Lorenzo zona urbana|Census Designated Place|S|San Lorenzo Municipio
+PR|72|77500|San Sebastián zona urbana|Census Designated Place|S|San Sebastián Municipio
+PR|72|77672|Santa Bárbara comunidad|Census Designated Place|S|Canóvanas Municipio
+PR|72|77826|Santa Clara comunidad|Census Designated Place|S|Aguas Buenas Municipio
+PR|72|78145|Santa Isabel zona urbana|Census Designated Place|S|Santa Isabel Municipio
+PR|72|79564|Santo Domingo comunidad|Census Designated Place|S|Peñuelas Municipio
+PR|72|80596|Stella comunidad|Census Designated Place|S|Rincón Municipio
+PR|72|80639|Suárez comunidad|Census Designated Place|S|Loíza Municipio
+PR|72|81413|Tallaboa comunidad|Census Designated Place|S|Peñuelas Municipio
+PR|72|81456|Tallaboa Alta comunidad|Census Designated Place|S|Peñuelas Municipio
+PR|72|82055|Tibes comunidad|Census Designated Place|S|Ponce Municipio
+PR|72|82125|Tiburones comunidad|Census Designated Place|S|Barceloneta Municipio
+PR|72|82187|Tierras Nuevas Poniente comunidad|Census Designated Place|S|Manatí Municipio
+PR|72|82488|Toa Alta zona urbana|Census Designated Place|S|Toa Alta Municipio
+PR|72|82617|Toa Baja zona urbana|Census Designated Place|S|Toa Baja Municipio
+PR|72|83606|Trujillo Alto zona urbana|Census Designated Place|S|Trujillo Alto Municipio
+PR|72|84509|Utuado zona urbana|Census Designated Place|S|Utuado Municipio
+PR|72|85025|Vayas comunidad|Census Designated Place|S|Ponce Municipio
+PR|72|85111|Vázquez comunidad|Census Designated Place|S|Salinas Municipio
+PR|72|85197|Vega Alta zona urbana|Census Designated Place|S|Vega Alta Municipio
+PR|72|85326|Vega Baja zona urbana|Census Designated Place|S|Vega Baja Municipio
+PR|72|85971|Vieques comunidad|Census Designated Place|S|Loíza Municipio
+PR|72|86014|Vieques zona urbana|Census Designated Place|S|Vieques Municipio
+PR|72|86831|Villalba zona urbana|Census Designated Place|S|Villalba Municipio
+PR|72|87863|Yabucoa zona urbana|Census Designated Place|S|Yabucoa Municipio
+PR|72|88035|Yauco zona urbana|Census Designated Place|S|Yauco Municipio
+PR|72|88121|Yaurel comunidad|Census Designated Place|S|Arroyo Municipio

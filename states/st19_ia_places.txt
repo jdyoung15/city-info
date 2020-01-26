@@ -1,0 +1,1009 @@
+IA|19|00190|Ackley city|Incorporated Place|A|Franklin County, Hardin County
+IA|19|00235|Ackworth city|Incorporated Place|A|Warren County
+IA|19|00370|Adair city|Incorporated Place|A|Adair County, Guthrie County
+IA|19|00505|Adel city|Incorporated Place|A|Dallas County
+IA|19|00595|Afton city|Incorporated Place|A|Union County
+IA|19|00640|Agency city|Incorporated Place|A|Wapello County
+IA|19|00730|Ainsworth city|Incorporated Place|A|Washington County
+IA|19|00775|Akron city|Incorporated Place|A|Plymouth County
+IA|19|00865|Albert City city|Incorporated Place|A|Buena Vista County
+IA|19|00910|Albia city|Incorporated Place|A|Monroe County
+IA|19|00955|Albion city|Incorporated Place|A|Marshall County
+IA|19|01000|Alburnett city|Incorporated Place|A|Linn County
+IA|19|01045|Alden city|Incorporated Place|A|Hardin County
+IA|19|01090|Alexander city|Incorporated Place|A|Franklin County
+IA|19|01135|Algona city|Incorporated Place|A|Kossuth County
+IA|19|01180|Alleman city|Incorporated Place|A|Polk County
+IA|19|01270|Allerton city|Incorporated Place|A|Wayne County
+IA|19|01315|Allison city|Incorporated Place|A|Butler County
+IA|19|01495|Alta city|Incorporated Place|A|Buena Vista County
+IA|19|01540|Alta Vista city|Incorporated Place|A|Chickasaw County
+IA|19|01585|Alton city|Incorporated Place|A|Sioux County
+IA|19|01630|Altoona city|Incorporated Place|A|Polk County
+IA|19|01675|Alvord city|Incorporated Place|A|Lyon County
+IA|19|01720|Amana CDP|Census Designated Place|S|Iowa County
+IA|19|01855|Ames city|Incorporated Place|A|Story County
+IA|19|01990|Anamosa city|Incorporated Place|A|Jones County
+IA|19|02035|Anderson CDP|Census Designated Place|S|Fremont County
+IA|19|02080|Andover city|Incorporated Place|A|Clinton County
+IA|19|02125|Andrew city|Incorporated Place|A|Jackson County
+IA|19|02260|Anita city|Incorporated Place|A|Cass County
+IA|19|02305|Ankeny city|Incorporated Place|A|Polk County
+IA|19|02350|Anthon city|Incorporated Place|A|Woodbury County
+IA|19|02395|Aplington city|Incorporated Place|A|Butler County
+IA|19|02485|Arcadia city|Incorporated Place|A|Carroll County
+IA|19|02530|Archer city|Incorporated Place|A|O'Brien County
+IA|19|02620|Aredale city|Incorporated Place|A|Butler County
+IA|19|02755|Arion city|Incorporated Place|A|Crawford County
+IA|19|02800|Arispe city|Incorporated Place|A|Union County
+IA|19|02845|Arlington city|Incorporated Place|A|Fayette County
+IA|19|02935|Armstrong city|Incorporated Place|A|Emmet County
+IA|19|03025|Arnolds Park city|Incorporated Place|A|Dickinson County
+IA|19|03115|Arthur city|Incorporated Place|A|Ida County
+IA|19|03160|Asbury city|Incorporated Place|A|Dubuque County
+IA|19|03295|Ashton city|Incorporated Place|A|Osceola County
+IA|19|03340|Aspinwall city|Incorporated Place|A|Crawford County
+IA|19|03385|Atalissa city|Incorporated Place|A|Muscatine County
+IA|19|03430|Athelstan CDP|Census Designated Place|S|Taylor County
+IA|19|03475|Atkins city|Incorporated Place|A|Benton County
+IA|19|03520|Atlantic city|Incorporated Place|A|Cass County
+IA|19|03610|Auburn city|Incorporated Place|A|Sac County
+IA|19|03655|Audubon city|Incorporated Place|A|Audubon County
+IA|19|03745|Aurelia city|Incorporated Place|A|Cherokee County
+IA|19|03835|Aurora city|Incorporated Place|A|Buchanan County
+IA|19|03970|Avoca city|Incorporated Place|A|Pottawattamie County
+IA|19|04105|Ayrshire city|Incorporated Place|A|Palo Alto County
+IA|19|04195|Badger city|Incorporated Place|A|Webster County
+IA|19|04240|Bagley city|Incorporated Place|A|Guthrie County
+IA|19|04330|Baldwin city|Incorporated Place|A|Jackson County
+IA|19|04375|Balltown city|Incorporated Place|A|Dubuque County
+IA|19|04420|Bancroft city|Incorporated Place|A|Kossuth County
+IA|19|04510|Bankston city|Incorporated Place|A|Dubuque County
+IA|19|04555|Barnes City city|Incorporated Place|A|Mahaska County, Poweshiek County
+IA|19|04645|Barnum city|Incorporated Place|A|Webster County
+IA|19|04735|Bartlett CDP|Census Designated Place|S|Fremont County
+IA|19|04780|Bassett city|Incorporated Place|A|Chickasaw County
+IA|19|04825|Batavia city|Incorporated Place|A|Jefferson County
+IA|19|04870|Battle Creek city|Incorporated Place|A|Ida County
+IA|19|04915|Baxter city|Incorporated Place|A|Jasper County
+IA|19|04960|Bayard city|Incorporated Place|A|Guthrie County
+IA|19|05050|Beacon city|Incorporated Place|A|Mahaska County
+IA|19|05095|Beaconsfield city|Incorporated Place|A|Ringgold County
+IA|19|05140|Beaman city|Incorporated Place|A|Grundy County
+IA|19|05185|Beaver city|Incorporated Place|A|Boone County
+IA|19|05200|Beaverdale CDP|Census Designated Place|S|Des Moines County
+IA|19|05365|Bedford city|Incorporated Place|A|Taylor County
+IA|19|05590|Belle Plaine city|Incorporated Place|A|Benton County
+IA|19|05635|Bellevue city|Incorporated Place|A|Jackson County
+IA|19|05680|Belmond city|Incorporated Place|A|Wright County
+IA|19|05770|Bennett city|Incorporated Place|A|Cedar County
+IA|19|05870|Bentley CDP|Census Designated Place|S|Pottawattamie County
+IA|19|05905|Benton city|Incorporated Place|A|Ringgold County
+IA|19|06040|Berkley city|Incorporated Place|A|Boone County
+IA|19|06085|Bernard city|Incorporated Place|A|Dubuque County
+IA|19|06175|Bertram city|Incorporated Place|A|Linn County
+IA|19|06355|Bettendorf city|Incorporated Place|A|Scott County
+IA|19|06490|Bevington city|Incorporated Place|A|Madison County, Warren County
+IA|19|06625|Birmingham city|Incorporated Place|A|Van Buren County
+IA|19|06760|Blairsburg city|Incorporated Place|A|Hamilton County
+IA|19|06805|Blairstown city|Incorporated Place|A|Benton County
+IA|19|06850|Blakesburg city|Incorporated Place|A|Wapello County
+IA|19|06895|Blanchard city|Incorporated Place|A|Page County
+IA|19|06940|Blencoe city|Incorporated Place|A|Monona County
+IA|19|06985|Blockton city|Incorporated Place|A|Taylor County
+IA|19|07030|Bloomfield city|Incorporated Place|A|Davis County
+IA|19|07075|Blue Grass city|Incorporated Place|A|Muscatine County, Scott County
+IA|19|07210|Bode city|Incorporated Place|A|Humboldt County
+IA|19|07255|Bolan CDP|Census Designated Place|S|Worth County
+IA|19|07345|Bonaparte city|Incorporated Place|A|Van Buren County
+IA|19|07390|Bondurant city|Incorporated Place|A|Polk County
+IA|19|07480|Boone city|Incorporated Place|A|Boone County
+IA|19|07660|Bouton city|Incorporated Place|A|Dallas County
+IA|19|07750|Boxholm city|Incorporated Place|A|Boone County
+IA|19|07840|Boyden city|Incorporated Place|A|Sioux County
+IA|19|07930|Braddyville city|Incorporated Place|A|Page County
+IA|19|08020|Bradford CDP|Census Designated Place|S|Franklin County
+IA|19|08065|Bradgate city|Incorporated Place|A|Humboldt County
+IA|19|08155|Brandon city|Incorporated Place|A|Buchanan County
+IA|19|08200|Brayton city|Incorporated Place|A|Audubon County
+IA|19|08290|Breda city|Incorporated Place|A|Carroll County
+IA|19|08425|Bridgewater city|Incorporated Place|A|Adair County
+IA|19|08470|Brighton city|Incorporated Place|A|Washington County
+IA|19|08560|Bristow city|Incorporated Place|A|Butler County
+IA|19|08605|Britt city|Incorporated Place|A|Hancock County
+IA|19|08650|Bronson city|Incorporated Place|A|Woodbury County
+IA|19|08695|Brooklyn city|Incorporated Place|A|Poweshiek County
+IA|19|08875|Brunsville city|Incorporated Place|A|Plymouth County
+IA|19|09100|Buckeye city|Incorporated Place|A|Hardin County
+IA|19|09145|Buck Grove city|Incorporated Place|A|Crawford County
+IA|19|09235|Buffalo city|Incorporated Place|A|Scott County
+IA|19|09280|Buffalo Center city|Incorporated Place|A|Winnebago County
+IA|19|09415|Burchinal CDP|Census Designated Place|S|Cerro Gordo County
+IA|19|09550|Burlington city|Incorporated Place|A|Des Moines County
+IA|19|09640|Burr Oak CDP|Census Designated Place|S|Winneshiek County
+IA|19|09685|Burt city|Incorporated Place|A|Kossuth County
+IA|19|09730|Bussey city|Incorporated Place|A|Marion County
+IA|19|09820|Calamus city|Incorporated Place|A|Clinton County
+IA|19|09910|California Junction CDP|Census Designated Place|S|Harrison County
+IA|19|09955|Callender city|Incorporated Place|A|Webster County
+IA|19|10045|Calmar city|Incorporated Place|A|Winneshiek County
+IA|19|10090|Calumet city|Incorporated Place|A|O'Brien County
+IA|19|10135|Camanche city|Incorporated Place|A|Clinton County
+IA|19|10225|Cambridge city|Incorporated Place|A|Story County
+IA|19|10450|Cantril city|Incorporated Place|A|Van Buren County
+IA|19|10585|Carbon city|Incorporated Place|A|Adams County
+IA|19|10765|Carlisle city|Incorporated Place|A|Polk County, Warren County
+IA|19|11035|Carpenter city|Incorporated Place|A|Mitchell County
+IA|19|11080|Carroll city|Incorporated Place|A|Carroll County
+IA|19|11170|Carson city|Incorporated Place|A|Pottawattamie County
+IA|19|11215|Carter Lake city|Incorporated Place|A|Pottawattamie County
+IA|19|11305|Cascade city|Incorporated Place|A|Dubuque County, Jones County
+IA|19|11395|Casey city|Incorporated Place|A|Adair County, Guthrie County
+IA|19|11485|Castalia city|Incorporated Place|A|Winneshiek County
+IA|19|11530|Castana city|Incorporated Place|A|Monona County
+IA|19|11755|Cedar Falls city|Incorporated Place|A|Black Hawk County
+IA|19|12000|Cedar Rapids city|Incorporated Place|A|Linn County
+IA|19|12225|Center Junction city|Incorporated Place|A|Jones County
+IA|19|12270|Center Point city|Incorporated Place|A|Linn County
+IA|19|12315|Centerville city|Incorporated Place|A|Appanoose County
+IA|19|12495|Central City city|Incorporated Place|A|Linn County
+IA|19|12630|Centralia city|Incorporated Place|A|Dubuque County
+IA|19|12675|Chapin CDP|Census Designated Place|S|Franklin County
+IA|19|12720|Chariton city|Incorporated Place|A|Lucas County
+IA|19|12765|Charles City city|Incorporated Place|A|Floyd County
+IA|19|12855|Charlotte city|Incorporated Place|A|Clinton County
+IA|19|12900|Charter Oak city|Incorporated Place|A|Crawford County
+IA|19|12945|Chatsworth city|Incorporated Place|A|Sioux County
+IA|19|12990|Chelsea city|Incorporated Place|A|Tama County
+IA|19|13080|Cherokee city|Incorporated Place|A|Cherokee County
+IA|19|13125|Chester city|Incorporated Place|A|Howard County
+IA|19|13215|Chillicothe city|Incorporated Place|A|Wapello County
+IA|19|13350|Churdan city|Incorporated Place|A|Greene County
+IA|19|13395|Cincinnati city|Incorporated Place|A|Appanoose County
+IA|19|13485|Clare city|Incorporated Place|A|Webster County
+IA|19|13530|Clarence city|Incorporated Place|A|Cedar County
+IA|19|13575|Clarinda city|Incorporated Place|A|Page County
+IA|19|13620|Clarion city|Incorporated Place|A|Wright County
+IA|19|13755|Clarksville city|Incorporated Place|A|Butler County
+IA|19|13845|Clayton city|Incorporated Place|A|Clayton County
+IA|19|13980|Clearfield city|Incorporated Place|A|Ringgold County, Taylor County
+IA|19|14025|Clear Lake city|Incorporated Place|A|Cerro Gordo County
+IA|19|14115|Cleghorn city|Incorporated Place|A|Cherokee County
+IA|19|14160|Clemons city|Incorporated Place|A|Marshall County
+IA|19|14250|Clermont city|Incorporated Place|A|Fayette County
+IA|19|14385|Climbing Hill CDP|Census Designated Place|S|Woodbury County
+IA|19|14430|Clinton city|Incorporated Place|A|Clinton County
+IA|19|14475|Clio city|Incorporated Place|A|Wayne County
+IA|19|14520|Clive city|Incorporated Place|A|Dallas County, Polk County
+IA|19|14655|Clutier city|Incorporated Place|A|Tama County
+IA|19|14835|Coalville CDP|Census Designated Place|S|Webster County
+IA|19|14880|Coburg city|Incorporated Place|A|Montgomery County
+IA|19|14925|Coggon city|Incorporated Place|A|Linn County
+IA|19|14970|Coin city|Incorporated Place|A|Page County
+IA|19|15015|Colesburg city|Incorporated Place|A|Delaware County
+IA|19|15060|Colfax city|Incorporated Place|A|Jasper County
+IA|19|15105|College Springs city|Incorporated Place|A|Page County
+IA|19|15195|Collins city|Incorporated Place|A|Story County
+IA|19|15240|Colo city|Incorporated Place|A|Story County
+IA|19|15375|Columbus City city|Incorporated Place|A|Louisa County
+IA|19|15420|Columbus Junction city|Incorporated Place|A|Louisa County
+IA|19|15465|Colwell city|Incorporated Place|A|Floyd County
+IA|19|15645|Conesville city|Incorporated Place|A|Muscatine County
+IA|19|15825|Conrad city|Incorporated Place|A|Grundy County
+IA|19|15870|Conroy CDP|Census Designated Place|S|Iowa County
+IA|19|15960|Conway city|Incorporated Place|A|Taylor County
+IA|19|16050|Coon Rapids city|Incorporated Place|A|Carroll County, Guthrie County
+IA|19|16140|Coppock city|Incorporated Place|A|Henry County, Jefferson County, Washington County
+IA|19|16230|Coralville city|Incorporated Place|A|Johnson County
+IA|19|16320|Corley CDP|Census Designated Place|S|Shelby County
+IA|19|16500|Corning city|Incorporated Place|A|Adams County
+IA|19|16545|Correctionville city|Incorporated Place|A|Woodbury County
+IA|19|16590|Corwith city|Incorporated Place|A|Hancock County
+IA|19|16635|Corydon city|Incorporated Place|A|Wayne County
+IA|19|16725|Cotter city|Incorporated Place|A|Louisa County
+IA|19|16815|Coulter city|Incorporated Place|A|Franklin County
+IA|19|16860|Council Bluffs city|Incorporated Place|A|Pottawattamie County
+IA|19|16950|Craig city|Incorporated Place|A|Plymouth County
+IA|19|17130|Crawfordsville city|Incorporated Place|A|Washington County
+IA|19|17175|Crescent city|Incorporated Place|A|Pottawattamie County
+IA|19|17220|Cresco city|Incorporated Place|A|Howard County
+IA|19|17265|Creston city|Incorporated Place|A|Union County
+IA|19|17490|Cromwell city|Incorporated Place|A|Union County
+IA|19|17670|Crystal Lake city|Incorporated Place|A|Hancock County
+IA|19|17760|Cumberland city|Incorporated Place|A|Cass County
+IA|19|17850|Cumming city|Incorporated Place|A|Warren County
+IA|19|17895|Curlew city|Incorporated Place|A|Palo Alto County
+IA|19|17940|Cushing city|Incorporated Place|A|Woodbury County
+IA|19|17985|Cylinder city|Incorporated Place|A|Palo Alto County
+IA|19|18075|Dakota City city|Incorporated Place|A|Humboldt County
+IA|19|18255|Dallas Center city|Incorporated Place|A|Dallas County
+IA|19|18345|Dana city|Incorporated Place|A|Greene County
+IA|19|18390|Danbury city|Incorporated Place|A|Woodbury County
+IA|19|18435|Danville city|Incorporated Place|A|Des Moines County
+IA|19|19000|Davenport city|Incorporated Place|A|Scott County
+IA|19|19090|Davis City city|Incorporated Place|A|Decatur County
+IA|19|19135|Dawson city|Incorporated Place|A|Dallas County
+IA|19|19180|Dayton city|Incorporated Place|A|Webster County
+IA|19|19360|Decatur City city|Incorporated Place|A|Decatur County
+IA|19|19405|Decorah city|Incorporated Place|A|Winneshiek County
+IA|19|19450|Dedham city|Incorporated Place|A|Carroll County
+IA|19|19495|Deep River city|Incorporated Place|A|Poweshiek County
+IA|19|19585|Defiance city|Incorporated Place|A|Shelby County
+IA|19|19630|Delaware city|Incorporated Place|A|Delaware County
+IA|19|19675|Delhi city|Incorporated Place|A|Delaware County
+IA|19|19720|Delmar city|Incorporated Place|A|Clinton County
+IA|19|19765|Deloit city|Incorporated Place|A|Crawford County
+IA|19|19810|Delphos city|Incorporated Place|A|Ringgold County
+IA|19|19855|Delta city|Incorporated Place|A|Keokuk County
+IA|19|19945|Denison city|Incorporated Place|A|Crawford County
+IA|19|19990|Denmark CDP|Census Designated Place|S|Lee County
+IA|19|20035|Denver city|Incorporated Place|A|Bremer County
+IA|19|20125|Derby city|Incorporated Place|A|Lucas County
+IA|19|21000|Des Moines city|Incorporated Place|A|Polk County, Warren County
+IA|19|21045|De Soto city|Incorporated Place|A|Dallas County
+IA|19|21180|De Witt city|Incorporated Place|A|Clinton County
+IA|19|21225|Dexter city|Incorporated Place|A|Dallas County
+IA|19|21270|Diagonal city|Incorporated Place|A|Ringgold County
+IA|19|21320|Diamondhead Lake CDP|Census Designated Place|S|Guthrie County
+IA|19|21360|Dickens city|Incorporated Place|A|Clay County
+IA|19|21405|Dike city|Incorporated Place|A|Grundy County
+IA|19|21540|Dixon city|Incorporated Place|A|Scott County
+IA|19|21675|Dolliver city|Incorporated Place|A|Emmet County
+IA|19|21720|Donahue city|Incorporated Place|A|Scott County
+IA|19|21810|Donnellson city|Incorporated Place|A|Lee County
+IA|19|21900|Doon city|Incorporated Place|A|Lyon County
+IA|19|22035|Douds CDP|Census Designated Place|S|Van Buren County
+IA|19|22080|Dougherty city|Incorporated Place|A|Cerro Gordo County
+IA|19|22215|Dow City city|Incorporated Place|A|Crawford County
+IA|19|22305|Dows city|Incorporated Place|A|Franklin County, Wright County
+IA|19|22350|Drakesville city|Incorporated Place|A|Davis County
+IA|19|22395|Dubuque city|Incorporated Place|A|Dubuque County
+IA|19|22620|Dumont city|Incorporated Place|A|Butler County
+IA|19|22710|Duncan CDP|Census Designated Place|S|Hancock County
+IA|19|22755|Duncombe city|Incorporated Place|A|Webster County
+IA|19|22800|Dundee city|Incorporated Place|A|Delaware County
+IA|19|22845|Dunkerton city|Incorporated Place|A|Black Hawk County
+IA|19|22890|Dunlap city|Incorporated Place|A|Crawford County, Harrison County
+IA|19|22935|Durango city|Incorporated Place|A|Dubuque County
+IA|19|22980|Durant city|Incorporated Place|A|Cedar County, Muscatine County, Scott County
+IA|19|23115|Dyersville city|Incorporated Place|A|Delaware County, Dubuque County
+IA|19|23160|Dysart city|Incorporated Place|A|Tama County
+IA|19|23250|Eagle Grove city|Incorporated Place|A|Wright County
+IA|19|23340|Earlham city|Incorporated Place|A|Madison County
+IA|19|23385|Earling city|Incorporated Place|A|Shelby County
+IA|19|23430|Earlville city|Incorporated Place|A|Delaware County
+IA|19|23475|Early city|Incorporated Place|A|Sac County
+IA|19|23520|East Amana CDP|Census Designated Place|S|Iowa County
+IA|19|23790|East Peru city|Incorporated Place|A|Madison County
+IA|19|23970|Eddyville city|Incorporated Place|A|Mahaska County, Monroe County, Wapello County
+IA|19|24060|Edgewood city|Incorporated Place|A|Clayton County, Delaware County
+IA|19|24375|Elberon city|Incorporated Place|A|Tama County
+IA|19|24420|Eldon city|Incorporated Place|A|Wapello County
+IA|19|24465|Eldora city|Incorporated Place|A|Hardin County
+IA|19|24600|Eldridge city|Incorporated Place|A|Scott County
+IA|19|24645|Elgin city|Incorporated Place|A|Fayette County
+IA|19|24690|Elkader city|Incorporated Place|A|Clayton County
+IA|19|24735|Elkhart city|Incorporated Place|A|Polk County
+IA|19|24780|Elk Horn city|Incorporated Place|A|Shelby County
+IA|19|24825|Elkport city|Incorporated Place|A|Clayton County
+IA|19|24870|Elk Run Heights city|Incorporated Place|A|Black Hawk County
+IA|19|24915|Elliott city|Incorporated Place|A|Montgomery County
+IA|19|25005|Ellston city|Incorporated Place|A|Ringgold County
+IA|19|25050|Ellsworth city|Incorporated Place|A|Hamilton County
+IA|19|25095|Elma city|Incorporated Place|A|Howard County
+IA|19|25365|Ely city|Incorporated Place|A|Linn County
+IA|19|25500|Emerson city|Incorporated Place|A|Mills County
+IA|19|25590|Emmetsburg city|Incorporated Place|A|Palo Alto County
+IA|19|25725|Epworth city|Incorporated Place|A|Dubuque County
+IA|19|25815|Essex city|Incorporated Place|A|Page County
+IA|19|25860|Estherville city|Incorporated Place|A|Emmet County
+IA|19|25995|Evansdale city|Incorporated Place|A|Black Hawk County
+IA|19|26175|Everly city|Incorporated Place|A|Clay County
+IA|19|26265|Exira city|Incorporated Place|A|Audubon County
+IA|19|26310|Exline city|Incorporated Place|A|Appanoose County
+IA|19|26355|Fairbank city|Incorporated Place|A|Buchanan County, Fayette County
+IA|19|26400|Fairfax city|Incorporated Place|A|Linn County
+IA|19|26445|Fairfield city|Incorporated Place|A|Jefferson County
+IA|19|26760|Farley city|Incorporated Place|A|Dubuque County
+IA|19|26850|Farmersburg city|Incorporated Place|A|Clayton County
+IA|19|26895|Farmington city|Incorporated Place|A|Van Buren County
+IA|19|26940|Farnhamville city|Incorporated Place|A|Calhoun County, Webster County
+IA|19|26985|Farragut city|Incorporated Place|A|Fremont County
+IA|19|27165|Fayette city|Incorporated Place|A|Fayette County
+IA|19|27210|Fenton city|Incorporated Place|A|Kossuth County
+IA|19|27255|Ferguson city|Incorporated Place|A|Marshall County
+IA|19|27390|Fertile city|Incorporated Place|A|Worth County
+IA|19|27975|Floris city|Incorporated Place|A|Davis County
+IA|19|28020|Floyd city|Incorporated Place|A|Floyd County
+IA|19|28245|Fonda city|Incorporated Place|A|Pocahontas County
+IA|19|28290|Fontanelle city|Incorporated Place|A|Adair County
+IA|19|28380|Forest City city|Incorporated Place|A|Hancock County, Winnebago County
+IA|19|28425|Fort Atkinson city|Incorporated Place|A|Winneshiek County
+IA|19|28515|Fort Dodge city|Incorporated Place|A|Webster County
+IA|19|28605|Fort Madison city|Incorporated Place|A|Lee County
+IA|19|28650|Fostoria city|Incorporated Place|A|Clay County
+IA|19|28740|Franklin city|Incorporated Place|A|Lee County
+IA|19|28920|Fraser city|Incorporated Place|A|Boone County
+IA|19|28965|Fredericksburg city|Incorporated Place|A|Chickasaw County
+IA|19|29010|Frederika city|Incorporated Place|A|Bremer County
+IA|19|29055|Fredonia city|Incorporated Place|A|Louisa County
+IA|19|29190|Fremont city|Incorporated Place|A|Mahaska County
+IA|19|29280|Fruitland city|Incorporated Place|A|Muscatine County
+IA|19|29325|Frytown CDP|Census Designated Place|S|Johnson County
+IA|19|29550|Galt city|Incorporated Place|A|Wright County
+IA|19|29595|Galva city|Incorporated Place|A|Ida County
+IA|19|29685|Garber city|Incorporated Place|A|Clayton County
+IA|19|29730|Garden City CDP|Census Designated Place|S|Hardin County
+IA|19|29775|Garden Grove city|Incorporated Place|A|Decatur County
+IA|19|29910|Garnavillo city|Incorporated Place|A|Clayton County
+IA|19|29955|Garner city|Incorporated Place|A|Hancock County
+IA|19|30000|Garrison city|Incorporated Place|A|Benton County
+IA|19|30045|Garwin city|Incorporated Place|A|Tama County
+IA|19|30135|Geneva city|Incorporated Place|A|Franklin County
+IA|19|30225|George city|Incorporated Place|A|Lyon County
+IA|19|30540|Gibson city|Incorporated Place|A|Keokuk County
+IA|19|30630|Gilbert city|Incorporated Place|A|Story County
+IA|19|30675|Gilbertville city|Incorporated Place|A|Black Hawk County
+IA|19|30810|Gillett Grove city|Incorporated Place|A|Clay County
+IA|19|30900|Gilman city|Incorporated Place|A|Marshall County
+IA|19|30945|Gilmore City city|Incorporated Place|A|Humboldt County, Pocahontas County
+IA|19|31035|Gladbrook city|Incorporated Place|A|Tama County
+IA|19|31350|Glenwood city|Incorporated Place|A|Mills County
+IA|19|31395|Glidden city|Incorporated Place|A|Carroll County
+IA|19|31530|Goldfield city|Incorporated Place|A|Wright County
+IA|19|31575|Goodell city|Incorporated Place|A|Hancock County
+IA|19|31665|Goose Lake city|Incorporated Place|A|Clinton County
+IA|19|31710|Gowrie city|Incorporated Place|A|Webster County
+IA|19|31800|Graettinger city|Incorporated Place|A|Palo Alto County
+IA|19|31845|Graf city|Incorporated Place|A|Dubuque County
+IA|19|31890|Grafton city|Incorporated Place|A|Worth County
+IA|19|31980|Grand Junction city|Incorporated Place|A|Greene County
+IA|19|32025|Grand Mound city|Incorporated Place|A|Clinton County
+IA|19|32070|Grand River city|Incorporated Place|A|Decatur County
+IA|19|32115|Grandview city|Incorporated Place|A|Louisa County
+IA|19|32160|Granger city|Incorporated Place|A|Dallas County, Polk County
+IA|19|32295|Grant city|Incorporated Place|A|Montgomery County
+IA|19|32475|Granville city|Incorporated Place|A|Sioux County
+IA|19|32520|Gravity city|Incorporated Place|A|Taylor County
+IA|19|32565|Gray city|Incorporated Place|A|Audubon County
+IA|19|32610|Greeley city|Incorporated Place|A|Delaware County
+IA|19|32745|Greene city|Incorporated Place|A|Butler County, Floyd County
+IA|19|32790|Greenfield city|Incorporated Place|A|Adair County
+IA|19|32925|Green Mountain CDP|Census Designated Place|S|Marshall County
+IA|19|32970|Greenville city|Incorporated Place|A|Clay County
+IA|19|33060|Grimes city|Incorporated Place|A|Dallas County, Polk County
+IA|19|33105|Grinnell city|Incorporated Place|A|Poweshiek County
+IA|19|33150|Griswold city|Incorporated Place|A|Cass County
+IA|19|33195|Grundy Center city|Incorporated Place|A|Grundy County
+IA|19|33240|Gruver city|Incorporated Place|A|Emmet County
+IA|19|33285|Guernsey city|Incorporated Place|A|Poweshiek County
+IA|19|33420|Guthrie Center city|Incorporated Place|A|Guthrie County
+IA|19|33465|Guttenberg city|Incorporated Place|A|Clayton County
+IA|19|33645|Halbur city|Incorporated Place|A|Carroll County
+IA|19|33780|Hamburg city|Incorporated Place|A|Fremont County
+IA|19|33870|Hamilton city|Incorporated Place|A|Marion County
+IA|19|33960|Hampton city|Incorporated Place|A|Franklin County
+IA|19|34005|Hancock city|Incorporated Place|A|Pottawattamie County
+IA|19|34185|Hanlontown city|Incorporated Place|A|Worth County
+IA|19|34365|Hansell city|Incorporated Place|A|Franklin County
+IA|19|34410|Harcourt city|Incorporated Place|A|Webster County
+IA|19|34455|Hardy city|Incorporated Place|A|Humboldt County
+IA|19|34500|Harlan city|Incorporated Place|A|Shelby County
+IA|19|34545|Harper city|Incorporated Place|A|Keokuk County
+IA|19|34590|Harpers Ferry city|Incorporated Place|A|Allamakee County
+IA|19|34635|Harris city|Incorporated Place|A|Osceola County
+IA|19|34680|Hartford city|Incorporated Place|A|Warren County
+IA|19|34725|Hartley city|Incorporated Place|A|O'Brien County
+IA|19|34770|Hartwick city|Incorporated Place|A|Poweshiek County
+IA|19|34860|Harvey city|Incorporated Place|A|Marion County
+IA|19|34995|Hastings city|Incorporated Place|A|Mills County
+IA|19|35130|Havelock city|Incorporated Place|A|Pocahontas County
+IA|19|35220|Haverhill city|Incorporated Place|A|Marshall County
+IA|19|35265|Hawarden city|Incorporated Place|A|Sioux County
+IA|19|35310|Hawkeye city|Incorporated Place|A|Fayette County
+IA|19|35445|Hayesville city|Incorporated Place|A|Keokuk County
+IA|19|35490|Hayfield CDP|Census Designated Place|S|Hancock County
+IA|19|35580|Hazleton city|Incorporated Place|A|Buchanan County
+IA|19|35670|Hedrick city|Incorporated Place|A|Keokuk County
+IA|19|35715|Henderson city|Incorporated Place|A|Mills County
+IA|19|35760|Hepburn city|Incorporated Place|A|Page County
+IA|19|35940|Hiawatha city|Incorporated Place|A|Linn County
+IA|19|36030|High Amana CDP|Census Designated Place|S|Iowa County
+IA|19|36345|Hills city|Incorporated Place|A|Johnson County
+IA|19|36390|Hillsboro city|Incorporated Place|A|Henry County
+IA|19|36480|Hinton city|Incorporated Place|A|Plymouth County
+IA|19|36660|Holiday Lake CDP|Census Designated Place|S|Poweshiek County
+IA|19|36705|Holland city|Incorporated Place|A|Grundy County
+IA|19|36840|Holstein city|Incorporated Place|A|Ida County
+IA|19|36885|Holy Cross city|Incorporated Place|A|Dubuque County
+IA|19|36975|Homestead CDP|Census Designated Place|S|Iowa County
+IA|19|37155|Hopkinton city|Incorporated Place|A|Delaware County
+IA|19|37200|Hornick city|Incorporated Place|A|Woodbury County
+IA|19|37290|Hospers city|Incorporated Place|A|Sioux County
+IA|19|37335|Houghton city|Incorporated Place|A|Lee County
+IA|19|37425|Hubbard city|Incorporated Place|A|Hardin County
+IA|19|37470|Hudson city|Incorporated Place|A|Black Hawk County
+IA|19|37515|Hull city|Incorporated Place|A|Sioux County
+IA|19|37560|Humboldt city|Incorporated Place|A|Humboldt County
+IA|19|37605|Humeston city|Incorporated Place|A|Wayne County
+IA|19|37875|Hutchins CDP|Census Designated Place|S|Hancock County
+IA|19|37920|Huxley city|Incorporated Place|A|Story County
+IA|19|38010|Ida Grove city|Incorporated Place|A|Ida County
+IA|19|38055|Imogene city|Incorporated Place|A|Fremont County
+IA|19|38100|Independence city|Incorporated Place|A|Buchanan County
+IA|19|38280|Indianola city|Incorporated Place|A|Warren County
+IA|19|38415|Inwood city|Incorporated Place|A|Lyon County
+IA|19|38460|Ionia city|Incorporated Place|A|Chickasaw County
+IA|19|38595|Iowa City city|Incorporated Place|A|Johnson County
+IA|19|38640|Iowa Falls city|Incorporated Place|A|Hardin County
+IA|19|38820|Ireton city|Incorporated Place|A|Sioux County
+IA|19|38955|Irvington CDP|Census Designated Place|S|Kossuth County
+IA|19|39000|Irwin city|Incorporated Place|A|Shelby County
+IA|19|39135|Jackson Junction city|Incorporated Place|A|Winneshiek County
+IA|19|39180|Jacksonville CDP|Census Designated Place|S|Shelby County
+IA|19|39225|Jamaica city|Incorporated Place|A|Guthrie County
+IA|19|39405|Janesville city|Incorporated Place|A|Black Hawk County, Bremer County
+IA|19|39450|Jefferson city|Incorporated Place|A|Greene County
+IA|19|39585|Jesup city|Incorporated Place|A|Black Hawk County, Buchanan County
+IA|19|39675|Jewell Junction city|Incorporated Place|A|Hamilton County
+IA|19|39765|Johnston city|Incorporated Place|A|Polk County
+IA|19|39855|Joice city|Incorporated Place|A|Worth County
+IA|19|39900|Jolley city|Incorporated Place|A|Calhoun County
+IA|19|40170|Kalona city|Incorporated Place|A|Washington County
+IA|19|40215|Kamrar city|Incorporated Place|A|Hamilton County
+IA|19|40260|Kanawha city|Incorporated Place|A|Hancock County
+IA|19|40350|Kellerton city|Incorporated Place|A|Ringgold County
+IA|19|40395|Kelley city|Incorporated Place|A|Story County
+IA|19|40440|Kellogg city|Incorporated Place|A|Jasper County
+IA|19|40665|Kensett city|Incorporated Place|A|Worth County
+IA|19|40710|Kent CDP|Census Designated Place|S|Union County
+IA|19|40845|Keokuk city|Incorporated Place|A|Lee County
+IA|19|40890|Keomah Village city|Incorporated Place|A|Mahaska County
+IA|19|40935|Keosauqua city|Incorporated Place|A|Van Buren County
+IA|19|40980|Keota city|Incorporated Place|A|Keokuk County
+IA|19|41070|Keswick city|Incorporated Place|A|Keokuk County
+IA|19|41115|Keystone city|Incorporated Place|A|Benton County
+IA|19|41295|Kimballton city|Incorporated Place|A|Audubon County
+IA|19|41385|Kingsley city|Incorporated Place|A|Plymouth County
+IA|19|41475|Kinross city|Incorporated Place|A|Keokuk County
+IA|19|41520|Kirkman city|Incorporated Place|A|Shelby County
+IA|19|41565|Kirkville city|Incorporated Place|A|Wapello County
+IA|19|41610|Kiron city|Incorporated Place|A|Crawford County
+IA|19|41655|Klemme city|Incorporated Place|A|Hancock County
+IA|19|41790|Knierim city|Incorporated Place|A|Calhoun County
+IA|19|42015|Knoxville city|Incorporated Place|A|Marion County
+IA|19|42285|Lacona city|Incorporated Place|A|Warren County
+IA|19|42330|Ladora city|Incorporated Place|A|Iowa County
+IA|19|42465|Lake City city|Incorporated Place|A|Calhoun County
+IA|19|42555|Lake Mills city|Incorporated Place|A|Winnebago County
+IA|19|42575|Lake Panorama CDP|Census Designated Place|S|Guthrie County
+IA|19|42600|Lake Park city|Incorporated Place|A|Dickinson County
+IA|19|42645|Lakeside city|Incorporated Place|A|Buena Vista County
+IA|19|42690|Lake View city|Incorporated Place|A|Sac County
+IA|19|42825|Lakota city|Incorporated Place|A|Kossuth County
+IA|19|42870|Lambs Grove city|Incorporated Place|A|Jasper County
+IA|19|42960|Lamoni city|Incorporated Place|A|Decatur County
+IA|19|43005|Lamont city|Incorporated Place|A|Buchanan County
+IA|19|43050|La Motte city|Incorporated Place|A|Jackson County
+IA|19|43140|Lanesboro city|Incorporated Place|A|Carroll County
+IA|19|43275|Lansing city|Incorporated Place|A|Allamakee County
+IA|19|43365|La Porte City city|Incorporated Place|A|Black Hawk County
+IA|19|43410|Larchwood city|Incorporated Place|A|Lyon County
+IA|19|43500|Larrabee city|Incorporated Place|A|Cherokee County
+IA|19|43590|Latimer city|Incorporated Place|A|Franklin County
+IA|19|43680|Laurel city|Incorporated Place|A|Marshall County
+IA|19|43725|Laurens city|Incorporated Place|A|Pocahontas County
+IA|19|43815|Lawler city|Incorporated Place|A|Chickasaw County
+IA|19|43905|Lawton city|Incorporated Place|A|Woodbury County
+IA|19|43950|Leando CDP|Census Designated Place|S|Van Buren County
+IA|19|44085|Le Claire city|Incorporated Place|A|Scott County
+IA|19|44130|Ledyard city|Incorporated Place|A|Kossuth County
+IA|19|44220|Le Grand city|Incorporated Place|A|Marshall County, Tama County
+IA|19|44265|Lehigh city|Incorporated Place|A|Webster County
+IA|19|44310|Leighton city|Incorporated Place|A|Mahaska County
+IA|19|44355|Leland city|Incorporated Place|A|Winnebago County
+IA|19|44400|Le Mars city|Incorporated Place|A|Plymouth County
+IA|19|44490|Lenox city|Incorporated Place|A|Adams County, Taylor County
+IA|19|44535|Leon city|Incorporated Place|A|Decatur County
+IA|19|44580|Le Roy city|Incorporated Place|A|Decatur County
+IA|19|44670|Lester city|Incorporated Place|A|Lyon County
+IA|19|44715|Letts city|Incorporated Place|A|Louisa County
+IA|19|44805|Lewis city|Incorporated Place|A|Cass County
+IA|19|44985|Libertyville city|Incorporated Place|A|Jefferson County
+IA|19|45030|Lidderdale city|Incorporated Place|A|Carroll County
+IA|19|45165|Lime Springs city|Incorporated Place|A|Howard County
+IA|19|45255|Lincoln city|Incorporated Place|A|Tama County
+IA|19|45390|Linden city|Incorporated Place|A|Dallas County
+IA|19|45435|Lineville city|Incorporated Place|A|Wayne County
+IA|19|45480|Linn Grove city|Incorporated Place|A|Buena Vista County
+IA|19|45615|Lisbon city|Incorporated Place|A|Linn County
+IA|19|45660|Liscomb city|Incorporated Place|A|Marshall County
+IA|19|45705|Little Cedar CDP|Census Designated Place|S|Mitchell County
+IA|19|45795|Little Rock city|Incorporated Place|A|Lyon County
+IA|19|45840|Little Sioux city|Incorporated Place|A|Harrison County
+IA|19|45975|Livermore city|Incorporated Place|A|Humboldt County
+IA|19|46065|Lockridge city|Incorporated Place|A|Jefferson County
+IA|19|46155|Logan city|Incorporated Place|A|Harrison County
+IA|19|46245|Lohrville city|Incorporated Place|A|Calhoun County
+IA|19|46290|Lone Rock city|Incorporated Place|A|Kossuth County
+IA|19|46335|Lone Tree city|Incorporated Place|A|Johnson County
+IA|19|46425|Long Grove city|Incorporated Place|A|Scott County
+IA|19|46515|Lorimor city|Incorporated Place|A|Union County
+IA|19|46605|Lost Nation city|Incorporated Place|A|Clinton County
+IA|19|46785|Loveland CDP|Census Designated Place|S|Pottawattamie County
+IA|19|46830|Lovilia city|Incorporated Place|A|Monroe County
+IA|19|46920|Lowden city|Incorporated Place|A|Cedar County
+IA|19|47010|Low Moor city|Incorporated Place|A|Clinton County
+IA|19|47055|Luana city|Incorporated Place|A|Clayton County
+IA|19|47100|Lucas city|Incorporated Place|A|Lucas County
+IA|19|47280|Luther city|Incorporated Place|A|Boone County
+IA|19|47370|Lu Verne city|Incorporated Place|A|Humboldt County, Kossuth County
+IA|19|47460|Luxemburg city|Incorporated Place|A|Dubuque County
+IA|19|47505|Luzerne city|Incorporated Place|A|Benton County
+IA|19|47595|Lynnville city|Incorporated Place|A|Jasper County
+IA|19|47730|Lytton city|Incorporated Place|A|Calhoun County, Sac County
+IA|19|47775|McCallsburg city|Incorporated Place|A|Story County
+IA|19|47820|McCausland city|Incorporated Place|A|Scott County
+IA|19|47865|McClelland city|Incorporated Place|A|Pottawattamie County
+IA|19|47955|Macedonia city|Incorporated Place|A|Pottawattamie County
+IA|19|48000|McGregor city|Incorporated Place|A|Clayton County
+IA|19|48045|McIntire city|Incorporated Place|A|Mitchell County
+IA|19|48180|Macksburg city|Incorporated Place|A|Madison County
+IA|19|48450|Madrid city|Incorporated Place|A|Boone County
+IA|19|48495|Magnolia city|Incorporated Place|A|Harrison County
+IA|19|48500|Maharishi Vedic City city|Incorporated Place|A|Jefferson County
+IA|19|48540|Malcom city|Incorporated Place|A|Poweshiek County
+IA|19|48585|Mallard city|Incorporated Place|A|Palo Alto County
+IA|19|48675|Maloy city|Incorporated Place|A|Ringgold County
+IA|19|48720|Malvern city|Incorporated Place|A|Mills County
+IA|19|48810|Manchester city|Incorporated Place|A|Delaware County
+IA|19|48855|Manilla city|Incorporated Place|A|Crawford County
+IA|19|48900|Manly city|Incorporated Place|A|Worth County
+IA|19|48945|Manning city|Incorporated Place|A|Carroll County
+IA|19|48990|Manson city|Incorporated Place|A|Calhoun County
+IA|19|49170|Mapleton city|Incorporated Place|A|Monona County
+IA|19|49215|Maquoketa city|Incorporated Place|A|Clinton County, Jackson County
+IA|19|49260|Marathon city|Incorporated Place|A|Buena Vista County
+IA|19|49305|Marble Rock city|Incorporated Place|A|Floyd County
+IA|19|49350|Marcus city|Incorporated Place|A|Cherokee County
+IA|19|49395|Marengo city|Incorporated Place|A|Iowa County
+IA|19|49485|Marion city|Incorporated Place|A|Linn County
+IA|19|49575|Marne city|Incorporated Place|A|Cass County
+IA|19|49620|Marquette city|Incorporated Place|A|Clayton County
+IA|19|49755|Marshalltown city|Incorporated Place|A|Marshall County
+IA|19|49845|Martelle city|Incorporated Place|A|Jones County
+IA|19|49890|Martensdale city|Incorporated Place|A|Warren County
+IA|19|49935|Martinsburg city|Incorporated Place|A|Keokuk County
+IA|19|50070|Marysville city|Incorporated Place|A|Marion County
+IA|19|50160|Mason City city|Incorporated Place|A|Cerro Gordo County
+IA|19|50205|Masonville city|Incorporated Place|A|Delaware County
+IA|19|50250|Massena city|Incorporated Place|A|Cass County
+IA|19|50385|Matlock city|Incorporated Place|A|Sioux County
+IA|19|50430|Maurice city|Incorporated Place|A|Sioux County
+IA|19|50520|Maxwell city|Incorporated Place|A|Story County
+IA|19|50610|Maynard city|Incorporated Place|A|Fayette County
+IA|19|50655|Maysville city|Incorporated Place|A|Scott County
+IA|19|50700|Mechanicsville city|Incorporated Place|A|Cedar County
+IA|19|50790|Mediapolis city|Incorporated Place|A|Des Moines County
+IA|19|50880|Melbourne city|Incorporated Place|A|Marshall County
+IA|19|50935|Melcher-Dallas city|Incorporated Place|A|Marion County
+IA|19|50970|Melrose city|Incorporated Place|A|Monroe County
+IA|19|51060|Melvin city|Incorporated Place|A|Osceola County
+IA|19|51105|Menlo city|Incorporated Place|A|Guthrie County
+IA|19|51150|Meriden city|Incorporated Place|A|Cherokee County
+IA|19|51375|Merrill city|Incorporated Place|A|Plymouth County
+IA|19|51420|Meservey city|Incorporated Place|A|Cerro Gordo County
+IA|19|51510|Meyer CDP|Census Designated Place|S|Mitchell County
+IA|19|51600|Middle Amana CDP|Census Designated Place|S|Iowa County
+IA|19|51735|Middletown city|Incorporated Place|A|Des Moines County
+IA|19|52050|Miles city|Incorporated Place|A|Jackson County
+IA|19|52095|Milford city|Incorporated Place|A|Dickinson County
+IA|19|52140|Miller CDP|Census Designated Place|S|Hancock County
+IA|19|52230|Millersburg city|Incorporated Place|A|Iowa County
+IA|19|52275|Millerton city|Incorporated Place|A|Wayne County
+IA|19|52410|Millville city|Incorporated Place|A|Clayton County
+IA|19|52455|Milo city|Incorporated Place|A|Warren County
+IA|19|52500|Milton city|Incorporated Place|A|Van Buren County
+IA|19|52545|Minburn city|Incorporated Place|A|Dallas County
+IA|19|52590|Minden city|Incorporated Place|A|Pottawattamie County
+IA|19|52635|Mineola CDP|Census Designated Place|S|Mills County
+IA|19|52815|Mingo city|Incorporated Place|A|Jasper County
+IA|19|52860|Missouri Valley city|Incorporated Place|A|Harrison County
+IA|19|52905|Mitchell city|Incorporated Place|A|Mitchell County
+IA|19|52950|Mitchellville city|Incorporated Place|A|Jasper County, Polk County
+IA|19|52995|Modale city|Incorporated Place|A|Harrison County
+IA|19|53085|Mona CDP|Census Designated Place|S|Mitchell County
+IA|19|53175|Mondamin city|Incorporated Place|A|Harrison County
+IA|19|53265|Monmouth city|Incorporated Place|A|Jackson County
+IA|19|53310|Monona city|Incorporated Place|A|Clayton County
+IA|19|53355|Monroe city|Incorporated Place|A|Jasper County
+IA|19|53490|Montezuma city|Incorporated Place|A|Poweshiek County
+IA|19|53625|Monticello city|Incorporated Place|A|Jones County
+IA|19|53670|Montour city|Incorporated Place|A|Tama County
+IA|19|53760|Montrose city|Incorporated Place|A|Lee County
+IA|19|53850|Moorhead city|Incorporated Place|A|Monona County
+IA|19|53895|Moorland city|Incorporated Place|A|Webster County
+IA|19|53985|Moravia city|Incorporated Place|A|Appanoose County, Monroe County
+IA|19|54030|Morley city|Incorporated Place|A|Jones County
+IA|19|54120|Morning Sun city|Incorporated Place|A|Louisa County
+IA|19|54165|Morrison city|Incorporated Place|A|Grundy County
+IA|19|54390|Moulton city|Incorporated Place|A|Appanoose County
+IA|19|54435|Mount Auburn city|Incorporated Place|A|Benton County
+IA|19|54480|Mount Ayr city|Incorporated Place|A|Ringgold County
+IA|19|54705|Mount Pleasant city|Incorporated Place|A|Henry County
+IA|19|54750|Mount Sterling city|Incorporated Place|A|Van Buren County
+IA|19|54795|Mount Union city|Incorporated Place|A|Henry County
+IA|19|54840|Mount Vernon city|Incorporated Place|A|Linn County
+IA|19|54930|Moville city|Incorporated Place|A|Woodbury County
+IA|19|55065|Murray city|Incorporated Place|A|Clarke County
+IA|19|55110|Muscatine city|Incorporated Place|A|Muscatine County
+IA|19|55200|Mystic city|Incorporated Place|A|Appanoose County
+IA|19|55335|Nashua city|Incorporated Place|A|Chickasaw County, Floyd County
+IA|19|55515|Nemaha city|Incorporated Place|A|Sac County
+IA|19|55560|Neola city|Incorporated Place|A|Pottawattamie County
+IA|19|55695|Nevada city|Incorporated Place|A|Story County
+IA|19|55785|New Albin city|Incorporated Place|A|Allamakee County
+IA|19|55965|Newell city|Incorporated Place|A|Buena Vista County
+IA|19|56055|Newhall city|Incorporated Place|A|Benton County
+IA|19|56100|New Hampton city|Incorporated Place|A|Chickasaw County
+IA|19|56145|New Hartford city|Incorporated Place|A|Butler County
+IA|19|56190|New Haven CDP|Census Designated Place|S|Mitchell County
+IA|19|56280|New Liberty city|Incorporated Place|A|Scott County
+IA|19|56325|New London city|Incorporated Place|A|Henry County
+IA|19|56370|New Market city|Incorporated Place|A|Taylor County
+IA|19|56415|New Providence city|Incorporated Place|A|Hardin County
+IA|19|56460|New Sharon city|Incorporated Place|A|Mahaska County
+IA|19|56505|Newton city|Incorporated Place|A|Jasper County
+IA|19|56550|New Vienna city|Incorporated Place|A|Dubuque County
+IA|19|56595|New Virginia city|Incorporated Place|A|Warren County
+IA|19|56685|Nichols city|Incorporated Place|A|Muscatine County
+IA|19|56865|Nodaway city|Incorporated Place|A|Adams County
+IA|19|56910|Nora Springs city|Incorporated Place|A|Cerro Gordo County, Floyd County
+IA|19|57045|Northboro city|Incorporated Place|A|Page County
+IA|19|57135|North Buena Vista city|Incorporated Place|A|Clayton County
+IA|19|57225|North English city|Incorporated Place|A|Iowa County, Keokuk County
+IA|19|57360|North Liberty city|Incorporated Place|A|Johnson County
+IA|19|57495|North Washington city|Incorporated Place|A|Chickasaw County
+IA|19|57630|Northwood city|Incorporated Place|A|Worth County
+IA|19|57675|Norwalk city|Incorporated Place|A|Polk County, Warren County
+IA|19|57720|Norway city|Incorporated Place|A|Benton County
+IA|19|57945|Numa city|Incorporated Place|A|Appanoose County
+IA|19|58080|Oakland city|Incorporated Place|A|Pottawattamie County
+IA|19|58170|Oakland Acres city|Incorporated Place|A|Jasper County
+IA|19|58395|Oakville city|Incorporated Place|A|Louisa County
+IA|19|58530|Ocheyedan city|Incorporated Place|A|Osceola County
+IA|19|58575|Odebolt city|Incorporated Place|A|Sac County
+IA|19|58620|Oelwein city|Incorporated Place|A|Fayette County
+IA|19|58665|Ogden city|Incorporated Place|A|Boone County
+IA|19|58710|Okoboji city|Incorporated Place|A|Dickinson County
+IA|19|58890|Olds city|Incorporated Place|A|Henry County
+IA|19|58980|Olin city|Incorporated Place|A|Jones County
+IA|19|59070|Ollie city|Incorporated Place|A|Keokuk County
+IA|19|59115|Onawa city|Incorporated Place|A|Monona County
+IA|19|59250|Onslow city|Incorporated Place|A|Jones County
+IA|19|59475|Orange City city|Incorporated Place|A|Sioux County
+IA|19|59520|Orchard city|Incorporated Place|A|Mitchell County
+IA|19|59565|Orient city|Incorporated Place|A|Adair County
+IA|19|59655|Orleans city|Incorporated Place|A|Dickinson County
+IA|19|59745|Osage city|Incorporated Place|A|Mitchell County
+IA|19|59835|Osceola city|Incorporated Place|A|Clarke County
+IA|19|59925|Oskaloosa city|Incorporated Place|A|Mahaska County
+IA|19|59970|Ossian city|Incorporated Place|A|Winneshiek County
+IA|19|60015|Osterdock city|Incorporated Place|A|Clayton County
+IA|19|60105|Otho city|Incorporated Place|A|Webster County
+IA|19|60240|Oto city|Incorporated Place|A|Woodbury County
+IA|19|60285|Otranto CDP|Census Designated Place|S|Mitchell County
+IA|19|60420|Ottosen city|Incorporated Place|A|Humboldt County
+IA|19|60465|Ottumwa city|Incorporated Place|A|Wapello County
+IA|19|60555|Owasa city|Incorporated Place|A|Hardin County
+IA|19|60645|Oxford city|Incorporated Place|A|Johnson County
+IA|19|60690|Oxford Junction city|Incorporated Place|A|Jones County
+IA|19|60780|Oyens city|Incorporated Place|A|Plymouth County
+IA|19|60825|Pacific Junction city|Incorporated Place|A|Mills County
+IA|19|60915|Packwood city|Incorporated Place|A|Jefferson County
+IA|19|61050|Palmer city|Incorporated Place|A|Pocahontas County
+IA|19|61230|Palo city|Incorporated Place|A|Linn County
+IA|19|61275|Panama city|Incorporated Place|A|Shelby County
+IA|19|61320|Panora city|Incorporated Place|A|Guthrie County
+IA|19|61365|Panorama Park city|Incorporated Place|A|Scott County
+IA|19|61590|Parkersburg city|Incorporated Place|A|Butler County
+IA|19|61725|Park View CDP|Census Designated Place|S|Scott County
+IA|19|61770|Parnell city|Incorporated Place|A|Iowa County
+IA|19|61815|Paton city|Incorporated Place|A|Greene County
+IA|19|61860|Patterson city|Incorporated Place|A|Madison County
+IA|19|61905|Paullina city|Incorporated Place|A|O'Brien County
+IA|19|62040|Pella city|Incorporated Place|A|Marion County
+IA|19|62130|Peosta city|Incorporated Place|A|Dubuque County
+IA|19|62175|Percival CDP|Census Designated Place|S|Fremont County
+IA|19|62355|Perry city|Incorporated Place|A|Dallas County
+IA|19|62445|Persia city|Incorporated Place|A|Harrison County
+IA|19|62625|Peterson city|Incorporated Place|A|Clay County
+IA|19|62760|Pierson city|Incorporated Place|A|Woodbury County
+IA|19|62850|Pilot Mound city|Incorporated Place|A|Boone County
+IA|19|62985|Pioneer city|Incorporated Place|A|Humboldt County
+IA|19|63075|Pisgah city|Incorporated Place|A|Harrison County
+IA|19|63210|Plainfield city|Incorporated Place|A|Bremer County
+IA|19|63345|Plano city|Incorporated Place|A|Appanoose County
+IA|19|63525|Pleasant Hill city|Incorporated Place|A|Polk County
+IA|19|63570|Pleasanton city|Incorporated Place|A|Decatur County
+IA|19|63615|Pleasant Plain city|Incorporated Place|A|Jefferson County
+IA|19|63750|Pleasantville city|Incorporated Place|A|Marion County
+IA|19|63840|Plover city|Incorporated Place|A|Pocahontas County
+IA|19|63885|Plymouth city|Incorporated Place|A|Cerro Gordo County
+IA|19|63975|Pocahontas city|Incorporated Place|A|Pocahontas County
+IA|19|64020|Polk City city|Incorporated Place|A|Polk County
+IA|19|64065|Pomeroy city|Incorporated Place|A|Calhoun County
+IA|19|64110|Popejoy city|Incorporated Place|A|Franklin County
+IA|19|64155|Portland CDP|Census Designated Place|S|Cerro Gordo County
+IA|19|64200|Portsmouth city|Incorporated Place|A|Shelby County
+IA|19|64290|Postville city|Incorporated Place|A|Allamakee County, Clayton County
+IA|19|64425|Prairieburg city|Incorporated Place|A|Linn County
+IA|19|64470|Prairie City city|Incorporated Place|A|Jasper County
+IA|19|64560|Prescott city|Incorporated Place|A|Adams County
+IA|19|64605|Preston city|Incorporated Place|A|Jackson County
+IA|19|64650|Primghar city|Incorporated Place|A|O'Brien County
+IA|19|64740|Princeton city|Incorporated Place|A|Scott County
+IA|19|64875|Promise City city|Incorporated Place|A|Wayne County
+IA|19|65010|Protivin city|Incorporated Place|A|Chickasaw County, Howard County
+IA|19|65055|Pulaski city|Incorporated Place|A|Davis County
+IA|19|65235|Quasqueton city|Incorporated Place|A|Buchanan County
+IA|19|65280|Quimby city|Incorporated Place|A|Cherokee County
+IA|19|65370|Radcliffe city|Incorporated Place|A|Hardin County
+IA|19|65415|Rake city|Incorporated Place|A|Winnebago County
+IA|19|65505|Ralston city|Incorporated Place|A|Carroll County, Greene County
+IA|19|65550|Randalia city|Incorporated Place|A|Fayette County
+IA|19|65595|Randall city|Incorporated Place|A|Hamilton County
+IA|19|65640|Randolph city|Incorporated Place|A|Fremont County
+IA|19|65730|Rathbun city|Incorporated Place|A|Appanoose County
+IA|19|65820|Raymond city|Incorporated Place|A|Black Hawk County
+IA|19|65910|Readlyn city|Incorporated Place|A|Bremer County
+IA|19|65955|Reasnor city|Incorporated Place|A|Jasper County
+IA|19|66000|Redding city|Incorporated Place|A|Ringgold County
+IA|19|66045|Redfield city|Incorporated Place|A|Dallas County
+IA|19|66135|Red Oak city|Incorporated Place|A|Montgomery County
+IA|19|66315|Reinbeck city|Incorporated Place|A|Grundy County
+IA|19|66360|Rembrandt city|Incorporated Place|A|Buena Vista County
+IA|19|66405|Remsen city|Incorporated Place|A|Plymouth County
+IA|19|66450|Renwick city|Incorporated Place|A|Humboldt County
+IA|19|66540|Rhodes city|Incorporated Place|A|Marshall County
+IA|19|66585|Riceville city|Incorporated Place|A|Howard County, Mitchell County
+IA|19|66720|Richland city|Incorporated Place|A|Keokuk County
+IA|19|66810|Rickardsville city|Incorporated Place|A|Dubuque County
+IA|19|66855|Ricketts city|Incorporated Place|A|Crawford County
+IA|19|67035|Ridgeway city|Incorporated Place|A|Winneshiek County
+IA|19|67125|Rinard city|Incorporated Place|A|Calhoun County
+IA|19|67170|Ringsted city|Incorporated Place|A|Emmet County
+IA|19|67215|Rippey city|Incorporated Place|A|Greene County
+IA|19|67350|Riverdale city|Incorporated Place|A|Scott County
+IA|19|67440|Riverside city|Incorporated Place|A|Washington County
+IA|19|67530|River Sioux CDP|Census Designated Place|S|Harrison County
+IA|19|67575|Riverton city|Incorporated Place|A|Fremont County
+IA|19|67800|Robins city|Incorporated Place|A|Linn County
+IA|19|67890|Rochester CDP|Census Designated Place|S|Cedar County
+IA|19|68025|Rock Falls city|Incorporated Place|A|Cerro Gordo County
+IA|19|68070|Rockford city|Incorporated Place|A|Floyd County
+IA|19|68160|Rock Rapids city|Incorporated Place|A|Lyon County
+IA|19|68205|Rock Valley city|Incorporated Place|A|Sioux County
+IA|19|68250|Rockwell city|Incorporated Place|A|Cerro Gordo County
+IA|19|68295|Rockwell City city|Incorporated Place|A|Calhoun County
+IA|19|68340|Rodman city|Incorporated Place|A|Palo Alto County
+IA|19|68385|Rodney city|Incorporated Place|A|Monona County
+IA|19|68475|Roland city|Incorporated Place|A|Story County
+IA|19|68520|Rolfe city|Incorporated Place|A|Pocahontas County
+IA|19|68565|Rome city|Incorporated Place|A|Henry County
+IA|19|68700|Rose Hill city|Incorporated Place|A|Mahaska County
+IA|19|68800|Roseville CDP|Census Designated Place|S|Floyd County
+IA|19|68925|Rossie city|Incorporated Place|A|Clay County
+IA|19|69015|Rowan city|Incorporated Place|A|Wright County
+IA|19|69060|Rowley city|Incorporated Place|A|Buchanan County
+IA|19|69105|Royal city|Incorporated Place|A|Clay County
+IA|19|69195|Rudd city|Incorporated Place|A|Floyd County
+IA|19|69240|Runnells city|Incorporated Place|A|Polk County
+IA|19|69285|Russell city|Incorporated Place|A|Lucas County
+IA|19|69330|Ruthven city|Incorporated Place|A|Palo Alto County
+IA|19|69375|Rutland city|Incorporated Place|A|Humboldt County
+IA|19|69465|Ryan city|Incorporated Place|A|Delaware County
+IA|19|69510|Sabula city|Incorporated Place|A|Jackson County
+IA|19|69645|Sac City city|Incorporated Place|A|Sac County
+IA|19|69690|Sageville city|Incorporated Place|A|Dubuque County
+IA|19|69735|St. Ansgar city|Incorporated Place|A|Mitchell County
+IA|19|69780|St. Anthony city|Incorporated Place|A|Marshall County
+IA|19|69825|St. Benedict CDP|Census Designated Place|S|Kossuth County
+IA|19|69915|St. Charles city|Incorporated Place|A|Madison County
+IA|19|69960|St. Donatus city|Incorporated Place|A|Jackson County
+IA|19|70005|St. Joseph CDP|Census Designated Place|S|Kossuth County
+IA|19|70050|St. Lucas city|Incorporated Place|A|Fayette County
+IA|19|70095|St. Marys city|Incorporated Place|A|Warren County
+IA|19|70140|St. Olaf city|Incorporated Place|A|Clayton County
+IA|19|70185|St. Paul city|Incorporated Place|A|Lee County
+IA|19|70230|Salem city|Incorporated Place|A|Henry County
+IA|19|70320|Salix city|Incorporated Place|A|Woodbury County
+IA|19|70410|Sanborn city|Incorporated Place|A|O'Brien County
+IA|19|70590|Sandyville city|Incorporated Place|A|Warren County
+IA|19|70995|Saylorville CDP|Census Designated Place|S|Polk County
+IA|19|71040|Scarville city|Incorporated Place|A|Winnebago County
+IA|19|71085|Schaller city|Incorporated Place|A|Sac County
+IA|19|71130|Schleswig city|Incorporated Place|A|Crawford County
+IA|19|71310|Scranton city|Incorporated Place|A|Greene County
+IA|19|71355|Searsboro city|Incorporated Place|A|Poweshiek County
+IA|19|71625|Sergeant Bluff city|Incorporated Place|A|Woodbury County
+IA|19|71715|Sexton CDP|Census Designated Place|S|Kossuth County
+IA|19|71760|Seymour city|Incorporated Place|A|Wayne County
+IA|19|71895|Shambaugh city|Incorporated Place|A|Page County
+IA|19|71940|Shannon City city|Incorporated Place|A|Ringgold County, Union County
+IA|19|72075|Sharpsburg city|Incorporated Place|A|Taylor County
+IA|19|72210|Sheffield city|Incorporated Place|A|Franklin County
+IA|19|72300|Shelby city|Incorporated Place|A|Pottawattamie County, Shelby County
+IA|19|72345|Sheldahl city|Incorporated Place|A|Boone County, Polk County, Story County
+IA|19|72390|Sheldon city|Incorporated Place|A|O'Brien County, Sioux County
+IA|19|72435|Shell Rock city|Incorporated Place|A|Butler County
+IA|19|72480|Shellsburg city|Incorporated Place|A|Benton County
+IA|19|72525|Shenandoah city|Incorporated Place|A|Fremont County, Page County
+IA|19|72660|Sherrill city|Incorporated Place|A|Dubuque County
+IA|19|72840|Shueyville city|Incorporated Place|A|Johnson County
+IA|19|72975|Sibley city|Incorporated Place|A|Osceola County
+IA|19|73065|Sidney city|Incorporated Place|A|Fremont County
+IA|19|73110|Sigourney city|Incorporated Place|A|Keokuk County
+IA|19|73155|Silver City city|Incorporated Place|A|Mills County
+IA|19|73290|Sioux Center city|Incorporated Place|A|Sioux County
+IA|19|73335|Sioux City city|Incorporated Place|A|Plymouth County, Woodbury County
+IA|19|73425|Sioux Rapids city|Incorporated Place|A|Buena Vista County
+IA|19|73515|Slater city|Incorporated Place|A|Story County
+IA|19|73605|Sloan city|Incorporated Place|A|Woodbury County
+IA|19|73650|Smithland city|Incorporated Place|A|Woodbury County
+IA|19|73785|Soldier city|Incorporated Place|A|Monona County
+IA|19|73875|Solon city|Incorporated Place|A|Johnson County
+IA|19|73920|Somers city|Incorporated Place|A|Calhoun County
+IA|19|73965|South Amana CDP|Census Designated Place|S|Iowa County
+IA|19|74055|South English city|Incorporated Place|A|Keokuk County
+IA|19|74280|Spencer city|Incorporated Place|A|Clay County
+IA|19|74370|Spillville city|Incorporated Place|A|Winneshiek County
+IA|19|74415|Spirit Lake city|Incorporated Place|A|Dickinson County
+IA|19|74460|Spragueville city|Incorporated Place|A|Jackson County
+IA|19|74505|Springbrook city|Incorporated Place|A|Jackson County
+IA|19|74685|Spring Hill city|Incorporated Place|A|Warren County
+IA|19|74775|Springville city|Incorporated Place|A|Linn County
+IA|19|74820|Stacyville city|Incorporated Place|A|Mitchell County
+IA|19|74910|Stanhope city|Incorporated Place|A|Hamilton County
+IA|19|74955|Stanley city|Incorporated Place|A|Buchanan County, Fayette County
+IA|19|75000|Stanton city|Incorporated Place|A|Montgomery County
+IA|19|75045|Stanwood city|Incorporated Place|A|Cedar County
+IA|19|75135|State Center city|Incorporated Place|A|Marshall County
+IA|19|75180|Steamboat Rock city|Incorporated Place|A|Hardin County
+IA|19|75405|Stockport city|Incorporated Place|A|Van Buren County
+IA|19|75450|Stockton city|Incorporated Place|A|Muscatine County
+IA|19|75540|Stone City CDP|Census Designated Place|S|Jones County
+IA|19|75630|Storm Lake city|Incorporated Place|A|Buena Vista County
+IA|19|75675|Story City city|Incorporated Place|A|Story County
+IA|19|75720|Stout city|Incorporated Place|A|Grundy County
+IA|19|75810|Stratford city|Incorporated Place|A|Hamilton County, Webster County
+IA|19|75855|Strawberry Point city|Incorporated Place|A|Clayton County
+IA|19|75945|Struble city|Incorporated Place|A|Plymouth County
+IA|19|75990|Stuart city|Incorporated Place|A|Adair County, Guthrie County
+IA|19|76035|Sully city|Incorporated Place|A|Jasper County
+IA|19|76260|Sumner city|Incorporated Place|A|Bremer County, Fayette County
+IA|19|76415|Sun Valley Lake CDP|Census Designated Place|S|Ringgold County
+IA|19|76440|Superior city|Incorporated Place|A|Dickinson County
+IA|19|76485|Sutherland city|Incorporated Place|A|O'Brien County
+IA|19|76620|Swaledale city|Incorporated Place|A|Cerro Gordo County
+IA|19|76665|Swan city|Incorporated Place|A|Marion County
+IA|19|76755|Swea City city|Incorporated Place|A|Kossuth County
+IA|19|76890|Swisher city|Incorporated Place|A|Johnson County
+IA|19|76935|Tabor city|Incorporated Place|A|Fremont County, Mills County
+IA|19|77115|Tama city|Incorporated Place|A|Tama County
+IA|19|77340|Templeton city|Incorporated Place|A|Carroll County
+IA|19|77430|Tennant city|Incorporated Place|A|Shelby County
+IA|19|77520|Terril city|Incorporated Place|A|Dickinson County
+IA|19|77565|Thayer city|Incorporated Place|A|Union County
+IA|19|77745|Thompson city|Incorporated Place|A|Winnebago County
+IA|19|77790|Thor city|Incorporated Place|A|Humboldt County
+IA|19|77835|Thornburg city|Incorporated Place|A|Keokuk County
+IA|19|77880|Thornton city|Incorporated Place|A|Cerro Gordo County
+IA|19|77970|Thurman city|Incorporated Place|A|Fremont County
+IA|19|78060|Tiffin city|Incorporated Place|A|Johnson County
+IA|19|78195|Tingley city|Incorporated Place|A|Ringgold County
+IA|19|78285|Tipton city|Incorporated Place|A|Cedar County
+IA|19|78330|Titonka city|Incorporated Place|A|Kossuth County
+IA|19|78465|Toeterville CDP|Census Designated Place|S|Mitchell County
+IA|19|78510|Toledo city|Incorporated Place|A|Tama County
+IA|19|78600|Toronto city|Incorporated Place|A|Clinton County
+IA|19|78735|Traer city|Incorporated Place|A|Tama County
+IA|19|78825|Treynor city|Incorporated Place|A|Pottawattamie County
+IA|19|78915|Tripoli city|Incorporated Place|A|Bremer County
+IA|19|79095|Truesdale city|Incorporated Place|A|Buena Vista County
+IA|19|79140|Truro city|Incorporated Place|A|Madison County
+IA|19|79185|Turin city|Incorporated Place|A|Monona County
+IA|19|79335|Twin Lakes CDP|Census Designated Place|S|Calhoun County
+IA|19|79410|Udell city|Incorporated Place|A|Appanoose County
+IA|19|79500|Underwood city|Incorporated Place|A|Pottawattamie County
+IA|19|79545|Union city|Incorporated Place|A|Hardin County
+IA|19|79680|Unionville city|Incorporated Place|A|Appanoose County
+IA|19|79770|University Heights city|Incorporated Place|A|Johnson County
+IA|19|79815|University Park city|Incorporated Place|A|Mahaska County
+IA|19|79905|Urbana city|Incorporated Place|A|Benton County
+IA|19|79950|Urbandale city|Incorporated Place|A|Dallas County, Polk County
+IA|19|79995|Ute city|Incorporated Place|A|Monona County
+IA|19|80130|Vail city|Incorporated Place|A|Crawford County
+IA|19|80175|Valeria city|Incorporated Place|A|Jasper County
+IA|19|80400|Van Horne city|Incorporated Place|A|Benton County
+IA|19|80445|Van Meter city|Incorporated Place|A|Dallas County
+IA|19|80490|Van Wert city|Incorporated Place|A|Decatur County
+IA|19|80535|Varina city|Incorporated Place|A|Pocahontas County
+IA|19|80580|Ventura city|Incorporated Place|A|Cerro Gordo County
+IA|19|80805|Victor city|Incorporated Place|A|Iowa County, Poweshiek County
+IA|19|80985|Villisca city|Incorporated Place|A|Montgomery County
+IA|19|81075|Vincent city|Incorporated Place|A|Webster County
+IA|19|81120|Vining city|Incorporated Place|A|Tama County
+IA|19|81210|Vinton city|Incorporated Place|A|Benton County
+IA|19|81345|Volga city|Incorporated Place|A|Clayton County
+IA|19|81570|Wadena city|Incorporated Place|A|Fayette County
+IA|19|81615|Wahpeton city|Incorporated Place|A|Dickinson County
+IA|19|81705|Walcott city|Incorporated Place|A|Muscatine County, Scott County
+IA|19|81840|Walford city|Incorporated Place|A|Benton County, Linn County
+IA|19|81885|Walker city|Incorporated Place|A|Linn County
+IA|19|81975|Wallingford city|Incorporated Place|A|Emmet County
+IA|19|82020|Wall Lake city|Incorporated Place|A|Sac County
+IA|19|82065|Walnut city|Incorporated Place|A|Pottawattamie County
+IA|19|82200|Wapello city|Incorporated Place|A|Louisa County
+IA|19|82290|Washburn CDP|Census Designated Place|S|Black Hawk County
+IA|19|82335|Washington city|Incorporated Place|A|Washington County
+IA|19|82380|Washta city|Incorporated Place|A|Cherokee County
+IA|19|82425|Waterloo city|Incorporated Place|A|Black Hawk County
+IA|19|82470|Waterville city|Incorporated Place|A|Allamakee County
+IA|19|82515|Watkins CDP|Census Designated Place|S|Benton County
+IA|19|82650|Waucoma city|Incorporated Place|A|Fayette County
+IA|19|82695|Waukee city|Incorporated Place|A|Dallas County
+IA|19|82740|Waukon city|Incorporated Place|A|Allamakee County
+IA|19|82875|Waverly city|Incorporated Place|A|Bremer County
+IA|19|82965|Wayland city|Incorporated Place|A|Henry County
+IA|19|83010|Webb city|Incorporated Place|A|Clay County
+IA|19|83055|Webster city|Incorporated Place|A|Keokuk County
+IA|19|83145|Webster City city|Incorporated Place|A|Hamilton County
+IA|19|83190|Weldon city|Incorporated Place|A|Decatur County
+IA|19|83280|Wellman city|Incorporated Place|A|Washington County
+IA|19|83325|Wellsburg city|Incorporated Place|A|Grundy County
+IA|19|83370|Welton city|Incorporated Place|A|Clinton County
+IA|19|83415|Wesley city|Incorporated Place|A|Kossuth County
+IA|19|83505|West Amana CDP|Census Designated Place|S|Iowa County
+IA|19|83550|West Bend city|Incorporated Place|A|Kossuth County, Palo Alto County
+IA|19|83595|West Branch city|Incorporated Place|A|Cedar County, Johnson County
+IA|19|83685|West Burlington city|Incorporated Place|A|Des Moines County
+IA|19|83775|West Chester city|Incorporated Place|A|Washington County
+IA|19|83910|West Des Moines city|Incorporated Place|A|Dallas County, Polk County, Warren County
+IA|19|84090|Westfield city|Incorporated Place|A|Plymouth County
+IA|19|84180|Westgate city|Incorporated Place|A|Fayette County
+IA|19|84315|West Liberty city|Incorporated Place|A|Muscatine County
+IA|19|84450|West Okoboji city|Incorporated Place|A|Dickinson County
+IA|19|84495|Weston CDP|Census Designated Place|S|Pottawattamie County
+IA|19|84540|Westphalia city|Incorporated Place|A|Shelby County
+IA|19|84585|West Point city|Incorporated Place|A|Lee County
+IA|19|84630|Westside city|Incorporated Place|A|Crawford County
+IA|19|84765|West Union city|Incorporated Place|A|Fayette County
+IA|19|84835|Westwood city|Incorporated Place|A|Henry County
+IA|19|84900|What Cheer city|Incorporated Place|A|Keokuk County
+IA|19|84945|Wheatland city|Incorporated Place|A|Clinton County
+IA|19|85215|Whiting city|Incorporated Place|A|Monona County
+IA|19|85260|Whittemore city|Incorporated Place|A|Kossuth County
+IA|19|85305|Whitten city|Incorporated Place|A|Hardin County
+IA|19|85710|Willey city|Incorporated Place|A|Carroll County
+IA|19|85800|Williams city|Incorporated Place|A|Hamilton County
+IA|19|85845|Williamsburg city|Incorporated Place|A|Iowa County
+IA|19|85935|Williamson city|Incorporated Place|A|Lucas County
+IA|19|86070|Wilton city|Incorporated Place|A|Cedar County, Muscatine County
+IA|19|86250|Windsor Heights city|Incorporated Place|A|Polk County
+IA|19|86385|Winfield city|Incorporated Place|A|Henry County
+IA|19|86520|Winterset city|Incorporated Place|A|Madison County
+IA|19|86565|Winthrop city|Incorporated Place|A|Buchanan County
+IA|19|86610|Wiota city|Incorporated Place|A|Cass County
+IA|19|86700|Woden city|Incorporated Place|A|Hancock County
+IA|19|86835|Woodbine city|Incorporated Place|A|Harrison County
+IA|19|86880|Woodburn city|Incorporated Place|A|Clarke County
+IA|19|86970|Woodward city|Incorporated Place|A|Dallas County
+IA|19|87015|Woolstock city|Incorporated Place|A|Wright County
+IA|19|87060|Worthington city|Incorporated Place|A|Dubuque County
+IA|19|87240|Wyoming city|Incorporated Place|A|Jones County
+IA|19|87285|Yale city|Incorporated Place|A|Guthrie County
+IA|19|87375|Yetter city|Incorporated Place|A|Calhoun County
+IA|19|87420|Yorktown city|Incorporated Place|A|Page County
+IA|19|87555|Zearing city|Incorporated Place|A|Story County
+IA|19|87690|Zwingle city|Incorporated Place|A|Dubuque County, Jackson County

@@ -1,0 +1,326 @@
+UT|49|00540|Alpine city|Incorporated Place|A|Utah County
+UT|49|00650|Alta town|Incorporated Place|A|Salt Lake County
+UT|49|00760|Altamont town|Incorporated Place|A|Duchesne County
+UT|49|00870|Alton town|Incorporated Place|A|Kane County
+UT|49|01090|Amalga town|Incorporated Place|A|Cache County
+UT|49|01310|American Fork city|Incorporated Place|A|Utah County
+UT|49|01530|Aneth CDP|Census Designated Place|S|San Juan County
+UT|49|01750|Annabella town|Incorporated Place|A|Sevier County
+UT|49|01860|Antimony town|Incorporated Place|A|Garfield County
+UT|49|01905|Apple Valley town|Incorporated Place|A|Washington County
+UT|49|02740|Aurora city|Incorporated Place|A|Sevier County
+UT|49|02960|Avon CDP|Census Designated Place|S|Cache County
+UT|49|03345|Ballard town|Incorporated Place|A|Uintah County
+UT|49|03950|Bear River City city|Incorporated Place|A|Box Elder County
+UT|49|04060|Beaver city|Incorporated Place|A|Beaver County
+UT|49|04720|Benjamin CDP|Census Designated Place|S|Utah County
+UT|49|05050|Benson CDP|Census Designated Place|S|Cache County
+UT|49|05380|Beryl Junction CDP|Census Designated Place|S|Iron County
+UT|49|05490|Bicknell town|Incorporated Place|A|Wayne County
+UT|49|05534|Big Water town|Incorporated Place|A|Kane County
+UT|49|06370|Blanding city|Incorporated Place|A|San Juan County
+UT|49|06590|Bluebell CDP|Census Designated Place|S|Duchesne County
+UT|49|06700|Bluff CDP|Census Designated Place|S|San Juan County
+UT|49|06810|Bluffdale city|Incorporated Place|A|Salt Lake County
+UT|49|06920|Bonanza CDP|Census Designated Place|S|Uintah County
+UT|49|07470|Boulder town|Incorporated Place|A|Garfield County
+UT|49|07690|Bountiful city|Incorporated Place|A|Davis County
+UT|49|08020|Brian Head town|Incorporated Place|A|Iron County
+UT|49|08460|Brigham City city|Incorporated Place|A|Box Elder County
+UT|49|08787|Bryce Canyon City town|Incorporated Place|A|Garfield County
+UT|49|09725|Cache CDP|Census Designated Place|S|Cache County
+UT|49|10330|Cannonville town|Incorporated Place|A|Garfield County
+UT|49|10440|Carbonville CDP|Census Designated Place|S|Carbon County
+UT|49|10660|Castle Dale city|Incorporated Place|A|Emery County
+UT|49|11000|Castle Valley town|Incorporated Place|A|Grand County
+UT|49|11320|Cedar City city|Incorporated Place|A|Iron County
+UT|49|11430|Cedar Fort town|Incorporated Place|A|Utah County
+UT|49|11440|Cedar Hills city|Incorporated Place|A|Utah County
+UT|49|11870|Centerfield town|Incorporated Place|A|Sanpete County
+UT|49|11980|Centerville city|Incorporated Place|A|Davis County
+UT|49|12200|Central CDP|Census Designated Place|S|Washington County
+UT|49|12260|Central Valley town|Incorporated Place|A|Sevier County
+UT|49|12420|Charleston town|Incorporated Place|A|Wasatch County
+UT|49|12970|Circleville town|Incorporated Place|A|Piute County
+UT|49|13190|Clarkston town|Incorporated Place|A|Cache County
+UT|49|13300|Clawson town|Incorporated Place|A|Emery County
+UT|49|13740|Clear Creek CDP|Census Designated Place|S|Carbon County
+UT|49|13850|Clearfield city|Incorporated Place|A|Davis County
+UT|49|14070|Cleveland town|Incorporated Place|A|Emery County
+UT|49|14290|Clinton city|Incorporated Place|A|Davis County
+UT|49|14840|Coalville city|Incorporated Place|A|Summit County
+UT|49|15720|Copperton CDP|Census Designated Place|S|Salt Lake County
+UT|49|15830|Corinne city|Incorporated Place|A|Box Elder County
+UT|49|15940|Cornish town|Incorporated Place|A|Cache County
+UT|49|16270|Cottonwood Heights city|Incorporated Place|A|Salt Lake County
+UT|49|16490|Cove CDP|Census Designated Place|S|Cache County
+UT|49|18090|Dammeron Valley CDP|Census Designated Place|S|Washington County
+UT|49|18140|Daniel town|Incorporated Place|A|Wasatch County
+UT|49|18910|Delta city|Incorporated Place|A|Millard County
+UT|49|19020|Deseret CDP|Census Designated Place|S|Millard County
+UT|49|19680|Deweyville town|Incorporated Place|A|Box Elder County
+UT|49|20120|Draper city|Incorporated Place|A|Salt Lake County, Utah County
+UT|49|20340|Duchesne city|Incorporated Place|A|Duchesne County
+UT|49|20450|Dugway CDP|Census Designated Place|S|Tooele County
+UT|49|20780|Dutch John CDP|Census Designated Place|S|Daggett County
+UT|49|20810|Eagle Mountain city|Incorporated Place|A|Utah County
+UT|49|20890|East Carbon city|Incorporated Place|A|Carbon County
+UT|49|21880|Echo CDP|Census Designated Place|S|Summit County
+UT|49|21990|Eden CDP|Census Designated Place|S|Weber County
+UT|49|22210|Elberta CDP|Census Designated Place|S|Utah County
+UT|49|22370|Elk Ridge city|Incorporated Place|A|Utah County
+UT|49|22540|Elmo town|Incorporated Place|A|Emery County
+UT|49|22650|Elsinore town|Incorporated Place|A|Sevier County
+UT|49|22760|Elwood town|Incorporated Place|A|Box Elder County
+UT|49|22870|Emery town|Incorporated Place|A|Emery County
+UT|49|22875|Emigration Canyon CDP|Census Designated Place|S|Salt Lake County
+UT|49|23200|Enoch city|Incorporated Place|A|Iron County
+UT|49|23310|Enterprise CDP|Census Designated Place|S|Morgan County
+UT|49|23420|Enterprise city|Incorporated Place|A|Washington County
+UT|49|23530|Ephraim city|Incorporated Place|A|Sanpete County
+UT|49|23640|Erda CDP|Census Designated Place|S|Tooele County
+UT|49|23750|Escalante city|Incorporated Place|A|Garfield County
+UT|49|24080|Eureka city|Incorporated Place|A|Juab County
+UT|49|24410|Fairfield town|Incorporated Place|A|Utah County
+UT|49|24630|Fairview city|Incorporated Place|A|Sanpete County
+UT|49|24740|Farmington city|Incorporated Place|A|Davis County
+UT|49|24850|Farr West city|Incorporated Place|A|Weber County
+UT|49|25070|Fayette town|Incorporated Place|A|Sanpete County
+UT|49|25180|Ferron city|Incorporated Place|A|Emery County
+UT|49|25290|Fielding town|Incorporated Place|A|Box Elder County
+UT|49|25510|Fillmore city|Incorporated Place|A|Millard County
+UT|49|25910|Flaming Gorge CDP|Census Designated Place|S|Daggett County
+UT|49|26610|Fort Duchesne CDP|Census Designated Place|S|Uintah County
+UT|49|26720|Fountain Green city|Incorporated Place|A|Sanpete County
+UT|49|26940|Francis town|Incorporated Place|A|Summit County
+UT|49|27270|Fremont CDP|Census Designated Place|S|Wayne County
+UT|49|27490|Fruit Heights city|Incorporated Place|A|Davis County
+UT|49|27902|Garden CDP|Census Designated Place|S|Rich County
+UT|49|27930|Garden City town|Incorporated Place|A|Rich County
+UT|49|28150|Garland city|Incorporated Place|A|Box Elder County
+UT|49|28810|Genola town|Incorporated Place|A|Utah County
+UT|49|29360|Glendale town|Incorporated Place|A|Kane County
+UT|49|29580|Glenwood town|Incorporated Place|A|Sevier County
+UT|49|30130|Goshen town|Incorporated Place|A|Utah County
+UT|49|30900|Granite CDP|Census Designated Place|S|Salt Lake County
+UT|49|31120|Grantsville city|Incorporated Place|A|Tooele County
+UT|49|31670|Green River city|Incorporated Place|A|Emery County
+UT|49|32660|Gunnison city|Incorporated Place|A|Sanpete County
+UT|49|33002|Halchita CDP|Census Designated Place|S|San Juan County
+UT|49|33027|Halls Crossing CDP|Census Designated Place|S|San Juan County
+UT|49|33100|Hanksville town|Incorporated Place|A|Wayne County
+UT|49|33540|Harrisville city|Incorporated Place|A|Weber County
+UT|49|33760|Hatch town|Incorporated Place|A|Garfield County
+UT|49|34200|Heber city|Incorporated Place|A|Wasatch County
+UT|49|34530|Helper city|Incorporated Place|A|Carbon County
+UT|49|34640|Henefer town|Incorporated Place|A|Summit County
+UT|49|34750|Henrieville town|Incorporated Place|A|Garfield County
+UT|49|34970|Herriman city|Incorporated Place|A|Salt Lake County
+UT|49|35120|Hideout town|Incorporated Place|A|Wasatch County
+UT|49|35190|Highland city|Incorporated Place|A|Utah County
+UT|49|35300|Hildale city|Incorporated Place|A|Washington County
+UT|49|35740|Hinckley town|Incorporated Place|A|Millard County
+UT|49|35960|Holden town|Incorporated Place|A|Millard County
+UT|49|36070|Holladay city|Incorporated Place|A|Salt Lake County
+UT|49|36290|Honeyville city|Incorporated Place|A|Box Elder County
+UT|49|36400|Hooper city|Incorporated Place|A|Weber County
+UT|49|36620|Howell town|Incorporated Place|A|Box Elder County
+UT|49|36730|Hoytsville CDP|Census Designated Place|S|Summit County
+UT|49|36950|Huntington city|Incorporated Place|A|Emery County
+UT|49|37060|Huntsville town|Incorporated Place|A|Weber County
+UT|49|37170|Hurricane city|Incorporated Place|A|Washington County
+UT|49|37390|Hyde Park city|Incorporated Place|A|Cache County
+UT|49|37500|Hyrum city|Incorporated Place|A|Cache County
+UT|49|37690|Independence town|Incorporated Place|A|Wasatch County
+UT|49|38710|Ivins city|Incorporated Place|A|Washington County
+UT|49|39040|Jensen CDP|Census Designated Place|S|Uintah County
+UT|49|39370|Joseph town|Incorporated Place|A|Sevier County
+UT|49|39590|Junction town|Incorporated Place|A|Piute County
+UT|49|39810|Kamas city|Incorporated Place|A|Summit County
+UT|49|39920|Kanab city|Incorporated Place|A|Kane County
+UT|49|40030|Kanarraville town|Incorporated Place|A|Iron County
+UT|49|40250|Kanosh town|Incorporated Place|A|Millard County
+UT|49|40360|Kaysville city|Incorporated Place|A|Davis County
+UT|49|40470|Kearns CDP|Census Designated Place|S|Salt Lake County
+UT|49|41020|Kenilworth CDP|Census Designated Place|S|Carbon County
+UT|49|41350|Kingston town|Incorporated Place|A|Piute County
+UT|49|41680|Koosharem town|Incorporated Place|A|Sevier County
+UT|49|42230|Lake Shore CDP|Census Designated Place|S|Utah County
+UT|49|42560|Laketown town|Incorporated Place|A|Rich County
+UT|49|43110|La Sal CDP|Census Designated Place|S|San Juan County
+UT|49|43440|La Verkin city|Incorporated Place|A|Washington County
+UT|49|43660|Layton city|Incorporated Place|A|Davis County
+UT|49|43880|Leamington town|Incorporated Place|A|Millard County
+UT|49|44100|Leeds town|Incorporated Place|A|Washington County
+UT|49|44320|Lehi city|Incorporated Place|A|Utah County
+UT|49|44650|Levan town|Incorporated Place|A|Juab County
+UT|49|44760|Lewiston city|Incorporated Place|A|Cache County
+UT|49|44870|Liberty CDP|Census Designated Place|S|Weber County
+UT|49|45090|Lindon city|Incorporated Place|A|Utah County
+UT|49|45530|Loa town|Incorporated Place|A|Wayne County
+UT|49|45860|Logan city|Incorporated Place|A|Cache County
+UT|49|46410|Lyman town|Incorporated Place|A|Wayne County
+UT|49|46740|Lynndyl town|Incorporated Place|A|Millard County
+UT|49|47180|Maeser CDP|Census Designated Place|S|Uintah County
+UT|49|47290|Magna CDP|Census Designated Place|S|Salt Lake County
+UT|49|47620|Manila town|Incorporated Place|A|Daggett County
+UT|49|47730|Manti city|Incorporated Place|A|Sanpete County
+UT|49|47840|Mantua town|Incorporated Place|A|Box Elder County
+UT|49|47950|Mapleton city|Incorporated Place|A|Utah County
+UT|49|48170|Marion CDP|Census Designated Place|S|Summit County
+UT|49|48300|Marriott-Slaterville city|Incorporated Place|A|Weber County
+UT|49|48610|Marysvale town|Incorporated Place|A|Piute County
+UT|49|48720|Mayfield town|Incorporated Place|A|Sanpete County
+UT|49|48830|Meadow town|Incorporated Place|A|Millard County
+UT|49|49160|Mendon city|Incorporated Place|A|Cache County
+UT|49|49380|Mexican Hat CDP|Census Designated Place|S|San Juan County
+UT|49|49710|Midvale city|Incorporated Place|A|Salt Lake County
+UT|49|49820|Midway city|Incorporated Place|A|Wasatch County
+UT|49|50040|Milford city|Incorporated Place|A|Beaver County
+UT|49|50150|Millcreek CDP|Census Designated Place|S|Salt Lake County
+UT|49|50370|Millville city|Incorporated Place|A|Cache County
+UT|49|50590|Minersville town|Incorporated Place|A|Beaver County
+UT|49|50700|Moab city|Incorporated Place|A|Grand County
+UT|49|51140|Mona city|Incorporated Place|A|Juab County
+UT|49|51360|Monroe city|Incorporated Place|A|Sevier County
+UT|49|51470|Montezuma Creek CDP|Census Designated Place|S|San Juan County
+UT|49|51580|Monticello city|Incorporated Place|A|San Juan County
+UT|49|51910|Morgan city|Incorporated Place|A|Morgan County
+UT|49|52130|Moroni city|Incorporated Place|A|Sanpete County
+UT|49|52460|Mountain Green CDP|Census Designated Place|S|Morgan County
+UT|49|53010|Mount Pleasant city|Incorporated Place|A|Sanpete County
+UT|49|53230|Murray city|Incorporated Place|A|Salt Lake County
+UT|49|53340|Myton city|Incorporated Place|A|Duchesne County
+UT|49|53560|Naples city|Incorporated Place|A|Uintah County
+UT|49|53890|Navajo Mountain CDP|Census Designated Place|S|San Juan County
+UT|49|54110|Neola CDP|Census Designated Place|S|Duchesne County
+UT|49|54220|Nephi city|Incorporated Place|A|Juab County
+UT|49|54330|Newcastle CDP|Census Designated Place|S|Iron County
+UT|49|54440|New Harmony town|Incorporated Place|A|Washington County
+UT|49|54550|Newton town|Incorporated Place|A|Cache County
+UT|49|54660|Nibley city|Incorporated Place|A|Cache County
+UT|49|54990|North Logan city|Incorporated Place|A|Cache County
+UT|49|55100|North Ogden city|Incorporated Place|A|Weber County
+UT|49|55210|North Salt Lake city|Incorporated Place|A|Davis County
+UT|49|55430|Oak City town|Incorporated Place|A|Millard County
+UT|49|55650|Oakley city|Incorporated Place|A|Summit County
+UT|49|55760|Oasis CDP|Census Designated Place|S|Millard County
+UT|49|55980|Ogden city|Incorporated Place|A|Weber County
+UT|49|56440|Oljato-Monument Valley CDP|Census Designated Place|S|San Juan County
+UT|49|56750|Ophir town|Incorporated Place|A|Tooele County
+UT|49|56860|Orangeville city|Incorporated Place|A|Emery County
+UT|49|57080|Orderville town|Incorporated Place|A|Kane County
+UT|49|57300|Orem city|Incorporated Place|A|Utah County
+UT|49|57630|Palmyra CDP|Census Designated Place|S|Utah County
+UT|49|57740|Panguitch city|Incorporated Place|A|Garfield County
+UT|49|57850|Paradise town|Incorporated Place|A|Cache County
+UT|49|57960|Paragonah town|Incorporated Place|A|Iron County
+UT|49|58070|Park City city|Incorporated Place|A|Summit County, Wasatch County
+UT|49|58510|Parowan city|Incorporated Place|A|Iron County
+UT|49|58730|Payson city|Incorporated Place|A|Utah County
+UT|49|59280|Peoa CDP|Census Designated Place|S|Summit County
+UT|49|59390|Perry city|Incorporated Place|A|Box Elder County
+UT|49|59555|Peter CDP|Census Designated Place|S|Cache County
+UT|49|60270|Pine Valley CDP|Census Designated Place|S|Washington County
+UT|49|60710|Plain City city|Incorporated Place|A|Weber County
+UT|49|60930|Pleasant Grove city|Incorporated Place|A|Utah County
+UT|49|61150|Pleasant View city|Incorporated Place|A|Weber County
+UT|49|61260|Plymouth town|Incorporated Place|A|Box Elder County
+UT|49|61590|Portage town|Incorporated Place|A|Box Elder County
+UT|49|62030|Price city|Incorporated Place|A|Carbon County
+UT|49|62360|Providence city|Incorporated Place|A|Cache County
+UT|49|62470|Provo city|Incorporated Place|A|Utah County
+UT|49|62910|Randlett CDP|Census Designated Place|S|Uintah County
+UT|49|63020|Randolph town|Incorporated Place|A|Rich County
+UT|49|63240|Redmond town|Incorporated Place|A|Sevier County
+UT|49|63570|Richfield city|Incorporated Place|A|Sevier County
+UT|49|63680|Richmond city|Incorporated Place|A|Cache County
+UT|49|64010|Riverdale city|Incorporated Place|A|Weber County
+UT|49|64120|River Heights city|Incorporated Place|A|Cache County
+UT|49|64230|Riverside CDP|Census Designated Place|S|Box Elder County
+UT|49|64340|Riverton city|Incorporated Place|A|Salt Lake County
+UT|49|64560|Rockville town|Incorporated Place|A|Washington County
+UT|49|64590|Rocky Ridge town|Incorporated Place|A|Juab County
+UT|49|64670|Roosevelt city|Incorporated Place|A|Duchesne County
+UT|49|65110|Roy city|Incorporated Place|A|Weber County
+UT|49|65240|Rush Valley town|Incorporated Place|A|Tooele County
+UT|49|65330|St. George city|Incorporated Place|A|Washington County
+UT|49|65770|Salem city|Incorporated Place|A|Utah County
+UT|49|65880|Salina city|Incorporated Place|A|Sevier County
+UT|49|67000|Salt Lake City city|Incorporated Place|A|Salt Lake County
+UT|49|67400|Samak CDP|Census Designated Place|S|Summit County
+UT|49|67440|Sandy city|Incorporated Place|A|Salt Lake County
+UT|49|67660|Santa Clara city|Incorporated Place|A|Washington County
+UT|49|67770|Santaquin city|Incorporated Place|A|Juab County, Utah County
+UT|49|67825|Saratoga Springs city|Incorporated Place|A|Utah County
+UT|49|67880|Scipio town|Incorporated Place|A|Millard County
+UT|49|67990|Scofield town|Incorporated Place|A|Carbon County
+UT|49|68650|Sigurd town|Incorporated Place|A|Sevier County
+UT|49|69280|Silver Summit CDP|Census Designated Place|S|Summit County
+UT|49|69640|Smithfield city|Incorporated Place|A|Cache County
+UT|49|69970|Snowville town|Incorporated Place|A|Box Elder County
+UT|49|70190|Snyderville CDP|Census Designated Place|S|Summit County
+UT|49|70850|South Jordan city|Incorporated Place|A|Salt Lake County
+UT|49|70960|South Ogden city|Incorporated Place|A|Weber County
+UT|49|71070|South Salt Lake city|Incorporated Place|A|Salt Lake County
+UT|49|71180|South Weber city|Incorporated Place|A|Davis County
+UT|49|71255|South Willard CDP|Census Designated Place|S|Box Elder County
+UT|49|71290|Spanish Fork city|Incorporated Place|A|Utah County
+UT|49|71455|Spanish Valley CDP|Census Designated Place|S|San Juan County
+UT|49|71730|Spring City city|Incorporated Place|A|Sanpete County
+UT|49|71840|Springdale town|Incorporated Place|A|Washington County
+UT|49|72060|Spring Glen CDP|Census Designated Place|S|Carbon County
+UT|49|72170|Spring Lake CDP|Census Designated Place|S|Utah County
+UT|49|72280|Springville city|Incorporated Place|A|Utah County
+UT|49|72720|Stansbury Park CDP|Census Designated Place|S|Tooele County
+UT|49|72940|Sterling town|Incorporated Place|A|Sanpete County
+UT|49|73050|Stockton town|Incorporated Place|A|Tooele County
+UT|49|74040|Summit CDP|Census Designated Place|S|Iron County
+UT|49|74095|Summit Park CDP|Census Designated Place|S|Summit County
+UT|49|74370|Sunnyside city|Incorporated Place|A|Carbon County
+UT|49|74480|Sunset city|Incorporated Place|A|Davis County
+UT|49|74590|Sutherland CDP|Census Designated Place|S|Millard County
+UT|49|74810|Syracuse city|Incorporated Place|A|Davis County
+UT|49|74920|Tabiona town|Incorporated Place|A|Duchesne County
+UT|49|75360|Taylorsville city|Incorporated Place|A|Salt Lake County
+UT|49|75470|Teasdale CDP|Census Designated Place|S|Wayne County
+UT|49|75800|Thatcher CDP|Census Designated Place|S|Box Elder County
+UT|49|76180|Thompson Springs CDP|Census Designated Place|S|Grand County
+UT|49|76280|Timber Lakes CDP|Census Designated Place|S|Wasatch County
+UT|49|76680|Tooele city|Incorporated Place|A|Tooele County
+UT|49|76900|Toquerville town|Incorporated Place|A|Washington County
+UT|49|77010|Torrey town|Incorporated Place|A|Wayne County
+UT|49|77120|Tremonton city|Incorporated Place|A|Box Elder County
+UT|49|77230|Trenton town|Incorporated Place|A|Cache County
+UT|49|77560|Tropic town|Incorporated Place|A|Garfield County
+UT|49|77697|Tselakai Dezza CDP|Census Designated Place|S|San Juan County
+UT|49|77890|Uintah town|Incorporated Place|A|Weber County
+UT|49|80090|Vernal city|Incorporated Place|A|Uintah County
+UT|49|80200|Vernon town|Incorporated Place|A|Tooele County
+UT|49|80310|Veyo CDP|Census Designated Place|S|Washington County
+UT|49|80420|Vineyard town|Incorporated Place|A|Utah County
+UT|49|80530|Virgin town|Incorporated Place|A|Washington County
+UT|49|80860|Wales town|Incorporated Place|A|Sanpete County
+UT|49|80970|Wallsburg town|Incorporated Place|A|Wasatch County
+UT|49|81190|Wanship CDP|Census Designated Place|S|Summit County
+UT|49|81960|Washington city|Incorporated Place|A|Washington County
+UT|49|82070|Washington Terrace city|Incorporated Place|A|Weber County
+UT|49|82510|Wellington city|Incorporated Place|A|Carbon County
+UT|49|82620|Wellsville city|Incorporated Place|A|Cache County
+UT|49|82730|Wendover city|Incorporated Place|A|Tooele County
+UT|49|82840|West Bountiful city|Incorporated Place|A|Davis County
+UT|49|82930|West Haven city|Incorporated Place|A|Weber County
+UT|49|82950|West Jordan city|Incorporated Place|A|Salt Lake County
+UT|49|83252|West Mountain CDP|Census Designated Place|S|Utah County
+UT|49|83390|West Point city|Incorporated Place|A|Davis County
+UT|49|83470|West Valley City city|Incorporated Place|A|Salt Lake County
+UT|49|83730|West Wood CDP|Census Designated Place|S|Carbon County
+UT|49|84050|White City CDP|Census Designated Place|S|Salt Lake County
+UT|49|84095|White Mesa CDP|Census Designated Place|S|San Juan County
+UT|49|84160|Whiterocks CDP|Census Designated Place|S|Uintah County
+UT|49|84710|Willard city|Incorporated Place|A|Box Elder County
+UT|49|84950|Wolf Creek CDP|Census Designated Place|S|Weber County
+UT|49|85040|Woodland CDP|Census Designated Place|S|Summit County
+UT|49|85050|Woodland Hills city|Incorporated Place|A|Utah County
+UT|49|85260|Woodruff town|Incorporated Place|A|Rich County
+UT|49|85370|Woods Cross city|Incorporated Place|A|Davis County

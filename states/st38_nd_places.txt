@@ -1,0 +1,401 @@
+ND|38|00100|Abercrombie city|Incorporated Place|A|Richland County
+ND|38|00340|Adams city|Incorporated Place|A|Walsh County
+ND|38|00940|Alamo city|Incorporated Place|A|Williams County
+ND|38|01180|Alexander city|Incorporated Place|A|McKenzie County
+ND|38|01420|Alice city|Incorporated Place|A|Cass County
+ND|38|01700|Almont city|Incorporated Place|A|Morton County
+ND|38|01740|Alsen city|Incorporated Place|A|Cavalier County
+ND|38|01860|Ambrose city|Incorporated Place|A|Divide County
+ND|38|01940|Amenia city|Incorporated Place|A|Cass County
+ND|38|02060|Amidon city|Incorporated Place|A|Slope County
+ND|38|02220|Anamoose city|Incorporated Place|A|McHenry County
+ND|38|02380|Aneta city|Incorporated Place|A|Nelson County
+ND|38|02660|Antler city|Incorporated Place|A|Bottineau County
+ND|38|02860|Ardoch city|Incorporated Place|A|Walsh County
+ND|38|03020|Argusville city|Incorporated Place|A|Cass County
+ND|38|03220|Arnegard city|Incorporated Place|A|McKenzie County
+ND|38|03300|Arthur city|Incorporated Place|A|Cass County
+ND|38|03540|Ashley city|Incorporated Place|A|McIntosh County
+ND|38|03740|Auburn CDP|Census Designated Place|S|Walsh County
+ND|38|04020|Ayr city|Incorporated Place|A|Cass County
+ND|38|04460|Balfour city|Incorporated Place|A|McHenry County
+ND|38|04580|Balta city|Incorporated Place|A|Pierce County
+ND|38|04740|Bantry city|Incorporated Place|A|McHenry County
+ND|38|04940|Barney city|Incorporated Place|A|Richland County
+ND|38|05220|Barton CDP|Census Designated Place|S|Pierce County
+ND|38|05260|Bathgate city|Incorporated Place|A|Pembina County
+ND|38|05420|Beach city|Incorporated Place|A|Golden Valley County
+ND|38|05740|Belcourt CDP|Census Designated Place|S|Rolette County
+ND|38|05820|Belfield city|Incorporated Place|A|Stark County
+ND|38|05980|Benedict city|Incorporated Place|A|McLean County
+ND|38|06180|Bergen city|Incorporated Place|A|McHenry County
+ND|38|06300|Berlin city|Incorporated Place|A|LaMoure County
+ND|38|06460|Berthold city|Incorporated Place|A|Ward County
+ND|38|06660|Beulah city|Incorporated Place|A|Mercer County
+ND|38|07020|Binford city|Incorporated Place|A|Griggs County
+ND|38|07180|Bisbee city|Incorporated Place|A|Towner County
+ND|38|07200|Bismarck city|Incorporated Place|A|Burleigh County
+ND|38|07620|Blanchard CDP|Census Designated Place|S|Traill County
+ND|38|08460|Bottineau city|Incorporated Place|A|Bottineau County
+ND|38|08500|Bowbells city|Incorporated Place|A|Burke County
+ND|38|08580|Bowdon city|Incorporated Place|A|Wells County
+ND|38|08700|Bowman city|Incorporated Place|A|Bowman County
+ND|38|08900|Braddock city|Incorporated Place|A|Emmons County
+ND|38|09320|Briarwood city|Incorporated Place|A|Cass County
+ND|38|09460|Brinsmade city|Incorporated Place|A|Benson County
+ND|38|09700|Brocket city|Incorporated Place|A|Ramsey County
+ND|38|09830|Brooktree Park CDP|Census Designated Place|S|Cass County
+ND|38|10060|Buchanan city|Incorporated Place|A|Stutsman County
+ND|38|10300|Bucyrus city|Incorporated Place|A|Adams County
+ND|38|10420|Buffalo city|Incorporated Place|A|Cass County
+ND|38|10940|Burlington city|Incorporated Place|A|Ward County
+ND|38|11180|Butte city|Incorporated Place|A|McLean County
+ND|38|11340|Buxton city|Incorporated Place|A|Traill County
+ND|38|11500|Caledonia CDP|Census Designated Place|S|Traill County
+ND|38|11580|Calio city|Incorporated Place|A|Cavalier County
+ND|38|11700|Calvin city|Incorporated Place|A|Cavalier County
+ND|38|11860|Cando city|Incorporated Place|A|Towner County
+ND|38|12020|Cannon Ball CDP|Census Designated Place|S|Sioux County
+ND|38|12060|Canton City city|Incorporated Place|A|Pembina County
+ND|38|12260|Carpio city|Incorporated Place|A|Ward County
+ND|38|12340|Carrington city|Incorporated Place|A|Foster County
+ND|38|12460|Carson city|Incorporated Place|A|Grant County
+ND|38|12700|Casselton city|Incorporated Place|A|Cass County
+ND|38|12820|Cathay city|Incorporated Place|A|Wells County
+ND|38|12940|Cavalier city|Incorporated Place|A|Pembina County
+ND|38|13020|Cayuga city|Incorporated Place|A|Sargent County
+ND|38|13180|Center city|Incorporated Place|A|Oliver County
+ND|38|14100|Christine city|Incorporated Place|A|Richland County
+ND|38|14140|Churchs Ferry city|Incorporated Place|A|Ramsey County
+ND|38|14660|Cleveland city|Incorporated Place|A|Stutsman County
+ND|38|14740|Clifford city|Incorporated Place|A|Traill County
+ND|38|15100|Cogswell city|Incorporated Place|A|Sargent County
+ND|38|15140|Coleharbor city|Incorporated Place|A|McLean County
+ND|38|15180|Colfax city|Incorporated Place|A|Richland County
+ND|38|15460|Columbus city|Incorporated Place|A|Burke County
+ND|38|15820|Conway city|Incorporated Place|A|Walsh County
+ND|38|15900|Cooperstown city|Incorporated Place|A|Griggs County
+ND|38|16380|Courtenay city|Incorporated Place|A|Stutsman County
+ND|38|16580|Crary city|Incorporated Place|A|Ramsey County
+ND|38|16940|Crosby city|Incorporated Place|A|Divide County
+ND|38|17060|Crystal city|Incorporated Place|A|Pembina County
+ND|38|17620|Dahlen CDP|Census Designated Place|S|Nelson County
+ND|38|18180|Davenport city|Incorporated Place|A|Cass County
+ND|38|18260|Dawson city|Incorporated Place|A|Kidder County
+ND|38|18340|Dazey city|Incorporated Place|A|Barnes County
+ND|38|18620|Deering city|Incorporated Place|A|McHenry County
+ND|38|18820|De Lamere CDP|Census Designated Place|S|Sargent County
+ND|38|19060|Denhoff CDP|Census Designated Place|S|Sheridan County
+ND|38|19300|Des Lacs city|Incorporated Place|A|Ward County
+ND|38|19420|Devils Lake city|Incorporated Place|A|Ramsey County
+ND|38|19580|Dickey city|Incorporated Place|A|LaMoure County
+ND|38|19620|Dickinson city|Incorporated Place|A|Stark County
+ND|38|19820|Dodge city|Incorporated Place|A|Dunn County
+ND|38|19900|Donnybrook city|Incorporated Place|A|Ward County
+ND|38|20020|Douglas city|Incorporated Place|A|Ward County
+ND|38|20300|Drake city|Incorporated Place|A|McHenry County
+ND|38|20340|Drayton city|Incorporated Place|A|Pembina County
+ND|38|20500|Driscoll CDP|Census Designated Place|S|Burleigh County
+ND|38|20940|Dunn Center city|Incorporated Place|A|Dunn County
+ND|38|21020|Dunseith city|Incorporated Place|A|Rolette County
+ND|38|21220|Dwight city|Incorporated Place|A|Richland County
+ND|38|21520|East Dunseith CDP|Census Designated Place|S|Rolette County
+ND|38|21580|East Fairview CDP|Census Designated Place|S|McKenzie County
+ND|38|22140|Edgeley city|Incorporated Place|A|LaMoure County
+ND|38|22260|Edinburg city|Incorporated Place|A|Walsh County
+ND|38|22340|Edmore city|Incorporated Place|A|Ramsey County
+ND|38|22540|Egeland city|Incorporated Place|A|Towner County
+ND|38|23020|Elgin city|Incorporated Place|A|Grant County
+ND|38|23220|Ellendale city|Incorporated Place|A|Dickey County
+ND|38|23340|Elliott city|Incorporated Place|A|Ransom County
+ND|38|24020|Embden CDP|Census Designated Place|S|Cass County
+ND|38|24060|Emerado city|Incorporated Place|A|Grand Forks County
+ND|38|24260|Enderlin city|Incorporated Place|A|Cass County, Ransom County
+ND|38|24380|Englevale CDP|Census Designated Place|S|Ransom County
+ND|38|24540|Epping city|Incorporated Place|A|Williams County
+ND|38|24620|Erie CDP|Census Designated Place|S|Cass County
+ND|38|24780|Esmond city|Incorporated Place|A|Benson County
+ND|38|25180|Fairdale city|Incorporated Place|A|Walsh County
+ND|38|25300|Fairmount city|Incorporated Place|A|Richland County
+ND|38|25700|Fargo city|Incorporated Place|A|Cass County
+ND|38|26180|Fessenden city|Incorporated Place|A|Wells County
+ND|38|26380|Fingal city|Incorporated Place|A|Barnes County
+ND|38|26420|Finley city|Incorporated Place|A|Steele County
+ND|38|26660|Flasher city|Incorporated Place|A|Morton County
+ND|38|26700|Flaxton city|Incorporated Place|A|Burke County
+ND|38|26980|Forbes city|Incorporated Place|A|Dickey County
+ND|38|27060|Fordville city|Incorporated Place|A|Walsh County
+ND|38|27100|Forest River city|Incorporated Place|A|Walsh County
+ND|38|27260|Forman city|Incorporated Place|A|Sargent County
+ND|38|27580|Fort Ransom city|Incorporated Place|A|Ransom County
+ND|38|27700|Fort Totten CDP|Census Designated Place|S|Benson County
+ND|38|27820|Fortuna city|Incorporated Place|A|Divide County
+ND|38|27860|Fort Yates city|Incorporated Place|A|Sioux County
+ND|38|27950|Four Bears Village CDP|Census Designated Place|S|McKenzie County
+ND|38|27980|Foxholm CDP|Census Designated Place|S|Ward County
+ND|38|28380|Fredonia city|Incorporated Place|A|Logan County
+ND|38|28720|Frontier city|Incorporated Place|A|Cass County
+ND|38|28780|Fullerton city|Incorporated Place|A|Dickey County
+ND|38|28860|Gackle city|Incorporated Place|A|Logan County
+ND|38|28980|Galesburg city|Incorporated Place|A|Traill County
+ND|38|29180|Gardena city|Incorporated Place|A|Bottineau County
+ND|38|29220|Gardner city|Incorporated Place|A|Cass County
+ND|38|29460|Garrison city|Incorporated Place|A|McLean County
+ND|38|29540|Gascoyne city|Incorporated Place|A|Bowman County
+ND|38|30180|Gilby city|Incorporated Place|A|Grand Forks County
+ND|38|30460|Gladstone city|Incorporated Place|A|Stark County
+ND|38|30580|Glenburn city|Incorporated Place|A|Renville County
+ND|38|30660|Glenfield city|Incorporated Place|A|Foster County
+ND|38|30860|Glen Ullin city|Incorporated Place|A|Morton County
+ND|38|31180|Golden Valley city|Incorporated Place|A|Mercer County
+ND|38|31420|Golva city|Incorporated Place|A|Golden Valley County
+ND|38|31500|Goodrich city|Incorporated Place|A|Sheridan County
+ND|38|31740|Grace City city|Incorporated Place|A|Foster County
+ND|38|31820|Grafton city|Incorporated Place|A|Walsh County
+ND|38|32060|Grand Forks city|Incorporated Place|A|Grand Forks County
+ND|38|32140|Grand Forks AFB CDP|Census Designated Place|S|Grand Forks County
+ND|38|32300|Grandin city|Incorporated Place|A|Cass County, Traill County
+ND|38|32580|Grano city|Incorporated Place|A|Renville County
+ND|38|32660|Granville city|Incorporated Place|A|McHenry County
+ND|38|32900|Great Bend city|Incorporated Place|A|Richland County
+ND|38|33050|Green Acres CDP|Census Designated Place|S|Rolette County
+ND|38|33500|Grenora city|Incorporated Place|A|Williams County
+ND|38|34020|Gwinner city|Incorporated Place|A|Sargent County
+ND|38|34180|Hague city|Incorporated Place|A|Emmons County
+ND|38|34340|Halliday city|Incorporated Place|A|Dunn County
+ND|38|34460|Hamberg city|Incorporated Place|A|Wells County
+ND|38|34620|Hamilton city|Incorporated Place|A|Pembina County
+ND|38|34860|Hampden city|Incorporated Place|A|Ramsey County
+ND|38|34900|Hankinson city|Incorporated Place|A|Richland County
+ND|38|35020|Hannaford city|Incorporated Place|A|Griggs County
+ND|38|35060|Hannah city|Incorporated Place|A|Cavalier County
+ND|38|35140|Hansboro city|Incorporated Place|A|Towner County
+ND|38|35500|Harmon CDP|Census Designated Place|S|Morton County
+ND|38|35900|Harvey city|Incorporated Place|A|Wells County
+ND|38|35940|Harwood city|Incorporated Place|A|Cass County
+ND|38|36100|Hatton city|Incorporated Place|A|Traill County
+ND|38|36140|Havana city|Incorporated Place|A|Sargent County
+ND|38|36540|Haynes city|Incorporated Place|A|Adams County
+ND|38|36700|Hazelton city|Incorporated Place|A|Emmons County
+ND|38|36780|Hazen city|Incorporated Place|A|Mercer County
+ND|38|36860|Hebron city|Incorporated Place|A|Morton County
+ND|38|36980|Heil CDP|Census Designated Place|S|Grant County
+ND|38|37020|Heimdal CDP|Census Designated Place|S|Wells County
+ND|38|37700|Hettinger city|Incorporated Place|A|Adams County
+ND|38|38100|Hillsboro city|Incorporated Place|A|Traill County
+ND|38|38780|Hoople city|Incorporated Place|A|Walsh County
+ND|38|38860|Hope city|Incorporated Place|A|Steele County
+ND|38|38900|Horace city|Incorporated Place|A|Cass County
+ND|38|39460|Hunter city|Incorporated Place|A|Cass County
+ND|38|39580|Hurdsfield city|Incorporated Place|A|Wells County
+ND|38|39980|Inkster city|Incorporated Place|A|Grand Forks County
+ND|38|40580|Jamestown city|Incorporated Place|A|Stutsman County
+ND|38|40740|Jessie CDP|Census Designated Place|S|Griggs County
+ND|38|41180|Jud city|Incorporated Place|A|LaMoure County
+ND|38|41380|Karlsruhe city|Incorporated Place|A|McHenry County
+ND|38|41500|Kathryn city|Incorporated Place|A|Barnes County
+ND|38|42020|Kenmare city|Incorporated Place|A|Ward County
+ND|38|42180|Kensal city|Incorporated Place|A|Stutsman County
+ND|38|42660|Kief city|Incorporated Place|A|McHenry County
+ND|38|42700|Killdeer city|Incorporated Place|A|Dunn County
+ND|38|42780|Kindred city|Incorporated Place|A|Cass County
+ND|38|43260|Knox city|Incorporated Place|A|Benson County
+ND|38|43500|Kramer city|Incorporated Place|A|Bottineau County
+ND|38|43580|Kulm city|Incorporated Place|A|LaMoure County
+ND|38|44300|Lakota city|Incorporated Place|A|Nelson County
+ND|38|44540|LaMoure city|Incorporated Place|A|LaMoure County
+ND|38|44700|Landa city|Incorporated Place|A|Bottineau County
+ND|38|44780|Langdon city|Incorporated Place|A|Cavalier County
+ND|38|44860|Lankin city|Incorporated Place|A|Walsh County
+ND|38|44900|Lansford city|Incorporated Place|A|Bottineau County
+ND|38|45020|Larimore city|Incorporated Place|A|Grand Forks County
+ND|38|45220|Larson CDP|Census Designated Place|S|Burke County
+ND|38|45300|Lawton city|Incorporated Place|A|Ramsey County
+ND|38|45460|Leal city|Incorporated Place|A|Barnes County
+ND|38|45580|Leeds city|Incorporated Place|A|Benson County
+ND|38|45740|Lehr city|Incorporated Place|A|Logan County, McIntosh County
+ND|38|45860|Leith city|Incorporated Place|A|Grant County
+ND|38|45980|Leonard city|Incorporated Place|A|Cass County
+ND|38|46460|Lidgerwood city|Incorporated Place|A|Richland County
+ND|38|46540|Lignite city|Incorporated Place|A|Burke County
+ND|38|46640|Lincoln city|Incorporated Place|A|Burleigh County
+ND|38|46980|Linton city|Incorporated Place|A|Emmons County
+ND|38|47100|Lisbon city|Incorporated Place|A|Ransom County
+ND|38|47140|Litchville city|Incorporated Place|A|Barnes County
+ND|38|47540|Logan CDP|Census Designated Place|S|Ward County
+ND|38|47660|Loma city|Incorporated Place|A|Cavalier County
+ND|38|48020|Loraine city|Incorporated Place|A|Renville County
+ND|38|48460|Ludden city|Incorporated Place|A|Dickey County
+ND|38|48580|Luverne city|Incorporated Place|A|Steele County
+ND|38|49020|McClusky city|Incorporated Place|A|Sheridan County
+ND|38|49260|McHenry city|Incorporated Place|A|Foster County
+ND|38|49540|McLeod CDP|Census Designated Place|S|Ransom County
+ND|38|49580|McVille city|Incorporated Place|A|Nelson County
+ND|38|49620|Maddock city|Incorporated Place|A|Benson County
+ND|38|49820|Makoti city|Incorporated Place|A|Ward County
+ND|38|49900|Mandan city|Incorporated Place|A|Morton County
+ND|38|49980|Mandaree CDP|Census Designated Place|S|McKenzie County
+ND|38|50220|Manning CDP|Census Designated Place|S|Dunn County
+ND|38|50380|Mantador city|Incorporated Place|A|Richland County
+ND|38|50420|Manvel city|Incorporated Place|A|Grand Forks County
+ND|38|50580|Mapleton city|Incorporated Place|A|Cass County
+ND|38|50780|Marion city|Incorporated Place|A|LaMoure County
+ND|38|50860|Marmarth city|Incorporated Place|A|Slope County
+ND|38|51060|Martin city|Incorporated Place|A|Sheridan County
+ND|38|51380|Max city|Incorporated Place|A|McLean County
+ND|38|51420|Maxbass city|Incorporated Place|A|Bottineau County
+ND|38|51500|Mayville city|Incorporated Place|A|Traill County
+ND|38|51860|Medina city|Incorporated Place|A|Stutsman County
+ND|38|51900|Medora city|Incorporated Place|A|Billings County
+ND|38|52180|Menoken CDP|Census Designated Place|S|Burleigh County
+ND|38|52340|Mercer city|Incorporated Place|A|McLean County
+ND|38|52740|Michigan City city|Incorporated Place|A|Nelson County
+ND|38|52940|Milnor city|Incorporated Place|A|Sargent County
+ND|38|53020|Milton city|Incorporated Place|A|Cavalier County
+ND|38|53220|Minnewaukan city|Incorporated Place|A|Benson County
+ND|38|53380|Minot city|Incorporated Place|A|Ward County
+ND|38|53420|Minot AFB CDP|Census Designated Place|S|Ward County
+ND|38|53540|Minto city|Incorporated Place|A|Walsh County
+ND|38|53780|Mohall city|Incorporated Place|A|Renville County
+ND|38|53820|Monango city|Incorporated Place|A|Dickey County
+ND|38|53980|Montpelier city|Incorporated Place|A|Stutsman County
+ND|38|54220|Mooreton city|Incorporated Place|A|Richland County
+ND|38|54620|Mott city|Incorporated Place|A|Hettinger County
+ND|38|54740|Mountain city|Incorporated Place|A|Pembina County
+ND|38|55020|Munich city|Incorporated Place|A|Cavalier County
+ND|38|55220|Mylo city|Incorporated Place|A|Rolette County
+ND|38|55420|Napoleon city|Incorporated Place|A|Logan County
+ND|38|55500|Nash CDP|Census Designated Place|S|Walsh County
+ND|38|55620|Neche city|Incorporated Place|A|Pembina County
+ND|38|55740|Nekoma city|Incorporated Place|A|Cavalier County
+ND|38|56020|Newburg city|Incorporated Place|A|Bottineau County
+ND|38|56180|New England city|Incorporated Place|A|Hettinger County
+ND|38|56420|New Leipzig city|Incorporated Place|A|Grant County
+ND|38|56620|New Rockford city|Incorporated Place|A|Eddy County
+ND|38|56700|New Salem city|Incorporated Place|A|Morton County
+ND|38|56740|New Town city|Incorporated Place|A|Mountrail County
+ND|38|56780|Niagara city|Incorporated Place|A|Grand Forks County
+ND|38|57180|Nome city|Incorporated Place|A|Barnes County
+ND|38|57220|Noonan city|Incorporated Place|A|Divide County
+ND|38|58120|North River city|Incorporated Place|A|Cass County
+ND|38|58300|Northwood city|Incorporated Place|A|Grand Forks County
+ND|38|58740|Oakes city|Incorporated Place|A|Dickey County
+ND|38|59020|Oberon city|Incorporated Place|A|Benson County
+ND|38|59660|Oriska city|Incorporated Place|A|Barnes County
+ND|38|59820|Orrin CDP|Census Designated Place|S|Pierce County
+ND|38|60100|Osnabrock city|Incorporated Place|A|Cavalier County
+ND|38|60380|Overly city|Incorporated Place|A|Bottineau County
+ND|38|60480|Oxbow city|Incorporated Place|A|Cass County
+ND|38|60500|Page city|Incorporated Place|A|Cass County
+ND|38|60620|Palermo city|Incorporated Place|A|Mountrail County
+ND|38|60900|Park River city|Incorporated Place|A|Walsh County
+ND|38|60940|Parshall city|Incorporated Place|A|Mountrail County
+ND|38|61460|Pekin city|Incorporated Place|A|Nelson County
+ND|38|61580|Pembina city|Incorporated Place|A|Pembina County
+ND|38|61780|Perth city|Incorporated Place|A|Towner County
+ND|38|61860|Petersburg city|Incorporated Place|A|Nelson County
+ND|38|62060|Pettibone city|Incorporated Place|A|Kidder County
+ND|38|62260|Pick City city|Incorporated Place|A|Mercer County
+ND|38|62540|Pillsbury city|Incorporated Place|A|Barnes County
+ND|38|62620|Pingree city|Incorporated Place|A|Stutsman County
+ND|38|62780|Pisek city|Incorporated Place|A|Walsh County
+ND|38|62980|Plaza city|Incorporated Place|A|Mountrail County
+ND|38|63700|Porcupine CDP|Census Designated Place|S|Sioux County
+ND|38|63740|Portal city|Incorporated Place|A|Burke County
+ND|38|63900|Portland city|Incorporated Place|A|Traill County
+ND|38|64140|Powers Lake city|Incorporated Place|A|Burke County
+ND|38|64320|Prairie Rose city|Incorporated Place|A|Cass County
+ND|38|65100|Raleigh CDP|Census Designated Place|S|Grant County
+ND|38|65580|Ray city|Incorporated Place|A|Williams County
+ND|38|65900|Reeder city|Incorporated Place|A|Adams County
+ND|38|65980|Regan city|Incorporated Place|A|Burleigh County
+ND|38|66020|Regent city|Incorporated Place|A|Hettinger County
+ND|38|66040|Reile's Acres city|Incorporated Place|A|Cass County
+ND|38|66260|Reynolds city|Incorporated Place|A|Grand Forks County, Traill County
+ND|38|66300|Rhame city|Incorporated Place|A|Bowman County
+ND|38|66500|Richardton city|Incorporated Place|A|Stark County
+ND|38|66980|Riverdale city|Incorporated Place|A|McLean County
+ND|38|67180|Robinson city|Incorporated Place|A|Kidder County
+ND|38|67500|Rocklake city|Incorporated Place|A|Towner County
+ND|38|67620|Rogers city|Incorporated Place|A|Barnes County
+ND|38|67780|Rolette city|Incorporated Place|A|Rolette County
+ND|38|67820|Rolla city|Incorporated Place|A|Rolette County
+ND|38|68540|Ross city|Incorporated Place|A|Mountrail County
+ND|38|68860|Rugby city|Incorporated Place|A|Pierce County
+ND|38|69140|Ruso city|Incorporated Place|A|McLean County
+ND|38|69300|Ruthville CDP|Census Designated Place|S|Ward County
+ND|38|69340|Rutland city|Incorporated Place|A|Sargent County
+ND|38|69460|Ryder city|Incorporated Place|A|Ward County
+ND|38|69980|St. John city|Incorporated Place|A|Rolette County
+ND|38|70260|St. Thomas city|Incorporated Place|A|Pembina County
+ND|38|70380|Sanborn city|Incorporated Place|A|Barnes County
+ND|38|70780|Sarles city|Incorporated Place|A|Cavalier County, Towner County
+ND|38|70980|Sawyer city|Incorporated Place|A|Ward County
+ND|38|71500|Scranton city|Incorporated Place|A|Bowman County
+ND|38|71660|Selfridge city|Incorporated Place|A|Sioux County
+ND|38|71700|Selz CDP|Census Designated Place|S|Pierce County
+ND|38|71780|Sentinel Butte city|Incorporated Place|A|Golden Valley County
+ND|38|71940|Sharon city|Incorporated Place|A|Steele County
+ND|38|72180|Sheldon city|Incorporated Place|A|Ransom County
+ND|38|72250|Shell Valley CDP|Census Designated Place|S|Rolette County
+ND|38|72540|Sherwood city|Incorporated Place|A|Renville County
+ND|38|72580|Sheyenne city|Incorporated Place|A|Eddy County
+ND|38|72820|Sibley city|Incorporated Place|A|Barnes County
+ND|38|73820|Solen city|Incorporated Place|A|Sioux County
+ND|38|74020|Souris city|Incorporated Place|A|Bottineau County
+ND|38|74185|South Heart city|Incorporated Place|A|Stark County
+ND|38|74660|Spiritwood CDP|Census Designated Place|S|Stutsman County
+ND|38|74740|Spiritwood Lake city|Incorporated Place|A|Stutsman County
+ND|38|74780|Springbrook city|Incorporated Place|A|Williams County
+ND|38|75380|Stanley city|Incorporated Place|A|Mountrail County
+ND|38|75420|Stanton city|Incorporated Place|A|Mercer County
+ND|38|75580|Starkweather city|Incorporated Place|A|Ramsey County
+ND|38|75780|Steele city|Incorporated Place|A|Kidder County
+ND|38|76500|Strasburg city|Incorporated Place|A|Emmons County
+ND|38|76620|Streeter city|Incorporated Place|A|Stutsman County
+ND|38|77180|Surrey city|Incorporated Place|A|Ward County
+ND|38|77260|Sutton CDP|Census Designated Place|S|Griggs County
+ND|38|77660|Sykeston city|Incorporated Place|A|Wells County
+ND|38|77980|Tappen city|Incorporated Place|A|Kidder County
+ND|38|78180|Taylor city|Incorporated Place|A|Stark County
+ND|38|78660|Thompson city|Incorporated Place|A|Grand Forks County
+ND|38|78940|Tioga city|Incorporated Place|A|Williams County
+ND|38|79140|Tolley city|Incorporated Place|A|Renville County
+ND|38|79180|Tolna city|Incorporated Place|A|Nelson County
+ND|38|79340|Tower City city|Incorporated Place|A|Barnes County, Cass County
+ND|38|79420|Towner city|Incorporated Place|A|McHenry County
+ND|38|79940|Turtle Lake city|Incorporated Place|A|McLean County
+ND|38|80140|Tuttle city|Incorporated Place|A|Kidder County
+ND|38|80660|Underwood city|Incorporated Place|A|McLean County
+ND|38|80860|Upham city|Incorporated Place|A|McHenry County
+ND|38|81180|Valley City city|Incorporated Place|A|Barnes County
+ND|38|81620|Velva city|Incorporated Place|A|McHenry County
+ND|38|81700|Venturia city|Incorporated Place|A|McIntosh County
+ND|38|81900|Verona city|Incorporated Place|A|LaMoure County
+ND|38|82380|Voltaire city|Incorporated Place|A|McHenry County
+ND|38|82660|Wahpeton city|Incorporated Place|A|Richland County
+ND|38|82780|Walcott city|Incorporated Place|A|Richland County
+ND|38|82940|Wales city|Incorporated Place|A|Cavalier County
+ND|38|82980|Walhalla city|Incorporated Place|A|Pembina County
+ND|38|83580|Warwick city|Incorporated Place|A|Benson County
+ND|38|83700|Washburn city|Incorporated Place|A|McLean County
+ND|38|83860|Watford City city|Incorporated Place|A|McKenzie County
+ND|38|84780|West Fargo city|Incorporated Place|A|Cass County
+ND|38|85020|Westhope city|Incorporated Place|A|Bottineau County
+ND|38|85180|Wheatland CDP|Census Designated Place|S|Cass County
+ND|38|85540|White Earth city|Incorporated Place|A|Mountrail County
+ND|38|85660|White Shield CDP|Census Designated Place|S|McLean County
+ND|38|86020|Wildrose city|Incorporated Place|A|Williams County
+ND|38|86220|Williston city|Incorporated Place|A|Williams County
+ND|38|86380|Willow City city|Incorporated Place|A|Bottineau County
+ND|38|86580|Wilton city|Incorporated Place|A|Burleigh County, McLean County
+ND|38|86620|Wimbledon city|Incorporated Place|A|Barnes County
+ND|38|86780|Wing city|Incorporated Place|A|Burleigh County
+ND|38|87020|Wishek city|Incorporated Place|A|McIntosh County
+ND|38|87180|Wolford city|Incorporated Place|A|Pierce County
+ND|38|87580|Woodworth city|Incorporated Place|A|Stutsman County
+ND|38|87740|Wyndmere city|Incorporated Place|A|Richland County
+ND|38|87860|York city|Incorporated Place|A|Benson County
+ND|38|88020|Ypsilanti CDP|Census Designated Place|S|Stutsman County
+ND|38|88140|Zap city|Incorporated Place|A|Mercer County
+ND|38|88180|Zeeland city|Incorporated Place|A|McIntosh County

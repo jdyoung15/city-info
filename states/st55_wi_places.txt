@@ -1,0 +1,2637 @@
+WI|55|00000|County Subdivisions not defined|County Subdivision|F|Ashland County
+WI|55|00000|County Subdivisions not defined|County Subdivision|F|Bayfield County
+WI|55|00000|County Subdivisions not defined|County Subdivision|F|Door County
+WI|55|00000|County Subdivisions not defined|County Subdivision|F|Douglas County
+WI|55|00000|County Subdivisions not defined|County Subdivision|F|Iron County
+WI|55|00000|County Subdivisions not defined|County Subdivision|F|Kenosha County
+WI|55|00000|County Subdivisions not defined|County Subdivision|F|Kewaunee County
+WI|55|00000|County Subdivisions not defined|County Subdivision|F|Manitowoc County
+WI|55|00000|County Subdivisions not defined|County Subdivision|F|Milwaukee County
+WI|55|00000|County Subdivisions not defined|County Subdivision|F|Oconto County
+WI|55|00000|County Subdivisions not defined|County Subdivision|F|Ozaukee County
+WI|55|00000|County Subdivisions not defined|County Subdivision|F|Racine County
+WI|55|00000|County Subdivisions not defined|County Subdivision|F|Sheboygan County
+WI|55|00100|Abbotsford city|County Subdivision|F|Clark County, Marathon County
+WI|55|00100|Abbotsford city|Incorporated Place|A|Clark County, Marathon County
+WI|55|00150|Abrams CDP|Census Designated Place|S|Oconto County
+WI|55|00175|Abrams town|County Subdivision|A|Oconto County
+WI|55|00225|Ackley town|County Subdivision|A|Langlade County
+WI|55|00275|Adams city|County Subdivision|F|Adams County
+WI|55|00275|Adams city|Incorporated Place|A|Adams County
+WI|55|00300|Adams town|County Subdivision|A|Adams County
+WI|55|00325|Adams town|County Subdivision|A|Green County
+WI|55|00350|Adams town|County Subdivision|A|Jackson County
+WI|55|00425|Addison town|County Subdivision|A|Washington County
+WI|55|00450|Adell village|County Subdivision|F|Sheboygan County
+WI|55|00450|Adell village|Incorporated Place|A|Sheboygan County
+WI|55|00475|Adrian town|County Subdivision|A|Monroe County
+WI|55|00550|Agenda town|County Subdivision|A|Ashland County
+WI|55|00600|Ahnapee town|County Subdivision|A|Kewaunee County
+WI|55|00625|Ainsworth town|County Subdivision|A|Langlade County
+WI|55|00675|Akan town|County Subdivision|A|Richland County
+WI|55|00725|Alban town|County Subdivision|A|Portage County
+WI|55|00750|Albany village|County Subdivision|F|Green County
+WI|55|00750|Albany village|Incorporated Place|A|Green County
+WI|55|00775|Albany town|County Subdivision|A|Green County
+WI|55|00800|Albany town|County Subdivision|A|Pepin County
+WI|55|00875|Albion town|County Subdivision|A|Dane County
+WI|55|00900|Albion town|County Subdivision|A|Jackson County
+WI|55|00925|Albion town|County Subdivision|A|Trempealeau County
+WI|55|00950|Alden town|County Subdivision|A|Polk County
+WI|55|01000|Algoma city|County Subdivision|F|Kewaunee County
+WI|55|01000|Algoma city|Incorporated Place|A|Kewaunee County
+WI|55|01025|Algoma town|County Subdivision|A|Winnebago County
+WI|55|01100|Allenton CDP|Census Designated Place|S|Washington County
+WI|55|01150|Allouez village|County Subdivision|F|Brown County
+WI|55|01150|Allouez village|Incorporated Place|A|Brown County
+WI|55|01225|Alma city|County Subdivision|F|Buffalo County
+WI|55|01225|Alma city|Incorporated Place|A|Buffalo County
+WI|55|01250|Alma town|County Subdivision|A|Buffalo County
+WI|55|01275|Alma town|County Subdivision|A|Jackson County
+WI|55|01300|Alma Center village|County Subdivision|F|Jackson County
+WI|55|01300|Alma Center village|Incorporated Place|A|Jackson County
+WI|55|01325|Almena village|County Subdivision|F|Barron County
+WI|55|01325|Almena village|Incorporated Place|A|Barron County
+WI|55|01350|Almena town|County Subdivision|A|Barron County
+WI|55|01375|Almon town|County Subdivision|A|Shawano County
+WI|55|01400|Almond village|County Subdivision|F|Portage County
+WI|55|01400|Almond village|Incorporated Place|A|Portage County
+WI|55|01425|Almond town|County Subdivision|A|Portage County
+WI|55|01525|Alto town|County Subdivision|A|Fond du Lac County
+WI|55|01550|Altoona city|County Subdivision|F|Eau Claire County
+WI|55|01550|Altoona city|Incorporated Place|A|Eau Claire County
+WI|55|01625|Alvin town|County Subdivision|A|Forest County
+WI|55|01650|Amberg CDP|Census Designated Place|S|Marinette County
+WI|55|01675|Amberg town|County Subdivision|A|Marinette County
+WI|55|01725|Amery city|County Subdivision|F|Polk County
+WI|55|01725|Amery city|Incorporated Place|A|Polk County
+WI|55|01750|Amherst village|County Subdivision|F|Portage County
+WI|55|01750|Amherst village|Incorporated Place|A|Portage County
+WI|55|01775|Amherst town|County Subdivision|A|Portage County
+WI|55|01800|Amherst Junction village|County Subdivision|F|Portage County
+WI|55|01800|Amherst Junction village|Incorporated Place|A|Portage County
+WI|55|01825|Amnicon town|County Subdivision|A|Douglas County
+WI|55|01900|Anderson town|County Subdivision|A|Burnett County
+WI|55|01925|Anderson town|County Subdivision|A|Iron County
+WI|55|01950|Angelica CDP|Census Designated Place|S|Shawano County
+WI|55|01975|Angelica town|County Subdivision|A|Shawano County
+WI|55|02025|Angelo town|County Subdivision|A|Monroe County
+WI|55|02075|Aniwa village|County Subdivision|F|Shawano County
+WI|55|02075|Aniwa village|Incorporated Place|A|Shawano County
+WI|55|02100|Aniwa town|County Subdivision|A|Shawano County
+WI|55|02175|Anson town|County Subdivision|A|Chippewa County
+WI|55|02250|Antigo city|County Subdivision|F|Langlade County
+WI|55|02250|Antigo city|Incorporated Place|A|Langlade County
+WI|55|02275|Antigo town|County Subdivision|A|Langlade County
+WI|55|02350|Apple River town|County Subdivision|A|Polk County
+WI|55|02375|Appleton city|County Subdivision|F|Calumet County, Outagamie County, Winnebago County
+WI|55|02375|Appleton city|Incorporated Place|A|Calumet County, Outagamie County, Winnebago County
+WI|55|02450|Arbor Vitae town|County Subdivision|A|Vilas County
+WI|55|02500|Arcadia city|County Subdivision|F|Trempealeau County
+WI|55|02500|Arcadia city|Incorporated Place|A|Trempealeau County
+WI|55|02525|Arcadia town|County Subdivision|A|Trempealeau County
+WI|55|02550|Arena village|County Subdivision|F|Iowa County
+WI|55|02550|Arena village|Incorporated Place|A|Iowa County
+WI|55|02575|Arena town|County Subdivision|A|Iowa County
+WI|55|02600|Argonne CDP|Census Designated Place|S|Forest County
+WI|55|02625|Argonne town|County Subdivision|A|Forest County
+WI|55|02650|Argyle village|County Subdivision|F|Lafayette County
+WI|55|02650|Argyle village|Incorporated Place|A|Lafayette County
+WI|55|02675|Argyle town|County Subdivision|A|Lafayette County
+WI|55|02700|Arkansaw CDP|Census Designated Place|S|Pepin County
+WI|55|02725|Arkdale CDP|Census Designated Place|S|Adams County
+WI|55|02775|Arland town|County Subdivision|A|Barron County
+WI|55|02800|Arlington village|County Subdivision|F|Columbia County
+WI|55|02800|Arlington village|Incorporated Place|A|Columbia County
+WI|55|02825|Arlington town|County Subdivision|A|Columbia County
+WI|55|02850|Armenia town|County Subdivision|A|Juneau County
+WI|55|02950|Armstrong Creek town|County Subdivision|A|Forest County
+WI|55|03025|Arpin village|County Subdivision|F|Wood County
+WI|55|03025|Arpin village|Incorporated Place|A|Wood County
+WI|55|03050|Arpin town|County Subdivision|A|Wood County
+WI|55|03075|Arthur town|County Subdivision|A|Chippewa County
+WI|55|03150|Ashford town|County Subdivision|A|Fond du Lac County
+WI|55|03175|Ashippun CDP|Census Designated Place|S|Dodge County
+WI|55|03200|Ashippun town|County Subdivision|A|Dodge County
+WI|55|03225|Ashland city|County Subdivision|F|Ashland County, Bayfield County
+WI|55|03225|Ashland city|Incorporated Place|A|Ashland County, Bayfield County
+WI|55|03250|Ashland town|County Subdivision|A|Ashland County
+WI|55|03425|Ashwaubenon village|County Subdivision|F|Brown County
+WI|55|03425|Ashwaubenon village|Incorporated Place|A|Brown County
+WI|55|03525|Athelstane town|County Subdivision|A|Marinette County
+WI|55|03550|Athens village|County Subdivision|F|Marathon County
+WI|55|03550|Athens village|Incorporated Place|A|Marathon County
+WI|55|03600|Atlanta town|County Subdivision|A|Rusk County
+WI|55|03725|Auburn town|County Subdivision|A|Chippewa County
+WI|55|03750|Auburn town|County Subdivision|A|Fond du Lac County
+WI|55|03775|Auburndale village|County Subdivision|F|Wood County
+WI|55|03775|Auburndale village|Incorporated Place|A|Wood County
+WI|55|03800|Auburndale town|County Subdivision|A|Wood County
+WI|55|03825|Augusta city|County Subdivision|F|Eau Claire County
+WI|55|03825|Augusta city|Incorporated Place|A|Eau Claire County
+WI|55|03875|Aurora town|County Subdivision|A|Florence County
+WI|55|03900|Aurora town|County Subdivision|A|Taylor County
+WI|55|03925|Aurora town|County Subdivision|A|Waushara County
+WI|55|04025|Avoca village|County Subdivision|F|Iowa County
+WI|55|04025|Avoca village|Incorporated Place|A|Iowa County
+WI|55|04100|Avon town|County Subdivision|A|Rock County
+WI|55|04125|Aztalan town|County Subdivision|A|Jefferson County
+WI|55|04150|Babcock CDP|Census Designated Place|S|Wood County
+WI|55|04250|Bagley village|County Subdivision|F|Grant County
+WI|55|04250|Bagley village|Incorporated Place|A|Grant County
+WI|55|04275|Bagley town|County Subdivision|A|Oconto County
+WI|55|04300|Baileys Harbor CDP|Census Designated Place|S|Door County
+WI|55|04325|Baileys Harbor town|County Subdivision|A|Door County
+WI|55|04400|Baldwin village|County Subdivision|F|St. Croix County
+WI|55|04400|Baldwin village|Incorporated Place|A|St. Croix County
+WI|55|04425|Baldwin town|County Subdivision|A|St. Croix County
+WI|55|04475|Balsam Lake village|County Subdivision|F|Polk County
+WI|55|04475|Balsam Lake village|Incorporated Place|A|Polk County
+WI|55|04500|Balsam Lake town|County Subdivision|A|Polk County
+WI|55|04525|Bancroft CDP|Census Designated Place|S|Portage County
+WI|55|04550|Bangor village|County Subdivision|F|La Crosse County
+WI|55|04550|Bangor village|Incorporated Place|A|La Crosse County
+WI|55|04575|Bangor town|County Subdivision|A|La Crosse County
+WI|55|04625|Baraboo city|County Subdivision|F|Sauk County
+WI|55|04625|Baraboo city|Incorporated Place|A|Sauk County
+WI|55|04650|Baraboo town|County Subdivision|A|Sauk County
+WI|55|04725|Barksdale town|County Subdivision|A|Bayfield County
+WI|55|04750|Barnes town|County Subdivision|A|Bayfield County
+WI|55|04775|Barneveld village|County Subdivision|F|Iowa County
+WI|55|04775|Barneveld village|Incorporated Place|A|Iowa County
+WI|55|04825|Barre town|County Subdivision|A|La Crosse County
+WI|55|04875|Barron city|County Subdivision|F|Barron County
+WI|55|04875|Barron city|Incorporated Place|A|Barron County
+WI|55|04900|Barron town|County Subdivision|A|Barron County
+WI|55|04925|Barronett CDP|Census Designated Place|S|Barron County
+WI|55|04950|Barronett town|County Subdivision|A|Washburn County
+WI|55|05000|Bartelme town|County Subdivision|A|Shawano County
+WI|55|05050|Barton town|County Subdivision|A|Washington County
+WI|55|05125|Bashaw town|County Subdivision|A|Washburn County
+WI|55|05200|Bass Lake town|County Subdivision|A|Sawyer County
+WI|55|05225|Bass Lake town|County Subdivision|A|Washburn County
+WI|55|05325|Bay City village|County Subdivision|F|Pierce County
+WI|55|05325|Bay City village|Incorporated Place|A|Pierce County
+WI|55|05350|Bayfield city|County Subdivision|F|Bayfield County
+WI|55|05350|Bayfield city|Incorporated Place|A|Bayfield County
+WI|55|05375|Bayfield town|County Subdivision|A|Bayfield County
+WI|55|05450|Bayside village|County Subdivision|F|Milwaukee County, Ozaukee County
+WI|55|05450|Bayside village|Incorporated Place|A|Milwaukee County, Ozaukee County
+WI|55|05475|Bayview town|County Subdivision|A|Bayfield County
+WI|55|05550|Bear Bluff town|County Subdivision|A|Jackson County
+WI|55|05575|Bear Creek village|County Subdivision|F|Outagamie County
+WI|55|05575|Bear Creek village|Incorporated Place|A|Outagamie County
+WI|55|05600|Bear Creek town|County Subdivision|A|Sauk County
+WI|55|05625|Bear Creek town|County Subdivision|A|Waupaca County
+WI|55|05650|Bear Lake town|County Subdivision|A|Barron County
+WI|55|05750|Beaver town|County Subdivision|A|Clark County
+WI|55|05800|Beaver town|County Subdivision|A|Marinette County
+WI|55|05825|Beaver town|County Subdivision|A|Polk County
+WI|55|05875|Beaver Brook town|County Subdivision|A|Washburn County
+WI|55|05900|Beaver Dam city|County Subdivision|F|Dodge County
+WI|55|05900|Beaver Dam city|Incorporated Place|A|Dodge County
+WI|55|05925|Beaver Dam town|County Subdivision|A|Dodge County
+WI|55|06000|Beecher town|County Subdivision|A|Marinette County
+WI|55|06100|Beetown town|County Subdivision|A|Grant County
+WI|55|06150|Belgium village|County Subdivision|F|Ozaukee County
+WI|55|06150|Belgium village|Incorporated Place|A|Ozaukee County
+WI|55|06175|Belgium town|County Subdivision|A|Ozaukee County
+WI|55|06200|Bell town|County Subdivision|A|Bayfield County
+WI|55|06225|Bell Center village|County Subdivision|F|Crawford County
+WI|55|06225|Bell Center village|Incorporated Place|A|Crawford County
+WI|55|06275|Belle Plaine town|County Subdivision|A|Shawano County
+WI|55|06300|Belleville village|County Subdivision|F|Dane County, Green County
+WI|55|06300|Belleville village|Incorporated Place|A|Dane County, Green County
+WI|55|06350|Bellevue village|County Subdivision|F|Brown County
+WI|55|06350|Bellevue village|Incorporated Place|A|Brown County
+WI|55|06425|Belmont village|County Subdivision|F|Lafayette County
+WI|55|06425|Belmont village|Incorporated Place|A|Lafayette County
+WI|55|06450|Belmont town|County Subdivision|A|Lafayette County
+WI|55|06475|Belmont town|County Subdivision|A|Portage County
+WI|55|06500|Beloit city|County Subdivision|F|Rock County
+WI|55|06500|Beloit city|Incorporated Place|A|Rock County
+WI|55|06525|Beloit town|County Subdivision|A|Rock County
+WI|55|06675|Belvidere town|County Subdivision|A|Buffalo County
+WI|55|06775|Bennett town|County Subdivision|A|Douglas County
+WI|55|06825|Benton village|County Subdivision|F|Lafayette County
+WI|55|06825|Benton village|Incorporated Place|A|Lafayette County
+WI|55|06850|Benton town|County Subdivision|A|Lafayette County
+WI|55|06875|Bergen town|County Subdivision|A|Marathon County
+WI|55|06900|Bergen town|County Subdivision|A|Vernon County
+WI|55|06925|Berlin city|County Subdivision|F|Green Lake County, Waushara County
+WI|55|06925|Berlin city|Incorporated Place|A|Green Lake County, Waushara County
+WI|55|06950|Berlin town|County Subdivision|A|Green Lake County
+WI|55|06975|Berlin town|County Subdivision|A|Marathon County
+WI|55|07000|Bern town|County Subdivision|A|Marathon County
+WI|55|07025|Berry town|County Subdivision|A|Dane County
+WI|55|07125|Bevent town|County Subdivision|A|Marathon County
+WI|55|07175|Big Bend town|County Subdivision|A|Rusk County
+WI|55|07200|Big Bend village|County Subdivision|F|Waukesha County
+WI|55|07200|Big Bend village|Incorporated Place|A|Waukesha County
+WI|55|07225|Big Falls town|County Subdivision|A|Rusk County
+WI|55|07250|Big Falls village|County Subdivision|F|Waupaca County
+WI|55|07250|Big Falls village|Incorporated Place|A|Waupaca County
+WI|55|07300|Big Flats town|County Subdivision|A|Adams County
+WI|55|07500|Birch town|County Subdivision|A|Lincoln County
+WI|55|07525|Birch Creek town|County Subdivision|A|Chippewa County
+WI|55|07532|Birch Hill CDP|Census Designated Place|S|Ashland County
+WI|55|07550|Birchwood village|County Subdivision|F|Washburn County
+WI|55|07550|Birchwood village|Incorporated Place|A|Washburn County
+WI|55|07575|Birchwood town|County Subdivision|A|Washburn County
+WI|55|07600|Birnamwood village|County Subdivision|F|Marathon County, Shawano County
+WI|55|07600|Birnamwood village|Incorporated Place|A|Marathon County, Shawano County
+WI|55|07625|Birnamwood town|County Subdivision|A|Shawano County
+WI|55|07650|Biron village|County Subdivision|F|Wood County
+WI|55|07650|Biron village|Incorporated Place|A|Wood County
+WI|55|07700|Black Brook town|County Subdivision|A|Polk County
+WI|55|07725|Black Creek village|County Subdivision|F|Outagamie County
+WI|55|07725|Black Creek village|Incorporated Place|A|Outagamie County
+WI|55|07750|Black Creek town|County Subdivision|A|Outagamie County
+WI|55|07800|Black Earth village|County Subdivision|F|Dane County
+WI|55|07800|Black Earth village|Incorporated Place|A|Dane County
+WI|55|07825|Black Earth town|County Subdivision|A|Dane County
+WI|55|07900|Black River Falls city|County Subdivision|F|Jackson County
+WI|55|07900|Black River Falls city|Incorporated Place|A|Jackson County
+WI|55|07950|Blackwell town|County Subdivision|A|Forest County
+WI|55|08000|Black Wolf town|County Subdivision|A|Winnebago County
+WI|55|08025|Blaine town|County Subdivision|A|Burnett County
+WI|55|08075|Blair city|County Subdivision|F|Trempealeau County
+WI|55|08075|Blair city|Incorporated Place|A|Trempealeau County
+WI|55|08100|Blanchard town|County Subdivision|A|Lafayette County
+WI|55|08125|Blanchardville village|County Subdivision|F|Iowa County, Lafayette County
+WI|55|08125|Blanchardville village|Incorporated Place|A|Iowa County, Lafayette County
+WI|55|08175|Bloom town|County Subdivision|A|Richland County
+WI|55|08225|Bloomer city|County Subdivision|F|Chippewa County
+WI|55|08225|Bloomer city|Incorporated Place|A|Chippewa County
+WI|55|08250|Bloomer town|County Subdivision|A|Chippewa County
+WI|55|08275|Bloomfield town|County Subdivision|A|Walworth County
+WI|55|08300|Bloomfield town|County Subdivision|A|Waushara County
+WI|55|08350|Blooming Grove town|County Subdivision|A|Dane County
+WI|55|08375|Bloomington village|County Subdivision|F|Grant County
+WI|55|08375|Bloomington village|Incorporated Place|A|Grant County
+WI|55|08400|Bloomington town|County Subdivision|A|Grant County
+WI|55|08475|Blue Mounds village|County Subdivision|F|Dane County
+WI|55|08475|Blue Mounds village|Incorporated Place|A|Dane County
+WI|55|08500|Blue Mounds town|County Subdivision|A|Dane County
+WI|55|08525|Blue River village|County Subdivision|F|Grant County
+WI|55|08525|Blue River village|Incorporated Place|A|Grant County
+WI|55|08560|Bluffview CDP|Census Designated Place|S|Sauk County
+WI|55|08600|Boaz village|County Subdivision|F|Richland County
+WI|55|08600|Boaz village|Incorporated Place|A|Richland County
+WI|55|08625|Bohners Lake CDP|Census Designated Place|S|Racine County
+WI|55|08725|Bonduel village|County Subdivision|F|Shawano County
+WI|55|08725|Bonduel village|Incorporated Place|A|Shawano County
+WI|55|08750|Bone Lake town|County Subdivision|A|Polk County
+WI|55|08850|Boscobel city|County Subdivision|F|Grant County
+WI|55|08850|Boscobel city|Incorporated Place|A|Grant County
+WI|55|08875|Boscobel town|County Subdivision|A|Grant County
+WI|55|08925|Boulder Junction CDP|Census Designated Place|S|Vilas County
+WI|55|08950|Boulder Junction town|County Subdivision|A|Vilas County
+WI|55|08975|Bovina town|County Subdivision|A|Outagamie County
+WI|55|09025|Bowler village|County Subdivision|F|Shawano County
+WI|55|09025|Bowler village|Incorporated Place|A|Shawano County
+WI|55|09050|Boyceville village|County Subdivision|F|Dunn County
+WI|55|09050|Boyceville village|Incorporated Place|A|Dunn County
+WI|55|09075|Boyd village|County Subdivision|F|Chippewa County
+WI|55|09075|Boyd village|Incorporated Place|A|Chippewa County
+WI|55|09175|Bradford town|County Subdivision|A|Rock County
+WI|55|09225|Bradley town|County Subdivision|A|Lincoln County
+WI|55|09300|Brandon village|County Subdivision|F|Fond du Lac County
+WI|55|09300|Brandon village|Incorporated Place|A|Fond du Lac County
+WI|55|09375|Brazeau town|County Subdivision|A|Oconto County
+WI|55|09425|Breed town|County Subdivision|A|Oconto County
+WI|55|09465|Brice Prairie CDP|Census Designated Place|S|La Crosse County
+WI|55|09500|Bridge Creek town|County Subdivision|A|Eau Claire County
+WI|55|09550|Bridgeport town|County Subdivision|A|Crawford County
+WI|55|09600|Brigham town|County Subdivision|A|Iowa County
+WI|55|09635|Brighton town|County Subdivision|A|Kenosha County
+WI|55|09650|Brighton town|County Subdivision|A|Marathon County
+WI|55|09725|Brillion city|County Subdivision|F|Calumet County
+WI|55|09725|Brillion city|Incorporated Place|A|Calumet County
+WI|55|09750|Brillion town|County Subdivision|A|Calumet County
+WI|55|09775|Bristol town|County Subdivision|A|Dane County
+WI|55|09800|Bristol village|County Subdivision|F|Kenosha County
+WI|55|09800|Bristol village|Incorporated Place|A|Kenosha County
+WI|55|09825|Bristol town|County Subdivision|A|Kenosha County
+WI|55|09900|Brockway town|County Subdivision|A|Jackson County
+WI|55|09925|Brodhead city|County Subdivision|F|Green County, Rock County
+WI|55|09925|Brodhead city|Incorporated Place|A|Green County, Rock County
+WI|55|09975|Brokaw village|County Subdivision|F|Marathon County
+WI|55|09975|Brokaw village|Incorporated Place|A|Marathon County
+WI|55|10025|Brookfield city|County Subdivision|F|Waukesha County
+WI|55|10025|Brookfield city|Incorporated Place|A|Waukesha County
+WI|55|10050|Brookfield town|County Subdivision|A|Waukesha County
+WI|55|10075|Brooklyn village|County Subdivision|F|Dane County, Green County
+WI|55|10075|Brooklyn village|Incorporated Place|A|Dane County, Green County
+WI|55|10100|Brooklyn town|County Subdivision|A|Green County
+WI|55|10125|Brooklyn town|County Subdivision|A|Green Lake County
+WI|55|10150|Brooklyn town|County Subdivision|A|Washburn County
+WI|55|10350|Brothertown town|County Subdivision|A|Calumet County
+WI|55|10375|Brown Deer village|County Subdivision|F|Milwaukee County
+WI|55|10375|Brown Deer village|Incorporated Place|A|Milwaukee County
+WI|55|10400|Browning town|County Subdivision|A|Taylor County
+WI|55|10425|Browns Lake CDP|Census Designated Place|S|Racine County
+WI|55|10450|Brownsville village|County Subdivision|F|Dodge County
+WI|55|10450|Brownsville village|Incorporated Place|A|Dodge County
+WI|55|10475|Browntown village|County Subdivision|F|Green County
+WI|55|10475|Browntown village|Incorporated Place|A|Green County
+WI|55|10500|Bruce village|County Subdivision|F|Rusk County
+WI|55|10500|Bruce village|Incorporated Place|A|Rusk County
+WI|55|10550|Brule CDP|Census Designated Place|S|Douglas County
+WI|55|10575|Brule town|County Subdivision|A|Douglas County
+WI|55|10625|Brunswick town|County Subdivision|A|Eau Claire County
+WI|55|10700|Brussels town|County Subdivision|A|Door County
+WI|55|10750|Buchanan town|County Subdivision|A|Outagamie County
+WI|55|10925|Buena Vista town|County Subdivision|A|Portage County
+WI|55|10950|Buena Vista town|County Subdivision|A|Richland County
+WI|55|11025|Buffalo town|County Subdivision|A|Buffalo County
+WI|55|11050|Buffalo town|County Subdivision|A|Marquette County
+WI|55|11062|Buffalo City city|County Subdivision|F|Buffalo County
+WI|55|11062|Buffalo City city|Incorporated Place|A|Buffalo County
+WI|55|11150|Burke town|County Subdivision|A|Dane County
+WI|55|11200|Burlington city|County Subdivision|F|Racine County, Walworth County
+WI|55|11200|Burlington city|Incorporated Place|A|Racine County, Walworth County
+WI|55|11225|Burlington town|County Subdivision|A|Racine County
+WI|55|11250|Burnett CDP|Census Designated Place|S|Dodge County
+WI|55|11275|Burnett town|County Subdivision|A|Dodge County
+WI|55|11300|Burns town|County Subdivision|A|La Crosse County
+WI|55|11325|Burnside town|County Subdivision|A|Trempealeau County
+WI|55|11425|Butler town|County Subdivision|A|Clark County
+WI|55|11475|Butler village|County Subdivision|F|Waukesha County
+WI|55|11475|Butler village|Incorporated Place|A|Waukesha County
+WI|55|11500|Butte des Morts CDP|Census Designated Place|S|Winnebago County
+WI|55|11525|Butternut village|County Subdivision|F|Ashland County
+WI|55|11525|Butternut village|Incorporated Place|A|Ashland County
+WI|55|11600|Byron town|County Subdivision|A|Fond du Lac County
+WI|55|11625|Byron town|County Subdivision|A|Monroe County
+WI|55|11650|Cable CDP|Census Designated Place|S|Bayfield County
+WI|55|11675|Cable town|County Subdivision|A|Bayfield County
+WI|55|11725|Cadiz town|County Subdivision|A|Green County
+WI|55|11750|Cadott village|County Subdivision|F|Chippewa County
+WI|55|11750|Cadott village|Incorporated Place|A|Chippewa County
+WI|55|11775|Cady town|County Subdivision|A|St. Croix County
+WI|55|11850|Calamus town|County Subdivision|A|Dodge County
+WI|55|11900|Caledonia town|County Subdivision|A|Columbia County
+WI|55|11950|Caledonia village|County Subdivision|F|Racine County
+WI|55|11950|Caledonia village|Incorporated Place|A|Racine County
+WI|55|11975|Caledonia town|County Subdivision|A|Trempealeau County
+WI|55|12000|Caledonia town|County Subdivision|A|Waupaca County
+WI|55|12075|Calumet town|County Subdivision|A|Fond du Lac County
+WI|55|12200|Cambria village|County Subdivision|F|Columbia County
+WI|55|12200|Cambria village|Incorporated Place|A|Columbia County
+WI|55|12225|Cambridge village|County Subdivision|F|Dane County, Jefferson County
+WI|55|12225|Cambridge village|Incorporated Place|A|Dane County, Jefferson County
+WI|55|12250|Cameron village|County Subdivision|F|Barron County
+WI|55|12250|Cameron village|Incorporated Place|A|Barron County
+WI|55|12275|Cameron town|County Subdivision|A|Wood County
+WI|55|12300|Campbell town|County Subdivision|A|La Crosse County
+WI|55|12325|Campbellsport village|County Subdivision|F|Fond du Lac County
+WI|55|12325|Campbellsport village|Incorporated Place|A|Fond du Lac County
+WI|55|12350|Camp Douglas village|County Subdivision|F|Juneau County
+WI|55|12350|Camp Douglas village|Incorporated Place|A|Juneau County
+WI|55|12400|Camp Lake CDP|Census Designated Place|S|Kenosha County
+WI|55|12500|Canton town|County Subdivision|A|Buffalo County
+WI|55|12525|Carey town|County Subdivision|A|Iron County
+WI|55|12575|Carlton town|County Subdivision|A|Kewaunee County
+WI|55|12675|Caroline CDP|Census Designated Place|S|Shawano County
+WI|55|12725|Carson town|County Subdivision|A|Portage County
+WI|55|12775|Cary town|County Subdivision|A|Wood County
+WI|55|12825|Cascade village|County Subdivision|F|Sheboygan County
+WI|55|12825|Cascade village|Incorporated Place|A|Sheboygan County
+WI|55|12850|Casco village|County Subdivision|F|Kewaunee County
+WI|55|12850|Casco village|Incorporated Place|A|Kewaunee County
+WI|55|12875|Casco town|County Subdivision|A|Kewaunee County
+WI|55|12925|Casey town|County Subdivision|A|Washburn County
+WI|55|12950|Cashton village|County Subdivision|F|Monroe County
+WI|55|12950|Cashton village|Incorporated Place|A|Monroe County
+WI|55|12975|Cassel town|County Subdivision|A|Marathon County
+WI|55|13025|Cassian town|County Subdivision|A|Oneida County
+WI|55|13050|Cassville village|County Subdivision|F|Grant County
+WI|55|13050|Cassville village|Incorporated Place|A|Grant County
+WI|55|13075|Cassville town|County Subdivision|A|Grant County
+WI|55|13100|Castle Rock town|County Subdivision|A|Grant County
+WI|55|13125|Caswell town|County Subdivision|A|Forest County
+WI|55|13150|Cataract CDP|Census Designated Place|S|Monroe County
+WI|55|13175|Catawba village|County Subdivision|F|Price County
+WI|55|13175|Catawba village|Incorporated Place|A|Price County
+WI|55|13200|Catawba town|County Subdivision|A|Price County
+WI|55|13237|Cato town|County Subdivision|A|Manitowoc County
+WI|55|13300|Cazenovia village|County Subdivision|F|Richland County, Sauk County
+WI|55|13300|Cazenovia village|Incorporated Place|A|Richland County, Sauk County
+WI|55|13325|Cecil village|County Subdivision|F|Shawano County
+WI|55|13325|Cecil village|Incorporated Place|A|Shawano County
+WI|55|13375|Cedarburg city|County Subdivision|F|Ozaukee County
+WI|55|13375|Cedarburg city|Incorporated Place|A|Ozaukee County
+WI|55|13400|Cedarburg town|County Subdivision|A|Ozaukee County
+WI|55|13475|Cedar Grove village|County Subdivision|F|Sheboygan County
+WI|55|13475|Cedar Grove village|Incorporated Place|A|Sheboygan County
+WI|55|13500|Cedar Lake town|County Subdivision|A|Barron County
+WI|55|13550|Cedar Rapids town|County Subdivision|A|Rusk County
+WI|55|13600|Center town|County Subdivision|A|Outagamie County
+WI|55|13625|Center town|County Subdivision|A|Rock County
+WI|55|13750|Centerville town|County Subdivision|A|Manitowoc County
+WI|55|13850|Centuria village|County Subdivision|F|Polk County
+WI|55|13850|Centuria village|Incorporated Place|A|Polk County
+WI|55|13880|Chain O' Lakes CDP|Census Designated Place|S|Waupaca County
+WI|55|14000|Charlestown town|County Subdivision|A|Calumet County
+WI|55|14125|Chase town|County Subdivision|A|Oconto County
+WI|55|14150|Chaseburg village|County Subdivision|F|Vernon County
+WI|55|14150|Chaseburg village|Incorporated Place|A|Vernon County
+WI|55|14175|Chelsea CDP|Census Designated Place|S|Taylor County
+WI|55|14200|Chelsea town|County Subdivision|A|Taylor County
+WI|55|14225|Chenequa village|County Subdivision|F|Waukesha County
+WI|55|14225|Chenequa village|Incorporated Place|A|Waukesha County
+WI|55|14300|Chester town|County Subdivision|A|Dodge County
+WI|55|14325|Chetek city|County Subdivision|F|Barron County
+WI|55|14325|Chetek city|Incorporated Place|A|Barron County
+WI|55|14350|Chetek town|County Subdivision|A|Barron County
+WI|55|14425|Chicog town|County Subdivision|A|Washburn County
+WI|55|14440|Chief Lake CDP|Census Designated Place|S|Sawyer County
+WI|55|14450|Chili CDP|Census Designated Place|S|Clark County
+WI|55|14475|Chilton city|County Subdivision|F|Calumet County
+WI|55|14475|Chilton city|Incorporated Place|A|Calumet County
+WI|55|14500|Chilton town|County Subdivision|A|Calumet County
+WI|55|14525|Chimney Rock town|County Subdivision|A|Trempealeau County
+WI|55|14550|Chippewa town|County Subdivision|A|Ashland County
+WI|55|14575|Chippewa Falls city|County Subdivision|F|Chippewa County
+WI|55|14575|Chippewa Falls city|Incorporated Place|A|Chippewa County
+WI|55|14650|Christiana town|County Subdivision|A|Dane County
+WI|55|14675|Christiana town|County Subdivision|A|Vernon County
+WI|55|14750|Cicero town|County Subdivision|A|Outagamie County
+WI|55|14800|City Point town|County Subdivision|A|Jackson County
+WI|55|14837|Clam Falls town|County Subdivision|A|Polk County
+WI|55|14850|Clam Lake CDP|Census Designated Place|S|Ashland County
+WI|55|15000|Clarno town|County Subdivision|A|Green County
+WI|55|15025|Clay Banks town|County Subdivision|A|Door County
+WI|55|15075|Clayton town|County Subdivision|A|Crawford County
+WI|55|15100|Clayton village|County Subdivision|F|Polk County
+WI|55|15100|Clayton village|Incorporated Place|A|Polk County
+WI|55|15125|Clayton town|County Subdivision|A|Polk County
+WI|55|15150|Clayton town|County Subdivision|A|Winnebago County
+WI|55|15200|Clear Creek town|County Subdivision|A|Eau Claire County
+WI|55|15225|Clearfield town|County Subdivision|A|Juneau County
+WI|55|15250|Clear Lake village|County Subdivision|F|Polk County
+WI|55|15250|Clear Lake village|Incorporated Place|A|Polk County
+WI|55|15275|Clear Lake town|County Subdivision|A|Polk County
+WI|55|15350|Cleveland town|County Subdivision|A|Chippewa County
+WI|55|15375|Cleveland town|County Subdivision|A|Jackson County
+WI|55|15400|Cleveland village|County Subdivision|F|Manitowoc County
+WI|55|15400|Cleveland village|Incorporated Place|A|Manitowoc County
+WI|55|15425|Cleveland town|County Subdivision|A|Marathon County
+WI|55|15450|Cleveland town|County Subdivision|A|Taylor County
+WI|55|15500|Clifton town|County Subdivision|A|Grant County
+WI|55|15550|Clifton town|County Subdivision|A|Monroe County
+WI|55|15575|Clifton town|County Subdivision|A|Pierce County
+WI|55|15600|Clinton town|County Subdivision|A|Barron County
+WI|55|15625|Clinton village|County Subdivision|F|Rock County
+WI|55|15625|Clinton village|Incorporated Place|A|Rock County
+WI|55|15650|Clinton town|County Subdivision|A|Rock County
+WI|55|15675|Clinton town|County Subdivision|A|Vernon County
+WI|55|15725|Clintonville city|County Subdivision|F|Waupaca County
+WI|55|15725|Clintonville city|Incorporated Place|A|Waupaca County
+WI|55|15750|Clover town|County Subdivision|A|Bayfield County
+WI|55|15825|Cloverland town|County Subdivision|A|Douglas County
+WI|55|15850|Cloverland town|County Subdivision|A|Vilas County
+WI|55|15875|Clyde town|County Subdivision|A|Iowa County
+WI|55|15900|Clyman village|County Subdivision|F|Dodge County
+WI|55|15900|Clyman village|Incorporated Place|A|Dodge County
+WI|55|15925|Clyman town|County Subdivision|A|Dodge County
+WI|55|15975|Cobb village|County Subdivision|F|Iowa County
+WI|55|15975|Cobb village|Incorporated Place|A|Iowa County
+WI|55|16025|Cochrane village|County Subdivision|F|Buffalo County
+WI|55|16025|Cochrane village|Incorporated Place|A|Buffalo County
+WI|55|16075|Colburn town|County Subdivision|A|Adams County
+WI|55|16125|Colburn town|County Subdivision|A|Chippewa County
+WI|55|16150|Colby city|County Subdivision|F|Clark County, Marathon County
+WI|55|16150|Colby city|Incorporated Place|A|Clark County, Marathon County
+WI|55|16175|Colby town|County Subdivision|A|Clark County
+WI|55|16225|Cold Spring town|County Subdivision|A|Jefferson County
+WI|55|16250|Coleman village|County Subdivision|F|Marinette County
+WI|55|16250|Coleman village|Incorporated Place|A|Marinette County
+WI|55|16275|Colfax village|County Subdivision|F|Dunn County
+WI|55|16275|Colfax village|Incorporated Place|A|Dunn County
+WI|55|16300|Colfax town|County Subdivision|A|Dunn County
+WI|55|16350|Collins CDP|Census Designated Place|S|Manitowoc County
+WI|55|16375|Coloma village|County Subdivision|F|Waushara County
+WI|55|16375|Coloma village|Incorporated Place|A|Waushara County
+WI|55|16400|Coloma town|County Subdivision|A|Waushara County
+WI|55|16450|Columbus city|County Subdivision|F|Columbia County, Dodge County
+WI|55|16450|Columbus city|Incorporated Place|A|Columbia County, Dodge County
+WI|55|16475|Columbus town|County Subdivision|A|Columbia County
+WI|55|16500|Combined Locks village|County Subdivision|F|Outagamie County
+WI|55|16500|Combined Locks village|Incorporated Place|A|Outagamie County
+WI|55|16550|Commonwealth town|County Subdivision|A|Florence County
+WI|55|16575|Como CDP|Census Designated Place|S|Walworth County
+WI|55|16650|Concord town|County Subdivision|A|Jefferson County
+WI|55|16750|Conover town|County Subdivision|A|Vilas County
+WI|55|16775|Conrath village|County Subdivision|F|Rusk County
+WI|55|16775|Conrath village|Incorporated Place|A|Rusk County
+WI|55|16800|Cooks Valley town|County Subdivision|A|Chippewa County
+WI|55|16875|Coon town|County Subdivision|A|Vernon County
+WI|55|16900|Coon Valley village|County Subdivision|F|Vernon County
+WI|55|16900|Coon Valley village|Incorporated Place|A|Vernon County
+WI|55|16950|Cooperstown town|County Subdivision|A|Manitowoc County
+WI|55|17100|Cornell city|County Subdivision|F|Chippewa County
+WI|55|17100|Cornell city|Incorporated Place|A|Chippewa County
+WI|55|17125|Corning town|County Subdivision|A|Lincoln County
+WI|55|17150|Cornucopia CDP|Census Designated Place|S|Bayfield County
+WI|55|17175|Cottage Grove village|County Subdivision|F|Dane County
+WI|55|17175|Cottage Grove village|Incorporated Place|A|Dane County
+WI|55|17200|Cottage Grove town|County Subdivision|A|Dane County
+WI|55|17225|Couderay village|County Subdivision|F|Sawyer County
+WI|55|17225|Couderay village|Incorporated Place|A|Sawyer County
+WI|55|17250|Couderay town|County Subdivision|A|Sawyer County
+WI|55|17325|Courtland town|County Subdivision|A|Columbia County
+WI|55|17425|Crandon city|County Subdivision|F|Forest County
+WI|55|17425|Crandon city|Incorporated Place|A|Forest County
+WI|55|17450|Crandon town|County Subdivision|A|Forest County
+WI|55|17525|Cranmoor town|County Subdivision|A|Wood County
+WI|55|17625|Crescent town|County Subdivision|A|Oneida County
+WI|55|17725|Crivitz village|County Subdivision|F|Marinette County
+WI|55|17725|Crivitz village|Incorporated Place|A|Marinette County
+WI|55|17737|Cross town|County Subdivision|A|Buffalo County
+WI|55|17775|Cross Plains village|County Subdivision|F|Dane County
+WI|55|17775|Cross Plains village|Incorporated Place|A|Dane County
+WI|55|17800|Cross Plains town|County Subdivision|A|Dane County
+WI|55|17850|Crystal town|County Subdivision|A|Washburn County
+WI|55|17875|Crystal Lake town|County Subdivision|A|Barron County
+WI|55|17900|Crystal Lake town|County Subdivision|A|Marquette County
+WI|55|17950|Cuba City city|County Subdivision|F|Grant County, Lafayette County
+WI|55|17950|Cuba City city|Incorporated Place|A|Grant County, Lafayette County
+WI|55|17975|Cudahy city|County Subdivision|F|Milwaukee County
+WI|55|17975|Cudahy city|Incorporated Place|A|Milwaukee County
+WI|55|18025|Cumberland city|County Subdivision|F|Barron County
+WI|55|18025|Cumberland city|Incorporated Place|A|Barron County
+WI|55|18050|Cumberland town|County Subdivision|A|Barron County
+WI|55|18075|Curran town|County Subdivision|A|Jackson County
+WI|55|18125|Curtiss village|County Subdivision|F|Clark County
+WI|55|18125|Curtiss village|Incorporated Place|A|Clark County
+WI|55|18225|Cutler town|County Subdivision|A|Juneau County
+WI|55|18300|Cylon town|County Subdivision|A|St. Croix County
+WI|55|18425|Dairyland town|County Subdivision|A|Douglas County
+WI|55|18475|Dakota town|County Subdivision|A|Waushara County
+WI|55|18500|Dale CDP|Census Designated Place|S|Outagamie County
+WI|55|18525|Dale town|County Subdivision|A|Outagamie County
+WI|55|18575|Dallas village|County Subdivision|F|Barron County
+WI|55|18575|Dallas village|Incorporated Place|A|Barron County
+WI|55|18600|Dallas town|County Subdivision|A|Barron County
+WI|55|18625|Dalton CDP|Census Designated Place|S|Green Lake County
+WI|55|18650|Danbury CDP|Census Designated Place|S|Burnett County
+WI|55|18700|Dane village|County Subdivision|F|Dane County
+WI|55|18700|Dane village|Incorporated Place|A|Dane County
+WI|55|18725|Dane town|County Subdivision|A|Dane County
+WI|55|18750|Daniels town|County Subdivision|A|Burnett County
+WI|55|18825|Darien village|County Subdivision|F|Walworth County
+WI|55|18825|Darien village|Incorporated Place|A|Walworth County
+WI|55|18850|Darien town|County Subdivision|A|Walworth County
+WI|55|18875|Darlington city|County Subdivision|F|Lafayette County
+WI|55|18875|Darlington city|Incorporated Place|A|Lafayette County
+WI|55|18900|Darlington town|County Subdivision|A|Lafayette County
+WI|55|18950|Day town|County Subdivision|A|Marathon County
+WI|55|19000|Dayton town|County Subdivision|A|Richland County
+WI|55|19025|Dayton town|County Subdivision|A|Waupaca County
+WI|55|19075|Decatur town|County Subdivision|A|Green County
+WI|55|19200|Deer Creek town|County Subdivision|A|Outagamie County
+WI|55|19225|Deer Creek town|County Subdivision|A|Taylor County
+WI|55|19250|Deerfield village|County Subdivision|F|Dane County
+WI|55|19250|Deerfield village|Incorporated Place|A|Dane County
+WI|55|19275|Deerfield town|County Subdivision|A|Dane County
+WI|55|19300|Deerfield town|County Subdivision|A|Waushara County
+WI|55|19325|Deer Park village|County Subdivision|F|St. Croix County
+WI|55|19325|Deer Park village|Incorporated Place|A|St. Croix County
+WI|55|19350|DeForest village|County Subdivision|F|Dane County
+WI|55|19350|DeForest village|Incorporated Place|A|Dane County
+WI|55|19375|Dekorra town|County Subdivision|A|Columbia County
+WI|55|19400|Delafield city|County Subdivision|F|Waukesha County
+WI|55|19400|Delafield city|Incorporated Place|A|Waukesha County
+WI|55|19425|Delafield town|County Subdivision|A|Waukesha County
+WI|55|19450|Delavan city|County Subdivision|F|Walworth County
+WI|55|19450|Delavan city|Incorporated Place|A|Walworth County
+WI|55|19475|Delavan town|County Subdivision|A|Walworth County
+WI|55|19500|Delavan Lake CDP|Census Designated Place|S|Walworth County
+WI|55|19550|Dellona town|County Subdivision|A|Sauk County
+WI|55|19575|Dell Prairie town|County Subdivision|A|Adams County
+WI|55|19600|Delwood CDP|Census Designated Place|S|Adams County
+WI|55|19625|Delmar town|County Subdivision|A|Chippewa County
+WI|55|19662|Delta town|County Subdivision|A|Bayfield County
+WI|55|19675|Delton town|County Subdivision|A|Sauk County
+WI|55|19700|Denmark village|County Subdivision|F|Brown County
+WI|55|19700|Denmark village|Incorporated Place|A|Brown County
+WI|55|19775|De Pere city|County Subdivision|F|Brown County
+WI|55|19775|De Pere city|Incorporated Place|A|Brown County
+WI|55|19850|De Soto village|County Subdivision|F|Crawford County, Vernon County
+WI|55|19850|De Soto village|Incorporated Place|A|Crawford County, Vernon County
+WI|55|19925|Dewey town|County Subdivision|A|Burnett County
+WI|55|19975|Dewey town|County Subdivision|A|Portage County
+WI|55|20000|Dewey town|County Subdivision|A|Rusk County
+WI|55|20025|Dewhurst town|County Subdivision|A|Clark County
+WI|55|20075|Dexter town|County Subdivision|A|Wood County
+WI|55|20125|Diamond Bluff CDP|Census Designated Place|S|Pierce County
+WI|55|20150|Diamond Bluff town|County Subdivision|A|Pierce County
+WI|55|20167|Diaperville CDP|Census Designated Place|S|Ashland County
+WI|55|20175|Dickeyville village|County Subdivision|F|Grant County
+WI|55|20175|Dickeyville village|Incorporated Place|A|Grant County
+WI|55|20275|Dodge CDP|Census Designated Place|S|Trempealeau County
+WI|55|20300|Dodge town|County Subdivision|A|Trempealeau County
+WI|55|20350|Dodgeville city|County Subdivision|F|Iowa County
+WI|55|20350|Dodgeville city|Incorporated Place|A|Iowa County
+WI|55|20375|Dodgeville town|County Subdivision|A|Iowa County
+WI|55|20450|Dorchester village|County Subdivision|F|Clark County, Marathon County
+WI|55|20450|Dorchester village|Incorporated Place|A|Clark County, Marathon County
+WI|55|20475|Doty town|County Subdivision|A|Oconto County
+WI|55|20525|Douglas town|County Subdivision|A|Marquette County
+WI|55|20550|Dousman village|County Subdivision|F|Waukesha County
+WI|55|20550|Dousman village|Incorporated Place|A|Waukesha County
+WI|55|20575|Dover town|County Subdivision|A|Buffalo County
+WI|55|20625|Dover town|County Subdivision|A|Racine County
+WI|55|20650|Dovre town|County Subdivision|A|Barron County
+WI|55|20675|Downing village|County Subdivision|F|Dunn County
+WI|55|20675|Downing village|Incorporated Place|A|Dunn County
+WI|55|20725|Downsville CDP|Census Designated Place|S|Dunn County
+WI|55|20750|Doyle town|County Subdivision|A|Barron County
+WI|55|20775|Doylestown village|County Subdivision|F|Columbia County
+WI|55|20775|Doylestown village|Incorporated Place|A|Columbia County
+WI|55|20800|Drammen town|County Subdivision|A|Eau Claire County
+WI|55|20825|Draper town|County Subdivision|A|Sawyer County
+WI|55|20850|Dresser village|County Subdivision|F|Polk County
+WI|55|20850|Dresser village|Incorporated Place|A|Polk County
+WI|55|20875|Drummond CDP|Census Designated Place|S|Bayfield County
+WI|55|20887|Drummond town|County Subdivision|A|Bayfield County
+WI|55|20975|Dunbar CDP|Census Designated Place|S|Marinette County
+WI|55|21000|Dunbar town|County Subdivision|A|Marinette County
+WI|55|21100|Dunkirk town|County Subdivision|A|Dane County
+WI|55|21125|Dunn town|County Subdivision|A|Dane County
+WI|55|21150|Dunn town|County Subdivision|A|Dunn County
+WI|55|21200|Dupont town|County Subdivision|A|Waupaca County
+WI|55|21225|Durand city|County Subdivision|F|Pepin County
+WI|55|21225|Durand city|Incorporated Place|A|Pepin County
+WI|55|21250|Durand town|County Subdivision|A|Pepin County
+WI|55|21375|Dyckesville CDP|Census Designated Place|S|Brown County, Kewaunee County
+WI|55|21400|Eagle town|County Subdivision|A|Richland County
+WI|55|21425|Eagle village|County Subdivision|F|Waukesha County
+WI|55|21425|Eagle village|Incorporated Place|A|Waukesha County
+WI|55|21450|Eagle town|County Subdivision|A|Waukesha County
+WI|55|21525|Eagle Lake CDP|Census Designated Place|S|Racine County
+WI|55|21600|Eagle Point town|County Subdivision|A|Chippewa County
+WI|55|21625|Eagle River city|County Subdivision|F|Vilas County
+WI|55|21625|Eagle River city|Incorporated Place|A|Vilas County
+WI|55|21900|Eastman village|County Subdivision|F|Crawford County
+WI|55|21900|Eastman village|Incorporated Place|A|Crawford County
+WI|55|21925|Eastman town|County Subdivision|A|Crawford County
+WI|55|22000|Easton town|County Subdivision|A|Adams County
+WI|55|22025|Easton town|County Subdivision|A|Marathon County
+WI|55|22100|East Troy village|County Subdivision|F|Walworth County
+WI|55|22100|East Troy village|Incorporated Place|A|Walworth County
+WI|55|22125|East Troy town|County Subdivision|A|Walworth County
+WI|55|22225|Eaton town|County Subdivision|A|Brown County
+WI|55|22250|Eaton town|County Subdivision|A|Clark County
+WI|55|22275|Eaton town|County Subdivision|A|Manitowoc County
+WI|55|22300|Eau Claire city|County Subdivision|F|Chippewa County, Eau Claire County
+WI|55|22300|Eau Claire city|Incorporated Place|A|Chippewa County, Eau Claire County
+WI|55|22375|Eau Galle town|County Subdivision|A|Dunn County
+WI|55|22400|Eau Galle town|County Subdivision|A|St. Croix County
+WI|55|22425|Eau Pleine town|County Subdivision|A|Marathon County
+WI|55|22450|Eau Pleine town|County Subdivision|A|Portage County
+WI|55|22475|Eden village|County Subdivision|F|Fond du Lac County
+WI|55|22475|Eden village|Incorporated Place|A|Fond du Lac County
+WI|55|22500|Eden town|County Subdivision|A|Fond du Lac County
+WI|55|22525|Eden town|County Subdivision|A|Iowa County
+WI|55|22550|Edgar village|County Subdivision|F|Marathon County
+WI|55|22550|Edgar village|Incorporated Place|A|Marathon County
+WI|55|22575|Edgerton city|County Subdivision|F|Dane County, Rock County
+WI|55|22575|Edgerton city|Incorporated Place|A|Dane County, Rock County
+WI|55|22625|Edgewater town|County Subdivision|A|Sawyer County
+WI|55|22700|Edmund CDP|Census Designated Place|S|Iowa County
+WI|55|22750|Edson town|County Subdivision|A|Chippewa County
+WI|55|22850|Egg Harbor village|County Subdivision|F|Door County
+WI|55|22850|Egg Harbor village|Incorporated Place|A|Door County
+WI|55|22875|Egg Harbor town|County Subdivision|A|Door County
+WI|55|22925|Eileen town|County Subdivision|A|Bayfield County
+WI|55|22950|Eisenstein town|County Subdivision|A|Price County
+WI|55|22975|Eland village|County Subdivision|F|Shawano County
+WI|55|22975|Eland village|Incorporated Place|A|Shawano County
+WI|55|23000|Elba town|County Subdivision|A|Dodge County
+WI|55|23025|Elcho CDP|Census Designated Place|S|Langlade County
+WI|55|23050|Elcho town|County Subdivision|A|Langlade County
+WI|55|23075|Elderon village|County Subdivision|F|Marathon County
+WI|55|23075|Elderon village|Incorporated Place|A|Marathon County
+WI|55|23100|Elderon town|County Subdivision|A|Marathon County
+WI|55|23150|Eldorado town|County Subdivision|A|Fond du Lac County
+WI|55|23175|Eleva village|County Subdivision|F|Trempealeau County
+WI|55|23175|Eleva village|Incorporated Place|A|Trempealeau County
+WI|55|23200|Elk town|County Subdivision|A|Price County
+WI|55|23262|Elk Grove town|County Subdivision|A|Lafayette County
+WI|55|23275|Elkhart Lake village|County Subdivision|F|Sheboygan County
+WI|55|23275|Elkhart Lake village|Incorporated Place|A|Sheboygan County
+WI|55|23300|Elkhorn city|County Subdivision|F|Walworth County
+WI|55|23300|Elkhorn city|Incorporated Place|A|Walworth County
+WI|55|23325|Elk Mound village|County Subdivision|F|Dunn County
+WI|55|23325|Elk Mound village|Incorporated Place|A|Dunn County
+WI|55|23350|Elk Mound town|County Subdivision|A|Dunn County
+WI|55|23400|Ellenboro town|County Subdivision|A|Grant County
+WI|55|23425|Ellington town|County Subdivision|A|Outagamie County
+WI|55|23475|Ellison Bay CDP|Census Designated Place|S|Door County
+WI|55|23525|Ellsworth village|County Subdivision|F|Pierce County
+WI|55|23525|Ellsworth village|Incorporated Place|A|Pierce County
+WI|55|23550|Ellsworth town|County Subdivision|A|Pierce County
+WI|55|23575|Elm Grove village|County Subdivision|F|Waukesha County
+WI|55|23575|Elm Grove village|Incorporated Place|A|Waukesha County
+WI|55|23700|Elmwood village|County Subdivision|F|Pierce County
+WI|55|23700|Elmwood village|Incorporated Place|A|Pierce County
+WI|55|23725|Elmwood Park village|County Subdivision|F|Racine County
+WI|55|23725|Elmwood Park village|Incorporated Place|A|Racine County
+WI|55|23775|El Paso town|County Subdivision|A|Pierce County
+WI|55|23800|Elroy city|County Subdivision|F|Juneau County
+WI|55|23800|Elroy city|Incorporated Place|A|Juneau County
+WI|55|23850|Embarrass village|County Subdivision|F|Waupaca County
+WI|55|23850|Embarrass village|Incorporated Place|A|Waupaca County
+WI|55|23900|Emerald CDP|Census Designated Place|S|St. Croix County
+WI|55|23925|Emerald town|County Subdivision|A|St. Croix County
+WI|55|23975|Emery town|County Subdivision|A|Price County
+WI|55|24000|Emmet town|County Subdivision|A|Dodge County
+WI|55|24025|Emmet town|County Subdivision|A|Marathon County
+WI|55|24050|Empire town|County Subdivision|A|Fond du Lac County
+WI|55|24075|Endeavor village|County Subdivision|F|Marquette County
+WI|55|24075|Endeavor village|Incorporated Place|A|Marquette County
+WI|55|24125|Enterprise town|County Subdivision|A|Oneida County
+WI|55|24150|Ephraim village|County Subdivision|F|Door County
+WI|55|24150|Ephraim village|Incorporated Place|A|Door County
+WI|55|24225|Erin town|County Subdivision|A|Washington County
+WI|55|24275|Erin Prairie town|County Subdivision|A|St. Croix County
+WI|55|24375|Estella town|County Subdivision|A|Chippewa County
+WI|55|24400|Ettrick village|County Subdivision|F|Trempealeau County
+WI|55|24400|Ettrick village|Incorporated Place|A|Trempealeau County
+WI|55|24425|Ettrick town|County Subdivision|A|Trempealeau County
+WI|55|24450|Eureka town|County Subdivision|A|Polk County
+WI|55|24475|Eureka CDP|Census Designated Place|S|Winnebago County
+WI|55|24550|Evansville city|County Subdivision|F|Rock County
+WI|55|24550|Evansville city|Incorporated Place|A|Rock County
+WI|55|24575|Evergreen town|County Subdivision|A|Langlade County
+WI|55|24600|Evergreen town|County Subdivision|A|Washburn County
+WI|55|24675|Excelsior town|County Subdivision|A|Sauk County
+WI|55|24700|Exeland village|County Subdivision|F|Sawyer County
+WI|55|24700|Exeland village|Incorporated Place|A|Sawyer County
+WI|55|24725|Exeter town|County Subdivision|A|Green County
+WI|55|24775|Fairbanks town|County Subdivision|A|Shawano County
+WI|55|24825|Fairchild village|County Subdivision|F|Eau Claire County
+WI|55|24825|Fairchild village|Incorporated Place|A|Eau Claire County
+WI|55|24850|Fairchild town|County Subdivision|A|Eau Claire County
+WI|55|24900|Fairfield town|County Subdivision|A|Sauk County
+WI|55|25075|Fairwater village|County Subdivision|F|Fond du Lac County
+WI|55|25075|Fairwater village|Incorporated Place|A|Fond du Lac County
+WI|55|25125|Fall Creek village|County Subdivision|F|Eau Claire County
+WI|55|25125|Fall Creek village|Incorporated Place|A|Eau Claire County
+WI|55|25150|Fall River village|County Subdivision|F|Columbia County
+WI|55|25150|Fall River village|Incorporated Place|A|Columbia County
+WI|55|25300|Farmington town|County Subdivision|A|Jefferson County
+WI|55|25325|Farmington town|County Subdivision|A|La Crosse County
+WI|55|25350|Farmington town|County Subdivision|A|Polk County
+WI|55|25375|Farmington town|County Subdivision|A|Washington County
+WI|55|25400|Farmington town|County Subdivision|A|Waupaca County
+WI|55|25475|Fayette town|County Subdivision|A|Lafayette County
+WI|55|25575|Fence town|County Subdivision|A|Florence County
+WI|55|25600|Fennimore city|County Subdivision|F|Grant County
+WI|55|25600|Fennimore city|Incorporated Place|A|Grant County
+WI|55|25625|Fennimore town|County Subdivision|A|Grant County
+WI|55|25650|Fenwood village|County Subdivision|F|Marathon County
+WI|55|25650|Fenwood village|Incorporated Place|A|Marathon County
+WI|55|25675|Fern town|County Subdivision|A|Florence County
+WI|55|25725|Ferryville village|County Subdivision|F|Crawford County
+WI|55|25725|Ferryville village|Incorporated Place|A|Crawford County
+WI|55|25775|Fifield town|County Subdivision|A|Price County
+WI|55|25850|Finley town|County Subdivision|A|Juneau County
+WI|55|25950|Fitchburg city|County Subdivision|F|Dane County
+WI|55|25950|Fitchburg city|Incorporated Place|A|Dane County
+WI|55|26050|Flambeau town|County Subdivision|A|Price County
+WI|55|26100|Flambeau town|County Subdivision|A|Rusk County
+WI|55|26175|Florence CDP|Census Designated Place|S|Florence County
+WI|55|26200|Florence town|County Subdivision|A|Florence County
+WI|55|26275|Fond du Lac city|County Subdivision|F|Fond du Lac County
+WI|55|26275|Fond du Lac city|Incorporated Place|A|Fond du Lac County
+WI|55|26300|Fond du Lac town|County Subdivision|A|Fond du Lac County
+WI|55|26350|Fontana-on-Geneva Lake village|County Subdivision|F|Walworth County
+WI|55|26350|Fontana-on-Geneva Lake village|Incorporated Place|A|Walworth County
+WI|55|26400|Footville village|County Subdivision|F|Rock County
+WI|55|26400|Footville village|Incorporated Place|A|Rock County
+WI|55|26425|Ford town|County Subdivision|A|Taylor County
+WI|55|26450|Forest town|County Subdivision|A|Fond du Lac County
+WI|55|26475|Forest town|County Subdivision|A|Richland County
+WI|55|26525|Forest town|County Subdivision|A|St. Croix County
+WI|55|26550|Forest town|County Subdivision|A|Vernon County
+WI|55|26575|Forest Junction CDP|Census Designated Place|S|Calumet County
+WI|55|26625|Forestville village|County Subdivision|F|Door County
+WI|55|26625|Forestville village|Incorporated Place|A|Door County
+WI|55|26650|Forestville town|County Subdivision|A|Door County
+WI|55|26675|Fort Atkinson city|County Subdivision|F|Jefferson County
+WI|55|26675|Fort Atkinson city|Incorporated Place|A|Jefferson County
+WI|55|26725|Fort Winnebago town|County Subdivision|A|Columbia County
+WI|55|26775|Foster town|County Subdivision|A|Clark County
+WI|55|26825|Fountain town|County Subdivision|A|Juneau County
+WI|55|26850|Fountain City city|County Subdivision|F|Buffalo County
+WI|55|26850|Fountain City city|Incorporated Place|A|Buffalo County
+WI|55|26875|Fountain Prairie town|County Subdivision|A|Columbia County
+WI|55|27000|Fox Lake city|County Subdivision|F|Dodge County
+WI|55|27000|Fox Lake city|Incorporated Place|A|Dodge County
+WI|55|27025|Fox Lake town|County Subdivision|A|Dodge County
+WI|55|27075|Fox Point village|County Subdivision|F|Milwaukee County
+WI|55|27075|Fox Point village|Incorporated Place|A|Milwaukee County
+WI|55|27125|Francis Creek village|County Subdivision|F|Manitowoc County
+WI|55|27125|Francis Creek village|Incorporated Place|A|Manitowoc County
+WI|55|27150|Frankfort town|County Subdivision|A|Marathon County
+WI|55|27175|Frankfort town|County Subdivision|A|Pepin County
+WI|55|27225|Franklin town|County Subdivision|A|Jackson County
+WI|55|27250|Franklin town|County Subdivision|A|Kewaunee County
+WI|55|27275|Franklin town|County Subdivision|A|Manitowoc County
+WI|55|27300|Franklin city|County Subdivision|F|Milwaukee County
+WI|55|27300|Franklin city|Incorporated Place|A|Milwaukee County
+WI|55|27350|Franklin town|County Subdivision|A|Sauk County
+WI|55|27400|Franklin town|County Subdivision|A|Vernon County
+WI|55|27412|Franks Field CDP|Census Designated Place|S|Ashland County
+WI|55|27450|Franzen town|County Subdivision|A|Marathon County
+WI|55|27500|Frederic village|County Subdivision|F|Polk County
+WI|55|27500|Frederic village|Incorporated Place|A|Polk County
+WI|55|27550|Fredonia village|County Subdivision|F|Ozaukee County
+WI|55|27550|Fredonia village|Incorporated Place|A|Ozaukee County
+WI|55|27575|Fredonia town|County Subdivision|A|Ozaukee County
+WI|55|27600|Freedom town|County Subdivision|A|Forest County
+WI|55|27650|Freedom town|County Subdivision|A|Outagamie County
+WI|55|27675|Freedom town|County Subdivision|A|Sauk County
+WI|55|27700|Freeman town|County Subdivision|A|Crawford County
+WI|55|27775|Fremont town|County Subdivision|A|Clark County
+WI|55|27800|Fremont village|County Subdivision|F|Waupaca County
+WI|55|27800|Fremont village|Incorporated Place|A|Waupaca County
+WI|55|27850|Fremont town|County Subdivision|A|Waupaca County
+WI|55|27875|French Island CDP|Census Designated Place|S|La Crosse County
+WI|55|27950|Friendship village|County Subdivision|F|Adams County
+WI|55|27950|Friendship village|Incorporated Place|A|Adams County
+WI|55|27975|Friendship town|County Subdivision|A|Fond du Lac County
+WI|55|28000|Friesland village|County Subdivision|F|Columbia County
+WI|55|28000|Friesland village|Incorporated Place|A|Columbia County
+WI|55|28025|Frog Creek town|County Subdivision|A|Washburn County
+WI|55|28075|Fulton town|County Subdivision|A|Rock County
+WI|55|28150|Gale town|County Subdivision|A|Trempealeau County
+WI|55|28200|Galesville city|County Subdivision|F|Trempealeau County
+WI|55|28200|Galesville city|Incorporated Place|A|Trempealeau County
+WI|55|28250|Garden Valley town|County Subdivision|A|Jackson County
+WI|55|28300|Gardner town|County Subdivision|A|Door County
+WI|55|28325|Garfield town|County Subdivision|A|Jackson County
+WI|55|28350|Garfield town|County Subdivision|A|Polk County
+WI|55|28450|Gays Mills village|County Subdivision|F|Crawford County
+WI|55|28450|Gays Mills village|Incorporated Place|A|Crawford County
+WI|55|28487|Genesee town|County Subdivision|A|Waukesha County
+WI|55|28550|Geneva town|County Subdivision|A|Walworth County
+WI|55|28625|Genoa village|County Subdivision|F|Vernon County
+WI|55|28625|Genoa village|Incorporated Place|A|Vernon County
+WI|55|28650|Genoa town|County Subdivision|A|Vernon County
+WI|55|28675|Genoa City village|County Subdivision|F|Kenosha County, Walworth County
+WI|55|28675|Genoa City village|Incorporated Place|A|Kenosha County, Walworth County
+WI|55|28725|Georgetown town|County Subdivision|A|Polk County
+WI|55|28750|Georgetown town|County Subdivision|A|Price County
+WI|55|28825|Germania town|County Subdivision|A|Shawano County
+WI|55|28850|Germantown town|County Subdivision|A|Juneau County
+WI|55|28875|Germantown village|County Subdivision|F|Washington County
+WI|55|28875|Germantown village|Incorporated Place|A|Washington County
+WI|55|28900|Germantown town|County Subdivision|A|Washington County
+WI|55|28925|Gibbsville CDP|Census Designated Place|S|Sheboygan County
+WI|55|28950|Gibraltar town|County Subdivision|A|Door County
+WI|55|28975|Gibson town|County Subdivision|A|Manitowoc County
+WI|55|29050|Gillett city|County Subdivision|F|Oconto County
+WI|55|29050|Gillett city|Incorporated Place|A|Oconto County
+WI|55|29075|Gillett town|County Subdivision|A|Oconto County
+WI|55|29150|Gilman town|County Subdivision|A|Pierce County
+WI|55|29175|Gilman village|County Subdivision|F|Taylor County
+WI|55|29175|Gilman village|Incorporated Place|A|Taylor County
+WI|55|29225|Gilmanton town|County Subdivision|A|Buffalo County
+WI|55|29250|Gingles town|County Subdivision|A|Ashland County
+WI|55|29350|Glenbeulah village|County Subdivision|F|Sheboygan County
+WI|55|29350|Glenbeulah village|Incorporated Place|A|Sheboygan County
+WI|55|29375|Glencoe town|County Subdivision|A|Buffalo County
+WI|55|29400|Glendale city|County Subdivision|F|Milwaukee County
+WI|55|29400|Glendale city|Incorporated Place|A|Milwaukee County
+WI|55|29450|Glendale town|County Subdivision|A|Monroe County
+WI|55|29475|Glen Flora village|County Subdivision|F|Rusk County
+WI|55|29475|Glen Flora village|Incorporated Place|A|Rusk County
+WI|55|29500|Glen Haven CDP|Census Designated Place|S|Grant County
+WI|55|29525|Glen Haven town|County Subdivision|A|Grant County
+WI|55|29550|Glenmore town|County Subdivision|A|Brown County
+WI|55|29600|Glenwood town|County Subdivision|A|St. Croix County
+WI|55|29625|Glenwood City city|County Subdivision|F|St. Croix County
+WI|55|29625|Glenwood City city|Incorporated Place|A|St. Croix County
+WI|55|29675|Glidden CDP|Census Designated Place|S|Ashland County
+WI|55|29700|Goetz town|County Subdivision|A|Chippewa County
+WI|55|29750|Goodman CDP|Census Designated Place|S|Marinette County
+WI|55|29775|Goodman town|County Subdivision|A|Marinette County
+WI|55|29837|Goodrich town|County Subdivision|A|Taylor County
+WI|55|29875|Gordon town|County Subdivision|A|Ashland County
+WI|55|29900|Gordon CDP|Census Designated Place|S|Douglas County
+WI|55|29925|Gordon town|County Subdivision|A|Douglas County
+WI|55|29950|Gotham CDP|Census Designated Place|S|Richland County
+WI|55|30000|Grafton village|County Subdivision|F|Ozaukee County
+WI|55|30000|Grafton village|Incorporated Place|A|Ozaukee County
+WI|55|30025|Grafton town|County Subdivision|A|Ozaukee County
+WI|55|30075|Grand Chute town|County Subdivision|A|Outagamie County
+WI|55|30100|Grand Marsh CDP|Census Designated Place|S|Adams County
+WI|55|30125|Grand Rapids town|County Subdivision|A|Wood County
+WI|55|30150|Grand View CDP|Census Designated Place|S|Bayfield County
+WI|55|30175|Grandview town|County Subdivision|A|Bayfield County
+WI|55|30275|Grant town|County Subdivision|A|Clark County
+WI|55|30300|Grant town|County Subdivision|A|Dunn County
+WI|55|30325|Grant town|County Subdivision|A|Monroe County
+WI|55|30350|Grant town|County Subdivision|A|Portage County
+WI|55|30375|Grant town|County Subdivision|A|Rusk County
+WI|55|30400|Grant town|County Subdivision|A|Shawano County
+WI|55|30425|Granton village|County Subdivision|F|Clark County
+WI|55|30425|Granton village|Incorporated Place|A|Clark County
+WI|55|30450|Grantsburg village|County Subdivision|F|Burnett County
+WI|55|30450|Grantsburg village|Incorporated Place|A|Burnett County
+WI|55|30475|Grantsburg town|County Subdivision|A|Burnett County
+WI|55|30575|Gratiot village|County Subdivision|F|Lafayette County
+WI|55|30575|Gratiot village|Incorporated Place|A|Lafayette County
+WI|55|30600|Gratiot town|County Subdivision|A|Lafayette County
+WI|55|31000|Green Bay city|County Subdivision|F|Brown County
+WI|55|31000|Green Bay city|Incorporated Place|A|Brown County
+WI|55|31025|Green Bay town|County Subdivision|A|Brown County
+WI|55|31075|Greenbush CDP|Census Designated Place|S|Sheboygan County
+WI|55|31100|Greenbush town|County Subdivision|A|Sheboygan County
+WI|55|31125|Greendale village|County Subdivision|F|Milwaukee County
+WI|55|31125|Greendale village|Incorporated Place|A|Milwaukee County
+WI|55|31150|Greenfield town|County Subdivision|A|La Crosse County
+WI|55|31175|Greenfield city|County Subdivision|F|Milwaukee County
+WI|55|31175|Greenfield city|Incorporated Place|A|Milwaukee County
+WI|55|31225|Greenfield town|County Subdivision|A|Monroe County
+WI|55|31250|Greenfield town|County Subdivision|A|Sauk County
+WI|55|31275|Green Grove town|County Subdivision|A|Clark County
+WI|55|31300|Green Lake city|County Subdivision|F|Green Lake County
+WI|55|31300|Green Lake city|Incorporated Place|A|Green Lake County
+WI|55|31350|Green Lake town|County Subdivision|A|Green Lake County
+WI|55|31375|Greenleaf CDP|Census Designated Place|S|Brown County
+WI|55|31450|Green Valley town|County Subdivision|A|Marathon County
+WI|55|31475|Green Valley CDP|Census Designated Place|S|Shawano County
+WI|55|31500|Green Valley town|County Subdivision|A|Shawano County
+WI|55|31550|Greenville town|County Subdivision|A|Outagamie County
+WI|55|31575|Greenwood city|County Subdivision|F|Clark County
+WI|55|31575|Greenwood city|Incorporated Place|A|Clark County
+WI|55|31600|Greenwood town|County Subdivision|A|Taylor County
+WI|55|31625|Greenwood town|County Subdivision|A|Vernon County
+WI|55|31675|Gresham village|County Subdivision|F|Shawano County
+WI|55|31675|Gresham village|Incorporated Place|A|Shawano County
+WI|55|31725|Grover town|County Subdivision|A|Marinette County
+WI|55|31750|Grover town|County Subdivision|A|Taylor County
+WI|55|31775|Grow town|County Subdivision|A|Rusk County
+WI|55|31800|Guenther town|County Subdivision|A|Marathon County
+WI|55|31825|Gull Lake town|County Subdivision|A|Washburn County
+WI|55|31875|Gurney town|County Subdivision|A|Iron County
+WI|55|31925|Hackett town|County Subdivision|A|Price County
+WI|55|31975|Hager City CDP|Census Designated Place|S|Pierce County
+WI|55|32050|Hale town|County Subdivision|A|Trempealeau County
+WI|55|32075|Hales Corners village|County Subdivision|F|Milwaukee County
+WI|55|32075|Hales Corners village|Incorporated Place|A|Milwaukee County
+WI|55|32125|Hallie town|County Subdivision|A|Chippewa County
+WI|55|32150|Halsey town|County Subdivision|A|Marathon County
+WI|55|32200|Hamburg town|County Subdivision|A|Marathon County
+WI|55|32225|Hamburg town|County Subdivision|A|Vernon County
+WI|55|32275|Hamilton town|County Subdivision|A|La Crosse County
+WI|55|32300|Hammel town|County Subdivision|A|Taylor County
+WI|55|32325|Hammond village|County Subdivision|F|St. Croix County
+WI|55|32325|Hammond village|Incorporated Place|A|St. Croix County
+WI|55|32350|Hammond town|County Subdivision|A|St. Croix County
+WI|55|32375|Hampden town|County Subdivision|A|Columbia County
+WI|55|32450|Hancock village|County Subdivision|F|Waushara County
+WI|55|32450|Hancock village|Incorporated Place|A|Waushara County
+WI|55|32475|Hancock town|County Subdivision|A|Waushara County
+WI|55|32500|Haney town|County Subdivision|A|Crawford County
+WI|55|32550|Hanover CDP|Census Designated Place|S|Rock County
+WI|55|32575|Hansen town|County Subdivision|A|Wood County
+WI|55|32650|Harding town|County Subdivision|A|Lincoln County
+WI|55|32675|Harmony town|County Subdivision|A|Price County
+WI|55|32700|Harmony town|County Subdivision|A|Rock County
+WI|55|32725|Harmony town|County Subdivision|A|Vernon County
+WI|55|32775|Harris town|County Subdivision|A|Marquette County
+WI|55|32800|Harrison town|County Subdivision|A|Calumet County
+WI|55|32825|Harrison town|County Subdivision|A|Grant County
+WI|55|32875|Harrison town|County Subdivision|A|Lincoln County
+WI|55|32900|Harrison town|County Subdivision|A|Marathon County
+WI|55|32925|Harrison town|County Subdivision|A|Waupaca County
+WI|55|33000|Hartford city|County Subdivision|F|Dodge County, Washington County
+WI|55|33000|Hartford city|Incorporated Place|A|Dodge County, Washington County
+WI|55|33025|Hartford town|County Subdivision|A|Washington County
+WI|55|33050|Hartland town|County Subdivision|A|Pierce County
+WI|55|33075|Hartland town|County Subdivision|A|Shawano County
+WI|55|33100|Hartland village|County Subdivision|F|Waukesha County
+WI|55|33100|Hartland village|Incorporated Place|A|Waukesha County
+WI|55|33150|Hatfield CDP|Census Designated Place|S|Jackson County
+WI|55|33175|Hatley village|County Subdivision|F|Marathon County
+WI|55|33175|Hatley village|Incorporated Place|A|Marathon County
+WI|55|33225|Haugen village|County Subdivision|F|Barron County
+WI|55|33225|Haugen village|Incorporated Place|A|Barron County
+WI|55|33275|Hawkins village|County Subdivision|F|Rusk County
+WI|55|33275|Hawkins village|Incorporated Place|A|Rusk County
+WI|55|33300|Hawkins town|County Subdivision|A|Rusk County
+WI|55|33350|Hawthorne town|County Subdivision|A|Douglas County
+WI|55|33400|Hay River town|County Subdivision|A|Dunn County
+WI|55|33450|Hayward city|County Subdivision|F|Sawyer County
+WI|55|33450|Hayward city|Incorporated Place|A|Sawyer County
+WI|55|33475|Hayward town|County Subdivision|A|Sawyer County
+WI|55|33500|Hazel Green village|County Subdivision|F|Grant County, Lafayette County
+WI|55|33500|Hazel Green village|Incorporated Place|A|Grant County, Lafayette County
+WI|55|33525|Hazel Green town|County Subdivision|A|Grant County
+WI|55|33575|Hazelhurst town|County Subdivision|A|Oneida County
+WI|55|33675|Hebron CDP|Census Designated Place|S|Jefferson County
+WI|55|33700|Hebron town|County Subdivision|A|Jefferson County
+WI|55|33825|Helenville CDP|Census Designated Place|S|Jefferson County
+WI|55|33850|Helvetia town|County Subdivision|A|Waupaca County
+WI|55|33900|Hendren town|County Subdivision|A|Clark County
+WI|55|33925|Henrietta town|County Subdivision|A|Richland County
+WI|55|33975|Herbster CDP|Census Designated Place|S|Bayfield County
+WI|55|34000|Herman town|County Subdivision|A|Dodge County
+WI|55|34025|Herman town|County Subdivision|A|Shawano County
+WI|55|34050|Herman town|County Subdivision|A|Sheboygan County
+WI|55|34200|Hewett town|County Subdivision|A|Clark County
+WI|55|34225|Hewitt town|County Subdivision|A|Marathon County
+WI|55|34250|Hewitt village|County Subdivision|F|Wood County
+WI|55|34250|Hewitt village|Incorporated Place|A|Wood County
+WI|55|34300|Hickory Grove town|County Subdivision|A|Grant County
+WI|55|34425|Highland town|County Subdivision|A|Douglas County
+WI|55|34450|Highland village|County Subdivision|F|Iowa County
+WI|55|34450|Highland village|Incorporated Place|A|Iowa County
+WI|55|34475|Highland town|County Subdivision|A|Iowa County
+WI|55|34575|Hilbert village|County Subdivision|F|Calumet County
+WI|55|34575|Hilbert village|Incorporated Place|A|Calumet County
+WI|55|34650|Hiles town|County Subdivision|A|Forest County
+WI|55|34675|Hiles town|County Subdivision|A|Wood County
+WI|55|34725|Hill town|County Subdivision|A|Price County
+WI|55|34825|Hillsboro city|County Subdivision|F|Vernon County
+WI|55|34825|Hillsboro city|Incorporated Place|A|Vernon County
+WI|55|34850|Hillsboro town|County Subdivision|A|Vernon County
+WI|55|35000|Hingham CDP|Census Designated Place|S|Sheboygan County
+WI|55|35050|Hixon town|County Subdivision|A|Clark County
+WI|55|35075|Hixton village|County Subdivision|F|Jackson County
+WI|55|35075|Hixton village|Incorporated Place|A|Jackson County
+WI|55|35100|Hixton town|County Subdivision|A|Jackson County
+WI|55|35125|Hoard town|County Subdivision|A|Clark County
+WI|55|35150|Hobart village|County Subdivision|F|Brown County
+WI|55|35150|Hobart village|Incorporated Place|A|Brown County
+WI|55|35225|Holcombe CDP|Census Designated Place|S|Chippewa County
+WI|55|35325|Holland town|County Subdivision|A|Brown County
+WI|55|35350|Holland town|County Subdivision|A|La Crosse County
+WI|55|35375|Holland town|County Subdivision|A|Sheboygan County
+WI|55|35400|Hollandale village|County Subdivision|F|Iowa County
+WI|55|35400|Hollandale village|Incorporated Place|A|Iowa County
+WI|55|35450|Holmen village|County Subdivision|F|La Crosse County
+WI|55|35450|Holmen village|Incorporated Place|A|La Crosse County
+WI|55|35500|Holton town|County Subdivision|A|Marathon County
+WI|55|35525|Holway town|County Subdivision|A|Taylor County
+WI|55|35600|Homestead town|County Subdivision|A|Florence County
+WI|55|35625|Honey Creek town|County Subdivision|A|Sauk County
+WI|55|35750|Horicon city|County Subdivision|F|Dodge County
+WI|55|35750|Horicon city|Incorporated Place|A|Dodge County
+WI|55|35825|Hortonia town|County Subdivision|A|Outagamie County
+WI|55|35850|Hortonville village|County Subdivision|F|Outagamie County
+WI|55|35850|Hortonville village|Incorporated Place|A|Outagamie County
+WI|55|35900|Houlton CDP|Census Designated Place|S|St. Croix County
+WI|55|35925|How town|County Subdivision|A|Oconto County
+WI|55|35950|Howard village|County Subdivision|F|Brown County, Outagamie County
+WI|55|35950|Howard village|Incorporated Place|A|Brown County, Outagamie County
+WI|55|36000|Howard town|County Subdivision|A|Chippewa County
+WI|55|36025|Howards Grove village|County Subdivision|F|Sheboygan County
+WI|55|36025|Howards Grove village|Incorporated Place|A|Sheboygan County
+WI|55|36100|Hubbard town|County Subdivision|A|Dodge County
+WI|55|36125|Hubbard town|County Subdivision|A|Rusk County
+WI|55|36250|Hudson city|County Subdivision|F|St. Croix County
+WI|55|36250|Hudson city|Incorporated Place|A|St. Croix County
+WI|55|36275|Hudson town|County Subdivision|A|St. Croix County
+WI|55|36300|Hughes town|County Subdivision|A|Bayfield County
+WI|55|36325|Hull town|County Subdivision|A|Marathon County
+WI|55|36350|Hull town|County Subdivision|A|Portage County
+WI|55|36400|Humbird CDP|Census Designated Place|S|Clark County
+WI|55|36425|Humboldt town|County Subdivision|A|Brown County
+WI|55|36450|Hunter town|County Subdivision|A|Sawyer County
+WI|55|36525|Hurley city|County Subdivision|F|Iron County
+WI|55|36525|Hurley city|Incorporated Place|A|Iron County
+WI|55|36625|Hustisford village|County Subdivision|F|Dodge County
+WI|55|36625|Hustisford village|Incorporated Place|A|Dodge County
+WI|55|36650|Hustisford town|County Subdivision|A|Dodge County
+WI|55|36675|Hustler village|County Subdivision|F|Juneau County
+WI|55|36675|Hustler village|Incorporated Place|A|Juneau County
+WI|55|36700|Hutchins town|County Subdivision|A|Shawano County
+WI|55|36800|Independence city|County Subdivision|F|Trempealeau County
+WI|55|36800|Independence city|Incorporated Place|A|Trempealeau County
+WI|55|36925|Ingram village|County Subdivision|F|Rusk County
+WI|55|36925|Ingram village|Incorporated Place|A|Rusk County
+WI|55|37025|Iola village|County Subdivision|F|Waupaca County
+WI|55|37025|Iola village|Incorporated Place|A|Waupaca County
+WI|55|37050|Iola town|County Subdivision|A|Waupaca County
+WI|55|37125|Iron Belt CDP|Census Designated Place|S|Iron County
+WI|55|37150|Iron Ridge village|County Subdivision|F|Dodge County
+WI|55|37150|Iron Ridge village|Incorporated Place|A|Dodge County
+WI|55|37175|Iron River CDP|Census Designated Place|S|Bayfield County
+WI|55|37200|Iron River town|County Subdivision|A|Bayfield County
+WI|55|37225|Ironton village|County Subdivision|F|Sauk County
+WI|55|37225|Ironton village|Incorporated Place|A|Sauk County
+WI|55|37250|Ironton town|County Subdivision|A|Sauk County
+WI|55|37275|Irving town|County Subdivision|A|Jackson County
+WI|55|37350|Isabelle town|County Subdivision|A|Pierce County
+WI|55|37500|Ithaca town|County Subdivision|A|Richland County
+WI|55|37575|Ixonia CDP|Census Designated Place|S|Jefferson County
+WI|55|37600|Ixonia town|County Subdivision|A|Jefferson County
+WI|55|37625|Jackson town|County Subdivision|A|Adams County
+WI|55|37650|Jackson town|County Subdivision|A|Burnett County
+WI|55|37675|Jackson village|County Subdivision|F|Washington County
+WI|55|37675|Jackson village|Incorporated Place|A|Washington County
+WI|55|37700|Jackson town|County Subdivision|A|Washington County
+WI|55|37750|Jacksonport town|County Subdivision|A|Door County
+WI|55|37775|Jacobs town|County Subdivision|A|Ashland County
+WI|55|37800|Jamestown town|County Subdivision|A|Grant County
+WI|55|37825|Janesville city|County Subdivision|F|Rock County
+WI|55|37825|Janesville city|Incorporated Place|A|Rock County
+WI|55|37850|Janesville town|County Subdivision|A|Rock County
+WI|55|37875|Jefferson town|County Subdivision|A|Green County
+WI|55|37900|Jefferson city|County Subdivision|F|Jefferson County
+WI|55|37900|Jefferson city|Incorporated Place|A|Jefferson County
+WI|55|37925|Jefferson town|County Subdivision|A|Jefferson County
+WI|55|37950|Jefferson town|County Subdivision|A|Monroe County
+WI|55|37975|Jefferson town|County Subdivision|A|Vernon County
+WI|55|38225|Jim Falls CDP|Census Designated Place|S|Chippewa County
+WI|55|38300|Johnson town|County Subdivision|A|Marathon County
+WI|55|38350|Johnson Creek village|County Subdivision|F|Jefferson County
+WI|55|38350|Johnson Creek village|Incorporated Place|A|Jefferson County
+WI|55|38400|Johnstown town|County Subdivision|A|Polk County
+WI|55|38450|Johnstown town|County Subdivision|A|Rock County
+WI|55|38550|Jordan town|County Subdivision|A|Green County
+WI|55|38600|Juda CDP|Census Designated Place|S|Green County
+WI|55|38625|Jump River CDP|Census Designated Place|S|Taylor County
+WI|55|38627|Jump River town|County Subdivision|A|Taylor County
+WI|55|38650|Junction City village|County Subdivision|F|Portage County
+WI|55|38650|Junction City village|Incorporated Place|A|Portage County
+WI|55|38675|Juneau city|County Subdivision|F|Dodge County
+WI|55|38675|Juneau city|Incorporated Place|A|Dodge County
+WI|55|38800|Kaukauna city|County Subdivision|F|Outagamie County
+WI|55|38800|Kaukauna city|Incorporated Place|A|Outagamie County
+WI|55|38825|Kaukauna town|County Subdivision|A|Outagamie County
+WI|55|38900|Kekoskee village|County Subdivision|F|Dodge County
+WI|55|38900|Kekoskee village|Incorporated Place|A|Dodge County
+WI|55|39000|Kellnersville village|County Subdivision|F|Manitowoc County
+WI|55|39000|Kellnersville village|Incorporated Place|A|Manitowoc County
+WI|55|39025|Kelly town|County Subdivision|A|Bayfield County
+WI|55|39125|Kendall town|County Subdivision|A|Lafayette County
+WI|55|39150|Kendall village|County Subdivision|F|Monroe County
+WI|55|39150|Kendall village|Incorporated Place|A|Monroe County
+WI|55|39175|Kennan village|County Subdivision|F|Price County
+WI|55|39175|Kennan village|Incorporated Place|A|Price County
+WI|55|39200|Kennan town|County Subdivision|A|Price County
+WI|55|39225|Kenosha city|County Subdivision|F|Kenosha County
+WI|55|39225|Kenosha city|Incorporated Place|A|Kenosha County
+WI|55|39250|Keshena CDP|Census Designated Place|S|Menominee County
+WI|55|39300|Kewaskum village|County Subdivision|F|Fond du Lac County, Washington County
+WI|55|39300|Kewaskum village|Incorporated Place|A|Fond du Lac County, Washington County
+WI|55|39325|Kewaskum town|County Subdivision|A|Washington County
+WI|55|39350|Kewaunee city|County Subdivision|F|Kewaunee County
+WI|55|39350|Kewaunee city|Incorporated Place|A|Kewaunee County
+WI|55|39425|Keystone town|County Subdivision|A|Bayfield County
+WI|55|39475|Kickapoo town|County Subdivision|A|Vernon County
+WI|55|39525|Kiel city|County Subdivision|F|Calumet County, Manitowoc County
+WI|55|39525|Kiel city|Incorporated Place|A|Calumet County, Manitowoc County
+WI|55|39550|Kieler CDP|Census Designated Place|S|Grant County
+WI|55|39575|Kildare town|County Subdivision|A|Juneau County
+WI|55|39625|Kimball town|County Subdivision|A|Iron County
+WI|55|39650|Kimberly village|County Subdivision|F|Outagamie County
+WI|55|39650|Kimberly village|Incorporated Place|A|Outagamie County
+WI|55|39675|King town|County Subdivision|A|Lincoln County
+WI|55|39700|King CDP|Census Designated Place|S|Waupaca County
+WI|55|39750|Kingston village|County Subdivision|F|Green Lake County
+WI|55|39750|Kingston village|Incorporated Place|A|Green Lake County
+WI|55|39775|Kingston town|County Subdivision|A|Green Lake County
+WI|55|39800|Kingston town|County Subdivision|A|Juneau County
+WI|55|39825|Kinnickinnic town|County Subdivision|A|St. Croix County
+WI|55|39975|Knapp village|County Subdivision|F|Dunn County
+WI|55|39975|Knapp village|Incorporated Place|A|Dunn County
+WI|55|40000|Knapp town|County Subdivision|A|Jackson County
+WI|55|40075|Knight town|County Subdivision|A|Iron County
+WI|55|40125|Knowlton CDP|Census Designated Place|S|Marathon County
+WI|55|40150|Knowlton town|County Subdivision|A|Marathon County
+WI|55|40175|Knox town|County Subdivision|A|Price County
+WI|55|40275|Kohler village|County Subdivision|F|Sheboygan County
+WI|55|40275|Kohler village|Incorporated Place|A|Sheboygan County
+WI|55|40325|Komensky town|County Subdivision|A|Jackson County
+WI|55|40375|Koshkonong town|County Subdivision|A|Jefferson County
+WI|55|40425|Kossuth town|County Subdivision|A|Manitowoc County
+WI|55|40450|Krakow CDP|Census Designated Place|S|Shawano County
+WI|55|40550|Kronenwetter village|County Subdivision|F|Marathon County
+WI|55|40550|Kronenwetter village|Incorporated Place|A|Marathon County
+WI|55|40675|Lac du Flambeau CDP|Census Designated Place|S|Vilas County
+WI|55|40687|Lac du Flambeau town|County Subdivision|A|Vilas County
+WI|55|40750|Lac La Belle village|County Subdivision|F|Jefferson County, Waukesha County
+WI|55|40750|Lac La Belle village|Incorporated Place|A|Jefferson County, Waukesha County
+WI|55|40775|La Crosse city|County Subdivision|F|La Crosse County
+WI|55|40775|La Crosse city|Incorporated Place|A|La Crosse County
+WI|55|40850|Ladysmith city|County Subdivision|F|Rusk County
+WI|55|40850|Ladysmith city|Incorporated Place|A|Rusk County
+WI|55|40875|La Farge village|County Subdivision|F|Vernon County
+WI|55|40875|La Farge village|Incorporated Place|A|Vernon County
+WI|55|40900|Lafayette town|County Subdivision|A|Chippewa County
+WI|55|40925|Lafayette town|County Subdivision|A|Monroe County
+WI|55|40950|Lafayette town|County Subdivision|A|Walworth County
+WI|55|40975|La Follette town|County Subdivision|A|Burnett County
+WI|55|41000|La Grange town|County Subdivision|A|Monroe County
+WI|55|41050|La Grange town|County Subdivision|A|Walworth County
+WI|55|41075|Lake town|County Subdivision|A|Marinette County
+WI|55|41150|Lake town|County Subdivision|A|Price County
+WI|55|41160|Lake Arrowhead CDP|Census Designated Place|S|Adams County
+WI|55|41210|Lake Camelot CDP|Census Designated Place|S|Adams County
+WI|55|41300|Lake Delton village|County Subdivision|F|Sauk County
+WI|55|41300|Lake Delton village|Incorporated Place|A|Sauk County
+WI|55|41450|Lake Geneva city|County Subdivision|F|Walworth County
+WI|55|41450|Lake Geneva city|Incorporated Place|A|Walworth County
+WI|55|41525|Lake Hallie village|County Subdivision|F|Chippewa County
+WI|55|41525|Lake Hallie village|Incorporated Place|A|Chippewa County
+WI|55|41550|Lake Holcombe town|County Subdivision|A|Chippewa County
+WI|55|41560|Lake Ivanhoe CDP|Census Designated Place|S|Walworth County
+WI|55|41583|Lake Koshkonong CDP|Census Designated Place|S|Jefferson County
+WI|55|41600|Lakeland town|County Subdivision|A|Barron County
+WI|55|41645|Lake Lorraine CDP|Census Designated Place|S|Walworth County
+WI|55|41675|Lake Mills city|County Subdivision|F|Jefferson County
+WI|55|41675|Lake Mills city|Incorporated Place|A|Jefferson County
+WI|55|41700|Lake Mills town|County Subdivision|A|Jefferson County
+WI|55|41725|Lake Nebagamon village|County Subdivision|F|Douglas County
+WI|55|41725|Lake Nebagamon village|Incorporated Place|A|Douglas County
+WI|55|41765|Lake Ripley CDP|Census Designated Place|S|Jefferson County
+WI|55|41770|Lake Shangrila CDP|Census Designated Place|S|Kenosha County
+WI|55|41772|Lake Sherwood CDP|Census Designated Place|S|Adams County
+WI|55|41800|Lakeside town|County Subdivision|A|Douglas County
+WI|55|41875|Lake Tomahawk CDP|Census Designated Place|S|Oneida County
+WI|55|41887|Lake Tomahawk town|County Subdivision|A|Oneida County
+WI|55|41900|Laketown town|County Subdivision|A|Polk County
+WI|55|41975|Lake Wazeecha CDP|Census Designated Place|S|Wood County
+WI|55|42012|Lake Wisconsin CDP|Census Designated Place|S|Columbia County, Sauk County
+WI|55|42025|Lake Wissota CDP|Census Designated Place|S|Chippewa County
+WI|55|42050|Lakewood CDP|Census Designated Place|S|Oconto County
+WI|55|42075|Lakewood town|County Subdivision|A|Oconto County
+WI|55|42125|Lamartine town|County Subdivision|A|Fond du Lac County
+WI|55|42175|Lamont town|County Subdivision|A|Lafayette County
+WI|55|42225|Lanark town|County Subdivision|A|Portage County
+WI|55|42250|Lancaster city|County Subdivision|F|Grant County
+WI|55|42250|Lancaster city|Incorporated Place|A|Grant County
+WI|55|42325|Land O'Lakes town|County Subdivision|A|Vilas County
+WI|55|42425|Langlade town|County Subdivision|A|Langlade County
+WI|55|42450|Lannon village|County Subdivision|F|Waukesha County
+WI|55|42450|Lannon village|Incorporated Place|A|Waukesha County
+WI|55|42475|Laona CDP|Census Designated Place|S|Forest County
+WI|55|42500|Laona town|County Subdivision|A|Forest County
+WI|55|42562|La Pointe town|County Subdivision|A|Ashland County
+WI|55|42575|La Prairie town|County Subdivision|A|Rock County
+WI|55|42650|Larrabee town|County Subdivision|A|Waupaca County
+WI|55|42805|Lauderdale Lakes CDP|Census Designated Place|S|Walworth County
+WI|55|42825|La Valle village|County Subdivision|F|Sauk County
+WI|55|42825|La Valle village|Incorporated Place|A|Sauk County
+WI|55|42850|La Valle town|County Subdivision|A|Sauk County
+WI|55|42900|Lawrence town|County Subdivision|A|Brown County
+WI|55|42950|Lawrence town|County Subdivision|A|Rusk County
+WI|55|43025|Lebanon CDP|Census Designated Place|S|Dodge County
+WI|55|43050|Lebanon town|County Subdivision|A|Dodge County
+WI|55|43075|Lebanon town|County Subdivision|A|Waupaca County
+WI|55|43090|Ledgeview town|County Subdivision|A|Brown County
+WI|55|43125|Leeds town|County Subdivision|A|Columbia County
+WI|55|43207|Legend Lake CDP|Census Designated Place|S|Menominee County
+WI|55|43300|Lemonweir town|County Subdivision|A|Juneau County
+WI|55|43325|Lena village|County Subdivision|F|Oconto County
+WI|55|43325|Lena village|Incorporated Place|A|Oconto County
+WI|55|43350|Lena town|County Subdivision|A|Oconto County
+WI|55|43400|Lenroot town|County Subdivision|A|Sawyer County
+WI|55|43425|Leola town|County Subdivision|A|Adams County
+WI|55|43475|Leon town|County Subdivision|A|Monroe County
+WI|55|43500|Leon town|County Subdivision|A|Waushara County
+WI|55|43575|Leopolis CDP|Census Designated Place|S|Shawano County
+WI|55|43650|Leroy town|County Subdivision|A|Dodge County
+WI|55|43675|Lessor town|County Subdivision|A|Shawano County
+WI|55|43700|Levis town|County Subdivision|A|Clark County
+WI|55|43725|Lewis CDP|Census Designated Place|S|Polk County
+WI|55|43775|Lewiston town|County Subdivision|A|Columbia County
+WI|55|43825|Liberty town|County Subdivision|A|Grant County
+WI|55|43850|Liberty town|County Subdivision|A|Manitowoc County
+WI|55|43875|Liberty town|County Subdivision|A|Outagamie County
+WI|55|43900|Liberty town|County Subdivision|A|Vernon County
+WI|55|43925|Liberty Grove town|County Subdivision|A|Door County
+WI|55|43985|Lily Lake CDP|Census Designated Place|S|Kenosha County
+WI|55|44050|Lima town|County Subdivision|A|Grant County
+WI|55|44075|Lima town|County Subdivision|A|Pepin County
+WI|55|44125|Lima town|County Subdivision|A|Rock County
+WI|55|44150|Lima town|County Subdivision|A|Sheboygan County
+WI|55|44225|Lime Ridge village|County Subdivision|F|Sauk County
+WI|55|44225|Lime Ridge village|Incorporated Place|A|Sauk County
+WI|55|44250|Lincoln town|County Subdivision|A|Adams County
+WI|55|44275|Lincoln town|County Subdivision|A|Bayfield County
+WI|55|44300|Lincoln town|County Subdivision|A|Buffalo County
+WI|55|44325|Lincoln town|County Subdivision|A|Burnett County
+WI|55|44350|Lincoln town|County Subdivision|A|Eau Claire County
+WI|55|44375|Lincoln town|County Subdivision|A|Forest County
+WI|55|44425|Lincoln town|County Subdivision|A|Kewaunee County
+WI|55|44450|Lincoln town|County Subdivision|A|Monroe County
+WI|55|44475|Lincoln town|County Subdivision|A|Polk County
+WI|55|44500|Lincoln town|County Subdivision|A|Trempealeau County
+WI|55|44525|Lincoln town|County Subdivision|A|Vilas County
+WI|55|44550|Lincoln town|County Subdivision|A|Wood County
+WI|55|44575|Lind town|County Subdivision|A|Waupaca County
+WI|55|44625|Linden village|County Subdivision|F|Iowa County
+WI|55|44625|Linden village|Incorporated Place|A|Iowa County
+WI|55|44650|Linden town|County Subdivision|A|Iowa County
+WI|55|44675|Lindina town|County Subdivision|A|Juneau County
+WI|55|44750|Linn town|County Subdivision|A|Walworth County
+WI|55|44800|Linwood town|County Subdivision|A|Portage County
+WI|55|44825|Lisbon town|County Subdivision|A|Juneau County
+WI|55|44850|Lisbon town|County Subdivision|A|Waukesha County
+WI|55|44900|Little Black town|County Subdivision|A|Taylor County
+WI|55|44950|Little Chute village|County Subdivision|F|Outagamie County
+WI|55|44950|Little Chute village|Incorporated Place|A|Outagamie County
+WI|55|44975|Little Falls town|County Subdivision|A|Monroe County
+WI|55|45025|Little Grant town|County Subdivision|A|Grant County
+WI|55|45150|Little Rice town|County Subdivision|A|Oneida County
+WI|55|45175|Little River town|County Subdivision|A|Oconto County
+WI|55|45220|Little Round Lake CDP|Census Designated Place|S|Sawyer County
+WI|55|45225|Little Sturgeon CDP|Census Designated Place|S|Door County
+WI|55|45275|Little Suamico town|County Subdivision|A|Oconto County
+WI|55|45300|Little Wolf town|County Subdivision|A|Waupaca County
+WI|55|45325|Livingston village|County Subdivision|F|Grant County, Iowa County
+WI|55|45325|Livingston village|Incorporated Place|A|Grant County, Iowa County
+WI|55|45350|Lodi city|County Subdivision|F|Columbia County
+WI|55|45350|Lodi city|Incorporated Place|A|Columbia County
+WI|55|45375|Lodi town|County Subdivision|A|Columbia County
+WI|55|45400|Loganville village|County Subdivision|F|Sauk County
+WI|55|45400|Loganville village|Incorporated Place|A|Sauk County
+WI|55|45425|Lohrville village|County Subdivision|F|Waushara County
+WI|55|45425|Lohrville village|Incorporated Place|A|Waushara County
+WI|55|45475|Lomira village|County Subdivision|F|Dodge County
+WI|55|45475|Lomira village|Incorporated Place|A|Dodge County
+WI|55|45500|Lomira town|County Subdivision|A|Dodge County
+WI|55|45575|Lone Rock village|County Subdivision|F|Richland County
+WI|55|45575|Lone Rock village|Incorporated Place|A|Richland County
+WI|55|45600|Long Lake CDP|Census Designated Place|S|Florence County
+WI|55|45625|Long Lake town|County Subdivision|A|Florence County
+WI|55|45650|Long Lake town|County Subdivision|A|Washburn County
+WI|55|45700|Longwood town|County Subdivision|A|Clark County
+WI|55|45775|Lorain town|County Subdivision|A|Polk County
+WI|55|45950|Lowell village|County Subdivision|F|Dodge County
+WI|55|45950|Lowell village|Incorporated Place|A|Dodge County
+WI|55|45975|Lowell town|County Subdivision|A|Dodge County
+WI|55|46050|Lowville town|County Subdivision|A|Columbia County
+WI|55|46075|Loyal city|County Subdivision|F|Clark County
+WI|55|46075|Loyal city|Incorporated Place|A|Clark County
+WI|55|46100|Loyal town|County Subdivision|A|Clark County
+WI|55|46150|Lublin village|County Subdivision|F|Taylor County
+WI|55|46150|Lublin village|Incorporated Place|A|Taylor County
+WI|55|46175|Lucas town|County Subdivision|A|Dunn County
+WI|55|46200|Luck village|County Subdivision|F|Polk County
+WI|55|46200|Luck village|Incorporated Place|A|Polk County
+WI|55|46225|Luck town|County Subdivision|A|Polk County
+WI|55|46275|Ludington town|County Subdivision|A|Eau Claire County
+WI|55|46400|Luxemburg village|County Subdivision|F|Kewaunee County
+WI|55|46400|Luxemburg village|Incorporated Place|A|Kewaunee County
+WI|55|46425|Luxemburg town|County Subdivision|A|Kewaunee County
+WI|55|46525|Lyndon town|County Subdivision|A|Juneau County
+WI|55|46575|Lyndon town|County Subdivision|A|Sheboygan County
+WI|55|46600|Lyndon Station village|County Subdivision|F|Juneau County
+WI|55|46600|Lyndon Station village|Incorporated Place|A|Juneau County
+WI|55|46625|Lynn town|County Subdivision|A|Clark County
+WI|55|46650|Lynne town|County Subdivision|A|Oneida County
+WI|55|46675|Lynxville village|County Subdivision|F|Crawford County
+WI|55|46675|Lynxville village|Incorporated Place|A|Crawford County
+WI|55|46725|Lyons town|County Subdivision|A|Walworth County
+WI|55|46850|McFarland village|County Subdivision|F|Dane County
+WI|55|46850|McFarland village|Incorporated Place|A|Dane County
+WI|55|46875|Mackford town|County Subdivision|A|Green Lake County
+WI|55|46900|McKinley town|County Subdivision|A|Polk County
+WI|55|46925|McKinley town|County Subdivision|A|Taylor County
+WI|55|46975|McMillan town|County Subdivision|A|Marathon County
+WI|55|47025|Madge town|County Subdivision|A|Washburn County
+WI|55|48000|Madison city|County Subdivision|F|Dane County
+WI|55|48000|Madison city|Incorporated Place|A|Dane County
+WI|55|48025|Madison town|County Subdivision|A|Dane County
+WI|55|48150|Magnolia town|County Subdivision|A|Rock County
+WI|55|48175|Maiden Rock village|County Subdivision|F|Pierce County
+WI|55|48175|Maiden Rock village|Incorporated Place|A|Pierce County
+WI|55|48200|Maiden Rock town|County Subdivision|A|Pierce County
+WI|55|48225|Maine town|County Subdivision|A|Marathon County
+WI|55|48250|Maine town|County Subdivision|A|Outagamie County
+WI|55|48350|Manawa city|County Subdivision|F|Waupaca County
+WI|55|48350|Manawa city|Incorporated Place|A|Waupaca County
+WI|55|48400|Manchester town|County Subdivision|A|Green Lake County
+WI|55|48425|Manchester town|County Subdivision|A|Jackson County
+WI|55|48462|Manitowish Waters town|County Subdivision|A|Vilas County
+WI|55|48500|Manitowoc city|County Subdivision|F|Manitowoc County
+WI|55|48500|Manitowoc city|Incorporated Place|A|Manitowoc County
+WI|55|48525|Manitowoc town|County Subdivision|A|Manitowoc County
+WI|55|48575|Manitowoc Rapids town|County Subdivision|A|Manitowoc County
+WI|55|48725|Maple town|County Subdivision|A|Douglas County
+WI|55|48750|Maple Bluff village|County Subdivision|F|Dane County
+WI|55|48750|Maple Bluff village|Incorporated Place|A|Dane County
+WI|55|48775|Maple Creek town|County Subdivision|A|Outagamie County
+WI|55|48825|Maple Grove town|County Subdivision|A|Barron County
+WI|55|48875|Maple Grove town|County Subdivision|A|Manitowoc County
+WI|55|48900|Maple Grove town|County Subdivision|A|Shawano County
+WI|55|48925|Maplehurst town|County Subdivision|A|Taylor County
+WI|55|48950|Maple Plain town|County Subdivision|A|Barron County
+WI|55|49000|Maple Valley town|County Subdivision|A|Oconto County
+WI|55|49075|Marathon town|County Subdivision|A|Marathon County
+WI|55|49100|Marathon City village|County Subdivision|F|Marathon County
+WI|55|49100|Marathon City village|Incorporated Place|A|Marathon County
+WI|55|49150|Marcellon town|County Subdivision|A|Columbia County
+WI|55|49175|Marengo CDP|Census Designated Place|S|Ashland County
+WI|55|49200|Marengo town|County Subdivision|A|Ashland County
+WI|55|49250|Maribel village|County Subdivision|F|Manitowoc County
+WI|55|49250|Maribel village|Incorporated Place|A|Manitowoc County
+WI|55|49275|Marietta town|County Subdivision|A|Crawford County
+WI|55|49300|Marinette city|County Subdivision|F|Marinette County
+WI|55|49300|Marinette city|Incorporated Place|A|Marinette County
+WI|55|49350|Marion town|County Subdivision|A|Grant County
+WI|55|49375|Marion town|County Subdivision|A|Juneau County
+WI|55|49400|Marion city|County Subdivision|F|Shawano County, Waupaca County
+WI|55|49400|Marion city|Incorporated Place|A|Shawano County, Waupaca County
+WI|55|49425|Marion town|County Subdivision|A|Waushara County
+WI|55|49450|Markesan city|County Subdivision|F|Green Lake County
+WI|55|49450|Markesan city|Incorporated Place|A|Green Lake County
+WI|55|49500|Marquette village|County Subdivision|F|Green Lake County
+WI|55|49500|Marquette village|Incorporated Place|A|Green Lake County
+WI|55|49525|Marquette town|County Subdivision|A|Green Lake County
+WI|55|49575|Marshall village|County Subdivision|F|Dane County
+WI|55|49575|Marshall village|Incorporated Place|A|Dane County
+WI|55|49600|Marshall town|County Subdivision|A|Richland County
+WI|55|49625|Marshall town|County Subdivision|A|Rusk County
+WI|55|49650|Marshfield town|County Subdivision|A|Fond du Lac County
+WI|55|49675|Marshfield city|County Subdivision|F|Marathon County, Wood County
+WI|55|49675|Marshfield city|Incorporated Place|A|Marathon County, Wood County
+WI|55|49700|Marshfield town|County Subdivision|A|Wood County
+WI|55|49775|Martell town|County Subdivision|A|Pierce County
+WI|55|49900|Mason village|County Subdivision|F|Bayfield County
+WI|55|49900|Mason village|Incorporated Place|A|Bayfield County
+WI|55|49925|Mason town|County Subdivision|A|Bayfield County
+WI|55|49975|Matteson town|County Subdivision|A|Waupaca County
+WI|55|50000|Mattoon village|County Subdivision|F|Shawano County
+WI|55|50000|Mattoon village|Incorporated Place|A|Shawano County
+WI|55|50025|Mauston city|County Subdivision|F|Juneau County
+WI|55|50025|Mauston city|Incorporated Place|A|Juneau County
+WI|55|50075|Maxville town|County Subdivision|A|Buffalo County
+WI|55|50175|Mayville town|County Subdivision|A|Clark County
+WI|55|50200|Mayville city|County Subdivision|F|Dodge County
+WI|55|50200|Mayville city|Incorporated Place|A|Dodge County
+WI|55|50225|Mazomanie village|County Subdivision|F|Dane County
+WI|55|50225|Mazomanie village|Incorporated Place|A|Dane County
+WI|55|50250|Mazomanie town|County Subdivision|A|Dane County
+WI|55|50275|Mead town|County Subdivision|A|Clark County
+WI|55|50300|Meadowbrook town|County Subdivision|A|Sawyer County
+WI|55|50350|Mecan town|County Subdivision|A|Marquette County
+WI|55|50400|Medary town|County Subdivision|A|La Crosse County
+WI|55|50425|Medford city|County Subdivision|F|Taylor County
+WI|55|50425|Medford city|Incorporated Place|A|Taylor County
+WI|55|50450|Medford town|County Subdivision|A|Taylor County
+WI|55|50475|Medina town|County Subdivision|A|Dane County
+WI|55|50625|Meeme town|County Subdivision|A|Manitowoc County
+WI|55|50650|Meenon town|County Subdivision|A|Burnett County
+WI|55|50700|Mellen city|County Subdivision|F|Ashland County
+WI|55|50700|Mellen city|Incorporated Place|A|Ashland County
+WI|55|50750|Melrose village|County Subdivision|F|Jackson County
+WI|55|50750|Melrose village|Incorporated Place|A|Jackson County
+WI|55|50775|Melrose town|County Subdivision|A|Jackson County
+WI|55|50800|Melvina village|County Subdivision|F|Monroe County
+WI|55|50800|Melvina village|Incorporated Place|A|Monroe County
+WI|55|50825|Menasha city|County Subdivision|F|Calumet County, Winnebago County
+WI|55|50825|Menasha city|Incorporated Place|A|Calumet County, Winnebago County
+WI|55|50850|Menasha town|County Subdivision|A|Winnebago County
+WI|55|50975|Menominee town|County Subdivision|A|Menominee County
+WI|55|51000|Menomonee Falls village|County Subdivision|F|Waukesha County
+WI|55|51000|Menomonee Falls village|Incorporated Place|A|Waukesha County
+WI|55|51025|Menomonie city|County Subdivision|F|Dunn County
+WI|55|51025|Menomonie city|Incorporated Place|A|Dunn County
+WI|55|51050|Menomonie town|County Subdivision|A|Dunn County
+WI|55|51125|Mentor town|County Subdivision|A|Clark County
+WI|55|51150|Mequon city|County Subdivision|F|Ozaukee County
+WI|55|51150|Mequon city|Incorporated Place|A|Ozaukee County
+WI|55|51175|Mercer CDP|Census Designated Place|S|Iron County
+WI|55|51200|Mercer town|County Subdivision|A|Iron County
+WI|55|51250|Merrill city|County Subdivision|F|Lincoln County
+WI|55|51250|Merrill city|Incorporated Place|A|Lincoln County
+WI|55|51275|Merrill town|County Subdivision|A|Lincoln County
+WI|55|51300|Merrillan village|County Subdivision|F|Jackson County
+WI|55|51300|Merrillan village|Incorporated Place|A|Jackson County
+WI|55|51325|Merrimac village|County Subdivision|F|Sauk County
+WI|55|51325|Merrimac village|Incorporated Place|A|Sauk County
+WI|55|51350|Merrimac town|County Subdivision|A|Sauk County
+WI|55|51375|Merton village|County Subdivision|F|Waukesha County
+WI|55|51375|Merton village|Incorporated Place|A|Waukesha County
+WI|55|51400|Merton town|County Subdivision|A|Waukesha County
+WI|55|51425|Meteor town|County Subdivision|A|Sawyer County
+WI|55|51450|Metomen town|County Subdivision|A|Fond du Lac County
+WI|55|51537|Middle Inlet town|County Subdivision|A|Marinette County
+WI|55|51575|Middleton city|County Subdivision|F|Dane County
+WI|55|51575|Middleton city|Incorporated Place|A|Dane County
+WI|55|51600|Middleton town|County Subdivision|A|Dane County
+WI|55|51617|Middle Village CDP|Census Designated Place|S|Menominee County, Shawano County
+WI|55|51725|Mifflin town|County Subdivision|A|Iowa County
+WI|55|51850|Milford town|County Subdivision|A|Jefferson County
+WI|55|51875|Milladore village|County Subdivision|F|Portage County, Wood County
+WI|55|51875|Milladore village|Incorporated Place|A|Portage County, Wood County
+WI|55|51900|Milladore town|County Subdivision|A|Wood County
+WI|55|52025|Millston CDP|Census Designated Place|S|Jackson County
+WI|55|52050|Millston town|County Subdivision|A|Jackson County
+WI|55|52075|Milltown village|County Subdivision|F|Polk County
+WI|55|52075|Milltown village|Incorporated Place|A|Polk County
+WI|55|52100|Milltown town|County Subdivision|A|Polk County
+WI|55|52150|Millville town|County Subdivision|A|Grant County
+WI|55|52175|Milton town|County Subdivision|A|Buffalo County
+WI|55|52200|Milton city|County Subdivision|F|Rock County
+WI|55|52200|Milton city|Incorporated Place|A|Rock County
+WI|55|52225|Milton town|County Subdivision|A|Rock County
+WI|55|53000|Milwaukee city|County Subdivision|F|Milwaukee County, Washington County, Waukesha County
+WI|55|53000|Milwaukee city|Incorporated Place|A|Milwaukee County, Washington County, Waukesha County
+WI|55|53100|Mineral Point city|County Subdivision|F|Iowa County
+WI|55|53100|Mineral Point city|Incorporated Place|A|Iowa County
+WI|55|53125|Mineral Point town|County Subdivision|A|Iowa County
+WI|55|53200|Minocqua CDP|Census Designated Place|S|Oneida County
+WI|55|53225|Minocqua town|County Subdivision|A|Oneida County
+WI|55|53250|Minong village|County Subdivision|F|Washburn County
+WI|55|53250|Minong village|Incorporated Place|A|Washburn County
+WI|55|53275|Minong town|County Subdivision|A|Washburn County
+WI|55|53325|Mishicot village|County Subdivision|F|Manitowoc County
+WI|55|53325|Mishicot village|Incorporated Place|A|Manitowoc County
+WI|55|53350|Mishicot town|County Subdivision|A|Manitowoc County
+WI|55|53375|Mitchell town|County Subdivision|A|Sheboygan County
+WI|55|53450|Modena town|County Subdivision|A|Buffalo County
+WI|55|53500|Mole Lake CDP|Census Designated Place|S|Forest County
+WI|55|53550|Molitor town|County Subdivision|A|Taylor County
+WI|55|53600|Mondovi city|County Subdivision|F|Buffalo County
+WI|55|53600|Mondovi city|Incorporated Place|A|Buffalo County
+WI|55|53625|Mondovi town|County Subdivision|A|Buffalo County
+WI|55|53662|Monico town|County Subdivision|A|Oneida County
+WI|55|53675|Monona city|County Subdivision|F|Dane County
+WI|55|53675|Monona city|Incorporated Place|A|Dane County
+WI|55|53725|Monroe town|County Subdivision|A|Adams County
+WI|55|53750|Monroe city|County Subdivision|F|Green County
+WI|55|53750|Monroe city|Incorporated Place|A|Green County
+WI|55|53775|Monroe town|County Subdivision|A|Green County
+WI|55|53850|Montana town|County Subdivision|A|Buffalo County
+WI|55|53875|Montello city|County Subdivision|F|Marquette County
+WI|55|53875|Montello city|Incorporated Place|A|Marquette County
+WI|55|53900|Montello town|County Subdivision|A|Marquette County
+WI|55|53950|Montfort village|County Subdivision|F|Grant County, Iowa County
+WI|55|53950|Montfort village|Incorporated Place|A|Grant County, Iowa County
+WI|55|54000|Monticello village|County Subdivision|F|Green County
+WI|55|54000|Monticello village|Incorporated Place|A|Green County
+WI|55|54025|Monticello town|County Subdivision|A|Lafayette County
+WI|55|54050|Montpelier town|County Subdivision|A|Kewaunee County
+WI|55|54075|Montreal city|County Subdivision|F|Iron County
+WI|55|54075|Montreal city|Incorporated Place|A|Iron County
+WI|55|54100|Montrose town|County Subdivision|A|Dane County
+WI|55|54200|Morgan town|County Subdivision|A|Oconto County
+WI|55|54250|Morris town|County Subdivision|A|Shawano County
+WI|55|54300|Morrison town|County Subdivision|A|Brown County
+WI|55|54400|Morse town|County Subdivision|A|Ashland County
+WI|55|54425|Moscow town|County Subdivision|A|Iowa County
+WI|55|54475|Mosel town|County Subdivision|A|Sheboygan County
+WI|55|54500|Mosinee city|County Subdivision|F|Marathon County
+WI|55|54500|Mosinee city|Incorporated Place|A|Marathon County
+WI|55|54525|Mosinee town|County Subdivision|A|Marathon County
+WI|55|54600|Moundville town|County Subdivision|A|Marquette County
+WI|55|54625|Mountain CDP|Census Designated Place|S|Oconto County
+WI|55|54630|Mountain town|County Subdivision|A|Oconto County
+WI|55|54650|Mount Calvary village|County Subdivision|F|Fond du Lac County
+WI|55|54650|Mount Calvary village|Incorporated Place|A|Fond du Lac County
+WI|55|54675|Mount Hope village|County Subdivision|F|Grant County
+WI|55|54675|Mount Hope village|Incorporated Place|A|Grant County
+WI|55|54700|Mount Hope town|County Subdivision|A|Grant County
+WI|55|54725|Mount Horeb village|County Subdivision|F|Dane County
+WI|55|54725|Mount Horeb village|Incorporated Place|A|Dane County
+WI|55|54775|Mount Ida town|County Subdivision|A|Grant County
+WI|55|54825|Mount Morris town|County Subdivision|A|Waushara County
+WI|55|54850|Mount Pleasant town|County Subdivision|A|Green County
+WI|55|54875|Mount Pleasant village|County Subdivision|F|Racine County
+WI|55|54875|Mount Pleasant village|Incorporated Place|A|Racine County
+WI|55|54900|Mount Sterling village|County Subdivision|F|Crawford County
+WI|55|54900|Mount Sterling village|Incorporated Place|A|Crawford County
+WI|55|55025|Mukwa town|County Subdivision|A|Waupaca County
+WI|55|55050|Mukwonago village|County Subdivision|F|Walworth County, Waukesha County
+WI|55|55050|Mukwonago village|Incorporated Place|A|Walworth County, Waukesha County
+WI|55|55075|Mukwonago town|County Subdivision|A|Waukesha County
+WI|55|55175|Murry town|County Subdivision|A|Rusk County
+WI|55|55200|Muscoda village|County Subdivision|F|Grant County, Iowa County
+WI|55|55200|Muscoda village|Incorporated Place|A|Grant County, Iowa County
+WI|55|55225|Muscoda town|County Subdivision|A|Grant County
+WI|55|55275|Muskego city|County Subdivision|F|Waukesha County
+WI|55|55275|Muskego city|Incorporated Place|A|Waukesha County
+WI|55|55375|Namakagon town|County Subdivision|A|Bayfield County
+WI|55|55450|Naples town|County Subdivision|A|Buffalo County
+WI|55|55500|Nasewaupee town|County Subdivision|A|Door County
+WI|55|55550|Nashotah village|County Subdivision|F|Waukesha County
+WI|55|55550|Nashotah village|Incorporated Place|A|Waukesha County
+WI|55|55575|Nashville town|County Subdivision|A|Forest County
+WI|55|55650|Navarino CDP|Census Designated Place|S|Shawano County
+WI|55|55675|Navarino town|County Subdivision|A|Shawano County
+WI|55|55700|Necedah village|County Subdivision|F|Juneau County
+WI|55|55700|Necedah village|Incorporated Place|A|Juneau County
+WI|55|55725|Necedah town|County Subdivision|A|Juneau County
+WI|55|55750|Neenah city|County Subdivision|F|Winnebago County
+WI|55|55750|Neenah city|Incorporated Place|A|Winnebago County
+WI|55|55775|Neenah town|County Subdivision|A|Winnebago County
+WI|55|55800|Neillsville city|County Subdivision|F|Clark County
+WI|55|55800|Neillsville city|Incorporated Place|A|Clark County
+WI|55|55850|Nekimi town|County Subdivision|A|Winnebago County
+WI|55|55875|Nekoosa city|County Subdivision|F|Wood County
+WI|55|55875|Nekoosa city|Incorporated Place|A|Wood County
+WI|55|55950|Nelson village|County Subdivision|F|Buffalo County
+WI|55|55950|Nelson village|Incorporated Place|A|Buffalo County
+WI|55|55975|Nelson town|County Subdivision|A|Buffalo County
+WI|55|56000|Nelsonville village|County Subdivision|F|Portage County
+WI|55|56000|Nelsonville village|Incorporated Place|A|Portage County
+WI|55|56050|Neopit CDP|Census Designated Place|S|Menominee County
+WI|55|56075|Neosho village|County Subdivision|F|Dodge County
+WI|55|56075|Neosho village|Incorporated Place|A|Dodge County
+WI|55|56100|Nepeuskun town|County Subdivision|A|Winnebago County
+WI|55|56125|Neshkoro village|County Subdivision|F|Marquette County
+WI|55|56125|Neshkoro village|Incorporated Place|A|Marquette County
+WI|55|56150|Neshkoro town|County Subdivision|A|Marquette County
+WI|55|56200|Neva town|County Subdivision|A|Langlade County
+WI|55|56250|Newald CDP|Census Designated Place|S|Forest County
+WI|55|56325|Newark town|County Subdivision|A|Rock County
+WI|55|56350|New Auburn village|County Subdivision|F|Barron County, Chippewa County
+WI|55|56350|New Auburn village|Incorporated Place|A|Barron County, Chippewa County
+WI|55|56375|New Berlin city|County Subdivision|F|Waukesha County
+WI|55|56375|New Berlin city|Incorporated Place|A|Waukesha County
+WI|55|56425|Newbold town|County Subdivision|A|Oneida County
+WI|55|56450|Newburg village|County Subdivision|F|Ozaukee County, Washington County
+WI|55|56450|Newburg village|Incorporated Place|A|Ozaukee County, Washington County
+WI|55|56525|New Chester town|County Subdivision|A|Adams County
+WI|55|56575|New Denmark town|County Subdivision|A|Brown County
+WI|55|56625|New Diggings town|County Subdivision|A|Lafayette County
+WI|55|56700|New Glarus village|County Subdivision|F|Green County
+WI|55|56700|New Glarus village|Incorporated Place|A|Green County
+WI|55|56725|New Glarus town|County Subdivision|A|Green County
+WI|55|56750|New Haven town|County Subdivision|A|Adams County
+WI|55|56775|New Haven town|County Subdivision|A|Dunn County
+WI|55|56800|New Holstein city|County Subdivision|F|Calumet County
+WI|55|56800|New Holstein city|Incorporated Place|A|Calumet County
+WI|55|56825|New Holstein town|County Subdivision|A|Calumet County
+WI|55|56850|New Hope town|County Subdivision|A|Portage County
+WI|55|56900|New Lisbon city|County Subdivision|F|Juneau County
+WI|55|56900|New Lisbon city|Incorporated Place|A|Juneau County
+WI|55|56925|New London city|County Subdivision|F|Outagamie County, Waupaca County
+WI|55|56925|New London city|Incorporated Place|A|Outagamie County, Waupaca County
+WI|55|56950|New Lyme town|County Subdivision|A|Monroe County
+WI|55|57008|New Odanah CDP|Census Designated Place|S|Ashland County
+WI|55|57025|Newport town|County Subdivision|A|Columbia County
+WI|55|57050|New Post CDP|Census Designated Place|S|Sawyer County
+WI|55|57100|New Richmond city|County Subdivision|F|St. Croix County
+WI|55|57100|New Richmond city|Incorporated Place|A|St. Croix County
+WI|55|57200|Newton town|County Subdivision|A|Manitowoc County
+WI|55|57225|Newton town|County Subdivision|A|Marquette County
+WI|55|57325|Niagara city|County Subdivision|F|Marinette County
+WI|55|57325|Niagara city|Incorporated Place|A|Marinette County
+WI|55|57350|Niagara town|County Subdivision|A|Marinette County
+WI|55|57375|Nichols village|County Subdivision|F|Outagamie County
+WI|55|57375|Nichols village|Incorporated Place|A|Outagamie County
+WI|55|57450|Nokomis town|County Subdivision|A|Oneida County
+WI|55|57600|Norrie town|County Subdivision|A|Marathon County
+WI|55|57700|North Bay village|County Subdivision|F|Racine County
+WI|55|57700|North Bay village|Incorporated Place|A|Racine County
+WI|55|57775|North Bend town|County Subdivision|A|Jackson County
+WI|55|57975|Northfield town|County Subdivision|A|Jackson County
+WI|55|58000|North Fond du Lac village|County Subdivision|F|Fond du Lac County
+WI|55|58000|North Fond du Lac village|Incorporated Place|A|Fond du Lac County
+WI|55|58025|North Freedom village|County Subdivision|F|Sauk County
+WI|55|58025|North Freedom village|Incorporated Place|A|Sauk County
+WI|55|58050|North Hudson village|County Subdivision|F|St. Croix County
+WI|55|58050|North Hudson village|Incorporated Place|A|St. Croix County
+WI|55|58125|North Lancaster town|County Subdivision|A|Grant County
+WI|55|58375|Northport CDP|Census Designated Place|S|Waupaca County
+WI|55|58400|North Prairie village|County Subdivision|F|Waukesha County
+WI|55|58400|North Prairie village|Incorporated Place|A|Waukesha County
+WI|55|58575|Norwalk village|County Subdivision|F|Monroe County
+WI|55|58575|Norwalk village|Incorporated Place|A|Monroe County
+WI|55|58600|Norway town|County Subdivision|A|Racine County
+WI|55|58700|Norwood town|County Subdivision|A|Langlade County
+WI|55|58800|Oak Creek city|County Subdivision|F|Milwaukee County
+WI|55|58800|Oak Creek city|Incorporated Place|A|Milwaukee County
+WI|55|58850|Oakdale village|County Subdivision|F|Monroe County
+WI|55|58850|Oakdale village|Incorporated Place|A|Monroe County
+WI|55|58875|Oakdale town|County Subdivision|A|Monroe County
+WI|55|58900|Oakfield village|County Subdivision|F|Fond du Lac County
+WI|55|58900|Oakfield village|Incorporated Place|A|Fond du Lac County
+WI|55|58925|Oakfield town|County Subdivision|A|Fond du Lac County
+WI|55|58950|Oak Grove town|County Subdivision|A|Barron County
+WI|55|59000|Oak Grove town|County Subdivision|A|Dodge County
+WI|55|59025|Oak Grove town|County Subdivision|A|Pierce County
+WI|55|59075|Oakland town|County Subdivision|A|Burnett County
+WI|55|59100|Oakland town|County Subdivision|A|Douglas County
+WI|55|59125|Oakland town|County Subdivision|A|Jefferson County
+WI|55|59225|Oasis town|County Subdivision|A|Waushara County
+WI|55|59250|Oconomowoc city|County Subdivision|F|Waukesha County
+WI|55|59250|Oconomowoc city|Incorporated Place|A|Waukesha County
+WI|55|59275|Oconomowoc town|County Subdivision|A|Waukesha County
+WI|55|59300|Oconomowoc Lake village|County Subdivision|F|Waukesha County
+WI|55|59300|Oconomowoc Lake village|Incorporated Place|A|Waukesha County
+WI|55|59350|Oconto city|County Subdivision|F|Oconto County
+WI|55|59350|Oconto city|Incorporated Place|A|Oconto County
+WI|55|59375|Oconto town|County Subdivision|A|Oconto County
+WI|55|59400|Oconto Falls city|County Subdivision|F|Oconto County
+WI|55|59400|Oconto Falls city|Incorporated Place|A|Oconto County
+WI|55|59425|Oconto Falls town|County Subdivision|A|Oconto County
+WI|55|59450|Odanah CDP|Census Designated Place|S|Ashland County
+WI|55|59475|Ogdensburg village|County Subdivision|F|Waupaca County
+WI|55|59475|Ogdensburg village|Incorporated Place|A|Waupaca County
+WI|55|59500|Ogema CDP|Census Designated Place|S|Price County
+WI|55|59525|Ogema town|County Subdivision|A|Price County
+WI|55|59600|Ojibwa town|County Subdivision|A|Sawyer County
+WI|55|59650|Okauchee Lake CDP|Census Designated Place|S|Waukesha County
+WI|55|59800|Oliver village|County Subdivision|F|Douglas County
+WI|55|59800|Oliver village|Incorporated Place|A|Douglas County
+WI|55|59850|Oma town|County Subdivision|A|Iron County
+WI|55|59875|Omro city|County Subdivision|F|Winnebago County
+WI|55|59875|Omro city|Incorporated Place|A|Winnebago County
+WI|55|59900|Omro town|County Subdivision|A|Winnebago County
+WI|55|59925|Onalaska city|County Subdivision|F|La Crosse County
+WI|55|59925|Onalaska city|Incorporated Place|A|La Crosse County
+WI|55|59950|Onalaska town|County Subdivision|A|La Crosse County
+WI|55|60000|Oneida town|County Subdivision|A|Outagamie County
+WI|55|60075|Ontario village|County Subdivision|F|Vernon County
+WI|55|60075|Ontario village|Incorporated Place|A|Vernon County
+WI|55|60100|Oostburg village|County Subdivision|F|Sheboygan County
+WI|55|60100|Oostburg village|Incorporated Place|A|Sheboygan County
+WI|55|60150|Orange town|County Subdivision|A|Juneau County
+WI|55|60200|Oregon village|County Subdivision|F|Dane County
+WI|55|60200|Oregon village|Incorporated Place|A|Dane County
+WI|55|60225|Oregon town|County Subdivision|A|Dane County
+WI|55|60250|Orfordville village|County Subdivision|F|Rock County
+WI|55|60250|Orfordville village|Incorporated Place|A|Rock County
+WI|55|60275|Orienta town|County Subdivision|A|Bayfield County
+WI|55|60350|Orion town|County Subdivision|A|Richland County
+WI|55|60400|Osborn town|County Subdivision|A|Outagamie County
+WI|55|60425|Osceola town|County Subdivision|A|Fond du Lac County
+WI|55|60450|Osceola village|County Subdivision|F|Polk County
+WI|55|60450|Osceola village|Incorporated Place|A|Polk County
+WI|55|60475|Osceola town|County Subdivision|A|Polk County
+WI|55|60500|Oshkosh city|County Subdivision|F|Winnebago County
+WI|55|60500|Oshkosh city|Incorporated Place|A|Winnebago County
+WI|55|60525|Oshkosh town|County Subdivision|A|Winnebago County
+WI|55|60575|Osseo city|County Subdivision|F|Trempealeau County
+WI|55|60575|Osseo city|Incorporated Place|A|Trempealeau County
+WI|55|60687|Otsego town|County Subdivision|A|Columbia County
+WI|55|60700|Ottawa town|County Subdivision|A|Waukesha County
+WI|55|60725|Otter Creek town|County Subdivision|A|Dunn County
+WI|55|60750|Otter Creek town|County Subdivision|A|Eau Claire County
+WI|55|60775|Oulu town|County Subdivision|A|Bayfield County
+WI|55|60825|Owen city|County Subdivision|F|Clark County
+WI|55|60825|Owen city|Incorporated Place|A|Clark County
+WI|55|60875|Oxford village|County Subdivision|F|Marquette County
+WI|55|60875|Oxford village|Incorporated Place|A|Marquette County
+WI|55|60900|Oxford town|County Subdivision|A|Marquette County
+WI|55|60925|Pacific town|County Subdivision|A|Columbia County
+WI|55|60950|Packwaukee CDP|Census Designated Place|S|Marquette County
+WI|55|60962|Packwaukee town|County Subdivision|A|Marquette County
+WI|55|60975|Paddock Lake village|County Subdivision|F|Kenosha County
+WI|55|60975|Paddock Lake village|Incorporated Place|A|Kenosha County
+WI|55|61025|Palmyra village|County Subdivision|F|Jefferson County
+WI|55|61025|Palmyra village|Incorporated Place|A|Jefferson County
+WI|55|61050|Palmyra town|County Subdivision|A|Jefferson County
+WI|55|61100|Pardeeville village|County Subdivision|F|Columbia County
+WI|55|61100|Pardeeville village|Incorporated Place|A|Columbia County
+WI|55|61150|Paris town|County Subdivision|A|Grant County
+WI|55|61175|Paris town|County Subdivision|A|Kenosha County
+WI|55|61200|Park Falls city|County Subdivision|F|Price County
+WI|55|61200|Park Falls city|Incorporated Place|A|Price County
+WI|55|61250|Parkland town|County Subdivision|A|Douglas County
+WI|55|61325|Park Ridge village|County Subdivision|F|Portage County
+WI|55|61325|Park Ridge village|Incorporated Place|A|Portage County
+WI|55|61375|Parrish town|County Subdivision|A|Langlade County
+WI|55|61425|Patch Grove village|County Subdivision|F|Grant County
+WI|55|61425|Patch Grove village|Incorporated Place|A|Grant County
+WI|55|61450|Patch Grove town|County Subdivision|A|Grant County
+WI|55|61525|Peck town|County Subdivision|A|Langlade County
+WI|55|61600|Peeksville town|County Subdivision|A|Ashland County
+WI|55|61625|Pelican town|County Subdivision|A|Oneida County
+WI|55|61675|Pella CDP|Census Designated Place|S|Shawano County
+WI|55|61700|Pella town|County Subdivision|A|Shawano County
+WI|55|61725|Pell Lake CDP|Census Designated Place|S|Walworth County
+WI|55|61750|Pembine CDP|Census Designated Place|S|Marinette County
+WI|55|61775|Pembine town|County Subdivision|A|Marinette County
+WI|55|61800|Pence CDP|Census Designated Place|S|Iron County
+WI|55|61825|Pence town|County Subdivision|A|Iron County
+WI|55|61900|Pensaukee town|County Subdivision|A|Oconto County
+WI|55|61925|Pepin village|County Subdivision|F|Pepin County
+WI|55|61925|Pepin village|Incorporated Place|A|Pepin County
+WI|55|61950|Pepin town|County Subdivision|A|Pepin County
+WI|55|62050|Perry town|County Subdivision|A|Dane County
+WI|55|62100|Pershing town|County Subdivision|A|Taylor County
+WI|55|62125|Peru town|County Subdivision|A|Dunn County
+WI|55|62175|Peshtigo city|County Subdivision|F|Marinette County
+WI|55|62175|Peshtigo city|Incorporated Place|A|Marinette County
+WI|55|62200|Peshtigo town|County Subdivision|A|Marinette County
+WI|55|62240|Pewaukee city|County Subdivision|F|Waukesha County
+WI|55|62240|Pewaukee city|Incorporated Place|A|Waukesha County
+WI|55|62250|Pewaukee village|County Subdivision|F|Waukesha County
+WI|55|62250|Pewaukee village|Incorporated Place|A|Waukesha County
+WI|55|62425|Phelps town|County Subdivision|A|Vilas County
+WI|55|62450|Phillips city|County Subdivision|F|Price County
+WI|55|62450|Phillips city|Incorporated Place|A|Price County
+WI|55|62600|Piehl town|County Subdivision|A|Oneida County
+WI|55|62625|Pierce town|County Subdivision|A|Kewaunee County
+WI|55|62650|Pigeon town|County Subdivision|A|Trempealeau County
+WI|55|62675|Pigeon Falls village|County Subdivision|F|Trempealeau County
+WI|55|62675|Pigeon Falls village|Incorporated Place|A|Trempealeau County
+WI|55|62700|Pilsen town|County Subdivision|A|Bayfield County
+WI|55|62825|Pine Grove town|County Subdivision|A|Portage County
+WI|55|62925|Pine Lake town|County Subdivision|A|Oneida County
+WI|55|62950|Pine River town|County Subdivision|A|Lincoln County
+WI|55|62975|Pine River CDP|Census Designated Place|S|Waushara County
+WI|55|63000|Pine Valley town|County Subdivision|A|Clark County
+WI|55|63075|Pittsfield town|County Subdivision|A|Brown County
+WI|55|63100|Pittsville city|County Subdivision|F|Wood County
+WI|55|63100|Pittsville city|Incorporated Place|A|Wood County
+WI|55|63125|Plain village|County Subdivision|F|Sauk County
+WI|55|63125|Plain village|Incorporated Place|A|Sauk County
+WI|55|63150|Plainfield village|County Subdivision|F|Waushara County
+WI|55|63150|Plainfield village|Incorporated Place|A|Waushara County
+WI|55|63175|Plainfield town|County Subdivision|A|Waushara County
+WI|55|63250|Platteville city|County Subdivision|F|Grant County
+WI|55|63250|Platteville city|Incorporated Place|A|Grant County
+WI|55|63275|Platteville town|County Subdivision|A|Grant County
+WI|55|63300|Pleasant Prairie village|County Subdivision|F|Kenosha County
+WI|55|63300|Pleasant Prairie village|Incorporated Place|A|Kenosha County
+WI|55|63375|Pleasant Springs town|County Subdivision|A|Dane County
+WI|55|63400|Pleasant Valley town|County Subdivision|A|Eau Claire County
+WI|55|63425|Pleasant Valley town|County Subdivision|A|St. Croix County
+WI|55|63500|Plover town|County Subdivision|A|Marathon County
+WI|55|63525|Plover village|County Subdivision|F|Portage County
+WI|55|63525|Plover village|Incorporated Place|A|Portage County
+WI|55|63550|Plover town|County Subdivision|A|Portage County
+WI|55|63600|Plum City village|County Subdivision|F|Pierce County
+WI|55|63600|Plum City village|Incorporated Place|A|Pierce County
+WI|55|63625|Plum Lake town|County Subdivision|A|Vilas County
+WI|55|63650|Plymouth town|County Subdivision|A|Juneau County
+WI|55|63675|Plymouth town|County Subdivision|A|Rock County
+WI|55|63700|Plymouth city|County Subdivision|F|Sheboygan County
+WI|55|63700|Plymouth city|Incorporated Place|A|Sheboygan County
+WI|55|63725|Plymouth town|County Subdivision|A|Sheboygan County
+WI|55|63825|Polar town|County Subdivision|A|Langlade County
+WI|55|63875|Polk town|County Subdivision|A|Washington County
+WI|55|63925|Polonia CDP|Census Designated Place|S|Portage County
+WI|55|63975|Poplar village|County Subdivision|F|Douglas County
+WI|55|63975|Poplar village|Incorporated Place|A|Douglas County
+WI|55|64050|Popple River town|County Subdivision|A|Forest County
+WI|55|64100|Portage city|County Subdivision|F|Columbia County
+WI|55|64100|Portage city|Incorporated Place|A|Columbia County
+WI|55|64175|Port Edwards village|County Subdivision|F|Wood County
+WI|55|64175|Port Edwards village|Incorporated Place|A|Wood County
+WI|55|64200|Port Edwards town|County Subdivision|A|Wood County
+WI|55|64225|Porter town|County Subdivision|A|Rock County
+WI|55|64275|Porterfield town|County Subdivision|A|Marinette County
+WI|55|64375|Portland town|County Subdivision|A|Dodge County
+WI|55|64425|Portland town|County Subdivision|A|Monroe County
+WI|55|64450|Port Washington city|County Subdivision|F|Ozaukee County
+WI|55|64450|Port Washington city|Incorporated Place|A|Ozaukee County
+WI|55|64475|Port Washington town|County Subdivision|A|Ozaukee County
+WI|55|64500|Port Wing CDP|Census Designated Place|S|Bayfield County
+WI|55|64512|Port Wing town|County Subdivision|A|Bayfield County
+WI|55|64550|Post Lake CDP|Census Designated Place|S|Langlade County
+WI|55|64625|Potosi village|County Subdivision|F|Grant County
+WI|55|64625|Potosi village|Incorporated Place|A|Grant County
+WI|55|64650|Potosi town|County Subdivision|A|Grant County
+WI|55|64675|Potter village|County Subdivision|F|Calumet County
+WI|55|64675|Potter village|Incorporated Place|A|Calumet County
+WI|55|64700|Potter Lake CDP|Census Designated Place|S|Walworth County
+WI|55|64750|Pound village|County Subdivision|F|Marinette County
+WI|55|64750|Pound village|Incorporated Place|A|Marinette County
+WI|55|64775|Pound town|County Subdivision|A|Marinette County
+WI|55|64825|Powers Lake CDP|Census Designated Place|S|Kenosha County, Walworth County
+WI|55|64875|Poygan town|County Subdivision|A|Winnebago County
+WI|55|64900|Poynette village|County Subdivision|F|Columbia County
+WI|55|64900|Poynette village|Incorporated Place|A|Columbia County
+WI|55|64950|Poy Sippi CDP|Census Designated Place|S|Waushara County
+WI|55|64975|Poysippi town|County Subdivision|A|Waushara County
+WI|55|65050|Prairie du Chien city|County Subdivision|F|Crawford County
+WI|55|65050|Prairie du Chien city|Incorporated Place|A|Crawford County
+WI|55|65075|Prairie du Chien town|County Subdivision|A|Crawford County
+WI|55|65100|Prairie du Sac village|County Subdivision|F|Sauk County
+WI|55|65100|Prairie du Sac village|Incorporated Place|A|Sauk County
+WI|55|65125|Prairie du Sac town|County Subdivision|A|Sauk County
+WI|55|65150|Prairie Farm village|County Subdivision|F|Barron County
+WI|55|65150|Prairie Farm village|Incorporated Place|A|Barron County
+WI|55|65175|Prairie Farm town|County Subdivision|A|Barron County
+WI|55|65200|Prairie Lake town|County Subdivision|A|Barron County
+WI|55|65325|Prentice village|County Subdivision|F|Price County
+WI|55|65325|Prentice village|Incorporated Place|A|Price County
+WI|55|65350|Prentice town|County Subdivision|A|Price County
+WI|55|65375|Prescott city|County Subdivision|F|Pierce County
+WI|55|65375|Prescott city|Incorporated Place|A|Pierce County
+WI|55|65425|Presque Isle town|County Subdivision|A|Vilas County
+WI|55|65450|Preston town|County Subdivision|A|Adams County
+WI|55|65500|Preston town|County Subdivision|A|Trempealeau County
+WI|55|65550|Price town|County Subdivision|A|Langlade County
+WI|55|65575|Primrose town|County Subdivision|A|Dane County
+WI|55|65600|Princeton city|County Subdivision|F|Green Lake County
+WI|55|65600|Princeton city|Incorporated Place|A|Green Lake County
+WI|55|65625|Princeton town|County Subdivision|A|Green Lake County
+WI|55|65675|Pulaski village|County Subdivision|F|Brown County, Oconto County, Shawano County
+WI|55|65675|Pulaski village|Incorporated Place|A|Brown County, Oconto County, Shawano County
+WI|55|65700|Pulaski town|County Subdivision|A|Iowa County
+WI|55|65725|Pulcifer CDP|Census Designated Place|S|Shawano County
+WI|55|65825|Quincy town|County Subdivision|A|Adams County
+WI|55|66000|Racine city|County Subdivision|F|Racine County
+WI|55|66000|Racine city|Incorporated Place|A|Racine County
+WI|55|66050|Radisson village|County Subdivision|F|Sawyer County
+WI|55|66050|Radisson village|Incorporated Place|A|Sawyer County
+WI|55|66075|Radisson town|County Subdivision|A|Sawyer County
+WI|55|66125|Randall town|County Subdivision|A|Kenosha County
+WI|55|66150|Randolph village|County Subdivision|F|Columbia County, Dodge County
+WI|55|66150|Randolph village|Incorporated Place|A|Columbia County, Dodge County
+WI|55|66175|Randolph town|County Subdivision|A|Columbia County
+WI|55|66200|Random Lake village|County Subdivision|F|Sheboygan County
+WI|55|66200|Random Lake village|Incorporated Place|A|Sheboygan County
+WI|55|66275|Rantoul town|County Subdivision|A|Calumet County
+WI|55|66375|Raymond town|County Subdivision|A|Racine County
+WI|55|66450|Readstown village|County Subdivision|F|Vernon County
+WI|55|66450|Readstown village|Incorporated Place|A|Vernon County
+WI|55|66550|Red Cedar town|County Subdivision|A|Dunn County
+WI|55|66625|Redgranite village|County Subdivision|F|Waushara County
+WI|55|66625|Redgranite village|Incorporated Place|A|Waushara County
+WI|55|66700|Red River town|County Subdivision|A|Kewaunee County
+WI|55|66750|Red Springs town|County Subdivision|A|Shawano County
+WI|55|66800|Reedsburg city|County Subdivision|F|Sauk County
+WI|55|66800|Reedsburg city|Incorporated Place|A|Sauk County
+WI|55|66825|Reedsburg town|County Subdivision|A|Sauk County
+WI|55|66875|Reedsville village|County Subdivision|F|Manitowoc County
+WI|55|66875|Reedsville village|Incorporated Place|A|Manitowoc County
+WI|55|66900|Reeseville village|County Subdivision|F|Dodge County
+WI|55|66900|Reeseville village|Incorporated Place|A|Dodge County
+WI|55|66950|Reid town|County Subdivision|A|Marathon County
+WI|55|67000|Remington town|County Subdivision|A|Wood County
+WI|55|67025|Reseburg town|County Subdivision|A|Clark County
+WI|55|67050|Reserve CDP|Census Designated Place|S|Sawyer County
+WI|55|67100|Rewey village|County Subdivision|F|Iowa County
+WI|55|67100|Rewey village|Incorporated Place|A|Iowa County
+WI|55|67150|Rhine town|County Subdivision|A|Sheboygan County
+WI|55|67200|Rhinelander city|County Subdivision|F|Oneida County
+WI|55|67200|Rhinelander city|Incorporated Place|A|Oneida County
+WI|55|67250|Rib Falls town|County Subdivision|A|Marathon County
+WI|55|67275|Rib Lake village|County Subdivision|F|Taylor County
+WI|55|67275|Rib Lake village|Incorporated Place|A|Taylor County
+WI|55|67300|Rib Lake town|County Subdivision|A|Taylor County
+WI|55|67320|Rib Mountain CDP|Census Designated Place|S|Marathon County
+WI|55|67325|Rib Mountain town|County Subdivision|A|Marathon County
+WI|55|67350|Rice Lake city|County Subdivision|F|Barron County
+WI|55|67350|Rice Lake city|Incorporated Place|A|Barron County
+WI|55|67375|Rice Lake town|County Subdivision|A|Barron County
+WI|55|67425|Richfield town|County Subdivision|A|Adams County
+WI|55|67475|Richfield village|County Subdivision|F|Washington County
+WI|55|67475|Richfield village|Incorporated Place|A|Washington County
+WI|55|67500|Richfield town|County Subdivision|A|Wood County
+WI|55|67550|Richford town|County Subdivision|A|Waushara County
+WI|55|67575|Richland town|County Subdivision|A|Richland County
+WI|55|67600|Richland town|County Subdivision|A|Rusk County
+WI|55|67625|Richland Center city|County Subdivision|F|Richland County
+WI|55|67625|Richland Center city|Incorporated Place|A|Richland County
+WI|55|67650|Richmond town|County Subdivision|A|St. Croix County
+WI|55|67675|Richmond town|County Subdivision|A|Shawano County
+WI|55|67725|Richmond town|County Subdivision|A|Walworth County
+WI|55|67775|Richwood town|County Subdivision|A|Richland County
+WI|55|67800|Ridgeland village|County Subdivision|F|Dunn County
+WI|55|67800|Ridgeland village|Incorporated Place|A|Dunn County
+WI|55|67850|Ridgeville town|County Subdivision|A|Monroe County
+WI|55|67875|Ridgeway village|County Subdivision|F|Iowa County
+WI|55|67875|Ridgeway village|Incorporated Place|A|Iowa County
+WI|55|67900|Ridgeway town|County Subdivision|A|Iowa County
+WI|55|67950|Rietbrock town|County Subdivision|A|Marathon County
+WI|55|68075|Ringle town|County Subdivision|A|Marathon County
+WI|55|68100|Rio village|County Subdivision|F|Columbia County
+WI|55|68100|Rio village|Incorporated Place|A|Columbia County
+WI|55|68175|Ripon city|County Subdivision|F|Fond du Lac County
+WI|55|68175|Ripon city|Incorporated Place|A|Fond du Lac County
+WI|55|68200|Ripon town|County Subdivision|A|Fond du Lac County
+WI|55|68275|River Falls city|County Subdivision|F|Pierce County, St. Croix County
+WI|55|68275|River Falls city|Incorporated Place|A|Pierce County, St. Croix County
+WI|55|68300|River Falls town|County Subdivision|A|Pierce County
+WI|55|68325|River Hills village|County Subdivision|F|Milwaukee County
+WI|55|68325|River Hills village|Incorporated Place|A|Milwaukee County
+WI|55|68400|Riverview town|County Subdivision|A|Oconto County
+WI|55|68475|Roberts village|County Subdivision|F|St. Croix County
+WI|55|68475|Roberts village|Incorporated Place|A|St. Croix County
+WI|55|68550|Rochester village|County Subdivision|F|Racine County
+WI|55|68550|Rochester village|Incorporated Place|A|Racine County
+WI|55|68600|Rock town|County Subdivision|A|Rock County
+WI|55|68625|Rock town|County Subdivision|A|Wood County
+WI|55|68675|Rockbridge town|County Subdivision|A|Richland County
+WI|55|68700|Rock Creek town|County Subdivision|A|Dunn County
+WI|55|68725|Rockdale village|County Subdivision|F|Dane County
+WI|55|68725|Rockdale village|Incorporated Place|A|Dane County
+WI|55|68775|Rock Elm town|County Subdivision|A|Pierce County
+WI|55|68825|Rock Falls town|County Subdivision|A|Lincoln County
+WI|55|68875|Rockland town|County Subdivision|A|Brown County
+WI|55|68900|Rockland village|County Subdivision|F|La Crosse County
+WI|55|68900|Rockland village|Incorporated Place|A|La Crosse County
+WI|55|68925|Rockland town|County Subdivision|A|Manitowoc County
+WI|55|68975|Rock Springs village|County Subdivision|F|Sauk County
+WI|55|68975|Rock Springs village|Incorporated Place|A|Sauk County
+WI|55|69175|Rolling town|County Subdivision|A|Langlade County
+WI|55|69275|Rome town|County Subdivision|A|Adams County
+WI|55|69300|Rome CDP|Census Designated Place|S|Jefferson County
+WI|55|69325|Roosevelt town|County Subdivision|A|Burnett County
+WI|55|69400|Roosevelt town|County Subdivision|A|Taylor County
+WI|55|69425|Rose town|County Subdivision|A|Waushara County
+WI|55|69525|Rosendale village|County Subdivision|F|Fond du Lac County
+WI|55|69525|Rosendale village|Incorporated Place|A|Fond du Lac County
+WI|55|69550|Rosendale town|County Subdivision|A|Fond du Lac County
+WI|55|69575|Rosholt village|County Subdivision|F|Portage County
+WI|55|69575|Rosholt village|Incorporated Place|A|Portage County
+WI|55|69625|Ross town|County Subdivision|A|Forest County
+WI|55|69725|Rothschild village|County Subdivision|F|Marathon County
+WI|55|69725|Rothschild village|Incorporated Place|A|Marathon County
+WI|55|69750|Round Lake town|County Subdivision|A|Sawyer County
+WI|55|69850|Roxbury town|County Subdivision|A|Dane County
+WI|55|69900|Royalton town|County Subdivision|A|Waupaca County
+WI|55|69962|Rubicon town|County Subdivision|A|Dodge County
+WI|55|69975|Ruby town|County Subdivision|A|Chippewa County
+WI|55|70000|Rudolph village|County Subdivision|F|Wood County
+WI|55|70000|Rudolph village|Incorporated Place|A|Wood County
+WI|55|70025|Rudolph town|County Subdivision|A|Wood County
+WI|55|70125|Rushford town|County Subdivision|A|Winnebago County
+WI|55|70200|Rush River town|County Subdivision|A|St. Croix County
+WI|55|70225|Rusk town|County Subdivision|A|Burnett County
+WI|55|70275|Rusk town|County Subdivision|A|Rusk County
+WI|55|70300|Russell town|County Subdivision|A|Bayfield County
+WI|55|70325|Russell town|County Subdivision|A|Lincoln County
+WI|55|70350|Russell town|County Subdivision|A|Sheboygan County
+WI|55|70400|Rutland town|County Subdivision|A|Dane County
+WI|55|70500|St. Cloud village|County Subdivision|F|Fond du Lac County
+WI|55|70500|St. Cloud village|Incorporated Place|A|Fond du Lac County
+WI|55|70550|St. Croix Falls city|County Subdivision|F|Polk County
+WI|55|70550|St. Croix Falls city|Incorporated Place|A|Polk County
+WI|55|70575|St. Croix Falls town|County Subdivision|A|Polk County
+WI|55|70650|St. Francis city|County Subdivision|F|Milwaukee County
+WI|55|70650|St. Francis city|Incorporated Place|A|Milwaukee County
+WI|55|70725|St. Germain town|County Subdivision|A|Vilas County
+WI|55|70815|St. Joseph CDP|Census Designated Place|S|La Crosse County
+WI|55|70825|St. Joseph town|County Subdivision|A|St. Croix County
+WI|55|70900|St. Lawrence town|County Subdivision|A|Waupaca County
+WI|55|70925|St. Marie town|County Subdivision|A|Green Lake County
+WI|55|71025|St. Nazianz village|County Subdivision|F|Manitowoc County
+WI|55|71025|St. Nazianz village|Incorporated Place|A|Manitowoc County
+WI|55|71050|St. Peter CDP|Census Designated Place|S|Fond du Lac County
+WI|55|71125|Salem town|County Subdivision|A|Kenosha County
+WI|55|71150|Salem town|County Subdivision|A|Pierce County
+WI|55|71275|Sampson town|County Subdivision|A|Chippewa County
+WI|55|71350|Sanborn town|County Subdivision|A|Ashland County
+WI|55|71425|Sand Creek town|County Subdivision|A|Dunn County
+WI|55|71450|Sand Lake town|County Subdivision|A|Burnett County
+WI|55|71500|Sand Lake town|County Subdivision|A|Sawyer County
+WI|55|71585|Sandy Hook CDP|Census Designated Place|S|Grant County
+WI|55|71600|Saratoga town|County Subdivision|A|Wood County
+WI|55|71637|Sarona town|County Subdivision|A|Washburn County
+WI|55|71650|Sauk City village|County Subdivision|F|Sauk County
+WI|55|71650|Sauk City village|Incorporated Place|A|Sauk County
+WI|55|71700|Saukville village|County Subdivision|F|Ozaukee County
+WI|55|71700|Saukville village|Incorporated Place|A|Ozaukee County
+WI|55|71725|Saukville town|County Subdivision|A|Ozaukee County
+WI|55|71825|Saxeville town|County Subdivision|A|Waushara County
+WI|55|71850|Saxon CDP|Census Designated Place|S|Iron County
+WI|55|71875|Saxon town|County Subdivision|A|Iron County
+WI|55|71950|Sayner CDP|Census Designated Place|S|Vilas County
+WI|55|71975|Scandinavia village|County Subdivision|F|Waupaca County
+WI|55|71975|Scandinavia village|Incorporated Place|A|Waupaca County
+WI|55|72000|Scandinavia town|County Subdivision|A|Waupaca County
+WI|55|72075|Schleswig town|County Subdivision|A|Manitowoc County
+WI|55|72100|Schley town|County Subdivision|A|Lincoln County
+WI|55|72125|Schoepke town|County Subdivision|A|Oneida County
+WI|55|72150|Schofield city|County Subdivision|F|Marathon County
+WI|55|72150|Schofield city|Incorporated Place|A|Marathon County
+WI|55|72200|Scott town|County Subdivision|A|Brown County
+WI|55|72225|Scott town|County Subdivision|A|Burnett County
+WI|55|72250|Scott town|County Subdivision|A|Columbia County
+WI|55|72275|Scott town|County Subdivision|A|Crawford County
+WI|55|72300|Scott town|County Subdivision|A|Lincoln County
+WI|55|72325|Scott town|County Subdivision|A|Monroe County
+WI|55|72350|Scott town|County Subdivision|A|Sheboygan County
+WI|55|72450|Seif town|County Subdivision|A|Clark County
+WI|55|72500|Seneca town|County Subdivision|A|Crawford County
+WI|55|72525|Seneca town|County Subdivision|A|Green Lake County
+WI|55|72550|Seneca town|County Subdivision|A|Shawano County
+WI|55|72575|Seneca town|County Subdivision|A|Wood County
+WI|55|72600|Sevastopol town|County Subdivision|A|Door County
+WI|55|72625|Seven Mile Creek town|County Subdivision|A|Juneau County
+WI|55|72650|Sextonville CDP|Census Designated Place|S|Richland County
+WI|55|72670|Seymour CDP|Census Designated Place|S|Eau Claire County
+WI|55|72675|Seymour town|County Subdivision|A|Eau Claire County
+WI|55|72700|Seymour town|County Subdivision|A|Lafayette County
+WI|55|72725|Seymour city|County Subdivision|F|Outagamie County
+WI|55|72725|Seymour city|Incorporated Place|A|Outagamie County
+WI|55|72750|Seymour town|County Subdivision|A|Outagamie County
+WI|55|72825|Shanagolden town|County Subdivision|A|Ashland County
+WI|55|72850|Sharon town|County Subdivision|A|Portage County
+WI|55|72875|Sharon village|County Subdivision|F|Walworth County
+WI|55|72875|Sharon village|Incorporated Place|A|Walworth County
+WI|55|72900|Sharon town|County Subdivision|A|Walworth County
+WI|55|72925|Shawano city|County Subdivision|F|Shawano County
+WI|55|72925|Shawano city|Incorporated Place|A|Shawano County
+WI|55|72975|Sheboygan city|County Subdivision|F|Sheboygan County
+WI|55|72975|Sheboygan city|Incorporated Place|A|Sheboygan County
+WI|55|73000|Sheboygan town|County Subdivision|A|Sheboygan County
+WI|55|73025|Sheboygan Falls city|County Subdivision|F|Sheboygan County
+WI|55|73025|Sheboygan Falls city|Incorporated Place|A|Sheboygan County
+WI|55|73050|Sheboygan Falls town|County Subdivision|A|Sheboygan County
+WI|55|73125|Shelby town|County Subdivision|A|La Crosse County
+WI|55|73150|Sheldon town|County Subdivision|A|Monroe County
+WI|55|73175|Sheldon village|County Subdivision|F|Rusk County
+WI|55|73175|Sheldon village|Incorporated Place|A|Rusk County
+WI|55|73200|Shell Lake city|County Subdivision|F|Washburn County
+WI|55|73200|Shell Lake city|Incorporated Place|A|Washburn County
+WI|55|73300|Sheridan town|County Subdivision|A|Dunn County
+WI|55|73350|Sherman town|County Subdivision|A|Clark County
+WI|55|73375|Sherman town|County Subdivision|A|Dunn County
+WI|55|73400|Sherman town|County Subdivision|A|Iron County
+WI|55|73425|Sherman town|County Subdivision|A|Sheboygan County
+WI|55|73475|Sherry town|County Subdivision|A|Wood County
+WI|55|73525|Sherwood village|County Subdivision|F|Calumet County
+WI|55|73525|Sherwood village|Incorporated Place|A|Calumet County
+WI|55|73550|Sherwood town|County Subdivision|A|Clark County
+WI|55|73575|Shields town|County Subdivision|A|Dodge County
+WI|55|73600|Shields town|County Subdivision|A|Marquette County
+WI|55|73625|Shiocton village|County Subdivision|F|Outagamie County
+WI|55|73625|Shiocton village|Incorporated Place|A|Outagamie County
+WI|55|73725|Shorewood village|County Subdivision|F|Milwaukee County
+WI|55|73725|Shorewood village|Incorporated Place|A|Milwaukee County
+WI|55|73750|Shorewood Hills village|County Subdivision|F|Dane County
+WI|55|73750|Shorewood Hills village|Incorporated Place|A|Dane County
+WI|55|73825|Shullsburg city|County Subdivision|F|Lafayette County
+WI|55|73825|Shullsburg city|Incorporated Place|A|Lafayette County
+WI|55|73850|Shullsburg town|County Subdivision|A|Lafayette County
+WI|55|73875|Sigel town|County Subdivision|A|Chippewa County
+WI|55|73900|Sigel town|County Subdivision|A|Wood County
+WI|55|73975|Silver Cliff town|County Subdivision|A|Marinette County
+WI|55|74025|Silver Lake village|County Subdivision|F|Kenosha County
+WI|55|74025|Silver Lake village|Incorporated Place|A|Kenosha County
+WI|55|74125|Sioux Creek town|County Subdivision|A|Barron County
+WI|55|74175|Siren village|County Subdivision|F|Burnett County
+WI|55|74175|Siren village|Incorporated Place|A|Burnett County
+WI|55|74200|Siren town|County Subdivision|A|Burnett County
+WI|55|74225|Sister Bay village|County Subdivision|F|Door County
+WI|55|74225|Sister Bay village|Incorporated Place|A|Door County
+WI|55|74250|Skanawan town|County Subdivision|A|Lincoln County
+WI|55|74400|Slinger village|County Subdivision|F|Washington County
+WI|55|74400|Slinger village|Incorporated Place|A|Washington County
+WI|55|74450|Smelser town|County Subdivision|A|Grant County
+WI|55|74500|Sobieski CDP|Census Designated Place|S|Oconto County
+WI|55|74550|Soldiers Grove village|County Subdivision|F|Crawford County
+WI|55|74550|Soldiers Grove village|Incorporated Place|A|Crawford County
+WI|55|74575|Solon Springs village|County Subdivision|F|Douglas County
+WI|55|74575|Solon Springs village|Incorporated Place|A|Douglas County
+WI|55|74600|Solon Springs town|County Subdivision|A|Douglas County
+WI|55|74650|Somers town|County Subdivision|A|Kenosha County
+WI|55|74675|Somerset village|County Subdivision|F|St. Croix County
+WI|55|74675|Somerset village|Incorporated Place|A|St. Croix County
+WI|55|74700|Somerset town|County Subdivision|A|St. Croix County
+WI|55|74725|Somo town|County Subdivision|A|Lincoln County
+WI|55|74975|South Fork town|County Subdivision|A|Rusk County
+WI|55|75075|South Lancaster town|County Subdivision|A|Grant County
+WI|55|75125|South Milwaukee city|County Subdivision|F|Milwaukee County
+WI|55|75125|South Milwaukee city|Incorporated Place|A|Milwaukee County
+WI|55|75275|South Wayne village|County Subdivision|F|Lafayette County
+WI|55|75275|South Wayne village|Incorporated Place|A|Lafayette County
+WI|55|75325|Sparta city|County Subdivision|F|Monroe County
+WI|55|75325|Sparta city|Incorporated Place|A|Monroe County
+WI|55|75350|Sparta town|County Subdivision|A|Monroe County
+WI|55|75400|Spencer village|County Subdivision|F|Marathon County
+WI|55|75400|Spencer village|Incorporated Place|A|Marathon County
+WI|55|75425|Spencer town|County Subdivision|A|Marathon County
+WI|55|75450|Spider Lake town|County Subdivision|A|Sawyer County
+WI|55|75525|Spirit town|County Subdivision|A|Price County
+WI|55|75625|Spooner city|County Subdivision|F|Washburn County
+WI|55|75625|Spooner city|Incorporated Place|A|Washburn County
+WI|55|75650|Spooner town|County Subdivision|A|Washburn County
+WI|55|75750|Spring Brook town|County Subdivision|A|Dunn County
+WI|55|75800|Springbrook town|County Subdivision|A|Washburn County
+WI|55|75850|Springdale town|County Subdivision|A|Dane County
+WI|55|75875|Springfield town|County Subdivision|A|Dane County
+WI|55|75900|Springfield town|County Subdivision|A|Jackson County
+WI|55|75925|Springfield town|County Subdivision|A|Marquette County
+WI|55|75950|Springfield town|County Subdivision|A|St. Croix County
+WI|55|75975|Springfield CDP|Census Designated Place|S|Walworth County
+WI|55|76025|Spring Green village|County Subdivision|F|Sauk County
+WI|55|76025|Spring Green village|Incorporated Place|A|Sauk County
+WI|55|76050|Spring Green town|County Subdivision|A|Sauk County
+WI|55|76075|Spring Grove town|County Subdivision|A|Green County
+WI|55|76100|Spring Lake town|County Subdivision|A|Pierce County
+WI|55|76175|Spring Prairie town|County Subdivision|A|Walworth County
+WI|55|76225|Springvale town|County Subdivision|A|Columbia County
+WI|55|76250|Springvale town|County Subdivision|A|Fond du Lac County
+WI|55|76300|Spring Valley village|County Subdivision|F|Pierce County, St. Croix County
+WI|55|76300|Spring Valley village|Incorporated Place|A|Pierce County, St. Croix County
+WI|55|76325|Spring Valley town|County Subdivision|A|Rock County
+WI|55|76350|Springville town|County Subdivision|A|Adams County
+WI|55|76400|Springwater town|County Subdivision|A|Waushara County
+WI|55|76450|Spruce town|County Subdivision|A|Oconto County
+WI|55|76550|Stanfold town|County Subdivision|A|Barron County
+WI|55|76600|Stanley town|County Subdivision|A|Barron County
+WI|55|76625|Stanley city|County Subdivision|F|Chippewa County, Clark County
+WI|55|76625|Stanley city|Incorporated Place|A|Chippewa County, Clark County
+WI|55|76650|Stanton town|County Subdivision|A|Dunn County
+WI|55|76675|Stanton town|County Subdivision|A|St. Croix County
+WI|55|76725|Stark town|County Subdivision|A|Vernon County
+WI|55|76825|Star Prairie village|County Subdivision|F|St. Croix County
+WI|55|76825|Star Prairie village|Incorporated Place|A|St. Croix County
+WI|55|76850|Star Prairie town|County Subdivision|A|St. Croix County
+WI|55|76975|Stella town|County Subdivision|A|Oneida County
+WI|55|77000|Stephenson town|County Subdivision|A|Marinette County
+WI|55|77050|Sterling town|County Subdivision|A|Polk County
+WI|55|77075|Sterling town|County Subdivision|A|Vernon County
+WI|55|77100|Stetsonville village|County Subdivision|F|Taylor County
+WI|55|77100|Stetsonville village|Incorporated Place|A|Taylor County
+WI|55|77150|Stettin town|County Subdivision|A|Marathon County
+WI|55|77175|Steuben village|County Subdivision|F|Crawford County
+WI|55|77175|Steuben village|Incorporated Place|A|Crawford County
+WI|55|77200|Stevens Point city|County Subdivision|F|Portage County
+WI|55|77200|Stevens Point city|Incorporated Place|A|Portage County
+WI|55|77300|Stiles town|County Subdivision|A|Oconto County
+WI|55|77350|Stinnett town|County Subdivision|A|Washburn County
+WI|55|77400|Stockbridge village|County Subdivision|F|Calumet County
+WI|55|77400|Stockbridge village|Incorporated Place|A|Calumet County
+WI|55|77425|Stockbridge town|County Subdivision|A|Calumet County
+WI|55|77475|Stockholm village|County Subdivision|F|Pepin County
+WI|55|77475|Stockholm village|Incorporated Place|A|Pepin County
+WI|55|77500|Stockholm town|County Subdivision|A|Pepin County
+WI|55|77537|Stockton town|County Subdivision|A|Portage County
+WI|55|77550|Stoddard village|County Subdivision|F|Vernon County
+WI|55|77550|Stoddard village|Incorporated Place|A|Vernon County
+WI|55|77625|Stone Lake CDP|Census Designated Place|S|Sawyer County, Washburn County
+WI|55|77650|Stone Lake town|County Subdivision|A|Washburn County
+WI|55|77675|Stoughton city|County Subdivision|F|Dane County
+WI|55|77675|Stoughton city|Incorporated Place|A|Dane County
+WI|55|77750|Stratford village|County Subdivision|F|Marathon County
+WI|55|77750|Stratford village|Incorporated Place|A|Marathon County
+WI|55|77775|Strickland town|County Subdivision|A|Rusk County
+WI|55|77800|Strongs Prairie town|County Subdivision|A|Adams County
+WI|55|77825|Strum village|County Subdivision|F|Trempealeau County
+WI|55|77825|Strum village|Incorporated Place|A|Trempealeau County
+WI|55|77850|Stubbs town|County Subdivision|A|Rusk County
+WI|55|77875|Sturgeon Bay city|County Subdivision|F|Door County
+WI|55|77875|Sturgeon Bay city|Incorporated Place|A|Door County
+WI|55|77900|Sturgeon Bay town|County Subdivision|A|Door County
+WI|55|77925|Sturtevant village|County Subdivision|F|Racine County
+WI|55|77925|Sturtevant village|Incorporated Place|A|Racine County
+WI|55|77975|Suamico village|County Subdivision|F|Brown County
+WI|55|77975|Suamico village|Incorporated Place|A|Brown County
+WI|55|78075|Sugar Camp town|County Subdivision|A|Oneida County
+WI|55|78100|Sugar Creek town|County Subdivision|A|Walworth County
+WI|55|78175|Sullivan village|County Subdivision|F|Jefferson County
+WI|55|78175|Sullivan village|Incorporated Place|A|Jefferson County
+WI|55|78200|Sullivan town|County Subdivision|A|Jefferson County
+WI|55|78275|Summit town|County Subdivision|A|Douglas County
+WI|55|78300|Summit town|County Subdivision|A|Juneau County
+WI|55|78325|Summit town|County Subdivision|A|Langlade County
+WI|55|78375|Summit town|County Subdivision|A|Waukesha County
+WI|55|78425|Summit Lake CDP|Census Designated Place|S|Langlade County
+WI|55|78450|Sumner town|County Subdivision|A|Barron County
+WI|55|78475|Sumner town|County Subdivision|A|Jefferson County
+WI|55|78500|Sumner town|County Subdivision|A|Trempealeau County
+WI|55|78525|Sumpter town|County Subdivision|A|Sauk County
+WI|55|78600|Sun Prairie city|County Subdivision|F|Dane County
+WI|55|78600|Sun Prairie city|Incorporated Place|A|Dane County
+WI|55|78625|Sun Prairie town|County Subdivision|A|Dane County
+WI|55|78650|Superior city|County Subdivision|F|Douglas County
+WI|55|78650|Superior city|Incorporated Place|A|Douglas County
+WI|55|78660|Superior village|County Subdivision|F|Douglas County
+WI|55|78660|Superior village|Incorporated Place|A|Douglas County
+WI|55|78675|Superior town|County Subdivision|A|Douglas County
+WI|55|78725|Suring village|County Subdivision|F|Oconto County
+WI|55|78725|Suring village|Incorporated Place|A|Oconto County
+WI|55|78750|Sussex village|County Subdivision|F|Waukesha County
+WI|55|78750|Sussex village|Incorporated Place|A|Waukesha County
+WI|55|78775|Swiss town|County Subdivision|A|Burnett County
+WI|55|78825|Sylvan town|County Subdivision|A|Richland County
+WI|55|78875|Sylvester town|County Subdivision|A|Green County
+WI|55|78950|Taft town|County Subdivision|A|Taylor County
+WI|55|78975|Tainter town|County Subdivision|A|Dunn County
+WI|55|78980|Tainter Lake CDP|Census Designated Place|S|Dunn County
+WI|55|79100|Taycheedah CDP|Census Designated Place|S|Fond du Lac County
+WI|55|79125|Taycheedah town|County Subdivision|A|Fond du Lac County
+WI|55|79150|Taylor village|County Subdivision|F|Jackson County
+WI|55|79150|Taylor village|Incorporated Place|A|Jackson County
+WI|55|79250|Tennyson village|County Subdivision|F|Grant County
+WI|55|79250|Tennyson village|Incorporated Place|A|Grant County
+WI|55|79350|Texas town|County Subdivision|A|Marathon County
+WI|55|79375|Theresa village|County Subdivision|F|Dodge County
+WI|55|79375|Theresa village|Incorporated Place|A|Dodge County
+WI|55|79425|Theresa town|County Subdivision|A|Dodge County
+WI|55|79475|Thiensville village|County Subdivision|F|Ozaukee County
+WI|55|79475|Thiensville village|Incorporated Place|A|Ozaukee County
+WI|55|79575|Thornapple town|County Subdivision|A|Rusk County
+WI|55|79600|Thornton CDP|Census Designated Place|S|Shawano County
+WI|55|79625|Thorp city|County Subdivision|F|Clark County
+WI|55|79625|Thorp city|Incorporated Place|A|Clark County
+WI|55|79650|Thorp town|County Subdivision|A|Clark County
+WI|55|79675|Three Lakes CDP|Census Designated Place|S|Oneida County
+WI|55|79700|Three Lakes town|County Subdivision|A|Oneida County
+WI|55|79740|Tichigan CDP|Census Designated Place|S|Racine County
+WI|55|79775|Tiffany town|County Subdivision|A|Dunn County
+WI|55|79825|Tigerton village|County Subdivision|F|Shawano County
+WI|55|79825|Tigerton village|Incorporated Place|A|Shawano County
+WI|55|79875|Tilden town|County Subdivision|A|Chippewa County
+WI|55|79900|Tilleda CDP|Census Designated Place|S|Shawano County
+WI|55|79975|Tipler town|County Subdivision|A|Florence County
+WI|55|80075|Tomah city|County Subdivision|F|Monroe County
+WI|55|80075|Tomah city|Incorporated Place|A|Monroe County
+WI|55|80100|Tomah town|County Subdivision|A|Monroe County
+WI|55|80125|Tomahawk city|County Subdivision|F|Lincoln County
+WI|55|80125|Tomahawk city|Incorporated Place|A|Lincoln County
+WI|55|80150|Tomahawk town|County Subdivision|A|Lincoln County
+WI|55|80225|Tony village|County Subdivision|F|Rusk County
+WI|55|80225|Tony village|Incorporated Place|A|Rusk County
+WI|55|80300|Townsend CDP|Census Designated Place|S|Oconto County
+WI|55|80325|Townsend town|County Subdivision|A|Oconto County
+WI|55|80375|Trade Lake town|County Subdivision|A|Burnett County
+WI|55|80425|Trego CDP|Census Designated Place|S|Washburn County
+WI|55|80450|Trego town|County Subdivision|A|Washburn County
+WI|55|80475|Trempealeau village|County Subdivision|F|Trempealeau County
+WI|55|80475|Trempealeau village|Incorporated Place|A|Trempealeau County
+WI|55|80500|Trempealeau town|County Subdivision|A|Trempealeau County
+WI|55|80525|Trenton town|County Subdivision|A|Dodge County
+WI|55|80550|Trenton town|County Subdivision|A|Pierce County
+WI|55|80575|Trenton town|County Subdivision|A|Washington County
+WI|55|80700|Trimbelle town|County Subdivision|A|Pierce County
+WI|55|80750|Tripp town|County Subdivision|A|Bayfield County
+WI|55|80800|Troy town|County Subdivision|A|St. Croix County
+WI|55|80825|Troy town|County Subdivision|A|Sauk County
+WI|55|80875|Troy town|County Subdivision|A|Walworth County
+WI|55|80950|True town|County Subdivision|A|Rusk County
+WI|55|81025|Tunnel City CDP|Census Designated Place|S|Monroe County
+WI|55|81050|Turtle town|County Subdivision|A|Rock County
+WI|55|81075|Turtle Lake village|County Subdivision|F|Barron County, Polk County
+WI|55|81075|Turtle Lake village|Incorporated Place|A|Barron County, Polk County
+WI|55|81090|Turtle Lake CDP|Census Designated Place|S|Walworth County
+WI|55|81100|Turtle Lake town|County Subdivision|A|Barron County
+WI|55|81150|Tustin CDP|Census Designated Place|S|Waushara County
+WI|55|81250|Twin Lakes village|County Subdivision|F|Kenosha County
+WI|55|81250|Twin Lakes village|Incorporated Place|A|Kenosha County
+WI|55|81300|Two Creeks town|County Subdivision|A|Manitowoc County
+WI|55|81325|Two Rivers city|County Subdivision|F|Manitowoc County
+WI|55|81325|Two Rivers city|Incorporated Place|A|Manitowoc County
+WI|55|81350|Two Rivers town|County Subdivision|A|Manitowoc County
+WI|55|81475|Underhill town|County Subdivision|A|Oconto County
+WI|55|81500|Union town|County Subdivision|A|Burnett County
+WI|55|81525|Union town|County Subdivision|A|Door County
+WI|55|81550|Union town|County Subdivision|A|Eau Claire County
+WI|55|81600|Union town|County Subdivision|A|Pierce County
+WI|55|81650|Union town|County Subdivision|A|Rock County
+WI|55|81675|Union town|County Subdivision|A|Vernon County
+WI|55|81700|Union town|County Subdivision|A|Waupaca County
+WI|55|81725|Union Center village|County Subdivision|F|Juneau County
+WI|55|81725|Union Center village|Incorporated Place|A|Juneau County
+WI|55|81775|Union Grove village|County Subdivision|F|Racine County
+WI|55|81775|Union Grove village|Incorporated Place|A|Racine County
+WI|55|81825|Unity town|County Subdivision|A|Clark County
+WI|55|81850|Unity village|County Subdivision|F|Clark County, Marathon County
+WI|55|81850|Unity village|Incorporated Place|A|Clark County, Marathon County
+WI|55|81875|Unity town|County Subdivision|A|Trempealeau County
+WI|55|81950|Upham town|County Subdivision|A|Langlade County
+WI|55|82100|Utica town|County Subdivision|A|Crawford County
+WI|55|82175|Utica town|County Subdivision|A|Winnebago County
+WI|55|82200|Valders village|County Subdivision|F|Manitowoc County
+WI|55|82200|Valders village|Incorporated Place|A|Manitowoc County
+WI|55|82375|Vance Creek town|County Subdivision|A|Barron County
+WI|55|82400|Vandenbroek town|County Subdivision|A|Outagamie County
+WI|55|82450|Van Dyne CDP|Census Designated Place|S|Fond du Lac County
+WI|55|82525|Vermont town|County Subdivision|A|Dane County
+WI|55|82575|Vernon town|County Subdivision|A|Waukesha County
+WI|55|82600|Verona city|County Subdivision|F|Dane County
+WI|55|82600|Verona city|Incorporated Place|A|Dane County
+WI|55|82625|Verona town|County Subdivision|A|Dane County
+WI|55|82650|Vesper village|County Subdivision|F|Wood County
+WI|55|82650|Vesper village|Incorporated Place|A|Wood County
+WI|55|82750|Vienna town|County Subdivision|A|Dane County
+WI|55|82825|Vilas town|County Subdivision|A|Langlade County
+WI|55|82875|Vinland town|County Subdivision|A|Winnebago County
+WI|55|82900|Viola village|County Subdivision|F|Richland County, Vernon County
+WI|55|82900|Viola village|Incorporated Place|A|Richland County, Vernon County
+WI|55|82925|Viroqua city|County Subdivision|F|Vernon County
+WI|55|82925|Viroqua city|Incorporated Place|A|Vernon County
+WI|55|82950|Viroqua town|County Subdivision|A|Vernon County
+WI|55|83000|Wabeno CDP|Census Designated Place|S|Forest County
+WI|55|83025|Wabeno town|County Subdivision|A|Forest County
+WI|55|83050|Wagner town|County Subdivision|A|Marinette County
+WI|55|83100|Waldo village|County Subdivision|F|Sheboygan County
+WI|55|83100|Waldo village|Incorporated Place|A|Sheboygan County
+WI|55|83150|Waldwick town|County Subdivision|A|Iowa County
+WI|55|83175|Wales village|County Subdivision|F|Waukesha County
+WI|55|83175|Wales village|Incorporated Place|A|Waukesha County
+WI|55|83250|Walworth village|County Subdivision|F|Walworth County
+WI|55|83250|Walworth village|Incorporated Place|A|Walworth County
+WI|55|83275|Walworth town|County Subdivision|A|Walworth County
+WI|55|83350|Warner town|County Subdivision|A|Clark County
+WI|55|83400|Warren town|County Subdivision|A|St. Croix County
+WI|55|83425|Warren town|County Subdivision|A|Waushara County
+WI|55|83450|Warrens village|County Subdivision|F|Monroe County
+WI|55|83450|Warrens village|Incorporated Place|A|Monroe County
+WI|55|83512|Wascott town|County Subdivision|A|Douglas County
+WI|55|83525|Washburn city|County Subdivision|F|Bayfield County
+WI|55|83525|Washburn city|Incorporated Place|A|Bayfield County
+WI|55|83550|Washburn town|County Subdivision|A|Bayfield County
+WI|55|83575|Washburn town|County Subdivision|A|Clark County
+WI|55|83600|Washington town|County Subdivision|A|Door County
+WI|55|83612|Washington town|County Subdivision|A|Eau Claire County
+WI|55|83625|Washington town|County Subdivision|A|Green County
+WI|55|83650|Washington town|County Subdivision|A|La Crosse County
+WI|55|83675|Washington town|County Subdivision|A|Rusk County
+WI|55|83700|Washington town|County Subdivision|A|Sauk County
+WI|55|83725|Washington town|County Subdivision|A|Shawano County
+WI|55|83750|Washington town|County Subdivision|A|Vilas County
+WI|55|83825|Waterford village|County Subdivision|F|Racine County
+WI|55|83825|Waterford village|Incorporated Place|A|Racine County
+WI|55|83850|Waterford town|County Subdivision|A|Racine County
+WI|55|83900|Waterloo town|County Subdivision|A|Grant County
+WI|55|83925|Waterloo city|County Subdivision|F|Jefferson County
+WI|55|83925|Waterloo city|Incorporated Place|A|Jefferson County
+WI|55|83950|Waterloo town|County Subdivision|A|Jefferson County
+WI|55|83975|Watertown city|County Subdivision|F|Dodge County, Jefferson County
+WI|55|83975|Watertown city|Incorporated Place|A|Dodge County, Jefferson County
+WI|55|84000|Watertown town|County Subdivision|A|Jefferson County
+WI|55|84025|Waterville town|County Subdivision|A|Pepin County
+WI|55|84075|Watterstown town|County Subdivision|A|Grant County
+WI|55|84100|Waubeek town|County Subdivision|A|Pepin County
+WI|55|84150|Waubeka CDP|Census Designated Place|S|Ozaukee County
+WI|55|84200|Waukau CDP|Census Designated Place|S|Winnebago County
+WI|55|84225|Waukechon town|County Subdivision|A|Shawano County
+WI|55|84250|Waukesha city|County Subdivision|F|Waukesha County
+WI|55|84250|Waukesha city|Incorporated Place|A|Waukesha County
+WI|55|84275|Waukesha town|County Subdivision|A|Waukesha County
+WI|55|84300|Waumandee CDP|Census Designated Place|S|Buffalo County
+WI|55|84325|Waumandee town|County Subdivision|A|Buffalo County
+WI|55|84350|Waunakee village|County Subdivision|F|Dane County
+WI|55|84350|Waunakee village|Incorporated Place|A|Dane County
+WI|55|84375|Waupaca city|County Subdivision|F|Waupaca County
+WI|55|84375|Waupaca city|Incorporated Place|A|Waupaca County
+WI|55|84400|Waupaca town|County Subdivision|A|Waupaca County
+WI|55|84425|Waupun city|County Subdivision|F|Dodge County, Fond du Lac County
+WI|55|84425|Waupun city|Incorporated Place|A|Dodge County, Fond du Lac County
+WI|55|84450|Waupun town|County Subdivision|A|Fond du Lac County
+WI|55|84475|Wausau city|County Subdivision|F|Marathon County
+WI|55|84475|Wausau city|Incorporated Place|A|Marathon County
+WI|55|84500|Wausau town|County Subdivision|A|Marathon County
+WI|55|84525|Wausaukee village|County Subdivision|F|Marinette County
+WI|55|84525|Wausaukee village|Incorporated Place|A|Marinette County
+WI|55|84550|Wausaukee town|County Subdivision|A|Marinette County
+WI|55|84625|Wautoma city|County Subdivision|F|Waushara County
+WI|55|84625|Wautoma city|Incorporated Place|A|Waushara County
+WI|55|84650|Wautoma town|County Subdivision|A|Waushara County
+WI|55|84675|Wauwatosa city|County Subdivision|F|Milwaukee County
+WI|55|84675|Wauwatosa city|Incorporated Place|A|Milwaukee County
+WI|55|84725|Wauzeka village|County Subdivision|F|Crawford County
+WI|55|84725|Wauzeka village|Incorporated Place|A|Crawford County
+WI|55|84750|Wauzeka town|County Subdivision|A|Crawford County
+WI|55|84850|Wayne town|County Subdivision|A|Lafayette County
+WI|55|84900|Wayne town|County Subdivision|A|Washington County
+WI|55|84975|Webb Lake town|County Subdivision|A|Burnett County
+WI|55|85025|Webster village|County Subdivision|F|Burnett County
+WI|55|85025|Webster village|Incorporated Place|A|Burnett County
+WI|55|85050|Webster town|County Subdivision|A|Vernon County
+WI|55|85100|Weirgor town|County Subdivision|A|Sawyer County
+WI|55|85125|Wellington town|County Subdivision|A|Monroe County
+WI|55|85150|Wells town|County Subdivision|A|Monroe County
+WI|55|85275|Wescott town|County Subdivision|A|Shawano County
+WI|55|85300|West Allis city|County Subdivision|F|Milwaukee County
+WI|55|85300|West Allis city|Incorporated Place|A|Milwaukee County
+WI|55|85325|West Baraboo village|County Subdivision|F|Sauk County
+WI|55|85325|West Baraboo village|Incorporated Place|A|Sauk County
+WI|55|85350|West Bend city|County Subdivision|F|Washington County
+WI|55|85350|West Bend city|Incorporated Place|A|Washington County
+WI|55|85375|West Bend town|County Subdivision|A|Washington County
+WI|55|85425|Westboro CDP|Census Designated Place|S|Taylor County
+WI|55|85450|Westboro town|County Subdivision|A|Taylor County
+WI|55|85475|Westby city|County Subdivision|F|Vernon County
+WI|55|85475|Westby city|Incorporated Place|A|Vernon County
+WI|55|85575|Westfield village|County Subdivision|F|Marquette County
+WI|55|85575|Westfield village|Incorporated Place|A|Marquette County
+WI|55|85600|Westfield town|County Subdivision|A|Marquette County
+WI|55|85625|Westfield town|County Subdivision|A|Sauk County
+WI|55|85650|Westford town|County Subdivision|A|Dodge County
+WI|55|85675|Westford town|County Subdivision|A|Richland County
+WI|55|85775|West Kewaunee town|County Subdivision|A|Kewaunee County
+WI|55|85850|West Marshland town|County Subdivision|A|Burnett County
+WI|55|85875|West Milwaukee village|County Subdivision|F|Milwaukee County
+WI|55|85875|West Milwaukee village|Incorporated Place|A|Milwaukee County
+WI|55|85925|Weston town|County Subdivision|A|Clark County
+WI|55|85975|Weston town|County Subdivision|A|Dunn County
+WI|55|86025|Weston village|County Subdivision|F|Marathon County
+WI|55|86025|Weston village|Incorporated Place|A|Marathon County
+WI|55|86050|Weston town|County Subdivision|A|Marathon County
+WI|55|86100|West Point town|County Subdivision|A|Columbia County
+WI|55|86125|Westport town|County Subdivision|A|Dane County
+WI|55|86275|West Salem village|County Subdivision|F|La Crosse County
+WI|55|86275|West Salem village|Incorporated Place|A|La Crosse County
+WI|55|86350|West Sweden town|County Subdivision|A|Polk County
+WI|55|86400|Weyauwega city|County Subdivision|F|Waupaca County
+WI|55|86400|Weyauwega city|Incorporated Place|A|Waupaca County
+WI|55|86425|Weyauwega town|County Subdivision|A|Waupaca County
+WI|55|86450|Weyerhaeuser village|County Subdivision|F|Rusk County
+WI|55|86450|Weyerhaeuser village|Incorporated Place|A|Rusk County
+WI|55|86500|Wheatland town|County Subdivision|A|Kenosha County
+WI|55|86525|Wheatland town|County Subdivision|A|Vernon County
+WI|55|86537|Wheaton town|County Subdivision|A|Chippewa County
+WI|55|86575|Wheeler village|County Subdivision|F|Dunn County
+WI|55|86575|Wheeler village|Incorporated Place|A|Dunn County
+WI|55|86700|Whitefish Bay village|County Subdivision|F|Milwaukee County
+WI|55|86700|Whitefish Bay village|Incorporated Place|A|Milwaukee County
+WI|55|86725|Whitehall city|County Subdivision|F|Trempealeau County
+WI|55|86725|Whitehall city|Incorporated Place|A|Trempealeau County
+WI|55|86750|White Lake village|County Subdivision|F|Langlade County
+WI|55|86750|White Lake village|Incorporated Place|A|Langlade County
+WI|55|86775|Whitelaw village|County Subdivision|F|Manitowoc County
+WI|55|86775|Whitelaw village|Incorporated Place|A|Manitowoc County
+WI|55|86800|White Oak Springs town|County Subdivision|A|Lafayette County
+WI|55|86850|White River town|County Subdivision|A|Ashland County
+WI|55|86900|Whitestown town|County Subdivision|A|Vernon County
+WI|55|86925|Whitewater city|County Subdivision|F|Jefferson County, Walworth County
+WI|55|86925|Whitewater city|Incorporated Place|A|Jefferson County, Walworth County
+WI|55|86950|Whitewater town|County Subdivision|A|Walworth County
+WI|55|86975|Whiting village|County Subdivision|F|Portage County
+WI|55|86975|Whiting village|Incorporated Place|A|Portage County
+WI|55|87000|Whittlesey CDP|Census Designated Place|S|Taylor County
+WI|55|87025|Wien town|County Subdivision|A|Marathon County
+WI|55|87075|Wild Rose village|County Subdivision|F|Waushara County
+WI|55|87075|Wild Rose village|Incorporated Place|A|Waushara County
+WI|55|87125|Wilkinson town|County Subdivision|A|Rusk County
+WI|55|87175|Willard town|County Subdivision|A|Rusk County
+WI|55|87200|Williams Bay village|County Subdivision|F|Walworth County
+WI|55|87200|Williams Bay village|Incorporated Place|A|Walworth County
+WI|55|87225|Williamstown town|County Subdivision|A|Dodge County
+WI|55|87250|Willow town|County Subdivision|A|Richland County
+WI|55|87275|Willow Springs town|County Subdivision|A|Lafayette County
+WI|55|87325|Wilmot CDP|Census Designated Place|S|Kenosha County
+WI|55|87375|Wilson town|County Subdivision|A|Dunn County
+WI|55|87400|Wilson town|County Subdivision|A|Eau Claire County
+WI|55|87425|Wilson town|County Subdivision|A|Lincoln County
+WI|55|87450|Wilson town|County Subdivision|A|Rusk County
+WI|55|87475|Wilson village|County Subdivision|F|St. Croix County
+WI|55|87475|Wilson village|Incorporated Place|A|St. Croix County
+WI|55|87500|Wilson town|County Subdivision|A|Sheboygan County
+WI|55|87525|Wilton village|County Subdivision|F|Monroe County
+WI|55|87525|Wilton village|Incorporated Place|A|Monroe County
+WI|55|87550|Wilton town|County Subdivision|A|Monroe County
+WI|55|87600|Winchester town|County Subdivision|A|Vilas County
+WI|55|87625|Winchester CDP|Census Designated Place|S|Winnebago County
+WI|55|87650|Winchester town|County Subdivision|A|Winnebago County
+WI|55|87675|Wind Lake CDP|Census Designated Place|S|Racine County
+WI|55|87700|Wind Point village|County Subdivision|F|Racine County
+WI|55|87700|Wind Point village|Incorporated Place|A|Racine County
+WI|55|87725|Windsor CDP|Census Designated Place|S|Dane County
+WI|55|87750|Windsor town|County Subdivision|A|Dane County
+WI|55|87775|Winfield town|County Subdivision|A|Sauk County
+WI|55|87800|Wingville town|County Subdivision|A|Grant County
+WI|55|87900|Winneconne village|County Subdivision|F|Winnebago County
+WI|55|87900|Winneconne village|Incorporated Place|A|Winnebago County
+WI|55|87925|Winneconne town|County Subdivision|A|Winnebago County
+WI|55|87975|Winter village|County Subdivision|F|Sawyer County
+WI|55|87975|Winter village|Incorporated Place|A|Sawyer County
+WI|55|88000|Winter town|County Subdivision|A|Sawyer County
+WI|55|88050|Wiota town|County Subdivision|A|Lafayette County
+WI|55|88150|Wisconsin Dells city|County Subdivision|F|Adams County, Columbia County, Juneau County, Sauk County
+WI|55|88150|Wisconsin Dells city|Incorporated Place|A|Adams County, Columbia County, Juneau County, Sauk County
+WI|55|88200|Wisconsin Rapids city|County Subdivision|F|Wood County
+WI|55|88200|Wisconsin Rapids city|Incorporated Place|A|Wood County
+WI|55|88275|Withee village|County Subdivision|F|Clark County
+WI|55|88275|Withee village|Incorporated Place|A|Clark County
+WI|55|88300|Withee town|County Subdivision|A|Clark County
+WI|55|88325|Wittenberg village|County Subdivision|F|Shawano County
+WI|55|88325|Wittenberg village|Incorporated Place|A|Shawano County
+WI|55|88350|Wittenberg town|County Subdivision|A|Shawano County
+WI|55|88450|Wolf River town|County Subdivision|A|Langlade County
+WI|55|88475|Wolf River town|County Subdivision|A|Winnebago County
+WI|55|88500|Wonewoc village|County Subdivision|F|Juneau County
+WI|55|88500|Wonewoc village|Incorporated Place|A|Juneau County
+WI|55|88525|Wonewoc town|County Subdivision|A|Juneau County
+WI|55|88575|Wood town|County Subdivision|A|Wood County
+WI|55|88625|Woodboro town|County Subdivision|A|Oneida County
+WI|55|88675|Woodford CDP|Census Designated Place|S|Lafayette County
+WI|55|88775|Woodland town|County Subdivision|A|Sauk County
+WI|55|88825|Woodman village|County Subdivision|F|Grant County
+WI|55|88825|Woodman village|Incorporated Place|A|Grant County
+WI|55|88850|Woodman town|County Subdivision|A|Grant County
+WI|55|88875|Woodmohr town|County Subdivision|A|Chippewa County
+WI|55|88900|Wood River town|County Subdivision|A|Burnett County
+WI|55|88925|Woodruff CDP|Census Designated Place|S|Oneida County
+WI|55|88950|Woodruff town|County Subdivision|A|Oneida County
+WI|55|89000|Woodville town|County Subdivision|A|Calumet County
+WI|55|89025|Woodville village|County Subdivision|F|St. Croix County
+WI|55|89025|Woodville village|Incorporated Place|A|St. Croix County
+WI|55|89100|Worcester town|County Subdivision|A|Price County
+WI|55|89125|Worden town|County Subdivision|A|Clark County
+WI|55|89150|Wrightstown village|County Subdivision|F|Brown County, Outagamie County
+WI|55|89150|Wrightstown village|Incorporated Place|A|Brown County, Outagamie County
+WI|55|89175|Wrightstown town|County Subdivision|A|Brown County
+WI|55|89250|Wyalusing town|County Subdivision|A|Grant County
+WI|55|89275|Wyeville village|County Subdivision|F|Monroe County
+WI|55|89275|Wyeville village|Incorporated Place|A|Monroe County
+WI|55|89300|Wyocena village|County Subdivision|F|Columbia County
+WI|55|89300|Wyocena village|Incorporated Place|A|Columbia County
+WI|55|89325|Wyocena town|County Subdivision|A|Columbia County
+WI|55|89350|Wyoming town|County Subdivision|A|Iowa County
+WI|55|89375|Wyoming town|County Subdivision|A|Waupaca County
+WI|55|89425|York town|County Subdivision|A|Clark County
+WI|55|89450|York town|County Subdivision|A|Dane County
+WI|55|89475|York town|County Subdivision|A|Green County
+WI|55|89575|Yorkville town|County Subdivision|A|Racine County
+WI|55|89625|Yuba village|County Subdivision|F|Richland County
+WI|55|89625|Yuba village|Incorporated Place|A|Richland County
+WI|55|89760|Zoar CDP|Census Designated Place|S|Menominee County

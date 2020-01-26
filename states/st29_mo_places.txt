@@ -1,0 +1,1032 @@
+MO|29|00244|Adrian city|Incorporated Place|A|Bates County
+MO|29|00262|Advance city|Incorporated Place|A|Stoddard County
+MO|29|00280|Affton CDP|Census Designated Place|S|St. Louis County
+MO|29|00298|Agency village|Incorporated Place|A|Buchanan County
+MO|29|00424|Airport Drive village|Incorporated Place|A|Jasper County
+MO|29|00496|Alba city|Incorporated Place|A|Jasper County
+MO|29|00514|Albany city|Incorporated Place|A|Gentry County
+MO|29|00568|Aldrich village|Incorporated Place|A|Polk County
+MO|29|00604|Alexandria city|Incorporated Place|A|Clark County
+MO|29|00712|Allendale village|Incorporated Place|A|Worth County
+MO|29|00748|Allenville village|Incorporated Place|A|Cape Girardeau County
+MO|29|00802|Alma city|Incorporated Place|A|Lafayette County
+MO|29|00910|Altamont village|Incorporated Place|A|Daviess County
+MO|29|00928|Altenburg city|Incorporated Place|A|Perry County
+MO|29|00964|Alton city|Incorporated Place|A|Oregon County
+MO|29|01018|Amazonia village|Incorporated Place|A|Andrew County
+MO|29|01054|Amity town|Incorporated Place|A|DeKalb County
+MO|29|01072|Amoret city|Incorporated Place|A|Bates County
+MO|29|01090|Amsterdam city|Incorporated Place|A|Bates County
+MO|29|01198|Anderson city|Incorporated Place|A|McDonald County
+MO|29|01252|Annada village|Incorporated Place|A|Pike County
+MO|29|01270|Annapolis city|Incorporated Place|A|Iron County
+MO|29|01288|Anniston town|Incorporated Place|A|Mississippi County
+MO|29|01522|Appleton City city|Incorporated Place|A|St. Clair County
+MO|29|01576|Arbela town|Incorporated Place|A|Scotland County
+MO|29|01630|Arbyrd city|Incorporated Place|A|Dunklin County
+MO|29|01648|Arcadia city|Incorporated Place|A|Iron County
+MO|29|01702|Archie city|Incorporated Place|A|Cass County
+MO|29|01720|Arcola village|Incorporated Place|A|Dade County
+MO|29|01828|Argyle town|Incorporated Place|A|Maries County, Osage County
+MO|29|01864|Arkoe town|Incorporated Place|A|Nodaway County
+MO|29|01954|Armstrong city|Incorporated Place|A|Howard County
+MO|29|01972|Arnold city|Incorporated Place|A|Jefferson County
+MO|29|02034|Arrow Point village|Incorporated Place|A|Barry County
+MO|29|02044|Arrow Rock town|Incorporated Place|A|Saline County
+MO|29|02098|Asbury city|Incorporated Place|A|Jasper County
+MO|29|02152|Ashburn town|Incorporated Place|I|Pike County
+MO|29|02188|Ash Grove city|Incorporated Place|A|Greene County
+MO|29|02242|Ashland city|Incorporated Place|A|Boone County
+MO|29|02260|Ashley CDP|Census Designated Place|S|Pike County
+MO|29|02422|Atlanta city|Incorporated Place|A|Macon County
+MO|29|02512|Augusta town|Incorporated Place|A|St. Charles County
+MO|29|02530|Aullville village|Incorporated Place|A|Lafayette County
+MO|29|02548|Aurora city|Incorporated Place|A|Lawrence County
+MO|29|02638|Auxvasse city|Incorporated Place|A|Callaway County
+MO|29|02674|Ava city|Incorporated Place|A|Douglas County
+MO|29|02746|Avilla town|Incorporated Place|A|Jasper County
+MO|29|02800|Avondale city|Incorporated Place|A|Clay County
+MO|29|02962|Bagnell town|Incorporated Place|A|Miller County
+MO|29|03034|Baker village|Incorporated Place|I|Stoddard County
+MO|29|03052|Bakersfield village|Incorporated Place|A|Ozark County
+MO|29|03124|Baldwin Park village|Incorporated Place|A|Cass County
+MO|29|03160|Ballwin city|Incorporated Place|A|St. Louis County
+MO|29|03322|Baring city|Incorporated Place|A|Knox County
+MO|29|03340|Barnard city|Incorporated Place|A|Nodaway County
+MO|29|03376|Barnett city|Incorporated Place|A|Morgan County
+MO|29|03394|Barnhart CDP|Census Designated Place|S|Jefferson County
+MO|29|03556|Bates City city|Incorporated Place|A|Lafayette County
+MO|29|03592|Battlefield city|Incorporated Place|A|Greene County
+MO|29|04114|Bella Villa city|Incorporated Place|A|St. Louis County
+MO|29|04132|Bell City city|Incorporated Place|A|Stoddard County
+MO|29|04150|Belle city|Incorporated Place|A|Maries County, Osage County
+MO|29|04222|Bellefontaine Neighbors city|Incorporated Place|A|St. Louis County
+MO|29|04240|Bellerive village|Incorporated Place|A|St. Louis County
+MO|29|04330|Bellflower city|Incorporated Place|A|Montgomery County
+MO|29|04348|Bel-Nor village|Incorporated Place|A|St. Louis County
+MO|29|04366|Bel-Ridge village|Incorporated Place|A|St. Louis County
+MO|29|04384|Belton city|Incorporated Place|A|Cass County
+MO|29|04525|Bennett Springs CDP|Census Designated Place|S|Dallas County, Laclede County
+MO|29|04798|Benton city|Incorporated Place|A|Scott County
+MO|29|04834|Benton City village|Incorporated Place|A|Audrain County
+MO|29|04888|Berger city|Incorporated Place|A|Franklin County
+MO|29|04906|Berkeley city|Incorporated Place|A|St. Louis County
+MO|29|04960|Bernie city|Incorporated Place|A|Stoddard County
+MO|29|04996|Bertrand city|Incorporated Place|A|Mississippi County
+MO|29|05068|Bethany city|Incorporated Place|A|Harrison County
+MO|29|05104|Bethel village|Incorporated Place|A|Shelby County
+MO|29|05248|Beverly Hills city|Incorporated Place|A|St. Louis County
+MO|29|05266|Bevier city|Incorporated Place|A|Macon County
+MO|29|05320|Biehle CDP|Census Designated Place|S|Perry County
+MO|29|05464|Bigelow village|Incorporated Place|A|Holt County
+MO|29|05495|Big Lake village|Incorporated Place|A|Holt County
+MO|29|05608|Big Spring CDP|Census Designated Place|S|Montgomery County
+MO|29|05626|Billings city|Incorporated Place|A|Christian County
+MO|29|05734|Birch Tree city|Incorporated Place|A|Shannon County
+MO|29|05824|Birmingham village|Incorporated Place|A|Clay County
+MO|29|05878|Bismarck city|Incorporated Place|A|St. Francois County
+MO|29|05950|Blackburn city|Incorporated Place|A|Lafayette County, Saline County
+MO|29|06004|Black Jack city|Incorporated Place|A|St. Louis County
+MO|29|06148|Blackwater city|Incorporated Place|A|Cooper County
+MO|29|06238|Blairstown city|Incorporated Place|A|Henry County
+MO|29|06247|Blanchard CDP|Census Designated Place|S|Atchison County
+MO|29|06256|Bland city|Incorporated Place|A|Gasconade County, Osage County
+MO|29|06346|Blodgett village|Incorporated Place|A|Scott County
+MO|29|06382|Bloomfield city|Incorporated Place|A|Stoddard County
+MO|29|06454|Bloomsdale city|Incorporated Place|A|Ste. Genevieve County
+MO|29|06526|Blue Eye town|Incorporated Place|A|Stone County
+MO|29|06652|Blue Springs city|Incorporated Place|A|Jackson County
+MO|29|06742|Blythedale village|Incorporated Place|A|Harrison County
+MO|29|06832|Bogard city|Incorporated Place|A|Carroll County
+MO|29|06922|Bolckow city|Incorporated Place|A|Andrew County
+MO|29|06976|Bolivar city|Incorporated Place|A|Polk County
+MO|29|07102|Bonne Terre city|Incorporated Place|A|St. Francois County
+MO|29|07318|Boonville city|Incorporated Place|A|Cooper County
+MO|29|07426|Bosworth city|Incorporated Place|A|Carroll County
+MO|29|07534|Bourbon city|Incorporated Place|A|Crawford County
+MO|29|07660|Bowling Green city|Incorporated Place|A|Pike County
+MO|29|07876|Bragg City town|Incorporated Place|A|Pemiscot County
+MO|29|07948|Brandsville city|Incorporated Place|A|Howell County
+MO|29|07966|Branson city|Incorporated Place|A|Stone County, Taney County
+MO|29|07989|Branson West city|Incorporated Place|A|Stone County
+MO|29|08002|Brashear city|Incorporated Place|A|Adair County
+MO|29|08038|Braymer city|Incorporated Place|A|Caldwell County
+MO|29|08128|Breckenridge city|Incorporated Place|A|Caldwell County
+MO|29|08164|Breckenridge Hills city|Incorporated Place|A|St. Louis County
+MO|29|08236|Brentwood city|Incorporated Place|A|St. Louis County
+MO|29|08272|Brewer CDP|Census Designated Place|S|Perry County
+MO|29|08398|Bridgeton city|Incorporated Place|A|St. Louis County
+MO|29|08470|Brimson village|Incorporated Place|A|Grundy County
+MO|29|08614|Bronaugh city|Incorporated Place|A|Vernon County
+MO|29|08650|Brookfield city|Incorporated Place|A|Linn County
+MO|29|08776|Brooklyn Heights town|Incorporated Place|A|Jasper County
+MO|29|08884|Browning city|Incorporated Place|A|Linn County, Sullivan County
+MO|29|08902|Brownington town|Incorporated Place|A|Henry County
+MO|29|08974|Brumley town|Incorporated Place|A|Miller County
+MO|29|09046|Brunswick city|Incorporated Place|A|Chariton County
+MO|29|09388|Bucklin city|Incorporated Place|A|Linn County
+MO|29|09424|Buckner city|Incorporated Place|A|Jackson County
+MO|29|09514|Buffalo city|Incorporated Place|A|Dallas County
+MO|29|09642|Bull Creek village|Incorporated Place|A|Taney County
+MO|29|09658|Bunceton city|Incorporated Place|A|Cooper County
+MO|29|09694|Bunker city|Incorporated Place|A|Dent County, Reynolds County
+MO|29|09802|Burgess town|Incorporated Place|A|Barton County
+MO|29|09838|Burlington Junction city|Incorporated Place|A|Nodaway County
+MO|29|10054|Butler city|Incorporated Place|A|Bates County
+MO|29|10144|Butterfield village|Incorporated Place|A|Barry County
+MO|29|10240|Byrnes Mill city|Incorporated Place|A|Jefferson County
+MO|29|10288|Cabool city|Incorporated Place|A|Texas County
+MO|29|10342|Cainsville city|Incorporated Place|A|Harrison County
+MO|29|10360|Cairo village|Incorporated Place|A|Randolph County
+MO|29|10432|Caledonia village|Incorporated Place|A|Washington County
+MO|29|10450|Calhoun city|Incorporated Place|A|Henry County
+MO|29|10468|California city|Incorporated Place|A|Moniteau County
+MO|29|10486|Callao city|Incorporated Place|A|Macon County
+MO|29|10612|Calverton Park village|Incorporated Place|A|St. Louis County
+MO|29|10738|Camden city|Incorporated Place|A|Ray County
+MO|29|10792|Camden Point city|Incorporated Place|A|Platte County
+MO|29|10810|Camdenton city|Incorporated Place|A|Camden County
+MO|29|10828|Cameron city|Incorporated Place|A|Clinton County, DeKalb County
+MO|29|10864|Campbell city|Incorporated Place|A|Dunklin County
+MO|29|11026|Canalou city|Incorporated Place|A|New Madrid County
+MO|29|11134|Canton city|Incorporated Place|A|Lewis County
+MO|29|11242|Cape Girardeau city|Incorporated Place|A|Cape Girardeau County, Scott County
+MO|29|11350|Cardwell city|Incorporated Place|A|Dunklin County
+MO|29|11368|Carl Junction city|Incorporated Place|A|Jasper County
+MO|29|11566|Carrollton city|Incorporated Place|A|Carroll County
+MO|29|11638|Carterville city|Incorporated Place|A|Jasper County
+MO|29|11656|Carthage city|Incorporated Place|A|Jasper County
+MO|29|11692|Caruthersville city|Incorporated Place|A|Pemiscot County
+MO|29|11728|Carytown city|Incorporated Place|A|Jasper County
+MO|29|11890|Cassville city|Incorporated Place|A|Barry County
+MO|29|11908|Castle Point CDP|Census Designated Place|S|St. Louis County
+MO|29|12052|Catron town|Incorporated Place|A|New Madrid County
+MO|29|12079|Cave town|Incorporated Place|A|Lincoln County
+MO|29|12358|Cedar Hill CDP|Census Designated Place|S|Jefferson County
+MO|29|12376|Cedar Hill Lakes village|Incorporated Place|A|Jefferson County
+MO|29|12592|Center city|Incorporated Place|A|Ralls County
+MO|29|12664|Centertown town|Incorporated Place|A|Cole County
+MO|29|12682|Centerview city|Incorporated Place|A|Johnson County
+MO|29|12718|Centerville city|Incorporated Place|A|Reynolds County
+MO|29|12898|Centralia city|Incorporated Place|A|Audrain County, Boone County
+MO|29|12988|Chaffee city|Incorporated Place|A|Scott County
+MO|29|13006|Chain of Rocks village|Incorporated Place|A|Lincoln County
+MO|29|13015|Chain-O-Lakes village|Incorporated Place|A|Barry County
+MO|29|13060|Chamois city|Incorporated Place|A|Osage County
+MO|29|13078|Champ village|Incorporated Place|A|St. Louis County
+MO|29|13330|Charlack city|Incorporated Place|A|St. Louis County
+MO|29|13366|Charleston city|Incorporated Place|A|Mississippi County
+MO|29|13474|Cherokee Pass CDP|Census Designated Place|S|Madison County
+MO|29|13582|Chesapeake CDP|Census Designated Place|S|Lawrence County
+MO|29|13600|Chesterfield city|Incorporated Place|A|St. Louis County
+MO|29|13654|Chilhowee town|Incorporated Place|A|Johnson County
+MO|29|13690|Chillicothe city|Incorporated Place|A|Livingston County
+MO|29|13852|Chula city|Incorporated Place|A|Livingston County
+MO|29|13978|Clarence city|Incorporated Place|A|Shelby County
+MO|29|14068|Clark city|Incorporated Place|A|Boone County, Randolph County
+MO|29|14140|Clarksburg city|Incorporated Place|A|Moniteau County
+MO|29|14158|Clarksdale city|Incorporated Place|A|DeKalb County
+MO|29|14176|Clarkson Valley city|Incorporated Place|A|St. Louis County
+MO|29|14194|Clarksville city|Incorporated Place|A|Pike County
+MO|29|14212|Clarkton city|Incorporated Place|A|Dunklin County
+MO|29|14554|Claycomo village|Incorporated Place|A|Clay County
+MO|29|14572|Clayton city|Incorporated Place|A|St. Louis County
+MO|29|14662|Clearmont city|Incorporated Place|A|Nodaway County
+MO|29|14770|Cleveland city|Incorporated Place|A|Cass County
+MO|29|14788|Clever city|Incorporated Place|A|Christian County
+MO|29|14806|Cliff Village village|Incorporated Place|A|Newton County
+MO|29|14896|Clifton Hill city|Incorporated Place|A|Randolph County
+MO|29|14914|Climax Springs village|Incorporated Place|A|Benton County, Camden County
+MO|29|14986|Clinton city|Incorporated Place|A|Henry County
+MO|29|15130|Clyde village|Incorporated Place|A|Nodaway County
+MO|29|15220|Cobalt village|Incorporated Place|A|Madison County
+MO|29|15274|Coffey city|Incorporated Place|A|Daviess County
+MO|29|15436|Cole Camp city|Incorporated Place|A|Benton County
+MO|29|15562|Collins village|Incorporated Place|A|St. Clair County
+MO|29|15670|Columbia city|Incorporated Place|A|Boone County
+MO|29|15760|Commerce village|Incorporated Place|A|Scott County
+MO|29|15886|Conception CDP|Census Designated Place|S|Nodaway County
+MO|29|15922|Conception Junction town|Incorporated Place|A|Nodaway County
+MO|29|16030|Concord CDP|Census Designated Place|S|St. Louis County
+MO|29|16102|Concordia city|Incorporated Place|A|Lafayette County
+MO|29|16115|Coney Island village|Incorporated Place|A|Stone County
+MO|29|16192|Conway city|Incorporated Place|A|Laclede County
+MO|29|16228|Cool Valley city|Incorporated Place|A|St. Louis County
+MO|29|16336|Cooter city|Incorporated Place|A|Pemiscot County
+MO|29|16408|Corder city|Incorporated Place|A|Lafayette County
+MO|29|16462|Corning town|Incorporated Place|A|Holt County
+MO|29|16588|Cosby village|Incorporated Place|A|Andrew County
+MO|29|16678|Cottleville city|Incorporated Place|A|St. Charles County
+MO|29|16802|Country Club village|Incorporated Place|A|Andrew County
+MO|29|16822|Country Club Hills city|Incorporated Place|A|St. Louis County
+MO|29|16876|Country Life Acres village|Incorporated Place|A|St. Louis County
+MO|29|16984|Cowgill city|Incorporated Place|A|Caldwell County
+MO|29|17056|Craig city|Incorporated Place|A|Holt County
+MO|29|17074|Crane city|Incorporated Place|A|Stone County
+MO|29|17164|Creighton city|Incorporated Place|A|Cass County
+MO|29|17218|Crestwood city|Incorporated Place|A|St. Louis County
+MO|29|17272|Creve Coeur city|Incorporated Place|A|St. Louis County
+MO|29|17344|Crocker city|Incorporated Place|A|Pulaski County
+MO|29|17524|Cross Timbers city|Incorporated Place|A|Hickory County
+MO|29|17632|Crystal City city|Incorporated Place|A|Jefferson County
+MO|29|17650|Crystal Lake Park city|Incorporated Place|A|St. Louis County
+MO|29|17660|Crystal Lakes city|Incorporated Place|A|Ray County
+MO|29|17668|Cuba city|Incorporated Place|A|Crawford County
+MO|29|17902|Curryville city|Incorporated Place|A|Pike County
+MO|29|17992|Dadeville village|Incorporated Place|A|Dade County
+MO|29|18118|Dalton town|Incorporated Place|A|Chariton County
+MO|29|18190|Danville CDP|Census Designated Place|S|Montgomery County
+MO|29|18253|Dardenne Prairie city|Incorporated Place|A|St. Charles County
+MO|29|18316|Darlington village|Incorporated Place|A|Gentry County
+MO|29|18496|Dawn CDP|Census Designated Place|S|Livingston County
+MO|29|18658|Dearborn city|Incorporated Place|A|Buchanan County, Platte County
+MO|29|18730|Deepwater city|Incorporated Place|A|Henry County
+MO|29|18802|Deerfield village|Incorporated Place|A|Vernon County
+MO|29|18910|Defiance CDP|Census Designated Place|S|St. Charles County
+MO|29|18946|De Kalb town|Incorporated Place|A|Buchanan County
+MO|29|19018|Dellwood city|Incorporated Place|A|St. Louis County
+MO|29|19072|Delta city|Incorporated Place|A|Cape Girardeau County
+MO|29|19090|Dennis Acres village|Incorporated Place|A|Newton County
+MO|29|19162|Denver village|Incorporated Place|A|Worth County
+MO|29|19198|Des Arc village|Incorporated Place|A|Iron County
+MO|29|19216|Desloge city|Incorporated Place|A|St. Francois County
+MO|29|19252|De Soto city|Incorporated Place|A|Jefferson County
+MO|29|19270|Des Peres city|Incorporated Place|A|St. Louis County
+MO|29|19378|De Witt city|Incorporated Place|A|Carroll County
+MO|29|19396|Dexter city|Incorporated Place|A|Stoddard County
+MO|29|19432|Diamond town|Incorporated Place|A|Newton County
+MO|29|19486|Diehlstadt village|Incorporated Place|A|Scott County
+MO|29|19504|Diggins village|Incorporated Place|A|Webster County
+MO|29|19630|Dixon city|Incorporated Place|A|Pulaski County
+MO|29|19684|Doe Run CDP|Census Designated Place|S|St. Francois County
+MO|29|19792|Doniphan city|Incorporated Place|A|Ripley County
+MO|29|19828|Doolittle city|Incorporated Place|A|Phelps County
+MO|29|19918|Dover town|Incorporated Place|A|Lafayette County
+MO|29|19990|Downing city|Incorporated Place|A|Schuyler County
+MO|29|20134|Drexel city|Incorporated Place|A|Bates County, Cass County
+MO|29|20296|Dudley city|Incorporated Place|A|Stoddard County
+MO|29|20314|Duenweg city|Incorporated Place|A|Jasper County
+MO|29|20512|Duquesne village|Incorporated Place|A|Jasper County
+MO|29|20566|Dutchtown village|Incorporated Place|A|Cape Girardeau County
+MO|29|20656|Eagle Rock CDP|Census Designated Place|S|Barry County
+MO|29|20674|Eagleville town|Incorporated Place|A|Harrison County
+MO|29|20980|East Lynne city|Incorporated Place|A|Cass County
+MO|29|21034|Easton city|Incorporated Place|A|Buchanan County
+MO|29|21052|East Prairie city|Incorporated Place|A|Mississippi County
+MO|29|21214|Edgar Springs city|Incorporated Place|A|Phelps County
+MO|29|21250|Edgerton city|Incorporated Place|A|Platte County
+MO|29|21322|Edina city|Incorporated Place|A|Knox County
+MO|29|21340|Edinburg CDP|Census Designated Place|S|Grundy County
+MO|29|21376|Edmundson city|Incorporated Place|A|St. Louis County
+MO|29|21484|Eldon city|Incorporated Place|A|Miller County
+MO|29|21502|El Dorado Springs city|Incorporated Place|A|Cedar County
+MO|29|21844|Ellington city|Incorporated Place|A|Reynolds County
+MO|29|21898|Ellisville city|Incorporated Place|A|St. Louis County
+MO|29|21916|Ellsinore city|Incorporated Place|A|Carter County
+MO|29|21988|Elmer city|Incorporated Place|A|Macon County
+MO|29|22006|Elmira village|Incorporated Place|A|Ray County
+MO|29|22024|Elmo city|Incorporated Place|A|Nodaway County
+MO|29|22114|Elsberry city|Incorporated Place|A|Lincoln County
+MO|29|22250|Emerald Beach village|Incorporated Place|A|Barry County
+MO|29|22276|Eminence city|Incorporated Place|A|Shannon County
+MO|29|22312|Emma city|Incorporated Place|A|Lafayette County, Saline County
+MO|29|22474|Eolia village|Incorporated Place|A|Pike County
+MO|29|22600|Essex city|Incorporated Place|A|Stoddard County
+MO|29|22672|Ethel town|Incorporated Place|A|Macon County
+MO|29|22834|Eureka city|Incorporated Place|A|St. Louis County
+MO|29|22951|Evergreen village|Incorporated Place|A|Laclede County
+MO|29|22996|Everton city|Incorporated Place|A|Dade County
+MO|29|23032|Ewing city|Incorporated Place|A|Lewis County
+MO|29|23050|Excello CDP|Census Designated Place|S|Macon County
+MO|29|23077|Excelsior Estates village|Incorporated Place|A|Clay County, Ray County
+MO|29|23086|Excelsior Springs city|Incorporated Place|A|Clay County, Ray County
+MO|29|23122|Exeter city|Incorporated Place|A|Barry County
+MO|29|23248|Fairdealing CDP|Census Designated Place|S|Butler County, Ripley County
+MO|29|23266|Fairfax city|Incorporated Place|A|Atchison County
+MO|29|23338|Fair Grove city|Incorporated Place|A|Greene County
+MO|29|23428|Fair Play city|Incorporated Place|A|Polk County
+MO|29|23518|Fairview town|Incorporated Place|A|Newton County
+MO|29|23662|Farber city|Incorporated Place|A|Audrain County
+MO|29|23698|Farley village|Incorporated Place|A|Platte County
+MO|29|23752|Farmington city|Incorporated Place|A|St. Francois County
+MO|29|23842|Fayette city|Incorporated Place|A|Howard County
+MO|29|23950|Fenton city|Incorporated Place|A|St. Louis County
+MO|29|23986|Ferguson city|Incorporated Place|A|St. Louis County
+MO|29|24058|Ferrelview village|Incorporated Place|A|Platte County
+MO|29|24094|Festus city|Incorporated Place|A|Jefferson County
+MO|29|24120|Fidelity town|Incorporated Place|A|Jasper County
+MO|29|24184|Fillmore city|Incorporated Place|A|Andrew County
+MO|29|24328|Fisk city|Incorporated Place|A|Butler County
+MO|29|24562|Fleming city|Incorporated Place|A|Ray County
+MO|29|24580|Flemington village|Incorporated Place|A|Polk County
+MO|29|24688|Flint Hill city|Incorporated Place|A|St. Charles County
+MO|29|24706|Flordell Hills city|Incorporated Place|A|St. Louis County
+MO|29|24760|Florida village|Incorporated Place|I|Monroe County
+MO|29|24778|Florissant city|Incorporated Place|A|St. Louis County
+MO|29|24886|Foley city|Incorporated Place|A|Lincoln County
+MO|29|25012|Fordland city|Incorporated Place|A|Webster County
+MO|29|25066|Forest City city|Incorporated Place|A|Holt County
+MO|29|25120|Foristell city|Incorporated Place|A|St. Charles County, Warren County
+MO|29|25192|Forsyth city|Incorporated Place|A|Taney County
+MO|29|25228|Fortescue town|Incorporated Place|A|Holt County
+MO|29|25264|Fort Leonard Wood CDP|Census Designated Place|S|Pulaski County
+MO|29|25372|Foster village|Incorporated Place|A|Bates County
+MO|29|25411|Fountain N' Lakes village|Incorporated Place|A|Lincoln County
+MO|29|25516|Frankclay CDP|Census Designated Place|S|St. Francois County
+MO|29|25552|Frankford city|Incorporated Place|A|Pike County
+MO|29|25624|Franklin city|Incorporated Place|A|Howard County
+MO|29|25768|Fredericktown city|Incorporated Place|A|Madison County
+MO|29|25822|Freeburg village|Incorporated Place|A|Osage County
+MO|29|25894|Freeman city|Incorporated Place|A|Cass County
+MO|29|25912|Freistatt village|Incorporated Place|A|Lawrence County
+MO|29|25948|Fremont CDP|Census Designated Place|S|Carter County
+MO|29|25957|Fremont Hills city|Incorporated Place|A|Christian County
+MO|29|26092|Frohna city|Incorporated Place|A|Perry County
+MO|29|26110|Frontenac city|Incorporated Place|A|St. Louis County
+MO|29|26182|Fulton city|Incorporated Place|A|Callaway County
+MO|29|26218|Gainesville city|Incorporated Place|A|Ozark County
+MO|29|26254|Galena city|Incorporated Place|A|Stone County
+MO|29|26308|Gallatin city|Incorporated Place|A|Daviess County
+MO|29|26362|Galt city|Incorporated Place|A|Grundy County
+MO|29|26434|Garden City city|Incorporated Place|A|Cass County
+MO|29|26578|Gasconade city|Incorporated Place|A|Gasconade County
+MO|29|26776|Gentry village|Incorporated Place|A|Gentry County
+MO|29|26866|Gerald city|Incorporated Place|A|Franklin County
+MO|29|26902|Gerster town|Incorporated Place|A|St. Clair County
+MO|29|26920|Gibbs village|Incorporated Place|A|Adair County
+MO|29|26974|Gideon city|Incorporated Place|A|New Madrid County
+MO|29|27028|Gilliam city|Incorporated Place|A|Saline County
+MO|29|27064|Gilman City city|Incorporated Place|A|Daviess County, Harrison County
+MO|29|27100|Ginger Blue village|Incorporated Place|A|McDonald County
+MO|29|27190|Gladstone city|Incorporated Place|A|Clay County
+MO|29|27208|Glasgow city|Incorporated Place|A|Chariton County, Howard County
+MO|29|27226|Glasgow Village CDP|Census Designated Place|S|St. Louis County
+MO|29|27262|Glenaire city|Incorporated Place|A|Clay County
+MO|29|27280|Glen Allen town|Incorporated Place|A|Bollinger County
+MO|29|27334|Glendale city|Incorporated Place|A|St. Louis County
+MO|29|27370|Glen Echo Park village|Incorporated Place|A|St. Louis County
+MO|29|27514|Glenwood village|Incorporated Place|A|Schuyler County
+MO|29|27658|Golden CDP|Census Designated Place|S|Barry County
+MO|29|27676|Golden City city|Incorporated Place|A|Barton County
+MO|29|27874|Goodman town|Incorporated Place|A|McDonald County
+MO|29|27900|Goodnight village|Incorporated Place|A|Polk County
+MO|29|27928|Gordonville village|Incorporated Place|A|Cape Girardeau County
+MO|29|28000|Goss town|Incorporated Place|A|Monroe County
+MO|29|28036|Gower city|Incorporated Place|A|Buchanan County, Clinton County
+MO|29|28072|Graham town|Incorporated Place|A|Nodaway County
+MO|29|28090|Grain Valley city|Incorporated Place|A|Jackson County
+MO|29|28108|Granby city|Incorporated Place|A|Newton County
+MO|29|28170|Grand Falls Plaza town|Incorporated Place|A|Newton County
+MO|29|28180|Grandin city|Incorporated Place|A|Carter County
+MO|29|28198|Grand Pass village|Incorporated Place|A|Saline County
+MO|29|28324|Grandview city|Incorporated Place|A|Jackson County
+MO|29|28360|Granger village|Incorporated Place|A|Scotland County
+MO|29|28594|Grant City town|Incorporated Place|A|Worth County
+MO|29|28630|Grantwood Village town|Incorporated Place|A|St. Louis County
+MO|29|28828|Gravois Mills town|Incorporated Place|A|Morgan County
+MO|29|28860|Grayhawk CDP|Census Designated Place|S|Ste. Genevieve County
+MO|29|28864|Grayridge CDP|Census Designated Place|S|Stoddard County
+MO|29|28918|Gray Summit CDP|Census Designated Place|S|Franklin County
+MO|29|29116|Greencastle city|Incorporated Place|A|Sullivan County
+MO|29|29134|Green City city|Incorporated Place|A|Sullivan County
+MO|29|29152|Greendale city|Incorporated Place|A|St. Louis County
+MO|29|29206|Greenfield city|Incorporated Place|A|Dade County
+MO|29|29324|Green Park city|Incorporated Place|A|St. Louis County
+MO|29|29332|Green Ridge city|Incorporated Place|A|Pettis County
+MO|29|29422|Greentop city|Incorporated Place|A|Adair County, Schuyler County
+MO|29|29476|Greenville city|Incorporated Place|A|Wayne County
+MO|29|29494|Greenwood city|Incorporated Place|A|Jackson County
+MO|29|29692|Guilford town|Incorporated Place|A|Nodaway County
+MO|29|29764|Gunn City village|Incorporated Place|A|Cass County
+MO|29|29908|Hale city|Incorporated Place|A|Carroll County
+MO|29|29962|Halfway village|Incorporated Place|A|Polk County
+MO|29|29998|Hallsville city|Incorporated Place|A|Boone County
+MO|29|30016|Halltown village|Incorporated Place|A|Lawrence County
+MO|29|30034|Hamilton city|Incorporated Place|A|Caldwell County
+MO|29|30196|Hanley Hills village|Incorporated Place|A|St. Louis County
+MO|29|30214|Hannibal city|Incorporated Place|A|Marion County, Ralls County
+MO|29|30322|Hardin city|Incorporated Place|A|Ray County
+MO|29|30466|Harris town|Incorporated Place|A|Sullivan County
+MO|29|30484|Harrisburg town|Incorporated Place|A|Boone County
+MO|29|30610|Harrisonville city|Incorporated Place|A|Cass County
+MO|29|30718|Hartsburg town|Incorporated Place|A|Boone County
+MO|29|30754|Hartville city|Incorporated Place|A|Wright County
+MO|29|30772|Hartwell CDP|Census Designated Place|S|Henry County
+MO|29|30844|Harviell CDP|Census Designated Place|S|Butler County
+MO|29|30862|Harwood village|Incorporated Place|A|Vernon County
+MO|29|31024|Hawk Point city|Incorporated Place|A|Lincoln County
+MO|29|31132|Hayti city|Incorporated Place|A|Pemiscot County
+MO|29|31168|Hayti Heights city|Incorporated Place|A|Pemiscot County
+MO|29|31186|Hayward CDP|Census Designated Place|S|Pemiscot County
+MO|29|31204|Haywood City village|Incorporated Place|A|Scott County
+MO|29|31276|Hazelwood city|Incorporated Place|A|St. Louis County
+MO|29|31654|Henrietta city|Incorporated Place|A|Ray County
+MO|29|31708|Herculaneum city|Incorporated Place|A|Jefferson County
+MO|29|31762|Hermann city|Incorporated Place|A|Gasconade County
+MO|29|31780|Hermitage city|Incorporated Place|A|Hickory County
+MO|29|31924|Higbee city|Incorporated Place|A|Randolph County
+MO|29|31960|Higginsville city|Incorporated Place|A|Lafayette County
+MO|29|31996|High Hill city|Incorporated Place|A|Montgomery County
+MO|29|32068|Highlandville city|Incorporated Place|A|Christian County
+MO|29|32140|High Ridge CDP|Census Designated Place|S|Jefferson County
+MO|29|32248|Hillsboro city|Incorporated Place|A|Jefferson County
+MO|29|32266|Hillsdale village|Incorporated Place|A|St. Louis County
+MO|29|32410|Hoberg village|Incorporated Place|A|Lawrence County
+MO|29|32536|Holcomb city|Incorporated Place|A|Dunklin County
+MO|29|32572|Holden city|Incorporated Place|A|Johnson County
+MO|29|32590|Holland town|Incorporated Place|A|Pemiscot County
+MO|29|32626|Holliday village|Incorporated Place|A|Monroe County
+MO|29|32662|Hollister city|Incorporated Place|A|Taney County
+MO|29|32752|Holt city|Incorporated Place|A|Clay County, Clinton County
+MO|29|32770|Holts Summit city|Incorporated Place|A|Callaway County
+MO|29|32806|Homestead village|Incorporated Place|A|Ray County
+MO|29|32824|Homestown city|Incorporated Place|A|Pemiscot County
+MO|29|33004|Hopkins city|Incorporated Place|A|Nodaway County
+MO|29|33040|Horine CDP|Census Designated Place|S|Jefferson County
+MO|29|33076|Hornersville city|Incorporated Place|A|Dunklin County
+MO|29|33238|Houston city|Incorporated Place|A|Texas County
+MO|29|33256|Houstonia city|Incorporated Place|A|Pettis County
+MO|29|33292|Houston Lake city|Incorporated Place|A|Platte County
+MO|29|33364|Howardville city|Incorporated Place|A|New Madrid County
+MO|29|33652|Hughesville village|Incorporated Place|A|Pettis County
+MO|29|33706|Humansville city|Incorporated Place|A|Polk County
+MO|29|33724|Hume town|Incorporated Place|A|Bates County
+MO|29|33742|Humphreys village|Incorporated Place|A|Sullivan County
+MO|29|33760|Hunnewell city|Incorporated Place|A|Shelby County
+MO|29|33778|Hunter CDP|Census Designated Place|S|Carter County
+MO|29|33850|Huntleigh city|Incorporated Place|A|St. Louis County
+MO|29|33868|Huntsdale town|Incorporated Place|A|Boone County
+MO|29|33886|Huntsville city|Incorporated Place|A|Randolph County
+MO|29|33904|Hurdland city|Incorporated Place|A|Knox County
+MO|29|33922|Hurley city|Incorporated Place|A|Stone County
+MO|29|34210|Iatan village|Incorporated Place|A|Platte County
+MO|29|34228|Iberia city|Incorporated Place|A|Miller County
+MO|29|34354|Imperial CDP|Census Designated Place|S|Jefferson County
+MO|29|35000|Independence city|Incorporated Place|A|Clay County, Jackson County
+MO|29|35186|Indian Point village|Incorporated Place|A|Stone County
+MO|29|35240|Innsbrook village|Incorporated Place|A|Warren County
+MO|29|35306|Ionia town|Incorporated Place|A|Benton County, Pettis County
+MO|29|35324|Irena village|Incorporated Place|A|Worth County
+MO|29|35396|Irondale city|Incorporated Place|A|Washington County
+MO|29|35450|Iron Mountain Lake city|Incorporated Place|A|St. Francois County
+MO|29|35468|Ironton city|Incorporated Place|A|Iron County
+MO|29|35486|Irwin CDP|Census Designated Place|S|Barton County
+MO|29|35648|Jackson city|Incorporated Place|A|Cape Girardeau County
+MO|29|36224|Jacksonville village|Incorporated Place|A|Randolph County
+MO|29|36314|Jameson town|Incorporated Place|A|Daviess County
+MO|29|36332|Jamesport city|Incorporated Place|A|Daviess County
+MO|29|36368|Jamestown town|Incorporated Place|A|Moniteau County
+MO|29|36512|Jasper city|Incorporated Place|A|Jasper County
+MO|29|37000|Jefferson City city|Incorporated Place|A|Callaway County, Cole County
+MO|29|37178|Jennings city|Incorporated Place|A|St. Louis County
+MO|29|37214|Jerico Springs village|Incorporated Place|A|Cedar County
+MO|29|37574|Jonesburg city|Incorporated Place|A|Montgomery County
+MO|29|37592|Joplin city|Incorporated Place|A|Jasper County, Newton County
+MO|29|37700|Josephville village|Incorporated Place|A|St. Charles County
+MO|29|37736|Junction City village|Incorporated Place|A|Madison County
+MO|29|37790|Kahoka city|Incorporated Place|A|Clark County
+MO|29|38000|Kansas City city|Incorporated Place|A|Cass County, Clay County, Jackson County, Platte County
+MO|29|38072|Kearney city|Incorporated Place|A|Clay County
+MO|29|38216|Kelso village|Incorporated Place|A|Scott County
+MO|29|38306|Kennett city|Incorporated Place|A|Dunklin County
+MO|29|38468|Keytesville city|Incorporated Place|A|Chariton County
+MO|29|38522|Kidder city|Incorporated Place|A|Caldwell County
+MO|29|38612|Kimberling City city|Incorporated Place|A|Stone County
+MO|29|38684|Kimmswick city|Incorporated Place|A|Jefferson County
+MO|29|38774|King City city|Incorporated Place|A|Gentry County
+MO|29|38792|Kingdom City village|Incorporated Place|A|Callaway County
+MO|29|38846|Kingston city|Incorporated Place|A|Caldwell County
+MO|29|38918|Kingsville city|Incorporated Place|A|Johnson County
+MO|29|38972|Kinloch city|Incorporated Place|A|St. Louis County
+MO|29|39008|Kirbyville village|Incorporated Place|A|Taney County
+MO|29|39026|Kirksville city|Incorporated Place|A|Adair County
+MO|29|39044|Kirkwood city|Incorporated Place|A|St. Louis County
+MO|29|39080|Kissee Mills CDP|Census Designated Place|S|Taney County
+MO|29|39188|Knob Noster city|Incorporated Place|A|Johnson County
+MO|29|39278|Knox City city|Incorporated Place|A|Knox County
+MO|29|39440|Koshkonong town|Incorporated Place|A|Oregon County
+MO|29|39503|LaBarque Creek CDP|Census Designated Place|S|Jefferson County
+MO|29|39512|La Belle city|Incorporated Place|A|Lewis County
+MO|29|39566|Laclede city|Incorporated Place|A|Linn County
+MO|29|39602|Laddonia city|Incorporated Place|A|Audrain County
+MO|29|39638|La Due village|Incorporated Place|I|Henry County
+MO|29|39656|Ladue city|Incorporated Place|A|St. Louis County
+MO|29|39764|La Grange city|Incorporated Place|A|Lewis County
+MO|29|39845|Lake Annette city|Incorporated Place|A|Cass County
+MO|29|39952|Lake Lafayette city|Incorporated Place|A|Lafayette County
+MO|29|39980|Lake Lotawana city|Incorporated Place|A|Jackson County
+MO|29|39990|Lake Mykee Town village|Incorporated Place|A|Callaway County
+MO|29|40034|Lake Ozark city|Incorporated Place|A|Camden County, Miller County
+MO|29|40043|Lake St. Louis city|Incorporated Place|A|St. Charles County
+MO|29|40088|Lakeshire city|Incorporated Place|A|St. Louis County
+MO|29|40142|Lakeside city|Incorporated Place|I|Miller County
+MO|29|40196|Lake Tapawingo city|Incorporated Place|A|Jackson County
+MO|29|40214|Lake Tekakwitha village|Incorporated Place|A|Jefferson County
+MO|29|40304|Lake Viking CDP|Census Designated Place|S|Daviess County
+MO|29|40322|Lake Waukomis city|Incorporated Place|A|Platte County
+MO|29|40340|Lake Winnebago city|Incorporated Place|A|Cass County
+MO|29|40376|Lamar city|Incorporated Place|A|Barton County
+MO|29|40430|Lamar Heights city|Incorporated Place|A|Barton County
+MO|29|40448|Lambert village|Incorporated Place|I|Scott County
+MO|29|40520|La Monte city|Incorporated Place|A|Pettis County
+MO|29|40592|Lanagan town|Incorporated Place|A|McDonald County
+MO|29|40610|Lancaster city|Incorporated Place|A|Schuyler County
+MO|29|40682|La Plata city|Incorporated Place|A|Macon County
+MO|29|40736|Laredo city|Incorporated Place|A|Grundy County
+MO|29|40790|La Russell city|Incorporated Place|A|Jasper County
+MO|29|40826|Lathrop city|Incorporated Place|A|Clinton County
+MO|29|40880|La Tour CDP|Census Designated Place|S|Johnson County
+MO|29|40916|Laurie city|Incorporated Place|A|Camden County, Morgan County
+MO|29|40988|Lawson city|Incorporated Place|A|Clay County, Ray County
+MO|29|41024|Leadington city|Incorporated Place|A|St. Francois County
+MO|29|41078|Leadwood city|Incorporated Place|A|St. Francois County
+MO|29|41114|Leasburg village|Incorporated Place|A|Crawford County
+MO|29|41132|Leawood village|Incorporated Place|A|Newton County
+MO|29|41168|Lebanon city|Incorporated Place|A|Laclede County
+MO|29|41348|Lee's Summit city|Incorporated Place|A|Cass County, Jackson County
+MO|29|41402|Leeton city|Incorporated Place|A|Johnson County
+MO|29|41417|Leisure Lake CDP|Census Designated Place|S|Grundy County
+MO|29|41438|Lemay CDP|Census Designated Place|S|St. Louis County
+MO|29|41546|Leonard village|Incorporated Place|A|Shelby County
+MO|29|41690|Leslie village|Incorporated Place|A|Franklin County
+MO|29|41762|Levasy city|Incorporated Place|A|Jackson County
+MO|29|41834|Lewis and Clark Village town|Incorporated Place|A|Buchanan County
+MO|29|41852|Lewistown town|Incorporated Place|A|Lewis County
+MO|29|41870|Lexington city|Incorporated Place|A|Lafayette County
+MO|29|41906|Liberal city|Incorporated Place|A|Barton County
+MO|29|42032|Liberty city|Incorporated Place|A|Clay County
+MO|29|42464|Licking city|Incorporated Place|A|Texas County
+MO|29|42536|Lilbourn city|Incorporated Place|A|New Madrid County
+MO|29|42608|Lincoln city|Incorporated Place|A|Benton County
+MO|29|43238|Linn city|Incorporated Place|A|Osage County
+MO|29|43274|Linn Creek city|Incorporated Place|A|Camden County
+MO|29|43292|Linneus city|Incorporated Place|A|Linn County
+MO|29|43346|Lithium village|Incorporated Place|I|Perry County
+MO|29|43454|Livonia village|Incorporated Place|A|Putnam County
+MO|29|43468|Loch Lloyd village|Incorporated Place|A|Cass County
+MO|29|43472|Lock Springs village|Incorporated Place|A|Daviess County
+MO|29|43490|Lockwood city|Incorporated Place|A|Dade County
+MO|29|43652|Lohman city|Incorporated Place|A|Cole County
+MO|29|43672|Loma Linda town|Incorporated Place|A|Newton County
+MO|29|43760|Lone Jack city|Incorporated Place|A|Jackson County
+MO|29|43940|Longtown town|Incorporated Place|A|Perry County
+MO|29|44156|Louisburg village|Incorporated Place|A|Dallas County
+MO|29|44174|Louisiana city|Incorporated Place|A|Pike County
+MO|29|44282|Lowry City city|Incorporated Place|A|St. Clair County
+MO|29|44372|Lucerne village|Incorporated Place|A|Putnam County
+MO|29|44390|Ludlow town|Incorporated Place|A|Livingston County
+MO|29|44498|Lupus town|Incorporated Place|A|Moniteau County
+MO|29|44516|Luray village|Incorporated Place|A|Clark County
+MO|29|44768|McBaine town|Incorporated Place|A|Boone County
+MO|29|44829|McCord Bend village|Incorporated Place|A|Stone County
+MO|29|45020|McFall city|Incorporated Place|A|Gentry County
+MO|29|45110|Mackenzie village|Incorporated Place|A|St. Louis County
+MO|29|45200|McKittrick town|Incorporated Place|A|Montgomery County
+MO|29|45218|Macks Creek city|Incorporated Place|A|Camden County
+MO|29|45326|Macon city|Incorporated Place|A|Macon County
+MO|29|45470|Madison city|Incorporated Place|A|Monroe County
+MO|29|45596|Maitland city|Incorporated Place|A|Holt County
+MO|29|45614|Malden city|Incorporated Place|A|Dunklin County
+MO|29|45632|Malta Bend town|Incorporated Place|A|Saline County
+MO|29|45668|Manchester city|Incorporated Place|A|St. Louis County
+MO|29|45740|Mansfield city|Incorporated Place|A|Wright County
+MO|29|45830|Maplewood city|Incorporated Place|A|St. Louis County
+MO|29|45848|Marble Hill city|Incorporated Place|A|Bollinger County
+MO|29|45866|Marceline city|Incorporated Place|A|Chariton County, Linn County
+MO|29|46172|Marionville city|Incorporated Place|A|Lawrence County
+MO|29|46208|Marlborough village|Incorporated Place|A|St. Louis County
+MO|29|46244|Marquand city|Incorporated Place|A|Madison County
+MO|29|46316|Marshall city|Incorporated Place|A|Saline County
+MO|29|46388|Marshfield city|Incorporated Place|A|Webster County
+MO|29|46406|Marston city|Incorporated Place|A|New Madrid County
+MO|29|46424|Marthasville city|Incorporated Place|A|Warren County
+MO|29|46460|Martinsburg town|Incorporated Place|A|Audrain County
+MO|29|46586|Maryland Heights city|Incorporated Place|A|St. Louis County
+MO|29|46640|Maryville city|Incorporated Place|A|Nodaway County
+MO|29|46730|Matthews city|Incorporated Place|A|New Madrid County
+MO|29|46946|Maysville city|Incorporated Place|A|DeKalb County
+MO|29|46964|Mayview city|Incorporated Place|A|Lafayette County
+MO|29|47036|Meadville city|Incorporated Place|A|Linn County
+MO|29|47180|Mehlville CDP|Census Designated Place|S|St. Louis County
+MO|29|47270|Memphis city|Incorporated Place|A|Scotland County
+MO|29|47288|Mendon city|Incorporated Place|A|Chariton County
+MO|29|47486|Mercer town|Incorporated Place|A|Mercer County
+MO|29|47520|Merriam Woods village|Incorporated Place|A|Taney County
+MO|29|47540|Merwin village|Incorporated Place|A|Bates County
+MO|29|47594|Meta city|Incorporated Place|A|Osage County
+MO|29|47612|Metz town|Incorporated Place|A|Vernon County
+MO|29|47648|Mexico city|Incorporated Place|A|Audrain County
+MO|29|47684|Miami city|Incorporated Place|A|Saline County
+MO|29|47900|Middletown town|Incorporated Place|A|Montgomery County
+MO|29|48062|Milan city|Incorporated Place|A|Sullivan County
+MO|29|48098|Milford village|Incorporated Place|A|Barton County
+MO|29|48134|Millard village|Incorporated Place|A|Adair County
+MO|29|48242|Miller city|Incorporated Place|A|Lawrence County
+MO|29|48386|Mill Spring village|Incorporated Place|A|Wayne County
+MO|29|48476|Milo village|Incorporated Place|A|Vernon County
+MO|29|48566|Mindenmines city|Incorporated Place|A|Barton County
+MO|29|48602|Mine La Motte CDP|Census Designated Place|S|Madison County
+MO|29|48656|Miner city|Incorporated Place|A|Mississippi County, Scott County
+MO|29|48710|Mineral Point town|Incorporated Place|A|Washington County
+MO|29|48880|Miramiguoa Park village|Incorporated Place|A|Franklin County
+MO|29|48980|Missouri City city|Incorporated Place|A|Clay County
+MO|29|49034|Moberly city|Incorporated Place|A|Randolph County
+MO|29|49070|Mokane city|Incorporated Place|A|Callaway County
+MO|29|49088|Moline Acres city|Incorporated Place|A|St. Louis County
+MO|29|49196|Monett city|Incorporated Place|A|Barry County, Lawrence County
+MO|29|49394|Monroe City city|Incorporated Place|A|Marion County, Monroe County, Ralls County
+MO|29|49574|Montgomery City city|Incorporated Place|A|Montgomery County
+MO|29|49592|Monticello village|Incorporated Place|A|Lewis County
+MO|29|49610|Montier CDP|Census Designated Place|S|Shannon County
+MO|29|49664|Montrose city|Incorporated Place|A|Henry County
+MO|29|49790|Mooresville village|Incorporated Place|A|Livingston County
+MO|29|49898|Morehouse city|Incorporated Place|A|New Madrid County
+MO|29|49988|Morley city|Incorporated Place|A|Scott County
+MO|29|50060|Morrison city|Incorporated Place|A|Gasconade County
+MO|29|50078|Morrisville town|Incorporated Place|A|Polk County
+MO|29|50168|Mosby city|Incorporated Place|A|Clay County
+MO|29|50204|Moscow Mills city|Incorporated Place|A|Lincoln County
+MO|29|50312|Mound City city|Incorporated Place|A|Holt County
+MO|29|50330|Moundville town|Incorporated Place|A|Vernon County
+MO|29|50402|Mountain Grove city|Incorporated Place|A|Texas County, Wright County
+MO|29|50438|Mountain View city|Incorporated Place|A|Howell County
+MO|29|50510|Mount Leonard town|Incorporated Place|A|Saline County
+MO|29|50528|Mount Moriah town|Incorporated Place|A|Harrison County
+MO|29|50672|Mount Vernon city|Incorporated Place|A|Lawrence County
+MO|29|50834|Murphy CDP|Census Designated Place|S|Jefferson County
+MO|29|51140|Napoleon city|Incorporated Place|A|Lafayette County
+MO|29|51302|Naylor city|Incorporated Place|A|Ripley County
+MO|29|51356|Neck City city|Incorporated Place|A|Jasper County
+MO|29|51446|Neelyville city|Incorporated Place|A|Butler County
+MO|29|51500|Nelson city|Incorporated Place|A|Saline County
+MO|29|51572|Neosho city|Incorporated Place|A|Newton County
+MO|29|51644|Nevada city|Incorporated Place|A|Vernon County
+MO|29|51662|Newark village|Incorporated Place|A|Knox County
+MO|29|51680|New Bloomfield city|Incorporated Place|A|Callaway County
+MO|29|51716|Newburg city|Incorporated Place|A|Phelps County
+MO|29|51734|New Cambria city|Incorporated Place|A|Macon County
+MO|29|51770|New Florence city|Incorporated Place|A|Montgomery County
+MO|29|51824|New Franklin city|Incorporated Place|A|Howard County
+MO|29|51860|New Hampton city|Incorporated Place|A|Harrison County
+MO|29|51914|New Haven city|Incorporated Place|A|Franklin County
+MO|29|52058|New London city|Incorporated Place|A|Ralls County
+MO|29|52076|New Madrid city|Incorporated Place|A|New Madrid County
+MO|29|52148|New Melle city|Incorporated Place|A|St. Charles County
+MO|29|52292|Newtonia town|Incorporated Place|A|Newton County
+MO|29|52328|Newtown town|Incorporated Place|A|Sullivan County
+MO|29|52418|Niangua city|Incorporated Place|A|Webster County
+MO|29|52616|Nixa city|Incorporated Place|A|Christian County
+MO|29|52742|Noel city|Incorporated Place|A|McDonald County
+MO|29|52760|Norborne city|Incorporated Place|A|Carroll County
+MO|29|52796|Normandy city|Incorporated Place|A|St. Louis County
+MO|29|53102|North Kansas City city|Incorporated Place|A|Clay County
+MO|29|53138|North Lilbourn village|Incorporated Place|A|New Madrid County
+MO|29|53174|Northmoor city|Incorporated Place|A|Platte County
+MO|29|53408|Northwoods city|Incorporated Place|A|St. Louis County
+MO|29|53454|Norwood city|Incorporated Place|A|Wright County
+MO|29|53462|Norwood Court town|Incorporated Place|A|St. Louis County
+MO|29|53516|Novelty village|Incorporated Place|A|Knox County
+MO|29|53534|Novinger city|Incorporated Place|A|Adair County
+MO|29|53624|Oak Grove city|Incorporated Place|A|Jackson County, Lafayette County
+MO|29|53650|Oak Grove Village village|Incorporated Place|A|Franklin County
+MO|29|53750|Oakland city|Incorporated Place|A|St. Louis County
+MO|29|53786|Oak Ridge town|Incorporated Place|A|Cape Girardeau County
+MO|29|53804|Oaks village|Incorporated Place|A|Clay County
+MO|29|53858|Oakview village|Incorporated Place|A|Clay County
+MO|29|53876|Oakville CDP|Census Designated Place|S|St. Louis County
+MO|29|53894|Oakwood village|Incorporated Place|A|Clay County
+MO|29|53948|Oakwood Park village|Incorporated Place|A|Clay County
+MO|29|54038|Odessa city|Incorporated Place|A|Lafayette County
+MO|29|54074|O'Fallon city|Incorporated Place|A|St. Charles County
+MO|29|54200|Old Appleton town|Incorporated Place|A|Cape Girardeau County
+MO|29|54352|Old Jamestown CDP|Census Designated Place|S|St. Louis County
+MO|29|54416|Old Monroe city|Incorporated Place|A|Lincoln County
+MO|29|54560|Olean town|Incorporated Place|A|Miller County
+MO|29|54650|Olivette city|Incorporated Place|A|St. Louis County
+MO|29|54686|Olympian Village city|Incorporated Place|A|Jefferson County
+MO|29|54758|Oran city|Incorporated Place|A|Scott County
+MO|29|54848|Oregon city|Incorporated Place|A|Holt County
+MO|29|54920|Oronogo city|Incorporated Place|A|Jasper County
+MO|29|54938|Orrick city|Incorporated Place|A|Ray County
+MO|29|55244|Osage Beach city|Incorporated Place|A|Camden County, Miller County
+MO|29|55352|Osborn city|Incorporated Place|A|Clinton County, DeKalb County
+MO|29|55388|Osceola city|Incorporated Place|A|St. Clair County
+MO|29|55424|Osgood village|Incorporated Place|A|Sullivan County
+MO|29|55478|Otterville city|Incorporated Place|A|Cooper County
+MO|29|55550|Overland city|Incorporated Place|A|St. Louis County
+MO|29|55640|Owensville city|Incorporated Place|A|Gasconade County
+MO|29|55694|Oxly CDP|Census Designated Place|S|Ripley County
+MO|29|55766|Ozark city|Incorporated Place|A|Christian County
+MO|29|55892|Ozora CDP|Census Designated Place|S|Ste. Genevieve County
+MO|29|55910|Pacific city|Incorporated Place|A|Franklin County, St. Louis County
+MO|29|55964|Pagedale city|Incorporated Place|A|St. Louis County
+MO|29|56036|Palmyra city|Incorporated Place|A|Marion County
+MO|29|56144|Paris city|Incorporated Place|A|Monroe County
+MO|29|56226|Parkdale village|Incorporated Place|A|Jefferson County
+MO|29|56272|Park Hills city|Incorporated Place|A|St. Francois County
+MO|29|56288|Parkville city|Incorporated Place|A|Platte County
+MO|29|56306|Parkway village|Incorporated Place|A|Franklin County
+MO|29|56342|Parma city|Incorporated Place|A|New Madrid County
+MO|29|56360|Parnell city|Incorporated Place|A|Nodaway County
+MO|29|56396|Pasadena Hills city|Incorporated Place|A|St. Louis County
+MO|29|56414|Pasadena Park village|Incorporated Place|A|St. Louis County
+MO|29|56432|Pascola village|Incorporated Place|A|Pemiscot County
+MO|29|56468|Passaic town|Incorporated Place|A|Bates County
+MO|29|56558|Pattonsburg city|Incorporated Place|A|Daviess County
+MO|29|56612|Paynesville village|Incorporated Place|A|Pike County
+MO|29|56620|Peaceful Village village|Incorporated Place|A|Jefferson County
+MO|29|56756|Peculiar city|Incorporated Place|A|Cass County
+MO|29|56882|Pendleton village|Incorporated Place|A|Warren County
+MO|29|56900|Penermon village|Incorporated Place|A|Stoddard County
+MO|29|57080|Perry city|Incorporated Place|A|Ralls County
+MO|29|57116|Perryville city|Incorporated Place|A|Perry County
+MO|29|57278|Pevely city|Incorporated Place|A|Jefferson County
+MO|29|57332|Phelps City CDP|Census Designated Place|S|Atchison County
+MO|29|57368|Phillipsburg village|Incorporated Place|A|Laclede County
+MO|29|57404|Pickering town|Incorporated Place|A|Nodaway County
+MO|29|57422|Piedmont city|Incorporated Place|A|Wayne County
+MO|29|57494|Pierce City city|Incorporated Place|A|Barry County, Lawrence County
+MO|29|57512|Pierpont village|Incorporated Place|A|Boone County
+MO|29|57602|Pilot Grove city|Incorporated Place|A|Cooper County
+MO|29|57656|Pilot Knob city|Incorporated Place|A|Iron County
+MO|29|57800|Pine Lawn city|Incorporated Place|A|St. Louis County
+MO|29|57818|Pineville city|Incorporated Place|A|McDonald County
+MO|29|57926|Pinhook village|Incorporated Place|A|Mississippi County
+MO|29|58088|Plato village|Incorporated Place|A|Texas County
+MO|29|58178|Platte City city|Incorporated Place|A|Platte County
+MO|29|58196|Platte Woods city|Incorporated Place|A|Platte County
+MO|29|58250|Plattsburg city|Incorporated Place|A|Clinton County
+MO|29|58394|Pleasant Hill city|Incorporated Place|A|Cass County, Jackson County
+MO|29|58448|Pleasant Hope city|Incorporated Place|A|Polk County
+MO|29|58520|Pleasant Valley city|Incorporated Place|A|Clay County
+MO|29|58574|Plevna CDP|Census Designated Place|S|Knox County
+MO|29|58628|Pocahontas town|Incorporated Place|A|Cape Girardeau County
+MO|29|58898|Pollock village|Incorporated Place|A|Sullivan County
+MO|29|58916|Polo city|Incorporated Place|A|Caldwell County
+MO|29|58934|Pomona CDP|Census Designated Place|S|Howell County
+MO|29|59060|Pontiac CDP|Census Designated Place|S|Ozark County
+MO|29|59096|Poplar Bluff city|Incorporated Place|A|Butler County
+MO|29|59150|Portage Des Sioux city|Incorporated Place|A|St. Charles County
+MO|29|59186|Portageville city|Incorporated Place|A|New Madrid County, Pemiscot County
+MO|29|59330|Potosi city|Incorporated Place|A|Washington County
+MO|29|59420|Powersville village|Incorporated Place|A|Putnam County
+MO|29|59726|Prairie Home city|Incorporated Place|A|Cooper County
+MO|29|59816|Prathersville village|Incorporated Place|A|Clay County
+MO|29|59870|Preston village|Incorporated Place|A|Hickory County
+MO|29|59942|Princeton city|Incorporated Place|A|Mercer County
+MO|29|60140|Purcell city|Incorporated Place|A|Jasper County
+MO|29|60158|Purdin city|Incorporated Place|A|Linn County
+MO|29|60176|Purdy city|Incorporated Place|A|Barry County
+MO|29|60284|Puxico city|Incorporated Place|A|Stoddard County
+MO|29|60356|Queen City city|Incorporated Place|A|Schuyler County
+MO|29|60410|Quitman town|Incorporated Place|A|Nodaway County
+MO|29|60428|Qulin city|Incorporated Place|A|Butler County
+MO|29|60590|Randolph village|Incorporated Place|A|Clay County
+MO|29|60644|Ravanna CDP|Census Designated Place|S|Mercer County
+MO|29|60716|Ravenwood town|Incorporated Place|A|Nodaway County
+MO|29|60734|Raymondville town|Incorporated Place|A|Texas County
+MO|29|60752|Raymore city|Incorporated Place|A|Cass County
+MO|29|60788|Raytown city|Incorporated Place|A|Jackson County
+MO|29|60824|Rayville village|Incorporated Place|A|Ray County
+MO|29|60842|Rea city|Incorporated Place|A|Andrew County
+MO|29|60986|Redings Mill village|Incorporated Place|A|Newton County
+MO|29|61094|Reeds town|Incorporated Place|A|Jasper County
+MO|29|61112|Reeds Spring city|Incorporated Place|A|Stone County
+MO|29|61166|Renick village|Incorporated Place|A|Randolph County
+MO|29|61184|Rensselaer village|Incorporated Place|A|Ralls County
+MO|29|61238|Republic city|Incorporated Place|A|Christian County, Greene County
+MO|29|61292|Revere town|Incorporated Place|A|Clark County
+MO|29|61328|Rhineland town|Incorporated Place|A|Montgomery County
+MO|29|61364|Richards town|Incorporated Place|A|Vernon County
+MO|29|61418|Rich Hill city|Incorporated Place|A|Bates County
+MO|29|61562|Richland city|Incorporated Place|A|Camden County, Laclede County, Pulaski County
+MO|29|61670|Richmond city|Incorporated Place|A|Ray County
+MO|29|61706|Richmond Heights city|Incorporated Place|A|St. Louis County
+MO|29|61886|Ridgely village|Incorporated Place|A|Platte County
+MO|29|61904|Ridgeway city|Incorporated Place|A|Harrison County
+MO|29|61994|Risco city|Incorporated Place|A|New Madrid County
+MO|29|62030|Ritchey town|Incorporated Place|A|Newton County
+MO|29|62056|River Bend village|Incorporated Place|A|Jackson County
+MO|29|62156|Riverside city|Incorporated Place|A|Platte County
+MO|29|62192|Riverview village|Incorporated Place|A|St. Louis County
+MO|29|62210|Riverview Estates village|Incorporated Place|A|Cass County
+MO|29|62228|Rives town|Incorporated Place|A|Dunklin County
+MO|29|62498|Rocheport city|Incorporated Place|A|Boone County
+MO|29|62570|Rockaway Beach city|Incorporated Place|A|Taney County
+MO|29|62660|Rock Hill city|Incorporated Place|A|St. Louis County
+MO|29|62696|Rock Port city|Incorporated Place|A|Atchison County
+MO|29|62786|Rockville city|Incorporated Place|A|Bates County
+MO|29|62894|Rogersville city|Incorporated Place|A|Greene County, Webster County
+MO|29|62912|Rolla city|Incorporated Place|A|Phelps County
+MO|29|63074|Roscoe village|Incorporated Place|A|St. Clair County
+MO|29|63110|Rosebud city|Incorporated Place|A|Gasconade County
+MO|29|63200|Rosendale city|Incorporated Place|A|Andrew County
+MO|29|63236|Rothville village|Incorporated Place|A|Chariton County
+MO|29|63560|Rush Hill village|Incorporated Place|A|Audrain County
+MO|29|63596|Rushville town|Incorporated Place|A|Buchanan County
+MO|29|63704|Russellville city|Incorporated Place|A|Cole County
+MO|29|63776|Rutledge town|Incorporated Place|A|Scotland County
+MO|29|63857|Saddlebrooke village|Incorporated Place|A|Christian County, Taney County
+MO|29|63902|Saginaw village|Incorporated Place|A|Newton County
+MO|29|63956|St. Ann city|Incorporated Place|A|St. Louis County
+MO|29|64082|St. Charles city|Incorporated Place|A|St. Charles County
+MO|29|64136|St. Clair city|Incorporated Place|A|Franklin County
+MO|29|64154|St. Clement CDP|Census Designated Place|S|Pike County
+MO|29|64172|St. Cloud village|Incorporated Place|A|Crawford County
+MO|29|64180|Ste. Genevieve city|Incorporated Place|A|Ste. Genevieve County
+MO|29|64190|St. Elizabeth village|Incorporated Place|A|Miller County
+MO|29|64244|St. Francisville CDP|Census Designated Place|S|Clark County
+MO|29|64370|St. George city|Incorporated Place|A|St. Louis County
+MO|29|64424|St. James city|Incorporated Place|A|Phelps County
+MO|29|64478|St. John city|Incorporated Place|A|St. Louis County
+MO|29|64550|St. Joseph city|Incorporated Place|A|Buchanan County
+MO|29|65000|St. Louis city|Incorporated Place|A|St. Louis city
+MO|29|65018|St. Martins city|Incorporated Place|A|Cole County
+MO|29|65034|St. Mary city|Incorporated Place|A|Ste. Genevieve County
+MO|29|65108|St. Paul city|Incorporated Place|A|St. Charles County
+MO|29|65126|St. Peters city|Incorporated Place|A|St. Charles County
+MO|29|65144|St. Robert city|Incorporated Place|A|Pulaski County
+MO|29|65162|St. Thomas town|Incorporated Place|A|Cole County
+MO|29|65234|Salem city|Incorporated Place|A|Dent County
+MO|29|65450|Salisbury city|Incorporated Place|A|Chariton County
+MO|29|65954|Sappington CDP|Census Designated Place|S|St. Louis County
+MO|29|65990|Sarcoxie city|Incorporated Place|A|Jasper County
+MO|29|66044|Savannah city|Incorporated Place|A|Andrew County
+MO|29|66134|Schell City city|Incorporated Place|A|Vernon County
+MO|29|66337|Scotsdale town|Incorporated Place|A|Jefferson County
+MO|29|66368|Scott City city|Incorporated Place|A|Cape Girardeau County, Scott County
+MO|29|66440|Sedalia city|Incorporated Place|A|Pettis County
+MO|29|66476|Sedgewickville village|Incorporated Place|A|Bollinger County
+MO|29|66530|Seligman city|Incorporated Place|A|Barry County
+MO|29|66638|Senath city|Incorporated Place|A|Dunklin County
+MO|29|66674|Seneca city|Incorporated Place|A|Newton County
+MO|29|66800|Seymour city|Incorporated Place|A|Webster County
+MO|29|67178|Shelbina city|Incorporated Place|A|Shelby County
+MO|29|67196|Shelbyville city|Incorporated Place|A|Shelby County
+MO|29|67214|Sheldon city|Incorporated Place|A|Vernon County
+MO|29|67232|Shell Knob CDP|Census Designated Place|S|Barry County, Stone County
+MO|29|67358|Sheridan town|Incorporated Place|A|Worth County
+MO|29|67628|Shoal Creek Drive village|Incorporated Place|A|Newton County
+MO|29|67632|Shoal Creek Estates village|Incorporated Place|A|Newton County
+MO|29|67700|Shrewsbury city|Incorporated Place|A|St. Louis County
+MO|29|67718|Sibley village|Incorporated Place|A|Jackson County
+MO|29|67790|Sikeston city|Incorporated Place|A|New Madrid County, Scott County
+MO|29|67808|Silex village|Incorporated Place|A|Lincoln County
+MO|29|67880|Silver Creek village|Incorporated Place|A|Newton County
+MO|29|68132|Skidmore city|Incorporated Place|A|Nodaway County
+MO|29|68204|Slater city|Incorporated Place|A|Saline County
+MO|29|68384|Smithton city|Incorporated Place|A|Pettis County
+MO|29|68420|Smithville city|Incorporated Place|A|Clay County, Platte County
+MO|29|68762|South Fork CDP|Census Designated Place|S|Howell County
+MO|29|68852|South Gifford village|Incorporated Place|A|Macon County
+MO|29|68870|South Gorin town|Incorporated Place|A|Scotland County
+MO|29|68888|South Greenfield village|Incorporated Place|A|Dade County
+MO|29|68942|South Lineville town|Incorporated Place|A|Mercer County
+MO|29|69230|Southwest City town|Incorporated Place|A|McDonald County
+MO|29|69266|Spanish Lake CDP|Census Designated Place|S|St. Louis County
+MO|29|69302|Sparta city|Incorporated Place|A|Christian County
+MO|29|69464|Spickard city|Incorporated Place|A|Grundy County
+MO|29|69518|Spokane CDP|Census Designated Place|S|Christian County
+MO|29|70000|Springfield city|Incorporated Place|A|Christian County, Greene County
+MO|29|70270|Stanberry city|Incorporated Place|A|Gentry County
+MO|29|70414|Stark City town|Incorporated Place|A|Newton County
+MO|29|70558|Steele city|Incorporated Place|A|Pemiscot County
+MO|29|70576|Steelville city|Incorporated Place|A|Crawford County
+MO|29|70648|Stella town|Incorporated Place|A|Newton County
+MO|29|70738|Stewartsville city|Incorporated Place|A|DeKalb County
+MO|29|70828|Stockton city|Incorporated Place|A|Cedar County
+MO|29|70954|Stotesbury town|Incorporated Place|A|Vernon County
+MO|29|70990|Stotts City city|Incorporated Place|A|Lawrence County
+MO|29|71008|Stoutland city|Incorporated Place|A|Camden County, Laclede County
+MO|29|71026|Stoutsville village|Incorporated Place|A|Monroe County
+MO|29|71044|Stover city|Incorporated Place|A|Morgan County
+MO|29|71062|Strafford city|Incorporated Place|A|Greene County
+MO|29|71098|Strasburg city|Incorporated Place|A|Cass County
+MO|29|71224|Sturgeon city|Incorporated Place|A|Boone County
+MO|29|71368|Sugar Creek city|Incorporated Place|A|Clay County, Jackson County
+MO|29|71440|Sullivan city|Incorporated Place|A|Crawford County, Franklin County
+MO|29|71512|Summersville city|Incorporated Place|A|Shannon County, Texas County
+MO|29|71620|Sumner town|Incorporated Place|A|Chariton County
+MO|29|71628|Sundown CDP|Census Designated Place|S|Ozark County
+MO|29|71728|Sunrise Beach village|Incorporated Place|A|Camden County, Morgan County
+MO|29|71746|Sunset Hills city|Incorporated Place|A|St. Louis County
+MO|29|71890|Sweet Springs city|Incorporated Place|A|Saline County
+MO|29|72034|Sycamore Hills village|Incorporated Place|A|St. Louis County
+MO|29|72106|Syracuse city|Incorporated Place|A|Morgan County
+MO|29|72196|Tallapoosa city|Incorporated Place|A|New Madrid County
+MO|29|72232|Taneyville village|Incorporated Place|A|Taney County
+MO|29|72304|Taos city|Incorporated Place|A|Cole County
+MO|29|72340|Tarkio city|Incorporated Place|A|Atchison County
+MO|29|72376|Tarrants village|Incorporated Place|I|Pike County
+MO|29|72780|Terre du Lac CDP|Census Designated Place|S|St. Francois County
+MO|29|72826|Thayer city|Incorporated Place|A|Oregon County
+MO|29|72898|Theodosia village|Incorporated Place|A|Ozark County
+MO|29|73006|Thomasville CDP|Census Designated Place|S|Oregon County
+MO|29|73127|Three Creeks village|Incorporated Place|A|Warren County
+MO|29|73240|Tightwad village|Incorporated Place|A|Henry County
+MO|29|73330|Tina village|Incorporated Place|A|Carroll County
+MO|29|73348|Tindall town|Incorporated Place|A|Grundy County
+MO|29|73420|Tipton city|Incorporated Place|A|Moniteau County
+MO|29|73618|Town and Country city|Incorporated Place|A|St. Louis County
+MO|29|73690|Tracy city|Incorporated Place|A|Platte County
+MO|29|73816|Trenton city|Incorporated Place|A|Grundy County
+MO|29|73852|Trimble city|Incorporated Place|A|Clinton County
+MO|29|73870|Triplett city|Incorporated Place|A|Chariton County
+MO|29|73942|Troy city|Incorporated Place|A|Lincoln County
+MO|29|73978|Truesdale city|Incorporated Place|A|Warren County
+MO|29|74014|Truxton village|Incorporated Place|A|Lincoln County
+MO|29|74176|Turney village|Incorporated Place|A|Clinton County
+MO|29|74194|Tuscumbia town|Incorporated Place|A|Miller County
+MO|29|74284|Twin Oaks village|Incorporated Place|A|St. Louis County
+MO|29|74473|Umber View Heights village|Incorporated Place|A|Cedar County
+MO|29|74626|Union city|Incorporated Place|A|Franklin County
+MO|29|75130|Union Star town|Incorporated Place|A|DeKalb County
+MO|29|75166|Unionville city|Incorporated Place|A|Putnam County
+MO|29|75202|Unity Village village|Incorporated Place|A|Jackson County
+MO|29|75220|University City city|Incorporated Place|A|St. Louis County
+MO|29|75238|Uplands Park village|Incorporated Place|A|St. Louis County
+MO|29|75310|Urbana city|Incorporated Place|A|Dallas County
+MO|29|75346|Urich city|Incorporated Place|A|Henry County
+MO|29|75364|Utica village|Incorporated Place|A|Livingston County
+MO|29|75472|Valley Park city|Incorporated Place|A|St. Louis County
+MO|29|75580|Van Buren town|Incorporated Place|A|Carter County
+MO|29|75688|Vandalia city|Incorporated Place|A|Audrain County, Ralls County
+MO|29|75706|Vandiver village|Incorporated Place|A|Audrain County
+MO|29|75724|Vanduser village|Incorporated Place|A|Scott County
+MO|29|75796|Velda City city|Incorporated Place|A|St. Louis County
+MO|29|75814|Velda Village Hills village|Incorporated Place|A|St. Louis County
+MO|29|75886|Verona town|Incorporated Place|A|Lawrence County
+MO|29|75922|Versailles city|Incorporated Place|A|Morgan County
+MO|29|76012|Viburnum city|Incorporated Place|A|Iron County
+MO|29|76102|Vienna city|Incorporated Place|A|Maries County
+MO|29|76157|Village of Four Seasons village|Incorporated Place|A|Camden County
+MO|29|76192|Villa Ridge CDP|Census Designated Place|S|Franklin County
+MO|29|76246|Vinita Park city|Incorporated Place|A|St. Louis County
+MO|29|76264|Vinita Terrace village|Incorporated Place|A|St. Louis County
+MO|29|76390|Vista village|Incorporated Place|A|St. Clair County
+MO|29|76444|Waco city|Incorporated Place|A|Jasper County
+MO|29|76660|Walker city|Incorporated Place|A|Vernon County
+MO|29|76840|Walnut Grove city|Incorporated Place|A|Greene County
+MO|29|76966|Wardell town|Incorporated Place|A|Pemiscot County
+MO|29|77002|Wardsville village|Incorporated Place|A|Cole County
+MO|29|77092|Warrensburg city|Incorporated Place|A|Johnson County
+MO|29|77128|Warrenton city|Incorporated Place|A|Warren County
+MO|29|77146|Warsaw city|Incorporated Place|A|Benton County
+MO|29|77182|Warson Woods city|Incorporated Place|A|St. Louis County
+MO|29|77200|Washburn city|Incorporated Place|A|Barry County
+MO|29|77416|Washington city|Incorporated Place|A|Franklin County
+MO|29|77794|Wasola CDP|Census Designated Place|S|Ozark County
+MO|29|77848|Watson village|Incorporated Place|A|Atchison County
+MO|29|77866|Waverly city|Incorporated Place|A|Lafayette County
+MO|29|77920|Wayland city|Incorporated Place|A|Clark County
+MO|29|77992|Waynesville city|Incorporated Place|A|Pulaski County
+MO|29|78028|Weatherby town|Incorporated Place|A|DeKalb County
+MO|29|78046|Weatherby Lake city|Incorporated Place|A|Platte County
+MO|29|78064|Weaubleau city|Incorporated Place|A|Hickory County
+MO|29|78118|Webb City city|Incorporated Place|A|Jasper County
+MO|29|78154|Webster Groves city|Incorporated Place|A|St. Louis County
+MO|29|78226|Weingarten CDP|Census Designated Place|S|Ste. Genevieve County
+MO|29|78314|Weldon Spring city|Incorporated Place|A|St. Charles County
+MO|29|78334|Weldon Spring Heights town|Incorporated Place|A|St. Charles County
+MO|29|78352|Wellington city|Incorporated Place|A|Lafayette County
+MO|29|78370|Wellston city|Incorporated Place|A|St. Louis County
+MO|29|78406|Wellsville city|Incorporated Place|A|Montgomery County
+MO|29|78424|Wentworth village|Incorporated Place|A|Newton County
+MO|29|78442|Wentzville city|Incorporated Place|A|St. Charles County
+MO|29|78514|West Alton city|Incorporated Place|A|St. Charles County
+MO|29|78622|Westboro city|Incorporated Place|A|Atchison County
+MO|29|78838|West Line village|Incorporated Place|A|Cass County
+MO|29|78856|Weston city|Incorporated Place|A|Platte County
+MO|29|78910|Westphalia city|Incorporated Place|A|Osage County
+MO|29|78928|West Plains city|Incorporated Place|A|Howell County
+MO|29|79000|West Sullivan town|Incorporated Place|A|Crawford County
+MO|29|79054|Westwood village|Incorporated Place|A|St. Louis County
+MO|29|79090|Wheatland city|Incorporated Place|A|Hickory County
+MO|29|79126|Wheaton city|Incorporated Place|A|Barry County
+MO|29|79180|Wheeling city|Incorporated Place|A|Livingston County
+MO|29|79432|Whiteman AFB CDP|Census Designated Place|S|Johnson County
+MO|29|79558|Whiteside village|Incorporated Place|A|Lincoln County
+MO|29|79612|Whitewater town|Incorporated Place|A|Cape Girardeau County
+MO|29|79756|Wilbur Park village|Incorporated Place|A|St. Louis County
+MO|29|79820|Wildwood city|Incorporated Place|A|St. Louis County
+MO|29|79882|Willard city|Incorporated Place|A|Greene County
+MO|29|80026|Williamsville city|Incorporated Place|A|Wayne County
+MO|29|80098|Willow Springs city|Incorporated Place|A|Howell County
+MO|29|80260|Wilson City village|Incorporated Place|A|Mississippi County
+MO|29|80314|Winchester city|Incorporated Place|A|St. Louis County
+MO|29|80350|Windsor city|Incorporated Place|A|Henry County, Pettis County
+MO|29|80380|Windsor Place village|Incorporated Place|A|Cooper County
+MO|29|80422|Winfield city|Incorporated Place|A|Lincoln County
+MO|29|80440|Winigan CDP|Census Designated Place|S|Sullivan County
+MO|29|80512|Winona city|Incorporated Place|A|Shannon County
+MO|29|80548|Winston village|Incorporated Place|A|Daviess County
+MO|29|80767|Wood Heights city|Incorporated Place|A|Ray County
+MO|29|80962|Woodson Terrace city|Incorporated Place|A|St. Louis County
+MO|29|81016|Wooldridge village|Incorporated Place|A|Cooper County
+MO|29|81070|Worth village|Incorporated Place|A|Worth County
+MO|29|81088|Wortham CDP|Census Designated Place|S|St. Francois County
+MO|29|81106|Worthington village|Incorporated Place|A|Putnam County
+MO|29|81124|Wright City city|Incorporated Place|A|Warren County
+MO|29|81142|Wyaconda city|Incorporated Place|A|Clark County
+MO|29|81178|Wyatt city|Incorporated Place|A|Mississippi County
+MO|29|81430|Zalma village|Incorporated Place|A|Bollinger County

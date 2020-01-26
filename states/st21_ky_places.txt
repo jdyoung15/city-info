@@ -1,0 +1,524 @@
+KY|21|00298|Adairville city|Incorporated Place|A|Logan County
+KY|21|00694|Albany city|Incorporated Place|A|Clinton County
+KY|21|00802|Alexandria city|Incorporated Place|A|Campbell County
+KY|21|00946|Allen city|Incorporated Place|A|Floyd County
+KY|21|01000|Allensville city|Incorporated Place|I|Todd County
+KY|21|01504|Anchorage city|Incorporated Place|A|Jefferson County
+KY|21|01648|Annville CDP|Census Designated Place|S|Jackson County
+KY|21|02044|Arlington city|Incorporated Place|A|Carlisle County
+KY|21|02188|Artemus CDP|Census Designated Place|S|Knox County
+KY|21|02368|Ashland city|Incorporated Place|A|Boyd County
+KY|21|02638|Auburn city|Incorporated Place|A|Logan County
+KY|21|02656|Audubon Park city|Incorporated Place|A|Jefferson County
+KY|21|02674|Augusta city|Incorporated Place|A|Bracken County
+KY|21|02764|Auxier CDP|Census Designated Place|S|Floyd County
+KY|21|03376|Bancroft city|Incorporated Place|A|Jefferson County
+KY|21|03412|Bandana CDP|Census Designated Place|S|Ballard County
+KY|21|03556|Barbourmeade city|Incorporated Place|A|Jefferson County
+KY|21|03574|Barbourville city|Incorporated Place|A|Knox County
+KY|21|03628|Bardstown city|Incorporated Place|A|Nelson County
+KY|21|03664|Bardwell city|Incorporated Place|A|Carlisle County
+KY|21|03718|Barlow city|Incorporated Place|A|Ballard County
+KY|21|04546|Beattyville city|Incorporated Place|A|Lee County
+KY|21|04654|Beaver Dam city|Incorporated Place|A|Ohio County
+KY|21|04816|Bedford city|Incorporated Place|A|Trimble County
+KY|21|04978|Beech Grove CDP|Census Designated Place|S|McLean County
+KY|21|05014|Beechmont CDP|Census Designated Place|S|Muhlenberg County
+KY|21|05068|Beechwood Village city|Incorporated Place|A|Jefferson County
+KY|21|05374|Bellefonte city|Incorporated Place|A|Greenup County
+KY|21|05392|Bellemeade city|Incorporated Place|A|Jefferson County
+KY|21|05428|Belleview CDP|Census Designated Place|S|Boone County
+KY|21|05446|Bellevue city|Incorporated Place|A|Campbell County
+KY|21|05464|Bellewood city|Incorporated Place|A|Jefferson County
+KY|21|05662|Benham city|Incorporated Place|A|Harlan County
+KY|21|05824|Benton city|Incorporated Place|A|Marshall County
+KY|21|05842|Berea city|Incorporated Place|A|Madison County
+KY|21|05968|Berry city|Incorporated Place|A|Harrison County
+KY|21|06220|Betsy Layne CDP|Census Designated Place|S|Floyd County
+KY|21|07012|Blackey city|Incorporated Place|A|Letcher County
+KY|21|07264|Blaine city|Incorporated Place|A|Lawrence County
+KY|21|07390|Blandville city|Incorporated Place|I|Ballard County
+KY|21|07516|Bloomfield city|Incorporated Place|A|Nelson County
+KY|21|07858|Blue Ridge Manor city|Incorporated Place|A|Jefferson County
+KY|21|08488|Bonnieville city|Incorporated Place|A|Hart County
+KY|21|08614|Booneville city|Incorporated Place|A|Owsley County
+KY|21|08722|Boston CDP|Census Designated Place|S|Nelson County
+KY|21|08902|Bowling Green city|Incorporated Place|A|Warren County
+KY|21|09100|Bradfordsville city|Incorporated Place|A|Marion County
+KY|21|09226|Brandenburg city|Incorporated Place|A|Meade County
+KY|21|09379|Breckinridge Center CDP|Census Designated Place|S|Union County
+KY|21|09406|Bremen city|Incorporated Place|A|Muhlenberg County
+KY|21|09532|Briarwood city|Incorporated Place|A|Jefferson County
+KY|21|09838|Brodhead city|Incorporated Place|A|Rockcastle County
+KY|21|09847|Broeck Pointe city|Incorporated Place|A|Jefferson County
+KY|21|09856|Bromley city|Incorporated Place|A|Kenton County
+KY|21|09964|Brooks CDP|Census Designated Place|S|Bullitt County
+KY|21|10000|Brooksville city|Incorporated Place|A|Bracken County
+KY|21|10162|Brownsboro Farm city|Incorporated Place|A|Jefferson County
+KY|21|10198|Brownsboro Village city|Incorporated Place|A|Jefferson County
+KY|21|10324|Brownsville city|Incorporated Place|A|Edmonson County
+KY|21|10612|Buckhorn city|Incorporated Place|A|Perry County
+KY|21|10648|Buckner CDP|Census Designated Place|S|Oldham County
+KY|21|10774|Buffalo CDP|Census Designated Place|S|Larue County
+KY|21|11044|Burgin city|Incorporated Place|A|Mercer County
+KY|21|11098|Burkesville city|Incorporated Place|A|Cumberland County
+KY|21|11170|Burlington CDP|Census Designated Place|S|Boone County
+KY|21|11188|Burna CDP|Census Designated Place|S|Livingston County
+KY|21|11278|Burnside city|Incorporated Place|A|Pulaski County
+KY|21|11530|Butler city|Incorporated Place|A|Pendleton County
+KY|21|11692|Cadiz city|Incorporated Place|A|Trigg County
+KY|21|11854|Calhoun city|Incorporated Place|A|McLean County
+KY|21|11872|California city|Incorporated Place|A|Campbell County
+KY|21|12016|Calvert City city|Incorporated Place|A|Marshall County
+KY|21|12052|Camargo city|Incorporated Place|A|Montgomery County
+KY|21|12066|Cambridge city|Incorporated Place|A|Jefferson County
+KY|21|12142|Campbellsburg city|Incorporated Place|A|Henry County
+KY|21|12160|Campbellsville city|Incorporated Place|A|Taylor County
+KY|21|12358|Campton city|Incorporated Place|A|Wolfe County
+KY|21|12538|Caneyville city|Incorporated Place|A|Grayson County
+KY|21|12610|Cannonsburg CDP|Census Designated Place|S|Boyd County
+KY|21|12898|Carlisle city|Incorporated Place|A|Nicholas County
+KY|21|13024|Carrollton city|Incorporated Place|A|Carroll County
+KY|21|13060|Carrsville city|Incorporated Place|A|Livingston County
+KY|21|13420|Catlettsburg city|Incorporated Place|A|Boyd County
+KY|21|13492|Cave City city|Incorporated Place|A|Barren County
+KY|21|13582|Cawood CDP|Census Designated Place|S|Harlan County
+KY|21|13600|Cayce CDP|Census Designated Place|S|Fulton County
+KY|21|13636|Cecilia CDP|Census Designated Place|S|Hardin County
+KY|21|13870|Centertown city|Incorporated Place|A|Ohio County
+KY|21|13978|Central City city|Incorporated Place|A|Muhlenberg County
+KY|21|14068|Cerulean CDP|Census Designated Place|S|Trigg County
+KY|21|14266|Chaplin CDP|Census Designated Place|S|Nelson County
+KY|21|15148|Clarkson city|Incorporated Place|A|Grayson County
+KY|21|15166|Claryville CDP|Census Designated Place|S|Campbell County
+KY|21|15202|Clay city|Incorporated Place|A|Webster County
+KY|21|15238|Clay City city|Incorporated Place|A|Powell County
+KY|21|15742|Clinton city|Incorporated Place|A|Hickman County
+KY|21|15904|Cloverport city|Incorporated Place|A|Breckinridge County
+KY|21|16110|Coal Run Village city|Incorporated Place|A|Pike County
+KY|21|16354|Coldiron CDP|Census Designated Place|S|Harlan County
+KY|21|16372|Cold Spring city|Incorporated Place|A|Campbell County
+KY|21|16395|Coldstream city|Incorporated Place|A|Jefferson County
+KY|21|16750|Columbia city|Incorporated Place|A|Adair County
+KY|21|16768|Columbus city|Incorporated Place|A|Hickman County
+KY|21|16894|Concord city|Incorporated Place|A|Lewis County
+KY|21|17362|Corbin city|Incorporated Place|A|Knox County, Whitley County
+KY|21|17434|Corinth city|Incorporated Place|A|Grant County, Scott County
+KY|21|17686|Corydon city|Incorporated Place|A|Henderson County
+KY|21|17848|Covington city|Incorporated Place|A|Kenton County
+KY|21|17956|Crab Orchard city|Incorporated Place|A|Lincoln County
+KY|21|18190|Crayne CDP|Census Designated Place|S|Crittenden County
+KY|21|18270|Creekside city|Incorporated Place|A|Jefferson County
+KY|21|18352|Crescent Springs city|Incorporated Place|A|Kenton County
+KY|21|18424|Crestview city|Incorporated Place|A|Campbell County
+KY|21|18442|Crestview Hills city|Incorporated Place|A|Kenton County
+KY|21|18496|Crestwood city|Incorporated Place|A|Oldham County
+KY|21|18568|Crittenden city|Incorporated Place|A|Grant County
+KY|21|18658|Crofton city|Incorporated Place|A|Christian County
+KY|21|18766|Crossgate city|Incorporated Place|A|Jefferson County
+KY|21|19108|Cumberland city|Incorporated Place|A|Harlan County
+KY|21|19432|Cynthiana city|Incorporated Place|A|Harrison County
+KY|21|19882|Danville city|Incorporated Place|A|Boyle County
+KY|21|20224|Dawson Springs city|Incorporated Place|A|Caldwell County, Hopkins County
+KY|21|20350|Dayton city|Incorporated Place|A|Campbell County
+KY|21|21322|Dexter CDP|Census Designated Place|S|Calloway County
+KY|21|21358|Diablock CDP|Census Designated Place|S|Perry County
+KY|21|21682|Dixon city|Incorporated Place|A|Webster County
+KY|21|21844|Doe Valley CDP|Census Designated Place|S|Meade County
+KY|21|22204|Douglass Hills city|Incorporated Place|A|Jefferson County
+KY|21|22222|Dover city|Incorporated Place|A|Mason County
+KY|21|22348|Drakesboro city|Incorporated Place|A|Muhlenberg County
+KY|21|22474|Druid Hills city|Incorporated Place|A|Jefferson County
+KY|21|22582|Dry Ridge city|Incorporated Place|A|Grant County
+KY|21|23000|Dunmor CDP|Census Designated Place|S|Logan County, Muhlenberg County
+KY|21|23104|Dwale CDP|Census Designated Place|S|Floyd County
+KY|21|23140|Dycusburg city|Incorporated Place|I|Crittenden County
+KY|21|23230|Earlington city|Incorporated Place|A|Hopkins County
+KY|21|23284|East Bernstadt CDP|Census Designated Place|S|Laurel County
+KY|21|23824|Eddyville city|Incorporated Place|A|Lyon County
+KY|21|23932|Edgewood city|Incorporated Place|A|Kenton County
+KY|21|23968|Edmonton city|Incorporated Place|A|Metcalfe County
+KY|21|24094|Ekron city|Incorporated Place|A|Meade County
+KY|21|24274|Elizabethtown city|Incorporated Place|A|Hardin County
+KY|21|24292|Elizaville CDP|Census Designated Place|S|Fleming County
+KY|21|24346|Elk Creek CDP|Census Designated Place|S|Spencer County
+KY|21|24382|Elkhorn City city|Incorporated Place|A|Pike County
+KY|21|24400|Elkton city|Incorporated Place|A|Todd County
+KY|21|24778|Elsmere city|Incorporated Place|A|Kenton County
+KY|21|24904|Eminence city|Incorporated Place|A|Henry County
+KY|21|24922|Emlyn CDP|Census Designated Place|S|Whitley County
+KY|21|25300|Erlanger city|Incorporated Place|A|Kenton County
+KY|21|25552|Eubank city|Incorporated Place|A|Lincoln County, Pulaski County
+KY|21|25606|Evarts city|Incorporated Place|A|Harlan County
+KY|21|25786|Ewing city|Incorporated Place|A|Fleming County
+KY|21|25876|Ezel CDP|Census Designated Place|S|Morgan County
+KY|21|26020|Fairfield city|Incorporated Place|A|Nelson County
+KY|21|26182|Fairview CDP|Census Designated Place|S|Christian County, Todd County
+KY|21|26236|Fairview city|Incorporated Place|A|Kenton County
+KY|21|26434|Falmouth city|Incorporated Place|A|Pendleton County
+KY|21|26452|Fancy Farm CDP|Census Designated Place|S|Graves County
+KY|21|26528|Farley CDP|Census Designated Place|S|McCracken County
+KY|21|26560|Farmers CDP|Census Designated Place|S|Rowan County
+KY|21|26614|Farmington CDP|Census Designated Place|S|Graves County
+KY|21|27010|Ferguson city|Incorporated Place|A|Pulaski County
+KY|21|27262|Fincastle city|Incorporated Place|A|Jefferson County
+KY|21|27730|Flat Lick CDP|Census Designated Place|S|Knox County
+KY|21|27802|Flatwoods city|Incorporated Place|A|Greenup County
+KY|21|27846|Fleming-Neon city|Incorporated Place|A|Letcher County
+KY|21|27856|Flemingsburg city|Incorporated Place|A|Fleming County
+KY|21|27982|Florence city|Incorporated Place|A|Boone County
+KY|21|28270|Fordsville city|Incorporated Place|A|Ohio County
+KY|21|28342|Forest Hills city|Incorporated Place|A|Jefferson County
+KY|21|28486|Fort Campbell North CDP|Census Designated Place|S|Christian County
+KY|21|28540|Fort Knox CDP|Census Designated Place|S|Hardin County, Meade County
+KY|21|28558|Fort Mitchell city|Incorporated Place|A|Kenton County
+KY|21|28594|Fort Thomas city|Incorporated Place|A|Campbell County
+KY|21|28612|Fort Wright city|Incorporated Place|A|Kenton County
+KY|21|28630|Foster city|Incorporated Place|I|Bracken County
+KY|21|28666|Fountain Run city|Incorporated Place|A|Monroe County
+KY|21|28785|Fox Chase city|Incorporated Place|A|Bullitt County
+KY|21|28882|Francisville CDP|Census Designated Place|S|Boone County
+KY|21|28900|Frankfort city|Incorporated Place|A|Franklin County
+KY|21|28918|Franklin city|Incorporated Place|A|Simpson County
+KY|21|29080|Fredonia city|Incorporated Place|A|Caldwell County
+KY|21|29134|Freeburn CDP|Census Designated Place|S|Pike County
+KY|21|29260|Frenchburg city|Incorporated Place|A|Menifee County
+KY|21|29566|Fulton city|Incorporated Place|A|Fulton County
+KY|21|29872|Gamaliel city|Incorporated Place|A|Monroe County
+KY|21|30232|Garrison CDP|Census Designated Place|S|Lewis County
+KY|21|30700|Georgetown city|Incorporated Place|A|Scott County
+KY|21|30718|Germantown city|Incorporated Place|A|Bracken County, Mason County
+KY|21|30808|Ghent city|Incorporated Place|A|Carroll County
+KY|21|30880|Gilbertsville CDP|Census Designated Place|S|Marshall County
+KY|21|31114|Glasgow city|Incorporated Place|A|Barren County
+KY|21|31204|Glencoe city|Incorporated Place|A|Gallatin County
+KY|21|31348|Glenview city|Incorporated Place|A|Jefferson County
+KY|21|31402|Glenview Hills city|Incorporated Place|A|Jefferson County
+KY|21|31420|Glenview Manor city|Incorporated Place|A|Jefferson County
+KY|21|31870|Goose Creek city|Incorporated Place|A|Jefferson County
+KY|21|31960|Goshen city|Incorporated Place|A|Oldham County
+KY|21|32032|Gracey CDP|Census Designated Place|S|Christian County
+KY|21|32212|Grand Rivers city|Incorporated Place|A|Livingston County
+KY|21|32428|Gratz city|Incorporated Place|A|Owen County
+KY|21|32523|Graymoor-Devondale city|Incorporated Place|A|Jefferson County
+KY|21|32572|Grayson city|Incorporated Place|A|Carter County
+KY|21|32968|Greensburg city|Incorporated Place|A|Green County
+KY|21|32986|Green Spring city|Incorporated Place|A|Jefferson County
+KY|21|33004|Greenup city|Incorporated Place|A|Greenup County
+KY|21|33022|Greenville city|Incorporated Place|A|Muhlenberg County
+KY|21|33562|Guthrie city|Incorporated Place|A|Todd County
+KY|21|34390|Hanson city|Incorporated Place|A|Hopkins County
+KY|21|34534|Hardin city|Incorporated Place|A|Marshall County
+KY|21|34552|Hardinsburg city|Incorporated Place|A|Breckinridge County
+KY|21|34660|Hardyville CDP|Census Designated Place|S|Hart County
+KY|21|34732|Harlan city|Incorporated Place|A|Harlan County
+KY|21|34966|Harrodsburg city|Incorporated Place|A|Mercer County
+KY|21|35020|Hartford city|Incorporated Place|A|Ohio County
+KY|21|35200|Hawesville city|Incorporated Place|A|Hancock County
+KY|21|35362|Hazard city|Incorporated Place|A|Perry County
+KY|21|35380|Hazel city|Incorporated Place|A|Calloway County
+KY|21|35398|Hazel Green CDP|Census Designated Place|S|Wolfe County
+KY|21|35542|Hebron CDP|Census Designated Place|S|Boone County
+KY|21|35545|Hebron Estates city|Incorporated Place|A|Bullitt County
+KY|21|35866|Henderson city|Incorporated Place|A|Henderson County
+KY|21|35902|Hendron CDP|Census Designated Place|S|McCracken County
+KY|21|36102|Heritage Creek city|Incorporated Place|A|Jefferson County
+KY|21|36298|Hickman city|Incorporated Place|A|Fulton County
+KY|21|36374|Hickory Hill city|Incorporated Place|A|Jefferson County
+KY|21|36460|High Bridge CDP|Census Designated Place|S|Jessamine County
+KY|21|36604|Highland Heights city|Incorporated Place|A|Campbell County
+KY|21|36865|Hills and Dales city|Incorporated Place|A|Jefferson County
+KY|21|36982|Hillview city|Incorporated Place|A|Bullitt County
+KY|21|37108|Hindman city|Incorporated Place|A|Knott County
+KY|21|37234|Hiseville CDP|Census Designated Place|S|Barren County
+KY|21|37396|Hodgenville city|Incorporated Place|A|Larue County
+KY|21|37576|Hollow Creek city|Incorporated Place|A|Jefferson County
+KY|21|37630|Hollyvilla city|Incorporated Place|A|Jefferson County
+KY|21|37918|Hopkinsville city|Incorporated Place|A|Christian County
+KY|21|38008|Horse Cave city|Incorporated Place|A|Hart County
+KY|21|38170|Houston Acres city|Incorporated Place|A|Jefferson County
+KY|21|38670|Hunters Hollow city|Incorporated Place|A|Bullitt County
+KY|21|38814|Hurstbourne city|Incorporated Place|A|Jefferson County
+KY|21|38818|Hurstbourne Acres city|Incorporated Place|A|Jefferson County
+KY|21|38836|Hustonville city|Incorporated Place|A|Lincoln County
+KY|21|38908|Hyden city|Incorporated Place|A|Leslie County
+KY|21|39142|Independence city|Incorporated Place|A|Kenton County
+KY|21|39304|Indian Hills city|Incorporated Place|A|Jefferson County
+KY|21|39430|Inez city|Incorporated Place|A|Martin County
+KY|21|39646|Irvine city|Incorporated Place|A|Estill County
+KY|21|39664|Irvington city|Incorporated Place|A|Breckinridge County
+KY|21|39700|Island city|Incorporated Place|A|McLean County
+KY|21|39952|Jackson city|Incorporated Place|A|Breathitt County
+KY|21|40114|Jamestown city|Incorporated Place|A|Russell County
+KY|21|40204|Jeff CDP|Census Designated Place|S|Perry County
+KY|21|40222|Jeffersontown city|Incorporated Place|A|Jefferson County
+KY|21|40240|Jeffersonville city|Incorporated Place|A|Montgomery County
+KY|21|40312|Jenkins city|Incorporated Place|A|Letcher County
+KY|21|41338|Junction City city|Incorporated Place|A|Boyle County, Lincoln County
+KY|21|42094|Kenton Vale city|Incorporated Place|A|Kenton County
+KY|21|42112|Kenvir CDP|Census Designated Place|S|Harlan County
+KY|21|42292|Kevil city|Incorporated Place|A|Ballard County
+KY|21|42598|Kingsley city|Incorporated Place|A|Jefferson County
+KY|21|43264|Kuttawa city|Incorporated Place|A|Lyon County
+KY|21|43336|La Center city|Incorporated Place|A|Ballard County
+KY|21|43444|LaFayette city|Incorporated Place|A|Christian County
+KY|21|43480|La Grange city|Incorporated Place|A|Oldham County
+KY|21|43606|Lakeside Park city|Incorporated Place|A|Kenton County
+KY|21|43668|Lakeview Heights city|Incorporated Place|A|Rowan County
+KY|21|43840|Lancaster city|Incorporated Place|A|Garrard County
+KY|21|43900|Langdon Place city|Incorporated Place|A|Jefferson County
+KY|21|44146|Lawrenceburg city|Incorporated Place|A|Anderson County
+KY|21|44344|Lebanon city|Incorporated Place|A|Marion County
+KY|21|44362|Lebanon Junction city|Incorporated Place|A|Bullitt County
+KY|21|44434|Ledbetter CDP|Census Designated Place|S|Livingston County
+KY|21|44686|Leitchfield city|Incorporated Place|A|Grayson County
+KY|21|45064|Lewisburg city|Incorporated Place|A|Logan County
+KY|21|45136|Lewisport city|Incorporated Place|A|Hancock County
+KY|21|46027|Lexington-Fayette urban county|Incorporated Place|A|Fayette County
+KY|21|46072|Liberty city|Incorporated Place|A|Casey County
+KY|21|46540|Lincolnshire city|Incorporated Place|A|Jefferson County
+KY|21|47062|Livermore city|Incorporated Place|A|McLean County
+KY|21|47098|Livingston city|Incorporated Place|A|Rockcastle County
+KY|21|47476|London city|Incorporated Place|A|Laurel County
+KY|21|47710|Loretto city|Incorporated Place|A|Marion County
+KY|21|47854|Louisa city|Incorporated Place|A|Lawrence County
+KY|21|48006|Louisville/Jefferson County metro government (balance)|Incorporated Place|F|Jefferson County
+KY|21|48072|Lovelaceville CDP|Census Designated Place|S|Ballard County
+KY|21|48234|Lowes CDP|Census Designated Place|S|Graves County
+KY|21|48288|Loyall city|Incorporated Place|A|Harlan County
+KY|21|48378|Ludlow city|Incorporated Place|A|Kenton County
+KY|21|48540|Lynch city|Incorporated Place|A|Harlan County
+KY|21|48558|Lyndon city|Incorporated Place|A|Jefferson County
+KY|21|48648|Lynnview city|Incorporated Place|A|Jefferson County
+KY|21|48810|McCarr CDP|Census Designated Place|S|Pike County
+KY|21|49026|Maceo CDP|Census Designated Place|S|Daviess County
+KY|21|49098|McHenry city|Incorporated Place|A|Ohio County
+KY|21|49116|McKee city|Incorporated Place|A|Jackson County
+KY|21|49206|Mackville city|Incorporated Place|A|Washington County
+KY|21|49278|McRoberts CDP|Census Designated Place|S|Letcher County
+KY|21|49368|Madisonville city|Incorporated Place|A|Hopkins County
+KY|21|49476|Magnolia CDP|Census Designated Place|S|Larue County
+KY|21|49656|Manchester city|Incorporated Place|A|Clay County
+KY|21|49746|Manitou CDP|Census Designated Place|S|Hopkins County
+KY|21|49800|Manor Creek city|Incorporated Place|A|Jefferson County
+KY|21|50034|Marion city|Incorporated Place|A|Crittenden County
+KY|21|50124|Marrowbone CDP|Census Designated Place|S|Cumberland County
+KY|21|50286|Martin city|Incorporated Place|A|Floyd County
+KY|21|50412|Maryhill Estates city|Incorporated Place|A|Jefferson County
+KY|21|50520|Masonville CDP|Census Designated Place|S|Daviess County
+KY|21|50556|Massac CDP|Census Designated Place|S|McCracken County
+KY|21|50898|Mayfield city|Incorporated Place|A|Graves County
+KY|21|50952|Mayking CDP|Census Designated Place|S|Letcher County
+KY|21|51006|Mays Lick CDP|Census Designated Place|S|Mason County
+KY|21|51024|Maysville city|Incorporated Place|A|Mason County
+KY|21|51060|Maytown CDP|Census Designated Place|S|Floyd County
+KY|21|51193|Meadowbrook Farm city|Incorporated Place|A|Jefferson County
+KY|21|51258|Meadow Vale city|Incorporated Place|A|Jefferson County
+KY|21|51294|Meadowview Estates city|Incorporated Place|A|Jefferson County
+KY|21|51438|Melbourne city|Incorporated Place|A|Campbell County
+KY|21|51564|Mentor city|Incorporated Place|A|Campbell County
+KY|21|51924|Middlesborough city|Incorporated Place|A|Bell County
+KY|21|51978|Middletown city|Incorporated Place|A|Jefferson County
+KY|21|52140|Midway city|Incorporated Place|A|Woodford County
+KY|21|52302|Millersburg city|Incorporated Place|A|Bourbon County, Nicholas County
+KY|21|52464|Millstone CDP|Census Designated Place|S|Letcher County
+KY|21|52590|Milton city|Incorporated Place|A|Trimble County
+KY|21|52842|Mockingbird Valley city|Incorporated Place|A|Jefferson County
+KY|21|53076|Monterey city|Incorporated Place|A|Owen County
+KY|21|53130|Monticello city|Incorporated Place|A|Wayne County
+KY|21|53328|Moorland city|Incorporated Place|A|Jefferson County
+KY|21|53418|Morehead city|Incorporated Place|A|Rowan County
+KY|21|53472|Morganfield city|Incorporated Place|A|Union County
+KY|21|53490|Morgantown city|Incorporated Place|A|Butler County
+KY|21|53616|Mortons Gap city|Incorporated Place|A|Hopkins County
+KY|21|53976|Mount Olivet city|Incorporated Place|A|Robertson County
+KY|21|54084|Mount Sterling city|Incorporated Place|A|Montgomery County
+KY|21|54174|Mount Vernon city|Incorporated Place|A|Rockcastle County
+KY|21|54228|Mount Washington city|Incorporated Place|A|Bullitt County
+KY|21|54480|Muldraugh city|Incorporated Place|A|Hardin County, Meade County
+KY|21|54570|Munfordville city|Incorporated Place|A|Hart County
+KY|21|54642|Murray city|Incorporated Place|A|Calloway County
+KY|21|54660|Murray Hill city|Incorporated Place|A|Jefferson County
+KY|21|55092|Nebo city|Incorporated Place|A|Hopkins County
+KY|21|55596|New Castle city|Incorporated Place|A|Henry County
+KY|21|55758|New Haven city|Incorporated Place|A|Nelson County
+KY|21|55794|New Hope CDP|Census Designated Place|S|Nelson County
+KY|21|55884|Newport city|Incorporated Place|A|Campbell County
+KY|21|56136|Nicholasville city|Incorporated Place|A|Jessamine County
+KY|21|56550|Norbourne Estates city|Incorporated Place|A|Jefferson County
+KY|21|56694|North Corbin CDP|Census Designated Place|S|Knox County, Laurel County
+KY|21|56730|Northfield city|Incorporated Place|A|Jefferson County
+KY|21|56820|North Middletown city|Incorporated Place|A|Bourbon County
+KY|21|56910|Nortonville city|Incorporated Place|A|Hopkins County
+KY|21|56928|Norwood city|Incorporated Place|A|Jefferson County
+KY|21|57030|Oakbrook CDP|Census Designated Place|S|Boone County
+KY|21|57090|Oak Grove city|Incorporated Place|A|Christian County
+KY|21|57144|Oakland city|Incorporated Place|A|Warren County
+KY|21|57658|Old Brownsboro Place city|Incorporated Place|A|Jefferson County
+KY|21|57918|Olive Hill city|Incorporated Place|A|Carter County
+KY|21|58062|Oneida CDP|Census Designated Place|S|Clay County
+KY|21|58116|Onton CDP|Census Designated Place|S|Webster County
+KY|21|58200|Orchard Grass Hills city|Incorporated Place|A|Oldham County
+KY|21|58620|Owensboro city|Incorporated Place|A|Daviess County
+KY|21|58692|Owenton city|Incorporated Place|A|Owen County
+KY|21|58710|Owingsville city|Incorporated Place|A|Bath County
+KY|21|58836|Paducah city|Incorporated Place|A|McCracken County
+KY|21|58962|Paintsville city|Incorporated Place|A|Johnson County
+KY|21|59196|Paris city|Incorporated Place|A|Bourbon County
+KY|21|59232|Park City city|Incorporated Place|A|Barren County
+KY|21|59255|Park Hills city|Incorporated Place|A|Kenton County
+KY|21|59322|Parkway Village city|Incorporated Place|A|Jefferson County
+KY|21|59466|Pathfork CDP|Census Designated Place|S|Harlan County
+KY|21|59592|Payne Gap CDP|Census Designated Place|S|Letcher County
+KY|21|59934|Pembroke city|Incorporated Place|A|Christian County
+KY|21|60258|Perryville city|Incorporated Place|A|Boyle County
+KY|21|60312|Petersburg CDP|Census Designated Place|S|Boone County
+KY|21|60492|Pewee Valley city|Incorporated Place|A|Oldham County
+KY|21|60600|Phelps CDP|Census Designated Place|S|Pike County
+KY|21|60852|Pikeville city|Incorporated Place|A|Pike County
+KY|21|61122|Pine Knot CDP|Census Designated Place|S|McCreary County
+KY|21|61248|Pineville city|Incorporated Place|A|Bell County
+KY|21|61356|Pioneer Village city|Incorporated Place|A|Bullitt County
+KY|21|61374|Pippa Passes city|Incorporated Place|A|Knott County
+KY|21|61536|Plano CDP|Census Designated Place|S|Warren County
+KY|21|61554|Plantation city|Incorporated Place|A|Jefferson County
+KY|21|61734|Pleasant View CDP|Census Designated Place|S|Whitley County
+KY|21|61788|Pleasureville city|Incorporated Place|A|Henry County, Shelby County
+KY|21|61860|Plum Springs city|Incorporated Place|A|Warren County
+KY|21|62370|Poplar Hills city|Incorporated Place|A|Jefferson County
+KY|21|62652|Powderly city|Incorporated Place|A|Muhlenberg County
+KY|21|62940|Prestonsburg city|Incorporated Place|A|Floyd County
+KY|21|62958|Prestonville city|Incorporated Place|A|Carroll County
+KY|21|63138|Princeton city|Incorporated Place|A|Caldwell County
+KY|21|63264|Prospect city|Incorporated Place|A|Jefferson County, Oldham County
+KY|21|63372|Providence city|Incorporated Place|A|Webster County
+KY|21|63426|Pryorsburg CDP|Census Designated Place|S|Graves County
+KY|21|63804|Rabbit Hash CDP|Census Designated Place|S|Boone County
+KY|21|63858|Raceland city|Incorporated Place|A|Greenup County
+KY|21|63912|Radcliff city|Incorporated Place|A|Hardin County
+KY|21|64092|Ravenna city|Incorporated Place|A|Estill County
+KY|21|64146|Raywick city|Incorporated Place|A|Marion County
+KY|21|64632|Reidland CDP|Census Designated Place|S|McCracken County
+KY|21|65208|Richlawn city|Incorporated Place|A|Jefferson County
+KY|21|65226|Richmond city|Incorporated Place|A|Madison County
+KY|21|65559|River Bluff city|Incorporated Place|A|Oldham County
+KY|21|65766|Riverwood city|Incorporated Place|A|Jefferson County
+KY|21|65874|Robards city|Incorporated Place|A|Henderson County
+KY|21|65982|Rochester city|Incorporated Place|A|Butler County
+KY|21|66162|Rockholds CDP|Census Designated Place|S|Whitley County
+KY|21|66216|Rockport city|Incorporated Place|A|Ohio County
+KY|21|66486|Rolling Fields city|Incorporated Place|A|Jefferson County
+KY|21|66504|Rolling Hills city|Incorporated Place|A|Jefferson County
+KY|21|66846|Rosine CDP|Census Designated Place|S|Ohio County
+KY|21|67458|Russell city|Incorporated Place|A|Greenup County
+KY|21|67494|Russell Springs city|Incorporated Place|A|Russell County
+KY|21|67512|Russellville city|Incorporated Place|A|Logan County
+KY|21|67602|Ryland Heights city|Incorporated Place|A|Kenton County
+KY|21|67638|Sacramento city|Incorporated Place|A|McLean County
+KY|21|67656|Sadieville city|Incorporated Place|A|Scott County
+KY|21|67710|St. Charles city|Incorporated Place|A|Hopkins County
+KY|21|67944|St. Matthews city|Incorporated Place|A|Jefferson County
+KY|21|67998|St. Regis Park city|Incorporated Place|A|Jefferson County
+KY|21|68052|Salem city|Incorporated Place|A|Livingston County
+KY|21|68160|Salt Lick city|Incorporated Place|A|Bath County
+KY|21|68214|Salvisa CDP|Census Designated Place|S|Mercer County
+KY|21|68232|Salyersville city|Incorporated Place|A|Magoffin County
+KY|21|68358|Sanders city|Incorporated Place|A|Carroll County
+KY|21|68556|Sandy Hook city|Incorporated Place|A|Elliott County
+KY|21|68646|Sardis city|Incorporated Place|A|Mason County, Robertson County
+KY|21|68952|Science Hill city|Incorporated Place|A|Pulaski County
+KY|21|69114|Scottsville city|Incorporated Place|A|Allen County
+KY|21|69222|Sebree city|Incorporated Place|A|Webster County
+KY|21|69258|Sedalia CDP|Census Designated Place|S|Graves County
+KY|21|69384|Seneca Gardens city|Incorporated Place|A|Jefferson County
+KY|21|69852|Sharpsburg city|Incorporated Place|A|Bath County
+KY|21|70050|Shelbyville city|Incorporated Place|A|Shelby County
+KY|21|70086|Shepherdsville city|Incorporated Place|A|Bullitt County
+KY|21|70284|Shively city|Incorporated Place|A|Jefferson County
+KY|21|70644|Silver Grove city|Incorporated Place|A|Campbell County
+KY|21|70752|Simpsonville city|Incorporated Place|A|Shelby County
+KY|21|71130|Slaughters city|Incorporated Place|A|Webster County
+KY|21|71364|Smithfield city|Incorporated Place|A|Henry County
+KY|21|71382|Smithland city|Incorporated Place|A|Livingston County
+KY|21|71454|Smiths Grove city|Incorporated Place|A|Warren County
+KY|21|71688|Somerset city|Incorporated Place|A|Pulaski County
+KY|21|71724|Sonora city|Incorporated Place|A|Hardin County
+KY|21|71814|South Carrollton city|Incorporated Place|A|Muhlenberg County
+KY|21|71976|Southgate city|Incorporated Place|A|Campbell County
+KY|21|72138|South Park View city|Incorporated Place|A|Jefferson County
+KY|21|72210|South Shore city|Incorporated Place|A|Greenup County
+KY|21|72255|South Wallins CDP|Census Designated Place|S|Harlan County
+KY|21|72264|South Williamson CDP|Census Designated Place|S|Pike County
+KY|21|72372|Sparta city|Incorporated Place|A|Gallatin County
+KY|21|72570|Spottsville CDP|Census Designated Place|S|Henderson County
+KY|21|72660|Springfield city|Incorporated Place|A|Washington County
+KY|21|72770|Spring Mill city|Incorporated Place|A|Jefferson County
+KY|21|72790|Spring Valley city|Incorporated Place|A|Jefferson County
+KY|21|73038|Stamping Ground city|Incorporated Place|A|Scott County
+KY|21|73110|Stanford city|Incorporated Place|A|Lincoln County
+KY|21|73164|Stanton city|Incorporated Place|A|Powell County
+KY|21|73362|Stearns CDP|Census Designated Place|S|McCreary County
+KY|21|74064|Strathmoor Manor city|Incorporated Place|A|Jefferson County
+KY|21|74082|Strathmoor Village city|Incorporated Place|A|Jefferson County
+KY|21|74316|Sturgis city|Incorporated Place|A|Union County
+KY|21|74586|Summer Shade CDP|Census Designated Place|S|Metcalfe County
+KY|21|74604|Summersville CDP|Census Designated Place|S|Green County
+KY|21|75190|Sycamore city|Incorporated Place|A|Jefferson County
+KY|21|75270|Symsonia CDP|Census Designated Place|S|Graves County
+KY|21|75738|Taylor Mill city|Incorporated Place|A|Kenton County
+KY|21|75810|Taylorsville city|Incorporated Place|A|Spencer County
+KY|21|75963|Ten Broeck city|Incorporated Place|A|Jefferson County
+KY|21|76380|Thornhill city|Incorporated Place|A|Jefferson County
+KY|21|77124|Tolu CDP|Census Designated Place|S|Crittenden County
+KY|21|77160|Tompkinsville city|Incorporated Place|A|Monroe County
+KY|21|77592|Trenton city|Incorporated Place|A|Todd County
+KY|21|78384|Union city|Incorporated Place|A|Boone County
+KY|21|78492|Uniontown city|Incorporated Place|A|Union County
+KY|21|78672|Upton city|Incorporated Place|A|Hardin County, Larue County
+KY|21|79068|Vanceburg city|Incorporated Place|A|Lewis County
+KY|21|79464|Verona CDP|Census Designated Place|S|Boone County
+KY|21|79482|Versailles city|Incorporated Place|A|Woodford County
+KY|21|79590|Vicco city|Incorporated Place|A|Knott County, Perry County
+KY|21|79698|Villa Hills city|Incorporated Place|A|Kenton County
+KY|21|79734|Vine Grove city|Incorporated Place|A|Hardin County
+KY|21|79860|Virgie CDP|Census Designated Place|S|Pike County
+KY|21|80310|Wallins Creek city|Incorporated Place|A|Harlan County
+KY|21|80490|Walton city|Incorporated Place|A|Boone County, Kenton County
+KY|21|80616|Warfield city|Incorporated Place|A|Martin County
+KY|21|80706|Warsaw city|Incorporated Place|A|Gallatin County
+KY|21|80832|Water Valley city|Incorporated Place|A|Graves County
+KY|21|80913|Watterson Park city|Incorporated Place|A|Jefferson County
+KY|21|80958|Waverly city|Incorporated Place|A|Union County
+KY|21|81012|Wayland city|Incorporated Place|A|Floyd County
+KY|21|81372|Wellington city|Incorporated Place|A|Jefferson County
+KY|21|81624|West Buechel city|Incorporated Place|A|Jefferson County
+KY|21|81858|West Liberty city|Incorporated Place|A|Morgan County
+KY|21|81930|West Point city|Incorporated Place|A|Hardin County
+KY|21|81948|Westport CDP|Census Designated Place|S|Oldham County
+KY|21|82146|Westwood CDP|Census Designated Place|S|Boyd County
+KY|21|82164|Westwood city|Incorporated Place|A|Jefferson County
+KY|21|82200|Wheatcroft city|Incorporated Place|A|Webster County
+KY|21|82272|Wheelwright city|Incorporated Place|A|Floyd County
+KY|21|82722|White Plains city|Incorporated Place|A|Hopkins County
+KY|21|82776|Whitesburg city|Incorporated Place|A|Letcher County
+KY|21|82830|Whitesville city|Incorporated Place|A|Daviess County
+KY|21|82938|Whitley City CDP|Census Designated Place|S|McCreary County
+KY|21|83064|Wickliffe city|Incorporated Place|A|Ballard County
+KY|21|83172|Wilder city|Incorporated Place|A|Campbell County
+KY|21|83208|Wildwood city|Incorporated Place|A|Jefferson County
+KY|21|83334|Williamsburg city|Incorporated Place|A|Whitley County
+KY|21|83406|Williamstown city|Incorporated Place|A|Grant County, Pendleton County
+KY|21|83424|Willisburg city|Incorporated Place|A|Washington County
+KY|21|83550|Wilmore city|Incorporated Place|A|Jessamine County
+KY|21|83676|Winchester city|Incorporated Place|A|Clark County
+KY|21|83784|Windy Hills city|Incorporated Place|A|Jefferson County
+KY|21|83856|Wingo city|Incorporated Place|A|Graves County
+KY|21|84414|Woodburn city|Incorporated Place|A|Warren County
+KY|21|84432|Woodbury city|Incorporated Place|A|Butler County
+KY|21|84486|Woodland Hills city|Incorporated Place|A|Jefferson County
+KY|21|84522|Woodlawn city|Incorporated Place|A|Campbell County
+KY|21|84576|Woodlawn Park city|Incorporated Place|A|Jefferson County
+KY|21|84864|Worthington city|Incorporated Place|A|Greenup County
+KY|21|84891|Worthington Hills city|Incorporated Place|A|Jefferson County
+KY|21|84900|Worthville city|Incorporated Place|A|Carroll County
+KY|21|85008|Wurtland city|Incorporated Place|A|Greenup County

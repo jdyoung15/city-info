@@ -1,0 +1,671 @@
+KS|20|00100|Abbyville city|Incorporated Place|A|Reno County
+KS|20|00125|Abilene city|Incorporated Place|A|Dickinson County
+KS|20|00225|Ada CDP|Census Designated Place|S|Ottawa County
+KS|20|00325|Admire city|Incorporated Place|A|Lyon County
+KS|20|00475|Agenda city|Incorporated Place|A|Republic County
+KS|20|00550|Agra city|Incorporated Place|A|Phillips County
+KS|20|00825|Albert city|Incorporated Place|A|Barton County
+KS|20|00950|Alden city|Incorporated Place|A|Rice County
+KS|20|01050|Alexander city|Incorporated Place|A|Rush County
+KS|20|01275|Allen city|Incorporated Place|A|Lyon County
+KS|20|01350|Alma city|Incorporated Place|A|Wabaunsee County
+KS|20|01425|Almena city|Incorporated Place|A|Norton County
+KS|20|01550|Altamont city|Incorporated Place|A|Labette County
+KS|20|01575|Alta Vista city|Incorporated Place|A|Wabaunsee County
+KS|20|01600|Alton city|Incorporated Place|A|Osborne County
+KS|20|01625|Altoona city|Incorporated Place|A|Wilson County
+KS|20|01675|Americus city|Incorporated Place|A|Lyon County
+KS|20|01775|Andale city|Incorporated Place|A|Sedgwick County
+KS|20|01800|Andover city|Incorporated Place|A|Butler County, Sedgwick County
+KS|20|01975|Anthony city|Incorporated Place|A|Harper County
+KS|20|02175|Arcadia city|Incorporated Place|A|Crawford County
+KS|20|02250|Argonia city|Incorporated Place|A|Sumner County
+KS|20|02300|Arkansas City city|Incorporated Place|A|Cowley County
+KS|20|02325|Arlington city|Incorporated Place|A|Reno County
+KS|20|02375|Arma city|Incorporated Place|A|Crawford County
+KS|20|02600|Asherville CDP|Census Designated Place|S|Mitchell County
+KS|20|02675|Ashland city|Incorporated Place|A|Clark County
+KS|20|02850|Assaria city|Incorporated Place|A|Saline County
+KS|20|02900|Atchison city|Incorporated Place|A|Atchison County
+KS|20|03025|Athol city|Incorporated Place|A|Smith County
+KS|20|03050|Atlanta city|Incorporated Place|A|Cowley County
+KS|20|03100|Attica city|Incorporated Place|A|Harper County
+KS|20|03150|Atwood city|Incorporated Place|A|Rawlins County
+KS|20|03250|Auburn city|Incorporated Place|A|Shawnee County
+KS|20|03300|Augusta city|Incorporated Place|A|Butler County
+KS|20|03425|Aurora city|Incorporated Place|A|Cloud County
+KS|20|03600|Axtell city|Incorporated Place|A|Marshall County
+KS|20|03675|Baileyville CDP|Census Designated Place|S|Nemaha County
+KS|20|03900|Baldwin City city|Incorporated Place|A|Douglas County
+KS|20|04225|Barnard city|Incorporated Place|A|Lincoln County
+KS|20|04250|Barnes city|Incorporated Place|A|Washington County
+KS|20|04350|Bartlett city|Incorporated Place|A|Labette County
+KS|20|04400|Basehor city|Incorporated Place|A|Leavenworth County
+KS|20|04450|Bassett city|Incorporated Place|A|Allen County
+KS|20|04625|Baxter Springs city|Incorporated Place|A|Cherokee County
+KS|20|04775|Bazine city|Incorporated Place|A|Ness County
+KS|20|04900|Beattie city|Incorporated Place|A|Marshall County
+KS|20|05337|Bel Aire city|Incorporated Place|A|Sedgwick County
+KS|20|05500|Belle Plaine city|Incorporated Place|A|Sumner County
+KS|20|05600|Belleville city|Incorporated Place|A|Republic County
+KS|20|05775|Beloit city|Incorporated Place|A|Mitchell County
+KS|20|05825|Belpre city|Incorporated Place|A|Edwards County
+KS|20|05925|Belvue city|Incorporated Place|A|Pottawatomie County
+KS|20|05975|Bendena CDP|Census Designated Place|S|Doniphan County
+KS|20|06000|Benedict city|Incorporated Place|A|Wilson County
+KS|20|06075|Bennington city|Incorporated Place|A|Ottawa County
+KS|20|06125|Bentley city|Incorporated Place|A|Sedgwick County
+KS|20|06175|Benton city|Incorporated Place|A|Butler County
+KS|20|06275|Bern city|Incorporated Place|A|Nemaha County
+KS|20|06500|Beverly city|Incorporated Place|A|Lincoln County
+KS|20|06825|Bird City city|Incorporated Place|A|Cheyenne County
+KS|20|06950|Bison city|Incorporated Place|A|Rush County
+KS|20|07600|Blue Mound city|Incorporated Place|A|Linn County
+KS|20|07650|Blue Rapids city|Incorporated Place|A|Marshall County
+KS|20|07775|Bluff City city|Incorporated Place|A|Harper County
+KS|20|07825|Bogue city|Incorporated Place|A|Graham County
+KS|20|07975|Bonner Springs city|Incorporated Place|A|Johnson County, Leavenworth County, Wyandotte County
+KS|20|08425|Brewster city|Incorporated Place|A|Thomas County
+KS|20|08475|Bronson city|Incorporated Place|A|Bourbon County
+KS|20|08575|Brookville city|Incorporated Place|A|Saline County
+KS|20|08675|Brownell city|Incorporated Place|A|Ness County
+KS|20|09000|Bucklin city|Incorporated Place|A|Ford County
+KS|20|09050|Bucyrus CDP|Census Designated Place|S|Miami County
+KS|20|09150|Buffalo city|Incorporated Place|A|Wilson County
+KS|20|09200|Buhler city|Incorporated Place|A|Reno County
+KS|20|09225|Bunker Hill city|Incorporated Place|A|Russell County
+KS|20|09250|Burden city|Incorporated Place|A|Cowley County
+KS|20|09275|Burdett city|Incorporated Place|A|Pawnee County
+KS|20|09350|Burlingame city|Incorporated Place|A|Osage County
+KS|20|09400|Burlington city|Incorporated Place|A|Coffey County
+KS|20|09450|Burns city|Incorporated Place|A|Marion County
+KS|20|09525|Burr Oak city|Incorporated Place|A|Jewell County
+KS|20|09575|Burrton city|Incorporated Place|A|Harvey County
+KS|20|09675|Bushong city|Incorporated Place|A|Lyon County
+KS|20|09700|Bushton city|Incorporated Place|A|Rice County
+KS|20|09800|Byers city|Incorporated Place|A|Pratt County
+KS|20|09900|Caldwell city|Incorporated Place|A|Sumner County
+KS|20|10125|Cambridge city|Incorporated Place|A|Cowley County
+KS|20|10375|Caney city|Incorporated Place|A|Montgomery County
+KS|20|10475|Canton city|Incorporated Place|A|McPherson County
+KS|20|10600|Carbondale city|Incorporated Place|A|Osage County
+KS|20|10675|Carlton city|Incorporated Place|A|Dickinson County
+KS|20|10925|Cassoday city|Incorporated Place|A|Butler County
+KS|20|11025|Catharine CDP|Census Designated Place|S|Ellis County
+KS|20|11175|Cawker City city|Incorporated Place|A|Mitchell County
+KS|20|11325|Cedar city|Incorporated Place|A|Smith County
+KS|20|11425|Cedar Point city|Incorporated Place|A|Chase County
+KS|20|11450|Cedar Vale city|Incorporated Place|A|Chautauqua County
+KS|20|12425|Centralia city|Incorporated Place|A|Nemaha County
+KS|20|12500|Chanute city|Incorporated Place|A|Neosho County
+KS|20|12550|Chapman city|Incorporated Place|A|Dickinson County
+KS|20|12650|Chase city|Incorporated Place|A|Rice County
+KS|20|12675|Chautauqua city|Incorporated Place|A|Chautauqua County
+KS|20|12775|Cheney city|Incorporated Place|A|Sedgwick County
+KS|20|12825|Cherokee city|Incorporated Place|A|Crawford County
+KS|20|12925|Cherryvale city|Incorporated Place|A|Montgomery County
+KS|20|12950|Chetopa city|Incorporated Place|A|Labette County
+KS|20|13100|Chicopee CDP|Census Designated Place|S|Crawford County
+KS|20|13275|Cimarron city|Incorporated Place|A|Gray County
+KS|20|13375|Circleville city|Incorporated Place|A|Jackson County
+KS|20|13425|Claflin city|Incorporated Place|A|Barton County
+KS|20|13625|Clay Center city|Incorporated Place|A|Clay County
+KS|20|13675|Clayton city|Incorporated Place|A|Decatur County, Norton County
+KS|20|13925|Clearwater city|Incorporated Place|A|Sedgwick County
+KS|20|14200|Clifton city|Incorporated Place|A|Clay County, Washington County
+KS|20|14275|Climax city|Incorporated Place|A|Greenwood County
+KS|20|14475|Clyde city|Incorporated Place|A|Cloud County
+KS|20|14525|Coats city|Incorporated Place|A|Pratt County
+KS|20|14600|Coffeyville city|Incorporated Place|A|Montgomery County
+KS|20|14650|Colby city|Incorporated Place|A|Thomas County
+KS|20|14700|Coldwater city|Incorporated Place|A|Comanche County
+KS|20|14900|Collyer city|Incorporated Place|A|Trego County
+KS|20|14950|Colony city|Incorporated Place|A|Anderson County
+KS|20|15075|Columbus city|Incorporated Place|A|Cherokee County
+KS|20|15100|Colwich city|Incorporated Place|A|Sedgwick County
+KS|20|15200|Concordia city|Incorporated Place|A|Cloud County
+KS|20|15325|Conway Springs city|Incorporated Place|A|Sumner County
+KS|20|15400|Coolidge city|Incorporated Place|A|Hamilton County
+KS|20|15475|Copeland city|Incorporated Place|A|Gray County
+KS|20|15725|Corning city|Incorporated Place|A|Nemaha County
+KS|20|15900|Cottonwood Falls city|Incorporated Place|A|Chase County
+KS|20|15925|Council Grove city|Incorporated Place|A|Morris County
+KS|20|16025|Courtland city|Incorporated Place|A|Republic County
+KS|20|16150|Coyville city|Incorporated Place|A|Wilson County
+KS|20|16625|Cuba city|Incorporated Place|A|Republic County
+KS|20|16675|Cullison city|Incorporated Place|A|Pratt County
+KS|20|16700|Culver city|Incorporated Place|A|Ottawa County
+KS|20|16775|Cunningham city|Incorporated Place|A|Kingman County
+KS|20|16975|Damar city|Incorporated Place|A|Rooks County
+KS|20|17000|Danville city|Incorporated Place|A|Harper County
+KS|20|17150|Dearing city|Incorporated Place|A|Montgomery County
+KS|20|17225|Deerfield city|Incorporated Place|A|Kearny County
+KS|20|17525|Delia city|Incorporated Place|A|Jackson County
+KS|20|17600|Delphos city|Incorporated Place|A|Ottawa County
+KS|20|17625|Denison city|Incorporated Place|A|Jackson County
+KS|20|17750|Denton city|Incorporated Place|A|Doniphan County
+KS|20|17800|Derby city|Incorporated Place|A|Sedgwick County
+KS|20|17850|De Soto city|Incorporated Place|A|Johnson County
+KS|20|17875|Detroit CDP|Census Designated Place|S|Dickinson County
+KS|20|17925|Dexter city|Incorporated Place|A|Cowley County
+KS|20|18050|Dighton city|Incorporated Place|A|Lane County
+KS|20|18250|Dodge City city|Incorporated Place|A|Ford County
+KS|20|18325|Dorrance city|Incorporated Place|A|Russell County
+KS|20|18400|Douglass city|Incorporated Place|A|Butler County
+KS|20|18500|Downs city|Incorporated Place|A|Osborne County
+KS|20|18600|Dresden city|Incorporated Place|A|Decatur County
+KS|20|18950|Dunlap city|Incorporated Place|A|Morris County
+KS|20|19050|Durham city|Incorporated Place|A|Marion County
+KS|20|19125|Dwight city|Incorporated Place|A|Morris County
+KS|20|19275|Earlton city|Incorporated Place|A|Neosho County
+KS|20|19300|Eastborough city|Incorporated Place|A|Sedgwick County
+KS|20|19600|Easton city|Incorporated Place|A|Leavenworth County
+KS|20|19825|Edgerton city|Incorporated Place|A|Johnson County
+KS|20|19875|Edmond city|Incorporated Place|A|Norton County
+KS|20|19900|Edna city|Incorporated Place|A|Labette County
+KS|20|20000|Edwardsville city|Incorporated Place|A|Wyandotte County
+KS|20|20025|Effingham city|Incorporated Place|A|Atchison County
+KS|20|20050|Elbing city|Incorporated Place|A|Butler County
+KS|20|20075|El Dorado city|Incorporated Place|A|Butler County
+KS|20|20125|Elgin city|Incorporated Place|A|Chautauqua County
+KS|20|20250|Elk City city|Incorporated Place|A|Montgomery County
+KS|20|20300|Elk Falls city|Incorporated Place|A|Elk County
+KS|20|20350|Elkhart city|Incorporated Place|A|Morton County
+KS|20|20425|Ellinwood city|Incorporated Place|A|Barton County
+KS|20|20450|Ellis city|Incorporated Place|A|Ellis County
+KS|20|20500|Ellsworth city|Incorporated Place|A|Ellsworth County
+KS|20|20675|Elmdale city|Incorporated Place|A|Chase County
+KS|20|20875|Elsmore city|Incorporated Place|A|Allen County
+KS|20|20950|Elwood city|Incorporated Place|A|Doniphan County
+KS|20|21100|Emmett city|Incorporated Place|A|Pottawatomie County
+KS|20|21275|Emporia city|Incorporated Place|A|Lyon County
+KS|20|21350|Englewood city|Incorporated Place|A|Clark County
+KS|20|21400|Ensign city|Incorporated Place|A|Gray County
+KS|20|21425|Enterprise city|Incorporated Place|A|Dickinson County
+KS|20|21500|Erie city|Incorporated Place|A|Neosho County
+KS|20|21600|Esbon city|Incorporated Place|A|Jewell County
+KS|20|21650|Eskridge city|Incorporated Place|A|Wabaunsee County
+KS|20|21675|Eudora city|Incorporated Place|A|Douglas County
+KS|20|21800|Eureka city|Incorporated Place|A|Greenwood County
+KS|20|22025|Everest city|Incorporated Place|A|Brown County
+KS|20|22425|Fairview city|Incorporated Place|A|Brown County
+KS|20|22700|Fairway city|Incorporated Place|A|Johnson County
+KS|20|22775|Fall River city|Incorporated Place|A|Greenwood County
+KS|20|22900|Falun CDP|Census Designated Place|S|Saline County
+KS|20|23600|Florence city|Incorporated Place|A|Marion County
+KS|20|23650|Fontana city|Incorporated Place|A|Miami County
+KS|20|23725|Ford city|Incorporated Place|A|Ford County
+KS|20|23825|Formoso city|Incorporated Place|A|Jewell County
+KS|20|23890|Fort Dodge CDP|Census Designated Place|S|Ford County
+KS|20|23975|Fort Riley CDP|Census Designated Place|S|Geary County, Riley County
+KS|20|24000|Fort Scott city|Incorporated Place|A|Bourbon County
+KS|20|24175|Fowler city|Incorporated Place|A|Meade County
+KS|20|24275|Frankfort city|Incorporated Place|A|Marshall County
+KS|20|24325|Franklin CDP|Census Designated Place|S|Crawford County
+KS|20|24550|Frederick city|Incorporated Place|A|Rice County
+KS|20|24575|Fredonia city|Incorporated Place|A|Wilson County
+KS|20|24725|Freeport city|Incorporated Place|A|Harper County
+KS|20|24850|Frontenac city|Incorporated Place|A|Crawford County
+KS|20|24925|Fulton city|Incorporated Place|A|Bourbon County
+KS|20|25050|Galatia city|Incorporated Place|A|Barton County
+KS|20|25100|Galena city|Incorporated Place|A|Cherokee County
+KS|20|25150|Galesburg city|Incorporated Place|A|Neosho County
+KS|20|25200|Galva city|Incorporated Place|A|McPherson County
+KS|20|25325|Garden City city|Incorporated Place|A|Finney County
+KS|20|25375|Garden Plain city|Incorporated Place|A|Sedgwick County
+KS|20|25425|Gardner city|Incorporated Place|A|Johnson County
+KS|20|25750|Garfield city|Incorporated Place|A|Pawnee County
+KS|20|25925|Garnett city|Incorporated Place|A|Anderson County
+KS|20|25975|Gas city|Incorporated Place|A|Allen County
+KS|20|26000|Gaylord city|Incorporated Place|A|Smith County
+KS|20|26050|Gem city|Incorporated Place|A|Thomas County
+KS|20|26075|Geneseo city|Incorporated Place|A|Rice County
+KS|20|26200|Geuda Springs city|Incorporated Place|A|Cowley County, Sumner County
+KS|20|26300|Girard city|Incorporated Place|A|Crawford County
+KS|20|26325|Glade city|Incorporated Place|A|Phillips County
+KS|20|26375|Glasco city|Incorporated Place|A|Cloud County
+KS|20|26500|Glen Elder city|Incorporated Place|A|Mitchell County
+KS|20|26725|Goddard city|Incorporated Place|A|Sedgwick County
+KS|20|26750|Goessel city|Incorporated Place|A|Marion County
+KS|20|26775|Goff city|Incorporated Place|A|Nemaha County
+KS|20|26875|Goodland city|Incorporated Place|A|Sherman County
+KS|20|27000|Gorham city|Incorporated Place|A|Russell County
+KS|20|27125|Gove City city|Incorporated Place|A|Gove County
+KS|20|27200|Grainfield city|Incorporated Place|A|Gove County
+KS|20|27425|Grandview Plaza city|Incorporated Place|A|Geary County
+KS|20|28200|Grantville CDP|Census Designated Place|S|Jefferson County
+KS|20|28300|Great Bend city|Incorporated Place|A|Barton County
+KS|20|28350|Greeley city|Incorporated Place|A|Anderson County
+KS|20|28425|Green city|Incorporated Place|A|Clay County
+KS|20|28625|Greenleaf city|Incorporated Place|A|Washington County
+KS|20|28675|Greensburg city|Incorporated Place|A|Kiowa County
+KS|20|28800|Grenola city|Incorporated Place|A|Elk County
+KS|20|28850|Gridley city|Incorporated Place|A|Coffey County
+KS|20|28900|Grinnell city|Incorporated Place|A|Gove County
+KS|20|29250|Gypsum city|Incorporated Place|A|Saline County
+KS|20|29400|Haddam city|Incorporated Place|A|Washington County
+KS|20|29600|Halstead city|Incorporated Place|A|Harvey County
+KS|20|29675|Hamilton city|Incorporated Place|A|Greenwood County
+KS|20|29700|Hamlin city|Incorporated Place|A|Brown County
+KS|20|29875|Hanover city|Incorporated Place|A|Washington County
+KS|20|29925|Hanston city|Incorporated Place|A|Hodgeman County
+KS|20|30000|Hardtner city|Incorporated Place|A|Barber County
+KS|20|30175|Harper city|Incorporated Place|A|Harper County
+KS|20|30250|Harris CDP|Census Designated Place|S|Anderson County
+KS|20|30475|Hartford city|Incorporated Place|A|Lyon County
+KS|20|30575|Harveyville city|Incorporated Place|A|Wabaunsee County
+KS|20|30700|Havana city|Incorporated Place|A|Montgomery County
+KS|20|30725|Haven city|Incorporated Place|A|Reno County
+KS|20|30775|Havensville city|Incorporated Place|A|Pottawatomie County
+KS|20|30825|Haviland city|Incorporated Place|A|Kiowa County
+KS|20|31100|Hays city|Incorporated Place|A|Ellis County
+KS|20|31125|Haysville city|Incorporated Place|A|Sedgwick County
+KS|20|31150|Hazelton city|Incorporated Place|A|Barber County
+KS|20|31200|Healy CDP|Census Designated Place|S|Lane County
+KS|20|31375|Hepler city|Incorporated Place|A|Crawford County
+KS|20|31400|Herington city|Incorporated Place|A|Dickinson County, Morris County
+KS|20|31475|Herndon city|Incorporated Place|A|Rawlins County
+KS|20|31600|Hesston city|Incorporated Place|A|Harvey County
+KS|20|31675|Hiawatha city|Incorporated Place|A|Brown County
+KS|20|31850|Highland city|Incorporated Place|A|Doniphan County
+KS|20|32175|Hill City city|Incorporated Place|A|Graham County
+KS|20|32275|Hillsboro city|Incorporated Place|A|Marion County
+KS|20|32300|Hillsdale CDP|Census Designated Place|S|Miami County
+KS|20|32550|Hoisington city|Incorporated Place|A|Barton County
+KS|20|32575|Holcomb city|Incorporated Place|A|Finney County
+KS|20|32650|Hollenberg city|Incorporated Place|A|Washington County
+KS|20|32825|Holton city|Incorporated Place|A|Jackson County
+KS|20|32850|Holyrood city|Incorporated Place|A|Ellsworth County
+KS|20|32875|Home CDP|Census Designated Place|S|Marshall County
+KS|20|33075|Hope city|Incorporated Place|A|Dickinson County
+KS|20|33150|Horace city|Incorporated Place|A|Greeley County
+KS|20|33200|Horton city|Incorporated Place|A|Brown County
+KS|20|33250|Howard city|Incorporated Place|A|Elk County
+KS|20|33350|Hoxie city|Incorporated Place|A|Sheridan County
+KS|20|33375|Hoyt city|Incorporated Place|A|Jackson County
+KS|20|33400|Hudson city|Incorporated Place|A|Stafford County
+KS|20|33425|Hugoton city|Incorporated Place|A|Stevens County
+KS|20|33450|Humboldt city|Incorporated Place|A|Allen County
+KS|20|33500|Hunnewell city|Incorporated Place|A|Sumner County
+KS|20|33525|Hunter city|Incorporated Place|A|Mitchell County
+KS|20|33575|Huron city|Incorporated Place|A|Atchison County
+KS|20|33625|Hutchinson city|Incorporated Place|A|Reno County
+KS|20|33875|Independence city|Incorporated Place|A|Montgomery County
+KS|20|34225|Ingalls city|Incorporated Place|A|Gray County
+KS|20|34275|Inman city|Incorporated Place|A|McPherson County
+KS|20|34300|Iola city|Incorporated Place|A|Allen County
+KS|20|34550|Isabel city|Incorporated Place|A|Barber County
+KS|20|34625|Iuka city|Incorporated Place|A|Pratt County
+KS|20|34975|Jamestown city|Incorporated Place|A|Cloud County
+KS|20|35375|Jennings city|Incorporated Place|A|Decatur County
+KS|20|35450|Jetmore city|Incorporated Place|A|Hodgeman County
+KS|20|35475|Jewell city|Incorporated Place|A|Jewell County
+KS|20|35600|Johnson City city|Incorporated Place|A|Stanton County
+KS|20|35750|Junction City city|Incorporated Place|A|Geary County
+KS|20|35950|Kanopolis city|Incorporated Place|A|Ellsworth County
+KS|20|35975|Kanorado city|Incorporated Place|A|Sherman County
+KS|20|36000|Kansas City city|Incorporated Place|A|Wyandotte County
+KS|20|36225|Kechi city|Incorporated Place|A|Sedgwick County
+KS|20|36550|Kensington city|Incorporated Place|A|Smith County
+KS|20|36735|Kickapoo Site 1 CDP|Census Designated Place|S|Brown County
+KS|20|36736|Kickapoo Site 2 CDP|Census Designated Place|S|Brown County
+KS|20|36739|Kickapoo Site 5 CDP|Census Designated Place|S|Brown County
+KS|20|36740|Kickapoo Site 6 CDP|Census Designated Place|S|Brown County
+KS|20|36741|Kickapoo Site 7 CDP|Census Designated Place|S|Brown County
+KS|20|36744|Kickapoo Tribal Center CDP|Census Designated Place|S|Brown County
+KS|20|36875|Kincaid city|Incorporated Place|A|Anderson County
+KS|20|36950|Kingman city|Incorporated Place|A|Kingman County
+KS|20|37075|Kinsley city|Incorporated Place|A|Edwards County
+KS|20|37125|Kiowa city|Incorporated Place|A|Barber County
+KS|20|37200|Kipp CDP|Census Designated Place|S|Saline County
+KS|20|37275|Kirwin city|Incorporated Place|A|Phillips County
+KS|20|37325|Kismet city|Incorporated Place|A|Seward County
+KS|20|37375|Labette city|Incorporated Place|A|Labette County
+KS|20|37500|La Crosse city|Incorporated Place|A|Rush County
+KS|20|37575|La Cygne city|Incorporated Place|A|Linn County
+KS|20|37725|La Harpe city|Incorporated Place|A|Allen County
+KS|20|37975|Lake Quivira city|Incorporated Place|A|Johnson County, Wyandotte County
+KS|20|38175|Lakin city|Incorporated Place|A|Kearny County
+KS|20|38325|Lancaster city|Incorporated Place|A|Atchison County
+KS|20|38400|Lane city|Incorporated Place|A|Franklin County
+KS|20|38500|Langdon city|Incorporated Place|A|Reno County
+KS|20|38650|Lansing city|Incorporated Place|A|Leavenworth County
+KS|20|38700|Larned city|Incorporated Place|A|Pawnee County
+KS|20|38775|Latham city|Incorporated Place|A|Butler County
+KS|20|38800|Latimer city|Incorporated Place|A|Morris County
+KS|20|38900|Lawrence city|Incorporated Place|A|Douglas County
+KS|20|39000|Leavenworth city|Incorporated Place|A|Leavenworth County
+KS|20|39075|Leawood city|Incorporated Place|A|Johnson County
+KS|20|39100|Lebanon city|Incorporated Place|A|Smith County
+KS|20|39125|Lebo city|Incorporated Place|A|Coffey County
+KS|20|39150|Lecompton city|Incorporated Place|A|Douglas County
+KS|20|39225|Lehigh city|Incorporated Place|A|Marion County
+KS|20|39350|Lenexa city|Incorporated Place|A|Johnson County
+KS|20|39400|Lenora city|Incorporated Place|A|Norton County
+KS|20|39450|Leon city|Incorporated Place|A|Butler County
+KS|20|39475|Leona city|Incorporated Place|A|Doniphan County
+KS|20|39500|Leonardville city|Incorporated Place|A|Riley County
+KS|20|39550|Leoti city|Incorporated Place|A|Wichita County
+KS|20|39650|LeRoy city|Incorporated Place|A|Coffey County
+KS|20|39700|Levant CDP|Census Designated Place|S|Thomas County
+KS|20|39725|Lewis city|Incorporated Place|A|Edwards County
+KS|20|39825|Liberal city|Incorporated Place|A|Seward County
+KS|20|40250|Liberty city|Incorporated Place|A|Montgomery County
+KS|20|40400|Liebenthal city|Incorporated Place|A|Rush County
+KS|20|41300|Lincoln Center city|Incorporated Place|A|Lincoln County
+KS|20|41325|Lincolnville city|Incorporated Place|A|Marion County
+KS|20|41375|Lindsborg city|Incorporated Place|A|McPherson County
+KS|20|41425|Linn city|Incorporated Place|A|Washington County
+KS|20|41465|Linn Valley city|Incorporated Place|A|Linn County
+KS|20|41475|Linwood city|Incorporated Place|A|Leavenworth County
+KS|20|41575|Little River city|Incorporated Place|A|Rice County
+KS|20|42100|Logan city|Incorporated Place|A|Phillips County
+KS|20|42425|Lone Elm city|Incorporated Place|A|Anderson County
+KS|20|42575|Longford city|Incorporated Place|A|Clay County
+KS|20|42600|Long Island city|Incorporated Place|A|Phillips County
+KS|20|42650|Longton city|Incorporated Place|A|Elk County
+KS|20|42800|Lorraine city|Incorporated Place|A|Ellsworth County
+KS|20|42825|Lost Springs city|Incorporated Place|A|Marion County
+KS|20|42875|Louisburg city|Incorporated Place|A|Miami County
+KS|20|42925|Louisville city|Incorporated Place|A|Pottawatomie County
+KS|20|43050|Lowell CDP|Census Designated Place|S|Cherokee County
+KS|20|43150|Lucas city|Incorporated Place|A|Russell County
+KS|20|43250|Luray city|Incorporated Place|A|Russell County
+KS|20|43350|Lyndon city|Incorporated Place|A|Osage County
+KS|20|43525|Lyons city|Incorporated Place|A|Rice County
+KS|20|43675|McConnell AFB CDP|Census Designated Place|S|Sedgwick County
+KS|20|43700|McCracken city|Incorporated Place|A|Rush County
+KS|20|43725|McCune city|Incorporated Place|A|Crawford County
+KS|20|43750|McDonald city|Incorporated Place|A|Rawlins County
+KS|20|43775|McFarland city|Incorporated Place|A|Wabaunsee County
+KS|20|43850|Macksville city|Incorporated Place|A|Stafford County
+KS|20|43900|McLouth city|Incorporated Place|A|Jefferson County
+KS|20|43950|McPherson city|Incorporated Place|A|McPherson County
+KS|20|44050|Madison city|Incorporated Place|A|Greenwood County
+KS|20|44150|Mahaska city|Incorporated Place|A|Washington County
+KS|20|44200|Maize city|Incorporated Place|A|Sedgwick County
+KS|20|44225|Manchester city|Incorporated Place|A|Dickinson County
+KS|20|44250|Manhattan city|Incorporated Place|A|Pottawatomie County, Riley County
+KS|20|44300|Mankato city|Incorporated Place|A|Jewell County
+KS|20|44375|Manter city|Incorporated Place|A|Stanton County
+KS|20|44500|Maple Hill city|Incorporated Place|A|Wabaunsee County
+KS|20|44550|Mapleton city|Incorporated Place|A|Bourbon County
+KS|20|44600|Marienthal CDP|Census Designated Place|S|Wichita County
+KS|20|44750|Marion city|Incorporated Place|A|Marion County
+KS|20|44925|Marquette city|Incorporated Place|A|McPherson County
+KS|20|45050|Marysville city|Incorporated Place|A|Marshall County
+KS|20|45150|Matfield Green city|Incorporated Place|A|Chase County
+KS|20|45250|Mayetta city|Incorporated Place|A|Jackson County
+KS|20|45275|Mayfield city|Incorporated Place|A|Sumner County
+KS|20|45325|Meade city|Incorporated Place|A|Meade County
+KS|20|45500|Medicine Lodge city|Incorporated Place|A|Barber County
+KS|20|45700|Melvern city|Incorporated Place|A|Osage County
+KS|20|45750|Menlo city|Incorporated Place|A|Thomas County
+KS|20|45950|Meriden city|Incorporated Place|A|Jefferson County
+KS|20|46000|Merriam city|Incorporated Place|A|Johnson County
+KS|20|46450|Milan city|Incorporated Place|A|Sumner County
+KS|20|46500|Mildred city|Incorporated Place|A|Allen County
+KS|20|46525|Milford city|Incorporated Place|A|Geary County
+KS|20|46925|Milton CDP|Census Designated Place|S|Sumner County
+KS|20|46950|Miltonvale city|Incorporated Place|A|Cloud County
+KS|20|47075|Minneapolis city|Incorporated Place|A|Ottawa County
+KS|20|47150|Minneola city|Incorporated Place|A|Clark County
+KS|20|47225|Mission city|Incorporated Place|A|Johnson County
+KS|20|47350|Mission Hills city|Incorporated Place|A|Johnson County
+KS|20|47425|Mission Woods city|Incorporated Place|A|Johnson County
+KS|20|47600|Moline city|Incorporated Place|A|Elk County
+KS|20|47875|Montezuma city|Incorporated Place|A|Gray County
+KS|20|48125|Moran city|Incorporated Place|A|Allen County
+KS|20|48225|Morganville city|Incorporated Place|A|Clay County
+KS|20|48275|Morland city|Incorporated Place|A|Graham County
+KS|20|48300|Morrill city|Incorporated Place|A|Brown County
+KS|20|48450|Morrowville city|Incorporated Place|A|Washington County
+KS|20|48600|Moscow city|Incorporated Place|A|Stevens County
+KS|20|48750|Mound City city|Incorporated Place|A|Linn County
+KS|20|48800|Moundridge city|Incorporated Place|A|McPherson County
+KS|20|48825|Mound Valley city|Incorporated Place|A|Labette County
+KS|20|48900|Mount Hope city|Incorporated Place|A|Sedgwick County
+KS|20|49025|Mulberry city|Incorporated Place|A|Crawford County
+KS|20|49075|Mullinville city|Incorporated Place|A|Kiowa County
+KS|20|49100|Mulvane city|Incorporated Place|A|Sedgwick County, Sumner County
+KS|20|49150|Munden city|Incorporated Place|A|Republic County
+KS|20|49200|Munjor CDP|Census Designated Place|S|Ellis County
+KS|20|49325|Muscotah city|Incorporated Place|A|Atchison County
+KS|20|49350|Narka city|Incorporated Place|A|Republic County
+KS|20|49400|Nashville city|Incorporated Place|A|Kingman County
+KS|20|49425|Natoma city|Incorporated Place|A|Osborne County
+KS|20|49650|Neodesha city|Incorporated Place|A|Wilson County
+KS|20|49825|Neosho Falls city|Incorporated Place|A|Woodson County
+KS|20|49875|Neosho Rapids city|Incorporated Place|A|Lyon County
+KS|20|49925|Ness City city|Incorporated Place|A|Ness County
+KS|20|49950|Netawaka city|Incorporated Place|A|Jackson County
+KS|20|50150|New Albany city|Incorporated Place|A|Wilson County
+KS|20|50300|New Cambria city|Incorporated Place|A|Saline County
+KS|20|50450|New Strawn city|Incorporated Place|A|Coffey County
+KS|20|50475|Newton city|Incorporated Place|A|Harvey County
+KS|20|50525|Nickerson city|Incorporated Place|A|Reno County
+KS|20|50750|Niotaze city|Incorporated Place|A|Chautauqua County
+KS|20|50925|Norcatur city|Incorporated Place|A|Decatur County
+KS|20|51225|North Newton city|Incorporated Place|A|Harvey County
+KS|20|51500|Norton city|Incorporated Place|A|Norton County
+KS|20|51525|Nortonville city|Incorporated Place|A|Jefferson County
+KS|20|51600|Norwich city|Incorporated Place|A|Kingman County
+KS|20|51700|Oak Hill city|Incorporated Place|A|Clay County
+KS|20|51810|Oaklawn-Sunview CDP|Census Designated Place|S|Sedgwick County
+KS|20|51825|Oakley city|Incorporated Place|A|Gove County, Logan County, Thomas County
+KS|20|52000|Oberlin city|Incorporated Place|A|Decatur County
+KS|20|52175|Odin CDP|Census Designated Place|S|Barton County
+KS|20|52200|Offerle city|Incorporated Place|A|Edwards County
+KS|20|52275|Ogden city|Incorporated Place|A|Riley County
+KS|20|52525|Oketo city|Incorporated Place|A|Marshall County
+KS|20|52575|Olathe city|Incorporated Place|A|Johnson County
+KS|20|52700|Olivet city|Incorporated Place|A|Osage County
+KS|20|52750|Olmitz city|Incorporated Place|A|Barton County
+KS|20|52800|Olpe city|Incorporated Place|A|Lyon County
+KS|20|52825|Olsburg city|Incorporated Place|A|Pottawatomie County
+KS|20|52875|Onaga city|Incorporated Place|A|Pottawatomie County
+KS|20|52900|Oneida city|Incorporated Place|A|Nemaha County
+KS|20|53200|Osage City city|Incorporated Place|A|Osage County
+KS|20|53225|Osawatomie city|Incorporated Place|A|Miami County
+KS|20|53325|Osborne city|Incorporated Place|A|Osborne County
+KS|20|53375|Oskaloosa city|Incorporated Place|A|Jefferson County
+KS|20|53450|Oswego city|Incorporated Place|A|Labette County
+KS|20|53525|Otis city|Incorporated Place|A|Rush County
+KS|20|53550|Ottawa city|Incorporated Place|A|Franklin County
+KS|20|53725|Overbrook city|Incorporated Place|A|Osage County
+KS|20|53775|Overland Park city|Incorporated Place|A|Johnson County
+KS|20|53850|Oxford city|Incorporated Place|A|Sumner County
+KS|20|53925|Ozawkie city|Incorporated Place|A|Jefferson County
+KS|20|54125|Palco city|Incorporated Place|A|Rooks County
+KS|20|54200|Palmer city|Incorporated Place|A|Washington County
+KS|20|54250|Paola city|Incorporated Place|A|Miami County
+KS|20|54325|Paradise city|Incorporated Place|A|Russell County
+KS|20|54400|Park city|Incorporated Place|A|Gove County
+KS|20|54450|Park City city|Incorporated Place|A|Sedgwick County
+KS|20|54500|Parker city|Incorporated Place|A|Linn County
+KS|20|54560|Parkerfield city|Incorporated Place|A|Cowley County
+KS|20|54575|Parkerville city|Incorporated Place|A|Morris County
+KS|20|54675|Parsons city|Incorporated Place|A|Labette County
+KS|20|54700|Partridge city|Incorporated Place|A|Reno County
+KS|20|54875|Pawnee Rock city|Incorporated Place|A|Barton County
+KS|20|54950|Paxico city|Incorporated Place|A|Wabaunsee County
+KS|20|55100|Peabody city|Incorporated Place|A|Marion County
+KS|20|55225|Penalosa city|Incorporated Place|A|Kingman County
+KS|20|55450|Perry city|Incorporated Place|A|Jefferson County
+KS|20|55525|Peru city|Incorporated Place|A|Chautauqua County
+KS|20|55675|Phillipsburg city|Incorporated Place|A|Phillips County
+KS|20|56000|Piqua CDP|Census Designated Place|S|Woodson County
+KS|20|56025|Pittsburg city|Incorporated Place|A|Crawford County
+KS|20|56100|Plains city|Incorporated Place|A|Meade County
+KS|20|56150|Plainville city|Incorporated Place|A|Rooks County
+KS|20|56450|Pleasanton city|Incorporated Place|A|Linn County
+KS|20|56725|Plevna city|Incorporated Place|A|Reno County
+KS|20|57000|Pomona city|Incorporated Place|A|Franklin County
+KS|20|57100|Portis city|Incorporated Place|A|Osborne County
+KS|20|57300|Potwin city|Incorporated Place|A|Butler County
+KS|20|57350|Powhattan city|Incorporated Place|A|Brown County
+KS|20|57525|Prairie View city|Incorporated Place|A|Phillips County
+KS|20|57575|Prairie Village city|Incorporated Place|A|Johnson County
+KS|20|57625|Pratt city|Incorporated Place|A|Pratt County
+KS|20|57650|Prescott city|Incorporated Place|A|Linn County
+KS|20|57675|Preston city|Incorporated Place|A|Pratt County
+KS|20|57700|Pretty Prairie city|Incorporated Place|A|Reno County
+KS|20|57725|Princeton city|Incorporated Place|A|Franklin County
+KS|20|57850|Protection city|Incorporated Place|A|Comanche County
+KS|20|58100|Quenemo city|Incorporated Place|A|Osage County
+KS|20|58250|Quinter city|Incorporated Place|A|Gove County
+KS|20|58300|Radium city|Incorporated Place|A|Stafford County
+KS|20|58375|Ramona city|Incorporated Place|A|Marion County
+KS|20|58450|Randall city|Incorporated Place|A|Jewell County
+KS|20|58475|Randolph city|Incorporated Place|A|Riley County
+KS|20|58500|Ransom city|Incorporated Place|A|Ness County
+KS|20|58525|Rantoul city|Incorporated Place|A|Franklin County
+KS|20|58550|Raymond city|Incorporated Place|A|Rice County
+KS|20|58600|Reading city|Incorporated Place|A|Lyon County
+KS|20|58725|Redfield city|Incorporated Place|A|Bourbon County
+KS|20|59000|Republic city|Incorporated Place|A|Republic County
+KS|20|59050|Reserve city|Incorporated Place|A|Brown County
+KS|20|59125|Rexford city|Incorporated Place|A|Thomas County
+KS|20|59200|Richfield city|Incorporated Place|A|Morton County
+KS|20|59675|Richmond city|Incorporated Place|A|Franklin County
+KS|20|59875|Riley city|Incorporated Place|A|Riley County
+KS|20|60200|Riverton CDP|Census Designated Place|S|Cherokee County
+KS|20|60325|Robinson city|Incorporated Place|A|Brown County
+KS|20|60825|Roeland Park city|Incorporated Place|A|Johnson County
+KS|20|60900|Rolla city|Incorporated Place|A|Morton County
+KS|20|61100|Rosalia CDP|Census Designated Place|S|Butler County
+KS|20|61250|Rose Hill city|Incorporated Place|A|Butler County
+KS|20|61275|Roseland city|Incorporated Place|A|Cherokee County
+KS|20|61400|Rossville city|Incorporated Place|A|Shawnee County
+KS|20|61550|Roxbury CDP|Census Designated Place|S|McPherson County
+KS|20|61600|Rozel city|Incorporated Place|A|Pawnee County
+KS|20|61775|Rush Center city|Incorporated Place|A|Rush County
+KS|20|61825|Russell city|Incorporated Place|A|Russell County
+KS|20|61875|Russell Springs city|Incorporated Place|A|Logan County
+KS|20|62025|Sabetha city|Incorporated Place|A|Brown County, Nemaha County
+KS|20|62175|St. Francis city|Incorporated Place|A|Cheyenne County
+KS|20|62200|St. George city|Incorporated Place|A|Pottawatomie County
+KS|20|62275|St. John city|Incorporated Place|A|Stafford County
+KS|20|62400|St. Marys city|Incorporated Place|A|Pottawatomie County, Wabaunsee County
+KS|20|62500|St. Paul city|Incorporated Place|A|Neosho County
+KS|20|62700|Salina city|Incorporated Place|A|Saline County
+KS|20|63150|Satanta city|Incorporated Place|A|Haskell County
+KS|20|63200|Savonburg city|Incorporated Place|A|Allen County
+KS|20|63275|Sawyer city|Incorporated Place|A|Pratt County
+KS|20|63325|Scammon city|Incorporated Place|A|Cherokee County
+KS|20|63350|Scandia city|Incorporated Place|A|Republic County
+KS|20|63425|Schoenchen city|Incorporated Place|A|Ellis County
+KS|20|63600|Scott City city|Incorporated Place|A|Scott County
+KS|20|63650|Scottsville city|Incorporated Place|A|Mitchell County
+KS|20|63675|Scranton city|Incorporated Place|A|Osage County
+KS|20|63750|Sedan city|Incorporated Place|A|Chautauqua County
+KS|20|63800|Sedgwick city|Incorporated Place|A|Harvey County, Sedgwick County
+KS|20|63875|Selden city|Incorporated Place|A|Sheridan County
+KS|20|63950|Seneca city|Incorporated Place|A|Nemaha County
+KS|20|64025|Severance city|Incorporated Place|A|Doniphan County
+KS|20|64050|Severy city|Incorporated Place|A|Greenwood County
+KS|20|64100|Seward city|Incorporated Place|A|Stafford County
+KS|20|64325|Sharon city|Incorporated Place|A|Barber County
+KS|20|64375|Sharon Springs city|Incorporated Place|A|Wallace County
+KS|20|64500|Shawnee city|Incorporated Place|A|Johnson County
+KS|20|65600|Silver Lake city|Incorporated Place|A|Shawnee County
+KS|20|65650|Simpson city|Incorporated Place|A|Cloud County, Mitchell County
+KS|20|65925|Smith Center city|Incorporated Place|A|Smith County
+KS|20|66100|Smolan city|Incorporated Place|A|Saline County
+KS|20|66175|Soldier city|Incorporated Place|A|Jackson County
+KS|20|66275|Solomon city|Incorporated Place|A|Dickinson County, Saline County
+KS|20|66650|South Haven city|Incorporated Place|A|Sumner County
+KS|20|66750|South Hutchinson city|Incorporated Place|A|Reno County
+KS|20|67125|Spearville city|Incorporated Place|A|Ford County
+KS|20|67175|Speed city|Incorporated Place|A|Phillips County
+KS|20|67250|Spivey city|Incorporated Place|A|Kingman County
+KS|20|67625|Spring Hill city|Incorporated Place|A|Johnson County, Miami County
+KS|20|67775|Stafford city|Incorporated Place|A|Stafford County
+KS|20|68025|Stark city|Incorporated Place|A|Neosho County
+KS|20|68200|Sterling city|Incorporated Place|A|Rice County
+KS|20|68350|Stockton city|Incorporated Place|A|Rooks County
+KS|20|68650|Strong City city|Incorporated Place|A|Chase County
+KS|20|68775|Sublette city|Incorporated Place|A|Haskell County
+KS|20|68950|Summerfield city|Incorporated Place|A|Marshall County
+KS|20|69275|Sun City city|Incorporated Place|A|Barber County
+KS|20|69525|Susank city|Incorporated Place|A|Barton County
+KS|20|69775|Sylvan Grove city|Incorporated Place|A|Lincoln County
+KS|20|69800|Sylvia city|Incorporated Place|A|Reno County
+KS|20|69850|Syracuse city|Incorporated Place|A|Hamilton County
+KS|20|69925|Talmage CDP|Census Designated Place|S|Dickinson County
+KS|20|70000|Tampa city|Incorporated Place|A|Marion County
+KS|20|70250|Tescott city|Incorporated Place|A|Ottawa County
+KS|20|70300|Thayer city|Incorporated Place|A|Neosho County
+KS|20|70625|Timken city|Incorporated Place|A|Rush County
+KS|20|70675|Tipton city|Incorporated Place|A|Mitchell County
+KS|20|70800|Tonganoxie city|Incorporated Place|A|Leavenworth County
+KS|20|71000|Topeka city|Incorporated Place|A|Shawnee County
+KS|20|71050|Toronto city|Incorporated Place|A|Woodson County
+KS|20|71125|Towanda city|Incorporated Place|A|Butler County
+KS|20|71350|Treece city|Incorporated Place|A|Cherokee County
+KS|20|71450|Tribune city|Incorporated Place|A|Greeley County
+KS|20|71575|Troy city|Incorporated Place|A|Doniphan County
+KS|20|71800|Turon city|Incorporated Place|A|Reno County
+KS|20|71925|Tyro city|Incorporated Place|A|Montgomery County
+KS|20|71950|Udall city|Incorporated Place|A|Cowley County
+KS|20|71975|Ulysses city|Incorporated Place|A|Grant County
+KS|20|72525|Uniontown city|Incorporated Place|A|Bourbon County
+KS|20|72650|Utica city|Incorporated Place|A|Ness County
+KS|20|73250|Valley Center city|Incorporated Place|A|Sedgwick County
+KS|20|73300|Valley Falls city|Incorporated Place|A|Jefferson County
+KS|20|73450|Vassar CDP|Census Designated Place|S|Osage County
+KS|20|73525|Vermillion city|Incorporated Place|A|Marshall County
+KS|20|73775|Victoria city|Incorporated Place|A|Ellis County
+KS|20|73950|Vining city|Incorporated Place|A|Clay County, Washington County
+KS|20|74025|Viola city|Incorporated Place|A|Sedgwick County
+KS|20|74075|Virgil city|Incorporated Place|A|Greenwood County
+KS|20|74425|Wakarusa CDP|Census Designated Place|S|Shawnee County
+KS|20|74450|WaKeeney city|Incorporated Place|A|Trego County
+KS|20|74525|Wakefield city|Incorporated Place|A|Clay County
+KS|20|74575|Waldo city|Incorporated Place|A|Russell County
+KS|20|74625|Waldron city|Incorporated Place|A|Harper County
+KS|20|74750|Wallace city|Incorporated Place|A|Wallace County
+KS|20|74950|Walnut city|Incorporated Place|A|Crawford County
+KS|20|75200|Walton city|Incorporated Place|A|Harvey County
+KS|20|75325|Wamego city|Incorporated Place|A|Pottawatomie County, Wabaunsee County
+KS|20|75825|Washington city|Incorporated Place|A|Washington County
+KS|20|75950|Waterville city|Incorporated Place|A|Marshall County
+KS|20|76000|Wathena city|Incorporated Place|A|Doniphan County
+KS|20|76050|Waverly city|Incorporated Place|A|Coffey County
+KS|20|76250|Webber city|Incorporated Place|A|Jewell County
+KS|20|76350|Weir city|Incorporated Place|A|Cherokee County
+KS|20|76425|Welda CDP|Census Designated Place|S|Anderson County
+KS|20|76475|Wellington city|Incorporated Place|A|Sumner County
+KS|20|76625|Wellsville city|Incorporated Place|A|Franklin County
+KS|20|76675|Weskan CDP|Census Designated Place|S|Wallace County
+KS|20|77150|West Mineral city|Incorporated Place|A|Cherokee County
+KS|20|77200|Westmoreland city|Incorporated Place|A|Pottawatomie County
+KS|20|77250|Westphalia city|Incorporated Place|A|Anderson County
+KS|20|77500|Westwood city|Incorporated Place|A|Johnson County
+KS|20|77525|Westwood Hills city|Incorporated Place|A|Johnson County
+KS|20|77550|Wetmore city|Incorporated Place|A|Nemaha County
+KS|20|77700|Wheaton city|Incorporated Place|A|Pottawatomie County
+KS|20|77825|White City city|Incorporated Place|A|Morris County
+KS|20|77850|White Cloud city|Incorporated Place|A|Doniphan County
+KS|20|78050|Whitewater city|Incorporated Place|A|Butler County
+KS|20|78100|Whiting city|Incorporated Place|A|Jackson County
+KS|20|79000|Wichita city|Incorporated Place|A|Sedgwick County
+KS|20|79250|Willard city|Incorporated Place|A|Shawnee County, Wabaunsee County
+KS|20|79300|Williamsburg city|Incorporated Place|A|Franklin County
+KS|20|79400|Willis city|Incorporated Place|A|Brown County
+KS|20|79425|Willowbrook city|Incorporated Place|A|Reno County
+KS|20|79550|Wilmore city|Incorporated Place|A|Comanche County
+KS|20|79625|Wilroads Gardens CDP|Census Designated Place|S|Ford County
+KS|20|79650|Wilsey city|Incorporated Place|A|Morris County
+KS|20|79675|Wilson city|Incorporated Place|A|Ellsworth County
+KS|20|79800|Winchester city|Incorporated Place|A|Jefferson County
+KS|20|79850|Windom city|Incorporated Place|A|McPherson County
+KS|20|79950|Winfield city|Incorporated Place|A|Cowley County
+KS|20|80075|Winona city|Incorporated Place|A|Logan County
+KS|20|80350|Woodbine city|Incorporated Place|A|Dickinson County
+KS|20|80450|Woodston city|Incorporated Place|A|Rooks County
+KS|20|80500|Wright CDP|Census Designated Place|S|Ford County
+KS|20|80700|Yates Center city|Incorporated Place|A|Woodson County
+KS|20|80750|Yoder CDP|Census Designated Place|S|Reno County
+KS|20|80925|Zenda city|Incorporated Place|A|Kingman County
+KS|20|81025|Zurich city|Incorporated Place|A|Rooks County

@@ -1,0 +1,356 @@
+NH|33|00000|County Subdivisions not defined|County Subdivision|F|Rockingham County
+NH|33|00260|Acworth town|County Subdivision|A|Sullivan County
+NH|33|00420|Albany town|County Subdivision|A|Carroll County
+NH|33|00580|Alexandria town|County Subdivision|A|Grafton County
+NH|33|00660|Allenstown town|County Subdivision|A|Merrimack County
+NH|33|00820|Alstead town|County Subdivision|A|Cheshire County
+NH|33|00980|Alton CDP|Census Designated Place|S|Belknap County
+NH|33|01060|Alton town|County Subdivision|A|Belknap County
+NH|33|01220|Amherst CDP|Census Designated Place|S|Hillsborough County
+NH|33|01300|Amherst town|County Subdivision|A|Hillsborough County
+NH|33|01460|Andover town|County Subdivision|A|Merrimack County
+NH|33|01620|Antrim CDP|Census Designated Place|S|Hillsborough County
+NH|33|01700|Antrim town|County Subdivision|A|Hillsborough County
+NH|33|01940|Ashland CDP|Census Designated Place|S|Grafton County
+NH|33|02020|Ashland town|County Subdivision|A|Grafton County
+NH|33|02340|Atkinson town|County Subdivision|A|Rockingham County
+NH|33|02420|Atkinson and Gilmanton Academy grant|County Subdivision|N|Coos County
+NH|33|02820|Auburn town|County Subdivision|A|Rockingham County
+NH|33|03220|Barnstead town|County Subdivision|A|Belknap County
+NH|33|03460|Barrington town|County Subdivision|A|Strafford County
+NH|33|03620|Bartlett CDP|Census Designated Place|S|Carroll County
+NH|33|03700|Bartlett town|County Subdivision|A|Carroll County
+NH|33|03940|Bath town|County Subdivision|A|Grafton County
+NH|33|04100|Beans grant|County Subdivision|N|Coos County
+NH|33|04260|Beans purchase|County Subdivision|N|Coos County
+NH|33|04500|Bedford town|County Subdivision|A|Hillsborough County
+NH|33|04660|Belmont CDP|Census Designated Place|S|Belknap County
+NH|33|04740|Belmont town|County Subdivision|A|Belknap County
+NH|33|04820|Bennington CDP|Census Designated Place|S|Hillsborough County
+NH|33|04900|Bennington town|County Subdivision|A|Hillsborough County
+NH|33|05060|Benton town|County Subdivision|A|Grafton County
+NH|33|05140|Berlin city|County Subdivision|F|Coos County
+NH|33|05140|Berlin city|Incorporated Place|A|Coos County
+NH|33|05380|Bethlehem CDP|Census Designated Place|S|Grafton County
+NH|33|05460|Bethlehem town|County Subdivision|A|Grafton County
+NH|33|06020|Blodgett Landing CDP|Census Designated Place|S|Merrimack County
+NH|33|06260|Boscawen town|County Subdivision|A|Merrimack County
+NH|33|06500|Bow town|County Subdivision|A|Merrimack County
+NH|33|06900|Bradford CDP|Census Designated Place|S|Merrimack County
+NH|33|06980|Bradford town|County Subdivision|A|Merrimack County
+NH|33|07220|Brentwood town|County Subdivision|A|Rockingham County
+NH|33|07540|Bridgewater town|County Subdivision|A|Grafton County
+NH|33|07620|Bristol CDP|Census Designated Place|S|Grafton County
+NH|33|07700|Bristol town|County Subdivision|A|Grafton County
+NH|33|07940|Brookfield town|County Subdivision|A|Carroll County
+NH|33|08100|Brookline town|County Subdivision|A|Hillsborough County
+NH|33|08420|Cambridge township|County Subdivision|N|Coos County
+NH|33|08660|Campton town|County Subdivision|A|Grafton County
+NH|33|08900|Canaan CDP|Census Designated Place|S|Grafton County
+NH|33|08980|Canaan town|County Subdivision|A|Grafton County
+NH|33|09300|Candia town|County Subdivision|A|Rockingham County
+NH|33|09860|Canterbury town|County Subdivision|A|Merrimack County
+NH|33|10100|Carroll town|County Subdivision|A|Coos County
+NH|33|10660|Center Harbor town|County Subdivision|A|Belknap County
+NH|33|10820|Center Ossipee CDP|Census Designated Place|S|Carroll County
+NH|33|10900|Center Sandwich CDP|Census Designated Place|S|Carroll County
+NH|33|11220|Chandlers purchase|County Subdivision|N|Coos County
+NH|33|11300|Charlestown CDP|Census Designated Place|S|Sullivan County
+NH|33|11380|Charlestown town|County Subdivision|A|Sullivan County
+NH|33|11780|Chatham town|County Subdivision|A|Carroll County
+NH|33|12100|Chester town|County Subdivision|A|Rockingham County
+NH|33|12260|Chesterfield town|County Subdivision|A|Cheshire County
+NH|33|12420|Chichester town|County Subdivision|A|Merrimack County
+NH|33|12900|Claremont city|County Subdivision|F|Sullivan County
+NH|33|12900|Claremont city|Incorporated Place|A|Sullivan County
+NH|33|13220|Clarksville town|County Subdivision|A|Coos County
+NH|33|13700|Colebrook CDP|Census Designated Place|S|Coos County
+NH|33|13780|Colebrook town|County Subdivision|A|Coos County
+NH|33|13940|Columbia town|County Subdivision|A|Coos County
+NH|33|14200|Concord city|County Subdivision|F|Merrimack County
+NH|33|14200|Concord city|Incorporated Place|A|Merrimack County
+NH|33|14340|Contoocook CDP|Census Designated Place|S|Merrimack County
+NH|33|14580|Conway CDP|Census Designated Place|S|Carroll County
+NH|33|14660|Conway town|County Subdivision|A|Carroll County
+NH|33|15060|Cornish town|County Subdivision|A|Sullivan County
+NH|33|16100|Crawfords purchase|County Subdivision|N|Coos County
+NH|33|16340|Croydon town|County Subdivision|A|Sullivan County
+NH|33|16660|Cutts grant|County Subdivision|N|Coos County
+NH|33|16820|Dalton town|County Subdivision|A|Coos County
+NH|33|16980|Danbury town|County Subdivision|A|Merrimack County
+NH|33|17140|Danville town|County Subdivision|A|Rockingham County
+NH|33|17460|Deerfield town|County Subdivision|A|Rockingham County
+NH|33|17780|Deering town|County Subdivision|A|Hillsborough County
+NH|33|17860|Derry CDP|Census Designated Place|S|Rockingham County
+NH|33|17940|Derry town|County Subdivision|A|Rockingham County
+NH|33|18340|Dixs grant|County Subdivision|N|Coos County
+NH|33|18420|Dixville township|County Subdivision|N|Coos County
+NH|33|18740|Dorchester town|County Subdivision|A|Grafton County
+NH|33|18820|Dover city|County Subdivision|F|Strafford County
+NH|33|18820|Dover city|Incorporated Place|A|Strafford County
+NH|33|19140|Dublin town|County Subdivision|A|Cheshire County
+NH|33|19300|Dummer town|County Subdivision|A|Coos County
+NH|33|19460|Dunbarton town|County Subdivision|A|Merrimack County
+NH|33|19620|Durham CDP|Census Designated Place|S|Strafford County
+NH|33|19700|Durham town|County Subdivision|A|Strafford County
+NH|33|21380|East Kingston town|County Subdivision|A|Rockingham County
+NH|33|21780|East Merrimack CDP|Census Designated Place|S|Hillsborough County
+NH|33|22020|Easton town|County Subdivision|A|Grafton County
+NH|33|23380|Eaton town|County Subdivision|A|Carroll County
+NH|33|23620|Effingham town|County Subdivision|A|Carroll County
+NH|33|23860|Ellsworth town|County Subdivision|A|Grafton County
+NH|33|24260|Enfield CDP|Census Designated Place|S|Grafton County
+NH|33|24340|Enfield town|County Subdivision|A|Grafton County
+NH|33|24580|Epping CDP|Census Designated Place|S|Rockingham County
+NH|33|24660|Epping town|County Subdivision|A|Rockingham County
+NH|33|24900|Epsom town|County Subdivision|A|Merrimack County
+NH|33|25140|Errol town|County Subdivision|A|Coos County
+NH|33|25180|Ervings location|County Subdivision|N|Coos County
+NH|33|25300|Exeter CDP|Census Designated Place|S|Rockingham County
+NH|33|25380|Exeter town|County Subdivision|A|Rockingham County
+NH|33|25940|Farmington CDP|Census Designated Place|S|Strafford County
+NH|33|26020|Farmington town|County Subdivision|A|Strafford County
+NH|33|26500|Fitzwilliam town|County Subdivision|A|Cheshire County
+NH|33|27140|Francestown town|County Subdivision|A|Hillsborough County
+NH|33|27300|Franconia town|County Subdivision|A|Grafton County
+NH|33|27380|Franklin city|County Subdivision|F|Merrimack County
+NH|33|27380|Franklin city|Incorporated Place|A|Merrimack County
+NH|33|27700|Freedom town|County Subdivision|A|Carroll County
+NH|33|27940|Fremont town|County Subdivision|A|Rockingham County
+NH|33|28740|Gilford town|County Subdivision|A|Belknap County
+NH|33|28980|Gilmanton town|County Subdivision|A|Belknap County
+NH|33|29220|Gilsum town|County Subdivision|A|Cheshire County
+NH|33|29780|Goffstown CDP|Census Designated Place|S|Hillsborough County
+NH|33|29860|Goffstown town|County Subdivision|A|Hillsborough County
+NH|33|30180|Gorham CDP|Census Designated Place|S|Coos County
+NH|33|30260|Gorham town|County Subdivision|A|Coos County
+NH|33|30500|Goshen town|County Subdivision|A|Sullivan County
+NH|33|30820|Grafton town|County Subdivision|A|Grafton County
+NH|33|31220|Grantham town|County Subdivision|A|Sullivan County
+NH|33|31540|Greenfield town|County Subdivision|A|Hillsborough County
+NH|33|31700|Greenland town|County Subdivision|A|Rockingham County
+NH|33|31780|Greens grant|County Subdivision|N|Coos County
+NH|33|31860|Greenville CDP|Census Designated Place|S|Hillsborough County
+NH|33|31940|Greenville town|County Subdivision|A|Hillsborough County
+NH|33|32180|Groton town|County Subdivision|A|Grafton County
+NH|33|32260|Groveton CDP|Census Designated Place|S|Coos County
+NH|33|32420|Hadleys purchase|County Subdivision|N|Coos County
+NH|33|32500|Hale's location|County Subdivision|N|Carroll County
+NH|33|32900|Hampstead town|County Subdivision|A|Rockingham County
+NH|33|32980|Hampton CDP|Census Designated Place|S|Rockingham County
+NH|33|33060|Hampton town|County Subdivision|A|Rockingham County
+NH|33|33140|Hampton Beach CDP|Census Designated Place|S|Rockingham County
+NH|33|33460|Hampton Falls town|County Subdivision|A|Rockingham County
+NH|33|33620|Hancock CDP|Census Designated Place|S|Hillsborough County
+NH|33|33700|Hancock town|County Subdivision|A|Hillsborough County
+NH|33|33780|Hanover CDP|Census Designated Place|S|Grafton County
+NH|33|33860|Hanover town|County Subdivision|A|Grafton County
+NH|33|34420|Harrisville town|County Subdivision|A|Cheshire County
+NH|33|34500|Hart's Location town|County Subdivision|A|Carroll County
+NH|33|34820|Haverhill town|County Subdivision|A|Grafton County
+NH|33|35220|Hebron town|County Subdivision|A|Grafton County
+NH|33|35460|Henniker CDP|Census Designated Place|S|Merrimack County
+NH|33|35540|Henniker town|County Subdivision|A|Merrimack County
+NH|33|35860|Hill town|County Subdivision|A|Merrimack County
+NH|33|36020|Hillsborough CDP|Census Designated Place|S|Hillsborough County
+NH|33|36180|Hillsborough town|County Subdivision|A|Hillsborough County
+NH|33|36580|Hinsdale CDP|Census Designated Place|S|Cheshire County
+NH|33|36660|Hinsdale town|County Subdivision|A|Cheshire County
+NH|33|36900|Holderness town|County Subdivision|A|Grafton County
+NH|33|37140|Hollis town|County Subdivision|A|Hillsborough County
+NH|33|37220|Hooksett CDP|Census Designated Place|S|Merrimack County
+NH|33|37300|Hooksett town|County Subdivision|A|Merrimack County
+NH|33|37540|Hopkinton town|County Subdivision|A|Merrimack County
+NH|33|37860|Hudson CDP|Census Designated Place|S|Hillsborough County
+NH|33|37940|Hudson town|County Subdivision|A|Hillsborough County
+NH|33|38260|Jackson town|County Subdivision|A|Carroll County
+NH|33|38420|Jaffrey CDP|Census Designated Place|S|Cheshire County
+NH|33|38500|Jaffrey town|County Subdivision|A|Cheshire County
+NH|33|38820|Jefferson town|County Subdivision|A|Coos County
+NH|33|39300|Keene city|County Subdivision|F|Cheshire County
+NH|33|39300|Keene city|Incorporated Place|A|Cheshire County
+NH|33|39780|Kensington town|County Subdivision|A|Rockingham County
+NH|33|39940|Kilkenny township|County Subdivision|N|Coos County
+NH|33|40100|Kingston town|County Subdivision|A|Rockingham County
+NH|33|40180|Laconia city|County Subdivision|F|Belknap County
+NH|33|40180|Laconia city|Incorporated Place|A|Belknap County
+NH|33|40340|Lancaster CDP|Census Designated Place|S|Coos County
+NH|33|40420|Lancaster town|County Subdivision|A|Coos County
+NH|33|40660|Landaff town|County Subdivision|A|Grafton County
+NH|33|40900|Langdon town|County Subdivision|A|Sullivan County
+NH|33|41300|Lebanon city|County Subdivision|F|Grafton County
+NH|33|41300|Lebanon city|Incorporated Place|A|Grafton County
+NH|33|41460|Lee town|County Subdivision|A|Strafford County
+NH|33|41700|Lempster town|County Subdivision|A|Sullivan County
+NH|33|41780|Lincoln CDP|Census Designated Place|S|Grafton County
+NH|33|41860|Lincoln town|County Subdivision|A|Grafton County
+NH|33|41940|Lisbon CDP|Census Designated Place|S|Grafton County
+NH|33|42020|Lisbon town|County Subdivision|A|Grafton County
+NH|33|42260|Litchfield town|County Subdivision|A|Hillsborough County
+NH|33|42500|Littleton CDP|Census Designated Place|S|Grafton County
+NH|33|42580|Littleton town|County Subdivision|A|Grafton County
+NH|33|42820|Livermore town|County Subdivision|I|Grafton County
+NH|33|43140|Londonderry CDP|Census Designated Place|S|Rockingham County
+NH|33|43220|Londonderry town|County Subdivision|A|Rockingham County
+NH|33|43300|Loudon CDP|Census Designated Place|S|Merrimack County
+NH|33|43380|Loudon town|County Subdivision|A|Merrimack County
+NH|33|43620|Low and Burbanks grant|County Subdivision|N|Coos County
+NH|33|44100|Lyman town|County Subdivision|A|Grafton County
+NH|33|44260|Lyme town|County Subdivision|A|Grafton County
+NH|33|44580|Lyndeborough town|County Subdivision|A|Hillsborough County
+NH|33|44820|Madbury town|County Subdivision|A|Strafford County
+NH|33|45060|Madison town|County Subdivision|A|Carroll County
+NH|33|45140|Manchester city|County Subdivision|F|Hillsborough County
+NH|33|45140|Manchester city|Incorporated Place|A|Hillsborough County
+NH|33|45380|Marlborough CDP|Census Designated Place|S|Cheshire County
+NH|33|45460|Marlborough town|County Subdivision|A|Cheshire County
+NH|33|45700|Marlow town|County Subdivision|A|Cheshire County
+NH|33|46020|Martins location|County Subdivision|N|Coos County
+NH|33|46260|Mason town|County Subdivision|A|Hillsborough County
+NH|33|46980|Melvin Village CDP|Census Designated Place|S|Carroll County
+NH|33|47060|Meredith CDP|Census Designated Place|S|Belknap County
+NH|33|47140|Meredith town|County Subdivision|A|Belknap County
+NH|33|47540|Merrimack town|County Subdivision|A|Hillsborough County
+NH|33|47700|Middleton town|County Subdivision|A|Strafford County
+NH|33|47860|Milan town|County Subdivision|A|Coos County
+NH|33|47940|Milford CDP|Census Designated Place|S|Hillsborough County
+NH|33|48020|Milford town|County Subdivision|A|Hillsborough County
+NH|33|48260|Millsfield township|County Subdivision|N|Coos County
+NH|33|48580|Milton CDP|Census Designated Place|S|Strafford County
+NH|33|48660|Milton town|County Subdivision|A|Strafford County
+NH|33|48740|Milton Mills CDP|Census Designated Place|S|Strafford County
+NH|33|48980|Monroe town|County Subdivision|A|Grafton County
+NH|33|49140|Mont Vernon town|County Subdivision|A|Hillsborough County
+NH|33|49380|Moultonborough town|County Subdivision|A|Carroll County
+NH|33|49600|Mountain Lakes CDP|Census Designated Place|S|Grafton County
+NH|33|50260|Nashua city|County Subdivision|F|Hillsborough County
+NH|33|50260|Nashua city|Incorporated Place|A|Hillsborough County
+NH|33|50580|Nelson town|County Subdivision|A|Cheshire County
+NH|33|50740|New Boston town|County Subdivision|A|Hillsborough County
+NH|33|50900|Newbury town|County Subdivision|A|Merrimack County
+NH|33|50980|New Castle town|County Subdivision|A|Rockingham County
+NH|33|51220|New Durham town|County Subdivision|A|Strafford County
+NH|33|51300|Newfields CDP|Census Designated Place|S|Rockingham County
+NH|33|51380|Newfields town|County Subdivision|A|Rockingham County
+NH|33|51460|New Hampton CDP|Census Designated Place|S|Belknap County
+NH|33|51540|New Hampton town|County Subdivision|A|Belknap County
+NH|33|51620|Newington town|County Subdivision|A|Rockingham County
+NH|33|51940|New Ipswich town|County Subdivision|A|Hillsborough County
+NH|33|52020|New London CDP|Census Designated Place|S|Merrimack County
+NH|33|52100|New London town|County Subdivision|A|Merrimack County
+NH|33|52260|Newmarket CDP|Census Designated Place|S|Rockingham County
+NH|33|52340|Newmarket town|County Subdivision|A|Rockingham County
+NH|33|52500|Newport CDP|Census Designated Place|S|Sullivan County
+NH|33|52580|Newport town|County Subdivision|A|Sullivan County
+NH|33|52900|Newton town|County Subdivision|A|Rockingham County
+NH|33|53860|North Conway CDP|Census Designated Place|S|Carroll County
+NH|33|54260|Northfield town|County Subdivision|A|Merrimack County
+NH|33|54580|North Hampton town|County Subdivision|A|Rockingham County
+NH|33|56100|Northumberland town|County Subdivision|A|Coos County
+NH|33|56420|North Walpole CDP|Census Designated Place|S|Cheshire County
+NH|33|56820|Northwood town|County Subdivision|A|Rockingham County
+NH|33|57220|North Woodstock CDP|Census Designated Place|S|Grafton County
+NH|33|57460|Nottingham town|County Subdivision|A|Rockingham County
+NH|33|57860|Odell township|County Subdivision|N|Coos County
+NH|33|58340|Orange town|County Subdivision|A|Grafton County
+NH|33|58500|Orford town|County Subdivision|A|Grafton County
+NH|33|58740|Ossipee town|County Subdivision|A|Carroll County
+NH|33|59940|Pelham town|County Subdivision|A|Hillsborough County
+NH|33|60020|Pembroke town|County Subdivision|A|Merrimack County
+NH|33|60500|Peterborough CDP|Census Designated Place|S|Hillsborough County
+NH|33|60580|Peterborough town|County Subdivision|A|Hillsborough County
+NH|33|61060|Piermont town|County Subdivision|A|Grafton County
+NH|33|61220|Pinardville CDP|Census Designated Place|S|Hillsborough County
+NH|33|61620|Pinkhams grant|County Subdivision|N|Coos County
+NH|33|61780|Pittsburg town|County Subdivision|A|Coos County
+NH|33|61860|Pittsfield CDP|Census Designated Place|S|Merrimack County
+NH|33|61940|Pittsfield town|County Subdivision|A|Merrimack County
+NH|33|62260|Plainfield CDP|Census Designated Place|S|Sullivan County
+NH|33|62340|Plainfield town|County Subdivision|A|Sullivan County
+NH|33|62500|Plaistow town|County Subdivision|A|Rockingham County
+NH|33|62580|Plymouth CDP|Census Designated Place|S|Grafton County
+NH|33|62660|Plymouth town|County Subdivision|A|Grafton County
+NH|33|62900|Portsmouth city|County Subdivision|F|Rockingham County
+NH|33|62900|Portsmouth city|Incorporated Place|A|Rockingham County
+NH|33|63860|Randolph town|County Subdivision|A|Coos County
+NH|33|63940|Raymond CDP|Census Designated Place|S|Rockingham County
+NH|33|64020|Raymond town|County Subdivision|A|Rockingham County
+NH|33|64420|Richmond town|County Subdivision|A|Cheshire County
+NH|33|64580|Rindge town|County Subdivision|A|Cheshire County
+NH|33|65140|Rochester city|County Subdivision|F|Strafford County
+NH|33|65140|Rochester city|Incorporated Place|A|Strafford County
+NH|33|65540|Rollinsford town|County Subdivision|A|Strafford County
+NH|33|65700|Roxbury town|County Subdivision|A|Cheshire County
+NH|33|65940|Rumney town|County Subdivision|A|Grafton County
+NH|33|66180|Rye town|County Subdivision|A|Rockingham County
+NH|33|66660|Salem town|County Subdivision|A|Rockingham County
+NH|33|66980|Salisbury town|County Subdivision|A|Merrimack County
+NH|33|67300|Sanbornton town|County Subdivision|A|Belknap County
+NH|33|67460|Sanbornville CDP|Census Designated Place|S|Carroll County
+NH|33|67620|Sandown town|County Subdivision|A|Rockingham County
+NH|33|67780|Sandwich town|County Subdivision|A|Carroll County
+NH|33|67860|Sargents purchase|County Subdivision|N|Coos County
+NH|33|68260|Seabrook town|County Subdivision|A|Rockingham County
+NH|33|68340|Seabrook Beach CDP|Census Designated Place|S|Rockingham County
+NH|33|68500|Second College grant|County Subdivision|N|Coos County
+NH|33|68820|Sharon town|County Subdivision|A|Hillsborough County
+NH|33|68980|Shelburne town|County Subdivision|A|Coos County
+NH|33|69940|Somersworth city|County Subdivision|F|Strafford County
+NH|33|69940|Somersworth city|Incorporated Place|A|Strafford County
+NH|33|71140|South Hampton town|County Subdivision|A|Rockingham County
+NH|33|71220|South Hooksett CDP|Census Designated Place|S|Merrimack County
+NH|33|72740|Springfield town|County Subdivision|A|Sullivan County
+NH|33|73060|Stark town|County Subdivision|A|Coos County
+NH|33|73380|Stewartstown town|County Subdivision|A|Coos County
+NH|33|73700|Stoddard town|County Subdivision|A|Cheshire County
+NH|33|73860|Strafford town|County Subdivision|A|Strafford County
+NH|33|74180|Stratford town|County Subdivision|A|Coos County
+NH|33|74340|Stratham town|County Subdivision|A|Rockingham County
+NH|33|74500|Success township|County Subdivision|N|Coos County
+NH|33|74740|Sugar Hill town|County Subdivision|A|Grafton County
+NH|33|74780|Suissevale CDP|Census Designated Place|S|Carroll County
+NH|33|74900|Sullivan town|County Subdivision|A|Cheshire County
+NH|33|75060|Sunapee town|County Subdivision|A|Sullivan County
+NH|33|75140|Suncook CDP|Census Designated Place|S|Merrimack County
+NH|33|75300|Surry town|County Subdivision|A|Cheshire County
+NH|33|75460|Sutton town|County Subdivision|A|Merrimack County
+NH|33|75700|Swanzey town|County Subdivision|A|Cheshire County
+NH|33|76100|Tamworth town|County Subdivision|A|Carroll County
+NH|33|76260|Temple town|County Subdivision|A|Hillsborough County
+NH|33|76580|Thompson and Meserves purchase|County Subdivision|N|Coos County
+NH|33|76740|Thornton town|County Subdivision|A|Grafton County
+NH|33|77060|Tilton town|County Subdivision|A|Belknap County
+NH|33|77100|Tilton Northfield CDP|Census Designated Place|S|Belknap County, Merrimack County
+NH|33|77300|Troy CDP|Census Designated Place|S|Cheshire County
+NH|33|77380|Troy town|County Subdivision|A|Cheshire County
+NH|33|77620|Tuftonboro town|County Subdivision|A|Carroll County
+NH|33|77780|Union CDP|Census Designated Place|S|Carroll County
+NH|33|77940|Unity town|County Subdivision|A|Sullivan County
+NH|33|78180|Wakefield town|County Subdivision|A|Carroll County
+NH|33|78340|Walpole CDP|Census Designated Place|S|Cheshire County
+NH|33|78420|Walpole town|County Subdivision|A|Cheshire County
+NH|33|78500|Warner CDP|Census Designated Place|S|Merrimack County
+NH|33|78580|Warner town|County Subdivision|A|Merrimack County
+NH|33|78740|Warren town|County Subdivision|A|Grafton County
+NH|33|78980|Washington town|County Subdivision|A|Sullivan County
+NH|33|79380|Waterville Valley town|County Subdivision|A|Grafton County
+NH|33|79780|Weare town|County Subdivision|A|Hillsborough County
+NH|33|80020|Webster town|County Subdivision|A|Merrimack County
+NH|33|80500|Wentworth town|County Subdivision|A|Grafton County
+NH|33|80740|Wentworth location|County Subdivision|N|Coos County
+NH|33|82660|Westmoreland town|County Subdivision|A|Cheshire County
+NH|33|83620|West Stewartstown CDP|Census Designated Place|S|Coos County
+NH|33|83700|West Swanzey CDP|Census Designated Place|S|Cheshire County
+NH|33|84340|Whitefield CDP|Census Designated Place|S|Coos County
+NH|33|84420|Whitefield town|County Subdivision|A|Coos County
+NH|33|84900|Wilmot town|County Subdivision|A|Merrimack County
+NH|33|85140|Wilton CDP|Census Designated Place|S|Hillsborough County
+NH|33|85220|Wilton town|County Subdivision|A|Hillsborough County
+NH|33|85460|Winchester CDP|Census Designated Place|S|Cheshire County
+NH|33|85540|Winchester town|County Subdivision|A|Cheshire County
+NH|33|85780|Windham town|County Subdivision|A|Rockingham County
+NH|33|85940|Windsor town|County Subdivision|A|Hillsborough County
+NH|33|86340|Wolfeboro CDP|Census Designated Place|S|Carroll County
+NH|33|86420|Wolfeboro town|County Subdivision|A|Carroll County
+NH|33|87060|Woodstock town|County Subdivision|A|Grafton County
+NH|33|87140|Woodsville CDP|Census Designated Place|S|Grafton County

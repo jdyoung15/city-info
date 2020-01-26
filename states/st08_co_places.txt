@@ -1,0 +1,458 @@
+CO|08|00320|Acres Green CDP|Census Designated Place|S|Douglas County
+CO|08|00620|Aetna Estates CDP|Census Designated Place|S|Arapahoe County
+CO|08|00760|Aguilar town|Incorporated Place|A|Las Animas County
+CO|08|00870|Air Force Academy CDP|Census Designated Place|S|El Paso County
+CO|08|00925|Akron town|Incorporated Place|A|Washington County
+CO|08|01090|Alamosa city|Incorporated Place|A|Alamosa County
+CO|08|01145|Alamosa East CDP|Census Designated Place|S|Alamosa County
+CO|08|01420|Allenspark CDP|Census Designated Place|S|Boulder County
+CO|08|01530|Alma town|Incorporated Place|A|Park County
+CO|08|01640|Alpine CDP|Census Designated Place|S|Rio Grande County
+CO|08|01740|Altona CDP|Census Designated Place|S|Boulder County
+CO|08|01915|Amherst CDP|Census Designated Place|S|Phillips County
+CO|08|02355|Antonito town|Incorporated Place|A|Conejos County
+CO|08|02575|Applewood CDP|Census Designated Place|S|Jefferson County
+CO|08|02905|Arboles CDP|Census Designated Place|S|Archuleta County
+CO|08|03015|Aristocrat Ranchettes CDP|Census Designated Place|S|Weld County
+CO|08|03235|Arriba town|Incorporated Place|A|Lincoln County
+CO|08|03455|Arvada city|Incorporated Place|A|Adams County, Jefferson County
+CO|08|03620|Aspen city|Incorporated Place|A|Pitkin County
+CO|08|03730|Aspen Park CDP|Census Designated Place|S|Jefferson County
+CO|08|03840|Atwood CDP|Census Designated Place|S|Logan County
+CO|08|03950|Ault town|Incorporated Place|A|Weld County
+CO|08|04000|Aurora city|Incorporated Place|A|Adams County, Arapahoe County, Douglas County
+CO|08|04110|Avon town|Incorporated Place|A|Eagle County
+CO|08|04165|Avondale CDP|Census Designated Place|S|Pueblo County
+CO|08|04620|Bark Ranch CDP|Census Designated Place|S|Boulder County
+CO|08|04935|Basalt town|Incorporated Place|A|Eagle County, Pitkin County
+CO|08|05120|Battlement Mesa CDP|Census Designated Place|S|Garfield County
+CO|08|05265|Bayfield town|Incorporated Place|A|La Plata County
+CO|08|06090|Bennett town|Incorporated Place|A|Adams County, Arapahoe County
+CO|08|06172|Berkley CDP|Census Designated Place|S|Adams County
+CO|08|06255|Berthoud town|Incorporated Place|A|Larimer County, Weld County
+CO|08|06530|Bethune town|Incorporated Place|A|Kit Carson County
+CO|08|06602|Beulah Valley CDP|Census Designated Place|S|Pueblo County
+CO|08|06970|Black Forest CDP|Census Designated Place|S|El Paso County
+CO|08|07025|Black Hawk city|Incorporated Place|A|Gilpin County
+CO|08|07190|Blanca town|Incorporated Place|A|Costilla County
+CO|08|07245|Blende CDP|Census Designated Place|S|Pueblo County
+CO|08|07410|Blue River town|Incorporated Place|A|Summit County
+CO|08|07420|Blue Sky CDP|Census Designated Place|S|Morgan County
+CO|08|07571|Bonanza town|Incorporated Place|A|Saguache County
+CO|08|07580|Bonanza Mountain Estates CDP|Census Designated Place|S|Boulder County
+CO|08|07795|Boone town|Incorporated Place|A|Pueblo County
+CO|08|07850|Boulder city|Incorporated Place|A|Boulder County
+CO|08|08070|Bow Mar town|Incorporated Place|A|Arapahoe County, Jefferson County
+CO|08|08290|Brandon CDP|Census Designated Place|S|Kiowa County
+CO|08|08345|Branson town|Incorporated Place|A|Las Animas County
+CO|08|08400|Breckenridge town|Incorporated Place|A|Summit County
+CO|08|08530|Brick Center CDP|Census Designated Place|S|Arapahoe County
+CO|08|08675|Brighton city|Incorporated Place|A|Adams County, Weld County
+CO|08|09115|Brookside town|Incorporated Place|A|Fremont County
+CO|08|09280|Broomfield city|Incorporated Place|A|Broomfield County
+CO|08|09555|Brush city|Incorporated Place|A|Morgan County
+CO|08|10105|Buena Vista town|Incorporated Place|A|Chaffee County
+CO|08|10600|Burlington city|Incorporated Place|A|Kit Carson County
+CO|08|10985|Byers CDP|Census Designated Place|S|Arapahoe County
+CO|08|11260|Calhan town|Incorporated Place|A|El Paso County
+CO|08|11645|Campo town|Incorporated Place|A|Baca County
+CO|08|11810|Cañon City city|Incorporated Place|A|Fremont County
+CO|08|11975|Capulin CDP|Census Designated Place|S|Conejos County
+CO|08|12045|Carbondale town|Incorporated Place|A|Garfield County
+CO|08|12325|Cascade-Chipita Park CDP|Census Designated Place|S|El Paso County
+CO|08|12387|Castle Pines CDP|Census Designated Place|S|Douglas County
+CO|08|12390|Castle Pines North city|Incorporated Place|A|Douglas County
+CO|08|12415|Castle Rock town|Incorporated Place|A|Douglas County
+CO|08|12450|Cathedral CDP|Census Designated Place|S|Hinsdale County
+CO|08|12460|Catherine CDP|Census Designated Place|S|Garfield County
+CO|08|12470|Cattle Creek CDP|Census Designated Place|S|Garfield County
+CO|08|12635|Cedaredge town|Incorporated Place|A|Delta County
+CO|08|12815|Centennial city|Incorporated Place|A|Arapahoe County
+CO|08|12855|Center town|Incorporated Place|A|Rio Grande County, Saguache County
+CO|08|12910|Central City city|Incorporated Place|A|Clear Creek County, Gilpin County
+CO|08|12945|Chacra CDP|Census Designated Place|S|Garfield County
+CO|08|13460|Cheraw town|Incorporated Place|A|Otero County
+CO|08|13590|Cherry Creek CDP|Census Designated Place|S|Arapahoe County
+CO|08|13845|Cherry Hills Village city|Incorporated Place|A|Arapahoe County
+CO|08|14175|Cheyenne Wells town|Incorporated Place|A|Cheyenne County
+CO|08|14587|Cimarron Hills CDP|Census Designated Place|S|El Paso County
+CO|08|14765|City of Creede town|Incorporated Place|A|Mineral County
+CO|08|15165|Clifton CDP|Census Designated Place|S|Mesa County
+CO|08|15302|Coal Creek CDP|Census Designated Place|S|Boulder County, Gilpin County, Jefferson County
+CO|08|15330|Coal Creek town|Incorporated Place|A|Fremont County
+CO|08|15440|Coaldale CDP|Census Designated Place|S|Fremont County
+CO|08|15550|Cokedale town|Incorporated Place|A|Las Animas County
+CO|08|15605|Collbran town|Incorporated Place|A|Mesa County
+CO|08|15825|Colona CDP|Census Designated Place|S|Ouray County
+CO|08|15935|Colorado City CDP|Census Designated Place|S|Pueblo County
+CO|08|16000|Colorado Springs city|Incorporated Place|A|El Paso County
+CO|08|16110|Columbine CDP|Census Designated Place|S|Arapahoe County, Jefferson County
+CO|08|16385|Columbine Valley town|Incorporated Place|A|Arapahoe County
+CO|08|16465|Comanche Creek CDP|Census Designated Place|S|Arapahoe County
+CO|08|16495|Commerce City city|Incorporated Place|A|Adams County
+CO|08|16715|Conejos CDP|Census Designated Place|S|Conejos County
+CO|08|17150|Copper Mountain CDP|Census Designated Place|S|Summit County
+CO|08|17375|Cortez city|Incorporated Place|A|Montezuma County
+CO|08|17485|Cotopaxi CDP|Census Designated Place|S|Fremont County
+CO|08|17760|Craig city|Incorporated Place|A|Moffat County
+CO|08|17925|Crawford town|Incorporated Place|A|Delta County
+CO|08|18310|Crested Butte town|Incorporated Place|A|Gunnison County
+CO|08|18420|Crestone town|Incorporated Place|A|Saguache County
+CO|08|18530|Cripple Creek city|Incorporated Place|A|Teller County
+CO|08|18585|Crisman CDP|Census Designated Place|S|Boulder County
+CO|08|18640|Crook town|Incorporated Place|A|Logan County
+CO|08|18750|Crowley town|Incorporated Place|A|Crowley County
+CO|08|19080|Dacono city|Incorporated Place|A|Weld County
+CO|08|19150|Dakota Ridge CDP|Census Designated Place|S|Jefferson County
+CO|08|19355|De Beque town|Incorporated Place|A|Mesa County
+CO|08|19630|Deer Trail town|Incorporated Place|A|Arapahoe County
+CO|08|19795|Del Norte town|Incorporated Place|A|Rio Grande County
+CO|08|19850|Delta city|Incorporated Place|A|Delta County
+CO|08|20000|Denver city|Incorporated Place|A|Denver County
+CO|08|20275|Derby CDP|Census Designated Place|S|Adams County
+CO|08|20440|Dillon town|Incorporated Place|A|Summit County
+CO|08|20495|Dinosaur town|Incorporated Place|A|Moffat County
+CO|08|20605|Divide CDP|Census Designated Place|S|Teller County
+CO|08|20770|Dolores town|Incorporated Place|A|Montezuma County
+CO|08|21155|Dotsero CDP|Census Designated Place|S|Eagle County
+CO|08|21265|Dove Creek town|Incorporated Place|A|Dolores County
+CO|08|21330|Dove Valley CDP|Census Designated Place|S|Arapahoe County
+CO|08|21390|Downieville-Lawson-Dumont CDP|Census Designated Place|S|Clear Creek County
+CO|08|22035|Durango city|Incorporated Place|A|La Plata County
+CO|08|22145|Eads town|Incorporated Place|A|Kiowa County
+CO|08|22200|Eagle town|Incorporated Place|A|Eagle County
+CO|08|22575|East Pleasant View CDP|Census Designated Place|S|Jefferson County
+CO|08|22860|Eaton town|Incorporated Place|A|Weld County
+CO|08|23025|Eckley town|Incorporated Place|A|Yuma County
+CO|08|23135|Edgewater city|Incorporated Place|A|Jefferson County
+CO|08|23300|Edwards CDP|Census Designated Place|S|Eagle County
+CO|08|23520|Elbert CDP|Census Designated Place|S|Elbert County
+CO|08|23575|Eldora CDP|Census Designated Place|S|Boulder County
+CO|08|23630|Eldorado Springs CDP|Census Designated Place|S|Boulder County
+CO|08|23740|Elizabeth town|Incorporated Place|A|Elbert County
+CO|08|23795|El Jebel CDP|Census Designated Place|S|Eagle County
+CO|08|24235|Ellicott CDP|Census Designated Place|S|El Paso County
+CO|08|24290|El Moro CDP|Census Designated Place|S|Las Animas County
+CO|08|24620|Empire town|Incorporated Place|A|Clear Creek County
+CO|08|24785|Englewood city|Incorporated Place|A|Arapahoe County
+CO|08|24950|Erie town|Incorporated Place|A|Boulder County, Weld County
+CO|08|25115|Estes Park town|Incorporated Place|A|Larimer County
+CO|08|25280|Evans city|Incorporated Place|A|Weld County
+CO|08|25390|Evergreen CDP|Census Designated Place|S|Jefferson County
+CO|08|25550|Fairmount CDP|Census Designated Place|S|Jefferson County
+CO|08|25610|Fairplay town|Incorporated Place|A|Park County
+CO|08|26270|Federal Heights city|Incorporated Place|A|Adams County
+CO|08|26600|Firestone town|Incorporated Place|A|Weld County
+CO|08|26765|Flagler town|Incorporated Place|A|Kit Carson County
+CO|08|26875|Fleming town|Incorporated Place|A|Logan County
+CO|08|27040|Florence city|Incorporated Place|A|Fremont County
+CO|08|27095|Florissant CDP|Census Designated Place|S|Teller County
+CO|08|27175|Floyd Hill CDP|Census Designated Place|S|Clear Creek County
+CO|08|27370|Fort Carson CDP|Census Designated Place|S|El Paso County
+CO|08|27425|Fort Collins city|Incorporated Place|A|Larimer County
+CO|08|27535|Fort Garland CDP|Census Designated Place|S|Costilla County
+CO|08|27700|Fort Lupton city|Incorporated Place|A|Weld County
+CO|08|27810|Fort Morgan city|Incorporated Place|A|Morgan County
+CO|08|27865|Fountain city|Incorporated Place|A|El Paso County
+CO|08|27975|Fowler town|Incorporated Place|A|Otero County
+CO|08|28105|Foxfield town|Incorporated Place|A|Arapahoe County
+CO|08|28250|Franktown CDP|Census Designated Place|S|Douglas County
+CO|08|28305|Fraser town|Incorporated Place|A|Grand County
+CO|08|28360|Frederick town|Incorporated Place|A|Weld County
+CO|08|28690|Frisco town|Incorporated Place|A|Summit County
+CO|08|28745|Fruita city|Incorporated Place|A|Mesa County
+CO|08|28800|Fruitvale CDP|Census Designated Place|S|Mesa County
+CO|08|28830|Fulford CDP|Census Designated Place|S|Eagle County
+CO|08|29185|Garden City town|Incorporated Place|A|Weld County
+CO|08|29295|Garfield CDP|Census Designated Place|S|Chaffee County
+CO|08|29625|Genesee CDP|Census Designated Place|S|Jefferson County
+CO|08|29680|Genoa town|Incorporated Place|A|Lincoln County
+CO|08|29735|Georgetown town|Incorporated Place|A|Clear Creek County
+CO|08|29845|Gerrard CDP|Census Designated Place|S|Rio Grande County
+CO|08|29955|Gilcrest town|Incorporated Place|A|Weld County
+CO|08|30340|Glendale city|Incorporated Place|A|Arapahoe County
+CO|08|30350|Glendale CDP|Census Designated Place|S|Boulder County
+CO|08|30420|Gleneagle CDP|Census Designated Place|S|El Paso County
+CO|08|30780|Glenwood Springs city|Incorporated Place|A|Garfield County
+CO|08|30835|Golden city|Incorporated Place|A|Jefferson County
+CO|08|30890|Goldfield CDP|Census Designated Place|S|Teller County
+CO|08|30945|Gold Hill CDP|Census Designated Place|S|Boulder County
+CO|08|31550|Granada town|Incorporated Place|A|Prowers County
+CO|08|31605|Granby town|Incorporated Place|A|Grand County
+CO|08|31660|Grand Junction city|Incorporated Place|A|Mesa County
+CO|08|31715|Grand Lake town|Incorporated Place|A|Grand County
+CO|08|31935|Grand View Estates CDP|Census Designated Place|S|Douglas County
+CO|08|32155|Greeley city|Incorporated Place|A|Weld County
+CO|08|32650|Green Mountain Falls town|Incorporated Place|A|El Paso County, Teller County
+CO|08|33035|Greenwood Village city|Incorporated Place|A|Arapahoe County
+CO|08|33310|Grover town|Incorporated Place|A|Weld County
+CO|08|33420|Guffey CDP|Census Designated Place|S|Park County
+CO|08|33502|Gunbarrel CDP|Census Designated Place|S|Boulder County
+CO|08|33640|Gunnison city|Incorporated Place|A|Gunnison County
+CO|08|33695|Gypsum town|Incorporated Place|A|Eagle County
+CO|08|34520|Hartman town|Incorporated Place|A|Prowers County
+CO|08|34685|Hasty CDP|Census Designated Place|S|Bent County
+CO|08|34740|Haswell town|Incorporated Place|A|Kiowa County
+CO|08|34960|Haxtun town|Incorporated Place|A|Phillips County
+CO|08|35070|Hayden town|Incorporated Place|A|Routt County
+CO|08|35400|Heeney CDP|Census Designated Place|S|Summit County
+CO|08|35860|Hidden Lake CDP|Census Designated Place|S|Boulder County
+CO|08|36410|Highlands Ranch CDP|Census Designated Place|S|Douglas County
+CO|08|36610|Hillrose town|Incorporated Place|A|Morgan County
+CO|08|36940|Hoehne CDP|Census Designated Place|S|Las Animas County
+CO|08|37215|Holly town|Incorporated Place|A|Prowers County
+CO|08|37220|Holly Hills CDP|Census Designated Place|S|Arapahoe County
+CO|08|37270|Holyoke city|Incorporated Place|A|Phillips County
+CO|08|37380|Hooper town|Incorporated Place|A|Alamosa County
+CO|08|37545|Hotchkiss town|Incorporated Place|A|Delta County
+CO|08|37600|Hot Sulphur Springs town|Incorporated Place|A|Grand County
+CO|08|37655|Howard CDP|Census Designated Place|S|Fremont County
+CO|08|37820|Hudson town|Incorporated Place|A|Weld County
+CO|08|37875|Hugo town|Incorporated Place|A|Lincoln County
+CO|08|38370|Idaho Springs city|Incorporated Place|A|Clear Creek County
+CO|08|38425|Idalia CDP|Census Designated Place|S|Yuma County
+CO|08|38480|Idledale CDP|Census Designated Place|S|Jefferson County
+CO|08|38535|Ignacio town|Incorporated Place|A|La Plata County
+CO|08|38590|Iliff town|Incorporated Place|A|Logan County
+CO|08|38810|Indian Hills CDP|Census Designated Place|S|Jefferson County
+CO|08|38910|Inverness CDP|Census Designated Place|S|Arapahoe County
+CO|08|39160|Jackson Lake CDP|Census Designated Place|S|Morgan County
+CO|08|39195|Jamestown town|Incorporated Place|A|Boulder County
+CO|08|39250|Jansen CDP|Census Designated Place|S|Las Animas County
+CO|08|39745|Joes CDP|Census Designated Place|S|Yuma County
+CO|08|39800|Johnson Village CDP|Census Designated Place|S|Chaffee County
+CO|08|39855|Johnstown town|Incorporated Place|A|Larimer County, Weld County
+CO|08|39965|Julesburg town|Incorporated Place|A|Sedgwick County
+CO|08|40185|Keenesburg town|Incorporated Place|A|Weld County
+CO|08|40377|Ken Caryl CDP|Census Designated Place|S|Jefferson County
+CO|08|40515|Kersey town|Incorporated Place|A|Weld County
+CO|08|40550|Keystone CDP|Census Designated Place|S|Summit County
+CO|08|40570|Kim town|Incorporated Place|A|Las Animas County
+CO|08|40790|Kiowa town|Incorporated Place|A|Elbert County
+CO|08|40900|Kirk CDP|Census Designated Place|S|Yuma County
+CO|08|41010|Kit Carson town|Incorporated Place|A|Cheyenne County
+CO|08|41065|Kittredge CDP|Census Designated Place|S|Jefferson County
+CO|08|41560|Kremmling town|Incorporated Place|A|Grand County
+CO|08|41835|Lafayette city|Incorporated Place|A|Boulder County
+CO|08|42000|Laird CDP|Census Designated Place|S|Yuma County
+CO|08|42055|La Jara town|Incorporated Place|A|Conejos County
+CO|08|42110|La Junta city|Incorporated Place|A|Otero County
+CO|08|42165|La Junta Gardens CDP|Census Designated Place|S|Otero County
+CO|08|42330|Lake City town|Incorporated Place|A|Hinsdale County
+CO|08|42495|Lakeside town|Incorporated Place|A|Jefferson County
+CO|08|43000|Lakewood city|Incorporated Place|A|Jefferson County
+CO|08|43110|Lamar city|Incorporated Place|A|Prowers County
+CO|08|43220|Laporte CDP|Census Designated Place|S|Larimer County
+CO|08|43550|Larkspur town|Incorporated Place|A|Douglas County
+CO|08|43605|La Salle town|Incorporated Place|A|Weld County
+CO|08|43660|Las Animas city|Incorporated Place|A|Bent County
+CO|08|44100|La Veta town|Incorporated Place|A|Huerfano County
+CO|08|44270|Lazy Acres CDP|Census Designated Place|S|Boulder County
+CO|08|44320|Leadville city|Incorporated Place|A|Lake County
+CO|08|44375|Leadville North CDP|Census Designated Place|S|Lake County
+CO|08|44595|Lewis CDP|Census Designated Place|S|Montezuma County
+CO|08|44695|Leyner CDP|Census Designated Place|S|Boulder County
+CO|08|44980|Limon town|Incorporated Place|A|Lincoln County
+CO|08|45145|Lincoln Park CDP|Census Designated Place|S|Fremont County
+CO|08|45255|Littleton city|Incorporated Place|A|Arapahoe County, Douglas County, Jefferson County
+CO|08|45530|Lochbuie town|Incorporated Place|A|Adams County, Weld County
+CO|08|45680|Loghill Village CDP|Census Designated Place|S|Ouray County
+CO|08|45695|Log Lane Village town|Incorporated Place|A|Morgan County
+CO|08|45750|Loma CDP|Census Designated Place|S|Mesa County
+CO|08|45955|Lone Tree city|Incorporated Place|A|Douglas County
+CO|08|45970|Longmont city|Incorporated Place|A|Boulder County, Weld County
+CO|08|46355|Louisville city|Incorporated Place|A|Boulder County
+CO|08|46410|Louviers CDP|Census Designated Place|S|Douglas County
+CO|08|46465|Loveland city|Incorporated Place|A|Larimer County
+CO|08|47015|Lynn CDP|Census Designated Place|S|Las Animas County
+CO|08|47070|Lyons town|Incorporated Place|A|Boulder County
+CO|08|47345|McCoy CDP|Census Designated Place|S|Eagle County
+CO|08|48060|Manassa town|Incorporated Place|A|Conejos County
+CO|08|48115|Mancos town|Incorporated Place|A|Montezuma County
+CO|08|48445|Manitou Springs city|Incorporated Place|A|El Paso County
+CO|08|48500|Manzanola town|Incorporated Place|A|Otero County
+CO|08|48555|Marble town|Incorporated Place|A|Gunnison County
+CO|08|49325|Maybell CDP|Census Designated Place|S|Moffat County
+CO|08|49490|Maysville CDP|Census Designated Place|S|Chaffee County
+CO|08|49600|Mead town|Incorporated Place|A|Weld County
+CO|08|49875|Meeker town|Incorporated Place|A|Rio Blanco County
+CO|08|50012|Meridian CDP|Census Designated Place|S|Douglas County
+CO|08|50040|Merino town|Incorporated Place|A|Logan County
+CO|08|50380|Midland CDP|Census Designated Place|S|Teller County
+CO|08|50480|Milliken town|Incorporated Place|A|Weld County
+CO|08|50920|Minturn town|Incorporated Place|A|Eagle County
+CO|08|51250|Moffat town|Incorporated Place|A|Saguache County
+CO|08|51635|Monte Vista city|Incorporated Place|A|Rio Grande County
+CO|08|51690|Montezuma town|Incorporated Place|A|Summit County
+CO|08|51745|Montrose city|Incorporated Place|A|Montrose County
+CO|08|51800|Monument town|Incorporated Place|A|El Paso County
+CO|08|51975|Morgan Heights CDP|Census Designated Place|S|Morgan County
+CO|08|52075|Morrison town|Incorporated Place|A|Jefferson County
+CO|08|52210|Mountain Meadows CDP|Census Designated Place|S|Boulder County
+CO|08|52350|Mountain View town|Incorporated Place|A|Jefferson County
+CO|08|52550|Mountain Village town|Incorporated Place|A|San Miguel County
+CO|08|52570|Mount Crested Butte town|Incorporated Place|A|Gunnison County
+CO|08|52820|Mulford CDP|Census Designated Place|S|Garfield County
+CO|08|53120|Naturita town|Incorporated Place|A|Montrose County
+CO|08|53175|Nederland town|Incorporated Place|A|Boulder County
+CO|08|53395|New Castle town|Incorporated Place|A|Garfield County
+CO|08|53780|Niwot CDP|Census Designated Place|S|Boulder County
+CO|08|53875|No Name CDP|Census Designated Place|S|Garfield County
+CO|08|53945|Norrie CDP|Census Designated Place|S|Pitkin County
+CO|08|54330|Northglenn city|Incorporated Place|A|Adams County, Weld County
+CO|08|54495|North La Junta CDP|Census Designated Place|S|Otero County
+CO|08|54750|North Washington CDP|Census Designated Place|S|Adams County
+CO|08|54880|Norwood town|Incorporated Place|A|San Miguel County
+CO|08|54935|Nucla town|Incorporated Place|A|Montrose County
+CO|08|55045|Nunn town|Incorporated Place|A|Weld County
+CO|08|55155|Oak Creek town|Incorporated Place|A|Routt County
+CO|08|55540|Olathe town|Incorporated Place|A|Montrose County
+CO|08|55705|Olney Springs town|Incorporated Place|A|Crowley County
+CO|08|55870|Ophir town|Incorporated Place|A|San Miguel County
+CO|08|55925|Orchard CDP|Census Designated Place|S|Morgan County
+CO|08|55980|Orchard City town|Incorporated Place|A|Delta County
+CO|08|56035|Orchard Mesa CDP|Census Designated Place|S|Mesa County
+CO|08|56145|Ordway town|Incorporated Place|A|Crowley County
+CO|08|56365|Otis town|Incorporated Place|A|Washington County
+CO|08|56420|Ouray city|Incorporated Place|A|Ouray County
+CO|08|56475|Ovid town|Incorporated Place|A|Sedgwick County
+CO|08|56695|Padroni CDP|Census Designated Place|S|Logan County
+CO|08|56860|Pagosa Springs town|Incorporated Place|A|Archuleta County
+CO|08|56970|Palisade town|Incorporated Place|A|Mesa County
+CO|08|57025|Palmer Lake town|Incorporated Place|A|El Paso County
+CO|08|57245|Paoli town|Incorporated Place|A|Phillips County
+CO|08|57300|Paonia town|Incorporated Place|A|Delta County
+CO|08|57400|Parachute town|Incorporated Place|A|Garfield County
+CO|08|57445|Paragon Estates CDP|Census Designated Place|S|Boulder County
+CO|08|57630|Parker town|Incorporated Place|A|Douglas County
+CO|08|57850|Parshall CDP|Census Designated Place|S|Grand County
+CO|08|58235|Peetz town|Incorporated Place|A|Logan County
+CO|08|58400|Penrose CDP|Census Designated Place|S|Fremont County
+CO|08|58510|Peoria CDP|Census Designated Place|S|Arapahoe County
+CO|08|58592|Perry Park CDP|Census Designated Place|S|Douglas County
+CO|08|58675|Peyton CDP|Census Designated Place|S|El Paso County
+CO|08|58758|Phippsburg CDP|Census Designated Place|S|Routt County
+CO|08|58960|Piedra CDP|Census Designated Place|S|Hinsdale County
+CO|08|59005|Pierce town|Incorporated Place|A|Weld County
+CO|08|59240|Pine Brook Hill CDP|Census Designated Place|S|Boulder County
+CO|08|59830|Pitkin town|Incorporated Place|A|Gunnison County
+CO|08|60160|Platteville town|Incorporated Place|A|Weld County
+CO|08|60600|Poncha Springs town|Incorporated Place|A|Chaffee County
+CO|08|60655|Ponderosa Park CDP|Census Designated Place|S|Elbert County
+CO|08|60765|Portland CDP|Census Designated Place|S|Ouray County
+CO|08|61315|Pritchett town|Incorporated Place|A|Baca County
+CO|08|62000|Pueblo city|Incorporated Place|A|Pueblo County
+CO|08|62220|Pueblo West CDP|Census Designated Place|S|Pueblo County
+CO|08|62660|Ramah town|Incorporated Place|A|El Paso County
+CO|08|62880|Rangely town|Incorporated Place|A|Rio Blanco County
+CO|08|63045|Raymer (New Raymer) town|Incorporated Place|A|Weld County
+CO|08|63265|Red Cliff town|Incorporated Place|A|Eagle County
+CO|08|63320|Red Feather Lakes CDP|Census Designated Place|S|Larimer County
+CO|08|63375|Redlands CDP|Census Designated Place|S|Mesa County
+CO|08|63650|Redstone CDP|Census Designated Place|S|Pitkin County
+CO|08|63705|Redvale CDP|Census Designated Place|S|Montrose County
+CO|08|64090|Rico town|Incorporated Place|A|Dolores County
+CO|08|64200|Ridgway town|Incorporated Place|A|Ouray County
+CO|08|64255|Rifle city|Incorporated Place|A|Garfield County
+CO|08|64870|Rock Creek Park CDP|Census Designated Place|S|El Paso County
+CO|08|64970|Rockvale town|Incorporated Place|A|Fremont County
+CO|08|65190|Rocky Ford city|Incorporated Place|A|Otero County
+CO|08|65685|Rollinsville CDP|Census Designated Place|S|Gilpin County
+CO|08|65740|Romeo town|Incorporated Place|A|Conejos County
+CO|08|66197|Roxborough Park CDP|Census Designated Place|S|Douglas County
+CO|08|66895|Rye town|Incorporated Place|A|Pueblo County
+CO|08|66995|Saddle Ridge CDP|Census Designated Place|S|Morgan County
+CO|08|67005|Saguache town|Incorporated Place|A|Saguache County
+CO|08|67040|St. Ann Highlands CDP|Census Designated Place|S|Boulder County
+CO|08|67142|St. Mary's CDP|Census Designated Place|S|Clear Creek County
+CO|08|67280|Salida city|Incorporated Place|A|Chaffee County
+CO|08|67445|Salt Creek CDP|Census Designated Place|S|Pueblo County
+CO|08|67500|San Acacio CDP|Census Designated Place|S|Costilla County
+CO|08|67830|Sanford town|Incorporated Place|A|Conejos County
+CO|08|68105|San Luis town|Incorporated Place|A|Costilla County
+CO|08|68655|Sawpit town|Incorporated Place|A|San Miguel County
+CO|08|68847|Security-Widefield CDP|Census Designated Place|S|El Paso County
+CO|08|68875|Sedalia CDP|Census Designated Place|S|Douglas County
+CO|08|68930|Sedgwick town|Incorporated Place|A|Sedgwick County
+CO|08|68985|Segundo CDP|Census Designated Place|S|Las Animas County
+CO|08|69040|Seibert town|Incorporated Place|A|Kit Carson County
+CO|08|69110|Seven Hills CDP|Census Designated Place|S|Boulder County
+CO|08|69150|Severance town|Incorporated Place|A|Weld County
+CO|08|69480|Shaw Heights CDP|Census Designated Place|S|Adams County
+CO|08|69645|Sheridan city|Incorporated Place|A|Arapahoe County
+CO|08|69700|Sheridan Lake town|Incorporated Place|A|Kiowa County
+CO|08|69810|Sherrelwood CDP|Census Designated Place|S|Adams County
+CO|08|70195|Silt town|Incorporated Place|A|Garfield County
+CO|08|70250|Silver Cliff town|Incorporated Place|A|Custer County
+CO|08|70360|Silver Plume town|Incorporated Place|A|Clear Creek County
+CO|08|70525|Silverthorne town|Incorporated Place|A|Summit County
+CO|08|70580|Silverton town|Incorporated Place|A|San Juan County
+CO|08|70635|Simla town|Incorporated Place|A|Elbert County
+CO|08|71625|Smeltertown CDP|Census Designated Place|S|Chaffee County
+CO|08|71755|Snowmass Village town|Incorporated Place|A|Pitkin County
+CO|08|71790|Snyder CDP|Census Designated Place|S|Morgan County
+CO|08|72320|Southern Ute CDP|Census Designated Place|S|La Plata County
+CO|08|72395|South Fork town|Incorporated Place|A|Rio Grande County
+CO|08|73330|Springfield town|Incorporated Place|A|Baca County
+CO|08|73715|Starkville town|Incorporated Place|A|Las Animas County
+CO|08|73825|Steamboat Springs city|Incorporated Place|A|Routt County
+CO|08|73935|Sterling city|Incorporated Place|A|Logan County
+CO|08|74080|Stonegate CDP|Census Designated Place|S|Douglas County
+CO|08|74275|Stonewall Gap CDP|Census Designated Place|S|Las Animas County
+CO|08|74375|Strasburg CDP|Census Designated Place|S|Adams County, Arapahoe County
+CO|08|74430|Stratmoor CDP|Census Designated Place|S|El Paso County
+CO|08|74485|Stratton town|Incorporated Place|A|Kit Carson County
+CO|08|74815|Sugar City town|Incorporated Place|A|Crowley County
+CO|08|74980|Sugarloaf CDP|Census Designated Place|S|Boulder County
+CO|08|75585|Sunshine CDP|Census Designated Place|S|Boulder County
+CO|08|75640|Superior town|Incorporated Place|A|Boulder County, Jefferson County
+CO|08|75970|Swink town|Incorporated Place|A|Otero County
+CO|08|76190|Tabernash CDP|Census Designated Place|S|Grand County
+CO|08|76325|Tall Timber CDP|Census Designated Place|S|Boulder County
+CO|08|76795|Telluride town|Incorporated Place|A|San Miguel County
+CO|08|77235|The Pinery CDP|Census Designated Place|S|Douglas County
+CO|08|77290|Thornton city|Incorporated Place|A|Adams County, Weld County
+CO|08|77510|Timnath town|Incorporated Place|A|Larimer County
+CO|08|77757|Todd Creek CDP|Census Designated Place|S|Adams County
+CO|08|78280|Towaoc CDP|Census Designated Place|S|Montezuma County
+CO|08|78335|Towner CDP|Census Designated Place|S|Kiowa County
+CO|08|78345|Trail Side CDP|Census Designated Place|S|Morgan County
+CO|08|78610|Trinidad city|Incorporated Place|A|Las Animas County
+CO|08|79100|Twin Lakes CDP|Census Designated Place|S|Adams County
+CO|08|79105|Twin Lakes CDP|Census Designated Place|S|Lake County
+CO|08|79270|Two Buttes town|Incorporated Place|A|Baca County
+CO|08|79785|Upper Bear Creek CDP|Census Designated Place|S|Clear Creek County
+CO|08|80040|Vail town|Incorporated Place|A|Eagle County
+CO|08|80095|Valdez CDP|Census Designated Place|S|Las Animas County
+CO|08|80370|Valmont CDP|Census Designated Place|S|Boulder County
+CO|08|80755|Vernon CDP|Census Designated Place|S|Yuma County
+CO|08|80865|Victor city|Incorporated Place|A|Teller County
+CO|08|81030|Vilas town|Incorporated Place|A|Baca County
+CO|08|81305|Vineland CDP|Census Designated Place|S|Pueblo County
+CO|08|81690|Vona town|Incorporated Place|A|Kit Carson County
+CO|08|82130|Walden town|Incorporated Place|A|Jackson County
+CO|08|82350|Walsenburg city|Incorporated Place|A|Huerfano County
+CO|08|82460|Walsh town|Incorporated Place|A|Baca County
+CO|08|82735|Ward town|Incorporated Place|A|Boulder County
+CO|08|82905|Watkins CDP|Census Designated Place|S|Adams County, Arapahoe County
+CO|08|83120|Welby CDP|Census Designated Place|S|Adams County
+CO|08|83175|Weldona CDP|Census Designated Place|S|Morgan County
+CO|08|83230|Wellington town|Incorporated Place|A|Larimer County
+CO|08|83450|Westcliffe town|Incorporated Place|A|Custer County
+CO|08|83500|Westcreek CDP|Census Designated Place|S|Douglas County
+CO|08|83835|Westminster city|Incorporated Place|A|Adams County, Jefferson County
+CO|08|84000|Weston CDP|Census Designated Place|S|Las Animas County
+CO|08|84042|West Pleasant View CDP|Census Designated Place|S|Jefferson County
+CO|08|84440|Wheat Ridge city|Incorporated Place|A|Jefferson County
+CO|08|84770|Wiggins town|Incorporated Place|A|Morgan County
+CO|08|85045|Wiley town|Incorporated Place|A|Prowers County
+CO|08|85155|Williamsburg town|Incorporated Place|A|Fremont County
+CO|08|85485|Windsor town|Incorporated Place|A|Larimer County, Weld County
+CO|08|85705|Winter Park town|Incorporated Place|A|Grand County
+CO|08|85760|Wolcott CDP|Census Designated Place|S|Eagle County
+CO|08|86090|Woodland Park city|Incorporated Place|A|Teller County
+CO|08|86117|Woodmoor CDP|Census Designated Place|S|El Paso County
+CO|08|86200|Woody Creek CDP|Census Designated Place|S|Pitkin County
+CO|08|86310|Wray city|Incorporated Place|A|Yuma County
+CO|08|86475|Yampa town|Incorporated Place|A|Routt County
+CO|08|86750|Yuma city|Incorporated Place|A|Yuma County

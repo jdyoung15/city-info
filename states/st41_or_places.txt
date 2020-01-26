@@ -1,0 +1,377 @@
+OR|41|00275|Adair Village city|Incorporated Place|A|Benton County
+OR|41|00350|Adams city|Incorporated Place|A|Umatilla County
+OR|41|00500|Adrian city|Incorporated Place|A|Malheur County
+OR|41|01000|Albany city|Incorporated Place|A|Benton County, Linn County
+OR|41|01650|Aloha CDP|Census Designated Place|S|Washington County
+OR|41|01700|Alpine CDP|Census Designated Place|S|Benton County
+OR|41|01800|Alsea CDP|Census Designated Place|S|Benton County
+OR|41|01850|Altamont CDP|Census Designated Place|S|Klamath County
+OR|41|02000|Amity city|Incorporated Place|A|Yamhill County
+OR|41|02200|Annex CDP|Census Designated Place|S|Malheur County
+OR|41|02250|Antelope city|Incorporated Place|A|Wasco County
+OR|41|02800|Arlington city|Incorporated Place|A|Gilliam County
+OR|41|03050|Ashland city|Incorporated Place|A|Jackson County
+OR|41|03150|Astoria city|Incorporated Place|A|Clatsop County
+OR|41|03200|Athena city|Incorporated Place|A|Umatilla County
+OR|41|03250|Aumsville city|Incorporated Place|A|Marion County
+OR|41|03300|Aurora city|Incorporated Place|A|Marion County
+OR|41|03650|Baker City city|Incorporated Place|A|Baker County
+OR|41|03800|Bandon city|Incorporated Place|A|Coos County
+OR|41|03850|Banks city|Incorporated Place|A|Washington County
+OR|41|04000|Barlow city|Incorporated Place|A|Clackamas County
+OR|41|04400|Barview CDP|Census Designated Place|S|Coos County
+OR|41|04800|Bay City city|Incorporated Place|A|Tillamook County
+OR|41|04925|Bayside Gardens CDP|Census Designated Place|S|Tillamook County
+OR|41|05200|Beaver CDP|Census Designated Place|S|Tillamook County
+OR|41|05250|Beavercreek CDP|Census Designated Place|S|Clackamas County
+OR|41|05350|Beaverton city|Incorporated Place|A|Washington County
+OR|41|05700|Bellfountain CDP|Census Designated Place|S|Benton County
+OR|41|05800|Bend city|Incorporated Place|A|Deschutes County
+OR|41|05950|Bethany CDP|Census Designated Place|S|Washington County
+OR|41|06400|Biggs Junction CDP|Census Designated Place|S|Sherman County
+OR|41|06650|Black Butte Ranch CDP|Census Designated Place|S|Deschutes County
+OR|41|06950|Blodgett CDP|Census Designated Place|S|Benton County
+OR|41|07200|Boardman city|Incorporated Place|A|Morrow County
+OR|41|07300|Bonanza town|Incorporated Place|A|Klamath County
+OR|41|08600|Brogan CDP|Census Designated Place|S|Malheur County
+OR|41|08650|Brookings city|Incorporated Place|A|Curry County
+OR|41|08750|Brooks CDP|Census Designated Place|S|Marion County
+OR|41|09050|Brownsville city|Incorporated Place|A|Linn County
+OR|41|09535|Bull Mountain CDP|Census Designated Place|S|Washington County
+OR|41|09600|Bunker Hill CDP|Census Designated Place|S|Coos County
+OR|41|09800|Burns city|Incorporated Place|A|Harney County
+OR|41|10050|Butte Falls town|Incorporated Place|A|Jackson County
+OR|41|10100|Butteville CDP|Census Designated Place|S|Marion County
+OR|41|10550|Camp Sherman CDP|Census Designated Place|S|Jefferson County
+OR|41|10750|Canby city|Incorporated Place|A|Clackamas County
+OR|41|10850|Cannon Beach city|Incorporated Place|A|Clatsop County
+OR|41|10950|Canyon City town|Incorporated Place|A|Grant County
+OR|41|11000|Canyonville city|Incorporated Place|A|Douglas County
+OR|41|11050|Cape Meares CDP|Census Designated Place|S|Tillamook County
+OR|41|11150|Carlton city|Incorporated Place|A|Yamhill County
+OR|41|11600|Cascade Locks city|Incorporated Place|A|Hood River County
+OR|41|11700|Cascadia CDP|Census Designated Place|S|Linn County
+OR|41|11850|Cave Junction city|Incorporated Place|A|Josephine County
+OR|41|11900|Cayuse CDP|Census Designated Place|S|Umatilla County
+OR|41|12050|Cedar Hills CDP|Census Designated Place|S|Washington County
+OR|41|12150|Cedar Mill CDP|Census Designated Place|S|Multnomah County, Washington County
+OR|41|12400|Central Point city|Incorporated Place|A|Jackson County
+OR|41|12800|Chenoweth CDP|Census Designated Place|S|Wasco County
+OR|41|13050|Chiloquin city|Incorporated Place|A|Klamath County
+OR|41|13750|Clatskanie city|Incorporated Place|A|Columbia County
+OR|41|14200|Cloverdale CDP|Census Designated Place|S|Tillamook County
+OR|41|14400|Coburg city|Incorporated Place|A|Lane County
+OR|41|14750|Columbia City city|Incorporated Place|A|Columbia County
+OR|41|15000|Condon city|Incorporated Place|A|Gilliam County
+OR|41|15250|Coos Bay city|Incorporated Place|A|Coos County
+OR|41|15350|Coquille city|Incorporated Place|A|Coos County
+OR|41|15550|Cornelius city|Incorporated Place|A|Washington County
+OR|41|15800|Corvallis city|Incorporated Place|A|Benton County
+OR|41|15950|Cottage Grove city|Incorporated Place|A|Lane County
+OR|41|16250|Cove city|Incorporated Place|A|Union County
+OR|41|16350|Crabtree CDP|Census Designated Place|S|Linn County
+OR|41|16450|Crane CDP|Census Designated Place|S|Harney County
+OR|41|16650|Crawfordsville CDP|Census Designated Place|S|Linn County
+OR|41|16950|Creswell city|Incorporated Place|A|Lane County
+OR|41|17300|Culver city|Incorporated Place|A|Jefferson County
+OR|41|17700|Dallas city|Incorporated Place|A|Polk County
+OR|41|17800|Damascus city|Incorporated Place|A|Clackamas County
+OR|41|18150|Days Creek CDP|Census Designated Place|S|Douglas County
+OR|41|18250|Dayton city|Incorporated Place|A|Yamhill County
+OR|41|18300|Dayville town|Incorporated Place|A|Grant County
+OR|41|18450|Deer Island CDP|Census Designated Place|S|Columbia County
+OR|41|18850|Depoe Bay city|Incorporated Place|A|Lincoln County
+OR|41|19020|Deschutes River Woods CDP|Census Designated Place|S|Deschutes County
+OR|41|19100|Detroit city|Incorporated Place|A|Marion County
+OR|41|19600|Dillard CDP|Census Designated Place|S|Douglas County
+OR|41|20100|Donald city|Incorporated Place|A|Marion County
+OR|41|20500|Drain city|Incorporated Place|A|Douglas County
+OR|41|20900|Dufur city|Incorporated Place|A|Wasco County
+OR|41|21050|Dundee city|Incorporated Place|A|Yamhill County
+OR|41|21150|Dunes City city|Incorporated Place|A|Lane County
+OR|41|21250|Durham city|Incorporated Place|A|Washington County
+OR|41|21450|Eagle Crest CDP|Census Designated Place|S|Deschutes County
+OR|41|21550|Eagle Point city|Incorporated Place|A|Jackson County
+OR|41|22200|Echo city|Incorporated Place|A|Umatilla County
+OR|41|22550|Elgin city|Incorporated Place|A|Union County
+OR|41|22800|Elkton city|Incorporated Place|A|Douglas County
+OR|41|23500|Enterprise city|Incorporated Place|A|Wallowa County
+OR|41|23550|Eola CDP|Census Designated Place|S|Polk County
+OR|41|23800|Estacada city|Incorporated Place|A|Clackamas County
+OR|41|23850|Eugene city|Incorporated Place|A|Lane County
+OR|41|24100|Fair Oaks CDP|Census Designated Place|S|Douglas County
+OR|41|24250|Fairview city|Incorporated Place|A|Multnomah County
+OR|41|24550|Falls City city|Incorporated Place|A|Polk County
+OR|41|26050|Florence city|Incorporated Place|A|Lane County
+OR|41|26165|Foots Creek CDP|Census Designated Place|S|Jackson County
+OR|41|26200|Forest Grove city|Incorporated Place|A|Washington County
+OR|41|26400|Fort Hill CDP|Census Designated Place|S|Polk County, Yamhill County
+OR|41|26650|Fossil city|Incorporated Place|A|Wheeler County
+OR|41|26750|Four Corners CDP|Census Designated Place|S|Marion County
+OR|41|27350|Fruitdale CDP|Census Designated Place|S|Josephine County
+OR|41|27825|Garden Home-Whitford CDP|Census Designated Place|S|Washington County
+OR|41|27850|Gardiner CDP|Census Designated Place|S|Douglas County
+OR|41|28000|Garibaldi city|Incorporated Place|A|Tillamook County
+OR|41|28100|Gaston city|Incorporated Place|A|Washington County, Yamhill County
+OR|41|28200|Gates city|Incorporated Place|A|Linn County, Marion County
+OR|41|28450|Gearhart city|Incorporated Place|A|Clatsop County
+OR|41|28650|Gervais city|Incorporated Place|A|Marion County
+OR|41|29000|Gladstone city|Incorporated Place|A|Clackamas County
+OR|41|29100|Glasgow CDP|Census Designated Place|S|Coos County
+OR|41|29350|Glendale city|Incorporated Place|A|Douglas County
+OR|41|29750|Glide CDP|Census Designated Place|S|Douglas County
+OR|41|29900|Gold Beach city|Incorporated Place|A|Curry County
+OR|41|29950|Gold Hill city|Incorporated Place|A|Jackson County
+OR|41|30165|Gopher Flats CDP|Census Designated Place|S|Umatilla County
+OR|41|30250|Government Camp CDP|Census Designated Place|S|Clackamas County
+OR|41|30300|Grand Ronde CDP|Census Designated Place|S|Polk County, Yamhill County
+OR|41|30500|Granite city|Incorporated Place|A|Grant County
+OR|41|30550|Grants Pass city|Incorporated Place|A|Josephine County
+OR|41|30650|Grass Valley city|Incorporated Place|A|Sherman County
+OR|41|30750|Green CDP|Census Designated Place|S|Douglas County
+OR|41|31050|Greenhorn city|Incorporated Place|I|Baker County, Grant County
+OR|41|31250|Gresham city|Incorporated Place|A|Multnomah County
+OR|41|31600|Haines city|Incorporated Place|A|Baker County
+OR|41|31650|Halfway city|Incorporated Place|A|Baker County
+OR|41|31750|Halsey city|Incorporated Place|A|Linn County
+OR|41|32050|Happy Valley city|Incorporated Place|A|Clackamas County
+OR|41|32100|Harbor CDP|Census Designated Place|S|Curry County
+OR|41|32400|Harper CDP|Census Designated Place|S|Malheur County
+OR|41|32550|Harrisburg city|Incorporated Place|A|Linn County
+OR|41|32850|Hayesville CDP|Census Designated Place|S|Marion County
+OR|41|33100|Hebo CDP|Census Designated Place|S|Tillamook County
+OR|41|33250|Helix city|Incorporated Place|A|Umatilla County
+OR|41|33550|Heppner city|Incorporated Place|A|Morrow County
+OR|41|33700|Hermiston city|Incorporated Place|A|Umatilla County
+OR|41|34100|Hillsboro city|Incorporated Place|A|Washington County
+OR|41|34250|Hines city|Incorporated Place|A|Harney County
+OR|41|34650|Holley CDP|Census Designated Place|S|Linn County
+OR|41|34900|Hood River city|Incorporated Place|A|Hood River County
+OR|41|35450|Hubbard city|Incorporated Place|A|Marion County
+OR|41|35700|Huntington city|Incorporated Place|A|Baker County
+OR|41|35800|Idanha city|Incorporated Place|A|Linn County, Marion County
+OR|41|35850|Idaville CDP|Census Designated Place|S|Tillamook County
+OR|41|36050|Imbler city|Incorporated Place|A|Union County
+OR|41|36150|Independence city|Incorporated Place|A|Polk County
+OR|41|36400|Ione city|Incorporated Place|A|Morrow County
+OR|41|36500|Irrigon city|Incorporated Place|A|Morrow County
+OR|41|36750|Island City city|Incorporated Place|A|Union County
+OR|41|37000|Jacksonville city|Incorporated Place|A|Jackson County
+OR|41|37200|Jeffers Gardens CDP|Census Designated Place|S|Clatsop County
+OR|41|37250|Jefferson city|Incorporated Place|A|Marion County
+OR|41|37400|Jennings Lodge CDP|Census Designated Place|S|Clackamas County
+OR|41|37550|John Day city|Incorporated Place|A|Grant County
+OR|41|37650|Johnson City city|Incorporated Place|A|Clackamas County
+OR|41|37850|Jordan Valley city|Incorporated Place|A|Malheur County
+OR|41|37900|Joseph city|Incorporated Place|A|Wallowa County
+OR|41|38000|Junction City city|Incorporated Place|A|Lane County
+OR|41|38150|Juntura CDP|Census Designated Place|S|Malheur County
+OR|41|38500|Keizer city|Incorporated Place|A|Marion County
+OR|41|38900|Kerby CDP|Census Designated Place|S|Josephine County
+OR|41|39150|King City city|Incorporated Place|A|Washington County
+OR|41|39350|Kings Valley CDP|Census Designated Place|S|Benton County
+OR|41|39566|Kirkpatrick CDP|Census Designated Place|S|Umatilla County
+OR|41|39700|Klamath Falls city|Incorporated Place|A|Klamath County
+OR|41|40050|Labish Village CDP|Census Designated Place|S|Marion County
+OR|41|40150|Lacomb CDP|Census Designated Place|S|Linn County
+OR|41|40300|Lafayette city|Incorporated Place|A|Yamhill County
+OR|41|40350|La Grande city|Incorporated Place|A|Union County
+OR|41|40550|Lake Oswego city|Incorporated Place|A|Clackamas County, Multnomah County, Washington County
+OR|41|40650|Lakeside city|Incorporated Place|A|Coos County
+OR|41|40700|Lakeview town|Incorporated Place|A|Lake County
+OR|41|40950|Langlois CDP|Census Designated Place|S|Curry County
+OR|41|41050|La Pine city|Incorporated Place|A|Deschutes County
+OR|41|41650|Lebanon city|Incorporated Place|A|Linn County
+OR|41|42200|Lexington town|Incorporated Place|A|Morrow County
+OR|41|42550|Lincoln Beach CDP|Census Designated Place|S|Lincoln County
+OR|41|42600|Lincoln City city|Incorporated Place|A|Lincoln County
+OR|41|43400|Lonerock city|Incorporated Place|A|Gilliam County
+OR|41|43550|Long Creek city|Incorporated Place|A|Grant County
+OR|41|43650|Lookingglass CDP|Census Designated Place|S|Douglas County
+OR|41|43900|Lostine city|Incorporated Place|A|Wallowa County
+OR|41|44050|Lowell city|Incorporated Place|A|Lane County
+OR|41|44300|Lyons city|Incorporated Place|A|Linn County
+OR|41|45000|McMinnville city|Incorporated Place|A|Yamhill County
+OR|41|45250|Madras city|Incorporated Place|A|Jefferson County
+OR|41|45400|Malin city|Incorporated Place|A|Klamath County
+OR|41|45700|Manzanita city|Incorporated Place|A|Tillamook County
+OR|41|45900|Marion CDP|Census Designated Place|S|Marion County
+OR|41|46500|Maupin city|Incorporated Place|A|Wasco County
+OR|41|46730|Maywood Park city|Incorporated Place|A|Multnomah County
+OR|41|47000|Medford city|Incorporated Place|A|Jackson County
+OR|41|47300|Mehama CDP|Census Designated Place|S|Marion County
+OR|41|47350|Melrose CDP|Census Designated Place|S|Douglas County
+OR|41|47650|Merlin CDP|Census Designated Place|S|Josephine County
+OR|41|47700|Merrill city|Incorporated Place|A|Klamath County
+OR|41|47750|Metolius city|Incorporated Place|A|Jefferson County
+OR|41|47800|Metzger CDP|Census Designated Place|S|Washington County
+OR|41|48150|Mill City city|Incorporated Place|A|Linn County, Marion County
+OR|41|48300|Millersburg city|Incorporated Place|A|Linn County
+OR|41|48600|Milton-Freewater city|Incorporated Place|A|Umatilla County
+OR|41|48650|Milwaukie city|Incorporated Place|A|Clackamas County, Multnomah County
+OR|41|49000|Mission CDP|Census Designated Place|S|Umatilla County
+OR|41|49150|Mitchell city|Incorporated Place|A|Wheeler County
+OR|41|49450|Molalla city|Incorporated Place|A|Clackamas County
+OR|41|49550|Monmouth city|Incorporated Place|A|Polk County
+OR|41|49600|Monroe city|Incorporated Place|A|Benton County
+OR|41|49750|Monument city|Incorporated Place|A|Grant County
+OR|41|50000|Moro city|Incorporated Place|A|Sherman County
+OR|41|50050|Mosier city|Incorporated Place|A|Wasco County
+OR|41|50150|Mount Angel city|Incorporated Place|A|Marion County
+OR|41|50200|Mount Hood CDP|Census Designated Place|S|Hood River County
+OR|41|50235|Mount Hood Village CDP|Census Designated Place|S|Clackamas County
+OR|41|50250|Mount Vernon city|Incorporated Place|A|Grant County
+OR|41|50450|Mulino CDP|Census Designated Place|S|Clackamas County
+OR|41|50950|Myrtle Creek city|Incorporated Place|A|Douglas County
+OR|41|51050|Myrtle Point city|Incorporated Place|A|Coos County
+OR|41|51500|Neahkahnie CDP|Census Designated Place|S|Tillamook County
+OR|41|51700|Nehalem city|Incorporated Place|A|Tillamook County
+OR|41|51950|Nesika Beach CDP|Census Designated Place|S|Curry County
+OR|41|52000|Neskowin CDP|Census Designated Place|S|Tillamook County
+OR|41|52050|Netarts CDP|Census Designated Place|S|Tillamook County
+OR|41|52100|Newberg city|Incorporated Place|A|Yamhill County
+OR|41|52275|New Hope CDP|Census Designated Place|S|Josephine County
+OR|41|52400|New Pine Creek CDP|Census Designated Place|S|Lake County
+OR|41|52450|Newport city|Incorporated Place|A|Lincoln County
+OR|41|53000|North Bend city|Incorporated Place|A|Coos County
+OR|41|53150|North Plains city|Incorporated Place|A|Washington County
+OR|41|53300|North Powder city|Incorporated Place|A|Union County
+OR|41|53750|Nyssa city|Incorporated Place|A|Malheur County
+OR|41|53900|Oak Grove CDP|Census Designated Place|S|Clackamas County
+OR|41|53988|Oak Hills CDP|Census Designated Place|S|Washington County
+OR|41|54000|Oakland city|Incorporated Place|A|Douglas County
+OR|41|54100|Oakridge city|Incorporated Place|A|Lane County
+OR|41|54325|Oatfield CDP|Census Designated Place|S|Clackamas County
+OR|41|54350|O'Brien CDP|Census Designated Place|S|Josephine County
+OR|41|54450|Oceanside CDP|Census Designated Place|S|Tillamook County
+OR|41|54550|Odell CDP|Census Designated Place|S|Hood River County
+OR|41|54900|Ontario city|Incorporated Place|A|Malheur County
+OR|41|55200|Oregon City city|Incorporated Place|A|Clackamas County
+OR|41|56150|Pacific City CDP|Census Designated Place|S|Tillamook County
+OR|41|56250|Paisley city|Incorporated Place|A|Lake County
+OR|41|56500|Parkdale CDP|Census Designated Place|S|Hood River County
+OR|41|57150|Pendleton city|Incorporated Place|A|Umatilla County
+OR|41|57300|Peoria CDP|Census Designated Place|S|Linn County
+OR|41|57450|Philomath city|Incorporated Place|A|Benton County
+OR|41|57500|Phoenix city|Incorporated Place|A|Jackson County
+OR|41|57650|Pilot Rock city|Incorporated Place|A|Umatilla County
+OR|41|57850|Pine Grove CDP|Census Designated Place|S|Wasco County
+OR|41|57875|Pine Hollow CDP|Census Designated Place|S|Wasco County
+OR|41|58050|Pistol River CDP|Census Designated Place|S|Curry County
+OR|41|58550|Plush CDP|Census Designated Place|S|Lake County
+OR|41|59000|Portland city|Incorporated Place|A|Clackamas County, Multnomah County, Washington County
+OR|41|59250|Port Orford city|Incorporated Place|A|Curry County
+OR|41|59600|Powers city|Incorporated Place|A|Coos County
+OR|41|59650|Prairie City city|Incorporated Place|A|Grant County
+OR|41|59750|Prescott city|Incorporated Place|A|Columbia County
+OR|41|59850|Prineville city|Incorporated Place|A|Crook County
+OR|41|60070|Pronghorn CDP|Census Designated Place|S|Deschutes County
+OR|41|60100|Prospect CDP|Census Designated Place|S|Jackson County
+OR|41|60850|Rainier city|Incorporated Place|A|Columbia County
+OR|41|60900|Raleigh Hills CDP|Census Designated Place|S|Washington County
+OR|41|61200|Redmond city|Incorporated Place|A|Deschutes County
+OR|41|61250|Redwood CDP|Census Designated Place|S|Josephine County
+OR|41|61300|Reedsport city|Incorporated Place|A|Douglas County
+OR|41|61700|Richland city|Incorporated Place|A|Baker County
+OR|41|61800|Rickreall CDP|Census Designated Place|S|Polk County
+OR|41|61850|Riddle city|Incorporated Place|A|Douglas County
+OR|41|62250|Rivergrove city|Incorporated Place|A|Clackamas County, Washington County
+OR|41|62412|Riverside CDP|Census Designated Place|S|Umatilla County
+OR|41|62900|Rockaway Beach city|Incorporated Place|A|Tillamook County
+OR|41|63010|Rockcreek CDP|Census Designated Place|S|Washington County
+OR|41|63450|Rogue River city|Incorporated Place|A|Jackson County
+OR|41|63650|Roseburg city|Incorporated Place|A|Douglas County
+OR|41|63660|Roseburg North CDP|Census Designated Place|S|Douglas County
+OR|41|63800|Rose Lodge CDP|Census Designated Place|S|Lincoln County
+OR|41|63950|Rowena CDP|Census Designated Place|S|Wasco County
+OR|41|64150|Ruch CDP|Census Designated Place|S|Jackson County
+OR|41|64200|Rufus city|Incorporated Place|A|Sherman County
+OR|41|64600|St. Helens city|Incorporated Place|A|Columbia County
+OR|41|64850|St. Paul city|Incorporated Place|A|Marion County
+OR|41|64900|Salem city|Incorporated Place|A|Marion County, Polk County
+OR|41|65250|Sandy city|Incorporated Place|A|Clackamas County
+OR|41|65500|Scappoose city|Incorporated Place|A|Columbia County
+OR|41|65650|Scio city|Incorporated Place|A|Linn County
+OR|41|65800|Scotts Mills city|Incorporated Place|A|Marion County
+OR|41|65950|Seaside city|Incorporated Place|A|Clatsop County
+OR|41|66150|Selma CDP|Census Designated Place|S|Josephine County
+OR|41|66200|Seneca city|Incorporated Place|A|Grant County
+OR|41|66385|Seventh Mountain CDP|Census Designated Place|S|Deschutes County
+OR|41|66550|Shady Cove city|Incorporated Place|A|Jackson County
+OR|41|66700|Shaniko city|Incorporated Place|A|Wasco County
+OR|41|66900|Shedd CDP|Census Designated Place|S|Linn County
+OR|41|67050|Sheridan city|Incorporated Place|A|Yamhill County
+OR|41|67100|Sherwood city|Incorporated Place|A|Washington County
+OR|41|67500|Siletz city|Incorporated Place|A|Lincoln County
+OR|41|67600|Silver Lake CDP|Census Designated Place|S|Lake County
+OR|41|67650|Silverton city|Incorporated Place|A|Marion County
+OR|41|67950|Sisters city|Incorporated Place|A|Deschutes County
+OR|41|68550|Sodaville city|Incorporated Place|A|Linn County
+OR|41|68875|South Lebanon CDP|Census Designated Place|S|Linn County
+OR|41|69450|Spray town|Incorporated Place|A|Wheeler County
+OR|41|69600|Springfield city|Incorporated Place|A|Lane County
+OR|41|69800|Stafford CDP|Census Designated Place|S|Clackamas County
+OR|41|69900|Stanfield city|Incorporated Place|A|Umatilla County
+OR|41|70200|Stayton city|Incorporated Place|A|Marion County
+OR|41|70700|Sublimity city|Incorporated Place|A|Marion County
+OR|41|70850|Summerville town|Incorporated Place|A|Union County
+OR|41|70870|Summit CDP|Census Designated Place|S|Benton County
+OR|41|71000|Sumpter city|Incorporated Place|A|Baker County
+OR|41|71250|Sunriver CDP|Census Designated Place|S|Deschutes County
+OR|41|71650|Sutherlin city|Incorporated Place|A|Douglas County
+OR|41|71950|Sweet Home city|Incorporated Place|A|Linn County
+OR|41|72400|Takilma CDP|Census Designated Place|S|Josephine County
+OR|41|72500|Talent city|Incorporated Place|A|Jackson County
+OR|41|72600|Tangent city|Incorporated Place|A|Linn County
+OR|41|72800|Terrebonne CDP|Census Designated Place|S|Deschutes County
+OR|41|72820|Tetherow CDP|Census Designated Place|S|Deschutes County
+OR|41|72950|The Dalles city|Incorporated Place|A|Wasco County
+OR|41|73225|Three Rivers CDP|Census Designated Place|S|Deschutes County
+OR|41|73650|Tigard city|Incorporated Place|A|Washington County
+OR|41|73700|Tillamook city|Incorporated Place|A|Tillamook County
+OR|41|74000|Toledo city|Incorporated Place|A|Lincoln County
+OR|41|74400|Trail CDP|Census Designated Place|S|Jackson County
+OR|41|74650|Tri-City CDP|Census Designated Place|S|Douglas County
+OR|41|74850|Troutdale city|Incorporated Place|A|Multnomah County
+OR|41|74950|Tualatin city|Incorporated Place|A|Clackamas County, Washington County
+OR|41|75050|Tumalo CDP|Census Designated Place|S|Deschutes County
+OR|41|75150|Turner city|Incorporated Place|A|Marion County
+OR|41|75185|Tutuilla CDP|Census Designated Place|S|Umatilla County
+OR|41|75500|Tygh Valley CDP|Census Designated Place|S|Wasco County
+OR|41|75550|Ukiah city|Incorporated Place|A|Umatilla County
+OR|41|75600|Umapine CDP|Census Designated Place|S|Umatilla County
+OR|41|75650|Umatilla city|Incorporated Place|A|Umatilla County
+OR|41|75850|Union city|Incorporated Place|A|Union County
+OR|41|76250|Unity city|Incorporated Place|A|Baker County
+OR|41|76600|Vale city|Incorporated Place|A|Malheur County
+OR|41|77050|Veneta city|Incorporated Place|A|Lane County
+OR|41|77250|Vernonia city|Incorporated Place|A|Columbia County
+OR|41|78000|Waldport city|Incorporated Place|A|Lincoln County
+OR|41|78150|Wallowa city|Incorporated Place|A|Wallowa County
+OR|41|78160|Wallowa Lake CDP|Census Designated Place|S|Wallowa County
+OR|41|78300|Wamic CDP|Census Designated Place|S|Wasco County
+OR|41|78600|Warm Springs CDP|Census Designated Place|S|Jefferson County
+OR|41|78800|Warren CDP|Census Designated Place|S|Columbia County
+OR|41|78900|Warrenton city|Incorporated Place|A|Clatsop County
+OR|41|78950|Wasco city|Incorporated Place|A|Sherman County
+OR|41|79050|Waterloo town|Incorporated Place|A|Linn County
+OR|41|79950|Westfir city|Incorporated Place|A|Lane County
+OR|41|80025|West Haven-Sylvan CDP|Census Designated Place|S|Multnomah County, Washington County
+OR|41|80150|West Linn city|Incorporated Place|A|Clackamas County
+OR|41|80350|Weston city|Incorporated Place|A|Umatilla County
+OR|41|80400|Westport CDP|Census Designated Place|S|Clatsop County
+OR|41|80750|West Scio CDP|Census Designated Place|S|Linn County
+OR|41|80900|West Slope CDP|Census Designated Place|S|Washington County
+OR|41|81300|Wheeler city|Incorporated Place|A|Tillamook County
+OR|41|81450|White City CDP|Census Designated Place|S|Jackson County
+OR|41|82350|Willamina city|Incorporated Place|A|Polk County, Yamhill County
+OR|41|82450|Williams CDP|Census Designated Place|S|Josephine County
+OR|41|82800|Wilsonville city|Incorporated Place|A|Clackamas County, Washington County
+OR|41|82850|Wimer CDP|Census Designated Place|S|Jackson County
+OR|41|83050|Winchester Bay CDP|Census Designated Place|S|Douglas County
+OR|41|83400|Winston city|Incorporated Place|A|Douglas County
+OR|41|83750|Woodburn city|Incorporated Place|A|Marion County
+OR|41|83950|Wood Village city|Incorporated Place|A|Multnomah County
+OR|41|84200|Yachats city|Incorporated Place|A|Lincoln County
+OR|41|84250|Yamhill city|Incorporated Place|A|Yamhill County
+OR|41|84600|Yoncalla city|Incorporated Place|A|Douglas County

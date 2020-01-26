@@ -1,0 +1,473 @@
+LA|22|00100|Abbeville city|Incorporated Place|A|Vermilion Parish
+LA|22|00240|Abita Springs town|Incorporated Place|A|St. Tammany Parish
+LA|22|00415|Addis town|Incorporated Place|A|West Baton Rouge Parish
+LA|22|00835|Albany village|Incorporated Place|A|Livingston Parish
+LA|22|00975|Alexandria city|Incorporated Place|A|Rapides Parish
+LA|22|01780|Ama CDP|Census Designated Place|S|St. Charles Parish
+LA|22|01815|Amelia CDP|Census Designated Place|S|St. Mary Parish
+LA|22|01885|Amite City town|Incorporated Place|A|Tangipahoa Parish
+LA|22|01920|Anacoco village|Incorporated Place|A|Vernon Parish
+LA|22|02165|Angie village|Incorporated Place|A|Washington Parish
+LA|22|02550|Arabi CDP|Census Designated Place|S|St. Bernard Parish
+LA|22|02655|Arcadia town|Incorporated Place|A|Bienville Parish
+LA|22|03110|Arnaudville town|Incorporated Place|A|St. Landry Parish, St. Martin Parish
+LA|22|03145|Ashland village|Incorporated Place|A|Natchitoches Parish
+LA|22|03320|Athens village|Incorporated Place|A|Claiborne Parish
+LA|22|03390|Atlanta village|Incorporated Place|A|Winn Parish
+LA|22|03810|Avondale CDP|Census Designated Place|S|Jefferson Parish
+LA|22|03985|Baker city|Incorporated Place|A|East Baton Rouge Parish
+LA|22|04020|Baldwin town|Incorporated Place|A|St. Mary Parish
+LA|22|04055|Ball town|Incorporated Place|A|Rapides Parish
+LA|22|04230|Banks Springs CDP|Census Designated Place|S|Caldwell Parish
+LA|22|04300|Barataria CDP|Census Designated Place|S|Jefferson Parish
+LA|22|04580|Basile town|Incorporated Place|A|Acadia Parish, Evangeline Parish
+LA|22|04615|Baskin village|Incorporated Place|A|Franklin Parish
+LA|22|04685|Bastrop city|Incorporated Place|A|Morehouse Parish
+LA|22|05000|Baton Rouge city|Incorporated Place|B|East Baton Rouge Parish
+LA|22|05105|Bawcomville CDP|Census Designated Place|S|Ouachita Parish
+LA|22|05175|Bayou Blue CDP|Census Designated Place|S|Lafourche Parish, Terrebonne Parish
+LA|22|05210|Bayou Cane CDP|Census Designated Place|S|Terrebonne Parish
+LA|22|05260|Bayou Country Club CDP|Census Designated Place|S|Lafourche Parish
+LA|22|05315|Bayou Gauche CDP|Census Designated Place|S|St. Charles Parish
+LA|22|05350|Bayou Goula CDP|Census Designated Place|S|Iberville Parish
+LA|22|05378|Bayou L'Ourse CDP|Census Designated Place|S|Assumption Parish
+LA|22|05525|Bayou Vista CDP|Census Designated Place|S|St. Mary Parish
+LA|22|05945|Belcher village|Incorporated Place|A|Caddo Parish
+LA|22|06120|Belle Chasse CDP|Census Designated Place|S|Plaquemines Parish
+LA|22|06260|Belle Rose CDP|Census Designated Place|S|Assumption Parish
+LA|22|06750|Belmont CDP|Census Designated Place|S|Sabine Parish
+LA|22|06925|Benton town|Incorporated Place|A|Bossier Parish
+LA|22|07030|Bernice town|Incorporated Place|A|Union Parish
+LA|22|07100|Berwick town|Incorporated Place|A|St. Mary Parish
+LA|22|07205|Bienville village|Incorporated Place|A|Bienville Parish
+LA|22|07730|Blanchard town|Incorporated Place|A|Caddo Parish
+LA|22|08150|Bogalusa city|Incorporated Place|A|Washington Parish
+LA|22|08535|Bonita village|Incorporated Place|A|Morehouse Parish
+LA|22|08710|Boothville CDP|Census Designated Place|S|Plaquemines Parish
+LA|22|08745|Bordelonville CDP|Census Designated Place|S|Avoyelles Parish
+LA|22|08920|Bossier City city|Incorporated Place|A|Bossier Parish
+LA|22|09095|Bourg CDP|Census Designated Place|S|Terrebonne Parish
+LA|22|09130|Boutte CDP|Census Designated Place|S|St. Charles Parish
+LA|22|09165|Boyce town|Incorporated Place|A|Rapides Parish
+LA|22|09235|Branch CDP|Census Designated Place|S|Acadia Parish
+LA|22|09340|Breaux Bridge city|Incorporated Place|A|St. Martin Parish
+LA|22|09480|Bridge City CDP|Census Designated Place|S|Jefferson Parish
+LA|22|10075|Broussard city|Incorporated Place|A|Lafayette Parish, St. Martin Parish
+LA|22|10145|Brownfields CDP|Census Designated Place|S|East Baton Rouge Parish
+LA|22|10225|Brownsville CDP|Census Designated Place|S|Ouachita Parish
+LA|22|10600|Brusly town|Incorporated Place|A|West Baton Rouge Parish
+LA|22|10705|Bryceland village|Incorporated Place|A|Bienville Parish
+LA|22|10950|Bunkie city|Incorporated Place|A|Avoyelles Parish
+LA|22|10985|Buras CDP|Census Designated Place|S|Plaquemines Parish
+LA|22|11580|Cade CDP|Census Designated Place|S|St. Martin Parish
+LA|22|11825|Calhoun CDP|Census Designated Place|S|Ouachita Parish
+LA|22|11930|Calvin village|Incorporated Place|A|Winn Parish
+LA|22|12000|Cameron CDP|Census Designated Place|S|Cameron Parish
+LA|22|12280|Campti town|Incorporated Place|A|Natchitoches Parish
+LA|22|12420|Cankton village|Incorporated Place|A|St. Landry Parish
+LA|22|12665|Carencro city|Incorporated Place|A|Lafayette Parish
+LA|22|12840|Carlyss CDP|Census Designated Place|S|Calcasieu Parish
+LA|22|13260|Castor village|Incorporated Place|A|Bienville Parish
+LA|22|13330|Catahoula CDP|Census Designated Place|S|St. Martin Parish
+LA|22|13575|Cecilia CDP|Census Designated Place|S|St. Martin Parish
+LA|22|13855|Center Point CDP|Census Designated Place|S|Avoyelles Parish
+LA|22|13960|Central city|Incorporated Place|A|East Baton Rouge Parish
+LA|22|14100|Chackbay CDP|Census Designated Place|S|Lafourche Parish
+LA|22|14135|Chalmette CDP|Census Designated Place|S|St. Bernard Parish
+LA|22|14310|Charenton CDP|Census Designated Place|S|St. Mary Parish
+LA|22|14450|Chataignier village|Incorporated Place|A|Evangeline Parish
+LA|22|14485|Chatham town|Incorporated Place|A|Jackson Parish
+LA|22|14520|Chauvin CDP|Census Designated Place|S|Terrebonne Parish
+LA|22|14660|Cheneyville town|Incorporated Place|A|Rapides Parish
+LA|22|15150|Choctaw CDP|Census Designated Place|S|Lafourche Parish
+LA|22|15290|Choudrant village|Incorporated Place|A|Lincoln Parish
+LA|22|15465|Church Point town|Incorporated Place|A|Acadia Parish
+LA|22|15605|Claiborne CDP|Census Designated Place|S|Ouachita Parish
+LA|22|15745|Clarence village|Incorporated Place|A|Natchitoches Parish
+LA|22|15780|Clarks village|Incorporated Place|A|Caldwell Parish
+LA|22|15850|Clayton town|Incorporated Place|A|Concordia Parish
+LA|22|15990|Clinton town|Incorporated Place|A|East Feliciana Parish
+LA|22|16375|Colfax town|Incorporated Place|A|Grant Parish
+LA|22|16655|Collinston village|Incorporated Place|A|Morehouse Parish
+LA|22|16830|Columbia town|Incorporated Place|A|Caldwell Parish
+LA|22|17180|Convent CDP|Census Designated Place|S|St. James Parish
+LA|22|17215|Converse village|Incorporated Place|A|Sabine Parish
+LA|22|17880|Cottonport town|Incorporated Place|A|Avoyelles Parish
+LA|22|17915|Cotton Valley town|Incorporated Place|A|Webster Parish
+LA|22|18055|Coushatta town|Incorporated Place|A|Red River Parish
+LA|22|18125|Covington city|Incorporated Place|A|St. Tammany Parish
+LA|22|18295|Creola village|Incorporated Place|A|Grant Parish
+LA|22|18335|Crescent CDP|Census Designated Place|S|Iberville Parish
+LA|22|18650|Crowley city|Incorporated Place|A|Acadia Parish
+LA|22|18790|Cullen town|Incorporated Place|A|Webster Parish
+LA|22|18930|Cut Off CDP|Census Designated Place|S|Lafourche Parish
+LA|22|20155|Delcambre town|Incorporated Place|A|Iberia Parish, Vermilion Parish
+LA|22|20190|Delhi town|Incorporated Place|A|Richland Parish
+LA|22|20330|Delta village|Incorporated Place|A|Madison Parish
+LA|22|20435|Denham Springs city|Incorporated Place|A|Livingston Parish
+LA|22|20575|DeQuincy city|Incorporated Place|A|Calcasieu Parish
+LA|22|20610|DeRidder city|Incorporated Place|A|Beauregard Parish, Vernon Parish
+LA|22|20680|Des Allemands CDP|Census Designated Place|S|Lafourche Parish, St. Charles Parish
+LA|22|20820|Destrehan CDP|Census Designated Place|S|St. Charles Parish
+LA|22|20890|Deville CDP|Census Designated Place|S|Rapides Parish
+LA|22|21135|Dixie Inn village|Incorporated Place|A|Webster Parish
+LA|22|21170|Dodson village|Incorporated Place|A|Winn Parish
+LA|22|21240|Donaldsonville city|Incorporated Place|A|Ascension Parish
+LA|22|21450|Downsville village|Incorporated Place|A|Lincoln Parish, Union Parish
+LA|22|21590|Doyline village|Incorporated Place|A|Webster Parish
+LA|22|21765|Dry Prong village|Incorporated Place|A|Grant Parish
+LA|22|21800|Dubach town|Incorporated Place|A|Lincoln Parish
+LA|22|21835|Dubberly village|Incorporated Place|A|Webster Parish
+LA|22|21940|Dulac CDP|Census Designated Place|S|Terrebonne Parish
+LA|22|22255|Duson town|Incorporated Place|A|Acadia Parish, Lafayette Parish
+LA|22|22465|East Hodge village|Incorporated Place|A|Jackson Parish
+LA|22|22610|Eastwood CDP|Census Designated Place|S|Bossier Parish
+LA|22|22722|Eden Isle CDP|Census Designated Place|S|St. Tammany Parish
+LA|22|22815|Edgard CDP|Census Designated Place|S|St. John the Baptist Parish
+LA|22|22850|Edgefield village|Incorporated Place|A|Red River Parish
+LA|22|23025|Egan CDP|Census Designated Place|S|Acadia Parish
+LA|22|23235|Elizabeth town|Incorporated Place|A|Allen Parish
+LA|22|23567|Elmwood CDP|Census Designated Place|S|Jefferson Parish
+LA|22|23620|Elton town|Incorporated Place|A|Jefferson Davis Parish
+LA|22|23725|Empire CDP|Census Designated Place|S|Plaquemines Parish
+LA|22|24145|Epps village|Incorporated Place|A|West Carroll Parish
+LA|22|24180|Erath town|Incorporated Place|A|Vermilion Parish
+LA|22|24215|Eros town|Incorporated Place|A|Jackson Parish
+LA|22|24250|Erwinville CDP|Census Designated Place|S|West Baton Rouge Parish
+LA|22|24390|Estelle CDP|Census Designated Place|S|Jefferson Parish
+LA|22|24460|Estherwood village|Incorporated Place|A|Acadia Parish
+LA|22|24565|Eunice city|Incorporated Place|A|Acadia Parish, St. Landry Parish
+LA|22|24775|Evergreen town|Incorporated Place|A|Avoyelles Parish
+LA|22|25160|Farmerville town|Incorporated Place|A|Union Parish
+LA|22|25335|Fenton village|Incorporated Place|A|Jefferson Davis Parish
+LA|22|25440|Ferriday town|Incorporated Place|A|Concordia Parish
+LA|22|25545|Fifth Ward CDP|Census Designated Place|S|Avoyelles Parish
+LA|22|25615|Fisher village|Incorporated Place|A|Sabine Parish
+LA|22|25860|Florien village|Incorporated Place|A|Sabine Parish
+LA|22|26140|Folsom village|Incorporated Place|A|St. Tammany Parish
+LA|22|26280|Fordoche town|Incorporated Place|A|Pointe Coupee Parish
+LA|22|26350|Forest village|Incorporated Place|A|West Carroll Parish
+LA|22|26420|Forest Hill village|Incorporated Place|A|Rapides Parish
+LA|22|26665|Fort Jesup CDP|Census Designated Place|S|Sabine Parish
+LA|22|26746|Fort Polk North CDP|Census Designated Place|S|Vernon Parish
+LA|22|26757|Fort Polk South CDP|Census Designated Place|S|Vernon Parish
+LA|22|27155|Franklin city|Incorporated Place|A|St. Mary Parish
+LA|22|27190|Franklinton town|Incorporated Place|A|Washington Parish
+LA|22|27435|French Settlement village|Incorporated Place|A|Livingston Parish
+LA|22|27540|Frierson CDP|Census Designated Place|S|De Soto Parish
+LA|22|28065|Galliano CDP|Census Designated Place|S|Lafourche Parish
+LA|22|28275|Gardere CDP|Census Designated Place|S|East Baton Rouge Parish
+LA|22|28345|Garyville CDP|Census Designated Place|S|St. John the Baptist Parish
+LA|22|28660|Georgetown village|Incorporated Place|A|Grant Parish
+LA|22|28835|Gibsland town|Incorporated Place|A|Bienville Parish
+LA|22|28940|Gilbert village|Incorporated Place|A|Franklin Parish
+LA|22|29010|Gilliam village|Incorporated Place|A|Caddo Parish
+LA|22|29045|Gillis CDP|Census Designated Place|S|Calcasieu Parish
+LA|22|29150|Glencoe CDP|Census Designated Place|S|St. Mary Parish
+LA|22|29220|Glenmora town|Incorporated Place|A|Rapides Parish
+LA|22|29395|Gloster CDP|Census Designated Place|S|De Soto Parish
+LA|22|29640|Golden Meadow town|Incorporated Place|A|Lafourche Parish
+LA|22|29745|Goldonna village|Incorporated Place|A|Natchitoches Parish
+LA|22|29850|Gonzales city|Incorporated Place|A|Ascension Parish
+LA|22|30515|Grambling city|Incorporated Place|A|Lincoln Parish
+LA|22|30550|Gramercy town|Incorporated Place|A|St. James Parish
+LA|22|30690|Grand Cane village|Incorporated Place|A|De Soto Parish
+LA|22|30760|Grand Coteau town|Incorporated Place|A|St. Landry Parish
+LA|22|30830|Grand Isle town|Incorporated Place|A|Jefferson Parish
+LA|22|30900|Grand Point CDP|Census Designated Place|S|St. James Parish
+LA|22|31180|Gray CDP|Census Designated Place|S|Terrebonne Parish
+LA|22|31250|Grayson village|Incorporated Place|A|Caldwell Parish
+LA|22|31565|Greensburg town|Incorporated Place|A|St. Helena Parish
+LA|22|31705|Greenwood town|Incorporated Place|A|Caddo Parish
+LA|22|31915|Gretna city|Incorporated Place|A|Jefferson Parish
+LA|22|32020|Grosse Tete village|Incorporated Place|A|Iberville Parish
+LA|22|32055|Gueydan town|Incorporated Place|A|Vermilion Parish
+LA|22|32405|Hackberry CDP|Census Designated Place|S|Cameron Parish
+LA|22|32510|Hahnville CDP|Census Designated Place|S|St. Charles Parish
+LA|22|32650|Hall Summit village|Incorporated Place|A|Red River Parish
+LA|22|32755|Hammond city|Incorporated Place|A|Tangipahoa Parish
+LA|22|32930|Harahan city|Incorporated Place|A|Jefferson Parish
+LA|22|33210|Harrisonburg village|Incorporated Place|A|Catahoula Parish
+LA|22|33245|Harvey CDP|Census Designated Place|S|Jefferson Parish
+LA|22|33420|Haughton town|Incorporated Place|A|Bossier Parish
+LA|22|33490|Hayes CDP|Census Designated Place|S|Calcasieu Parish
+LA|22|33525|Haynesville town|Incorporated Place|A|Claiborne Parish
+LA|22|33735|Heflin village|Incorporated Place|A|Webster Parish
+LA|22|33875|Henderson town|Incorporated Place|A|St. Martin Parish
+LA|22|34015|Hessmer village|Incorporated Place|A|Avoyelles Parish
+LA|22|34085|Hester CDP|Census Designated Place|S|St. James Parish
+LA|22|35100|Hodge village|Incorporated Place|A|Jackson Parish
+LA|22|35870|Homer town|Incorporated Place|A|Claiborne Parish
+LA|22|36045|Hornbeck town|Incorporated Place|A|Vernon Parish
+LA|22|36150|Hosston village|Incorporated Place|A|Caddo Parish
+LA|22|36255|Houma city|Incorporated Place|N|Terrebonne Parish
+LA|22|36885|Ida village|Incorporated Place|A|Caddo Parish
+LA|22|37025|Independence town|Incorporated Place|A|Tangipahoa Parish
+LA|22|37270|Inniswold CDP|Census Designated Place|S|East Baton Rouge Parish
+LA|22|37410|Iota town|Incorporated Place|A|Acadia Parish
+LA|22|37445|Iowa town|Incorporated Place|A|Calcasieu Parish
+LA|22|37830|Jackson town|Incorporated Place|A|East Feliciana Parish
+LA|22|37935|Jamestown village|Incorporated Place|A|Bienville Parish
+LA|22|38075|Jeanerette city|Incorporated Place|A|Iberia Parish
+LA|22|38092|Jean Lafitte town|Incorporated Place|A|Jefferson Parish
+LA|22|38145|Jefferson CDP|Census Designated Place|S|Jefferson Parish
+LA|22|38285|Jena town|Incorporated Place|A|La Salle Parish
+LA|22|38355|Jennings city|Incorporated Place|A|Jefferson Davis Parish
+LA|22|38670|Jonesboro town|Incorporated Place|A|Jackson Parish
+LA|22|38775|Jonesville town|Incorporated Place|A|Catahoula Parish
+LA|22|38845|Jordan Hill CDP|Census Designated Place|S|Winn Parish
+LA|22|38880|Joyce CDP|Census Designated Place|S|Winn Parish
+LA|22|38985|Junction City village|Incorporated Place|A|Claiborne Parish, Union Parish
+LA|22|39055|Kaplan city|Incorporated Place|A|Vermilion Parish
+LA|22|39085|Keachi town|Incorporated Place|A|De Soto Parish
+LA|22|39475|Kenner city|Incorporated Place|A|Jefferson Parish
+LA|22|39545|Kentwood town|Incorporated Place|A|Tangipahoa Parish
+LA|22|39650|Kilbourne village|Incorporated Place|A|West Carroll Parish
+LA|22|39685|Killian town|Incorporated Place|A|Livingston Parish
+LA|22|39720|Killona CDP|Census Designated Place|S|St. Charles Parish
+LA|22|39755|Kinder town|Incorporated Place|A|Allen Parish
+LA|22|40210|Kraemer CDP|Census Designated Place|S|Lafourche Parish
+LA|22|40280|Krotz Springs town|Incorporated Place|A|St. Landry Parish
+LA|22|40420|Labadieville CDP|Census Designated Place|S|Assumption Parish
+LA|22|40595|Lacassine CDP|Census Designated Place|S|Jefferson Davis Parish
+LA|22|40665|Lacombe CDP|Census Designated Place|S|St. Tammany Parish
+LA|22|40735|Lafayette city|Incorporated Place|B|Lafayette Parish
+LA|22|40840|Lafitte CDP|Census Designated Place|S|Jefferson Parish
+LA|22|40878|Lafourche Crossing CDP|Census Designated Place|S|Lafourche Parish
+LA|22|41050|Lake Arthur town|Incorporated Place|A|Jefferson Davis Parish
+LA|22|41155|Lake Charles city|Incorporated Place|A|Calcasieu Parish
+LA|22|41400|Lake Providence town|Incorporated Place|A|East Carroll Parish
+LA|22|41470|Lakeshore CDP|Census Designated Place|S|Ouachita Parish
+LA|22|41645|Lakeview CDP|Census Designated Place|S|Caddo Parish
+LA|22|42030|Laplace CDP|Census Designated Place|S|St. John the Baptist Parish
+LA|22|42135|Larose CDP|Census Designated Place|S|Lafourche Parish
+LA|22|42520|Lawtell CDP|Census Designated Place|S|St. Landry Parish
+LA|22|42800|Lecompte town|Incorporated Place|A|Rapides Parish
+LA|22|43010|Leesville city|Incorporated Place|A|Vernon Parish
+LA|22|43255|Lemannville CDP|Census Designated Place|S|Ascension Parish, St. James Parish
+LA|22|43395|Leonville town|Incorporated Place|A|St. Landry Parish
+LA|22|43920|Lillie village|Incorporated Place|A|Union Parish
+LA|22|44235|Lisbon village|Incorporated Place|A|Claiborne Parish
+LA|22|44655|Livingston town|Incorporated Place|A|Livingston Parish
+LA|22|44690|Livonia town|Incorporated Place|A|Pointe Coupee Parish
+LA|22|44900|Lockport town|Incorporated Place|A|Lafourche Parish
+LA|22|44970|Lockport Heights CDP|Census Designated Place|S|Lafourche Parish
+LA|22|45040|Logansport town|Incorporated Place|A|De Soto Parish
+LA|22|45460|Longstreet village|Incorporated Place|A|De Soto Parish
+LA|22|45530|Longville CDP|Census Designated Place|S|Beauregard Parish
+LA|22|45670|Loreauville village|Incorporated Place|A|Iberia Parish
+LA|22|46370|Lucky village|Incorporated Place|A|Bienville Parish
+LA|22|46615|Luling CDP|Census Designated Place|S|St. Charles Parish
+LA|22|46720|Lutcher town|Incorporated Place|A|St. James Parish
+LA|22|46755|Lydia CDP|Census Designated Place|S|Iberia Parish
+LA|22|47315|McNary village|Incorporated Place|A|Rapides Parish
+LA|22|47560|Madisonville town|Incorporated Place|A|St. Tammany Parish
+LA|22|48085|Mamou town|Incorporated Place|A|Evangeline Parish
+LA|22|48225|Mandeville city|Incorporated Place|A|St. Tammany Parish
+LA|22|48260|Mangham town|Incorporated Place|A|Richland Parish
+LA|22|48365|Mansfield city|Incorporated Place|A|De Soto Parish
+LA|22|48400|Mansura town|Incorporated Place|A|Avoyelles Parish
+LA|22|48470|Many town|Incorporated Place|A|Sabine Parish
+LA|22|48610|Maringouin town|Incorporated Place|A|Iberville Parish
+LA|22|48645|Marion town|Incorporated Place|A|Union Parish
+LA|22|48750|Marksville city|Incorporated Place|A|Avoyelles Parish
+LA|22|48785|Marrero CDP|Census Designated Place|S|Jefferson Parish
+LA|22|48925|Martin village|Incorporated Place|A|Red River Parish
+LA|22|49170|Mathews CDP|Census Designated Place|S|Lafourche Parish
+LA|22|49240|Maurice village|Incorporated Place|A|Vermilion Parish
+LA|22|49730|Melville town|Incorporated Place|A|St. Landry Parish
+LA|22|49800|Meraux CDP|Census Designated Place|S|St. Bernard Parish
+LA|22|49870|Mermentau village|Incorporated Place|A|Acadia Parish
+LA|22|49905|Mer Rouge village|Incorporated Place|A|Morehouse Parish
+LA|22|49940|Merrydale CDP|Census Designated Place|S|East Baton Rouge Parish
+LA|22|50010|Merryville town|Incorporated Place|A|Beauregard Parish
+LA|22|50115|Metairie CDP|Census Designated Place|S|Jefferson Parish
+LA|22|50395|Midway CDP|Census Designated Place|S|La Salle Parish
+LA|22|50815|Milton CDP|Census Designated Place|S|Lafayette Parish
+LA|22|50885|Minden city|Incorporated Place|A|Webster Parish
+LA|22|50990|Minorca CDP|Census Designated Place|S|Concordia Parish
+LA|22|51410|Monroe city|Incorporated Place|A|Ouachita Parish
+LA|22|51550|Montegut CDP|Census Designated Place|S|Terrebonne Parish
+LA|22|51585|Monterey CDP|Census Designated Place|S|Concordia Parish
+LA|22|51620|Montgomery town|Incorporated Place|A|Grant Parish
+LA|22|51645|Monticello CDP|Census Designated Place|S|East Baton Rouge Parish
+LA|22|51690|Montpelier village|Incorporated Place|A|St. Helena Parish
+LA|22|51795|Montz CDP|Census Designated Place|S|St. Charles Parish
+LA|22|51800|Moonshine CDP|Census Designated Place|S|St. James Parish
+LA|22|51830|Mooringsport town|Incorporated Place|A|Caddo Parish
+LA|22|51970|Moreauville village|Incorporated Place|A|Avoyelles Parish
+LA|22|52040|Morgan City city|Incorporated Place|A|St. Martin Parish, St. Mary Parish
+LA|22|52075|Morganza village|Incorporated Place|A|Pointe Coupee Parish
+LA|22|52320|Morse village|Incorporated Place|A|Acadia Parish
+LA|22|52425|Moss Bluff CDP|Census Designated Place|S|Calcasieu Parish
+LA|22|52565|Mound village|Incorporated Place|A|Madison Parish
+LA|22|52740|Mount Lebanon town|Incorporated Place|A|Bienville Parish
+LA|22|53370|Napoleonville village|Incorporated Place|A|Assumption Parish
+LA|22|53475|Natalbany CDP|Census Designated Place|S|Tangipahoa Parish
+LA|22|53510|Natchez village|Incorporated Place|A|Natchitoches Parish
+LA|22|53545|Natchitoches city|Incorporated Place|A|Natchitoches Parish
+LA|22|53930|Newellton town|Incorporated Place|A|Tensas Parish
+LA|22|54035|New Iberia city|Incorporated Place|A|Iberia Parish
+LA|22|54175|New Llano town|Incorporated Place|A|Vernon Parish
+LA|22|55000|New Orleans city|Incorporated Place|A|Orleans Parish
+LA|22|55105|New Roads city|Incorporated Place|A|Pointe Coupee Parish
+LA|22|55140|New Sarpy CDP|Census Designated Place|S|St. Charles Parish
+LA|22|55420|Noble village|Incorporated Place|A|Sabine Parish
+LA|22|55525|Norco CDP|Census Designated Place|S|St. Charles Parish
+LA|22|55910|North Hodge village|Incorporated Place|A|Jackson Parish
+LA|22|56170|North Vacherie CDP|Census Designated Place|S|St. James Parish
+LA|22|56295|Norwood village|Incorporated Place|A|East Feliciana Parish
+LA|22|56540|Oakdale city|Incorporated Place|A|Allen Parish
+LA|22|56820|Oak Grove town|Incorporated Place|A|West Carroll Parish
+LA|22|56855|Oak Hills Place CDP|Census Designated Place|S|East Baton Rouge Parish
+LA|22|57205|Oak Ridge village|Incorporated Place|A|Morehouse Parish
+LA|22|57450|Oberlin town|Incorporated Place|A|Allen Parish
+LA|22|57590|Oil City town|Incorporated Place|A|Caddo Parish
+LA|22|57705|Old Jefferson CDP|Census Designated Place|S|East Baton Rouge Parish
+LA|22|57905|Olla town|Incorporated Place|A|La Salle Parish
+LA|22|58045|Opelousas city|Incorporated Place|A|St. Landry Parish
+LA|22|58150|Oretta CDP|Census Designated Place|S|Beauregard Parish
+LA|22|58360|Ossun CDP|Census Designated Place|S|Lafayette Parish
+LA|22|58745|Paincourtville CDP|Census Designated Place|S|Assumption Parish
+LA|22|58780|Palmetto village|Incorporated Place|A|St. Landry Parish
+LA|22|58920|Paradis CDP|Census Designated Place|S|St. Charles Parish
+LA|22|59165|Parks village|Incorporated Place|A|St. Martin Parish
+LA|22|59340|Patterson city|Incorporated Place|A|St. Mary Parish
+LA|22|59375|Paulina CDP|Census Designated Place|S|St. James Parish
+LA|22|59445|Pearl River town|Incorporated Place|A|St. Tammany Parish
+LA|22|60075|Pierre Part CDP|Census Designated Place|S|Assumption Parish
+LA|22|60495|Pine Prairie village|Incorporated Place|A|Evangeline Parish
+LA|22|60530|Pineville city|Incorporated Place|A|Rapides Parish
+LA|22|60565|Pioneer village|Incorporated Place|A|West Carroll Parish
+LA|22|60600|Pitkin CDP|Census Designated Place|S|Vernon Parish
+LA|22|60670|Plain Dealing town|Incorporated Place|A|Bossier Parish
+LA|22|60880|Plaquemine city|Incorporated Place|A|Iberville Parish
+LA|22|60985|Plaucheville village|Incorporated Place|A|Avoyelles Parish
+LA|22|61055|Pleasant Hill village|Incorporated Place|A|Sabine Parish
+LA|22|61160|Pleasure Bend CDP|Census Designated Place|S|St. John the Baptist Parish
+LA|22|61440|Pointe a la Hache CDP|Census Designated Place|S|Plaquemines Parish
+LA|22|61473|Point Place CDP|Census Designated Place|S|Natchitoches Parish
+LA|22|61580|Pollock town|Incorporated Place|A|Grant Parish
+LA|22|61615|Ponchatoula city|Incorporated Place|A|Tangipahoa Parish
+LA|22|61790|Port Allen city|Incorporated Place|A|West Baton Rouge Parish
+LA|22|61825|Port Barre town|Incorporated Place|A|St. Landry Parish
+LA|22|62070|Port Sulphur CDP|Census Designated Place|S|Plaquemines Parish
+LA|22|62105|Port Vincent village|Incorporated Place|A|Livingston Parish
+LA|22|62245|Powhatan village|Incorporated Place|A|Natchitoches Parish
+LA|22|62280|Poydras CDP|Census Designated Place|S|St. Bernard Parish
+LA|22|62385|Prairieville CDP|Census Designated Place|S|Ascension Parish
+LA|22|62510|Presquille CDP|Census Designated Place|S|Terrebonne Parish
+LA|22|62647|Prien CDP|Census Designated Place|S|Calcasieu Parish
+LA|22|62733|Prospect CDP|Census Designated Place|S|Grant Parish
+LA|22|62770|Provencal village|Incorporated Place|A|Natchitoches Parish
+LA|22|63120|Quitman village|Incorporated Place|A|Jackson Parish
+LA|22|63155|Raceland CDP|Census Designated Place|S|Lafourche Parish
+LA|22|63645|Rayne city|Incorporated Place|A|Acadia Parish
+LA|22|63680|Rayville town|Incorporated Place|A|Richland Parish
+LA|22|63855|Red Chute CDP|Census Designated Place|S|Bossier Parish
+LA|22|63890|Reddell CDP|Census Designated Place|S|Evangeline Parish
+LA|22|64100|Reeves village|Incorporated Place|A|Allen Parish
+LA|22|64310|Reserve CDP|Census Designated Place|S|St. John the Baptist Parish
+LA|22|64590|Richmond village|Incorporated Place|A|Madison Parish
+LA|22|64660|Richwood town|Incorporated Place|A|Ouachita Parish
+LA|22|64765|Ridgecrest town|Incorporated Place|A|Concordia Parish
+LA|22|64905|Ringgold town|Incorporated Place|A|Bienville Parish
+LA|22|65150|River Ridge CDP|Census Designated Place|S|Jefferson Parish
+LA|22|65290|Roanoke CDP|Census Designated Place|S|Jefferson Davis Parish
+LA|22|65325|Robeline village|Incorporated Place|A|Natchitoches Parish
+LA|22|65535|Rock Hill CDP|Census Designated Place|S|Grant Parish
+LA|22|65710|Rodessa village|Incorporated Place|A|Caddo Parish
+LA|22|65850|Romeville CDP|Census Designated Place|S|St. James Parish
+LA|22|66060|Rosedale village|Incorporated Place|A|Iberville Parish
+LA|22|66165|Roseland town|Incorporated Place|A|Tangipahoa Parish
+LA|22|66200|Rosepine town|Incorporated Place|A|Vernon Parish
+LA|22|66655|Ruston city|Incorporated Place|A|Lincoln Parish
+LA|22|67215|St. Francisville town|Incorporated Place|A|West Feliciana Parish
+LA|22|67250|St. Gabriel city|Incorporated Place|A|Iberville Parish
+LA|22|67355|St. James CDP|Census Designated Place|S|St. James Parish
+LA|22|67495|St. Joseph town|Incorporated Place|A|Tensas Parish
+LA|22|67600|St. Martinville city|Incorporated Place|A|St. Martin Parish
+LA|22|67635|St. Maurice CDP|Census Designated Place|S|Winn Parish
+LA|22|67740|St. Rose CDP|Census Designated Place|S|St. Charles Parish
+LA|22|67880|Saline village|Incorporated Place|A|Bienville Parish
+LA|22|68125|Sarepta town|Incorporated Place|A|Webster Parish
+LA|22|68300|Schriever CDP|Census Designated Place|S|Terrebonne Parish
+LA|22|68475|Scott city|Incorporated Place|A|Lafayette Parish
+LA|22|69225|Shenandoah CDP|Census Designated Place|S|East Baton Rouge Parish
+LA|22|69455|Shongaloo village|Incorporated Place|A|Webster Parish
+LA|22|70000|Shreveport city|Incorporated Place|A|Bossier Parish, Caddo Parish
+LA|22|70175|Sibley town|Incorporated Place|A|Webster Parish
+LA|22|70245|Sicily Island village|Incorporated Place|A|Catahoula Parish
+LA|22|70385|Sikes village|Incorporated Place|A|Winn Parish
+LA|22|70525|Simmesport town|Incorporated Place|A|Avoyelles Parish
+LA|22|70595|Simpson village|Incorporated Place|A|Vernon Parish
+LA|22|70630|Simsboro village|Incorporated Place|A|Lincoln Parish
+LA|22|70665|Singer CDP|Census Designated Place|S|Beauregard Parish
+LA|22|70675|Siracusaville CDP|Census Designated Place|S|St. Mary Parish
+LA|22|70770|Slaughter town|Incorporated Place|A|East Feliciana Parish
+LA|22|70805|Slidell city|Incorporated Place|A|St. Tammany Parish
+LA|22|71190|Sorrel CDP|Census Designated Place|S|St. Mary Parish
+LA|22|71225|Sorrento town|Incorporated Place|A|Ascension Parish
+LA|22|71820|South Mansfield village|Incorporated Place|A|De Soto Parish
+LA|22|72092|South Vacherie CDP|Census Designated Place|S|St. James Parish
+LA|22|72170|Spearsville village|Incorporated Place|A|Union Parish
+LA|22|72310|Spokane CDP|Census Designated Place|S|Concordia Parish
+LA|22|72415|Springfield town|Incorporated Place|A|Livingston Parish
+LA|22|72485|Springhill city|Incorporated Place|A|Webster Parish
+LA|22|72800|Stanley village|Incorporated Place|A|De Soto Parish
+LA|22|72975|Starks CDP|Census Designated Place|S|Calcasieu Parish
+LA|22|73010|Start CDP|Census Designated Place|S|Richland Parish
+LA|22|73255|Sterlington town|Incorporated Place|A|Ouachita Parish
+LA|22|73395|Stonewall town|Incorporated Place|A|De Soto Parish
+LA|22|73570|Sugartown CDP|Census Designated Place|S|Beauregard Parish
+LA|22|73640|Sulphur city|Incorporated Place|A|Calcasieu Parish
+LA|22|73955|Sun village|Incorporated Place|A|St. Tammany Parish
+LA|22|74060|Sunset town|Incorporated Place|A|St. Landry Parish
+LA|22|74235|Supreme CDP|Census Designated Place|S|Assumption Parish
+LA|22|74340|Swartz CDP|Census Designated Place|S|Ouachita Parish
+LA|22|74550|Taft CDP|Census Designated Place|S|St. Charles Parish
+LA|22|74690|Tallulah city|Incorporated Place|A|Madison Parish
+LA|22|74760|Tangipahoa village|Incorporated Place|A|Tangipahoa Parish
+LA|22|75180|Terrytown CDP|Census Designated Place|S|Jefferson Parish
+LA|22|75425|Thibodaux city|Incorporated Place|A|Lafourche Parish
+LA|22|75670|Tickfaw village|Incorporated Place|A|Tangipahoa Parish
+LA|22|75740|Timberlane CDP|Census Designated Place|S|Jefferson Parish
+LA|22|76440|Triumph CDP|Census Designated Place|S|Plaquemines Parish
+LA|22|76615|Tullos town|Incorporated Place|A|La Salle Parish, Winn Parish
+LA|22|76685|Turkey Creek village|Incorporated Place|A|Evangeline Parish
+LA|22|77035|Union CDP|Census Designated Place|S|St. James Parish
+LA|22|77490|Urania town|Incorporated Place|A|La Salle Parish
+LA|22|77910|Varnado village|Incorporated Place|A|Washington Parish
+LA|22|78015|Venice CDP|Census Designated Place|S|Plaquemines Parish
+LA|22|78050|Ventress CDP|Census Designated Place|S|Pointe Coupee Parish
+LA|22|78470|Vidalia town|Incorporated Place|A|Concordia Parish
+LA|22|78540|Vienna town|Incorporated Place|A|Lincoln Parish
+LA|22|78545|Vienna Bend CDP|Census Designated Place|S|Natchitoches Parish
+LA|22|78680|Village St. George CDP|Census Designated Place|S|East Baton Rouge Parish
+LA|22|78715|Ville Platte city|Incorporated Place|A|Evangeline Parish
+LA|22|78820|Vinton town|Incorporated Place|A|Calcasieu Parish
+LA|22|78855|Violet CDP|Census Designated Place|S|St. Bernard Parish
+LA|22|78890|Vivian town|Incorporated Place|A|Caddo Parish
+LA|22|79100|Waggaman CDP|Census Designated Place|S|Jefferson Parish
+LA|22|79240|Walker town|Incorporated Place|A|Livingston Parish
+LA|22|79275|Wallace CDP|Census Designated Place|S|St. John the Baptist Parish
+LA|22|79310|Wallace Ridge CDP|Census Designated Place|S|Catahoula Parish
+LA|22|79870|Washington town|Incorporated Place|A|St. Landry Parish
+LA|22|79940|Waterproof town|Incorporated Place|A|Tensas Parish
+LA|22|80010|Watson CDP|Census Designated Place|S|Livingston Parish
+LA|22|80360|Welcome CDP|Census Designated Place|S|St. James Parish
+LA|22|80430|Welsh town|Incorporated Place|A|Jefferson Davis Parish
+LA|22|80815|Westlake city|Incorporated Place|A|Calcasieu Parish
+LA|22|80920|Westminster CDP|Census Designated Place|S|East Baton Rouge Parish
+LA|22|80955|West Monroe city|Incorporated Place|A|Ouachita Parish
+LA|22|81165|Westwego city|Incorporated Place|A|Jefferson Parish
+LA|22|81375|White Castle town|Incorporated Place|A|Iberville Parish
+LA|22|82215|Wilson village|Incorporated Place|A|East Feliciana Parish
+LA|22|82460|Winnfield city|Incorporated Place|A|Winn Parish
+LA|22|82495|Winnsboro city|Incorporated Place|A|Franklin Parish
+LA|22|82565|Wisner town|Incorporated Place|A|Franklin Parish
+LA|22|83002|Woodmere CDP|Census Designated Place|S|Jefferson Parish
+LA|22|83125|Woodworth town|Incorporated Place|A|Rapides Parish
+LA|22|83335|Youngsville city|Incorporated Place|A|Lafayette Parish
+LA|22|83405|Zachary city|Incorporated Place|A|East Baton Rouge Parish
+LA|22|83685|Zwolle town|Incorporated Place|A|Sabine Parish

@@ -1,0 +1,74 @@
+RI|44|00000|County Subdivisions not defined|County Subdivision|F|Newport County
+RI|44|03520|Ashaway CDP|Census Designated Place|S|Washington County
+RI|44|05140|Barrington town|County Subdivision|A|Bristol County
+RI|44|08020|Bradford CDP|Census Designated Place|S|Washington County
+RI|44|09280|Bristol town|County Subdivision|A|Bristol County
+RI|44|11800|Burrillville town|County Subdivision|A|Providence County
+RI|44|12340|Carolina CDP|Census Designated Place|S|Washington County
+RI|44|14140|Central Falls city|County Subdivision|F|Providence County
+RI|44|14140|Central Falls city|Incorporated Place|A|Providence County
+RI|44|14500|Charlestown town|County Subdivision|A|Washington County
+RI|44|14860|Chepachet CDP|Census Designated Place|S|Providence County
+RI|44|15940|Clayville CDP|Census Designated Place|S|Providence County
+RI|44|18640|Coventry town|County Subdivision|A|Kent County
+RI|44|19180|Cranston city|County Subdivision|F|Providence County
+RI|44|19180|Cranston city|Incorporated Place|A|Providence County
+RI|44|20080|Cumberland town|County Subdivision|A|Providence County
+RI|44|20260|Cumberland Hill CDP|Census Designated Place|S|Providence County
+RI|44|22240|East Greenwich town|County Subdivision|A|Kent County
+RI|44|22960|East Providence city|County Subdivision|F|Providence County
+RI|44|22960|East Providence city|Incorporated Place|A|Providence County
+RI|44|25300|Exeter town|County Subdivision|A|Washington County
+RI|44|27460|Foster town|County Subdivision|A|Providence County
+RI|44|27640|Foster Center CDP|Census Designated Place|S|Providence County
+RI|44|30340|Glocester town|County Subdivision|A|Providence County
+RI|44|31240|Greene CDP|Census Designated Place|S|Kent County
+RI|44|31600|Greenville CDP|Census Designated Place|S|Providence County
+RI|44|33040|Harmony CDP|Census Designated Place|S|Providence County
+RI|44|33400|Harrisville CDP|Census Designated Place|S|Providence County
+RI|44|34660|Hope Valley CDP|Census Designated Place|S|Washington County
+RI|44|35380|Hopkinton town|County Subdivision|A|Washington County
+RI|44|36820|Jamestown town|County Subdivision|A|Newport County
+RI|44|37720|Johnston town|County Subdivision|A|Providence County
+RI|44|38980|Kingston CDP|Census Designated Place|S|Washington County
+RI|44|41500|Lincoln town|County Subdivision|A|Providence County
+RI|44|42400|Little Compton town|County Subdivision|A|Newport County
+RI|44|45010|Melville CDP|Census Designated Place|S|Newport County
+RI|44|45460|Middletown town|County Subdivision|A|Newport County
+RI|44|46000|Misquamicut CDP|Census Designated Place|S|Washington County
+RI|44|48340|Narragansett town|County Subdivision|A|Washington County
+RI|44|48700|Narragansett Pier CDP|Census Designated Place|S|Washington County
+RI|44|49960|Newport city|County Subdivision|F|Newport County
+RI|44|49960|Newport city|Incorporated Place|A|Newport County
+RI|44|50140|Newport East CDP|Census Designated Place|S|Newport County
+RI|44|50500|New Shoreham town|County Subdivision|A|Washington County
+RI|44|51580|North Kingstown town|County Subdivision|A|Washington County
+RI|44|51760|North Providence town|County Subdivision|A|Providence County
+RI|44|52480|North Smithfield town|County Subdivision|A|Providence County
+RI|44|54460|Pascoag CDP|Census Designated Place|S|Providence County
+RI|44|54640|Pawtucket city|County Subdivision|F|Providence County
+RI|44|54640|Pawtucket city|Incorporated Place|A|Providence County
+RI|44|57880|Portsmouth town|County Subdivision|A|Newport County
+RI|44|59000|Providence city|County Subdivision|F|Providence County
+RI|44|59000|Providence city|Incorporated Place|A|Providence County
+RI|44|60260|Quonochontaug CDP|Census Designated Place|S|Washington County
+RI|44|61160|Richmond town|County Subdivision|A|Washington County
+RI|44|64220|Scituate town|County Subdivision|A|Providence County
+RI|44|66200|Smithfield town|County Subdivision|A|Providence County
+RI|44|67460|South Kingstown town|County Subdivision|A|Washington County
+RI|44|70700|Tiverton CDP|Census Designated Place|S|Newport County
+RI|44|70880|Tiverton town|County Subdivision|A|Newport County
+RI|44|72500|Valley Falls CDP|Census Designated Place|S|Providence County
+RI|44|73130|Wakefield-Peacedale CDP|Census Designated Place|S|Washington County
+RI|44|73760|Warren town|County Subdivision|A|Bristol County
+RI|44|74300|Warwick city|County Subdivision|F|Kent County
+RI|44|74300|Warwick city|Incorporated Place|A|Kent County
+RI|44|75200|Watch Hill CDP|Census Designated Place|S|Washington County
+RI|44|75920|Weekapaug CDP|Census Designated Place|S|Washington County
+RI|44|76820|Westerly CDP|Census Designated Place|S|Washington County
+RI|44|77000|Westerly town|County Subdivision|A|Washington County
+RI|44|77720|West Greenwich town|County Subdivision|A|Kent County
+RI|44|78440|West Warwick town|County Subdivision|A|Kent County
+RI|44|80780|Woonsocket city|County Subdivision|F|Providence County
+RI|44|80780|Woonsocket city|Incorporated Place|A|Providence County
+RI|44|80960|Wyoming CDP|Census Designated Place|S|Washington County

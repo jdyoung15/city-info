@@ -1,0 +1,390 @@
+SD|46|00100|Aberdeen city|Incorporated Place|A|Brown County
+SD|46|00460|Agar town|Incorporated Place|A|Sully County
+SD|46|00520|Agency Village CDP|Census Designated Place|S|Roberts County
+SD|46|00540|Akaska town|Incorporated Place|A|Walworth County
+SD|46|00620|Albee town|Incorporated Place|A|Grant County
+SD|46|00700|Alcester city|Incorporated Place|A|Union County
+SD|46|00820|Alexandria city|Incorporated Place|A|Hanson County
+SD|46|00900|Allen CDP|Census Designated Place|S|Bennett County
+SD|46|01020|Alpena town|Incorporated Place|A|Jerauld County
+SD|46|01140|Altamont town|Incorporated Place|A|Deuel County
+SD|46|01450|Anderson CDP|Census Designated Place|S|Minnehaha County
+SD|46|01500|Andover town|Incorporated Place|A|Day County
+SD|46|01740|Antelope CDP|Census Designated Place|S|Todd County
+SD|46|02180|Arlington city|Incorporated Place|A|Brookings County, Kingsbury County
+SD|46|02260|Armour city|Incorporated Place|A|Douglas County
+SD|46|02340|Artas town|Incorporated Place|A|Campbell County
+SD|46|02380|Artesian town|Incorporated Place|A|Sanborn County
+SD|46|02530|Ashland Heights CDP|Census Designated Place|S|Pennington County
+SD|46|02540|Ashton city|Incorporated Place|A|Spink County
+SD|46|02580|Astoria town|Incorporated Place|A|Deuel County
+SD|46|02780|Aurora town|Incorporated Place|A|Brookings County
+SD|46|02860|Aurora Center CDP|Census Designated Place|S|Aurora County
+SD|46|02900|Avon city|Incorporated Place|A|Bon Homme County
+SD|46|03060|Badger town|Incorporated Place|A|Kingsbury County
+SD|46|03380|Baltic city|Incorporated Place|A|Minnehaha County
+SD|46|03420|Bancroft town|Incorporated Place|A|Kingsbury County
+SD|46|03860|Batesland town|Incorporated Place|A|Shannon County
+SD|46|03900|Bath CDP|Census Designated Place|S|Brown County
+SD|46|03960|Bath Corner CDP|Census Designated Place|S|Brown County
+SD|46|04380|Belle Fourche city|Incorporated Place|A|Butte County
+SD|46|04620|Belvidere town|Incorporated Place|A|Jackson County
+SD|46|04980|Beresford city|Incorporated Place|A|Lincoln County, Union County
+SD|46|05540|Big Stone City city|Incorporated Place|A|Grant County
+SD|46|05580|Bijou Hills CDP|Census Designated Place|S|Brule County
+SD|46|05620|Bison town|Incorporated Place|A|Perkins County
+SD|46|05780|Blackhawk CDP|Census Designated Place|S|Meade County
+SD|46|06120|Blucksberg Mountain CDP|Census Designated Place|S|Meade County
+SD|46|06180|Blunt city|Incorporated Place|A|Hughes County
+SD|46|06220|Bonesteel city|Incorporated Place|A|Gregory County
+SD|46|06540|Bowdle city|Incorporated Place|A|Edmunds County
+SD|46|06620|Box Elder city|Incorporated Place|A|Meade County, Pennington County
+SD|46|06660|Bradley town|Incorporated Place|A|Clark County
+SD|46|06840|Brandon city|Incorporated Place|A|Minnehaha County
+SD|46|06940|Brandt town|Incorporated Place|A|Deuel County
+SD|46|07040|Brant Lake CDP|Census Designated Place|S|Lake County
+SD|46|07060|Brentford town|Incorporated Place|A|Spink County
+SD|46|07180|Bridgewater city|Incorporated Place|A|McCook County
+SD|46|07300|Bristol city|Incorporated Place|A|Day County
+SD|46|07380|Britton city|Incorporated Place|A|Marshall County
+SD|46|07420|Broadland town|Incorporated Place|A|Beadle County
+SD|46|07580|Brookings city|Incorporated Place|A|Brookings County
+SD|46|07740|Bruce city|Incorporated Place|A|Brookings County
+SD|46|08060|Bryant city|Incorporated Place|A|Hamlin County
+SD|46|08140|Buffalo town|Incorporated Place|A|Harding County
+SD|46|08340|Buffalo Gap town|Incorporated Place|A|Custer County
+SD|46|08460|Bullhead CDP|Census Designated Place|S|Corson County
+SD|46|08700|Burke city|Incorporated Place|A|Gregory County
+SD|46|08820|Bushnell town|Incorporated Place|A|Brookings County
+SD|46|08860|Butler town|Incorporated Place|A|Day County
+SD|46|09260|Camp Crook town|Incorporated Place|A|Harding County
+SD|46|09300|Canistota city|Incorporated Place|A|McCook County
+SD|46|09420|Canova town|Incorporated Place|A|Miner County
+SD|46|09500|Canton city|Incorporated Place|A|Lincoln County
+SD|46|10220|Carthage city|Incorporated Place|A|Miner County
+SD|46|10500|Castlewood city|Incorporated Place|A|Hamlin County
+SD|46|10620|Cavour town|Incorporated Place|A|Beadle County
+SD|46|11060|Centerville city|Incorporated Place|A|Turner County
+SD|46|11140|Central City city|Incorporated Place|A|Lawrence County
+SD|46|11220|Chamberlain city|Incorporated Place|A|Brule County
+SD|46|11380|Chancellor town|Incorporated Place|A|Turner County
+SD|46|11500|Chelsea town|Incorporated Place|A|Faulk County
+SD|46|11660|Chester CDP|Census Designated Place|S|Lake County
+SD|46|12020|Claire City town|Incorporated Place|A|Roberts County
+SD|46|12100|Claremont town|Incorporated Place|A|Brown County
+SD|46|12180|Clark city|Incorporated Place|A|Clark County
+SD|46|12540|Clear Lake city|Incorporated Place|A|Deuel County
+SD|46|13220|Colman city|Incorporated Place|A|Moody County
+SD|46|13300|Colome city|Incorporated Place|A|Tripp County
+SD|46|13355|Colonial Pine Hills CDP|Census Designated Place|S|Pennington County
+SD|46|13380|Colton city|Incorporated Place|A|Minnehaha County
+SD|46|13420|Columbia city|Incorporated Place|A|Brown County
+SD|46|13700|Conde city|Incorporated Place|A|Spink County
+SD|46|13840|Corn Creek CDP|Census Designated Place|S|Mellette County
+SD|46|13940|Corona town|Incorporated Place|A|Roberts County
+SD|46|13980|Corsica city|Incorporated Place|A|Douglas County
+SD|46|14220|Cottonwood town|Incorporated Place|A|Jackson County
+SD|46|14320|Cow Creek CDP|Census Designated Place|S|Sully County
+SD|46|14580|Cresbard town|Incorporated Place|A|Faulk County
+SD|46|14660|Crocker CDP|Census Designated Place|S|Clark County
+SD|46|14740|Crooks city|Incorporated Place|A|Minnehaha County
+SD|46|15140|Custer city|Incorporated Place|A|Custer County
+SD|46|15250|Dakota Dunes CDP|Census Designated Place|S|Union County
+SD|46|15300|Dallas town|Incorporated Place|A|Gregory County
+SD|46|15420|Dante town|Incorporated Place|A|Charles Mix County
+SD|46|15540|Davis town|Incorporated Place|A|Turner County
+SD|46|15700|Deadwood city|Incorporated Place|A|Lawrence County
+SD|46|15980|Dell Rapids city|Incorporated Place|A|Minnehaha County
+SD|46|16060|Delmont city|Incorporated Place|A|Douglas County
+SD|46|16260|De Smet city|Incorporated Place|A|Kingsbury County
+SD|46|16620|Dimock town|Incorporated Place|A|Hutchinson County
+SD|46|16820|Doland city|Incorporated Place|A|Spink County
+SD|46|16860|Dolton town|Incorporated Place|A|Turner County
+SD|46|17020|Draper town|Incorporated Place|A|Jones County
+SD|46|17420|Dupree city|Incorporated Place|A|Ziebach County
+SD|46|17620|Eagle Butte city|Incorporated Place|A|Dewey County, Ziebach County
+SD|46|18180|Eden town|Incorporated Place|A|Marshall County
+SD|46|18300|Edgemont city|Incorporated Place|A|Fall River County
+SD|46|18460|Egan city|Incorporated Place|A|Moody County
+SD|46|18620|Elk Point city|Incorporated Place|A|Union County
+SD|46|18700|Elkton city|Incorporated Place|A|Brookings County
+SD|46|19420|Emery city|Incorporated Place|A|Hanson County
+SD|46|19860|Erwin town|Incorporated Place|A|Kingsbury County
+SD|46|19980|Estelline city|Incorporated Place|A|Hamlin County
+SD|46|20060|Ethan town|Incorporated Place|A|Davison County
+SD|46|20180|Eureka city|Incorporated Place|A|McPherson County
+SD|46|20340|Fairburn town|Incorporated Place|A|Custer County
+SD|46|20380|Fairfax town|Incorporated Place|A|Gregory County
+SD|46|20780|Fairview town|Incorporated Place|A|Lincoln County
+SD|46|20980|Faith city|Incorporated Place|A|Meade County
+SD|46|21060|Farmer town|Incorporated Place|A|Hanson County
+SD|46|21260|Faulkton city|Incorporated Place|A|Faulk County
+SD|46|21340|Fedora CDP|Census Designated Place|S|Miner County
+SD|46|21380|Ferney CDP|Census Designated Place|S|Brown County
+SD|46|21540|Flandreau city|Incorporated Place|A|Moody County
+SD|46|21820|Florence town|Incorporated Place|A|Codington County
+SD|46|22100|Forestburg CDP|Census Designated Place|S|Sanborn County
+SD|46|22260|Fort Pierre city|Incorporated Place|A|Stanley County
+SD|46|22340|Fort Thompson CDP|Census Designated Place|S|Buffalo County
+SD|46|22580|Frankfort city|Incorporated Place|A|Spink County
+SD|46|22860|Frederick town|Incorporated Place|A|Brown County
+SD|46|23020|Freeman city|Incorporated Place|A|Hutchinson County
+SD|46|23140|Fruitdale town|Incorporated Place|A|Butte County
+SD|46|23220|Fulton town|Incorporated Place|A|Hanson County
+SD|46|23421|Gann Valley CDP|Census Designated Place|S|Buffalo County
+SD|46|23460|Garden City town|Incorporated Place|A|Clark County
+SD|46|23820|Garretson city|Incorporated Place|A|Minnehaha County
+SD|46|23860|Gary city|Incorporated Place|A|Deuel County
+SD|46|23900|Gayville town|Incorporated Place|A|Yankton County
+SD|46|23980|Geddes city|Incorporated Place|A|Charles Mix County
+SD|46|24260|Gettysburg city|Incorporated Place|A|Potter County
+SD|46|24620|Glenham town|Incorporated Place|A|Walworth County
+SD|46|24775|Goodwill CDP|Census Designated Place|S|Roberts County
+SD|46|24820|Goodwin town|Incorporated Place|A|Deuel County
+SD|46|25900|Green Grass CDP|Census Designated Place|S|Dewey County
+SD|46|26035|Green Valley CDP|Census Designated Place|S|Pennington County
+SD|46|26180|Gregory city|Incorporated Place|A|Gregory County
+SD|46|26220|Grenville town|Incorporated Place|A|Day County
+SD|46|26340|Groton city|Incorporated Place|A|Brown County
+SD|46|26660|Hamill CDP|Census Designated Place|S|Tripp County
+SD|46|27260|Harrisburg city|Incorporated Place|A|Lincoln County
+SD|46|27300|Harrison CDP|Census Designated Place|S|Douglas County
+SD|46|27420|Harrold town|Incorporated Place|A|Hughes County
+SD|46|27540|Hartford city|Incorporated Place|A|Minnehaha County
+SD|46|27820|Hayti town|Incorporated Place|A|Hamlin County
+SD|46|27940|Hazel town|Incorporated Place|A|Hamlin County
+SD|46|27980|Hecla city|Incorporated Place|A|Brown County
+SD|46|28140|Henry town|Incorporated Place|A|Codington County
+SD|46|28300|Hermosa town|Incorporated Place|A|Custer County
+SD|46|28340|Herreid city|Incorporated Place|A|Campbell County
+SD|46|28420|Herrick town|Incorporated Place|A|Gregory County
+SD|46|28460|Hetland town|Incorporated Place|A|Kingsbury County
+SD|46|28980|Highmore city|Incorporated Place|A|Hyde County
+SD|46|29100|Hill City city|Incorporated Place|A|Pennington County
+SD|46|29340|Hillsview town|Incorporated Place|A|McPherson County
+SD|46|29500|Hitchcock town|Incorporated Place|A|Beadle County
+SD|46|30140|Hosmer city|Incorporated Place|A|Edmunds County
+SD|46|30220|Hot Springs city|Incorporated Place|A|Fall River County
+SD|46|30300|Hoven town|Incorporated Place|A|Potter County
+SD|46|30460|Howard city|Incorporated Place|A|Miner County
+SD|46|30740|Hudson town|Incorporated Place|A|Lincoln County
+SD|46|30900|Humboldt town|Incorporated Place|A|Minnehaha County
+SD|46|30980|Hurley city|Incorporated Place|A|Turner County
+SD|46|31060|Huron city|Incorporated Place|A|Beadle County
+SD|46|31620|Interior town|Incorporated Place|A|Jackson County
+SD|46|31860|Ipswich city|Incorporated Place|A|Edmunds County
+SD|46|31940|Irene city|Incorporated Place|A|Clay County, Turner County, Yankton County
+SD|46|32020|Iroquois city|Incorporated Place|A|Beadle County, Kingsbury County
+SD|46|32140|Isabel town|Incorporated Place|A|Dewey County
+SD|46|32460|Java town|Incorporated Place|A|Walworth County
+SD|46|32700|Jefferson city|Incorporated Place|A|Union County
+SD|46|32820|Johnson Siding CDP|Census Designated Place|S|Pennington County
+SD|46|33180|Kadoka city|Incorporated Place|A|Jackson County
+SD|46|33380|Kaylor CDP|Census Designated Place|S|Hutchinson County
+SD|46|33580|Kennebec town|Incorporated Place|A|Lyman County
+SD|46|33820|Keystone town|Incorporated Place|A|Pennington County
+SD|46|33900|Kidder CDP|Census Designated Place|S|Marshall County
+SD|46|33980|Kimball city|Incorporated Place|A|Brule County
+SD|46|34340|Kranzburg town|Incorporated Place|A|Codington County
+SD|46|34460|Kyle CDP|Census Designated Place|S|Shannon County
+SD|46|34540|La Bolt town|Incorporated Place|A|Grant County
+SD|46|35100|Lake Andes city|Incorporated Place|A|Charles Mix County
+SD|46|35220|Lake City town|Incorporated Place|A|Marshall County
+SD|46|35430|Lake Madison CDP|Census Designated Place|S|Lake County
+SD|46|35460|Lake Norden city|Incorporated Place|A|Hamlin County
+SD|46|35480|Lake Poinsett CDP|Census Designated Place|S|Brookings County, Hamlin County
+SD|46|35500|Lake Preston city|Incorporated Place|A|Kingsbury County
+SD|46|35780|Lane town|Incorporated Place|A|Jerauld County
+SD|46|35820|Langford town|Incorporated Place|A|Marshall County
+SD|46|35940|La Plant CDP|Census Designated Place|S|Dewey County
+SD|46|36220|Lead city|Incorporated Place|A|Lawrence County
+SD|46|36260|Lebanon town|Incorporated Place|A|Potter County
+SD|46|36340|Lemmon city|Incorporated Place|A|Perkins County
+SD|46|36380|Lennox city|Incorporated Place|A|Lincoln County
+SD|46|36460|Leola city|Incorporated Place|A|McPherson County
+SD|46|36540|Lesterville town|Incorporated Place|A|Yankton County
+SD|46|36620|Letcher town|Incorporated Place|A|Sanborn County
+SD|46|37140|Lily town|Incorporated Place|A|Day County
+SD|46|37900|Little Eagle CDP|Census Designated Place|S|Corson County
+SD|46|38760|Long Hollow CDP|Census Designated Place|S|Roberts County
+SD|46|38860|Long Lake town|Incorporated Place|A|McPherson County
+SD|46|39020|Loomis CDP|Census Designated Place|S|Davison County
+SD|46|39180|Lower Brule CDP|Census Designated Place|S|Lyman County
+SD|46|39260|Lowry town|Incorporated Place|A|Walworth County
+SD|46|39940|McIntosh city|Incorporated Place|A|Corson County
+SD|46|40020|McLaughlin city|Incorporated Place|A|Corson County
+SD|46|40220|Madison city|Incorporated Place|A|Lake County
+SD|46|40550|Manderson-White Horse Creek CDP|Census Designated Place|S|Shannon County
+SD|46|40580|Mansfield CDP|Census Designated Place|S|Brown County, Spink County
+SD|46|40860|Marion city|Incorporated Place|A|Turner County
+SD|46|41100|Martin city|Incorporated Place|A|Bennett County
+SD|46|41180|Marty CDP|Census Designated Place|S|Charles Mix County
+SD|46|41220|Marvin town|Incorporated Place|A|Grant County
+SD|46|41680|Meadow View Addition CDP|Census Designated Place|S|Minnehaha County
+SD|46|41860|Mellette city|Incorporated Place|A|Spink County
+SD|46|41980|Menno city|Incorporated Place|A|Hutchinson County
+SD|46|42140|Midland town|Incorporated Place|A|Haakon County
+SD|46|42260|Milbank city|Incorporated Place|A|Grant County
+SD|46|42460|Miller city|Incorporated Place|A|Hand County
+SD|46|42620|Milltown CDP|Census Designated Place|S|Hutchinson County
+SD|46|42940|Mission city|Incorporated Place|A|Todd County
+SD|46|42980|Mission Hill town|Incorporated Place|A|Yankton County
+SD|46|43100|Mitchell city|Incorporated Place|A|Davison County
+SD|46|43180|Mobridge city|Incorporated Place|A|Walworth County
+SD|46|43380|Monroe town|Incorporated Place|A|Turner County
+SD|46|43500|Montrose city|Incorporated Place|A|McCook County
+SD|46|43780|Morningside CDP|Census Designated Place|S|Beadle County
+SD|46|43860|Morristown town|Incorporated Place|A|Corson County
+SD|46|44020|Mound City town|Incorporated Place|A|Campbell County
+SD|46|44100|Mount Vernon city|Incorporated Place|A|Davison County
+SD|46|44260|Murdo city|Incorporated Place|A|Jones County
+SD|46|44620|Naples town|Incorporated Place|A|Clark County
+SD|46|44820|New Effington town|Incorporated Place|A|Roberts County
+SD|46|44860|Newell city|Incorporated Place|A|Butte County
+SD|46|44940|New Holland CDP|Census Designated Place|S|Douglas County
+SD|46|45060|New Underwood city|Incorporated Place|A|Pennington County
+SD|46|45100|New Witten town|Incorporated Place|A|Tripp County
+SD|46|45180|Nisland town|Incorporated Place|A|Butte County
+SD|46|45420|Norris CDP|Census Designated Place|S|Mellette County
+SD|46|45548|North Eagle Butte CDP|Census Designated Place|S|Dewey County
+SD|46|45700|North Sioux City city|Incorporated Place|A|Union County
+SD|46|45715|North Spearfish CDP|Census Designated Place|S|Lawrence County
+SD|46|45740|Northville town|Incorporated Place|A|Spink County
+SD|46|46060|Nunda town|Incorporated Place|A|Lake County
+SD|46|46180|Oacoma town|Incorporated Place|A|Lyman County
+SD|46|46500|Oelrichs town|Incorporated Place|A|Fall River County
+SD|46|46540|Oglala CDP|Census Designated Place|S|Shannon County
+SD|46|46620|Okaton CDP|Census Designated Place|S|Jones County
+SD|46|46660|Okreek CDP|Census Designated Place|S|Todd County
+SD|46|46700|Ola CDP|Census Designated Place|S|Brule County
+SD|46|46780|Oldham city|Incorporated Place|A|Kingsbury County
+SD|46|46900|Olivet town|Incorporated Place|A|Hutchinson County
+SD|46|46980|Onaka town|Incorporated Place|A|Faulk County
+SD|46|47180|Onida city|Incorporated Place|A|Sully County
+SD|46|47460|Orient town|Incorporated Place|A|Faulk County
+SD|46|47660|Ortley town|Incorporated Place|A|Roberts County
+SD|46|48380|Parker city|Incorporated Place|A|Turner County
+SD|46|48460|Parkston city|Incorporated Place|A|Hutchinson County
+SD|46|48500|Parmelee CDP|Census Designated Place|S|Todd County
+SD|46|48940|Peever town|Incorporated Place|A|Roberts County
+SD|46|49300|Philip city|Incorporated Place|A|Haakon County
+SD|46|49460|Pickstown town|Incorporated Place|A|Charles Mix County
+SD|46|49500|Piedmont city|Incorporated Place|A|Meade County
+SD|46|49540|Pierpont town|Incorporated Place|A|Day County
+SD|46|49600|Pierre city|Incorporated Place|A|Hughes County
+SD|46|49640|Pine Lakes Addition CDP|Census Designated Place|S|Minnehaha County
+SD|46|49660|Pine Ridge CDP|Census Designated Place|S|Shannon County
+SD|46|50020|Plankinton city|Incorporated Place|A|Aurora County
+SD|46|50260|Platte city|Incorporated Place|A|Charles Mix County
+SD|46|51260|Pollock town|Incorporated Place|A|Campbell County
+SD|46|51340|Porcupine CDP|Census Designated Place|S|Shannon County
+SD|46|51660|Prairie City CDP|Census Designated Place|S|Perkins County
+SD|46|51820|Presho city|Incorporated Place|A|Lyman County
+SD|46|51940|Pringle town|Incorporated Place|A|Custer County
+SD|46|52220|Pukwana town|Incorporated Place|A|Brule County
+SD|46|52500|Quinn town|Incorporated Place|A|Pennington County
+SD|46|52860|Ramona town|Incorporated Place|A|Lake County
+SD|46|52980|Rapid City city|Incorporated Place|A|Pennington County
+SD|46|53007|Rapid Valley CDP|Census Designated Place|S|Pennington County
+SD|46|53220|Ravinia town|Incorporated Place|A|Charles Mix County
+SD|46|53260|Raymond town|Incorporated Place|A|Clark County
+SD|46|53460|Redfield city|Incorporated Place|A|Spink County
+SD|46|53940|Ree Heights town|Incorporated Place|A|Hand County
+SD|46|54020|Reliance town|Incorporated Place|A|Lyman County
+SD|46|54145|Renner Corner CDP|Census Designated Place|S|Minnehaha County
+SD|46|54220|Revillo town|Incorporated Place|A|Grant County
+SD|46|54750|Richland CDP|Census Designated Place|S|Union County
+SD|46|55540|Rockham town|Incorporated Place|A|Faulk County
+SD|46|55820|Roscoe city|Incorporated Place|A|Edmunds County
+SD|46|55940|Rosebud CDP|Census Designated Place|S|Todd County
+SD|46|56340|Rosholt town|Incorporated Place|A|Roberts County
+SD|46|56380|Roslyn town|Incorporated Place|A|Day County
+SD|46|56420|Roswell town|Incorporated Place|A|Miner County
+SD|46|56820|Running Water CDP|Census Designated Place|S|Bon Homme County
+SD|46|57060|St. Charles CDP|Census Designated Place|S|Gregory County
+SD|46|57140|St. Francis town|Incorporated Place|A|Todd County
+SD|46|57180|St. Lawrence town|Incorporated Place|A|Hand County
+SD|46|57260|St. Onge CDP|Census Designated Place|S|Lawrence County
+SD|46|57340|Salem city|Incorporated Place|A|McCook County
+SD|46|57940|Scotland city|Incorporated Place|A|Bon Homme County
+SD|46|58140|Selby city|Incorporated Place|A|Walworth County
+SD|46|58180|Seneca town|Incorporated Place|A|Faulk County
+SD|46|58580|Sherman town|Incorporated Place|A|Minnehaha County
+SD|46|58590|Shindler CDP|Census Designated Place|S|Lincoln County
+SD|46|58900|Sinai town|Incorporated Place|A|Brookings County
+SD|46|59020|Sioux Falls city|Incorporated Place|A|Lincoln County, Minnehaha County
+SD|46|59260|Sisseton city|Incorporated Place|A|Roberts County
+SD|46|59700|Soldier Creek CDP|Census Designated Place|S|Todd County
+SD|46|59940|South Shore town|Incorporated Place|A|Codington County
+SD|46|60020|Spearfish city|Incorporated Place|A|Lawrence County
+SD|46|60060|Spencer city|Incorporated Place|A|McCook County
+SD|46|60500|Spring Creek CDP|Census Designated Place|S|Todd County
+SD|46|60660|Springfield city|Incorporated Place|A|Bon Homme County
+SD|46|61700|Stickney town|Incorporated Place|A|Aurora County
+SD|46|61740|Stockholm town|Incorporated Place|A|Grant County
+SD|46|61940|Storla CDP|Census Designated Place|S|Aurora County
+SD|46|61980|Strandburg town|Incorporated Place|A|Grant County
+SD|46|62020|Stratford town|Incorporated Place|A|Brown County
+SD|46|62100|Sturgis city|Incorporated Place|A|Meade County
+SD|46|62155|Summerset city|Incorporated Place|A|Meade County
+SD|46|62220|Summit town|Incorporated Place|A|Roberts County
+SD|46|62820|Tabor town|Incorporated Place|A|Bon Homme County
+SD|46|63100|Tea city|Incorporated Place|A|Lincoln County
+SD|46|63620|Timber Lake city|Incorporated Place|A|Dewey County
+SD|46|63700|Tolstoy town|Incorporated Place|A|Potter County
+SD|46|63740|Toronto town|Incorporated Place|A|Deuel County
+SD|46|63940|Trent town|Incorporated Place|A|Moody County
+SD|46|64020|Tripp city|Incorporated Place|A|Hutchinson County
+SD|46|64300|Tulare town|Incorporated Place|A|Spink County
+SD|46|64540|Turton town|Incorporated Place|A|Spink County
+SD|46|64700|Twin Brooks town|Incorporated Place|A|Grant County
+SD|46|64840|Two Strike CDP|Census Designated Place|S|Todd County
+SD|46|64860|Tyndall city|Incorporated Place|A|Bon Homme County
+SD|46|65780|Utica town|Incorporated Place|A|Yankton County
+SD|46|65900|Vale CDP|Census Designated Place|S|Butte County
+SD|46|66260|Valley Springs city|Incorporated Place|A|Minnehaha County
+SD|46|66540|Veblen city|Incorporated Place|A|Marshall County
+SD|46|66660|Verdon town|Incorporated Place|A|Brown County
+SD|46|66700|Vermillion city|Incorporated Place|A|Clay County
+SD|46|67020|Viborg city|Incorporated Place|A|Turner County
+SD|46|67220|Vienna town|Incorporated Place|A|Clark County
+SD|46|67340|Vilas town|Incorporated Place|A|Miner County
+SD|46|67500|Virgil town|Incorporated Place|A|Beadle County
+SD|46|67620|Vivian CDP|Census Designated Place|S|Lyman County
+SD|46|67700|Volga city|Incorporated Place|A|Brookings County
+SD|46|67780|Volin town|Incorporated Place|A|Yankton County
+SD|46|68020|Wagner city|Incorporated Place|A|Charles Mix County
+SD|46|68100|Wakonda town|Incorporated Place|A|Clay County
+SD|46|68380|Wall town|Incorporated Place|A|Pennington County
+SD|46|68420|Wallace town|Incorporated Place|A|Codington County
+SD|46|68580|Wanblee CDP|Census Designated Place|S|Jackson County
+SD|46|68660|Ward town|Incorporated Place|A|Moody County
+SD|46|68740|Warner town|Incorporated Place|A|Brown County
+SD|46|69140|Wasta town|Incorporated Place|A|Pennington County
+SD|46|69300|Watertown city|Incorporated Place|A|Codington County
+SD|46|69340|Waubay city|Incorporated Place|A|Day County
+SD|46|69420|Waverly CDP|Census Designated Place|S|Codington County
+SD|46|69780|Webster city|Incorporated Place|A|Day County
+SD|46|70020|Wentworth village|Incorporated Place|A|Lake County
+SD|46|70140|Wessington city|Incorporated Place|A|Beadle County, Hand County
+SD|46|70220|Wessington Springs city|Incorporated Place|A|Jerauld County
+SD|46|70540|Westport town|Incorporated Place|A|Brown County
+SD|46|70740|Wetonka town|Incorporated Place|A|McPherson County
+SD|46|70940|White city|Incorporated Place|A|Brookings County
+SD|46|71140|Whitehorse CDP|Census Designated Place|S|Dewey County
+SD|46|71150|White Horse CDP|Census Designated Place|S|Todd County
+SD|46|71180|White Lake city|Incorporated Place|A|Aurora County
+SD|46|71340|White River city|Incorporated Place|A|Mellette County
+SD|46|71380|White Rock town|Incorporated Place|A|Roberts County
+SD|46|71580|Whitewood city|Incorporated Place|A|Lawrence County
+SD|46|71940|Willow Lake city|Incorporated Place|A|Clark County
+SD|46|71980|Wilmot city|Incorporated Place|A|Roberts County
+SD|46|72100|Winfred CDP|Census Designated Place|S|Lake County
+SD|46|72180|Winner city|Incorporated Place|A|Tripp County
+SD|46|72540|Wolsey town|Incorporated Place|A|Beadle County
+SD|46|72620|Wood town|Incorporated Place|A|Mellette County
+SD|46|72700|Woonsocket city|Incorporated Place|A|Sanborn County
+SD|46|72820|Worthing city|Incorporated Place|A|Lincoln County
+SD|46|72900|Wounded Knee CDP|Census Designated Place|S|Shannon County
+SD|46|73020|Yale town|Incorporated Place|A|Beadle County
+SD|46|73060|Yankton city|Incorporated Place|A|Yankton County

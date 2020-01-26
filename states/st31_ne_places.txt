@@ -1,0 +1,580 @@
+NE|31|00205|Abie village|Incorporated Place|A|Butler County
+NE|31|00240|Adams village|Incorporated Place|A|Gage County
+NE|31|00415|Ainsworth city|Incorporated Place|A|Brown County
+NE|31|00555|Albion city|Incorporated Place|A|Boone County
+NE|31|00625|Alda village|Incorporated Place|A|Hall County
+NE|31|00730|Alexandria village|Incorporated Place|A|Thayer County
+NE|31|00870|Allen village|Incorporated Place|A|Dixon County
+NE|31|00905|Alliance city|Incorporated Place|A|Box Butte County
+NE|31|00975|Alma city|Incorporated Place|A|Harlan County
+NE|31|01150|Alvo village|Incorporated Place|A|Cass County
+NE|31|01220|Ames CDP|Census Designated Place|S|Dodge County
+NE|31|01290|Amherst village|Incorporated Place|A|Buffalo County
+NE|31|01465|Anoka village|Incorporated Place|A|Boyd County
+NE|31|01500|Anselmo village|Incorporated Place|A|Custer County
+NE|31|01535|Ansley village|Incorporated Place|A|Custer County
+NE|31|01780|Arapahoe city|Incorporated Place|A|Furnas County
+NE|31|01850|Arcadia village|Incorporated Place|A|Valley County
+NE|31|01920|Archer CDP|Census Designated Place|S|Merrick County
+NE|31|01990|Arlington village|Incorporated Place|A|Washington County
+NE|31|02095|Arnold village|Incorporated Place|A|Custer County
+NE|31|02200|Arthur village|Incorporated Place|A|Arthur County
+NE|31|02305|Ashland city|Incorporated Place|A|Saunders County
+NE|31|02375|Ashton village|Incorporated Place|A|Sherman County
+NE|31|02480|Aten CDP|Census Designated Place|S|Cedar County
+NE|31|02550|Atkinson city|Incorporated Place|A|Holt County
+NE|31|02620|Atlanta village|Incorporated Place|A|Phelps County
+NE|31|02655|Auburn city|Incorporated Place|A|Nemaha County
+NE|31|02690|Aurora city|Incorporated Place|A|Hamilton County
+NE|31|02795|Avoca village|Incorporated Place|A|Cass County
+NE|31|02830|Axtell village|Incorporated Place|A|Kearney County
+NE|31|02865|Ayr village|Incorporated Place|A|Adams County
+NE|31|03005|Bancroft village|Incorporated Place|A|Cuming County
+NE|31|03040|Barada village|Incorporated Place|A|Richardson County
+NE|31|03075|Barneston village|Incorporated Place|A|Gage County
+NE|31|03145|Bartlett village|Incorporated Place|A|Wheeler County
+NE|31|03180|Bartley village|Incorporated Place|A|Red Willow County
+NE|31|03215|Bassett city|Incorporated Place|A|Rock County
+NE|31|03250|Battle Creek city|Incorporated Place|A|Madison County
+NE|31|03285|Bayard city|Incorporated Place|A|Morrill County
+NE|31|03355|Bazile Mills village|Incorporated Place|A|Knox County
+NE|31|03390|Beatrice city|Incorporated Place|A|Gage County
+NE|31|03495|Beaver City city|Incorporated Place|A|Furnas County
+NE|31|03530|Beaver Crossing village|Incorporated Place|A|Seward County
+NE|31|03600|Bee village|Incorporated Place|A|Seward County
+NE|31|03635|Beemer village|Incorporated Place|A|Cuming County
+NE|31|03775|Belden village|Incorporated Place|A|Cedar County
+NE|31|03810|Belgrade village|Incorporated Place|A|Nance County
+NE|31|03950|Bellevue city|Incorporated Place|A|Sarpy County
+NE|31|04020|Bellwood village|Incorporated Place|A|Butler County
+NE|31|04055|Belmar CDP|Census Designated Place|S|Keith County
+NE|31|04160|Belvidere village|Incorporated Place|A|Thayer County
+NE|31|04195|Benedict village|Incorporated Place|A|York County
+NE|31|04230|Benkelman city|Incorporated Place|A|Dundy County
+NE|31|04300|Bennet village|Incorporated Place|A|Lancaster County
+NE|31|04405|Bennington city|Incorporated Place|A|Douglas County
+NE|31|04545|Berea CDP|Census Designated Place|S|Box Butte County
+NE|31|04615|Bertrand village|Incorporated Place|A|Phelps County
+NE|31|04650|Berwyn village|Incorporated Place|A|Custer County
+NE|31|04895|Big Springs village|Incorporated Place|A|Deuel County
+NE|31|05140|Bladen village|Incorporated Place|A|Webster County
+NE|31|05350|Blair city|Incorporated Place|A|Washington County
+NE|31|05455|Bloomfield city|Incorporated Place|A|Knox County
+NE|31|05490|Bloomington village|Incorporated Place|A|Franklin County
+NE|31|05560|Blue Hill city|Incorporated Place|A|Webster County
+NE|31|05630|Blue Springs city|Incorporated Place|A|Gage County
+NE|31|05980|Bow Valley CDP|Census Designated Place|S|Cedar County
+NE|31|06015|Boys Town village|Incorporated Place|A|Douglas County
+NE|31|06050|Bradshaw village|Incorporated Place|A|York County
+NE|31|06085|Brady village|Incorporated Place|A|Lincoln County
+NE|31|06120|Brainard village|Incorporated Place|A|Butler County
+NE|31|06260|Brewster village|Incorporated Place|A|Blaine County
+NE|31|06295|Bridgeport city|Incorporated Place|A|Morrill County
+NE|31|06400|Bristow village|Incorporated Place|A|Boyd County
+NE|31|06470|Broadwater village|Incorporated Place|A|Morrill County
+NE|31|06505|Brock village|Incorporated Place|A|Nemaha County
+NE|31|06610|Broken Bow city|Incorporated Place|A|Custer County
+NE|31|06680|Brownlee CDP|Census Designated Place|S|Cherry County
+NE|31|06750|Brownville village|Incorporated Place|A|Nemaha County
+NE|31|06785|Brule village|Incorporated Place|A|Keith County
+NE|31|06820|Bruning village|Incorporated Place|A|Thayer County
+NE|31|06855|Bruno village|Incorporated Place|A|Butler County
+NE|31|06890|Brunswick village|Incorporated Place|A|Antelope County
+NE|31|07065|Burchard village|Incorporated Place|A|Pawnee County
+NE|31|07205|Burr village|Incorporated Place|A|Otoe County
+NE|31|07310|Burton village|Incorporated Place|A|Keya Paha County
+NE|31|07345|Burwell city|Incorporated Place|A|Garfield County
+NE|31|07415|Bushnell village|Incorporated Place|A|Kimball County
+NE|31|07485|Butte village|Incorporated Place|A|Boyd County
+NE|31|07555|Byron village|Incorporated Place|A|Thayer County
+NE|31|07625|Cairo village|Incorporated Place|A|Hall County
+NE|31|07660|Callaway village|Incorporated Place|A|Custer County
+NE|31|07730|Cambridge city|Incorporated Place|A|Furnas County
+NE|31|07870|Campbell village|Incorporated Place|A|Franklin County
+NE|31|07975|Carleton village|Incorporated Place|A|Thayer County
+NE|31|08010|Carroll village|Incorporated Place|A|Wayne County
+NE|31|08150|Cedar Bluffs village|Incorporated Place|A|Saunders County
+NE|31|08185|Cedar Creek village|Incorporated Place|A|Cass County
+NE|31|08220|Cedar Rapids village|Incorporated Place|A|Boone County
+NE|31|08360|Center village|Incorporated Place|A|Knox County
+NE|31|08535|Central City city|Incorporated Place|A|Merrick County
+NE|31|08570|Ceresco village|Incorporated Place|A|Saunders County
+NE|31|08605|Chadron city|Incorporated Place|A|Dawes County
+NE|31|08640|Chalco CDP|Census Designated Place|S|Sarpy County
+NE|31|08675|Chambers village|Incorporated Place|A|Holt County
+NE|31|08745|Champion CDP|Census Designated Place|S|Chase County
+NE|31|08780|Chapman village|Incorporated Place|A|Merrick County
+NE|31|08885|Chappell city|Incorporated Place|A|Deuel County
+NE|31|09095|Chester village|Incorporated Place|A|Thayer County
+NE|31|09165|Clarks village|Incorporated Place|A|Merrick County
+NE|31|09200|Clarkson city|Incorporated Place|A|Colfax County
+NE|31|09270|Clatonia village|Incorporated Place|A|Gage County
+NE|31|09375|Clay Center city|Incorporated Place|A|Clay County
+NE|31|09445|Clearwater village|Incorporated Place|A|Antelope County
+NE|31|09655|Clinton village|Incorporated Place|A|Sheridan County
+NE|31|09760|Cody village|Incorporated Place|A|Cherry County
+NE|31|09865|Coleridge village|Incorporated Place|A|Cedar County
+NE|31|10005|Colon village|Incorporated Place|A|Saunders County
+NE|31|10110|Columbus city|Incorporated Place|A|Platte County
+NE|31|10180|Comstock village|Incorporated Place|A|Custer County
+NE|31|10250|Concord village|Incorporated Place|A|Dixon County
+NE|31|10390|Cook village|Incorporated Place|A|Johnson County
+NE|31|10495|Cordova village|Incorporated Place|A|Seward County
+NE|31|10600|Cornlea village|Incorporated Place|A|Platte County
+NE|31|10635|Cortland village|Incorporated Place|A|Gage County
+NE|31|10740|Cotesfield village|Incorporated Place|A|Howard County
+NE|31|10985|Cowles village|Incorporated Place|A|Webster County
+NE|31|11020|Cozad city|Incorporated Place|A|Dawson County
+NE|31|11055|Crab Orchard village|Incorporated Place|A|Johnson County
+NE|31|11090|Craig village|Incorporated Place|A|Burt County
+NE|31|11195|Crawford city|Incorporated Place|A|Dawes County
+NE|31|11230|Creighton city|Incorporated Place|A|Knox County
+NE|31|11300|Creston village|Incorporated Place|A|Platte County
+NE|31|11370|Crete city|Incorporated Place|A|Saline County
+NE|31|11440|Crofton city|Incorporated Place|A|Knox County
+NE|31|11475|Crookston village|Incorporated Place|A|Cherry County
+NE|31|11615|Culbertson village|Incorporated Place|A|Hitchcock County
+NE|31|11825|Curtis city|Incorporated Place|A|Frontier County
+NE|31|11860|Cushing village|Incorporated Place|A|Howard County
+NE|31|12000|Dakota City city|Incorporated Place|A|Dakota County
+NE|31|12070|Dalton village|Incorporated Place|A|Cheyenne County
+NE|31|12105|Danbury village|Incorporated Place|A|Red Willow County
+NE|31|12140|Dannebrog village|Incorporated Place|A|Howard County
+NE|31|12245|Davenport village|Incorporated Place|A|Thayer County
+NE|31|12280|Davey village|Incorporated Place|A|Lancaster County
+NE|31|12315|David City city|Incorporated Place|A|Butler County
+NE|31|12420|Dawson village|Incorporated Place|A|Richardson County
+NE|31|12455|Daykin village|Incorporated Place|A|Jefferson County
+NE|31|12525|Decatur village|Incorporated Place|A|Burt County
+NE|31|12770|Denton village|Incorporated Place|A|Lancaster County
+NE|31|12840|Deshler city|Incorporated Place|A|Thayer County
+NE|31|12945|Deweese village|Incorporated Place|A|Clay County
+NE|31|13015|De Witt village|Incorporated Place|A|Saline County
+NE|31|13085|Diller village|Incorporated Place|A|Jefferson County
+NE|31|13190|Dix village|Incorporated Place|A|Kimball County
+NE|31|13225|Dixon village|Incorporated Place|A|Dixon County
+NE|31|13295|Dodge village|Incorporated Place|A|Dodge County
+NE|31|13365|Doniphan village|Incorporated Place|A|Hall County
+NE|31|13435|Dorchester village|Incorporated Place|A|Saline County
+NE|31|13505|Douglas village|Incorporated Place|A|Otoe County
+NE|31|13750|Du Bois village|Incorporated Place|A|Pawnee County
+NE|31|13855|Dunbar village|Incorporated Place|A|Otoe County
+NE|31|13890|Duncan village|Incorporated Place|A|Platte County
+NE|31|13960|Dunning village|Incorporated Place|A|Blaine County
+NE|31|14065|Dwight village|Incorporated Place|A|Butler County
+NE|31|14100|Eagle village|Incorporated Place|A|Cass County
+NE|31|14380|Eddyville village|Incorporated Place|A|Dawson County
+NE|31|14450|Edgar city|Incorporated Place|A|Clay County
+NE|31|14520|Edison village|Incorporated Place|A|Furnas County
+NE|31|14555|Elba village|Incorporated Place|A|Howard County
+NE|31|14730|Elgin city|Incorporated Place|A|Antelope County
+NE|31|14975|Elk Creek village|Incorporated Place|A|Johnson County
+NE|31|15360|Elm Creek village|Incorporated Place|A|Buffalo County
+NE|31|15430|Elmwood village|Incorporated Place|A|Cass County
+NE|31|15500|Elsie village|Incorporated Place|A|Perkins County
+NE|31|15570|Elwood village|Incorporated Place|A|Gosper County
+NE|31|15605|Elyria village|Incorporated Place|A|Valley County
+NE|31|15710|Emerson village|Incorporated Place|A|Dakota County, Dixon County, Thurston County
+NE|31|15815|Emmet village|Incorporated Place|A|Holt County
+NE|31|15885|Enders CDP|Census Designated Place|S|Chase County
+NE|31|15920|Endicott village|Incorporated Place|A|Jefferson County
+NE|31|16025|Ericson village|Incorporated Place|A|Wheeler County
+NE|31|16165|Eustis village|Incorporated Place|A|Frontier County
+NE|31|16270|Ewing village|Incorporated Place|A|Holt County
+NE|31|16340|Exeter village|Incorporated Place|A|Fillmore County
+NE|31|16410|Fairbury city|Incorporated Place|A|Jefferson County
+NE|31|16445|Fairfield city|Incorporated Place|A|Clay County
+NE|31|16550|Fairmont village|Incorporated Place|A|Fillmore County
+NE|31|16655|Falls City city|Incorporated Place|A|Richardson County
+NE|31|16725|Farnam village|Incorporated Place|A|Dawson County
+NE|31|16760|Farwell village|Incorporated Place|A|Howard County
+NE|31|16830|Filley village|Incorporated Place|A|Gage County
+NE|31|16935|Firth village|Incorporated Place|A|Lancaster County
+NE|31|17040|Fontanelle CDP|Census Designated Place|S|Washington County
+NE|31|17110|Fordyce village|Incorporated Place|A|Cedar County
+NE|31|17145|Fort Calhoun city|Incorporated Place|A|Washington County
+NE|31|17320|Foster village|Incorporated Place|A|Pierce County
+NE|31|17530|Franklin city|Incorporated Place|A|Franklin County
+NE|31|17670|Fremont city|Incorporated Place|A|Dodge County
+NE|31|17775|Friend city|Incorporated Place|A|Saline County
+NE|31|17810|Fullerton city|Incorporated Place|A|Nance County
+NE|31|17880|Funk village|Incorporated Place|A|Phelps County
+NE|31|17950|Gandy village|Incorporated Place|A|Logan County
+NE|31|18230|Garland village|Incorporated Place|A|Seward County
+NE|31|18300|Garrison village|Incorporated Place|A|Butler County
+NE|31|18405|Geneva city|Incorporated Place|A|Fillmore County
+NE|31|18475|Genoa city|Incorporated Place|A|Nance County
+NE|31|18580|Gering city|Incorporated Place|A|Scotts Bluff County
+NE|31|18615|Gibbon city|Incorporated Place|A|Buffalo County
+NE|31|18720|Gilead village|Incorporated Place|A|Thayer County
+NE|31|18825|Giltner village|Incorporated Place|A|Hamilton County
+NE|31|19070|Glenvil village|Incorporated Place|A|Clay County
+NE|31|19160|Glenwood CDP|Census Designated Place|S|Buffalo County
+NE|31|19245|Goehner village|Incorporated Place|A|Seward County
+NE|31|19350|Gordon city|Incorporated Place|A|Sheridan County
+NE|31|19385|Gothenburg city|Incorporated Place|A|Dawson County
+NE|31|19455|Grafton village|Incorporated Place|A|Fillmore County
+NE|31|19595|Grand Island city|Incorporated Place|A|Hall County
+NE|31|19910|Grant city|Incorporated Place|A|Perkins County
+NE|31|20050|Greeley Center village|Incorporated Place|A|Greeley County
+NE|31|20190|Greenwood village|Incorporated Place|A|Cass County
+NE|31|20225|Gresham village|Incorporated Place|A|York County
+NE|31|20260|Gretna city|Incorporated Place|A|Sarpy County
+NE|31|20295|Gross village|Incorporated Place|A|Boyd County
+NE|31|20365|Guide Rock village|Incorporated Place|A|Webster County
+NE|31|20435|Gurley village|Incorporated Place|A|Cheyenne County
+NE|31|20470|Hadar village|Incorporated Place|A|Pierce County
+NE|31|20540|Haigler village|Incorporated Place|A|Dundy County
+NE|31|20610|Hallam village|Incorporated Place|A|Lancaster County
+NE|31|20680|Halsey village|Incorporated Place|A|Blaine County, Thomas County
+NE|31|20750|Hamlet village|Incorporated Place|A|Hayes County
+NE|31|20785|Hampton village|Incorporated Place|A|Hamilton County
+NE|31|20960|Harbine village|Incorporated Place|A|Jefferson County
+NE|31|20995|Hardy village|Incorporated Place|A|Nuckolls County
+NE|31|21030|Harrisburg CDP|Census Designated Place|S|Banner County
+NE|31|21240|Harrison village|Incorporated Place|A|Sioux County
+NE|31|21275|Hartington city|Incorporated Place|A|Cedar County
+NE|31|21345|Harvard city|Incorporated Place|A|Clay County
+NE|31|21415|Hastings city|Incorporated Place|A|Adams County
+NE|31|21660|Hayes Center village|Incorporated Place|A|Hayes County
+NE|31|21730|Hay Springs village|Incorporated Place|A|Sheridan County
+NE|31|21765|Hazard village|Incorporated Place|A|Sherman County
+NE|31|21835|Heartwell village|Incorporated Place|A|Kearney County
+NE|31|21905|Hebron city|Incorporated Place|A|Thayer County
+NE|31|22045|Hemingford village|Incorporated Place|A|Box Butte County
+NE|31|22080|Henderson city|Incorporated Place|A|York County
+NE|31|22115|Hendley village|Incorporated Place|A|Furnas County
+NE|31|22150|Henry village|Incorporated Place|A|Scotts Bluff County
+NE|31|22185|Herman village|Incorporated Place|A|Washington County
+NE|31|22290|Hershey village|Incorporated Place|A|Lincoln County
+NE|31|22325|Hickman city|Incorporated Place|A|Lancaster County
+NE|31|22430|Hildreth village|Incorporated Place|A|Franklin County
+NE|31|22605|Holbrook village|Incorporated Place|A|Furnas County
+NE|31|22640|Holdrege city|Incorporated Place|A|Phelps County
+NE|31|22780|Holmesville CDP|Census Designated Place|S|Gage County
+NE|31|22815|Holstein village|Incorporated Place|A|Adams County
+NE|31|22920|Homer village|Incorporated Place|A|Dakota County
+NE|31|23025|Hooper city|Incorporated Place|A|Dodge County
+NE|31|23200|Hordville village|Incorporated Place|A|Hamilton County
+NE|31|23235|Hoskins village|Incorporated Place|A|Wayne County
+NE|31|23270|Howard City village|Incorporated Place|A|Howard County
+NE|31|23340|Howells village|Incorporated Place|A|Colfax County
+NE|31|23375|Hubbard village|Incorporated Place|A|Dakota County
+NE|31|23410|Hubbell village|Incorporated Place|A|Thayer County
+NE|31|23445|Humboldt city|Incorporated Place|A|Richardson County
+NE|31|23480|Humphrey city|Incorporated Place|A|Platte County
+NE|31|23550|Huntley village|Incorporated Place|A|Harlan County
+NE|31|23655|Hyannis village|Incorporated Place|A|Grant County
+NE|31|23690|Imperial city|Incorporated Place|A|Chase County
+NE|31|23725|Inavale CDP|Census Designated Place|S|Webster County
+NE|31|23830|Indianola city|Incorporated Place|A|Red Willow County
+NE|31|23970|Inglewood village|Incorporated Place|A|Dodge County
+NE|31|24055|Inland CDP|Census Designated Place|S|Clay County
+NE|31|24075|Inman village|Incorporated Place|A|Holt County
+NE|31|24285|Ithaca village|Incorporated Place|A|Saunders County
+NE|31|24355|Jackson village|Incorporated Place|A|Dakota County
+NE|31|24530|Jansen village|Incorporated Place|A|Jefferson County
+NE|31|24670|Johnson village|Incorporated Place|A|Nemaha County
+NE|31|24740|Johnstown village|Incorporated Place|A|Brown County
+NE|31|24915|Julian village|Incorporated Place|A|Nemaha County
+NE|31|24950|Juniata village|Incorporated Place|A|Adams County
+NE|31|25055|Kearney city|Incorporated Place|A|Buffalo County
+NE|31|25160|Kenesaw village|Incorporated Place|A|Adams County
+NE|31|25230|Kennard village|Incorporated Place|A|Washington County
+NE|31|25335|Keystone CDP|Census Designated Place|S|Keith County
+NE|31|25405|Kilgore village|Incorporated Place|A|Cherry County
+NE|31|25475|Kimball city|Incorporated Place|A|Kimball County
+NE|31|25510|King Lake CDP|Census Designated Place|S|Douglas County
+NE|31|26150|Lakeview CDP|Census Designated Place|S|Platte County
+NE|31|26175|Lamar village|Incorporated Place|A|Chase County
+NE|31|26315|La Platte CDP|Census Designated Place|S|Sarpy County
+NE|31|26350|Laurel city|Incorporated Place|A|Cedar County
+NE|31|26385|La Vista city|Incorporated Place|A|Sarpy County
+NE|31|26420|Lawrence village|Incorporated Place|A|Nuckolls County
+NE|31|26455|Lebanon village|Incorporated Place|A|Red Willow County
+NE|31|26560|Leigh village|Incorporated Place|A|Colfax County
+NE|31|26595|Lemoyne CDP|Census Designated Place|S|Keith County
+NE|31|26630|Leshara village|Incorporated Place|A|Saunders County
+NE|31|26805|Lewellen village|Incorporated Place|A|Garden County
+NE|31|26875|Lewiston village|Incorporated Place|A|Pawnee County
+NE|31|26910|Lexington city|Incorporated Place|A|Dawson County
+NE|31|26980|Liberty village|Incorporated Place|A|Gage County
+NE|31|28000|Lincoln city|Incorporated Place|A|Lancaster County
+NE|31|28105|Lindsay village|Incorporated Place|A|Platte County
+NE|31|28140|Lindy CDP|Census Designated Place|S|Knox County
+NE|31|28245|Linwood village|Incorporated Place|A|Butler County
+NE|31|28315|Lisco CDP|Census Designated Place|S|Garden County
+NE|31|28350|Litchfield village|Incorporated Place|A|Sherman County
+NE|31|28420|Lodgepole village|Incorporated Place|A|Cheyenne County
+NE|31|29050|Long Pine city|Incorporated Place|A|Brown County
+NE|31|29085|Loomis village|Incorporated Place|A|Phelps County
+NE|31|29120|Lorenzo CDP|Census Designated Place|S|Cheyenne County
+NE|31|29155|Loretto CDP|Census Designated Place|S|Boone County
+NE|31|29175|Lorton village|Incorporated Place|A|Otoe County
+NE|31|29260|Louisville city|Incorporated Place|A|Cass County
+NE|31|29470|Loup City city|Incorporated Place|A|Sherman County
+NE|31|29645|Lushton village|Incorporated Place|A|York County
+NE|31|29715|Lyman village|Incorporated Place|A|Scotts Bluff County
+NE|31|29750|Lynch village|Incorporated Place|A|Boyd County
+NE|31|29855|Lyons city|Incorporated Place|A|Burt County
+NE|31|29925|McCook city|Incorporated Place|A|Red Willow County
+NE|31|29960|McCool Junction village|Incorporated Place|A|York County
+NE|31|30030|McGrew village|Incorporated Place|A|Scotts Bluff County
+NE|31|30065|McLean village|Incorporated Place|A|Pierce County
+NE|31|30170|Macy CDP|Census Designated Place|S|Thurston County
+NE|31|30240|Madison city|Incorporated Place|A|Madison County
+NE|31|30275|Madrid village|Incorporated Place|A|Perkins County
+NE|31|30310|Magnet village|Incorporated Place|A|Cedar County
+NE|31|30345|Malcolm village|Incorporated Place|A|Lancaster County
+NE|31|30380|Malmo village|Incorporated Place|A|Saunders County
+NE|31|30415|Manley village|Incorporated Place|A|Cass County
+NE|31|30730|Marquette village|Incorporated Place|A|Hamilton County
+NE|31|30905|Martin CDP|Census Designated Place|S|Keith County
+NE|31|30940|Martinsburg village|Incorporated Place|A|Dixon County
+NE|31|31045|Maskell village|Incorporated Place|A|Dixon County
+NE|31|31115|Mason City village|Incorporated Place|A|Custer County
+NE|31|31150|Max CDP|Census Designated Place|S|Dundy County
+NE|31|31220|Maxwell village|Incorporated Place|A|Lincoln County
+NE|31|31325|Maywood village|Incorporated Place|A|Frontier County
+NE|31|31395|Mead village|Incorporated Place|A|Saunders County
+NE|31|31465|Meadow Grove village|Incorporated Place|A|Madison County
+NE|31|31570|Melbeta village|Incorporated Place|A|Scotts Bluff County
+NE|31|31640|Memphis village|Incorporated Place|A|Saunders County
+NE|31|31780|Merna village|Incorporated Place|A|Custer County
+NE|31|31815|Merriman village|Incorporated Place|A|Cherry County
+NE|31|32060|Milford city|Incorporated Place|A|Seward County
+NE|31|32130|Miller village|Incorporated Place|A|Buffalo County
+NE|31|32200|Milligan village|Incorporated Place|A|Fillmore County
+NE|31|32305|Minatare city|Incorporated Place|A|Scotts Bluff County
+NE|31|32340|Minden city|Incorporated Place|A|Kearney County
+NE|31|32410|Mitchell city|Incorporated Place|A|Scotts Bluff County
+NE|31|32550|Monowi village|Incorporated Place|A|Boyd County
+NE|31|32585|Monroe village|Incorporated Place|A|Platte County
+NE|31|32760|Moorefield village|Incorporated Place|A|Frontier County
+NE|31|32830|Morrill village|Incorporated Place|A|Scotts Bluff County
+NE|31|32865|Morse Bluff village|Incorporated Place|A|Saunders County
+NE|31|33250|Mullen village|Incorporated Place|A|Hooker County
+NE|31|33320|Murdock village|Incorporated Place|A|Cass County
+NE|31|33425|Murray village|Incorporated Place|A|Cass County
+NE|31|33530|Naper village|Incorporated Place|A|Boyd County
+NE|31|33565|Naponee village|Incorporated Place|A|Franklin County
+NE|31|33705|Nebraska City city|Incorporated Place|A|Otoe County
+NE|31|33740|Nehawka village|Incorporated Place|A|Cass County
+NE|31|33775|Neligh city|Incorporated Place|A|Antelope County
+NE|31|33880|Nelson city|Incorporated Place|A|Nuckolls County
+NE|31|33950|Nemaha village|Incorporated Place|A|Nemaha County
+NE|31|33985|Nenzel village|Incorporated Place|A|Cherry County
+NE|31|34090|Newcastle village|Incorporated Place|A|Dixon County
+NE|31|34230|Newman Grove city|Incorporated Place|A|Madison County, Platte County
+NE|31|34265|Newport village|Incorporated Place|A|Rock County
+NE|31|34300|Nickerson village|Incorporated Place|A|Dodge County
+NE|31|34370|Niobrara village|Incorporated Place|A|Knox County
+NE|31|34545|Nora village|Incorporated Place|A|Nuckolls County
+NE|31|34615|Norfolk city|Incorporated Place|A|Madison County
+NE|31|34650|Norman village|Incorporated Place|A|Kearney County
+NE|31|34720|North Bend city|Incorporated Place|A|Dodge County
+NE|31|34825|North Loup village|Incorporated Place|A|Valley County
+NE|31|35000|North Platte city|Incorporated Place|A|Lincoln County
+NE|31|35245|Oak village|Incorporated Place|A|Nuckolls County
+NE|31|35385|Oakdale village|Incorporated Place|A|Antelope County
+NE|31|35490|Oakland city|Incorporated Place|A|Burt County
+NE|31|35560|Obert village|Incorporated Place|A|Cedar County
+NE|31|35665|Oconto village|Incorporated Place|A|Custer County
+NE|31|35700|Octavia village|Incorporated Place|A|Butler County
+NE|31|35735|Odell village|Incorporated Place|A|Gage County
+NE|31|35770|Odessa CDP|Census Designated Place|S|Buffalo County
+NE|31|35875|Offutt AFB CDP|Census Designated Place|S|Sarpy County
+NE|31|35980|Ogallala city|Incorporated Place|A|Keith County
+NE|31|36015|Ohiowa village|Incorporated Place|A|Fillmore County
+NE|31|37000|Omaha city|Incorporated Place|A|Douglas County
+NE|31|37105|O'Neill city|Incorporated Place|A|Holt County
+NE|31|37140|Ong village|Incorporated Place|A|Clay County
+NE|31|37210|Orchard village|Incorporated Place|A|Antelope County
+NE|31|37280|Ord city|Incorporated Place|A|Valley County
+NE|31|37420|Orleans village|Incorporated Place|A|Harlan County
+NE|31|37525|Osceola city|Incorporated Place|A|Polk County
+NE|31|37560|Oshkosh city|Incorporated Place|A|Garden County
+NE|31|37595|Osmond city|Incorporated Place|A|Pierce County
+NE|31|37630|Otoe village|Incorporated Place|A|Otoe County
+NE|31|37735|Overland CDP|Census Designated Place|S|Hamilton County
+NE|31|37770|Overton village|Incorporated Place|A|Dawson County
+NE|31|37910|Oxford village|Incorporated Place|A|Furnas County, Harlan County
+NE|31|38085|Page village|Incorporated Place|A|Holt County
+NE|31|38130|Palisade village|Incorporated Place|A|Hayes County, Hitchcock County
+NE|31|38160|Palmer village|Incorporated Place|A|Merrick County
+NE|31|38190|Palmyra village|Incorporated Place|A|Otoe County
+NE|31|38225|Panama village|Incorporated Place|A|Lancaster County
+NE|31|38295|Papillion city|Incorporated Place|A|Sarpy County
+NE|31|38365|Parks CDP|Census Designated Place|S|Dundy County
+NE|31|38575|Pawnee City city|Incorporated Place|A|Pawnee County
+NE|31|38610|Paxton village|Incorporated Place|A|Keith County
+NE|31|38750|Pender village|Incorporated Place|A|Thurston County
+NE|31|38960|Peru city|Incorporated Place|A|Nemaha County
+NE|31|38995|Petersburg village|Incorporated Place|A|Boone County
+NE|31|39030|Phillips village|Incorporated Place|A|Hamilton County
+NE|31|39065|Pickrell village|Incorporated Place|A|Gage County
+NE|31|39100|Pierce city|Incorporated Place|A|Pierce County
+NE|31|39135|Pilger village|Incorporated Place|A|Stanton County
+NE|31|39170|Plainview city|Incorporated Place|A|Pierce County
+NE|31|39310|Platte Center village|Incorporated Place|A|Platte County
+NE|31|39345|Plattsmouth city|Incorporated Place|A|Cass County
+NE|31|39380|Pleasant Dale village|Incorporated Place|A|Seward County
+NE|31|39450|Pleasanton village|Incorporated Place|A|Buffalo County
+NE|31|39590|Plymouth village|Incorporated Place|A|Jefferson County
+NE|31|39660|Polk village|Incorporated Place|A|Polk County
+NE|31|39695|Ponca city|Incorporated Place|A|Dixon County
+NE|31|39835|Poole CDP|Census Designated Place|S|Buffalo County
+NE|31|39870|Potter village|Incorporated Place|A|Cheyenne County
+NE|31|39975|Prague village|Incorporated Place|A|Saunders County
+NE|31|40325|Preston village|Incorporated Place|A|Richardson County
+NE|31|40360|Primrose village|Incorporated Place|A|Boone County
+NE|31|40430|Prosser village|Incorporated Place|A|Adams County
+NE|31|40535|Raeville CDP|Census Designated Place|S|Boone County
+NE|31|40570|Ragan village|Incorporated Place|A|Harlan County
+NE|31|40605|Ralston city|Incorporated Place|A|Douglas County
+NE|31|40675|Randolph city|Incorporated Place|A|Cedar County
+NE|31|40710|Ravenna city|Incorporated Place|A|Buffalo County
+NE|31|40780|Raymond village|Incorporated Place|A|Lancaster County
+NE|31|40920|Red Cloud city|Incorporated Place|A|Webster County
+NE|31|41130|Republican City village|Incorporated Place|A|Harlan County
+NE|31|41235|Reynolds village|Incorporated Place|A|Jefferson County
+NE|31|41340|Richfield CDP|Census Designated Place|S|Sarpy County
+NE|31|41375|Richland village|Incorporated Place|A|Colfax County
+NE|31|41480|Rising City village|Incorporated Place|A|Butler County
+NE|31|41515|Riverdale village|Incorporated Place|A|Buffalo County
+NE|31|41760|Riverton village|Incorporated Place|A|Franklin County
+NE|31|41830|Roca village|Incorporated Place|A|Lancaster County
+NE|31|42075|Rockville village|Incorporated Place|A|Sherman County
+NE|31|42145|Rogers village|Incorporated Place|A|Colfax County
+NE|31|42250|Rosalie village|Incorporated Place|A|Thurston County
+NE|31|42285|Roscoe CDP|Census Designated Place|S|Keith County
+NE|31|42355|Roseland village|Incorporated Place|A|Adams County
+NE|31|42495|Royal village|Incorporated Place|A|Antelope County
+NE|31|42670|Rulo village|Incorporated Place|A|Richardson County
+NE|31|42775|Rushville city|Incorporated Place|A|Sheridan County
+NE|31|42810|Ruskin village|Incorporated Place|A|Nuckolls County
+NE|31|43055|St. Edward city|Incorporated Place|A|Boone County
+NE|31|43090|St. Helena village|Incorporated Place|A|Cedar County
+NE|31|43160|St. Libory CDP|Census Designated Place|S|Howard County
+NE|31|43265|St. Paul city|Incorporated Place|A|Howard County
+NE|31|43370|Salem village|Incorporated Place|A|Richardson County
+NE|31|43475|Santee village|Incorporated Place|A|Knox County
+NE|31|43650|Sarben CDP|Census Designated Place|S|Keith County
+NE|31|43685|Sargent city|Incorporated Place|A|Custer County
+NE|31|43755|Saronville village|Incorporated Place|A|Clay County
+NE|31|44035|Schuyler city|Incorporated Place|A|Colfax County
+NE|31|44070|Scotia village|Incorporated Place|A|Greeley County
+NE|31|44245|Scottsbluff city|Incorporated Place|A|Scotts Bluff County
+NE|31|44280|Scribner city|Incorporated Place|A|Dodge County
+NE|31|44385|Seneca village|Incorporated Place|A|Thomas County
+NE|31|44420|Seward city|Incorporated Place|A|Seward County
+NE|31|44595|Shelby village|Incorporated Place|A|Polk County
+NE|31|44700|Shelton village|Incorporated Place|A|Buffalo County
+NE|31|45085|Shickley village|Incorporated Place|A|Fillmore County
+NE|31|45190|Sholes village|Incorporated Place|A|Wayne County
+NE|31|45225|Shubert village|Incorporated Place|A|Richardson County
+NE|31|45295|Sidney city|Incorporated Place|A|Cheyenne County
+NE|31|45400|Silver Creek village|Incorporated Place|A|Merrick County
+NE|31|45575|Smithfield village|Incorporated Place|A|Gosper County
+NE|31|45610|Snyder village|Incorporated Place|A|Dodge County
+NE|31|45680|South Bend village|Incorporated Place|A|Cass County
+NE|31|46030|South Sioux City city|Incorporated Place|A|Dakota County
+NE|31|46135|Spalding village|Incorporated Place|A|Greeley County
+NE|31|46275|Spencer village|Incorporated Place|A|Boyd County
+NE|31|46380|Sprague village|Incorporated Place|A|Lancaster County
+NE|31|46520|Springfield city|Incorporated Place|A|Sarpy County
+NE|31|46625|Springview village|Incorporated Place|A|Keya Paha County
+NE|31|46695|Stamford village|Incorporated Place|A|Harlan County
+NE|31|46800|Stanton city|Incorporated Place|A|Stanton County
+NE|31|46835|Staplehurst village|Incorporated Place|A|Seward County
+NE|31|46870|Stapleton village|Incorporated Place|A|Logan County
+NE|31|47010|Steele City village|Incorporated Place|A|Jefferson County
+NE|31|47080|Steinauer village|Incorporated Place|A|Pawnee County
+NE|31|47115|Stella village|Incorporated Place|A|Richardson County
+NE|31|47150|Sterling village|Incorporated Place|A|Johnson County
+NE|31|47220|Stockham village|Incorporated Place|A|Hamilton County
+NE|31|47290|Stockville village|Incorporated Place|A|Frontier County
+NE|31|47360|Strang village|Incorporated Place|A|Fillmore County
+NE|31|47395|Stratton village|Incorporated Place|A|Hitchcock County
+NE|31|47465|Stromsburg city|Incorporated Place|A|Polk County
+NE|31|47500|Stuart village|Incorporated Place|A|Holt County
+NE|31|47675|Sumner village|Incorporated Place|A|Dawson County
+NE|31|47745|Sunol CDP|Census Designated Place|S|Cheyenne County
+NE|31|47815|Superior city|Incorporated Place|A|Nuckolls County
+NE|31|47850|Surprise village|Incorporated Place|A|Butler County
+NE|31|47920|Sutherland village|Incorporated Place|A|Lincoln County
+NE|31|47955|Sutton city|Incorporated Place|A|Clay County
+NE|31|48060|Swanton village|Incorporated Place|A|Saline County
+NE|31|48235|Syracuse city|Incorporated Place|A|Otoe County
+NE|31|48270|Table Rock village|Incorporated Place|A|Pawnee County
+NE|31|48305|Talmage village|Incorporated Place|A|Otoe County
+NE|31|48340|Tamora CDP|Census Designated Place|S|Seward County
+NE|31|48410|Tarnov village|Incorporated Place|A|Platte County
+NE|31|48445|Taylor village|Incorporated Place|A|Loup County
+NE|31|48480|Tecumseh city|Incorporated Place|A|Johnson County
+NE|31|48515|Tekamah city|Incorporated Place|A|Burt County
+NE|31|48585|Terrytown city|Incorporated Place|A|Scotts Bluff County
+NE|31|48690|Thayer village|Incorporated Place|A|York County
+NE|31|48760|Thedford village|Incorporated Place|A|Thomas County
+NE|31|48900|Thurston village|Incorporated Place|A|Thurston County
+NE|31|48935|Tilden city|Incorporated Place|A|Antelope County, Madison County
+NE|31|49005|Tobias village|Incorporated Place|A|Saline County
+NE|31|49145|Trenton village|Incorporated Place|A|Hitchcock County
+NE|31|49285|Trumbull village|Incorporated Place|A|Adams County, Clay County
+NE|31|49320|Tryon CDP|Census Designated Place|S|McPherson County
+NE|31|49425|Uehling village|Incorporated Place|A|Dodge County
+NE|31|49460|Ulysses village|Incorporated Place|A|Butler County
+NE|31|49530|Unadilla village|Incorporated Place|A|Otoe County
+NE|31|49635|Union village|Incorporated Place|A|Cass County
+NE|31|49880|Upland village|Incorporated Place|A|Franklin County
+NE|31|49915|Utica village|Incorporated Place|A|Seward County
+NE|31|49950|Valentine city|Incorporated Place|A|Cherry County
+NE|31|50020|Valley city|Incorporated Place|A|Douglas County
+NE|31|50125|Valparaiso village|Incorporated Place|A|Saunders County
+NE|31|50230|Venango village|Incorporated Place|A|Perkins County
+NE|31|50265|Venice CDP|Census Designated Place|S|Douglas County
+NE|31|50335|Verdel village|Incorporated Place|A|Knox County
+NE|31|50370|Verdigre village|Incorporated Place|A|Knox County
+NE|31|50510|Verdon village|Incorporated Place|A|Richardson County
+NE|31|50790|Virginia village|Incorporated Place|A|Gage County
+NE|31|50895|Waco village|Incorporated Place|A|York County
+NE|31|50965|Wahoo city|Incorporated Place|A|Saunders County
+NE|31|51070|Wakefield city|Incorporated Place|A|Dixon County, Wayne County
+NE|31|51175|Wallace village|Incorporated Place|A|Lincoln County
+NE|31|51245|Walthill village|Incorporated Place|A|Thurston County
+NE|31|51280|Walton CDP|Census Designated Place|S|Lancaster County
+NE|31|51350|Wann CDP|Census Designated Place|S|Saunders County
+NE|31|51595|Washington village|Incorporated Place|A|Washington County
+NE|31|51630|Waterbury village|Incorporated Place|A|Dixon County
+NE|31|51665|Waterloo village|Incorporated Place|A|Douglas County
+NE|31|51700|Wauneta village|Incorporated Place|A|Chase County
+NE|31|51735|Wausa village|Incorporated Place|A|Knox County
+NE|31|51770|Waverly city|Incorporated Place|A|Lancaster County
+NE|31|51840|Wayne city|Incorporated Place|A|Wayne County
+NE|31|52015|Weeping Water city|Incorporated Place|A|Cass County
+NE|31|52085|Wellfleet village|Incorporated Place|A|Lincoln County
+NE|31|52295|Western village|Incorporated Place|A|Saline County
+NE|31|52330|Westerville CDP|Census Designated Place|S|Custer County
+NE|31|52540|Weston village|Incorporated Place|A|Saunders County
+NE|31|52575|West Point city|Incorporated Place|A|Cuming County
+NE|31|52855|White Clay CDP|Census Designated Place|S|Sheridan County
+NE|31|52925|Whitney village|Incorporated Place|A|Dawes County
+NE|31|52960|Wilber city|Incorporated Place|A|Saline County
+NE|31|52995|Wilcox village|Incorporated Place|A|Kearney County
+NE|31|53205|Willow Island CDP|Census Designated Place|S|Dawson County
+NE|31|53240|Wilsonville village|Incorporated Place|A|Furnas County
+NE|31|53275|Winnebago village|Incorporated Place|A|Thurston County
+NE|31|53345|Winnetoon village|Incorporated Place|A|Knox County
+NE|31|53380|Winside village|Incorporated Place|A|Wayne County
+NE|31|53415|Winslow village|Incorporated Place|A|Dodge County
+NE|31|53450|Wisner city|Incorporated Place|A|Cuming County
+NE|31|53520|Wolbach village|Incorporated Place|A|Greeley County
+NE|31|53555|Wood Lake village|Incorporated Place|A|Cherry County
+NE|31|53575|Woodland Hills CDP|Census Designated Place|S|Otoe County
+NE|31|53580|Woodland Park CDP|Census Designated Place|S|Stanton County
+NE|31|53660|Wood River city|Incorporated Place|A|Hall County
+NE|31|53835|Wymore city|Incorporated Place|A|Gage County
+NE|31|53905|Wynot village|Incorporated Place|A|Cedar County
+NE|31|54020|Yankee Hill CDP|Census Designated Place|S|Lancaster County
+NE|31|54045|York city|Incorporated Place|A|York County
+NE|31|54115|Yutan city|Incorporated Place|A|Saunders County

@@ -1,0 +1,739 @@
+NC|37|00160|Aberdeen town|Incorporated Place|A|Moore County
+NC|37|00440|Advance CDP|Census Designated Place|S|Davie County
+NC|37|00500|Ahoskie town|Incorporated Place|A|Hertford County
+NC|37|00640|Alamance village|Incorporated Place|A|Alamance County
+NC|37|00680|Albemarle city|Incorporated Place|A|Stanly County
+NC|37|01000|Alliance town|Incorporated Place|A|Pamlico County
+NC|37|01140|Altamahaw CDP|Census Designated Place|S|Alamance County
+NC|37|01380|Andrews town|Incorporated Place|A|Cherokee County
+NC|37|01400|Angier town|Incorporated Place|A|Harnett County, Wake County
+NC|37|01420|Ansonville town|Incorporated Place|A|Anson County
+NC|37|01520|Apex town|Incorporated Place|A|Wake County
+NC|37|01560|Aquadale CDP|Census Designated Place|S|Stanly County
+NC|37|01640|Arapahoe town|Incorporated Place|A|Pamlico County
+NC|37|01720|Archdale city|Incorporated Place|A|Guilford County, Randolph County
+NC|37|01760|Archer Lodge town|Incorporated Place|A|Johnston County
+NC|37|02080|Asheboro city|Incorporated Place|A|Randolph County
+NC|37|02140|Asheville city|Incorporated Place|A|Buncombe County
+NC|37|02240|Ashley Heights CDP|Census Designated Place|S|Hoke County
+NC|37|02320|Askewville town|Incorporated Place|A|Bertie County
+NC|37|02460|Atkinson town|Incorporated Place|A|Pender County
+NC|37|02480|Atlantic CDP|Census Designated Place|S|Carteret County
+NC|37|02500|Atlantic Beach town|Incorporated Place|A|Carteret County
+NC|37|02580|Aulander town|Incorporated Place|A|Bertie County
+NC|37|02620|Aurora town|Incorporated Place|A|Beaufort County
+NC|37|02700|Autryville town|Incorporated Place|A|Sampson County
+NC|37|02760|Avery Creek CDP|Census Designated Place|S|Buncombe County
+NC|37|02780|Avon CDP|Census Designated Place|S|Dare County
+NC|37|02840|Ayden town|Incorporated Place|A|Pitt County
+NC|37|02960|Badin town|Incorporated Place|A|Stanly County
+NC|37|03020|Bailey town|Incorporated Place|A|Nash County
+NC|37|03100|Bakersville town|Incorporated Place|A|Mitchell County
+NC|37|03150|Bald Head Island village|Incorporated Place|A|Brunswick County
+NC|37|03220|Balfour CDP|Census Designated Place|S|Henderson County
+NC|37|03500|Banner Elk town|Incorporated Place|A|Avery County
+NC|37|03640|Barker Heights CDP|Census Designated Place|S|Henderson County
+NC|37|03665|Barker Ten Mile CDP|Census Designated Place|S|Robeson County
+NC|37|03840|Bath town|Incorporated Place|A|Beaufort County
+NC|37|03960|Bayboro town|Incorporated Place|A|Pamlico County
+NC|37|04015|Bayshore CDP|Census Designated Place|S|New Hanover County
+NC|37|04040|Bayview CDP|Census Designated Place|S|Beaufort County
+NC|37|04180|Bear Grass town|Incorporated Place|A|Martin County
+NC|37|04260|Beaufort town|Incorporated Place|A|Carteret County
+NC|37|04510|Beech Mountain town|Incorporated Place|A|Avery County, Watauga County
+NC|37|04640|Belhaven town|Incorporated Place|A|Beaufort County
+NC|37|04680|Bell Arthur CDP|Census Designated Place|S|Pitt County
+NC|37|04840|Belmont city|Incorporated Place|A|Gaston County
+NC|37|04950|Belville town|Incorporated Place|A|Brunswick County
+NC|37|04955|Belvoir CDP|Census Designated Place|S|Pitt County
+NC|37|04960|Belwood town|Incorporated Place|A|Cleveland County
+NC|37|05020|Bennett CDP|Census Designated Place|S|Chatham County
+NC|37|05040|Benson town|Incorporated Place|A|Harnett County, Johnston County
+NC|37|05049|Bent Creek CDP|Census Designated Place|S|Buncombe County
+NC|37|05135|Bermuda Run town|Incorporated Place|A|Davie County
+NC|37|05220|Bessemer City city|Incorporated Place|A|Gaston County
+NC|37|05340|Bethania town|Incorporated Place|A|Forsyth County
+NC|37|05460|Bethel town|Incorporated Place|A|Pitt County
+NC|37|05530|Bethlehem CDP|Census Designated Place|S|Alexander County
+NC|37|05660|Beulaville town|Incorporated Place|A|Duplin County
+NC|37|05880|Biltmore Forest town|Incorporated Place|A|Buncombe County
+NC|37|06000|Biscoe town|Incorporated Place|A|Montgomery County
+NC|37|06080|Black Creek town|Incorporated Place|A|Wilson County
+NC|37|06140|Black Mountain town|Incorporated Place|A|Buncombe County
+NC|37|06240|Bladenboro town|Incorporated Place|A|Bladen County
+NC|37|06500|Blowing Rock town|Incorporated Place|A|Caldwell County, Watauga County
+NC|37|06510|Blue Clay Farms CDP|Census Designated Place|S|New Hanover County
+NC|37|06660|Boardman town|Incorporated Place|A|Columbus County
+NC|37|06740|Bogue town|Incorporated Place|A|Carteret County
+NC|37|06760|Boiling Spring Lakes city|Incorporated Place|A|Brunswick County
+NC|37|06800|Boiling Springs town|Incorporated Place|A|Cleveland County
+NC|37|06820|Bolivia town|Incorporated Place|A|Brunswick County
+NC|37|06860|Bolton town|Incorporated Place|A|Columbus County
+NC|37|06980|Bonnetsville CDP|Census Designated Place|S|Sampson County
+NC|37|07080|Boone town|Incorporated Place|A|Watauga County
+NC|37|07140|Boonville town|Incorporated Place|A|Yadkin County
+NC|37|07220|Bostic town|Incorporated Place|A|Rutherford County
+NC|37|07400|Bowmore CDP|Census Designated Place|S|Hoke County
+NC|37|07720|Brevard city|Incorporated Place|A|Transylvania County
+NC|37|07765|Brices Creek CDP|Census Designated Place|S|Craven County
+NC|37|07860|Bridgeton town|Incorporated Place|A|Craven County
+NC|37|08040|Broad Creek CDP|Census Designated Place|S|Carteret County
+NC|37|08080|Broadway town|Incorporated Place|A|Harnett County, Lee County
+NC|37|08110|Brogden CDP|Census Designated Place|S|Wayne County
+NC|37|08140|Brookford town|Incorporated Place|A|Catawba County
+NC|37|08420|Brunswick town|Incorporated Place|A|Columbus County
+NC|37|08480|Bryson City town|Incorporated Place|A|Swain County
+NC|37|08760|Buies Creek CDP|Census Designated Place|S|Harnett County
+NC|37|08860|Bunn town|Incorporated Place|A|Franklin County
+NC|37|08880|Bunnlevel CDP|Census Designated Place|S|Harnett County
+NC|37|08960|Burgaw town|Incorporated Place|A|Pender County
+NC|37|09060|Burlington city|Incorporated Place|A|Alamance County, Guilford County
+NC|37|09140|Burnsville town|Incorporated Place|A|Yancey County
+NC|37|09360|Butner town|Incorporated Place|A|Granville County
+NC|37|09380|Butters CDP|Census Designated Place|S|Bladen County
+NC|37|09400|Buxton CDP|Census Designated Place|S|Dare County
+NC|37|09530|Cajah's Mountain town|Incorporated Place|A|Caldwell County
+NC|37|09540|Calabash town|Incorporated Place|A|Brunswick County
+NC|37|09760|Calypso town|Incorporated Place|A|Duplin County
+NC|37|09780|Camden CDP|Census Designated Place|S|Camden County
+NC|37|09800|Cameron town|Incorporated Place|A|Moore County
+NC|37|10120|Candor town|Incorporated Place|A|Montgomery County
+NC|37|10240|Canton town|Incorporated Place|A|Haywood County
+NC|37|10260|Cape Carteret town|Incorporated Place|A|Carteret County
+NC|37|10460|Caroleen CDP|Census Designated Place|S|Rutherford County
+NC|37|10500|Carolina Beach town|Incorporated Place|A|New Hanover County
+NC|37|10550|Carolina Shores town|Incorporated Place|A|Brunswick County
+NC|37|10620|Carrboro town|Incorporated Place|A|Orange County
+NC|37|10680|Carthage town|Incorporated Place|A|Moore County
+NC|37|10740|Cary town|Incorporated Place|A|Chatham County, Wake County
+NC|37|10760|Casar town|Incorporated Place|A|Cleveland County
+NC|37|10800|Cashiers CDP|Census Designated Place|S|Jackson County
+NC|37|10860|Castalia town|Incorporated Place|A|Nash County
+NC|37|10880|Castle Hayne CDP|Census Designated Place|S|New Hanover County
+NC|37|10960|Caswell Beach town|Incorporated Place|A|Brunswick County
+NC|37|10980|Catawba town|Incorporated Place|A|Catawba County
+NC|37|11340|Cedar Point town|Incorporated Place|A|Carteret County
+NC|37|11352|Cedar Rock village|Incorporated Place|A|Caldwell County
+NC|37|11560|Centerville town|Incorporated Place|A|Franklin County
+NC|37|11620|Cerro Gordo town|Incorporated Place|A|Columbus County
+NC|37|11640|Chadbourn town|Incorporated Place|A|Columbus County
+NC|37|11800|Chapel Hill town|Incorporated Place|A|Durham County, Orange County
+NC|37|12000|Charlotte city|Incorporated Place|A|Mecklenburg County
+NC|37|12140|Cherokee CDP|Census Designated Place|S|Jackson County, Swain County
+NC|37|12340|Cherryville city|Incorporated Place|A|Gaston County
+NC|37|12460|Chimney Rock Village village|Incorporated Place|A|Rutherford County
+NC|37|12480|China Grove town|Incorporated Place|A|Rowan County
+NC|37|12580|Chocowinity town|Incorporated Place|A|Beaufort County
+NC|37|12720|Claremont city|Incorporated Place|A|Catawba County
+NC|37|12780|Clarkton town|Incorporated Place|A|Bladen County
+NC|37|12860|Clayton town|Incorporated Place|A|Johnston County, Wake County
+NC|37|12960|Clemmons village|Incorporated Place|A|Forsyth County
+NC|37|13000|Cleveland town|Incorporated Place|A|Rowan County
+NC|37|13100|Cliffside CDP|Census Designated Place|S|Rutherford County
+NC|37|13240|Clinton city|Incorporated Place|A|Sampson County
+NC|37|13280|Clyde town|Incorporated Place|A|Haywood County
+NC|37|13360|Coats town|Incorporated Place|A|Harnett County
+NC|37|13460|Cofield village|Incorporated Place|A|Hertford County
+NC|37|13500|Coinjock CDP|Census Designated Place|S|Currituck County
+NC|37|13560|Colerain town|Incorporated Place|A|Bertie County
+NC|37|13940|Columbia town|Incorporated Place|A|Tyrrell County
+NC|37|13980|Columbus town|Incorporated Place|A|Polk County
+NC|37|14060|Como town|Incorporated Place|A|Hertford County
+NC|37|14100|Concord city|Incorporated Place|A|Cabarrus County
+NC|37|14200|Conetoe town|Incorporated Place|A|Edgecombe County
+NC|37|14280|Connelly Springs town|Incorporated Place|A|Burke County
+NC|37|14340|Conover city|Incorporated Place|A|Catawba County
+NC|37|14400|Conway town|Incorporated Place|A|Northampton County
+NC|37|14460|Cooleemee town|Incorporated Place|A|Davie County
+NC|37|14600|Cordova CDP|Census Designated Place|S|Richmond County
+NC|37|14700|Cornelius town|Incorporated Place|A|Mecklenburg County
+NC|37|15020|Cove City town|Incorporated Place|A|Craven County
+NC|37|15040|Cove Creek CDP|Census Designated Place|S|Watauga County
+NC|37|15260|Cramerton town|Incorporated Place|A|Gaston County
+NC|37|15320|Creedmoor city|Incorporated Place|A|Granville County
+NC|37|15420|Creswell town|Incorporated Place|A|Washington County
+NC|37|15440|Cricket CDP|Census Designated Place|S|Wilkes County
+NC|37|15580|Crossnore town|Incorporated Place|A|Avery County
+NC|37|15880|Cullowhee CDP|Census Designated Place|S|Jackson County
+NC|37|16180|Dallas town|Incorporated Place|A|Gaston County
+NC|37|16220|Dana CDP|Census Designated Place|S|Henderson County
+NC|37|16240|Danbury town|Incorporated Place|A|Stokes County
+NC|37|16400|Davidson town|Incorporated Place|A|Iredell County, Mecklenburg County
+NC|37|16480|Davis CDP|Census Designated Place|S|Carteret County
+NC|37|16730|Deercroft CDP|Census Designated Place|S|Scotland County
+NC|37|16780|Delco CDP|Census Designated Place|S|Columbus County
+NC|37|16820|Dellview town|Incorporated Place|I|Gaston County
+NC|37|16860|Delway CDP|Census Designated Place|S|Sampson County
+NC|37|16980|Denton town|Incorporated Place|A|Davidson County
+NC|37|17000|Denver CDP|Census Designated Place|S|Lincoln County
+NC|37|17180|Dillsboro town|Incorporated Place|A|Jackson County
+NC|37|17325|Dobbins Heights town|Incorporated Place|A|Richmond County
+NC|37|17340|Dobson town|Incorporated Place|A|Surry County
+NC|37|17520|Dortches town|Incorporated Place|A|Nash County
+NC|37|17660|Dover town|Incorporated Place|A|Craven County
+NC|37|17860|Drexel town|Incorporated Place|A|Burke County
+NC|37|18040|Dublin town|Incorporated Place|A|Bladen County
+NC|37|18060|Duck town|Incorporated Place|A|Dare County
+NC|37|18300|Dundarrach CDP|Census Designated Place|S|Hoke County
+NC|37|18320|Dunn city|Incorporated Place|A|Harnett County
+NC|37|19000|Durham city|Incorporated Place|A|Durham County, Orange County, Wake County
+NC|37|19140|Earl town|Incorporated Place|A|Cleveland County
+NC|37|19300|East Arcadia town|Incorporated Place|A|Bladen County
+NC|37|19320|East Bend town|Incorporated Place|A|Yadkin County
+NC|37|19420|East Flat Rock CDP|Census Designated Place|S|Henderson County
+NC|37|19620|East Laurinburg town|Incorporated Place|A|Scotland County
+NC|37|19740|Eastover town|Incorporated Place|A|Cumberland County
+NC|37|19800|East Rockingham CDP|Census Designated Place|S|Richmond County
+NC|37|19860|East Spencer town|Incorporated Place|A|Rowan County
+NC|37|20080|Eden city|Incorporated Place|A|Rockingham County
+NC|37|20120|Edenton town|Incorporated Place|A|Chowan County
+NC|37|20280|Edneyville CDP|Census Designated Place|S|Henderson County
+NC|37|20420|Efland CDP|Census Designated Place|S|Orange County
+NC|37|20580|Elizabeth City city|Incorporated Place|A|Camden County, Pasquotank County
+NC|37|20600|Elizabethtown town|Incorporated Place|A|Bladen County
+NC|37|20620|Elkin town|Incorporated Place|A|Surry County, Wilkes County
+NC|37|20700|Elk Park town|Incorporated Place|A|Avery County
+NC|37|20780|Ellenboro town|Incorporated Place|A|Rutherford County
+NC|37|20840|Ellerbe town|Incorporated Place|A|Richmond County
+NC|37|20980|Elm City town|Incorporated Place|A|Wilson County
+NC|37|21095|Elon town|Incorporated Place|A|Alamance County
+NC|37|21120|Elrod CDP|Census Designated Place|S|Robeson County
+NC|37|21130|Elroy CDP|Census Designated Place|S|Wayne County
+NC|37|21160|Emerald Isle town|Incorporated Place|A|Carteret County
+NC|37|21360|Enfield town|Incorporated Place|A|Halifax County
+NC|37|21380|Engelhard CDP|Census Designated Place|S|Hyde County
+NC|37|21500|Enochville CDP|Census Designated Place|S|Rowan County
+NC|37|21740|Erwin town|Incorporated Place|A|Harnett County
+NC|37|21880|Etowah CDP|Census Designated Place|S|Henderson County
+NC|37|21960|Eureka town|Incorporated Place|A|Wayne County
+NC|37|22040|Everetts town|Incorporated Place|A|Martin County
+NC|37|22080|Evergreen CDP|Census Designated Place|S|Columbus County
+NC|37|22240|Fair Bluff town|Incorporated Place|A|Columbus County
+NC|37|22280|Fairfield CDP|Census Designated Place|S|Hyde County
+NC|37|22305|Fairfield Harbour CDP|Census Designated Place|S|Craven County
+NC|37|22360|Fairmont town|Incorporated Place|A|Robeson County
+NC|37|22380|Fairplains CDP|Census Designated Place|S|Wilkes County
+NC|37|22440|Fairview CDP|Census Designated Place|S|Buncombe County
+NC|37|22500|Fairview town|Incorporated Place|A|Union County
+NC|37|22560|Faison town|Incorporated Place|A|Duplin County, Sampson County
+NC|37|22600|Faith town|Incorporated Place|A|Rowan County
+NC|37|22620|Falcon town|Incorporated Place|A|Cumberland County, Sampson County
+NC|37|22640|Falkland town|Incorporated Place|A|Pitt County
+NC|37|22720|Fallston town|Incorporated Place|A|Cleveland County
+NC|37|22820|Farmville town|Incorporated Place|A|Pitt County
+NC|37|22920|Fayetteville city|Incorporated Place|A|Cumberland County
+NC|37|22982|Fearrington Village CDP|Census Designated Place|S|Chatham County
+NC|37|23520|Five Points CDP|Census Designated Place|S|Hoke County
+NC|37|23600|Flat Rock village|Incorporated Place|A|Henderson County
+NC|37|23640|Flat Rock CDP|Census Designated Place|S|Surry County
+NC|37|23760|Fletcher town|Incorporated Place|A|Henderson County
+NC|37|24080|Forest City town|Incorporated Place|A|Rutherford County
+NC|37|24170|Forest Hills village|Incorporated Place|A|Jackson County
+NC|37|24198|Forest Oaks CDP|Census Designated Place|S|Guilford County
+NC|37|24380|Foscoe CDP|Census Designated Place|S|Watauga County
+NC|37|24440|Fountain town|Incorporated Place|A|Pitt County
+NC|37|24520|Four Oaks town|Incorporated Place|A|Johnston County
+NC|37|24570|Foxfire village|Incorporated Place|A|Moore County
+NC|37|24640|Franklin town|Incorporated Place|A|Macon County
+NC|37|24720|Franklinton town|Incorporated Place|A|Franklin County
+NC|37|24740|Franklinville town|Incorporated Place|A|Randolph County
+NC|37|24900|Fremont town|Incorporated Place|A|Wayne County
+NC|37|25020|Frisco CDP|Census Designated Place|S|Dare County
+NC|37|25160|Fruitland CDP|Census Designated Place|S|Henderson County
+NC|37|25300|Fuquay-Varina town|Incorporated Place|A|Wake County
+NC|37|25380|Gamewell town|Incorporated Place|A|Caldwell County
+NC|37|25460|Garland town|Incorporated Place|A|Sampson County
+NC|37|25480|Garner town|Incorporated Place|A|Wake County
+NC|37|25540|Garysburg town|Incorporated Place|A|Northampton County
+NC|37|25560|Gaston town|Incorporated Place|A|Northampton County
+NC|37|25580|Gastonia city|Incorporated Place|A|Gaston County
+NC|37|25680|Gatesville town|Incorporated Place|A|Gates County
+NC|37|25880|Germanton CDP|Census Designated Place|S|Forsyth County, Stokes County
+NC|37|25900|Gerton CDP|Census Designated Place|S|Henderson County
+NC|37|25940|Gibson town|Incorporated Place|A|Scotland County
+NC|37|25980|Gibsonville town|Incorporated Place|A|Alamance County, Guilford County
+NC|37|26200|Glen Alpine town|Incorporated Place|A|Burke County
+NC|37|26460|Glen Raven CDP|Census Designated Place|S|Alamance County
+NC|37|26520|Glenville CDP|Census Designated Place|S|Jackson County
+NC|37|26680|Gloucester CDP|Census Designated Place|S|Carteret County
+NC|37|26740|Godwin town|Incorporated Place|A|Cumberland County
+NC|37|26880|Goldsboro city|Incorporated Place|A|Wayne County
+NC|37|26920|Goldston town|Incorporated Place|A|Chatham County
+NC|37|27120|Gorman CDP|Census Designated Place|S|Durham County
+NC|37|27280|Graham city|Incorporated Place|A|Alamance County
+NC|37|27320|Grandfather village|Incorporated Place|A|Avery County
+NC|37|27420|Granite Falls town|Incorporated Place|A|Caldwell County
+NC|37|27440|Granite Quarry town|Incorporated Place|A|Rowan County
+NC|37|27520|Grantsboro town|Incorporated Place|A|Pamlico County
+NC|37|27780|Greenevers town|Incorporated Place|A|Duplin County
+NC|37|27870|Green Level town|Incorporated Place|A|Alamance County
+NC|37|28000|Greensboro city|Incorporated Place|A|Guilford County
+NC|37|28080|Greenville city|Incorporated Place|A|Pitt County
+NC|37|28200|Grifton town|Incorporated Place|A|Lenoir County, Pitt County
+NC|37|28240|Grimesland town|Incorporated Place|A|Pitt County
+NC|37|28400|Grover town|Incorporated Place|A|Cleveland County
+NC|37|28600|Gulf CDP|Census Designated Place|S|Chatham County
+NC|37|28900|Half Moon CDP|Census Designated Place|S|Onslow County
+NC|37|28920|Halifax town|Incorporated Place|A|Halifax County
+NC|37|29000|Hallsboro CDP|Census Designated Place|S|Columbus County
+NC|37|29120|Hamilton town|Incorporated Place|A|Martin County
+NC|37|29160|Hamlet city|Incorporated Place|A|Richmond County
+NC|37|29180|Hampstead CDP|Census Designated Place|S|Pender County
+NC|37|29560|Harkers Island CDP|Census Designated Place|S|Carteret County
+NC|37|29640|Harmony town|Incorporated Place|A|Iredell County
+NC|37|29680|Harrells town|Incorporated Place|A|Duplin County, Sampson County
+NC|37|29720|Harrellsville town|Incorporated Place|A|Hertford County
+NC|37|29800|Harrisburg town|Incorporated Place|A|Cabarrus County
+NC|37|30040|Hassell town|Incorporated Place|A|Martin County
+NC|37|30100|Hatteras CDP|Census Designated Place|S|Dare County
+NC|37|30120|Havelock city|Incorporated Place|A|Craven County
+NC|37|30260|Haw River town|Incorporated Place|A|Alamance County
+NC|37|30280|Hayesville town|Incorporated Place|A|Clay County
+NC|37|30340|Hays CDP|Census Designated Place|S|Wilkes County
+NC|37|30620|Hemby Bridge town|Incorporated Place|A|Union County
+NC|37|30660|Henderson city|Incorporated Place|A|Vance County
+NC|37|30720|Hendersonville city|Incorporated Place|A|Henderson County
+NC|37|30800|Henrietta CDP|Census Designated Place|S|Rutherford County
+NC|37|30900|Hertford town|Incorporated Place|A|Perquimans County
+NC|37|31060|Hickory city|Incorporated Place|A|Burke County, Caldwell County, Catawba County
+NC|37|31260|Hiddenite CDP|Census Designated Place|S|Alexander County
+NC|37|31360|Highlands town|Incorporated Place|A|Jackson County, Macon County
+NC|37|31400|High Point city|Incorporated Place|A|Davidson County, Forsyth County, Guilford County, Randolph County
+NC|37|31440|High Shoals town|Incorporated Place|A|Gaston County
+NC|37|31490|Hightsville CDP|Census Designated Place|S|New Hanover County
+NC|37|31500|Hildebran town|Incorporated Place|A|Burke County
+NC|37|31620|Hillsborough town|Incorporated Place|A|Orange County
+NC|37|31660|Hillsdale CDP|Census Designated Place|S|Davie County
+NC|37|31860|Hobgood town|Incorporated Place|A|Halifax County
+NC|37|31880|Hobucken CDP|Census Designated Place|S|Pamlico County
+NC|37|31920|Hoffman town|Incorporated Place|A|Richmond County
+NC|37|31960|Holden Beach town|Incorporated Place|A|Brunswick County
+NC|37|32100|Hollister CDP|Census Designated Place|S|Halifax County
+NC|37|32180|Holly Ridge town|Incorporated Place|A|Onslow County
+NC|37|32260|Holly Springs town|Incorporated Place|A|Wake County
+NC|37|32540|Hookerton town|Incorporated Place|A|Greene County
+NC|37|32580|Hoopers Creek CDP|Census Designated Place|S|Henderson County
+NC|37|32640|Hope Mills town|Incorporated Place|A|Cumberland County
+NC|37|32740|Horse Shoe CDP|Census Designated Place|S|Henderson County
+NC|37|32840|Hot Springs town|Incorporated Place|A|Madison County
+NC|37|32980|Hudson town|Incorporated Place|A|Caldwell County
+NC|37|33120|Huntersville town|Incorporated Place|A|Mecklenburg County
+NC|37|33320|Icard CDP|Census Designated Place|S|Burke County
+NC|37|33460|Indian Beach town|Incorporated Place|A|Carteret County
+NC|37|33560|Indian Trail town|Incorporated Place|A|Union County
+NC|37|33640|Ingold CDP|Census Designated Place|S|Sampson County
+NC|37|33820|Iron Station CDP|Census Designated Place|S|Lincoln County
+NC|37|33940|Ivanhoe CDP|Census Designated Place|S|Sampson County
+NC|37|33993|JAARS CDP|Census Designated Place|S|Union County
+NC|37|34000|Jackson town|Incorporated Place|A|Northampton County
+NC|37|34038|Jackson Heights CDP|Census Designated Place|S|Lenoir County
+NC|37|34200|Jacksonville city|Incorporated Place|A|Onslow County
+NC|37|34260|James City CDP|Census Designated Place|S|Craven County
+NC|37|34300|Jamestown town|Incorporated Place|A|Guilford County
+NC|37|34320|Jamesville town|Incorporated Place|A|Martin County
+NC|37|34440|Jefferson town|Incorporated Place|A|Ashe County
+NC|37|34840|Jonesville town|Incorporated Place|A|Yadkin County
+NC|37|35200|Kannapolis city|Incorporated Place|A|Cabarrus County, Rowan County
+NC|37|35340|Keener CDP|Census Designated Place|S|Sampson County
+NC|37|35360|Kelford town|Incorporated Place|A|Bertie County
+NC|37|35440|Kelly CDP|Census Designated Place|S|Bladen County
+NC|37|35460|Kenansville town|Incorporated Place|A|Duplin County
+NC|37|35540|Kenly town|Incorporated Place|A|Johnston County, Wilson County
+NC|37|35600|Kernersville town|Incorporated Place|A|Forsyth County, Guilford County
+NC|37|35720|Kill Devil Hills town|Incorporated Place|A|Dare County
+NC|37|35760|King city|Incorporated Place|A|Forsyth County, Stokes County
+NC|37|35870|Kings Grant CDP|Census Designated Place|S|New Hanover County
+NC|37|35880|Kings Mountain city|Incorporated Place|A|Cleveland County, Gaston County
+NC|37|35890|Kingstown town|Incorporated Place|A|Cleveland County
+NC|37|35920|Kinston city|Incorporated Place|A|Lenoir County
+NC|37|36020|Kittrell town|Incorporated Place|A|Vance County
+NC|37|36060|Kitty Hawk town|Incorporated Place|A|Dare County
+NC|37|36080|Knightdale town|Incorporated Place|A|Wake County
+NC|37|36220|Kure Beach town|Incorporated Place|A|New Hanover County
+NC|37|36400|La Grange town|Incorporated Place|A|Lenoir County
+NC|37|36480|Lake Junaluska CDP|Census Designated Place|S|Haywood County
+NC|37|36500|Lake Lure town|Incorporated Place|A|Rutherford County
+NC|37|36511|Lake Norman of Catawba CDP|Census Designated Place|S|Catawba County
+NC|37|36512|Lake Park village|Incorporated Place|A|Union County
+NC|37|36513|Lake Royale CDP|Census Designated Place|S|Franklin County
+NC|37|36514|Lake Santeetlah town|Incorporated Place|A|Graham County
+NC|37|36640|Lake Waccamaw town|Incorporated Place|A|Columbus County
+NC|37|36860|Landis town|Incorporated Place|A|Rowan County
+NC|37|36960|Lansing town|Incorporated Place|A|Ashe County
+NC|37|37000|Lasker town|Incorporated Place|A|Northampton County
+NC|37|37040|Lattimore town|Incorporated Place|A|Cleveland County
+NC|37|37120|Laurel Hill CDP|Census Designated Place|S|Scotland County
+NC|37|37160|Laurel Park town|Incorporated Place|A|Henderson County
+NC|37|37220|Laurinburg city|Incorporated Place|A|Scotland County
+NC|37|37260|Lawndale town|Incorporated Place|A|Cleveland County
+NC|37|37640|Leggett town|Incorporated Place|A|Edgecombe County
+NC|37|37680|Leland town|Incorporated Place|A|Brunswick County
+NC|37|37760|Lenoir city|Incorporated Place|A|Caldwell County
+NC|37|38030|Lewiston Woodville town|Incorporated Place|A|Bertie County
+NC|37|38040|Lewisville town|Incorporated Place|A|Forsyth County
+NC|37|38060|Lexington city|Incorporated Place|A|Davidson County
+NC|37|38100|Liberty town|Incorporated Place|A|Randolph County
+NC|37|38170|Light Oak CDP|Census Designated Place|S|Cleveland County
+NC|37|38200|Lilesville town|Incorporated Place|A|Anson County
+NC|37|38220|Lillington town|Incorporated Place|A|Harnett County
+NC|37|38320|Lincolnton city|Incorporated Place|A|Lincoln County
+NC|37|38360|Linden town|Incorporated Place|A|Cumberland County
+NC|37|38680|Littleton town|Incorporated Place|A|Halifax County
+NC|37|38860|Locust city|Incorporated Place|A|Cabarrus County, Stanly County
+NC|37|39280|Long View town|Incorporated Place|A|Burke County, Catawba County
+NC|37|39360|Louisburg town|Incorporated Place|A|Franklin County
+NC|37|39420|Love Valley town|Incorporated Place|A|Iredell County
+NC|37|39480|Lowell city|Incorporated Place|A|Gaston County
+NC|37|39520|Lowesville CDP|Census Designated Place|S|Lincoln County
+NC|37|39540|Lowgap CDP|Census Designated Place|S|Surry County
+NC|37|39600|Lucama town|Incorporated Place|A|Wilson County
+NC|37|39680|Lumber Bridge town|Incorporated Place|A|Robeson County
+NC|37|39700|Lumberton city|Incorporated Place|A|Robeson County
+NC|37|39880|McAdenville town|Incorporated Place|A|Gaston County
+NC|37|39960|Macclesfield town|Incorporated Place|A|Edgecombe County
+NC|37|40140|McDonald town|Incorporated Place|A|Robeson County
+NC|37|40240|McFarlan town|Incorporated Place|A|Anson County
+NC|37|40460|McLeansville CDP|Census Designated Place|S|Guilford County
+NC|37|40540|Macon town|Incorporated Place|A|Warren County
+NC|37|40560|Madison town|Incorporated Place|A|Rockingham County
+NC|37|40600|Maggie Valley town|Incorporated Place|A|Haywood County
+NC|37|40640|Magnolia town|Incorporated Place|A|Duplin County
+NC|37|40660|Maiden town|Incorporated Place|A|Catawba County, Lincoln County
+NC|37|40860|Mamers CDP|Census Designated Place|S|Harnett County
+NC|37|40980|Manns Harbor CDP|Census Designated Place|S|Dare County
+NC|37|41060|Manteo town|Incorporated Place|A|Dare County
+NC|37|41220|Marble CDP|Census Designated Place|S|Cherokee County
+NC|37|41380|Marietta town|Incorporated Place|A|Robeson County
+NC|37|41420|Marion city|Incorporated Place|A|McDowell County
+NC|37|41540|Mar-Mac CDP|Census Designated Place|S|Wayne County
+NC|37|41580|Marshall town|Incorporated Place|A|Madison County
+NC|37|41600|Marshallberg CDP|Census Designated Place|S|Carteret County
+NC|37|41620|Mars Hill town|Incorporated Place|A|Madison County
+NC|37|41640|Marshville town|Incorporated Place|A|Union County
+NC|37|41720|Marvin village|Incorporated Place|A|Union County
+NC|37|41960|Matthews town|Incorporated Place|A|Mecklenburg County
+NC|37|42000|Maury CDP|Census Designated Place|S|Greene County
+NC|37|42020|Maxton town|Incorporated Place|A|Robeson County, Scotland County
+NC|37|42060|Mayodan town|Incorporated Place|A|Rockingham County
+NC|37|42100|Maysville town|Incorporated Place|A|Jones County
+NC|37|42240|Mebane city|Incorporated Place|A|Alamance County, Orange County
+NC|37|42480|Mesic town|Incorporated Place|A|Pamlico County
+NC|37|42620|Micro town|Incorporated Place|A|Johnston County
+NC|37|42640|Middleburg town|Incorporated Place|A|Vance County
+NC|37|42700|Middlesex town|Incorporated Place|A|Nash County
+NC|37|42760|Midland town|Incorporated Place|A|Cabarrus County, Mecklenburg County
+NC|37|42860|Midway town|Incorporated Place|A|Davidson County
+NC|37|43160|Millers Creek CDP|Census Designated Place|S|Wilkes County
+NC|37|43200|Millingport CDP|Census Designated Place|S|Stanly County
+NC|37|43260|Mills River town|Incorporated Place|A|Henderson County
+NC|37|43300|Milton town|Incorporated Place|A|Caswell County
+NC|37|43360|Mineral Springs town|Incorporated Place|A|Union County
+NC|37|43440|Minnesott Beach town|Incorporated Place|A|Pamlico County
+NC|37|43480|Mint Hill town|Incorporated Place|A|Mecklenburg County, Union County
+NC|37|43580|Misenheimer village|Incorporated Place|A|Stanly County
+NC|37|43720|Mocksville town|Incorporated Place|A|Davie County
+NC|37|43860|Momeyer town|Incorporated Place|A|Nash County
+NC|37|43880|Moncure CDP|Census Designated Place|S|Chatham County
+NC|37|43920|Monroe city|Incorporated Place|A|Union County
+NC|37|44100|Montreat town|Incorporated Place|A|Buncombe County
+NC|37|44160|Mooresboro town|Incorporated Place|A|Cleveland County
+NC|37|44220|Mooresville town|Incorporated Place|A|Iredell County
+NC|37|44280|Moravian Falls CDP|Census Designated Place|S|Wilkes County
+NC|37|44320|Morehead City town|Incorporated Place|A|Carteret County
+NC|37|44400|Morganton city|Incorporated Place|A|Burke County
+NC|37|44520|Morrisville town|Incorporated Place|A|Durham County, Wake County
+NC|37|44560|Morven town|Incorporated Place|A|Anson County
+NC|37|44700|Mountain Home CDP|Census Designated Place|S|Henderson County
+NC|37|44770|Mountain View CDP|Census Designated Place|S|Catawba County
+NC|37|44800|Mount Airy city|Incorporated Place|A|Surry County
+NC|37|44900|Mount Gilead town|Incorporated Place|A|Montgomery County
+NC|37|44960|Mount Holly city|Incorporated Place|A|Gaston County
+NC|37|45100|Mount Olive town|Incorporated Place|A|Duplin County, Wayne County
+NC|37|45140|Mount Pleasant town|Incorporated Place|A|Cabarrus County
+NC|37|45460|Moyock CDP|Census Designated Place|S|Currituck County
+NC|37|45560|Mulberry CDP|Census Designated Place|S|Wilkes County
+NC|37|45640|Murfreesboro town|Incorporated Place|A|Hertford County
+NC|37|45660|Murphy town|Incorporated Place|A|Cherokee County
+NC|37|45720|Murraysville CDP|Census Designated Place|S|New Hanover County
+NC|37|45840|Myrtle Grove CDP|Census Designated Place|S|New Hanover County
+NC|37|45880|Nags Head town|Incorporated Place|A|Dare County
+NC|37|46000|Nashville town|Incorporated Place|A|Nash County
+NC|37|46060|Navassa town|Incorporated Place|A|Brunswick County
+NC|37|46280|Neuse Forest CDP|Census Designated Place|S|Craven County
+NC|37|46340|New Bern city|Incorporated Place|A|Craven County
+NC|37|46740|Newland town|Incorporated Place|A|Avery County
+NC|37|46820|New London town|Incorporated Place|A|Stanly County
+NC|37|46860|Newport town|Incorporated Place|A|Carteret County
+NC|37|47000|Newton city|Incorporated Place|A|Catawba County
+NC|37|47020|Newton Grove town|Incorporated Place|A|Sampson County
+NC|37|47240|Norlina town|Incorporated Place|A|Warren County
+NC|37|47260|Norman town|Incorporated Place|A|Richmond County
+NC|37|47485|Northchase CDP|Census Designated Place|S|New Hanover County
+NC|37|47695|Northlakes CDP|Census Designated Place|S|Caldwell County
+NC|37|47845|North Topsail Beach town|Incorporated Place|A|Onslow County
+NC|37|47860|Northwest city|Incorporated Place|A|Brunswick County
+NC|37|47880|North Wilkesboro town|Incorporated Place|A|Wilkes County
+NC|37|47980|Norwood town|Incorporated Place|A|Stanly County
+NC|37|48040|Oakboro town|Incorporated Place|A|Stanly County
+NC|37|48060|Oak City town|Incorporated Place|A|Martin County
+NC|37|48345|Oak Island town|Incorporated Place|A|Brunswick County
+NC|37|48480|Oak Ridge town|Incorporated Place|A|Guilford County
+NC|37|48700|Ocean Isle Beach town|Incorporated Place|A|Brunswick County
+NC|37|48740|Ocracoke CDP|Census Designated Place|S|Hyde County
+NC|37|48790|Ogden CDP|Census Designated Place|S|New Hanover County
+NC|37|48920|Old Fort town|Incorporated Place|A|McDowell County
+NC|37|48940|Old Hundred CDP|Census Designated Place|S|Scotland County
+NC|37|49380|Oriental town|Incorporated Place|A|Pamlico County
+NC|37|49460|Orrum town|Incorporated Place|A|Robeson County
+NC|37|49600|Ossipee town|Incorporated Place|A|Alamance County
+NC|37|49800|Oxford city|Incorporated Place|A|Granville County
+NC|37|50080|Pantego town|Incorporated Place|A|Beaufort County
+NC|37|50340|Parkton town|Incorporated Place|A|Robeson County
+NC|37|50540|Parmele town|Incorporated Place|A|Martin County
+NC|37|50700|Patterson Springs town|Incorporated Place|A|Cleveland County
+NC|37|50820|Peachland town|Incorporated Place|A|Anson County
+NC|37|51040|Peletier town|Incorporated Place|A|Carteret County
+NC|37|51080|Pembroke town|Incorporated Place|A|Robeson County
+NC|37|51780|Pikeville town|Incorporated Place|A|Wayne County
+NC|37|51820|Pilot Mountain town|Incorporated Place|A|Surry County
+NC|37|51840|Pinebluff town|Incorporated Place|A|Moore County
+NC|37|51940|Pinehurst village|Incorporated Place|A|Moore County
+NC|37|52000|Pine Knoll Shores town|Incorporated Place|A|Carteret County
+NC|37|52020|Pine Level town|Incorporated Place|A|Johnston County
+NC|37|52140|Pinetops town|Incorporated Place|A|Edgecombe County
+NC|37|52160|Pinetown CDP|Census Designated Place|S|Beaufort County
+NC|37|52220|Pineville town|Incorporated Place|A|Mecklenburg County
+NC|37|52260|Piney Green CDP|Census Designated Place|S|Onslow County
+NC|37|52400|Pink Hill town|Incorporated Place|A|Lenoir County
+NC|37|52500|Pinnacle CDP|Census Designated Place|S|Stokes County
+NC|37|52660|Pittsboro town|Incorporated Place|A|Chatham County
+NC|37|52685|Plain View CDP|Census Designated Place|S|Sampson County
+NC|37|52760|Pleasant Garden town|Incorporated Place|A|Guilford County
+NC|37|52920|Pleasant Hill CDP|Census Designated Place|S|Wilkes County
+NC|37|53040|Plymouth town|Incorporated Place|A|Washington County
+NC|37|53140|Polkton town|Incorporated Place|A|Anson County
+NC|37|53160|Polkville city|Incorporated Place|A|Cleveland County
+NC|37|53200|Pollocksville town|Incorporated Place|A|Jones County
+NC|37|53475|Porters Neck CDP|Census Designated Place|S|New Hanover County
+NC|37|53580|Potters Hill CDP|Census Designated Place|S|Duplin County
+NC|37|53680|Powellsville town|Incorporated Place|A|Bertie County
+NC|37|53820|Princeton town|Incorporated Place|A|Johnston County
+NC|37|53840|Princeville town|Incorporated Place|A|Edgecombe County
+NC|37|53900|Proctorville town|Incorporated Place|A|Robeson County
+NC|37|53950|Prospect CDP|Census Designated Place|S|Robeson County
+NC|37|54160|Pumpkin Center CDP|Census Designated Place|S|Onslow County
+NC|37|54580|Raeford city|Incorporated Place|A|Hoke County
+NC|37|54600|Raemon CDP|Census Designated Place|S|Robeson County
+NC|37|55000|Raleigh city|Incorporated Place|A|Durham County, Wake County
+NC|37|55040|Ramseur town|Incorporated Place|A|Randolph County
+NC|37|55080|Randleman city|Incorporated Place|A|Randolph County
+NC|37|55260|Ranlo town|Incorporated Place|A|Gaston County
+NC|37|55340|Raynham town|Incorporated Place|A|Robeson County
+NC|37|55460|Red Cross town|Incorporated Place|A|Stanly County
+NC|37|55640|Red Oak town|Incorporated Place|A|Nash County
+NC|37|55660|Red Springs town|Incorporated Place|A|Hoke County, Robeson County
+NC|37|55900|Reidsville city|Incorporated Place|A|Rockingham County
+NC|37|55940|Rennert town|Incorporated Place|A|Robeson County
+NC|37|56100|Rex CDP|Census Designated Place|S|Robeson County
+NC|37|56240|Rhodhiss town|Incorporated Place|A|Burke County, Caldwell County
+NC|37|56340|Richfield town|Incorporated Place|A|Stanly County
+NC|37|56360|Richlands town|Incorporated Place|A|Onslow County
+NC|37|56440|Rich Square town|Incorporated Place|A|Northampton County
+NC|37|56600|Riegelwood CDP|Census Designated Place|S|Columbus County
+NC|37|56710|River Bend town|Incorporated Place|A|Craven County
+NC|37|56815|River Road CDP|Census Designated Place|S|Beaufort County
+NC|37|56900|Roanoke Rapids city|Incorporated Place|A|Halifax County
+NC|37|57000|Robbins town|Incorporated Place|A|Moore County
+NC|37|57020|Robbinsville town|Incorporated Place|A|Graham County
+NC|37|57100|Robersonville town|Incorporated Place|A|Martin County
+NC|37|57200|Rockfish CDP|Census Designated Place|S|Hoke County
+NC|37|57260|Rockingham city|Incorporated Place|A|Richmond County
+NC|37|57340|Rockwell town|Incorporated Place|A|Rowan County
+NC|37|57500|Rocky Mount city|Incorporated Place|A|Edgecombe County, Nash County
+NC|37|57540|Rocky Point CDP|Census Designated Place|S|Pender County
+NC|37|57580|Rodanthe CDP|Census Designated Place|S|Dare County
+NC|37|57640|Rolesville town|Incorporated Place|A|Wake County
+NC|37|57700|Ronda town|Incorporated Place|A|Wilkes County
+NC|37|57740|Roper town|Incorporated Place|A|Washington County
+NC|37|57800|Roseboro town|Incorporated Place|A|Sampson County
+NC|37|57860|Rose Hill town|Incorporated Place|A|Duplin County
+NC|37|58020|Rosman town|Incorporated Place|A|Transylvania County
+NC|37|58040|Rougemont CDP|Census Designated Place|S|Durham County, Person County
+NC|37|58140|Rowland town|Incorporated Place|A|Robeson County
+NC|37|58160|Roxboro city|Incorporated Place|A|Person County
+NC|37|58180|Roxobel town|Incorporated Place|A|Bertie County
+NC|37|58260|Royal Pines CDP|Census Designated Place|S|Buncombe County
+NC|37|58340|Ruffin CDP|Census Designated Place|S|Rockingham County
+NC|37|58360|Rural Hall town|Incorporated Place|A|Forsyth County
+NC|37|58420|Ruth town|Incorporated Place|A|Rutherford County
+NC|37|58440|Rutherford College town|Incorporated Place|A|Burke County
+NC|37|58460|Rutherfordton town|Incorporated Place|A|Rutherford County
+NC|37|58620|St. Helena village|Incorporated Place|A|Pender County
+NC|37|58630|St. James town|Incorporated Place|A|Brunswick County
+NC|37|58720|St. Pauls town|Incorporated Place|A|Robeson County
+NC|37|58730|St. Stephens CDP|Census Designated Place|S|Catawba County
+NC|37|58740|Salem CDP|Census Designated Place|S|Burke County
+NC|37|58840|Salemburg town|Incorporated Place|A|Sampson County
+NC|37|58860|Salisbury city|Incorporated Place|A|Rowan County
+NC|37|58920|Saluda city|Incorporated Place|A|Henderson County, Polk County
+NC|37|58940|Salvo CDP|Census Designated Place|S|Dare County
+NC|37|59090|Sandy Creek town|Incorporated Place|A|Brunswick County
+NC|37|59135|Sandyfield town|Incorporated Place|A|Columbus County
+NC|37|59280|Sanford city|Incorporated Place|A|Lee County
+NC|37|59340|Saratoga town|Incorporated Place|A|Wilson County
+NC|37|59540|Sawmills town|Incorporated Place|A|Caldwell County
+NC|37|59580|Saxapahaw CDP|Census Designated Place|S|Alamance County
+NC|37|59765|Scotch Meadows CDP|Census Designated Place|S|Scotland County
+NC|37|59780|Scotland Neck town|Incorporated Place|A|Halifax County
+NC|37|59980|Seaboard town|Incorporated Place|A|Northampton County
+NC|37|60000|Sea Breeze CDP|Census Designated Place|S|New Hanover County
+NC|37|60080|Seagrove town|Incorporated Place|A|Randolph County
+NC|37|60180|Sedalia town|Incorporated Place|A|Guilford County
+NC|37|60320|Selma town|Incorporated Place|A|Johnston County
+NC|37|60505|Seven Devils town|Incorporated Place|A|Avery County, Watauga County
+NC|37|60515|Seven Lakes CDP|Census Designated Place|S|Moore County
+NC|37|60540|Seven Springs town|Incorporated Place|A|Wayne County
+NC|37|60560|Severn town|Incorporated Place|A|Northampton County
+NC|37|60800|Shallotte town|Incorporated Place|A|Brunswick County
+NC|37|60940|Shannon CDP|Census Designated Place|S|Robeson County
+NC|37|61060|Sharpsburg town|Incorporated Place|A|Edgecombe County, Nash County, Wilson County
+NC|37|61200|Shelby city|Incorporated Place|A|Cleveland County
+NC|37|61860|Siler City town|Incorporated Place|A|Chatham County
+NC|37|61920|Silver City CDP|Census Designated Place|S|Hoke County
+NC|37|61950|Silver Lake CDP|Census Designated Place|S|New Hanover County
+NC|37|62040|Simpson village|Incorporated Place|A|Pitt County
+NC|37|62060|Sims town|Incorporated Place|A|Wilson County
+NC|37|62190|Skippers Corner CDP|Census Designated Place|S|New Hanover County
+NC|37|62520|Smithfield town|Incorporated Place|A|Johnston County
+NC|37|62680|Sneads Ferry CDP|Census Designated Place|S|Onslow County
+NC|37|62760|Snow Hill town|Incorporated Place|A|Greene County
+NC|37|63120|Southern Pines town|Incorporated Place|A|Moore County
+NC|37|63130|Southern Shores town|Incorporated Place|A|Dare County
+NC|37|63240|South Henderson CDP|Census Designated Place|S|Vance County
+NC|37|63340|South Mills CDP|Census Designated Place|S|Camden County
+NC|37|63360|Southmont CDP|Census Designated Place|S|Davidson County
+NC|37|63400|Southport city|Incorporated Place|A|Brunswick County
+NC|37|63470|South Rosemary CDP|Census Designated Place|S|Halifax County
+NC|37|63560|South Weldon CDP|Census Designated Place|S|Halifax County
+NC|37|63680|Sparta town|Incorporated Place|A|Alleghany County
+NC|37|63720|Speed town|Incorporated Place|A|Edgecombe County
+NC|37|63760|Spencer town|Incorporated Place|A|Rowan County
+NC|37|63780|Spencer Mountain town|Incorporated Place|A|Gaston County
+NC|37|63880|Spindale town|Incorporated Place|A|Rutherford County
+NC|37|63920|Spivey's Corner CDP|Census Designated Place|S|Sampson County
+NC|37|64160|Spring Hope town|Incorporated Place|A|Nash County
+NC|37|64180|Spring Lake town|Incorporated Place|A|Cumberland County
+NC|37|64260|Spruce Pine town|Incorporated Place|A|Mitchell County
+NC|37|64380|Staley town|Incorporated Place|A|Randolph County
+NC|37|64420|Stallings town|Incorporated Place|A|Mecklenburg County, Union County
+NC|37|64460|Stanfield town|Incorporated Place|A|Stanly County
+NC|37|64500|Stanley town|Incorporated Place|A|Gaston County
+NC|37|64560|Stantonsburg town|Incorporated Place|A|Wilson County
+NC|37|64580|Star town|Incorporated Place|A|Montgomery County
+NC|37|64740|Statesville city|Incorporated Place|A|Iredell County
+NC|37|64840|Stedman town|Incorporated Place|A|Cumberland County
+NC|37|64940|Stem town|Incorporated Place|A|Granville County
+NC|37|65020|Stokes CDP|Census Designated Place|S|Pitt County
+NC|37|65040|Stokesdale town|Incorporated Place|A|Guilford County
+NC|37|65100|Stoneville town|Incorporated Place|A|Rockingham County
+NC|37|65120|Stonewall town|Incorporated Place|A|Pamlico County
+NC|37|65260|Stony Point CDP|Census Designated Place|S|Alexander County, Iredell County
+NC|37|65320|Stovall town|Incorporated Place|A|Granville County
+NC|37|65530|Sugar Mountain village|Incorporated Place|A|Avery County
+NC|37|65580|Summerfield town|Incorporated Place|A|Guilford County
+NC|37|65700|Sunbury CDP|Census Designated Place|S|Gates County
+NC|37|65900|Sunset Beach town|Incorporated Place|A|Brunswick County
+NC|37|66040|Surf City town|Incorporated Place|A|Onslow County, Pender County
+NC|37|66280|Swannanoa CDP|Census Designated Place|S|Buncombe County
+NC|37|66340|Swan Quarter CDP|Census Designated Place|S|Hyde County
+NC|37|66360|Swansboro town|Incorporated Place|A|Onslow County
+NC|37|66460|Swepsonville town|Incorporated Place|A|Alamance County
+NC|37|66500|Sylva town|Incorporated Place|A|Jackson County
+NC|37|66520|Tabor City town|Incorporated Place|A|Columbus County
+NC|37|66700|Tarboro town|Incorporated Place|A|Edgecombe County
+NC|37|66740|Tar Heel town|Incorporated Place|A|Bladen County
+NC|37|66960|Taylorsville town|Incorporated Place|A|Alexander County
+NC|37|66980|Taylortown town|Incorporated Place|A|Moore County
+NC|37|67000|Teachey town|Incorporated Place|A|Duplin County
+NC|37|67420|Thomasville city|Incorporated Place|A|Davidson County, Randolph County
+NC|37|67700|Toast CDP|Census Designated Place|S|Surry County
+NC|37|67720|Tobaccoville village|Incorporated Place|A|Forsyth County, Stokes County
+NC|37|68040|Topsail Beach town|Incorporated Place|A|Pender County
+NC|37|68320|Trenton town|Incorporated Place|A|Jones County
+NC|37|68340|Trent Woods town|Incorporated Place|A|Craven County
+NC|37|68400|Trinity city|Incorporated Place|A|Randolph County
+NC|37|68500|Troutman town|Incorporated Place|A|Iredell County
+NC|37|68520|Troy town|Incorporated Place|A|Montgomery County
+NC|37|68580|Tryon town|Incorporated Place|A|Polk County
+NC|37|68740|Turkey town|Incorporated Place|A|Sampson County
+NC|37|69020|Tyro CDP|Census Designated Place|S|Davidson County
+NC|37|69260|Unionville town|Incorporated Place|A|Union County
+NC|37|69520|Valdese town|Incorporated Place|A|Burke County
+NC|37|69600|Valle Crucis CDP|Census Designated Place|S|Watauga County
+NC|37|69640|Valley Hill CDP|Census Designated Place|S|Henderson County
+NC|37|69680|Vanceboro town|Incorporated Place|A|Craven County
+NC|37|69720|Vandemere town|Incorporated Place|A|Pamlico County
+NC|37|69740|Vander CDP|Census Designated Place|S|Cumberland County
+NC|37|69755|Vann Crossroads CDP|Census Designated Place|S|Sampson County
+NC|37|69795|Varnamtown town|Incorporated Place|A|Brunswick County
+NC|37|69840|Vass town|Incorporated Place|A|Moore County
+NC|37|70320|Waco town|Incorporated Place|A|Cleveland County
+NC|37|70340|Wade town|Incorporated Place|A|Cumberland County
+NC|37|70380|Wadesboro town|Incorporated Place|A|Anson County
+NC|37|70480|Wagram town|Incorporated Place|A|Scotland County
+NC|37|70540|Wake Forest town|Incorporated Place|A|Franklin County, Wake County
+NC|37|70580|Wakulla CDP|Census Designated Place|S|Robeson County
+NC|37|70660|Walkertown town|Incorporated Place|A|Forsyth County
+NC|37|70720|Wallace town|Incorporated Place|A|Duplin County, Pender County
+NC|37|70740|Wallburg town|Incorporated Place|A|Davidson County
+NC|37|70780|Walnut Cove town|Incorporated Place|A|Stokes County
+NC|37|70820|Walnut Creek village|Incorporated Place|A|Wayne County
+NC|37|70860|Walstonburg town|Incorporated Place|A|Greene County
+NC|37|70920|Wanchese CDP|Census Designated Place|S|Dare County
+NC|37|71100|Warrenton town|Incorporated Place|A|Warren County
+NC|37|71160|Warsaw town|Incorporated Place|A|Duplin County
+NC|37|71220|Washington city|Incorporated Place|A|Beaufort County
+NC|37|71240|Washington Park town|Incorporated Place|A|Beaufort County
+NC|37|71320|Watha town|Incorporated Place|A|Pender County
+NC|37|71440|Waves CDP|Census Designated Place|S|Dare County
+NC|37|71460|Waxhaw town|Incorporated Place|A|Union County
+NC|37|71500|Waynesville town|Incorporated Place|A|Haywood County
+NC|37|71560|Weaverville town|Incorporated Place|A|Buncombe County
+NC|37|71600|Webster town|Incorporated Place|A|Jackson County
+NC|37|71680|Weddington town|Incorporated Place|A|Mecklenburg County, Union County
+NC|37|71760|Welcome CDP|Census Designated Place|S|Davidson County
+NC|37|71780|Weldon town|Incorporated Place|A|Halifax County
+NC|37|71860|Wendell town|Incorporated Place|A|Wake County
+NC|37|71900|Wentworth town|Incorporated Place|A|Rockingham County
+NC|37|71940|Wesley Chapel village|Incorporated Place|A|Union County
+NC|37|72150|West Canton CDP|Census Designated Place|S|Haywood County
+NC|37|72540|West Jefferson town|Incorporated Place|A|Ashe County
+NC|37|72600|West Marion CDP|Census Designated Place|S|McDowell County
+NC|37|72755|Westport CDP|Census Designated Place|S|Lincoln County
+NC|37|73140|Whispering Pines village|Incorporated Place|A|Moore County
+NC|37|73160|Whitakers town|Incorporated Place|A|Edgecombe County, Nash County
+NC|37|73300|White Lake town|Incorporated Place|A|Bladen County
+NC|37|73320|White Oak CDP|Census Designated Place|S|Bladen County
+NC|37|73460|White Plains CDP|Census Designated Place|S|Surry County
+NC|37|73660|Whiteville city|Incorporated Place|A|Columbus County
+NC|37|73760|Whitsett town|Incorporated Place|A|Guilford County
+NC|37|74020|Wilkesboro town|Incorporated Place|A|Wilkes County
+NC|37|74220|Williamston town|Incorporated Place|A|Martin County
+NC|37|74440|Wilmington city|Incorporated Place|A|New Hanover County
+NC|37|74540|Wilson city|Incorporated Place|A|Wilson County
+NC|37|74580|Wilson's Mills town|Incorporated Place|A|Johnston County
+NC|37|74680|Windsor town|Incorporated Place|A|Bertie County
+NC|37|74720|Winfall town|Incorporated Place|A|Perquimans County
+NC|37|74760|Wingate town|Incorporated Place|A|Union County
+NC|37|75000|Winston-Salem city|Incorporated Place|A|Forsyth County
+NC|37|75060|Winterville town|Incorporated Place|A|Pitt County
+NC|37|75080|Winton town|Incorporated Place|A|Hertford County
+NC|37|75280|Woodfin town|Incorporated Place|A|Buncombe County
+NC|37|75340|Woodland town|Incorporated Place|A|Northampton County
+NC|37|75375|Woodlawn CDP|Census Designated Place|S|Alamance County
+NC|37|75780|Wrightsboro CDP|Census Designated Place|S|New Hanover County
+NC|37|75820|Wrightsville Beach town|Incorporated Place|A|New Hanover County
+NC|37|75960|Yadkinville town|Incorporated Place|A|Yadkin County
+NC|37|76000|Yanceyville town|Incorporated Place|A|Caswell County
+NC|37|76200|Youngsville town|Incorporated Place|A|Franklin County
+NC|37|76220|Zebulon town|Incorporated Place|A|Johnston County, Wake County

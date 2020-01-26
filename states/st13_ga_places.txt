@@ -1,0 +1,624 @@
+GA|13|00184|Abbeville city|Incorporated Place|A|Wilcox County
+GA|13|00408|Acworth city|Incorporated Place|A|Cobb County
+GA|13|00436|Adairsville city|Incorporated Place|A|Bartow County
+GA|13|00576|Adel city|Incorporated Place|A|Cook County
+GA|13|00660|Adrian city|Incorporated Place|A|Emanuel County, Johnson County
+GA|13|00828|Ailey city|Incorporated Place|A|Montgomery County
+GA|13|00996|Alamo town|Incorporated Place|A|Wheeler County
+GA|13|01024|Alapaha town|Incorporated Place|A|Berrien County
+GA|13|01052|Albany city|Incorporated Place|A|Dougherty County
+GA|13|01248|Aldora town|Incorporated Place|A|Lamar County
+GA|13|01472|Allenhurst city|Incorporated Place|A|Liberty County
+GA|13|01500|Allentown city|Incorporated Place|A|Bleckley County, Laurens County, Twiggs County, Wilkinson County
+GA|13|01612|Alma city|Incorporated Place|A|Bacon County
+GA|13|01696|Alpharetta city|Incorporated Place|A|Fulton County
+GA|13|01808|Alston town|Incorporated Place|A|Montgomery County
+GA|13|01948|Alto town|Incorporated Place|A|Banks County, Habersham County
+GA|13|02060|Ambrose city|Incorporated Place|A|Coffee County
+GA|13|02116|Americus city|Incorporated Place|A|Sumter County
+GA|13|02256|Andersonville city|Incorporated Place|A|Sumter County
+GA|13|02564|Arabi town|Incorporated Place|A|Crisp County
+GA|13|02592|Aragon city|Incorporated Place|A|Polk County
+GA|13|02648|Arcade city|Incorporated Place|A|Jackson County
+GA|13|02844|Argyle town|Incorporated Place|A|Clinch County
+GA|13|02928|Arlington city|Incorporated Place|A|Calhoun County, Early County
+GA|13|03124|Arnoldsville city|Incorporated Place|A|Oglethorpe County
+GA|13|03236|Ashburn city|Incorporated Place|A|Turner County
+GA|13|03440|Athens-Clarke County unified government (balance)|Incorporated Place|F|Clarke County
+GA|13|04000|Atlanta city|Incorporated Place|A|DeKalb County, Fulton County
+GA|13|04084|Attapulgus city|Incorporated Place|A|Decatur County
+GA|13|04140|Auburn city|Incorporated Place|A|Barrow County, Gwinnett County
+GA|13|04204|Augusta-Richmond County consolidated government (balance)|Incorporated Place|F|Richmond County
+GA|13|04252|Austell city|Incorporated Place|A|Cobb County, Douglas County
+GA|13|04392|Avalon town|Incorporated Place|A|Stephens County
+GA|13|04448|Avera city|Incorporated Place|A|Jefferson County
+GA|13|04644|Avondale Estates city|Incorporated Place|A|DeKalb County
+GA|13|04840|Baconton city|Incorporated Place|A|Mitchell County
+GA|13|04896|Bainbridge city|Incorporated Place|A|Decatur County
+GA|13|04980|Baldwin city|Incorporated Place|A|Banks County, Habersham County
+GA|13|05036|Ball Ground city|Incorporated Place|A|Cherokee County
+GA|13|05344|Barnesville city|Incorporated Place|A|Lamar County
+GA|13|05680|Bartow town|Incorporated Place|A|Jefferson County
+GA|13|05708|Barwick city|Incorporated Place|A|Brooks County, Thomas County
+GA|13|06016|Baxley city|Incorporated Place|A|Appling County
+GA|13|06688|Bellville city|Incorporated Place|A|Evans County
+GA|13|06884|Belvedere Park CDP|Census Designated Place|S|DeKalb County
+GA|13|07248|Berkeley Lake city|Incorporated Place|A|Gwinnett County
+GA|13|07304|Berlin city|Incorporated Place|A|Colquitt County
+GA|13|07612|Bethlehem town|Incorporated Place|A|Barrow County
+GA|13|07640|Between town|Incorporated Place|A|Walton County
+GA|13|08200|Bishop town|Incorporated Place|A|Oconee County
+GA|13|08284|Blackshear city|Incorporated Place|A|Pierce County
+GA|13|08480|Blairsville city|Incorporated Place|A|Union County
+GA|13|08536|Blakely city|Incorporated Place|A|Early County
+GA|13|08844|Bloomingdale city|Incorporated Place|A|Chatham County
+GA|13|08928|Blue Ridge city|Incorporated Place|A|Fannin County
+GA|13|08956|Bluffton town|Incorporated Place|A|Clay County
+GA|13|09040|Blythe city|Incorporated Place|A|Burke County, Richmond County
+GA|13|09068|Bogart town|Incorporated Place|A|Clarke County, Oconee County
+GA|13|09272|Bonanza CDP|Census Designated Place|S|Clayton County
+GA|13|09460|Boston city|Incorporated Place|A|Thomas County
+GA|13|09488|Bostwick city|Incorporated Place|A|Morgan County
+GA|13|09544|Bowdon city|Incorporated Place|A|Carroll County
+GA|13|09656|Bowersville town|Incorporated Place|A|Hart County
+GA|13|09712|Bowman city|Incorporated Place|A|Elbert County
+GA|13|09852|Boykin CDP|Census Designated Place|S|Miller County
+GA|13|10076|Braselton town|Incorporated Place|A|Barrow County, Gwinnett County, Hall County, Jackson County
+GA|13|10104|Braswell town|Incorporated Place|A|Paulding County, Polk County
+GA|13|10132|Bremen city|Incorporated Place|A|Carroll County, Haralson County
+GA|13|10608|Brinson town|Incorporated Place|A|Decatur County
+GA|13|10860|Bronwood town|Incorporated Place|A|Terrell County
+GA|13|11000|Brooklet city|Incorporated Place|A|Bulloch County
+GA|13|11056|Brooks town|Incorporated Place|A|Fayette County
+GA|13|11504|Broxton city|Incorporated Place|A|Coffee County
+GA|13|11560|Brunswick city|Incorporated Place|A|Glynn County
+GA|13|11616|Buchanan city|Incorporated Place|A|Haralson County
+GA|13|11672|Buckhead town|Incorporated Place|A|Morgan County
+GA|13|11728|Buena Vista city|Incorporated Place|A|Marion County
+GA|13|11784|Buford city|Incorporated Place|A|Gwinnett County, Hall County
+GA|13|12120|Butler city|Incorporated Place|A|Taylor County
+GA|13|12232|Byromville town|Incorporated Place|A|Dooly County
+GA|13|12260|Byron city|Incorporated Place|A|Houston County, Peach County
+GA|13|12344|Cadwell town|Incorporated Place|A|Laurens County
+GA|13|12400|Cairo city|Incorporated Place|A|Grady County
+GA|13|12456|Calhoun city|Incorporated Place|A|Gordon County
+GA|13|12484|Calvary CDP|Census Designated Place|S|Grady County
+GA|13|12512|Camak town|Incorporated Place|A|Warren County
+GA|13|12624|Camilla city|Incorporated Place|A|Mitchell County
+GA|13|12834|Candler-McAfee CDP|Census Designated Place|S|DeKalb County
+GA|13|12932|Canon city|Incorporated Place|A|Franklin County, Hart County
+GA|13|12960|Canoochee CDP|Census Designated Place|S|Emanuel County
+GA|13|12988|Canton city|Incorporated Place|A|Cherokee County
+GA|13|13184|Carl town|Incorporated Place|A|Barrow County
+GA|13|13212|Carlton city|Incorporated Place|A|Madison County
+GA|13|13352|Carnesville city|Incorporated Place|A|Franklin County
+GA|13|13492|Carrollton city|Incorporated Place|A|Carroll County
+GA|13|13688|Cartersville city|Incorporated Place|A|Bartow County
+GA|13|14108|Cave Spring city|Incorporated Place|A|Floyd County
+GA|13|14192|Cecil city|Incorporated Place|A|Cook County
+GA|13|14472|Cedar Springs CDP|Census Designated Place|S|Early County
+GA|13|14500|Cedartown city|Incorporated Place|A|Polk County
+GA|13|14920|Centerville city|Incorporated Place|A|Houston County
+GA|13|15026|Centralhatchee town|Incorporated Place|A|Heard County
+GA|13|15172|Chamblee city|Incorporated Place|A|DeKalb County
+GA|13|15508|Chatsworth city|Incorporated Place|A|Murray County
+GA|13|15552|Chattahoochee Hills city|Incorporated Place|A|Fulton County
+GA|13|15585|Chattanooga Valley CDP|Census Designated Place|S|Walker County
+GA|13|15648|Chauncey city|Incorporated Place|A|Dodge County
+GA|13|15844|Cherry Log CDP|Census Designated Place|S|Gilmer County
+GA|13|15900|Chester town|Incorporated Place|A|Dodge County
+GA|13|15984|Chickamauga city|Incorporated Place|A|Walker County
+GA|13|16460|Clarkesville city|Incorporated Place|A|Habersham County
+GA|13|16544|Clarkston city|Incorporated Place|A|DeKalb County
+GA|13|16600|Claxton city|Incorporated Place|A|Evans County
+GA|13|16656|Clayton city|Incorporated Place|A|Rabun County
+GA|13|16796|Clermont town|Incorporated Place|A|Hall County
+GA|13|16824|Cleveland city|Incorporated Place|A|White County
+GA|13|16908|Climax city|Incorporated Place|A|Decatur County
+GA|13|17272|Cobbtown city|Incorporated Place|A|Tattnall County
+GA|13|17328|Cochran city|Incorporated Place|A|Bleckley County
+GA|13|17496|Cohutta city|Incorporated Place|A|Whitfield County
+GA|13|17552|Colbert city|Incorporated Place|A|Madison County
+GA|13|17580|Coleman CDP|Census Designated Place|S|Randolph County
+GA|13|17776|College Park city|Incorporated Place|A|Clayton County, Fulton County
+GA|13|17832|Collins city|Incorporated Place|A|Tattnall County
+GA|13|18000|Colquitt city|Incorporated Place|A|Miller County
+GA|13|19000|Columbus city|Incorporated Place|A|Muscogee County
+GA|13|19084|Comer city|Incorporated Place|A|Madison County
+GA|13|19112|Commerce city|Incorporated Place|A|Jackson County
+GA|13|19168|Concord city|Incorporated Place|A|Pike County
+GA|13|19280|Conley CDP|Census Designated Place|S|Clayton County
+GA|13|19336|Conyers city|Incorporated Place|A|Rockdale County
+GA|13|19392|Coolidge city|Incorporated Place|A|Thomas County
+GA|13|19616|Cordele city|Incorporated Place|A|Crisp County
+GA|13|19728|Cornelia city|Incorporated Place|A|Habersham County
+GA|13|19830|Country Club Estates CDP|Census Designated Place|S|Glynn County
+GA|13|20064|Covington city|Incorporated Place|A|Newton County
+GA|13|20288|Crawford city|Incorporated Place|A|Oglethorpe County
+GA|13|20316|Crawfordville city|Incorporated Place|A|Taliaferro County
+GA|13|20550|Crooked Creek CDP|Census Designated Place|S|Putnam County
+GA|13|20848|Culloden city|Incorporated Place|A|Monroe County
+GA|13|20932|Cumming city|Incorporated Place|A|Forsyth County
+GA|13|21017|Cusseta-Chattahoochee County unified government|Incorporated Place|A|Chattahoochee County
+GA|13|21072|Cuthbert city|Incorporated Place|A|Randolph County
+GA|13|21184|Dacula city|Incorporated Place|A|Gwinnett County
+GA|13|21240|Dahlonega city|Incorporated Place|A|Lumpkin County
+GA|13|21268|Daisy city|Incorporated Place|A|Evans County
+GA|13|21324|Dallas city|Incorporated Place|A|Paulding County
+GA|13|21380|Dalton city|Incorporated Place|A|Whitfield County
+GA|13|21436|Damascus city|Incorporated Place|A|Early County
+GA|13|21632|Danielsville city|Incorporated Place|A|Madison County
+GA|13|21688|Danville town|Incorporated Place|A|Twiggs County, Wilkinson County
+GA|13|21716|Darien city|Incorporated Place|A|McIntosh County
+GA|13|21744|Dasher town|Incorporated Place|A|Lowndes County
+GA|13|21800|Davisboro city|Incorporated Place|A|Washington County
+GA|13|21912|Dawson city|Incorporated Place|A|Terrell County
+GA|13|21940|Dawsonville city|Incorporated Place|A|Dawson County
+GA|13|22024|Dearing town|Incorporated Place|A|McDuffie County
+GA|13|22052|Decatur city|Incorporated Place|A|DeKalb County
+GA|13|22080|Deenwood CDP|Census Designated Place|S|Ware County
+GA|13|22108|Deepstep town|Incorporated Place|A|Washington County
+GA|13|22304|Demorest city|Incorporated Place|A|Habersham County
+GA|13|22388|Denton city|Incorporated Place|A|Jeff Davis County
+GA|13|22472|De Soto city|Incorporated Place|A|Sumter County
+GA|13|22724|Dewy Rose CDP|Census Designated Place|S|Elbert County
+GA|13|22752|Dexter town|Incorporated Place|A|Laurens County
+GA|13|22976|Dillard city|Incorporated Place|A|Rabun County
+GA|13|23200|Dock Junction CDP|Census Designated Place|S|Glynn County
+GA|13|23284|Doerun city|Incorporated Place|A|Colquitt County
+GA|13|23368|Donalsonville city|Incorporated Place|A|Seminole County
+GA|13|23480|Dooling town|Incorporated Place|A|Dooly County
+GA|13|23536|Doraville city|Incorporated Place|A|DeKalb County
+GA|13|23872|Douglas city|Incorporated Place|A|Coffee County
+GA|13|23900|Douglasville city|Incorporated Place|A|Douglas County
+GA|13|24264|Druid Hills CDP|Census Designated Place|S|DeKalb County
+GA|13|24376|Dublin city|Incorporated Place|A|Laurens County
+GA|13|24488|Dudley city|Incorporated Place|A|Laurens County
+GA|13|24600|Duluth city|Incorporated Place|A|Gwinnett County
+GA|13|24768|Dunwoody city|Incorporated Place|A|DeKalb County
+GA|13|24796|Du Pont town|Incorporated Place|A|Clinch County
+GA|13|24876|Dutch Island CDP|Census Designated Place|S|Chatham County
+GA|13|24964|Eagle Grove CDP|Census Designated Place|S|Hart County
+GA|13|25300|East Dublin city|Incorporated Place|A|Laurens County
+GA|13|25356|East Ellijay city|Incorporated Place|A|Gilmer County
+GA|13|25440|East Griffin CDP|Census Designated Place|S|Spalding County
+GA|13|25552|Eastman city|Incorporated Place|A|Dodge County
+GA|13|25692|East Newnan CDP|Census Designated Place|S|Coweta County
+GA|13|25720|East Point city|Incorporated Place|A|Fulton County
+GA|13|26084|Eatonton city|Incorporated Place|A|Putnam County
+GA|13|26224|Edge Hill city|Incorporated Place|A|Glascock County
+GA|13|26448|Edison city|Incorporated Place|A|Calhoun County
+GA|13|26616|Elberton city|Incorporated Place|A|Elbert County
+GA|13|26980|Ellaville city|Incorporated Place|A|Schley County
+GA|13|27008|Ellenton town|Incorporated Place|A|Colquitt County
+GA|13|27092|Ellijay city|Incorporated Place|A|Gilmer County
+GA|13|27344|Emerson city|Incorporated Place|A|Bartow County
+GA|13|27512|Empire CDP|Census Designated Place|S|Bleckley County, Dodge County
+GA|13|27596|Enigma town|Incorporated Place|A|Berrien County
+GA|13|27708|Ephesus city|Incorporated Place|A|Heard County
+GA|13|27736|Epworth CDP|Census Designated Place|S|Fannin County
+GA|13|27932|Eton city|Incorporated Place|A|Murray County
+GA|13|27988|Euharlee city|Incorporated Place|A|Bartow County
+GA|13|28044|Evans CDP|Census Designated Place|S|Columbia County
+GA|13|28296|Experiment CDP|Census Designated Place|S|Spalding County
+GA|13|28380|Fairburn city|Incorporated Place|A|Fulton County
+GA|13|28492|Fairmount city|Incorporated Place|A|Gordon County
+GA|13|28520|Fair Oaks CDP|Census Designated Place|S|Cobb County
+GA|13|28632|Fairview CDP|Census Designated Place|S|Walker County
+GA|13|28744|Fargo city|Incorporated Place|A|Clinch County
+GA|13|28968|Fayetteville city|Incorporated Place|A|Fayette County
+GA|13|29528|Fitzgerald city|Incorporated Place|A|Ben Hill County, Irwin County
+GA|13|30088|Flemington city|Incorporated Place|A|Liberty County
+GA|13|30312|Flovilla city|Incorporated Place|A|Butts County
+GA|13|30340|Flowery Branch city|Incorporated Place|A|Hall County
+GA|13|30424|Folkston city|Incorporated Place|A|Charlton County
+GA|13|30536|Forest Park city|Incorporated Place|A|Clayton County
+GA|13|30732|Forsyth city|Incorporated Place|A|Monroe County
+GA|13|30816|Fort Gaines city|Incorporated Place|A|Clay County
+GA|13|30956|Fort Oglethorpe city|Incorporated Place|A|Catoosa County, Walker County
+GA|13|31068|Fort Stewart CDP|Census Designated Place|S|Liberty County
+GA|13|31096|Fort Valley city|Incorporated Place|A|Peach County
+GA|13|31292|Franklin city|Incorporated Place|A|Heard County
+GA|13|31320|Franklin Springs city|Incorporated Place|A|Franklin County
+GA|13|31684|Funston city|Incorporated Place|A|Colquitt County
+GA|13|31908|Gainesville city|Incorporated Place|A|Hall County
+GA|13|32048|Garden City city|Incorporated Place|A|Chatham County
+GA|13|32188|Garfield city|Incorporated Place|A|Emanuel County
+GA|13|32384|Gay town|Incorporated Place|A|Meriwether County
+GA|13|32412|Geneva town|Incorporated Place|A|Talbot County
+GA|13|32482|Georgetown CDP|Census Designated Place|S|Chatham County
+GA|13|32528|Georgetown-Quitman County unified government|Incorporated Place|A|Quitman County
+GA|13|32748|Gibson city|Incorporated Place|A|Glascock County
+GA|13|32860|Gillsville city|Incorporated Place|A|Banks County, Hall County
+GA|13|32916|Girard town|Incorporated Place|A|Burke County
+GA|13|33336|Glennville city|Incorporated Place|A|Tattnall County
+GA|13|33392|Glenwood city|Incorporated Place|A|Wheeler County
+GA|13|33896|Good Hope city|Incorporated Place|A|Walton County
+GA|13|33980|Gordon city|Incorporated Place|A|Wilkinson County
+GA|13|34260|Graham city|Incorporated Place|A|Appling County
+GA|13|34428|Grantville city|Incorporated Place|A|Coweta County
+GA|13|34512|Gray city|Incorporated Place|A|Jones County
+GA|13|34596|Grayson city|Incorporated Place|A|Gwinnett County
+GA|13|34876|Greensboro city|Incorporated Place|A|Greene County
+GA|13|35016|Greenville city|Incorporated Place|A|Meriwether County
+GA|13|35240|Gresham Park CDP|Census Designated Place|S|DeKalb County
+GA|13|35324|Griffin city|Incorporated Place|A|Spalding County
+GA|13|35716|Grovetown city|Incorporated Place|A|Columbia County
+GA|13|35800|Gumbranch city|Incorporated Place|A|Liberty County
+GA|13|35814|Gumlog CDP|Census Designated Place|S|Franklin County
+GA|13|35884|Guyton city|Incorporated Place|A|Effingham County
+GA|13|36024|Hagan city|Incorporated Place|A|Evans County
+GA|13|36052|Hahira city|Incorporated Place|A|Lowndes County
+GA|13|36220|Hamilton city|Incorporated Place|A|Harris County
+GA|13|36276|Hampton city|Incorporated Place|A|Henry County
+GA|13|36416|Hannahs Mill CDP|Census Designated Place|S|Upson County
+GA|13|36472|Hapeville city|Incorporated Place|A|Fulton County
+GA|13|36528|Haralson town|Incorporated Place|A|Coweta County, Meriwether County
+GA|13|36668|Hardwick CDP|Census Designated Place|S|Baldwin County
+GA|13|36696|Harlem city|Incorporated Place|A|Columbia County
+GA|13|36920|Harrison town|Incorporated Place|A|Washington County
+GA|13|37144|Hartwell city|Incorporated Place|A|Hart County
+GA|13|37396|Hawkinsville city|Incorporated Place|A|Pulaski County
+GA|13|37564|Hazlehurst city|Incorporated Place|A|Jeff Davis County
+GA|13|37788|Helen city|Incorporated Place|A|White County
+GA|13|37816|Helena city|Incorporated Place|A|Telfair County, Wheeler County
+GA|13|37910|Henderson CDP|Census Designated Place|S|Chatham County
+GA|13|38040|Hephzibah city|Incorporated Place|A|Richmond County
+GA|13|38105|Heron Bay CDP|Census Designated Place|S|Henry County, Spalding County
+GA|13|38124|Hiawassee city|Incorporated Place|A|Towns County
+GA|13|38348|Higgston town|Incorporated Place|A|Montgomery County
+GA|13|38866|Hilltop CDP|Census Designated Place|S|Pike County
+GA|13|38920|Hiltonia town|Incorporated Place|A|Screven County
+GA|13|38964|Hinesville city|Incorporated Place|A|Liberty County
+GA|13|39076|Hiram city|Incorporated Place|A|Paulding County
+GA|13|39216|Hoboken city|Incorporated Place|A|Brantley County
+GA|13|39244|Hogansville city|Incorporated Place|A|Troup County
+GA|13|39524|Holly Springs city|Incorporated Place|A|Cherokee County
+GA|13|39692|Homeland city|Incorporated Place|A|Charlton County
+GA|13|39720|Homer town|Incorporated Place|A|Banks County
+GA|13|39748|Homerville city|Incorporated Place|A|Clinch County
+GA|13|40056|Hoschton city|Incorporated Place|A|Jackson County
+GA|13|40196|Howard CDP|Census Designated Place|S|Taylor County
+GA|13|40532|Hull city|Incorporated Place|A|Madison County
+GA|13|40812|Ideal city|Incorporated Place|A|Macon County
+GA|13|40840|Ila city|Incorporated Place|A|Madison County
+GA|13|41036|Indian Springs CDP|Census Designated Place|S|Catoosa County
+GA|13|41344|Iron City town|Incorporated Place|A|Seminole County
+GA|13|41347|Irondale CDP|Census Designated Place|S|Clayton County
+GA|13|41400|Irwinton city|Incorporated Place|A|Wilkinson County
+GA|13|41484|Isle of Hope CDP|Census Designated Place|S|Chatham County
+GA|13|41540|Ivey city|Incorporated Place|A|Wilkinson County
+GA|13|41596|Jackson city|Incorporated Place|A|Butts County
+GA|13|41708|Jacksonville city|Incorporated Place|A|Telfair County
+GA|13|41792|Jakin city|Incorporated Place|A|Early County
+GA|13|41932|Jasper city|Incorporated Place|A|Pickens County
+GA|13|41988|Jefferson city|Incorporated Place|A|Jackson County
+GA|13|42100|Jeffersonville city|Incorporated Place|A|Twiggs County
+GA|13|42156|Jenkinsburg city|Incorporated Place|A|Butts County
+GA|13|42184|Jersey city|Incorporated Place|A|Walton County
+GA|13|42268|Jesup city|Incorporated Place|A|Wayne County
+GA|13|42425|Johns Creek city|Incorporated Place|A|Fulton County
+GA|13|42604|Jonesboro city|Incorporated Place|A|Clayton County
+GA|13|42800|Junction City town|Incorporated Place|A|Talbot County
+GA|13|43192|Kennesaw city|Incorporated Place|A|Cobb County
+GA|13|43360|Keysville city|Incorporated Place|A|Burke County
+GA|13|43580|Kings Bay Base CDP|Census Designated Place|S|Camden County
+GA|13|43640|Kingsland city|Incorporated Place|A|Camden County
+GA|13|43668|Kingston city|Incorporated Place|A|Bartow County
+GA|13|43892|Kite city|Incorporated Place|A|Johnson County
+GA|13|44060|Knoxville CDP|Census Designated Place|S|Crawford County
+GA|13|44312|LaFayette city|Incorporated Place|A|Walker County
+GA|13|44340|LaGrange city|Incorporated Place|A|Troup County
+GA|13|44508|Lake City city|Incorporated Place|A|Clayton County
+GA|13|44592|Lakeland city|Incorporated Place|A|Lanier County
+GA|13|44704|Lake Park city|Incorporated Place|A|Lowndes County
+GA|13|44900|Lakeview CDP|Census Designated Place|S|Catoosa County, Walker County
+GA|13|44956|Lakeview Estates CDP|Census Designated Place|S|Rockdale County
+GA|13|45460|Lavonia city|Incorporated Place|A|Franklin County, Hart County
+GA|13|45488|Lawrenceville city|Incorporated Place|A|Gwinnett County
+GA|13|45600|Leary city|Incorporated Place|A|Calhoun County
+GA|13|45768|Leesburg city|Incorporated Place|A|Lee County
+GA|13|45936|Lenox town|Incorporated Place|A|Cook County
+GA|13|46020|Leslie city|Incorporated Place|A|Sumter County
+GA|13|46188|Lexington city|Incorporated Place|A|Oglethorpe County
+GA|13|46356|Lilburn city|Incorporated Place|A|Gwinnett County
+GA|13|46384|Lilly city|Incorporated Place|A|Dooly County
+GA|13|46524|Lincoln Park CDP|Census Designated Place|S|Upson County
+GA|13|46552|Lincolnton city|Incorporated Place|A|Lincoln County
+GA|13|46580|Lindale CDP|Census Designated Place|S|Floyd County
+GA|13|46832|Lithia Springs CDP|Census Designated Place|S|Douglas County
+GA|13|46860|Lithonia city|Incorporated Place|A|DeKalb County
+GA|13|47140|Locust Grove city|Incorporated Place|A|Henry County
+GA|13|47196|Loganville city|Incorporated Place|A|Gwinnett County, Walton County
+GA|13|47252|Lone Oak town|Incorporated Place|A|Meriwether County
+GA|13|47336|Lookout Mountain city|Incorporated Place|A|Walker County
+GA|13|47560|Louisville city|Incorporated Place|A|Jefferson County
+GA|13|47616|Lovejoy city|Incorporated Place|A|Clayton County
+GA|13|47784|Ludowici city|Incorporated Place|A|Long County
+GA|13|47896|Lula city|Incorporated Place|A|Banks County, Hall County
+GA|13|47952|Lumber City city|Incorporated Place|A|Telfair County
+GA|13|47980|Lumpkin city|Incorporated Place|A|Stewart County
+GA|13|48008|Luthersville city|Incorporated Place|A|Meriwether County
+GA|13|48092|Lyerly town|Incorporated Place|A|Chattooga County
+GA|13|48232|Lyons city|Incorporated Place|A|Toombs County
+GA|13|48288|Mableton CDP|Census Designated Place|S|Cobb County
+GA|13|48428|McCaysville city|Incorporated Place|A|Fannin County
+GA|13|48624|McDonough city|Incorporated Place|A|Henry County
+GA|13|48848|McIntyre town|Incorporated Place|A|Wilkinson County
+GA|13|49000|Macon city|Incorporated Place|A|Bibb County, Jones County
+GA|13|49084|McRae city|Incorporated Place|A|Telfair County
+GA|13|49196|Madison city|Incorporated Place|A|Morgan County
+GA|13|49504|Manassas city|Incorporated Place|A|Tattnall County
+GA|13|49532|Manchester city|Incorporated Place|A|Meriwether County, Talbot County
+GA|13|49616|Mansfield city|Incorporated Place|A|Newton County
+GA|13|49756|Marietta city|Incorporated Place|A|Cobb County
+GA|13|49924|Marshallville city|Incorporated Place|A|Macon County
+GA|13|50008|Martin town|Incorporated Place|A|Franklin County, Stephens County
+GA|13|50036|Martinez CDP|Census Designated Place|S|Columbia County
+GA|13|50176|Matthews CDP|Census Designated Place|S|Jefferson County
+GA|13|50260|Maxeys town|Incorporated Place|A|Oglethorpe County
+GA|13|50484|Maysville town|Incorporated Place|A|Banks County, Jackson County
+GA|13|50596|Meansville city|Incorporated Place|A|Pike County
+GA|13|50680|Meigs city|Incorporated Place|A|Mitchell County, Thomas County
+GA|13|50820|Mendes CDP|Census Designated Place|S|Tattnall County
+GA|13|50848|Menlo city|Incorporated Place|A|Chattooga County
+GA|13|51072|Metter city|Incorporated Place|A|Candler County
+GA|13|51240|Midville city|Incorporated Place|A|Burke County
+GA|13|51352|Midway city|Incorporated Place|A|Liberty County
+GA|13|51408|Milan city|Incorporated Place|A|Dodge County, Telfair County
+GA|13|51492|Milledgeville city|Incorporated Place|A|Baldwin County
+GA|13|51520|Millen city|Incorporated Place|A|Jenkins County
+GA|13|51604|Milner city|Incorporated Place|A|Lamar County
+GA|13|51670|Milton city|Incorporated Place|A|Fulton County
+GA|13|51744|Mineral Bluff CDP|Census Designated Place|S|Fannin County
+GA|13|51968|Mitchell town|Incorporated Place|A|Glascock County
+GA|13|52108|Molena city|Incorporated Place|A|Pike County
+GA|13|52192|Monroe city|Incorporated Place|A|Walton County
+GA|13|52304|Montezuma city|Incorporated Place|A|Macon County
+GA|13|52332|Montgomery CDP|Census Designated Place|S|Chatham County
+GA|13|52416|Monticello city|Incorporated Place|A|Jasper County
+GA|13|52500|Montrose town|Incorporated Place|A|Laurens County
+GA|13|52556|Moody AFB CDP|Census Designated Place|S|Lowndes County
+GA|13|52668|Moreland town|Incorporated Place|A|Coweta County
+GA|13|52696|Morgan city|Incorporated Place|A|Calhoun County
+GA|13|52724|Morganton city|Incorporated Place|A|Fannin County
+GA|13|53004|Morrow city|Incorporated Place|A|Clayton County
+GA|13|53032|Morven city|Incorporated Place|A|Brooks County
+GA|13|53060|Moultrie city|Incorporated Place|A|Colquitt County
+GA|13|53116|Mountain City town|Incorporated Place|A|Rabun County
+GA|13|53172|Mountain Park city|Incorporated Place|A|Cherokee County, Fulton County
+GA|13|53186|Mountain Park CDP|Census Designated Place|S|Gwinnett County
+GA|13|53284|Mount Airy town|Incorporated Place|A|Habersham County
+GA|13|53508|Mount Vernon city|Incorporated Place|A|Montgomery County
+GA|13|53620|Mount Zion city|Incorporated Place|A|Carroll County
+GA|13|54124|Nahunta city|Incorporated Place|A|Brantley County
+GA|13|54264|Nashville city|Incorporated Place|A|Berrien County
+GA|13|54572|Nelson city|Incorporated Place|A|Cherokee County, Pickens County
+GA|13|54656|Newborn town|Incorporated Place|A|Newton County
+GA|13|54992|Newington town|Incorporated Place|A|Screven County
+GA|13|55020|Newnan city|Incorporated Place|A|Coweta County
+GA|13|55244|Newton city|Incorporated Place|A|Baker County
+GA|13|55440|Nicholls city|Incorporated Place|A|Coffee County
+GA|13|55468|Nicholson city|Incorporated Place|A|Jackson County
+GA|13|55776|Norcross city|Incorporated Place|A|Gwinnett County
+GA|13|55860|Norman Park city|Incorporated Place|A|Colquitt County
+GA|13|55944|Norristown CDP|Census Designated Place|S|Emanuel County
+GA|13|56000|North Atlanta CDP|Census Designated Place|S|DeKalb County
+GA|13|56112|North Decatur CDP|Census Designated Place|S|DeKalb County
+GA|13|56168|North Druid Hills CDP|Census Designated Place|S|DeKalb County
+GA|13|56308|North High Shoals town|Incorporated Place|A|Oconee County
+GA|13|56560|Norwood city|Incorporated Place|A|Warren County
+GA|13|56644|Nunez city|Incorporated Place|A|Emanuel County
+GA|13|57232|Oak Park town|Incorporated Place|A|Emanuel County
+GA|13|57260|Oakwood city|Incorporated Place|A|Hall County
+GA|13|57372|Ochlocknee town|Incorporated Place|A|Thomas County
+GA|13|57428|Ocilla city|Incorporated Place|A|Irwin County
+GA|13|57456|Oconee city|Incorporated Place|A|Washington County
+GA|13|57540|Odum city|Incorporated Place|A|Wayne County
+GA|13|57568|Offerman city|Incorporated Place|A|Pierce County
+GA|13|57736|Oglethorpe city|Incorporated Place|A|Macon County
+GA|13|58100|Oliver city|Incorporated Place|A|Screven County
+GA|13|58184|Omega city|Incorporated Place|A|Colquitt County, Tift County
+GA|13|58296|Orchard Hill town|Incorporated Place|A|Spalding County
+GA|13|58744|Oxford city|Incorporated Place|A|Newton County
+GA|13|58884|Palmetto city|Incorporated Place|A|Coweta County, Fulton County
+GA|13|59080|Panthersville CDP|Census Designated Place|S|DeKalb County
+GA|13|59416|Parrott town|Incorporated Place|A|Terrell County
+GA|13|59500|Patterson city|Incorporated Place|A|Pierce County
+GA|13|59556|Pavo city|Incorporated Place|A|Brooks County, Thomas County
+GA|13|59584|Payne city|Incorporated Place|A|Bibb County
+GA|13|59724|Peachtree City city|Incorporated Place|A|Fayette County
+GA|13|59808|Pearson city|Incorporated Place|A|Atkinson County
+GA|13|59976|Pelham city|Incorporated Place|A|Mitchell County
+GA|13|60004|Pembroke city|Incorporated Place|A|Bryan County
+GA|13|60032|Pendergrass town|Incorporated Place|A|Jackson County
+GA|13|60312|Perkins CDP|Census Designated Place|S|Jenkins County
+GA|13|60340|Perry city|Incorporated Place|A|Houston County, Peach County
+GA|13|60508|Phillipsburg CDP|Census Designated Place|S|Tift County
+GA|13|60984|Pinehurst city|Incorporated Place|A|Dooly County
+GA|13|61040|Pine Lake city|Incorporated Place|A|DeKalb County
+GA|13|61124|Pine Mountain town|Incorporated Place|A|Harris County, Meriwether County
+GA|13|61320|Pineview town|Incorporated Place|A|Wilcox County
+GA|13|61544|Pitts city|Incorporated Place|A|Wilcox County
+GA|13|61628|Plains city|Incorporated Place|A|Sumter County
+GA|13|61684|Plainville city|Incorporated Place|A|Gordon County
+GA|13|62104|Pooler city|Incorporated Place|A|Chatham County
+GA|13|62216|Portal town|Incorporated Place|A|Bulloch County
+GA|13|62244|Porterdale city|Incorporated Place|A|Newton County
+GA|13|62328|Port Wentworth city|Incorporated Place|A|Chatham County
+GA|13|62496|Poulan city|Incorporated Place|A|Worth County
+GA|13|62524|Powder Springs city|Incorporated Place|A|Cobb County
+GA|13|63000|Pulaski town|Incorporated Place|A|Candler County
+GA|13|63084|Putney CDP|Census Designated Place|S|Dougherty County
+GA|13|63224|Quitman city|Incorporated Place|A|Brooks County
+GA|13|63560|Ranger town|Incorporated Place|A|Gordon County
+GA|13|63588|Raoul CDP|Census Designated Place|S|Habersham County
+GA|13|63728|Ray City city|Incorporated Place|A|Berrien County
+GA|13|63756|Rayle town|Incorporated Place|A|Wilkes County
+GA|13|63840|Rebecca town|Incorporated Place|A|Turner County
+GA|13|63952|Redan CDP|Census Designated Place|S|DeKalb County
+GA|13|64288|Reed Creek CDP|Census Designated Place|S|Hart County
+GA|13|64372|Register town|Incorporated Place|A|Bulloch County
+GA|13|64512|Reidsville city|Incorporated Place|A|Tattnall County
+GA|13|64596|Remerton city|Incorporated Place|A|Lowndes County
+GA|13|64680|Rentz city|Incorporated Place|A|Laurens County
+GA|13|64736|Resaca town|Incorporated Place|A|Gordon County
+GA|13|64792|Rest Haven town|Incorporated Place|A|Gwinnett County, Hall County
+GA|13|64876|Reynolds city|Incorporated Place|A|Taylor County
+GA|13|64932|Rhine town|Incorporated Place|A|Dodge County
+GA|13|64960|Riceboro city|Incorporated Place|A|Liberty County
+GA|13|65016|Richland city|Incorporated Place|A|Stewart County
+GA|13|65044|Richmond Hill city|Incorporated Place|A|Bryan County
+GA|13|65156|Riddleville town|Incorporated Place|A|Washington County
+GA|13|65296|Rincon town|Incorporated Place|A|Effingham County
+GA|13|65324|Ringgold city|Incorporated Place|A|Catoosa County
+GA|13|65464|Riverdale city|Incorporated Place|A|Clayton County
+GA|13|65604|Riverside town|Incorporated Place|A|Colquitt County
+GA|13|65856|Roberta city|Incorporated Place|A|Crawford County
+GA|13|65968|Robins AFB CDP|Census Designated Place|S|Houston County
+GA|13|66024|Rochelle city|Incorporated Place|A|Wilcox County
+GA|13|66220|Rockingham CDP|Census Designated Place|S|Bacon County
+GA|13|66276|Rockmart city|Incorporated Place|A|Polk County
+GA|13|66444|Rocky Ford town|Incorporated Place|A|Screven County
+GA|13|66668|Rome city|Incorporated Place|A|Floyd County
+GA|13|66696|Roopville town|Incorporated Place|A|Carroll County
+GA|13|67256|Rossville city|Incorporated Place|A|Walker County
+GA|13|67284|Roswell city|Incorporated Place|A|Fulton County
+GA|13|67452|Royston city|Incorporated Place|A|Franklin County, Hart County, Madison County
+GA|13|67676|Russell CDP|Census Designated Place|S|Barrow County
+GA|13|67760|Rutledge city|Incorporated Place|A|Morgan County
+GA|13|67984|St. Marys city|Incorporated Place|A|Camden County
+GA|13|68040|St. Simons CDP|Census Designated Place|S|Glynn County
+GA|13|68096|Sale City city|Incorporated Place|A|Mitchell County
+GA|13|68129|Salem CDP|Census Designated Place|S|Upson County
+GA|13|68208|Sandersville city|Incorporated Place|A|Washington County
+GA|13|68516|Sandy Springs city|Incorporated Place|A|Fulton County
+GA|13|68600|Santa Claus city|Incorporated Place|A|Toombs County
+GA|13|68740|Sardis city|Incorporated Place|A|Burke County
+GA|13|68796|Sasser town|Incorporated Place|A|Terrell County
+GA|13|68805|Satilla CDP|Census Designated Place|S|Jeff Davis County
+GA|13|68880|Sautee Nacoochee CDP|Census Designated Place|S|White County
+GA|13|69000|Savannah city|Incorporated Place|A|Chatham County
+GA|13|69336|Scotland city|Incorporated Place|A|Telfair County, Wheeler County
+GA|13|69392|Scottdale CDP|Census Designated Place|S|DeKalb County
+GA|13|69448|Screven city|Incorporated Place|A|Wayne County
+GA|13|69672|Senoia city|Incorporated Place|A|Coweta County
+GA|13|69728|Seville CDP|Census Designated Place|S|Wilcox County
+GA|13|69784|Shady Dale town|Incorporated Place|A|Jasper County
+GA|13|69868|Shannon CDP|Census Designated Place|S|Floyd County
+GA|13|69896|Sharon city|Incorporated Place|A|Taliaferro County
+GA|13|69980|Sharpsburg town|Incorporated Place|A|Coweta County
+GA|13|70120|Shellman city|Incorporated Place|A|Randolph County
+GA|13|70428|Shiloh city|Incorporated Place|A|Harris County
+GA|13|70932|Siloam town|Incorporated Place|A|Greene County
+GA|13|71184|Skidaway Island CDP|Census Designated Place|S|Chatham County
+GA|13|71282|Sky Valley city|Incorporated Place|A|Rabun County
+GA|13|71464|Smithville city|Incorporated Place|A|Lee County
+GA|13|71492|Smyrna city|Incorporated Place|A|Cobb County
+GA|13|71604|Snellville city|Incorporated Place|A|Gwinnett County
+GA|13|71660|Social Circle city|Incorporated Place|A|Newton County, Walton County
+GA|13|71772|Soperton city|Incorporated Place|A|Treutlen County
+GA|13|72556|Sparks town|Incorporated Place|A|Cook County
+GA|13|72584|Sparta city|Incorporated Place|A|Hancock County
+GA|13|72780|Springfield city|Incorporated Place|A|Effingham County
+GA|13|73004|Stapleton city|Incorporated Place|A|Jefferson County
+GA|13|73200|Statenville CDP|Census Designated Place|S|Echols County
+GA|13|73256|Statesboro city|Incorporated Place|A|Bulloch County
+GA|13|73312|Statham city|Incorporated Place|A|Barrow County
+GA|13|73620|Stillmore city|Incorporated Place|A|Emanuel County
+GA|13|73704|Stockbridge city|Incorporated Place|A|Henry County
+GA|13|73816|Stone Mountain city|Incorporated Place|A|DeKalb County
+GA|13|74180|Sugar Hill city|Incorporated Place|A|Gwinnett County
+GA|13|74348|Summertown city|Incorporated Place|A|Emanuel County
+GA|13|74376|Summerville city|Incorporated Place|A|Chattooga County
+GA|13|74432|Sumner town|Incorporated Place|A|Worth County
+GA|13|74572|Sunny Side city|Incorporated Place|A|Spalding County
+GA|13|74628|Sunnyside CDP|Census Designated Place|S|Ware County
+GA|13|74768|Sunset Village CDP|Census Designated Place|S|Upson County
+GA|13|74852|Surrency town|Incorporated Place|A|Appling County
+GA|13|74936|Suwanee city|Incorporated Place|A|Gwinnett County
+GA|13|74964|Swainsboro city|Incorporated Place|A|Emanuel County
+GA|13|75104|Sycamore city|Incorporated Place|A|Turner County
+GA|13|75160|Sylvania city|Incorporated Place|A|Screven County
+GA|13|75188|Sylvester city|Incorporated Place|A|Worth County
+GA|13|75239|Talahi Island CDP|Census Designated Place|S|Chatham County
+GA|13|75244|Talbotton city|Incorporated Place|A|Talbot County
+GA|13|75272|Talking Rock town|Incorporated Place|A|Pickens County
+GA|13|75300|Tallapoosa city|Incorporated Place|A|Haralson County
+GA|13|75328|Tallulah Falls town|Incorporated Place|A|Habersham County, Rabun County
+GA|13|75412|Talmo town|Incorporated Place|A|Jackson County
+GA|13|75496|Tarrytown town|Incorporated Place|A|Montgomery County
+GA|13|75580|Tate City CDP|Census Designated Place|S|Towns County
+GA|13|75664|Taylorsville town|Incorporated Place|A|Bartow County, Polk County
+GA|13|75832|Temple city|Incorporated Place|A|Carroll County, Haralson County
+GA|13|75888|Tennille city|Incorporated Place|A|Washington County
+GA|13|76112|The Rock CDP|Census Designated Place|S|Upson County
+GA|13|76168|Thomaston city|Incorporated Place|A|Upson County
+GA|13|76224|Thomasville city|Incorporated Place|A|Thomas County
+GA|13|76280|Thomson city|Incorporated Place|A|McDuffie County
+GA|13|76364|Thunderbolt town|Incorporated Place|A|Chatham County
+GA|13|76476|Tifton city|Incorporated Place|A|Tift County
+GA|13|76504|Tiger town|Incorporated Place|A|Rabun County
+GA|13|76532|Tignall town|Incorporated Place|A|Wilkes County
+GA|13|76756|Toccoa city|Incorporated Place|A|Stephens County
+GA|13|76952|Toomsboro city|Incorporated Place|A|Wilkinson County
+GA|13|77372|Trenton city|Incorporated Place|A|Dade County
+GA|13|77540|Trion town|Incorporated Place|A|Chattooga County
+GA|13|77652|Tucker CDP|Census Designated Place|S|DeKalb County
+GA|13|77736|Tunnel Hill city|Incorporated Place|A|Whitfield County
+GA|13|77764|Turin town|Incorporated Place|A|Coweta County
+GA|13|77988|Twin City city|Incorporated Place|A|Emanuel County
+GA|13|78036|Tybee Island city|Incorporated Place|A|Chatham County
+GA|13|78044|Tyrone town|Incorporated Place|A|Fayette County
+GA|13|78100|Ty Ty city|Incorporated Place|A|Tift County
+GA|13|78156|Unadilla city|Incorporated Place|A|Dooly County
+GA|13|78324|Union City city|Incorporated Place|A|Fulton County
+GA|13|78380|Union Point city|Incorporated Place|A|Greene County
+GA|13|78464|Unionville CDP|Census Designated Place|S|Tift County
+GA|13|78744|Uvalda city|Incorporated Place|A|Montgomery County
+GA|13|78800|Valdosta city|Incorporated Place|A|Lowndes County
+GA|13|78996|Varnell city|Incorporated Place|A|Whitfield County
+GA|13|79164|Vernonburg town|Incorporated Place|A|Chatham County
+GA|13|79388|Vidalia city|Incorporated Place|A|Montgomery County, Toombs County
+GA|13|79416|Vidette city|Incorporated Place|A|Burke County
+GA|13|79444|Vienna city|Incorporated Place|A|Dooly County
+GA|13|79528|Villa Rica city|Incorporated Place|A|Carroll County, Douglas County
+GA|13|79612|Vinings CDP|Census Designated Place|S|Cobb County
+GA|13|79808|Waco city|Incorporated Place|A|Haralson County
+GA|13|79864|Wadley city|Incorporated Place|A|Jefferson County
+GA|13|79948|Waleska city|Incorporated Place|A|Cherokee County
+GA|13|80228|Walnut Grove city|Incorporated Place|A|Walton County
+GA|13|80256|Walthourville city|Incorporated Place|A|Liberty County
+GA|13|80480|Warm Springs city|Incorporated Place|A|Meriwether County
+GA|13|80508|Warner Robins city|Incorporated Place|A|Houston County, Peach County
+GA|13|80592|Warrenton city|Incorporated Place|A|Warren County
+GA|13|80676|Warwick city|Incorporated Place|A|Worth County
+GA|13|80704|Washington city|Incorporated Place|A|Wilkes County
+GA|13|80788|Watkinsville city|Incorporated Place|A|Oconee County
+GA|13|80844|Waverly Hall town|Incorporated Place|A|Harris County
+GA|13|80956|Waycross city|Incorporated Place|A|Pierce County, Ware County
+GA|13|80984|Waynesboro city|Incorporated Place|A|Burke County
+GA|13|81128|Webster County unified government|Incorporated Place|A|Webster County
+GA|13|82132|West Point city|Incorporated Place|A|Harris County, Troup County
+GA|13|82412|Whigham city|Incorporated Place|A|Grady County
+GA|13|82468|White city|Incorporated Place|A|Bartow County
+GA|13|82636|Whitemarsh Island CDP|Census Designated Place|S|Chatham County
+GA|13|82692|White Plains city|Incorporated Place|A|Greene County
+GA|13|82720|Whitesburg city|Incorporated Place|A|Carroll County
+GA|13|82972|Willacoochee city|Incorporated Place|A|Atkinson County
+GA|13|83084|Williamson city|Incorporated Place|A|Pike County
+GA|13|83168|Wilmington Island CDP|Census Designated Place|S|Chatham County
+GA|13|83420|Winder city|Incorporated Place|A|Barrow County
+GA|13|83728|Winterville city|Incorporated Place|A|Clarke County
+GA|13|83868|Woodbine city|Incorporated Place|A|Camden County
+GA|13|83896|Woodbury city|Incorporated Place|A|Meriwether County
+GA|13|83952|Woodland city|Incorporated Place|A|Talbot County
+GA|13|84176|Woodstock city|Incorporated Place|A|Cherokee County
+GA|13|84260|Woodville city|Incorporated Place|A|Greene County
+GA|13|84288|Woolsey town|Incorporated Place|A|Fayette County
+GA|13|84456|Wrens city|Incorporated Place|A|Jefferson County
+GA|13|84512|Wrightsville city|Incorporated Place|A|Johnson County
+GA|13|84708|Yatesville town|Incorporated Place|A|Upson County
+GA|13|84832|Yonah CDP|Census Designated Place|S|White County
+GA|13|84960|Young Harris city|Incorporated Place|A|Towns County
+GA|13|85128|Zebulon city|Incorporated Place|A|Pike County

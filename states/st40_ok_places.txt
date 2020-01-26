@@ -1,0 +1,733 @@
+OK|40|00100|Achille town|Incorporated Place|A|Bryan County
+OK|40|00200|Ada city|Incorporated Place|A|Pontotoc County
+OK|40|00250|Adair town|Incorporated Place|A|Mayes County
+OK|40|00450|Addington town|Incorporated Place|A|Jefferson County
+OK|40|00600|Afton town|Incorporated Place|A|Ottawa County
+OK|40|00700|Agra town|Incorporated Place|A|Lincoln County
+OK|40|00900|Akins CDP|Census Designated Place|S|Sequoyah County
+OK|40|00950|Albany CDP|Census Designated Place|S|Bryan County
+OK|40|01050|Albion town|Incorporated Place|A|Pushmataha County
+OK|40|01150|Alderson town|Incorporated Place|A|Pittsburg County
+OK|40|01250|Alex town|Incorporated Place|A|Grady County
+OK|40|01350|Aline town|Incorporated Place|A|Alfalfa County
+OK|40|01400|Allen town|Incorporated Place|A|Hughes County, Pontotoc County
+OK|40|01700|Altus city|Incorporated Place|A|Jackson County
+OK|40|01800|Alva city|Incorporated Place|A|Woods County
+OK|40|01900|Amber town|Incorporated Place|A|Grady County
+OK|40|01950|Ames town|Incorporated Place|A|Major County
+OK|40|02000|Amorita town|Incorporated Place|A|Alfalfa County
+OK|40|02050|Anadarko city|Incorporated Place|A|Caddo County
+OK|40|02250|Antlers city|Incorporated Place|A|Pushmataha County
+OK|40|02300|Apache town|Incorporated Place|A|Caddo County
+OK|40|02500|Arapaho town|Incorporated Place|A|Custer County
+OK|40|02550|Arcadia town|Incorporated Place|A|Oklahoma County
+OK|40|02600|Ardmore city|Incorporated Place|A|Carter County
+OK|40|02650|Arkoma town|Incorporated Place|A|Le Flore County
+OK|40|02750|Armstrong town|Incorporated Place|A|Bryan County
+OK|40|02800|Arnett town|Incorporated Place|A|Ellis County
+OK|40|02900|Arpelar CDP|Census Designated Place|S|Pittsburg County
+OK|40|03000|Asher town|Incorporated Place|A|Pottawatomie County
+OK|40|03050|Ashland town|Incorporated Place|A|Pittsburg County
+OK|40|03300|Atoka city|Incorporated Place|A|Atoka County
+OK|40|03350|Atwood town|Incorporated Place|A|Hughes County
+OK|40|03500|Avant town|Incorporated Place|A|Osage County
+OK|40|03815|Badger Lee CDP|Census Designated Place|S|Sequoyah County
+OK|40|04075|Ballou CDP|Census Designated Place|S|Mayes County
+OK|40|04250|Barnsdall city|Incorporated Place|A|Osage County
+OK|40|04450|Bartlesville city|Incorporated Place|A|Osage County, Washington County
+OK|40|04700|Bearden town|Incorporated Place|A|Okfuskee County
+OK|40|04750|Beaver town|Incorporated Place|A|Beaver County
+OK|40|04950|Bee CDP|Census Designated Place|S|Johnston County
+OK|40|05000|Beggs city|Incorporated Place|A|Okmulgee County
+OK|40|05070|Belfonte CDP|Census Designated Place|S|Sequoyah County
+OK|40|05090|Bell CDP|Census Designated Place|S|Adair County
+OK|40|05400|Bennington town|Incorporated Place|A|Bryan County
+OK|40|05550|Bernice town|Incorporated Place|A|Delaware County
+OK|40|05650|Bessie town|Incorporated Place|A|Washita County
+OK|40|05700|Bethany city|Incorporated Place|A|Oklahoma County
+OK|40|05800|Bethel Acres town|Incorporated Place|A|Pottawatomie County
+OK|40|05900|Big Cabin town|Incorporated Place|A|Craig County
+OK|40|06100|Billings town|Incorporated Place|A|Noble County
+OK|40|06200|Binger town|Incorporated Place|A|Caddo County
+OK|40|06350|Bison CDP|Census Designated Place|S|Garfield County
+OK|40|06400|Bixby city|Incorporated Place|A|Tulsa County, Wagoner County
+OK|40|06450|Blackburn town|Incorporated Place|A|Pawnee County
+OK|40|06500|Blackgum CDP|Census Designated Place|S|Sequoyah County
+OK|40|06600|Blackwell city|Incorporated Place|A|Kay County
+OK|40|06650|Blair town|Incorporated Place|A|Jackson County
+OK|40|06700|Blanchard city|Incorporated Place|A|Grady County, McClain County
+OK|40|06900|Blue CDP|Census Designated Place|S|Bryan County
+OK|40|06950|Bluejacket town|Incorporated Place|A|Craig County
+OK|40|07300|Boise City city|Incorporated Place|A|Cimarron County
+OK|40|07350|Bokchito town|Incorporated Place|A|Bryan County
+OK|40|07450|Bokoshe town|Incorporated Place|A|Le Flore County
+OK|40|07500|Boley town|Incorporated Place|A|Okfuskee County
+OK|40|07750|Boswell town|Incorporated Place|A|Choctaw County
+OK|40|07950|Bowlegs town|Incorporated Place|A|Seminole County
+OK|40|08050|Box CDP|Census Designated Place|S|Sequoyah County
+OK|40|08150|Boynton town|Incorporated Place|A|Muskogee County
+OK|40|08300|Bradley town|Incorporated Place|A|Grady County
+OK|40|08400|Braggs town|Incorporated Place|A|Muskogee County
+OK|40|08450|Braman town|Incorporated Place|A|Kay County
+OK|40|08550|Bray town|Incorporated Place|A|Stephens County
+OK|40|08600|Breckenridge town|Incorporated Place|A|Garfield County
+OK|40|08650|Brent CDP|Census Designated Place|S|Sequoyah County
+OK|40|08725|Bridge Creek town|Incorporated Place|A|Grady County
+OK|40|08750|Bridgeport city|Incorporated Place|A|Caddo County
+OK|40|08775|Briggs CDP|Census Designated Place|S|Cherokee County
+OK|40|08900|Bristow city|Incorporated Place|A|Creek County
+OK|40|09050|Broken Arrow city|Incorporated Place|A|Tulsa County, Wagoner County
+OK|40|09100|Broken Bow city|Incorporated Place|A|McCurtain County
+OK|40|09150|Bromide town|Incorporated Place|A|Coal County, Johnston County
+OK|40|09400|Brooksville town|Incorporated Place|A|Pottawatomie County
+OK|40|09612|Brush Creek CDP|Census Designated Place|S|Delaware County
+OK|40|09650|Brushy CDP|Census Designated Place|S|Sequoyah County
+OK|40|09850|Buffalo town|Incorporated Place|A|Harper County
+OK|40|09887|Bull Hollow CDP|Census Designated Place|S|Delaware County
+OK|40|09950|Burbank town|Incorporated Place|A|Osage County
+OK|40|10050|Burlington town|Incorporated Place|A|Alfalfa County
+OK|40|10250|Burns Flat town|Incorporated Place|A|Washita County
+OK|40|10400|Bushyhead CDP|Census Designated Place|S|Rogers County
+OK|40|10450|Butler town|Incorporated Place|A|Custer County
+OK|40|10460|Butler CDP|Census Designated Place|S|Delaware County
+OK|40|10550|Byars town|Incorporated Place|A|McClain County
+OK|40|10600|Byng town|Incorporated Place|A|Pontotoc County
+OK|40|10650|Byron town|Incorporated Place|A|Alfalfa County
+OK|40|10700|Cache city|Incorporated Place|A|Comanche County
+OK|40|10800|Caddo town|Incorporated Place|A|Bryan County
+OK|40|10950|Calera town|Incorporated Place|A|Bryan County
+OK|40|11050|Calumet town|Incorporated Place|A|Canadian County
+OK|40|11100|Calvin town|Incorporated Place|A|Hughes County
+OK|40|11150|Camargo town|Incorporated Place|A|Dewey County
+OK|40|11300|Cameron town|Incorporated Place|A|Le Flore County
+OK|40|11450|Canadian town|Incorporated Place|A|Pittsburg County
+OK|40|11550|Caney town|Incorporated Place|A|Atoka County
+OK|40|11600|Canton town|Incorporated Place|A|Blaine County
+OK|40|11650|Canute town|Incorporated Place|A|Washita County
+OK|40|11750|Capron town|Incorporated Place|A|Woods County
+OK|40|11900|Cardin town|Incorporated Place|A|Ottawa County
+OK|40|11975|Carlisle CDP|Census Designated Place|S|Sequoyah County
+OK|40|12000|Carmen town|Incorporated Place|A|Alfalfa County
+OK|40|12050|Carnegie town|Incorporated Place|A|Caddo County
+OK|40|12100|Carney town|Incorporated Place|A|Lincoln County
+OK|40|12200|Carrier town|Incorporated Place|A|Garfield County
+OK|40|12300|Carter town|Incorporated Place|A|Beckham County
+OK|40|12550|Cartwright CDP|Census Designated Place|S|Bryan County
+OK|40|12650|Cashion town|Incorporated Place|A|Kingfisher County, Logan County
+OK|40|12750|Castle town|Incorporated Place|A|Okfuskee County
+OK|40|12900|Catoosa city|Incorporated Place|A|Rogers County, Wagoner County
+OK|40|12915|Cayuga CDP|Census Designated Place|S|Delaware County
+OK|40|12930|Cedar Crest CDP|Census Designated Place|S|Mayes County
+OK|40|12960|Cedar Valley city|Incorporated Place|A|Logan County
+OK|40|13000|Cement town|Incorporated Place|A|Caddo County
+OK|40|13100|Centrahoma city|Incorporated Place|A|Coal County
+OK|40|13135|Central High town|Incorporated Place|A|Stephens County
+OK|40|13500|Chandler city|Incorporated Place|A|Lincoln County
+OK|40|13600|Chattanooga town|Incorporated Place|A|Comanche County, Tillman County
+OK|40|13650|Checotah city|Incorporated Place|A|McIntosh County
+OK|40|13700|Chelsea town|Incorporated Place|A|Rogers County
+OK|40|13750|Cherokee city|Incorporated Place|A|Alfalfa County
+OK|40|13775|Cherry Tree CDP|Census Designated Place|S|Adair County
+OK|40|13800|Chester CDP|Census Designated Place|S|Major County
+OK|40|13850|Chewey CDP|Census Designated Place|S|Adair County
+OK|40|13900|Cheyenne town|Incorporated Place|A|Roger Mills County
+OK|40|13950|Chickasha city|Incorporated Place|A|Grady County
+OK|40|14200|Choctaw city|Incorporated Place|A|Oklahoma County
+OK|40|14300|Chouteau town|Incorporated Place|A|Mayes County
+OK|40|14350|Christie CDP|Census Designated Place|S|Adair County
+OK|40|14500|Cimarron City town|Incorporated Place|A|Logan County
+OK|40|14700|Claremore city|Incorporated Place|A|Rogers County
+OK|40|14900|Clayton town|Incorporated Place|A|Pushmataha County
+OK|40|15050|Clearview town|Incorporated Place|A|Okfuskee County
+OK|40|15250|Cleora CDP|Census Designated Place|S|Delaware County
+OK|40|15300|Cleo Springs town|Incorporated Place|A|Major County
+OK|40|15350|Cleveland city|Incorporated Place|A|Pawnee County
+OK|40|15400|Clinton city|Incorporated Place|A|Custer County, Washita County
+OK|40|15625|Cloud Creek CDP|Census Designated Place|S|Delaware County
+OK|40|15800|Coalgate city|Incorporated Place|A|Coal County
+OK|40|16050|Colbert town|Incorporated Place|A|Bryan County
+OK|40|16100|Colcord town|Incorporated Place|A|Delaware County
+OK|40|16200|Cole town|Incorporated Place|A|McClain County
+OK|40|16350|Collinsville city|Incorporated Place|A|Rogers County, Tulsa County
+OK|40|16400|Colony town|Incorporated Place|A|Washita County
+OK|40|16450|Comanche city|Incorporated Place|A|Stephens County
+OK|40|16500|Commerce city|Incorporated Place|A|Ottawa County
+OK|40|17050|Cooperton town|Incorporated Place|A|Kiowa County
+OK|40|17100|Copan town|Incorporated Place|A|Washington County
+OK|40|17110|Copeland CDP|Census Designated Place|S|Delaware County
+OK|40|17300|Corn town|Incorporated Place|A|Washita County
+OK|40|17350|Cornish town|Incorporated Place|A|Jefferson County
+OK|40|17550|Council Hill town|Incorporated Place|A|Muskogee County
+OK|40|17700|Covington town|Incorporated Place|A|Garfield County
+OK|40|17800|Coweta city|Incorporated Place|A|Wagoner County
+OK|40|17850|Cowlington town|Incorporated Place|A|Le Flore County
+OK|40|17950|Coyle town|Incorporated Place|A|Logan County
+OK|40|18250|Crescent city|Incorporated Place|A|Logan County
+OK|40|18450|Cromwell town|Incorporated Place|A|Seminole County
+OK|40|18550|Crowder town|Incorporated Place|A|Pittsburg County
+OK|40|18850|Cushing city|Incorporated Place|A|Payne County
+OK|40|18950|Custer City town|Incorporated Place|A|Custer County
+OK|40|19000|Cyril town|Incorporated Place|A|Caddo County
+OK|40|19050|Dacoma town|Incorporated Place|A|Woods County
+OK|40|19150|Dale CDP|Census Designated Place|S|Pottawatomie County
+OK|40|19350|Davenport town|Incorporated Place|A|Lincoln County
+OK|40|19400|Davidson town|Incorporated Place|A|Tillman County
+OK|40|19450|Davis city|Incorporated Place|A|Garvin County, Murray County
+OK|40|19650|Deer Creek town|Incorporated Place|A|Grant County
+OK|40|19665|Deer Lick CDP|Census Designated Place|S|Delaware County
+OK|40|19850|Delaware town|Incorporated Place|A|Nowata County
+OK|40|19900|Del City city|Incorporated Place|A|Oklahoma County
+OK|40|20100|Dennis CDP|Census Designated Place|S|Delaware County
+OK|40|20300|Depew town|Incorporated Place|A|Creek County
+OK|40|20450|Devol town|Incorporated Place|A|Cotton County
+OK|40|20500|Dewar town|Incorporated Place|A|Okmulgee County
+OK|40|20550|Dewey city|Incorporated Place|A|Washington County
+OK|40|20650|Dibble town|Incorporated Place|A|McClain County
+OK|40|20700|Dickson town|Incorporated Place|A|Carter County
+OK|40|20850|Dill City town|Incorporated Place|A|Washita County
+OK|40|20900|Disney town|Incorporated Place|A|Mayes County
+OK|40|21020|Dodge CDP|Census Designated Place|S|Delaware County
+OK|40|21150|Dotyville CDP|Census Designated Place|S|Ottawa County
+OK|40|21200|Dougherty town|Incorporated Place|A|Murray County
+OK|40|21250|Douglas town|Incorporated Place|A|Garfield County
+OK|40|21350|Dover town|Incorporated Place|A|Kingfisher County
+OK|40|21672|Dripping Springs CDP|Census Designated Place|S|Delaware County
+OK|40|21676|Drowning Creek CDP|Census Designated Place|S|Delaware County
+OK|40|21700|Drummond town|Incorporated Place|A|Garfield County
+OK|40|21750|Drumright city|Incorporated Place|A|Creek County, Payne County
+OK|40|21755|Dry Creek CDP|Census Designated Place|S|Cherokee County
+OK|40|21760|Duchess Landing CDP|Census Designated Place|S|McIntosh County
+OK|40|21900|Duncan city|Incorporated Place|A|Stephens County
+OK|40|22050|Durant city|Incorporated Place|A|Bryan County
+OK|40|22200|Dustin town|Incorporated Place|A|Hughes County
+OK|40|22275|Dwight Mission CDP|Census Designated Place|S|Sequoyah County
+OK|40|22350|Eagletown CDP|Census Designated Place|S|McCurtain County
+OK|40|22400|Eakly town|Incorporated Place|A|Caddo County
+OK|40|22500|Earlsboro town|Incorporated Place|A|Pottawatomie County
+OK|40|22550|East Duke town|Incorporated Place|A|Jackson County
+OK|40|23200|Edmond city|Incorporated Place|A|Oklahoma County
+OK|40|23300|Eldon CDP|Census Designated Place|S|Cherokee County
+OK|40|23350|Eldorado town|Incorporated Place|A|Jackson County
+OK|40|23450|Elgin city|Incorporated Place|A|Comanche County
+OK|40|23500|Elk City city|Incorporated Place|A|Beckham County
+OK|40|23550|Elmer town|Incorporated Place|A|Jackson County
+OK|40|23575|Elm Grove CDP|Census Designated Place|S|Adair County
+OK|40|23600|Elmore City town|Incorporated Place|A|Garvin County
+OK|40|23700|El Reno city|Incorporated Place|A|Canadian County
+OK|40|23900|Empire City town|Incorporated Place|A|Stephens County
+OK|40|23950|Enid city|Incorporated Place|A|Garfield County
+OK|40|24200|Erick city|Incorporated Place|A|Beckham County
+OK|40|24300|Erin Springs town|Incorporated Place|I|Garvin County
+OK|40|24460|Etowah town|Incorporated Place|A|Cleveland County
+OK|40|24650|Eufaula city|Incorporated Place|A|McIntosh County
+OK|40|24762|Evening Shade CDP|Census Designated Place|S|Sequoyah County
+OK|40|24850|Fairfax town|Incorporated Place|A|Osage County
+OK|40|24875|Fairfield CDP|Census Designated Place|S|Adair County
+OK|40|24900|Fairland town|Incorporated Place|A|Ottawa County
+OK|40|24950|Fairmont town|Incorporated Place|A|Garfield County
+OK|40|25000|Fair Oaks town|Incorporated Place|A|Rogers County, Wagoner County
+OK|40|25100|Fairview city|Incorporated Place|A|Major County
+OK|40|25250|Fallis town|Incorporated Place|A|Lincoln County
+OK|40|25400|Fanshawe town|Incorporated Place|A|Latimer County, Le Flore County
+OK|40|25450|Fargo town|Incorporated Place|A|Ellis County
+OK|40|25650|Faxon town|Incorporated Place|A|Comanche County
+OK|40|25850|Felt CDP|Census Designated Place|S|Cimarron County
+OK|40|26250|Fitzhugh town|Incorporated Place|A|Pontotoc County
+OK|40|26350|Fletcher town|Incorporated Place|A|Comanche County
+OK|40|26415|Flint Creek CDP|Census Designated Place|S|Delaware County
+OK|40|26525|Flute Springs CDP|Census Designated Place|S|Sequoyah County
+OK|40|26750|Foraker town|Incorporated Place|A|Osage County
+OK|40|26850|Forest Park town|Incorporated Place|A|Oklahoma County
+OK|40|26900|Forgan town|Incorporated Place|A|Beaver County
+OK|40|27100|Fort Cobb town|Incorporated Place|A|Caddo County
+OK|40|27150|Fort Coffee town|Incorporated Place|A|Le Flore County
+OK|40|27200|Fort Gibson town|Incorporated Place|A|Cherokee County, Muskogee County
+OK|40|27350|Fort Supply town|Incorporated Place|A|Woodward County
+OK|40|27400|Fort Towson town|Incorporated Place|A|Choctaw County
+OK|40|27450|Foss town|Incorporated Place|A|Washita County
+OK|40|27500|Foster town|Incorporated Place|A|Garvin County
+OK|40|27600|Foyil town|Incorporated Place|A|Rogers County
+OK|40|27650|Francis town|Incorporated Place|A|Pontotoc County
+OK|40|27800|Frederick city|Incorporated Place|A|Tillman County
+OK|40|27850|Freedom town|Incorporated Place|A|Woods County
+OK|40|27900|Friendship town|Incorporated Place|A|Jackson County
+OK|40|28250|Gage town|Incorporated Place|A|Ellis County
+OK|40|28350|Gans town|Incorporated Place|A|Sequoyah County
+OK|40|28500|Garber city|Incorporated Place|A|Garfield County
+OK|40|28700|Garvin town|Incorporated Place|A|McCurtain County
+OK|40|28800|Gate town|Incorporated Place|A|Beaver County
+OK|40|28900|Geary city|Incorporated Place|A|Blaine County, Canadian County
+OK|40|28950|Gene Autry town|Incorporated Place|A|Carter County
+OK|40|29100|Geronimo town|Incorporated Place|A|Comanche County
+OK|40|29150|Gerty town|Incorporated Place|A|Hughes County
+OK|40|29300|Gideon CDP|Census Designated Place|S|Cherokee County
+OK|40|29400|Glencoe town|Incorporated Place|A|Payne County
+OK|40|29600|Glenpool city|Incorporated Place|A|Tulsa County
+OK|40|29850|Goldsby town|Incorporated Place|A|McClain County
+OK|40|29900|Goltry town|Incorporated Place|A|Alfalfa County
+OK|40|30200|Goodwell town|Incorporated Place|A|Texas County
+OK|40|30300|Gore town|Incorporated Place|A|Sequoyah County
+OK|40|30350|Gotebo town|Incorporated Place|A|Kiowa County
+OK|40|30400|Gould town|Incorporated Place|A|Harmon County
+OK|40|30600|Gracemont town|Incorporated Place|A|Caddo County
+OK|40|30750|Grainola town|Incorporated Place|A|Osage County
+OK|40|30850|Grandfield city|Incorporated Place|A|Tillman County
+OK|40|30900|Grand Lake Towne town|Incorporated Place|A|Mayes County
+OK|40|30915|Grandview CDP|Census Designated Place|S|Cherokee County
+OK|40|30950|Granite town|Incorporated Place|A|Greer County
+OK|40|31000|Grant CDP|Census Designated Place|S|Choctaw County
+OK|40|31150|Grayson town|Incorporated Place|A|Okmulgee County
+OK|40|31165|Greasy CDP|Census Designated Place|S|Adair County
+OK|40|31250|Greenfield town|Incorporated Place|A|Blaine County
+OK|40|31425|Gregory CDP|Census Designated Place|S|Rogers County
+OK|40|31600|Grove city|Incorporated Place|A|Delaware County
+OK|40|31700|Guthrie city|Incorporated Place|A|Logan County
+OK|40|31750|Guymon city|Incorporated Place|A|Texas County
+OK|40|31900|Haileyville city|Incorporated Place|A|Pittsburg County
+OK|40|32050|Hallett town|Incorporated Place|A|Pawnee County
+OK|40|32250|Hammon town|Incorporated Place|A|Custer County, Roger Mills County
+OK|40|32350|Hanna town|Incorporated Place|A|McIntosh County
+OK|40|32550|Hardesty town|Incorporated Place|A|Texas County
+OK|40|32750|Harrah city|Incorporated Place|A|Oklahoma County
+OK|40|32850|Hartshorne city|Incorporated Place|A|Pittsburg County
+OK|40|32900|Haskell town|Incorporated Place|A|Muskogee County
+OK|40|33000|Hastings town|Incorporated Place|A|Jefferson County
+OK|40|33150|Haworth town|Incorporated Place|A|McCurtain County
+OK|40|33300|Headrick town|Incorporated Place|A|Jackson County
+OK|40|33350|Healdton city|Incorporated Place|A|Carter County
+OK|40|33400|Heavener city|Incorporated Place|A|Le Flore County
+OK|40|33450|Helena town|Incorporated Place|A|Alfalfa County
+OK|40|33600|Hendrix town|Incorporated Place|A|Bryan County
+OK|40|33700|Hennessey town|Incorporated Place|A|Kingfisher County
+OK|40|33750|Henryetta city|Incorporated Place|A|Okmulgee County
+OK|40|34150|Hickory town|Incorporated Place|A|Murray County
+OK|40|34650|Hillsdale town|Incorporated Place|A|Garfield County
+OK|40|34750|Hinton town|Incorporated Place|A|Caddo County
+OK|40|34850|Hitchcock town|Incorporated Place|A|Blaine County
+OK|40|34900|Hitchita town|Incorporated Place|A|McIntosh County
+OK|40|35000|Hobart city|Incorporated Place|A|Kiowa County
+OK|40|35300|Hoffman town|Incorporated Place|A|Okmulgee County
+OK|40|35400|Holdenville city|Incorporated Place|A|Hughes County
+OK|40|35500|Hollis city|Incorporated Place|A|Harmon County
+OK|40|35550|Hollister town|Incorporated Place|A|Tillman County
+OK|40|35850|Hominy city|Incorporated Place|A|Osage County
+OK|40|36000|Hooker city|Incorporated Place|A|Texas County
+OK|40|36020|Hoot Owl town|Incorporated Place|A|Mayes County
+OK|40|36090|Horntown town|Incorporated Place|A|Hughes County
+OK|40|36150|Howe town|Incorporated Place|A|Le Flore County
+OK|40|36300|Hugo city|Incorporated Place|A|Choctaw County
+OK|40|36400|Hulbert town|Incorporated Place|A|Cherokee County
+OK|40|36600|Hunter town|Incorporated Place|A|Garfield County
+OK|40|36700|Hydro town|Incorporated Place|A|Blaine County, Caddo County
+OK|40|36750|Idabel city|Incorporated Place|A|McCurtain County
+OK|40|36850|Indiahoma town|Incorporated Place|A|Comanche County
+OK|40|36945|Indianola CDP|Census Designated Place|S|Delaware County
+OK|40|36950|Indianola town|Incorporated Place|A|Pittsburg County
+OK|40|37100|Inola town|Incorporated Place|A|Rogers County
+OK|40|37275|Iron Post CDP|Census Designated Place|S|Mayes County
+OK|40|37350|Isabella CDP|Census Designated Place|S|Major County
+OK|40|37410|IXL town|Incorporated Place|A|Okfuskee County
+OK|40|37650|Jay city|Incorporated Place|A|Delaware County
+OK|40|37750|Jefferson town|Incorporated Place|A|Grant County
+OK|40|37800|Jenks city|Incorporated Place|A|Tulsa County
+OK|40|37850|Jennings town|Incorporated Place|A|Pawnee County
+OK|40|38000|Jet town|Incorporated Place|A|Alfalfa County
+OK|40|38200|Johnson town|Incorporated Place|A|Pottawatomie County
+OK|40|38350|Jones town|Incorporated Place|A|Oklahoma County
+OK|40|38475|Justice CDP|Census Designated Place|S|Rogers County
+OK|40|38600|Kansas town|Incorporated Place|A|Delaware County
+OK|40|38700|Katie town|Incorporated Place|A|Garvin County
+OK|40|38800|Kaw City city|Incorporated Place|A|Kay County
+OK|40|39000|Kellyville town|Incorporated Place|A|Creek County
+OK|40|39050|Kemp town|Incorporated Place|A|Bryan County
+OK|40|39150|Kendrick town|Incorporated Place|A|Lincoln County
+OK|40|39200|Kenefic town|Incorporated Place|A|Bryan County
+OK|40|39400|Kenton CDP|Census Designated Place|S|Cimarron County
+OK|40|39450|Kenwood CDP|Census Designated Place|S|Delaware County, Mayes County
+OK|40|39500|Keota town|Incorporated Place|A|Haskell County
+OK|40|39550|Ketchum town|Incorporated Place|A|Craig County, Delaware County, Mayes County
+OK|40|39600|Keyes town|Incorporated Place|A|Cimarron County
+OK|40|39625|Keys CDP|Census Designated Place|S|Cherokee County
+OK|40|39750|Kiefer town|Incorporated Place|A|Creek County
+OK|40|39800|Kildare town|Incorporated Place|A|Kay County
+OK|40|39850|Kingfisher city|Incorporated Place|A|Kingfisher County
+OK|40|39900|Kingston town|Incorporated Place|A|Marshall County
+OK|40|39950|Kinta town|Incorporated Place|A|Haskell County
+OK|40|40000|Kiowa town|Incorporated Place|A|Pittsburg County
+OK|40|40100|Knowles town|Incorporated Place|A|Beaver County
+OK|40|40200|Konawa city|Incorporated Place|A|Seminole County
+OK|40|40300|Krebs city|Incorporated Place|A|Pittsburg County
+OK|40|40400|Kremlin town|Incorporated Place|A|Garfield County
+OK|40|40700|Lahoma town|Incorporated Place|A|Garfield County
+OK|40|40800|Lake Aluma town|Incorporated Place|A|Oklahoma County
+OK|40|41250|Lamar town|Incorporated Place|A|Hughes County
+OK|40|41300|Lambert town|Incorporated Place|A|Alfalfa County
+OK|40|41350|Lamont town|Incorporated Place|A|Grant County
+OK|40|41400|Lane CDP|Census Designated Place|S|Atoka County
+OK|40|41500|Langley town|Incorporated Place|A|Craig County, Mayes County
+OK|40|41550|Langston town|Incorporated Place|A|Logan County
+OK|40|41700|Laverne town|Incorporated Place|A|Harper County
+OK|40|41760|Lawrence Creek town|Incorporated Place|A|Creek County
+OK|40|41850|Lawton city|Incorporated Place|A|Comanche County
+OK|40|41900|Leach CDP|Census Designated Place|S|Delaware County
+OK|40|41950|Lebanon CDP|Census Designated Place|S|Marshall County
+OK|40|42050|Leedey town|Incorporated Place|A|Dewey County
+OK|40|42150|Le Flore town|Incorporated Place|A|Le Flore County
+OK|40|42200|Lehigh city|Incorporated Place|A|Coal County
+OK|40|42300|Lenapah town|Incorporated Place|A|Nowata County
+OK|40|42450|Leon town|Incorporated Place|A|Love County
+OK|40|42700|Lexington city|Incorporated Place|A|Cleveland County
+OK|40|42855|Liberty CDP|Census Designated Place|S|Sequoyah County
+OK|40|42860|Liberty town|Incorporated Place|A|Okmulgee County, Tulsa County
+OK|40|43000|Lima town|Incorporated Place|A|Seminole County
+OK|40|43057|Limestone CDP|Census Designated Place|S|Rogers County
+OK|40|43150|Lindsay city|Incorporated Place|A|Garvin County
+OK|40|43450|Loco town|Incorporated Place|A|Stephens County
+OK|40|43500|Locust Grove town|Incorporated Place|A|Mayes County
+OK|40|43750|Lone Grove city|Incorporated Place|A|Carter County
+OK|40|43850|Lone Wolf town|Incorporated Place|A|Kiowa County
+OK|40|43900|Long CDP|Census Designated Place|S|Sequoyah County
+OK|40|43950|Longdale town|Incorporated Place|A|Blaine County
+OK|40|43975|Longtown CDP|Census Designated Place|S|Pittsburg County
+OK|40|44000|Lookeba town|Incorporated Place|A|Caddo County
+OK|40|44075|Lost City CDP|Census Designated Place|S|Cherokee County
+OK|40|44100|Lotsee town|Incorporated Place|A|Tulsa County
+OK|40|44150|Loveland town|Incorporated Place|A|Tillman County
+OK|40|44300|Loyal town|Incorporated Place|A|Kingfisher County
+OK|40|44350|Lucien CDP|Census Designated Place|S|Noble County
+OK|40|44500|Luther town|Incorporated Place|A|Oklahoma County
+OK|40|44775|Lyons Switch CDP|Census Designated Place|S|Adair County
+OK|40|44800|McAlester city|Incorporated Place|A|Pittsburg County
+OK|40|44925|McCord CDP|Census Designated Place|S|Osage County
+OK|40|44950|McCurtain town|Incorporated Place|A|Haskell County
+OK|40|45350|McLoud town|Incorporated Place|A|Pottawatomie County
+OK|40|45500|Macomb town|Incorporated Place|A|Pottawatomie County
+OK|40|45750|Madill city|Incorporated Place|A|Marshall County
+OK|40|46000|Manchester town|Incorporated Place|A|Grant County
+OK|40|46050|Mangum city|Incorporated Place|A|Greer County
+OK|40|46150|Manitou town|Incorporated Place|A|Tillman County
+OK|40|46200|Mannford town|Incorporated Place|A|Creek County, Pawnee County, Tulsa County
+OK|40|46300|Mannsville town|Incorporated Place|A|Johnston County
+OK|40|46400|Maramec town|Incorporated Place|A|Pawnee County
+OK|40|46450|Marble City town|Incorporated Place|A|Sequoyah County
+OK|40|46488|Marietta CDP|Census Designated Place|S|Adair County
+OK|40|46500|Marietta city|Incorporated Place|A|Love County
+OK|40|46550|Marland town|Incorporated Place|A|Noble County
+OK|40|46600|Marlow city|Incorporated Place|A|Stephens County
+OK|40|46650|Marshall town|Incorporated Place|A|Logan County
+OK|40|46700|Martha town|Incorporated Place|A|Jackson County
+OK|40|46900|Maud city|Incorporated Place|A|Pottawatomie County, Seminole County
+OK|40|47000|May town|Incorporated Place|A|Harper County
+OK|40|47150|Maysville town|Incorporated Place|A|Garvin County, McClain County
+OK|40|47200|Mazie CDP|Census Designated Place|S|Mayes County
+OK|40|47250|Mead town|Incorporated Place|A|Bryan County
+OK|40|47300|Medford city|Incorporated Place|A|Grant County
+OK|40|47350|Medicine Park town|Incorporated Place|A|Comanche County
+OK|40|47450|Meeker town|Incorporated Place|A|Lincoln County
+OK|40|47750|Meno town|Incorporated Place|A|Major County
+OK|40|47800|Meridian town|Incorporated Place|A|Logan County
+OK|40|47810|Meridian CDP|Census Designated Place|S|Stephens County
+OK|40|48000|Miami city|Incorporated Place|A|Ottawa County
+OK|40|48350|Midwest City city|Incorporated Place|A|Oklahoma County
+OK|40|48400|Milburn town|Incorporated Place|A|Johnston County
+OK|40|48500|Mill Creek town|Incorporated Place|A|Johnston County
+OK|40|48600|Millerton town|Incorporated Place|A|McCurtain County
+OK|40|48750|Minco city|Incorporated Place|A|Grady County
+OK|40|49000|Moffett town|Incorporated Place|A|Sequoyah County
+OK|40|49200|Moore city|Incorporated Place|A|Cleveland County
+OK|40|49250|Mooreland town|Incorporated Place|A|Woodward County
+OK|40|49400|Morris city|Incorporated Place|A|Okmulgee County
+OK|40|49450|Morrison town|Incorporated Place|A|Noble County
+OK|40|49550|Mounds town|Incorporated Place|A|Creek County
+OK|40|49600|Mountain Park town|Incorporated Place|A|Kiowa County
+OK|40|49650|Mountain View town|Incorporated Place|A|Kiowa County
+OK|40|49825|Mulberry CDP|Census Designated Place|S|Adair County
+OK|40|49850|Muldrow town|Incorporated Place|A|Sequoyah County
+OK|40|49900|Mulhall town|Incorporated Place|A|Logan County, Payne County
+OK|40|49950|Murphy CDP|Census Designated Place|S|Mayes County
+OK|40|50050|Muskogee city|Incorporated Place|A|Muskogee County
+OK|40|50100|Mustang city|Incorporated Place|A|Canadian County
+OK|40|50150|Mutual town|Incorporated Place|A|Woodward County
+OK|40|50200|Narcissa CDP|Census Designated Place|S|Ottawa County
+OK|40|50250|Nardin CDP|Census Designated Place|S|Kay County
+OK|40|50300|Nash town|Incorporated Place|A|Grant County
+OK|40|50975|Nescatunga CDP|Census Designated Place|S|Alfalfa County
+OK|40|51050|New Alluwe town|Incorporated Place|A|Nowata County
+OK|40|51150|Newcastle city|Incorporated Place|A|McClain County
+OK|40|51250|New Cordell city|Incorporated Place|A|Washita County
+OK|40|51275|New Eucha CDP|Census Designated Place|S|Delaware County
+OK|40|51300|Newkirk city|Incorporated Place|A|Kay County
+OK|40|51750|New Woodville town|Incorporated Place|I|Marshall County
+OK|40|51800|Nichols Hills city|Incorporated Place|A|Oklahoma County
+OK|40|51850|Nicoma Park city|Incorporated Place|A|Oklahoma County
+OK|40|51900|Nicut CDP|Census Designated Place|S|Sequoyah County
+OK|40|52100|Ninnekah town|Incorporated Place|A|Grady County
+OK|40|52150|Noble city|Incorporated Place|A|Cleveland County
+OK|40|52450|Norge town|Incorporated Place|A|Grady County
+OK|40|52500|Norman city|Incorporated Place|A|Cleveland County
+OK|40|52600|North Enid town|Incorporated Place|A|Garfield County
+OK|40|52700|North Miami town|Incorporated Place|A|Ottawa County
+OK|40|52862|Notchietown CDP|Census Designated Place|S|Sequoyah County
+OK|40|52900|Nowata city|Incorporated Place|A|Nowata County
+OK|40|53210|Oak Grove town|Incorporated Place|I|Pawnee County
+OK|40|53350|Oakhurst CDP|Census Designated Place|S|Creek County, Tulsa County
+OK|40|53400|Oakland town|Incorporated Place|A|Marshall County
+OK|40|53550|Oaks town|Incorporated Place|A|Cherokee County, Delaware County
+OK|40|53600|Oakwood town|Incorporated Place|A|Dewey County
+OK|40|53700|Ochelata town|Incorporated Place|A|Washington County
+OK|40|54000|Oilton city|Incorporated Place|A|Creek County
+OK|40|54050|Okarche town|Incorporated Place|A|Canadian County, Kingfisher County
+OK|40|54100|Okay town|Incorporated Place|A|Wagoner County
+OK|40|54150|Okeene town|Incorporated Place|A|Blaine County
+OK|40|54200|Okemah city|Incorporated Place|A|Okfuskee County
+OK|40|55000|Oklahoma City city|Incorporated Place|A|Canadian County, Cleveland County, Oklahoma County, Pottawatomie County
+OK|40|55150|Okmulgee city|Incorporated Place|A|Okmulgee County
+OK|40|55200|Oktaha town|Incorporated Place|A|Muskogee County
+OK|40|55275|Old Eucha CDP|Census Designated Place|S|Delaware County
+OK|40|55285|Old Green CDP|Census Designated Place|S|Adair County
+OK|40|55450|Olustee town|Incorporated Place|A|Jackson County
+OK|40|55750|Oologah town|Incorporated Place|A|Rogers County
+OK|40|55850|Optima town|Incorporated Place|A|Texas County
+OK|40|56050|Orlando town|Incorporated Place|A|Logan County, Payne County
+OK|40|56150|Osage town|Incorporated Place|A|Osage County
+OK|40|56650|Owasso city|Incorporated Place|A|Rogers County, Tulsa County
+OK|40|56800|Paden town|Incorporated Place|A|Okfuskee County
+OK|40|56900|Panama town|Incorporated Place|A|Le Flore County
+OK|40|57100|Paoli town|Incorporated Place|A|Garvin County
+OK|40|57150|Paradise Hill town|Incorporated Place|A|Sequoyah County
+OK|40|57300|Park Hill CDP|Census Designated Place|S|Cherokee County
+OK|40|57550|Pauls Valley city|Incorporated Place|A|Garvin County
+OK|40|57600|Pawhuska city|Incorporated Place|A|Osage County
+OK|40|57650|Pawnee city|Incorporated Place|A|Pawnee County
+OK|40|57875|Peavine CDP|Census Designated Place|S|Adair County
+OK|40|57950|Peggs CDP|Census Designated Place|S|Cherokee County
+OK|40|58050|Pensacola town|Incorporated Place|A|Mayes County
+OK|40|58100|Peoria town|Incorporated Place|A|Ottawa County
+OK|40|58150|Perkins city|Incorporated Place|A|Payne County
+OK|40|58250|Perry city|Incorporated Place|A|Noble County
+OK|40|58400|Pettit CDP|Census Designated Place|S|Cherokee County
+OK|40|58500|Phillips town|Incorporated Place|A|Coal County
+OK|40|58550|Picher city|Incorporated Place|A|Ottawa County
+OK|40|58700|Piedmont city|Incorporated Place|A|Canadian County, Kingfisher County
+OK|40|59100|Piney CDP|Census Designated Place|S|Adair County
+OK|40|59125|Pinhook Corner CDP|Census Designated Place|S|Sequoyah County
+OK|40|59150|Pink town|Incorporated Place|A|Pottawatomie County
+OK|40|59175|Pin Oak Acres CDP|Census Designated Place|S|Mayes County
+OK|40|59350|Pittsburg town|Incorporated Place|A|Pittsburg County
+OK|40|59700|Pocasset town|Incorporated Place|A|Grady County
+OK|40|59750|Pocola town|Incorporated Place|A|Le Flore County
+OK|40|59850|Ponca City city|Incorporated Place|A|Kay County
+OK|40|59950|Pond Creek city|Incorporated Place|A|Grant County
+OK|40|60150|Porter town|Incorporated Place|A|Wagoner County
+OK|40|60250|Porum town|Incorporated Place|A|Muskogee County
+OK|40|60350|Poteau city|Incorporated Place|A|Le Flore County
+OK|40|60500|Prague city|Incorporated Place|A|Lincoln County
+OK|40|60750|Proctor CDP|Census Designated Place|S|Adair County
+OK|40|60850|Prue town|Incorporated Place|A|Osage County
+OK|40|61000|Pryor Creek city|Incorporated Place|A|Mayes County
+OK|40|61020|Pump Back CDP|Census Designated Place|S|Mayes County
+OK|40|61150|Purcell city|Incorporated Place|A|Cleveland County, McClain County
+OK|40|61250|Putnam town|Incorporated Place|A|Dewey County
+OK|40|61400|Quapaw town|Incorporated Place|A|Ottawa County
+OK|40|61550|Quinton town|Incorporated Place|A|Pittsburg County
+OK|40|61650|Ralston town|Incorporated Place|A|Pawnee County
+OK|40|61700|Ramona town|Incorporated Place|A|Washington County
+OK|40|61850|Randlett town|Incorporated Place|A|Cotton County
+OK|40|61900|Ratliff City town|Incorporated Place|A|Carter County
+OK|40|61950|Rattan town|Incorporated Place|A|Pushmataha County
+OK|40|62000|Ravia town|Incorporated Place|A|Johnston County
+OK|40|62200|Redbird town|Incorporated Place|A|Wagoner County
+OK|40|62275|Redbird Smith CDP|Census Designated Place|S|Sequoyah County
+OK|40|62550|Red Oak town|Incorporated Place|A|Latimer County
+OK|40|62650|Red Rock town|Incorporated Place|A|Noble County
+OK|40|62875|Remy CDP|Census Designated Place|S|Sequoyah County
+OK|40|62900|Renfrow town|Incorporated Place|A|Grant County
+OK|40|62950|Rentiesville town|Incorporated Place|A|McIntosh County
+OK|40|63100|Reydon town|Incorporated Place|A|Roger Mills County
+OK|40|63350|Ringling town|Incorporated Place|A|Jefferson County
+OK|40|63450|Ringwood town|Incorporated Place|A|Major County
+OK|40|63500|Ripley town|Incorporated Place|A|Payne County
+OK|40|63537|River Bottom CDP|Census Designated Place|S|Muskogee County
+OK|40|63600|Rock Island town|Incorporated Place|A|Le Flore County
+OK|40|63700|Rocky town|Incorporated Place|A|Washita County
+OK|40|63715|Rocky Ford CDP|Census Designated Place|S|Delaware County
+OK|40|63720|Rocky Mountain CDP|Census Designated Place|S|Adair County
+OK|40|63750|Roff town|Incorporated Place|A|Pontotoc County
+OK|40|63800|Roland town|Incorporated Place|A|Sequoyah County
+OK|40|63900|Roosevelt town|Incorporated Place|A|Kiowa County
+OK|40|63950|Rose CDP|Census Designated Place|S|Mayes County
+OK|40|64000|Rosedale town|Incorporated Place|A|McClain County
+OK|40|64050|Rosston town|Incorporated Place|A|Harper County
+OK|40|64300|Rush Springs town|Incorporated Place|A|Grady County
+OK|40|64600|Ryan town|Incorporated Place|A|Jefferson County
+OK|40|64850|St. Louis town|Incorporated Place|A|Pottawatomie County
+OK|40|64875|Salem CDP|Census Designated Place|S|Adair County
+OK|40|64950|Salina town|Incorporated Place|A|Mayes County
+OK|40|65000|Sallisaw city|Incorporated Place|A|Sequoyah County
+OK|40|65062|Sams Corner CDP|Census Designated Place|S|Mayes County
+OK|40|65240|Sand Hill CDP|Census Designated Place|S|Muskogee County
+OK|40|65300|Sand Springs city|Incorporated Place|A|Osage County, Tulsa County
+OK|40|65400|Sapulpa city|Incorporated Place|A|Creek County, Tulsa County
+OK|40|65500|Sasakwa town|Incorporated Place|A|Seminole County
+OK|40|65600|Savanna town|Incorporated Place|A|Pittsburg County
+OK|40|65650|Sawyer town|Incorporated Place|A|Choctaw County
+OK|40|65700|Sayre city|Incorporated Place|A|Beckham County
+OK|40|65900|Schulter town|Incorporated Place|A|Okmulgee County
+OK|40|66050|Scraper CDP|Census Designated Place|S|Cherokee County
+OK|40|66250|Seiling city|Incorporated Place|A|Dewey County
+OK|40|66350|Seminole city|Incorporated Place|A|Seminole County
+OK|40|66400|Sentinel town|Incorporated Place|A|Washita County
+OK|40|66450|Sequoyah CDP|Census Designated Place|S|Rogers County
+OK|40|66510|Shady Grove CDP|Census Designated Place|S|Cherokee County
+OK|40|66520|Shady Grove CDP|Census Designated Place|S|McIntosh County
+OK|40|66540|Shady Grove town|Incorporated Place|A|Pawnee County
+OK|40|66550|Shady Point town|Incorporated Place|A|Le Flore County
+OK|40|66600|Shamrock town|Incorporated Place|A|Creek County
+OK|40|66650|Sharon town|Incorporated Place|A|Woodward County
+OK|40|66750|Shattuck town|Incorporated Place|A|Ellis County
+OK|40|66800|Shawnee city|Incorporated Place|A|Pottawatomie County
+OK|40|67200|Shidler city|Incorporated Place|A|Osage County
+OK|40|67400|Short CDP|Census Designated Place|S|Sequoyah County
+OK|40|67550|Silo town|Incorporated Place|A|Bryan County
+OK|40|67625|Simms CDP|Census Designated Place|S|Muskogee County
+OK|40|67800|Skedee town|Incorporated Place|A|Pawnee County
+OK|40|67850|Skiatook town|Incorporated Place|A|Osage County, Tulsa County
+OK|40|67950|Slaughterville town|Incorporated Place|A|Cleveland County
+OK|40|68000|Slick town|Incorporated Place|A|Creek County
+OK|40|68200|Smith Village town|Incorporated Place|A|Oklahoma County
+OK|40|68250|Smithville town|Incorporated Place|I|McCurtain County
+OK|40|68275|Snake Creek CDP|Census Designated Place|S|Mayes County
+OK|40|68400|Snyder city|Incorporated Place|A|Kiowa County
+OK|40|68500|Soper town|Incorporated Place|A|Choctaw County
+OK|40|68537|Sour John CDP|Census Designated Place|S|Muskogee County
+OK|40|68600|South Coffeyville town|Incorporated Place|A|Nowata County
+OK|40|68950|Sparks town|Incorporated Place|A|Lincoln County
+OK|40|69000|Spaulding town|Incorporated Place|A|Hughes County
+OK|40|69050|Spavinaw town|Incorporated Place|A|Mayes County
+OK|40|69200|Spencer city|Incorporated Place|A|Oklahoma County
+OK|40|69300|Sperry town|Incorporated Place|A|Osage County, Tulsa County
+OK|40|69350|Spiro town|Incorporated Place|A|Le Flore County
+OK|40|69400|Sportsmen Acres town|Incorporated Place|A|Mayes County
+OK|40|69500|Springer town|Incorporated Place|A|Carter County
+OK|40|70037|Steely Hollow CDP|Census Designated Place|S|Cherokee County
+OK|40|70150|Sterling town|Incorporated Place|A|Comanche County
+OK|40|70200|Stidham town|Incorporated Place|A|McIntosh County
+OK|40|70250|Stigler city|Incorporated Place|A|Haskell County
+OK|40|70300|Stillwater city|Incorporated Place|A|Payne County
+OK|40|70350|Stilwell city|Incorporated Place|A|Adair County
+OK|40|70500|Stonewall town|Incorporated Place|A|Pontotoc County
+OK|40|70512|Stoney Point CDP|Census Designated Place|S|Sequoyah County
+OK|40|70750|Strang town|Incorporated Place|A|Mayes County
+OK|40|70800|Stratford town|Incorporated Place|A|Garvin County
+OK|40|70850|Stringtown town|Incorporated Place|A|Atoka County
+OK|40|70950|Strong City town|Incorporated Place|A|Roger Mills County
+OK|40|71000|Stroud city|Incorporated Place|A|Creek County, Lincoln County
+OK|40|71050|Stuart town|Incorporated Place|A|Hughes County
+OK|40|71250|Sugden town|Incorporated Place|A|Jefferson County
+OK|40|71350|Sulphur city|Incorporated Place|A|Murray County
+OK|40|71450|Summit town|Incorporated Place|A|Muskogee County
+OK|40|71900|Sweetwater town|Incorporated Place|A|Beckham County, Roger Mills County
+OK|40|71950|Swink CDP|Census Designated Place|S|Choctaw County
+OK|40|71965|Sycamore CDP|Census Designated Place|S|Delaware County
+OK|40|72050|Taft town|Incorporated Place|A|Muskogee County
+OK|40|72075|Tagg Flats CDP|Census Designated Place|S|Delaware County
+OK|40|72100|Tahlequah city|Incorporated Place|A|Cherokee County
+OK|40|72200|Talala town|Incorporated Place|A|Rogers County
+OK|40|72250|Talihina town|Incorporated Place|A|Le Flore County
+OK|40|72350|Taloga town|Incorporated Place|A|Dewey County
+OK|40|72400|Tamaha town|Incorporated Place|A|Haskell County
+OK|40|72500|Tatums town|Incorporated Place|A|Carter County
+OK|40|72650|Tecumseh city|Incorporated Place|A|Pottawatomie County
+OK|40|72750|Temple town|Incorporated Place|A|Cotton County
+OK|40|72775|Tenkiller CDP|Census Designated Place|S|Cherokee County
+OK|40|72800|Teresita CDP|Census Designated Place|S|Cherokee County
+OK|40|72850|Terlton town|Incorporated Place|A|Pawnee County
+OK|40|72900|Terral town|Incorporated Place|A|Jefferson County
+OK|40|72950|Texanna CDP|Census Designated Place|S|McIntosh County
+OK|40|73100|Texhoma town|Incorporated Place|A|Texas County
+OK|40|73150|Texola town|Incorporated Place|A|Beckham County
+OK|40|73200|Thackerville town|Incorporated Place|A|Love County
+OK|40|73250|The Village city|Incorporated Place|A|Oklahoma County
+OK|40|73450|Thomas city|Incorporated Place|A|Custer County
+OK|40|73600|Tiawah CDP|Census Designated Place|S|Rogers County
+OK|40|73850|Tipton town|Incorporated Place|A|Tillman County
+OK|40|73900|Tishomingo city|Incorporated Place|A|Johnston County
+OK|40|73950|Titanic CDP|Census Designated Place|S|Adair County
+OK|40|74150|Tonkawa city|Incorporated Place|A|Kay County
+OK|40|74400|Tribbey town|Incorporated Place|A|Pottawatomie County
+OK|40|74550|Tryon town|Incorporated Place|A|Lincoln County
+OK|40|74650|Tullahassee town|Incorporated Place|A|Wagoner County
+OK|40|75000|Tulsa city|Incorporated Place|A|Osage County, Rogers County, Tulsa County, Wagoner County
+OK|40|75050|Tupelo city|Incorporated Place|A|Coal County
+OK|40|75150|Turley CDP|Census Designated Place|S|Tulsa County
+OK|40|75200|Turpin CDP|Census Designated Place|S|Beaver County
+OK|40|75250|Tushka town|Incorporated Place|A|Atoka County
+OK|40|75300|Tuskahoma CDP|Census Designated Place|S|Pushmataha County
+OK|40|75450|Tuttle city|Incorporated Place|A|Grady County
+OK|40|75600|Twin Oaks CDP|Census Designated Place|S|Delaware County
+OK|40|75750|Tyrone town|Incorporated Place|A|Texas County
+OK|40|75950|Union City town|Incorporated Place|A|Canadian County
+OK|40|76500|Valley Brook town|Incorporated Place|A|Oklahoma County
+OK|40|76600|Valley Park town|Incorporated Place|A|Rogers County
+OK|40|76650|Valliant town|Incorporated Place|A|McCurtain County
+OK|40|76900|Velma town|Incorporated Place|A|Stephens County
+OK|40|76950|Vera town|Incorporated Place|A|Washington County
+OK|40|77000|Verden town|Incorporated Place|A|Grady County
+OK|40|77050|Verdigris town|Incorporated Place|A|Rogers County
+OK|40|77250|Vian town|Incorporated Place|A|Sequoyah County
+OK|40|77300|Vici town|Incorporated Place|A|Dewey County
+OK|40|77550|Vinita city|Incorporated Place|A|Craig County
+OK|40|77850|Wagoner city|Incorporated Place|A|Wagoner County
+OK|40|77900|Wainwright town|Incorporated Place|A|Muskogee County
+OK|40|77950|Wakita town|Incorporated Place|A|Grant County
+OK|40|78150|Walters city|Incorporated Place|A|Cotton County
+OK|40|78200|Wanette town|Incorporated Place|A|Pottawatomie County
+OK|40|78250|Wann town|Incorporated Place|A|Nowata County
+OK|40|78300|Wapanucka town|Incorporated Place|A|Johnston County
+OK|40|78400|Warner town|Incorporated Place|A|Muskogee County
+OK|40|78500|Warr Acres city|Incorporated Place|A|Oklahoma County
+OK|40|78650|Warwick town|Incorporated Place|A|Lincoln County
+OK|40|78700|Washington town|Incorporated Place|A|McClain County
+OK|40|78950|Watonga city|Incorporated Place|A|Blaine County
+OK|40|79100|Watts town|Incorporated Place|A|Adair County
+OK|40|79150|Wauhillau CDP|Census Designated Place|S|Adair County
+OK|40|79200|Waukomis town|Incorporated Place|A|Garfield County
+OK|40|79250|Waurika city|Incorporated Place|A|Jefferson County
+OK|40|79300|Wayne town|Incorporated Place|A|McClain County
+OK|40|79350|Waynoka city|Incorporated Place|A|Woods County
+OK|40|79450|Weatherford city|Incorporated Place|A|Custer County
+OK|40|79600|Webb City town|Incorporated Place|A|Osage County
+OK|40|79650|Webbers Falls town|Incorporated Place|A|Muskogee County
+OK|40|79750|Welch town|Incorporated Place|A|Craig County
+OK|40|79800|Weleetka town|Incorporated Place|A|Okfuskee County
+OK|40|79850|Welling CDP|Census Designated Place|S|Cherokee County
+OK|40|79900|Wellston town|Incorporated Place|A|Lincoln County
+OK|40|80230|West Peavine CDP|Census Designated Place|S|Adair County
+OK|40|80250|Westport town|Incorporated Place|A|Pawnee County
+OK|40|80350|West Siloam Springs town|Incorporated Place|A|Delaware County
+OK|40|80450|Westville town|Incorporated Place|A|Adair County
+OK|40|80500|Wetumka city|Incorporated Place|A|Hughes County
+OK|40|80550|Wewoka city|Incorporated Place|A|Seminole County
+OK|40|80800|Whitefield town|Incorporated Place|A|Haskell County
+OK|40|80850|White Oak CDP|Census Designated Place|S|Craig County
+OK|40|80900|Whitesboro CDP|Census Designated Place|S|Le Flore County
+OK|40|80912|White Water CDP|Census Designated Place|S|Delaware County
+OK|40|80975|Wickliffe CDP|Census Designated Place|S|Mayes County
+OK|40|81000|Wilburton city|Incorporated Place|A|Latimer County
+OK|40|81300|Willow town|Incorporated Place|A|Greer County
+OK|40|81500|Wilson city|Incorporated Place|A|Carter County
+OK|40|81575|Winchester town|Incorporated Place|A|Okmulgee County
+OK|40|81750|Wister town|Incorporated Place|A|Le Flore County
+OK|40|81912|Woodall CDP|Census Designated Place|S|Cherokee County
+OK|40|82000|Woodlawn Park town|Incorporated Place|A|Oklahoma County
+OK|40|82150|Woodward city|Incorporated Place|A|Woodward County
+OK|40|82200|Wright City town|Incorporated Place|A|McCurtain County
+OK|40|82250|Wyandotte town|Incorporated Place|A|Ottawa County
+OK|40|82400|Wynnewood city|Incorporated Place|A|Garvin County
+OK|40|82450|Wynona town|Incorporated Place|A|Osage County
+OK|40|82500|Yale city|Incorporated Place|A|Payne County
+OK|40|82650|Yeager town|Incorporated Place|A|Hughes County
+OK|40|82950|Yukon city|Incorporated Place|A|Canadian County
+OK|40|83030|Zeb CDP|Census Designated Place|S|Cherokee County
+OK|40|83050|Zena CDP|Census Designated Place|S|Delaware County
+OK|40|83125|Zion CDP|Census Designated Place|S|Adair County

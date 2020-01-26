@@ -1,0 +1,681 @@
+IN|18|00140|Aberdeen CDP|Census Designated Place|S|Porter County
+IN|18|00640|Advance town|Incorporated Place|A|Boone County
+IN|18|00748|Akron town|Incorporated Place|A|Fulton County
+IN|18|00784|Alamo town|Incorporated Place|A|Montgomery County
+IN|18|00802|Albany town|Incorporated Place|A|Delaware County, Randolph County
+IN|18|00820|Albion town|Incorporated Place|A|Noble County
+IN|18|00910|Alexandria city|Incorporated Place|A|Madison County
+IN|18|00964|Alfordsville town|Incorporated Place|A|Daviess County
+IN|18|01270|Alton town|Incorporated Place|A|Crawford County
+IN|18|01288|Altona town|Incorporated Place|A|DeKalb County
+IN|18|01342|Ambia town|Incorporated Place|A|Benton County
+IN|18|01360|Amboy town|Incorporated Place|A|Miami County
+IN|18|01396|Americus CDP|Census Designated Place|S|Tippecanoe County
+IN|18|01450|Amo town|Incorporated Place|A|Hendricks County
+IN|18|01468|Anderson city|Incorporated Place|A|Madison County
+IN|18|01612|Andrews town|Incorporated Place|A|Huntington County
+IN|18|01666|Angola city|Incorporated Place|A|Steuben County
+IN|18|01954|Arcadia town|Incorporated Place|A|Hamilton County
+IN|18|02044|Argos town|Incorporated Place|A|Marshall County
+IN|18|02116|Arlington CDP|Census Designated Place|S|Rush County
+IN|18|02458|Ashley town|Incorporated Place|A|DeKalb County, Steuben County
+IN|18|02602|Atlanta town|Incorporated Place|A|Hamilton County
+IN|18|02620|Attica city|Incorporated Place|A|Fountain County
+IN|18|02674|Auburn city|Incorporated Place|A|DeKalb County
+IN|18|02782|Aurora city|Incorporated Place|A|Dearborn County
+IN|18|02800|Austin city|Incorporated Place|A|Scott County
+IN|18|02872|Avilla town|Incorporated Place|A|Noble County
+IN|18|02890|Avoca CDP|Census Designated Place|S|Lawrence County
+IN|18|02908|Avon town|Incorporated Place|A|Hendricks County
+IN|18|03142|Bainbridge town|Incorporated Place|A|Putnam County
+IN|18|03394|Bargersville town|Incorporated Place|A|Johnson County
+IN|18|03610|Bass Lake CDP|Census Designated Place|S|Starke County
+IN|18|03664|Batesville city|Incorporated Place|A|Franklin County, Ripley County
+IN|18|03718|Battle Ground town|Incorporated Place|A|Tippecanoe County
+IN|18|04114|Bedford city|Incorporated Place|A|Lawrence County
+IN|18|04204|Beech Grove city|Incorporated Place|A|Marion County
+IN|18|04888|Berne city|Incorporated Place|A|Adams County
+IN|18|04978|Bethany town|Incorporated Place|A|Morgan County
+IN|18|05158|Beverly Shores town|Incorporated Place|A|Porter County
+IN|18|05176|Bicknell city|Incorporated Place|A|Knox County
+IN|18|05374|Birdseye town|Incorporated Place|A|Dubois County
+IN|18|05662|Blanford CDP|Census Designated Place|S|Vermillion County
+IN|18|05716|Bloomfield town|Incorporated Place|A|Greene County
+IN|18|05788|Bloomingdale town|Incorporated Place|A|Parke County
+IN|18|05860|Bloomington city|Incorporated Place|A|Monroe County
+IN|18|05896|Blountsville town|Incorporated Place|A|Henry County
+IN|18|06220|Bluffton city|Incorporated Place|A|Wells County
+IN|18|06616|Boonville city|Incorporated Place|A|Warrick County
+IN|18|06634|Borden town|Incorporated Place|A|Clark County
+IN|18|06652|Boston town|Incorporated Place|A|Wayne County
+IN|18|06706|Boswell town|Incorporated Place|A|Benton County
+IN|18|06760|Bourbon town|Incorporated Place|A|Marshall County
+IN|18|07174|Brazil city|Incorporated Place|A|Clay County
+IN|18|07318|Bremen town|Incorporated Place|A|Marshall County
+IN|18|07624|Bright CDP|Census Designated Place|S|Dearborn County
+IN|18|07750|Bristol town|Incorporated Place|A|Elkhart County
+IN|18|07966|Brook town|Incorporated Place|A|Newton County
+IN|18|08038|Brooklyn town|Incorporated Place|A|Morgan County
+IN|18|08092|Brooksburg town|Incorporated Place|A|Jefferson County
+IN|18|08146|Brookston town|Incorporated Place|A|White County
+IN|18|08182|Brookville town|Incorporated Place|A|Franklin County
+IN|18|08416|Brownsburg town|Incorporated Place|A|Hendricks County
+IN|18|08470|Brownstown town|Incorporated Place|A|Jackson County
+IN|18|08578|Bruceville town|Incorporated Place|A|Knox County
+IN|18|08704|Bryant town|Incorporated Place|A|Jay County
+IN|18|08812|Buck Creek CDP|Census Designated Place|S|Tippecanoe County
+IN|18|08992|Buffalo CDP|Census Designated Place|S|White County
+IN|18|09136|Bunker Hill town|Incorporated Place|A|Miami County
+IN|18|09226|Burket town|Incorporated Place|A|Kosciusko County
+IN|18|09244|Burlington town|Incorporated Place|A|Carroll County
+IN|18|09316|Burnettsville town|Incorporated Place|A|White County
+IN|18|09352|Burns City CDP|Census Designated Place|S|Martin County
+IN|18|09370|Burns Harbor town|Incorporated Place|A|Porter County
+IN|18|09532|Butler city|Incorporated Place|A|DeKalb County
+IN|18|09622|Butlerville CDP|Census Designated Place|S|Jennings County
+IN|18|09712|Cadiz town|Incorporated Place|A|Henry County
+IN|18|09874|Cambridge City town|Incorporated Place|A|Wayne County
+IN|18|09910|Camden town|Incorporated Place|A|Carroll County
+IN|18|10000|Campbellsburg town|Incorporated Place|A|Washington County
+IN|18|10036|Canaan CDP|Census Designated Place|S|Jefferson County
+IN|18|10090|Cannelburg town|Incorporated Place|A|Daviess County
+IN|18|10108|Cannelton city|Incorporated Place|A|Perry County
+IN|18|10198|Carbon town|Incorporated Place|A|Clay County
+IN|18|10270|Carlisle town|Incorporated Place|A|Sullivan County
+IN|18|10342|Carmel city|Incorporated Place|A|Hamilton County
+IN|18|10612|Carthage town|Incorporated Place|A|Rush County
+IN|18|10954|Cayuga town|Incorporated Place|A|Vermillion County
+IN|18|11044|Cedar Grove town|Incorporated Place|A|Franklin County
+IN|18|11062|Cedar Lake town|Incorporated Place|A|Lake County
+IN|18|11746|Center Point town|Incorporated Place|A|Clay County
+IN|18|11836|Centerville town|Incorporated Place|A|Wayne County
+IN|18|11944|Chalmers town|Incorporated Place|A|White County
+IN|18|12034|Chandler town|Incorporated Place|A|Warrick County
+IN|18|12124|Charlestown city|Incorporated Place|A|Clark County
+IN|18|12376|Chesterfield town|Incorporated Place|A|Delaware County, Madison County
+IN|18|12412|Chesterton town|Incorporated Place|A|Porter County
+IN|18|12574|Chrisney town|Incorporated Place|A|Spencer County
+IN|18|12610|Churubusco town|Incorporated Place|A|Whitley County
+IN|18|12628|Cicero town|Incorporated Place|A|Hamilton County
+IN|18|12880|Clarksburg CDP|Census Designated Place|S|Decatur County
+IN|18|12898|Clarks Hill town|Incorporated Place|A|Tippecanoe County
+IN|18|12934|Clarksville town|Incorporated Place|A|Clark County
+IN|18|13276|Clay City town|Incorporated Place|A|Clay County
+IN|18|13312|Claypool town|Incorporated Place|A|Kosciusko County
+IN|18|13366|Clayton town|Incorporated Place|A|Hendricks County
+IN|18|13438|Clear Lake town|Incorporated Place|A|Steuben County
+IN|18|13492|Clermont town|Incorporated Place|A|Marion County
+IN|18|13582|Clifford town|Incorporated Place|A|Bartholomew County
+IN|18|13780|Clinton city|Incorporated Place|A|Vermillion County
+IN|18|13852|Cloverdale town|Incorporated Place|A|Putnam County
+IN|18|14032|Coalmont CDP|Census Designated Place|S|Clay County
+IN|18|14050|Coatesville town|Incorporated Place|A|Hendricks County
+IN|18|14176|Colburn CDP|Census Designated Place|S|Tippecanoe County
+IN|18|14284|Colfax town|Incorporated Place|A|Clinton County
+IN|18|14464|Collegeville CDP|Census Designated Place|S|Jasper County
+IN|18|14716|Columbia City city|Incorporated Place|A|Whitley County
+IN|18|14734|Columbus city|Incorporated Place|A|Bartholomew County
+IN|18|14932|Connersville city|Incorporated Place|A|Fayette County
+IN|18|14986|Converse town|Incorporated Place|A|Grant County, Miami County
+IN|18|15115|Cordry Sweetwater Lakes CDP|Census Designated Place|S|Brown County
+IN|18|15220|Corunna town|Incorporated Place|A|DeKalb County
+IN|18|15256|Corydon town|Incorporated Place|A|Harrison County
+IN|18|15364|Country Club Heights town|Incorporated Place|A|Madison County
+IN|18|15409|Country Squire Lakes CDP|Census Designated Place|S|Jennings County
+IN|18|15490|Covington city|Incorporated Place|A|Fountain County
+IN|18|15634|Crandall town|Incorporated Place|A|Harrison County
+IN|18|15652|Crane town|Incorporated Place|A|Martin County
+IN|18|15742|Crawfordsville city|Incorporated Place|A|Montgomery County
+IN|18|15994|Cromwell town|Incorporated Place|A|Noble County
+IN|18|16084|Crothersville town|Incorporated Place|A|Jackson County
+IN|18|16138|Crown Point city|Incorporated Place|A|Lake County
+IN|18|16156|Crows Nest town|Incorporated Place|A|Marion County
+IN|18|16300|Culver town|Incorporated Place|A|Marshall County
+IN|18|16336|Cumberland town|Incorporated Place|A|Hancock County, Marion County
+IN|18|16534|Cynthiana town|Incorporated Place|A|Posey County
+IN|18|16624|Dale town|Incorporated Place|A|Spencer County
+IN|18|16642|Daleville town|Incorporated Place|A|Delaware County
+IN|18|16732|Dana town|Incorporated Place|A|Vermillion County
+IN|18|16804|Danville town|Incorporated Place|A|Hendricks County
+IN|18|16840|Darlington town|Incorporated Place|A|Montgomery County
+IN|18|16858|Darmstadt town|Incorporated Place|A|Vanderburgh County
+IN|18|17002|Dayton town|Incorporated Place|A|Tippecanoe County
+IN|18|17074|Decatur city|Incorporated Place|A|Adams County
+IN|18|17110|Decker town|Incorporated Place|A|Knox County
+IN|18|17614|Delphi city|Incorporated Place|A|Carroll County
+IN|18|17722|De Motte town|Incorporated Place|A|Jasper County
+IN|18|17776|Denver town|Incorporated Place|A|Miami County
+IN|18|17812|Deputy CDP|Census Designated Place|S|Jefferson County
+IN|18|18190|Dillsboro town|Incorporated Place|A|Dearborn County
+IN|18|18550|Dover Hill CDP|Census Designated Place|S|Martin County
+IN|18|18658|Dresser CDP|Census Designated Place|S|Vigo County
+IN|18|18766|Dublin town|Incorporated Place|A|Wayne County
+IN|18|18784|Dubois CDP|Census Designated Place|S|Dubois County
+IN|18|18892|Dugger town|Incorporated Place|A|Sullivan County
+IN|18|18982|Dune Acres town|Incorporated Place|A|Porter County
+IN|18|19054|Dunkirk city|Incorporated Place|A|Blackford County, Jay County
+IN|18|19072|Dunlap CDP|Census Designated Place|S|Elkhart County
+IN|18|19162|Dunreith town|Incorporated Place|A|Henry County
+IN|18|19180|Dupont town|Incorporated Place|A|Jefferson County
+IN|18|19270|Dyer town|Incorporated Place|A|Lake County
+IN|18|19450|Earl Park town|Incorporated Place|A|Benton County
+IN|18|19486|East Chicago city|Incorporated Place|A|Lake County
+IN|18|19576|East Enterprise CDP|Census Designated Place|S|Switzerland County
+IN|18|19756|East Germantown town|Incorporated Place|A|Wayne County
+IN|18|20080|Eaton town|Incorporated Place|A|Delaware County
+IN|18|20152|Economy town|Incorporated Place|A|Wayne County
+IN|18|20332|Edgewood town|Incorporated Place|A|Madison County
+IN|18|20404|Edinburgh town|Incorporated Place|A|Bartholomew County, Johnson County, Shelby County
+IN|18|20458|Edwardsport town|Incorporated Place|A|Knox County
+IN|18|20638|Elberfeld town|Incorporated Place|A|Warrick County
+IN|18|20674|Elizabeth town|Incorporated Place|A|Harrison County
+IN|18|20692|Elizabethtown town|Incorporated Place|A|Bartholomew County
+IN|18|20728|Elkhart city|Incorporated Place|A|Elkhart County
+IN|18|20800|Ellettsville town|Incorporated Place|A|Monroe County
+IN|18|20998|Elnora town|Incorporated Place|A|Daviess County
+IN|18|21070|Elwood city|Incorporated Place|A|Madison County, Tipton County
+IN|18|21124|Emison CDP|Census Designated Place|S|Knox County
+IN|18|21214|English town|Incorporated Place|A|Crawford County
+IN|18|21502|Etna Green town|Incorporated Place|A|Kosciusko County
+IN|18|22000|Evansville city|Incorporated Place|A|Vanderburgh County
+IN|18|22396|Fairland town|Incorporated Place|A|Shelby County
+IN|18|22432|Fairmount town|Incorporated Place|A|Grant County
+IN|18|22576|Fairview Park town|Incorporated Place|A|Vermillion County
+IN|18|22738|Farmersburg town|Incorporated Place|A|Sullivan County
+IN|18|22792|Farmland town|Incorporated Place|A|Randolph County
+IN|18|22990|Ferdinand town|Incorporated Place|A|Dubois County
+IN|18|23188|Fillmore town|Incorporated Place|A|Putnam County
+IN|18|23278|Fishers town|Incorporated Place|A|Hamilton County
+IN|18|23386|Fish Lake CDP|Census Designated Place|S|LaPorte County
+IN|18|23692|Flora town|Incorporated Place|A|Carroll County
+IN|18|23728|Florence CDP|Census Designated Place|S|Switzerland County
+IN|18|23854|Fontanet CDP|Census Designated Place|S|Vigo County
+IN|18|24250|Fort Branch town|Incorporated Place|A|Gibson County
+IN|18|24286|Fortville town|Incorporated Place|A|Hamilton County, Hancock County
+IN|18|25000|Fort Wayne city|Incorporated Place|A|Allen County
+IN|18|25090|Fountain City town|Incorporated Place|A|Wayne County
+IN|18|25180|Fowler town|Incorporated Place|A|Benton County
+IN|18|25198|Fowlerton town|Incorporated Place|A|Grant County
+IN|18|25288|Francesville town|Incorporated Place|A|Pulaski County
+IN|18|25306|Francisco town|Incorporated Place|A|Gibson County
+IN|18|25324|Frankfort city|Incorporated Place|A|Clinton County
+IN|18|25450|Franklin city|Incorporated Place|A|Johnson County
+IN|18|25702|Frankton town|Incorporated Place|A|Madison County
+IN|18|25720|Fredericksburg town|Incorporated Place|A|Washington County
+IN|18|25810|Freelandville CDP|Census Designated Place|S|Knox County
+IN|18|25864|Freetown CDP|Census Designated Place|S|Jackson County
+IN|18|25882|Fremont town|Incorporated Place|A|Steuben County
+IN|18|25972|French Lick town|Incorporated Place|A|Orange County
+IN|18|26152|Fulton town|Incorporated Place|A|Fulton County
+IN|18|26206|Galena CDP|Census Designated Place|S|Floyd County
+IN|18|26242|Galveston town|Incorporated Place|A|Cass County
+IN|18|26386|Garrett city|Incorporated Place|A|DeKalb County
+IN|18|27000|Gary city|Incorporated Place|A|Lake County
+IN|18|27054|Gas City city|Incorporated Place|A|Grant County
+IN|18|27072|Gaston town|Incorporated Place|A|Delaware County
+IN|18|27216|Geneva town|Incorporated Place|A|Adams County
+IN|18|27270|Gentryville town|Incorporated Place|A|Spencer County
+IN|18|27324|Georgetown town|Incorporated Place|A|Floyd County
+IN|18|28062|Glenwood town|Incorporated Place|A|Fayette County, Rush County
+IN|18|28332|Goodland town|Incorporated Place|A|Newton County
+IN|18|28386|Goshen city|Incorporated Place|A|Elkhart County
+IN|18|28440|Gosport town|Incorporated Place|A|Owen County
+IN|18|28494|Grabill town|Incorporated Place|A|Allen County
+IN|18|28692|Grandview town|Incorporated Place|A|Spencer County
+IN|18|28800|Granger CDP|Census Designated Place|S|St. Joseph County
+IN|18|29358|Greencastle city|Incorporated Place|A|Putnam County
+IN|18|29448|Greendale city|Incorporated Place|A|Dearborn County
+IN|18|29520|Greenfield city|Incorporated Place|A|Hancock County
+IN|18|29682|Greensboro town|Incorporated Place|A|Henry County
+IN|18|29718|Greensburg city|Incorporated Place|A|Decatur County
+IN|18|29754|Greens Fork town|Incorporated Place|A|Wayne County
+IN|18|29772|Greentown town|Incorporated Place|A|Howard County
+IN|18|29844|Greenville town|Incorporated Place|A|Floyd County
+IN|18|29898|Greenwood city|Incorporated Place|A|Johnson County
+IN|18|30024|Griffin town|Incorporated Place|A|Posey County
+IN|18|30042|Griffith town|Incorporated Place|A|Lake County
+IN|18|30060|Grissom AFB CDP|Census Designated Place|S|Cass County, Miami County
+IN|18|30402|Hagerstown town|Incorporated Place|A|Wayne County
+IN|18|30594|Hamilton town|Incorporated Place|A|DeKalb County, Steuben County
+IN|18|30708|Hamlet town|Incorporated Place|A|Starke County
+IN|18|31000|Hammond city|Incorporated Place|A|Lake County
+IN|18|31180|Hanna CDP|Census Designated Place|S|LaPorte County
+IN|18|31216|Hanover town|Incorporated Place|A|Jefferson County
+IN|18|31396|Hardinsburg town|Incorporated Place|A|Washington County
+IN|18|31432|Harlan CDP|Census Designated Place|S|Allen County
+IN|18|31486|Harmony town|Incorporated Place|A|Clay County
+IN|18|32170|Harrodsburg CDP|Census Designated Place|S|Monroe County
+IN|18|32242|Hartford City city|Incorporated Place|A|Blackford County
+IN|18|32332|Hartsville town|Incorporated Place|A|Bartholomew County
+IN|18|32494|Hatfield CDP|Census Designated Place|S|Spencer County
+IN|18|32512|Haubstadt town|Incorporated Place|A|Gibson County
+IN|18|32584|Hayden CDP|Census Designated Place|S|Jennings County
+IN|18|32728|Hazleton town|Incorporated Place|A|Gibson County
+IN|18|32818|Hebron town|Incorporated Place|A|Porter County
+IN|18|33142|Henryville CDP|Census Designated Place|S|Clark County
+IN|18|33178|Herbst CDP|Census Designated Place|S|Grant County
+IN|18|33187|Heritage Lake CDP|Census Designated Place|S|Putnam County
+IN|18|33392|Hidden Valley CDP|Census Designated Place|S|Dearborn County
+IN|18|33466|Highland town|Incorporated Place|A|Lake County
+IN|18|33484|Highland CDP|Census Designated Place|S|Vanderburgh County
+IN|18|33862|Hillsboro town|Incorporated Place|A|Fountain County
+IN|18|34096|Hoagland CDP|Census Designated Place|S|Allen County
+IN|18|34114|Hobart city|Incorporated Place|A|Lake County
+IN|18|34294|Holland town|Incorporated Place|A|Dubois County
+IN|18|34366|Holton town|Incorporated Place|A|Ripley County
+IN|18|34420|Homecroft town|Incorporated Place|A|Marion County
+IN|18|34744|Hope town|Incorporated Place|A|Bartholomew County
+IN|18|34978|Howe CDP|Census Designated Place|S|LaGrange County
+IN|18|35086|Hudson town|Incorporated Place|A|Steuben County
+IN|18|35104|Hudson Lake CDP|Census Designated Place|S|LaPorte County
+IN|18|35266|Huntertown town|Incorporated Place|A|Allen County
+IN|18|35284|Huntingburg city|Incorporated Place|A|Dubois County
+IN|18|35302|Huntington city|Incorporated Place|A|Huntington County
+IN|18|35500|Hymera town|Incorporated Place|A|Sullivan County
+IN|18|35536|Idaville CDP|Census Designated Place|S|White County
+IN|18|36003|Indianapolis city (balance)|Incorporated Place|F|Marion County
+IN|18|36144|Indian Heights CDP|Census Designated Place|S|Howard County
+IN|18|36306|Indian Village town|Incorporated Place|A|St. Joseph County
+IN|18|36342|Ingalls town|Incorporated Place|A|Madison County
+IN|18|37674|Jalapa CDP|Census Designated Place|S|Grant County
+IN|18|37692|Jamestown town|Incorporated Place|A|Boone County, Hendricks County
+IN|18|37764|Jasonville city|Incorporated Place|A|Greene County
+IN|18|37782|Jasper city|Incorporated Place|A|Dubois County
+IN|18|38358|Jeffersonville city|Incorporated Place|A|Clark County
+IN|18|38862|Jonesboro city|Incorporated Place|A|Grant County
+IN|18|38916|Jonesville town|Incorporated Place|A|Bartholomew County
+IN|18|39366|Kempton town|Incorporated Place|A|Tipton County
+IN|18|39402|Kendallville city|Incorporated Place|A|Noble County
+IN|18|39438|Kennard town|Incorporated Place|A|Henry County
+IN|18|39510|Kent CDP|Census Designated Place|S|Jefferson County
+IN|18|39546|Kentland town|Incorporated Place|A|Newton County
+IN|18|39618|Kewanna town|Incorporated Place|A|Fulton County
+IN|18|39744|Kimmell CDP|Census Designated Place|S|Noble County
+IN|18|39798|Kingman town|Incorporated Place|A|Fountain County
+IN|18|39816|Kingsbury town|Incorporated Place|A|LaPorte County
+IN|18|39852|Kingsford Heights town|Incorporated Place|A|LaPorte County
+IN|18|39942|Kirklin town|Incorporated Place|A|Clinton County
+IN|18|40266|Knightstown town|Incorporated Place|A|Henry County
+IN|18|40302|Knightsville town|Incorporated Place|A|Clay County
+IN|18|40374|Knox city|Incorporated Place|A|Starke County
+IN|18|40392|Kokomo city|Incorporated Place|A|Howard County
+IN|18|40464|Koontz Lake CDP|Census Designated Place|S|Marshall County, Starke County
+IN|18|40518|Kouts town|Incorporated Place|A|Porter County
+IN|18|40644|Laconia town|Incorporated Place|A|Harrison County
+IN|18|40662|La Crosse town|Incorporated Place|A|LaPorte County
+IN|18|40698|Ladoga town|Incorporated Place|A|Montgomery County
+IN|18|40788|Lafayette city|Incorporated Place|A|Tippecanoe County
+IN|18|40842|La Fontaine town|Incorporated Place|A|Wabash County
+IN|18|40860|Lagrange town|Incorporated Place|A|LaGrange County
+IN|18|40896|Lagro town|Incorporated Place|A|Wabash County
+IN|18|41058|Lake Dalecarlia CDP|Census Designated Place|S|Lake County
+IN|18|41211|Lake Holiday CDP|Census Designated Place|S|Montgomery County
+IN|18|41444|Lake Santee CDP|Census Designated Place|S|Decatur County, Franklin County
+IN|18|41530|Lakes of the Four Seasons CDP|Census Designated Place|S|Lake County, Porter County
+IN|18|41535|Lake Station city|Incorporated Place|A|Lake County
+IN|18|41562|Laketon CDP|Census Designated Place|S|Wabash County
+IN|18|41652|Lake Village CDP|Census Designated Place|S|Newton County
+IN|18|41670|Lakeville town|Incorporated Place|A|St. Joseph County
+IN|18|41994|Landess CDP|Census Designated Place|S|Grant County
+IN|18|42048|Lanesville town|Incorporated Place|A|Harrison County
+IN|18|42192|La Paz town|Incorporated Place|A|Marshall County
+IN|18|42228|Lapel town|Incorporated Place|A|Madison County
+IN|18|42246|La Porte city|Incorporated Place|A|LaPorte County
+IN|18|42282|Larwill town|Incorporated Place|A|Whitley County
+IN|18|42372|Laurel town|Incorporated Place|A|Franklin County
+IN|18|42426|Lawrence city|Incorporated Place|A|Marion County
+IN|18|42462|Lawrenceburg city|Incorporated Place|A|Dearborn County
+IN|18|42606|Leavenworth town|Incorporated Place|A|Crawford County
+IN|18|42624|Lebanon city|Incorporated Place|A|Boone County
+IN|18|42678|Leesburg town|Incorporated Place|A|Kosciusko County
+IN|18|42861|Leo-Cedarville town|Incorporated Place|A|Allen County
+IN|18|43074|Lewisville town|Incorporated Place|A|Henry County
+IN|18|43434|Liberty town|Incorporated Place|A|Union County
+IN|18|43686|Ligonier city|Incorporated Place|A|Noble County
+IN|18|44082|Linden town|Incorporated Place|A|Montgomery County
+IN|18|44190|Linton city|Incorporated Place|A|Greene County
+IN|18|44370|Little York town|Incorporated Place|A|Washington County
+IN|18|44424|Livonia town|Incorporated Place|A|Washington County
+IN|18|44442|Lizton town|Incorporated Place|A|Hendricks County
+IN|18|44658|Logansport city|Incorporated Place|A|Cass County
+IN|18|44784|Long Beach town|Incorporated Place|A|LaPorte County
+IN|18|44910|Loogootee city|Incorporated Place|A|Martin County
+IN|18|45000|Losantville town|Incorporated Place|A|Randolph County
+IN|18|45144|Lowell town|Incorporated Place|A|Lake County
+IN|18|45468|Lynn town|Incorporated Place|A|Randolph County
+IN|18|45486|Lynnville town|Incorporated Place|A|Warrick County
+IN|18|45504|Lyons town|Incorporated Place|A|Greene County
+IN|18|45648|McCordsville town|Incorporated Place|A|Hancock County
+IN|18|45774|Mackey town|Incorporated Place|A|Gibson County
+IN|18|45864|Macy town|Incorporated Place|A|Miami County
+IN|18|45990|Madison city|Incorporated Place|A|Jefferson County
+IN|18|46422|Manilla CDP|Census Designated Place|S|Rush County
+IN|18|46746|Marengo town|Incorporated Place|A|Crawford County
+IN|18|46908|Marion city|Incorporated Place|A|Grant County
+IN|18|47160|Markle town|Incorporated Place|A|Huntington County, Wells County
+IN|18|47178|Markleville town|Incorporated Place|A|Madison County
+IN|18|47322|Marshall town|Incorporated Place|A|Parke County
+IN|18|47448|Martinsville city|Incorporated Place|A|Morgan County
+IN|18|47592|Matthews town|Incorporated Place|A|Grant County
+IN|18|47628|Mauckport town|Incorporated Place|A|Harrison County
+IN|18|48132|Mecca town|Incorporated Place|A|Parke County
+IN|18|48186|Medaryville town|Incorporated Place|A|Pulaski County
+IN|18|48240|Medora town|Incorporated Place|A|Jackson County
+IN|18|48294|Mellott town|Incorporated Place|A|Fountain County
+IN|18|48330|Melody Hill CDP|Census Designated Place|S|Vanderburgh County
+IN|18|48384|Memphis CDP|Census Designated Place|S|Clark County
+IN|18|48402|Mentone town|Incorporated Place|A|Kosciusko County
+IN|18|48456|Meridian Hills town|Incorporated Place|A|Marion County
+IN|18|48474|Merom town|Incorporated Place|A|Sullivan County
+IN|18|48528|Merrillville town|Incorporated Place|A|Lake County
+IN|18|48563|Metamora CDP|Census Designated Place|S|Franklin County
+IN|18|48636|Mexico CDP|Census Designated Place|S|Miami County
+IN|18|48744|Michiana Shores town|Incorporated Place|A|LaPorte County
+IN|18|48798|Michigan City city|Incorporated Place|A|LaPorte County
+IN|18|48816|Michigantown town|Incorporated Place|A|Clinton County
+IN|18|48924|Middlebury town|Incorporated Place|A|Elkhart County
+IN|18|49014|Middletown town|Incorporated Place|A|Henry County
+IN|18|49212|Mier CDP|Census Designated Place|S|Grant County
+IN|18|49266|Milan town|Incorporated Place|A|Ripley County
+IN|18|49320|Milford town|Incorporated Place|A|Kosciusko County
+IN|18|49536|Millersburg town|Incorporated Place|A|Elkhart County
+IN|18|49662|Millhousen town|Incorporated Place|A|Decatur County
+IN|18|49716|Milltown town|Incorporated Place|A|Crawford County, Harrison County
+IN|18|49806|Milroy CDP|Census Designated Place|S|Rush County
+IN|18|49860|Milton town|Incorporated Place|A|Wayne County
+IN|18|49932|Mishawaka city|Incorporated Place|A|St. Joseph County
+IN|18|49950|Mitchell city|Incorporated Place|A|Lawrence County
+IN|18|50058|Modoc town|Incorporated Place|A|Randolph County
+IN|18|50148|Monon town|Incorporated Place|A|White County
+IN|18|50202|Monroe town|Incorporated Place|A|Adams County
+IN|18|50526|Monroe City town|Incorporated Place|A|Knox County
+IN|18|50562|Monroeville town|Incorporated Place|A|Allen County
+IN|18|50580|Monrovia town|Incorporated Place|A|Morgan County
+IN|18|50616|Monterey town|Incorporated Place|A|Pulaski County
+IN|18|50652|Montezuma town|Incorporated Place|A|Parke County
+IN|18|50688|Montgomery town|Incorporated Place|A|Daviess County
+IN|18|50760|Monticello city|Incorporated Place|A|White County
+IN|18|50778|Montmorenci CDP|Census Designated Place|S|Tippecanoe County
+IN|18|50796|Montpelier city|Incorporated Place|A|Blackford County
+IN|18|50940|Mooreland town|Incorporated Place|A|Henry County
+IN|18|50958|Moores Hill town|Incorporated Place|A|Dearborn County
+IN|18|50976|Mooresville town|Incorporated Place|A|Morgan County
+IN|18|51102|Morgantown town|Incorporated Place|A|Morgan County
+IN|18|51138|Morocco town|Incorporated Place|A|Newton County
+IN|18|51192|Morristown town|Incorporated Place|A|Shelby County
+IN|18|51318|Mount Auburn town|Incorporated Place|A|Wayne County
+IN|18|51336|Mount Ayr town|Incorporated Place|A|Newton County
+IN|18|51354|Mount Carmel town|Incorporated Place|A|Franklin County
+IN|18|51408|Mount Etna town|Incorporated Place|A|Huntington County
+IN|18|51714|Mount Summit town|Incorporated Place|A|Henry County
+IN|18|51732|Mount Vernon city|Incorporated Place|A|Posey County
+IN|18|51840|Mulberry town|Incorporated Place|A|Clinton County
+IN|18|51876|Muncie city|Incorporated Place|A|Delaware County
+IN|18|51912|Munster town|Incorporated Place|A|Lake County
+IN|18|52002|Napoleon town|Incorporated Place|A|Ripley County
+IN|18|52020|Nappanee city|Incorporated Place|A|Elkhart County, Kosciusko County
+IN|18|52038|Nashville town|Incorporated Place|A|Brown County
+IN|18|52326|New Albany city|Incorporated Place|A|Floyd County
+IN|18|52398|New Amsterdam town|Incorporated Place|A|Harrison County
+IN|18|52524|Newberry town|Incorporated Place|A|Greene County
+IN|18|52650|Newburgh town|Incorporated Place|A|Warrick County
+IN|18|52704|New Carlisle town|Incorporated Place|A|St. Joseph County
+IN|18|52740|New Castle city|Incorporated Place|A|Henry County
+IN|18|52776|New Chicago town|Incorporated Place|A|Lake County
+IN|18|52956|New Goshen CDP|Census Designated Place|S|Vigo County
+IN|18|52974|New Harmony town|Incorporated Place|A|Posey County
+IN|18|52992|New Haven city|Incorporated Place|A|Allen County
+IN|18|53262|New Market town|Incorporated Place|A|Montgomery County
+IN|18|53298|New Middletown town|Incorporated Place|A|Harrison County
+IN|18|53352|New Palestine town|Incorporated Place|A|Hancock County
+IN|18|53370|New Paris CDP|Census Designated Place|S|Elkhart County
+IN|18|53388|New Pekin town|Incorporated Place|A|Washington County
+IN|18|53478|New Point town|Incorporated Place|A|Decatur County
+IN|18|53496|Newport town|Incorporated Place|A|Vermillion County
+IN|18|53532|New Richmond town|Incorporated Place|A|Montgomery County
+IN|18|53550|New Ross town|Incorporated Place|A|Montgomery County
+IN|18|53586|New Salisbury CDP|Census Designated Place|S|Harrison County
+IN|18|53694|Newtown town|Incorporated Place|A|Fountain County
+IN|18|53712|New Trenton CDP|Census Designated Place|S|Franklin County
+IN|18|53820|New Washington CDP|Census Designated Place|S|Clark County
+IN|18|53874|New Whiteland town|Incorporated Place|A|Johnson County
+IN|18|54180|Noblesville city|Incorporated Place|A|Hamilton County
+IN|18|54612|North Crows Nest town|Incorporated Place|A|Marion County
+IN|18|54900|North Judson town|Incorporated Place|A|Starke County
+IN|18|54918|North Liberty town|Incorporated Place|A|St. Joseph County
+IN|18|54954|North Manchester town|Incorporated Place|A|Wabash County
+IN|18|55080|North Salem town|Incorporated Place|A|Hendricks County
+IN|18|55098|North Terre Haute CDP|Census Designated Place|S|Vigo County
+IN|18|55116|North Vernon city|Incorporated Place|A|Jennings County
+IN|18|55134|North Webster town|Incorporated Place|A|Kosciusko County
+IN|18|55350|Norway CDP|Census Designated Place|S|White County
+IN|18|55386|Notre Dame CDP|Census Designated Place|S|St. Joseph County
+IN|18|55710|Oakland City city|Incorporated Place|A|Gibson County
+IN|18|55800|Oaktown town|Incorporated Place|A|Knox County
+IN|18|56052|Odon town|Incorporated Place|A|Daviess County
+IN|18|56088|Ogden Dunes town|Incorporated Place|A|Porter County
+IN|18|56286|Oldenburg town|Incorporated Place|A|Franklin County
+IN|18|56664|Onward town|Incorporated Place|A|Cass County
+IN|18|56682|Oolitic town|Incorporated Place|A|Lawrence County
+IN|18|56952|Orestes town|Incorporated Place|A|Madison County
+IN|18|57006|Orland town|Incorporated Place|A|Steuben County
+IN|18|57024|Orleans town|Incorporated Place|A|Orange County
+IN|18|57114|Osceola town|Incorporated Place|A|St. Joseph County
+IN|18|57132|Osgood town|Incorporated Place|A|Ripley County
+IN|18|57168|Ossian town|Incorporated Place|A|Wells County
+IN|18|57258|Otterbein town|Incorporated Place|A|Benton County, Tippecanoe County
+IN|18|57384|Otwell CDP|Census Designated Place|S|Pike County
+IN|18|57510|Owensburg CDP|Census Designated Place|S|Greene County
+IN|18|57528|Owensville town|Incorporated Place|A|Gibson County
+IN|18|57546|Oxford town|Incorporated Place|A|Benton County
+IN|18|57632|Painted Hills CDP|Census Designated Place|S|Morgan County
+IN|18|57726|Palmyra town|Incorporated Place|A|Harrison County
+IN|18|57780|Paoli town|Incorporated Place|A|Orange County
+IN|18|57870|Paragon town|Incorporated Place|A|Morgan County
+IN|18|57978|Parker City town|Incorporated Place|A|Randolph County
+IN|18|58050|Parkers Settlement CDP|Census Designated Place|S|Posey County
+IN|18|58320|Patoka town|Incorporated Place|A|Gibson County
+IN|18|58392|Patriot town|Incorporated Place|A|Switzerland County
+IN|18|58662|Pendleton town|Incorporated Place|A|Madison County
+IN|18|58788|Pennville town|Incorporated Place|A|Jay County
+IN|18|59238|Perrysville town|Incorporated Place|A|Vermillion County
+IN|18|59328|Peru city|Incorporated Place|A|Miami County
+IN|18|59364|Petersburg city|Incorporated Place|A|Pike County
+IN|18|59598|Pierceton town|Incorporated Place|A|Kosciusko County
+IN|18|60084|Pine Village town|Incorporated Place|A|Warren County
+IN|18|60192|Pittsboro town|Incorporated Place|A|Hendricks County
+IN|18|60246|Plainfield town|Incorporated Place|A|Hendricks County
+IN|18|60264|Plainville town|Incorporated Place|A|Daviess County
+IN|18|60822|Plymouth city|Incorporated Place|A|Marshall County
+IN|18|60894|Point Isabel CDP|Census Designated Place|S|Grant County
+IN|18|61020|Poneto town|Incorporated Place|A|Wells County
+IN|18|61092|Portage city|Incorporated Place|A|Porter County
+IN|18|61164|Porter town|Incorporated Place|A|Porter County
+IN|18|61236|Portland city|Incorporated Place|A|Jay County
+IN|18|61416|Poseyville town|Incorporated Place|A|Posey County
+IN|18|61470|Pottawattamie Park town|Incorporated Place|A|LaPorte County
+IN|18|62028|Princes Lakes town|Incorporated Place|A|Johnson County
+IN|18|62046|Princeton city|Incorporated Place|A|Gibson County
+IN|18|62388|Purdue University CDP|Census Designated Place|S|Tippecanoe County
+IN|18|62712|Raglesville CDP|Census Designated Place|S|Daviess County
+IN|18|62730|Ragsdale CDP|Census Designated Place|S|Knox County
+IN|18|63450|Redkey town|Incorporated Place|A|Jay County
+IN|18|63756|Remington town|Incorporated Place|A|Jasper County
+IN|18|63792|Rensselaer city|Incorporated Place|A|Jasper County
+IN|18|63918|Reynolds town|Incorporated Place|A|White County
+IN|18|64206|Richland town|Incorporated Place|A|Spencer County
+IN|18|64260|Richmond city|Incorporated Place|A|Wayne County
+IN|18|64422|Ridgeville town|Incorporated Place|A|Randolph County
+IN|18|64512|Riley town|Incorporated Place|A|Vigo County
+IN|18|64674|Rising Sun city|Incorporated Place|A|Ohio County
+IN|18|64728|River Forest town|Incorporated Place|A|Madison County
+IN|18|64980|Roachdale town|Incorporated Place|A|Putnam County
+IN|18|64998|Roann town|Incorporated Place|A|Wabash County
+IN|18|65016|Roanoke town|Incorporated Place|A|Huntington County
+IN|18|65214|Rochester city|Incorporated Place|A|Fulton County
+IN|18|65484|Rockport city|Incorporated Place|A|Spencer County
+IN|18|65520|Rockville town|Incorporated Place|A|Parke County
+IN|18|65556|Rocky Ripple town|Incorporated Place|A|Marion County
+IN|18|65736|Rolling Prairie CDP|Census Designated Place|S|LaPorte County
+IN|18|65808|Rome City town|Incorporated Place|A|Noble County
+IN|18|65934|Rosedale town|Incorporated Place|A|Parke County
+IN|18|65988|Roseland town|Incorporated Place|A|St. Joseph County
+IN|18|66006|Roselawn CDP|Census Designated Place|S|Jasper County, Newton County
+IN|18|66150|Rossville town|Incorporated Place|A|Clinton County
+IN|18|66222|Royal Center town|Incorporated Place|A|Cass County
+IN|18|66438|Rushville city|Incorporated Place|A|Rush County
+IN|18|66510|Russellville town|Incorporated Place|A|Putnam County
+IN|18|66546|Russiaville town|Incorporated Place|A|Howard County
+IN|18|66762|St. Bernice CDP|Census Designated Place|S|Vermillion County
+IN|18|66834|St. Joe town|Incorporated Place|A|DeKalb County
+IN|18|66852|St. John town|Incorporated Place|A|Lake County
+IN|18|66978|St. Leon town|Incorporated Place|A|Dearborn County
+IN|18|67050|St. Mary of the Woods CDP|Census Designated Place|S|Vigo County
+IN|18|67176|St. Meinrad CDP|Census Designated Place|S|Spencer County
+IN|18|67212|St. Paul town|Incorporated Place|A|Decatur County, Shelby County
+IN|18|67302|Salamonia town|Incorporated Place|A|Jay County
+IN|18|67464|Salem city|Incorporated Place|A|Washington County
+IN|18|67608|Salt Creek Commons CDP|Census Designated Place|S|Porter County
+IN|18|67626|Saltillo town|Incorporated Place|A|Washington County
+IN|18|67698|Sandborn town|Incorporated Place|A|Knox County
+IN|18|68004|San Pierre CDP|Census Designated Place|S|Starke County
+IN|18|68022|Santa Claus town|Incorporated Place|A|Spencer County
+IN|18|68058|Saratoga town|Incorporated Place|A|Randolph County
+IN|18|68220|Schererville town|Incorporated Place|A|Lake County
+IN|18|68238|Schneider town|Incorporated Place|A|Lake County
+IN|18|68328|Scipio CDP|Census Designated Place|S|Jennings County
+IN|18|68382|Scotland CDP|Census Designated Place|S|Greene County
+IN|18|68526|Scottsburg city|Incorporated Place|A|Scott County
+IN|18|68652|Seelyville town|Incorporated Place|A|Vigo County
+IN|18|68670|Sellersburg town|Incorporated Place|A|Clark County
+IN|18|68706|Selma town|Incorporated Place|A|Delaware County
+IN|18|68832|Seymour city|Incorporated Place|A|Jackson County
+IN|18|68868|Shadeland town|Incorporated Place|A|Tippecanoe County
+IN|18|68976|Shamrock Lakes town|Incorporated Place|A|Blackford County
+IN|18|69048|Sharpsville town|Incorporated Place|A|Tipton County
+IN|18|69192|Shelburn town|Incorporated Place|A|Sullivan County
+IN|18|69246|Shelby CDP|Census Designated Place|S|Lake County
+IN|18|69318|Shelbyville city|Incorporated Place|A|Shelby County
+IN|18|69336|Shepardsville CDP|Census Designated Place|S|Vigo County
+IN|18|69354|Sheridan town|Incorporated Place|A|Hamilton County
+IN|18|69480|Shipshewana town|Incorporated Place|A|LaGrange County
+IN|18|69516|Shirley town|Incorporated Place|A|Hancock County, Henry County
+IN|18|69552|Shoals town|Incorporated Place|A|Martin County
+IN|18|69642|Shorewood Forest CDP|Census Designated Place|S|Porter County
+IN|18|69678|Sidney town|Incorporated Place|A|Kosciusko County
+IN|18|69768|Silver Lake town|Incorporated Place|A|Kosciusko County
+IN|18|69840|Simonton Lake CDP|Census Designated Place|S|Elkhart County
+IN|18|69894|Sims CDP|Census Designated Place|S|Grant County
+IN|18|70330|Smithville-Sanders CDP|Census Designated Place|S|Monroe County
+IN|18|70524|Somerset CDP|Census Designated Place|S|Wabash County
+IN|18|70542|Somerville town|Incorporated Place|A|Gibson County
+IN|18|71000|South Bend city|Incorporated Place|A|St. Joseph County
+IN|18|71288|South Haven CDP|Census Designated Place|S|Porter County
+IN|18|71486|Southport city|Incorporated Place|A|Marion County
+IN|18|71612|South Whitley town|Incorporated Place|A|Whitley County
+IN|18|71828|Speedway town|Incorporated Place|A|Marion County
+IN|18|71972|Spencer town|Incorporated Place|A|Owen County
+IN|18|72008|Spiceland town|Incorporated Place|A|Henry County
+IN|18|72206|Spring Grove town|Incorporated Place|A|Wayne County
+IN|18|72232|Spring Hill town|Incorporated Place|A|Marion County
+IN|18|72296|Spring Lake town|Incorporated Place|A|Hancock County
+IN|18|72332|Springport town|Incorporated Place|A|Henry County
+IN|18|72440|Spurgeon town|Incorporated Place|A|Pike County
+IN|18|72638|Star City CDP|Census Designated Place|S|Pulaski County
+IN|18|72764|State Line City town|Incorporated Place|A|Warren County
+IN|18|72782|Staunton town|Incorporated Place|A|Clay County
+IN|18|73178|Stilesville town|Incorporated Place|A|Hendricks County
+IN|18|73232|Stinesville town|Incorporated Place|A|Monroe County
+IN|18|73340|Stockwell CDP|Census Designated Place|S|Tippecanoe County
+IN|18|73664|Straughn town|Incorporated Place|A|Henry County
+IN|18|74006|Sullivan city|Incorporated Place|A|Sullivan County
+IN|18|74060|Sulphur Springs town|Incorporated Place|A|Henry County
+IN|18|74132|Summitville town|Incorporated Place|A|Madison County
+IN|18|74168|Sunman town|Incorporated Place|A|Ripley County
+IN|18|74510|Swayzee town|Incorporated Place|A|Grant County
+IN|18|74546|Sweetser town|Incorporated Place|A|Grant County
+IN|18|74582|Switz City town|Incorporated Place|A|Greene County
+IN|18|74744|Syracuse town|Incorporated Place|A|Kosciusko County
+IN|18|75104|Taylorsville CDP|Census Designated Place|S|Bartholomew County
+IN|18|75176|Tecumseh CDP|Census Designated Place|S|Vigo County
+IN|18|75248|Tell City city|Incorporated Place|A|Perry County
+IN|18|75302|Tennyson town|Incorporated Place|A|Warrick County
+IN|18|75428|Terre Haute city|Incorporated Place|A|Vigo County
+IN|18|75626|Thorntown town|Incorporated Place|A|Boone County
+IN|18|75986|Tipton city|Incorporated Place|A|Tipton County
+IN|18|76022|Toad Hop CDP|Census Designated Place|S|Vigo County
+IN|18|76184|Topeka town|Incorporated Place|A|LaGrange County
+IN|18|76256|Town of Pines town|Incorporated Place|A|Porter County
+IN|18|76310|Trafalgar town|Incorporated Place|A|Johnson County
+IN|18|76328|Trail Creek town|Incorporated Place|A|LaPorte County
+IN|18|76526|Tri-Lakes CDP|Census Designated Place|S|Whitley County
+IN|18|76634|Troy town|Incorporated Place|A|Perry County
+IN|18|77066|Ulen town|Incorporated Place|A|Boone County
+IN|18|77768|Union City city|Incorporated Place|A|Randolph County
+IN|18|77786|Uniondale town|Incorporated Place|A|Wells County
+IN|18|77912|Universal town|Incorporated Place|A|Vermillion County
+IN|18|77966|Upland town|Incorporated Place|A|Grant County
+IN|18|78110|Utica town|Incorporated Place|A|Clark County
+IN|18|78290|Vallonia CDP|Census Designated Place|S|Jackson County
+IN|18|78326|Valparaiso city|Incorporated Place|A|Porter County
+IN|18|78380|Van Bibber Lake CDP|Census Designated Place|S|Putnam County
+IN|18|78470|Van Buren town|Incorporated Place|A|Grant County
+IN|18|78740|Veedersburg town|Incorporated Place|A|Fountain County
+IN|18|78776|Vera Cruz town|Incorporated Place|A|Wells County
+IN|18|78902|Vernon town|Incorporated Place|A|Jennings County
+IN|18|78974|Versailles town|Incorporated Place|A|Ripley County
+IN|18|79010|Vevay town|Incorporated Place|A|Switzerland County
+IN|18|79208|Vincennes city|Incorporated Place|A|Knox County
+IN|18|79370|Wabash city|Incorporated Place|A|Wabash County
+IN|18|79478|Wakarusa town|Incorporated Place|A|Elkhart County
+IN|18|79568|Waldron CDP|Census Designated Place|S|Shelby County
+IN|18|79694|Walkerton town|Incorporated Place|A|St. Joseph County
+IN|18|79730|Wallace town|Incorporated Place|A|Fountain County
+IN|18|79964|Walton town|Incorporated Place|A|Cass County
+IN|18|80018|Wanatah town|Incorporated Place|A|LaPorte County
+IN|18|80108|Warren town|Incorporated Place|A|Huntington County
+IN|18|80234|Warren Park town|Incorporated Place|A|Marion County
+IN|18|80306|Warsaw city|Incorporated Place|A|Kosciusko County
+IN|18|80504|Washington city|Incorporated Place|A|Daviess County
+IN|18|81278|Waterloo town|Incorporated Place|A|DeKalb County
+IN|18|81458|Waveland town|Incorporated Place|A|Montgomery County
+IN|18|82052|Waynetown town|Incorporated Place|A|Montgomery County
+IN|18|82376|West Baden Springs town|Incorporated Place|A|Orange County
+IN|18|82556|West College Corner town|Incorporated Place|A|Union County
+IN|18|82700|Westfield town|Incorporated Place|A|Hamilton County
+IN|18|82790|West Harrison town|Incorporated Place|A|Dearborn County
+IN|18|82862|West Lafayette city|Incorporated Place|A|Tippecanoe County
+IN|18|82934|West Lebanon town|Incorporated Place|A|Warren County
+IN|18|83204|Westphalia CDP|Census Designated Place|S|Knox County
+IN|18|83222|West Point CDP|Census Designated Place|S|Tippecanoe County
+IN|18|83276|Westport town|Incorporated Place|A|Decatur County
+IN|18|83384|West Terre Haute town|Incorporated Place|A|Vigo County
+IN|18|83420|Westville town|Incorporated Place|A|LaPorte County
+IN|18|83528|Wheatfield town|Incorporated Place|A|Jasper County
+IN|18|83564|Wheatland town|Incorporated Place|A|Knox County
+IN|18|83600|Wheeler CDP|Census Designated Place|S|Porter County
+IN|18|83816|Whiteland town|Incorporated Place|A|Johnson County
+IN|18|84014|Whitestown town|Incorporated Place|A|Boone County
+IN|18|84086|Whitewater town|Incorporated Place|A|Wayne County
+IN|18|84122|Whiting city|Incorporated Place|A|Lake County
+IN|18|84302|Wilkinson town|Incorporated Place|A|Hancock County
+IN|18|84338|Williams CDP|Census Designated Place|S|Lawrence County
+IN|18|84374|Williams Creek town|Incorporated Place|A|Marion County
+IN|18|84410|Williamsport town|Incorporated Place|A|Warren County
+IN|18|84734|Winamac town|Incorporated Place|A|Pulaski County
+IN|18|84752|Winchester city|Incorporated Place|A|Randolph County
+IN|18|84806|Windfall City town|Incorporated Place|A|Tipton County
+IN|18|84878|Winfield town|Incorporated Place|A|Lake County
+IN|18|84914|Wingate town|Incorporated Place|A|Montgomery County
+IN|18|84950|Winona Lake town|Incorporated Place|A|Kosciusko County
+IN|18|84968|Winslow town|Incorporated Place|A|Pike County
+IN|18|85058|Wolcott town|Incorporated Place|A|White County
+IN|18|85076|Wolcottville town|Incorporated Place|A|LaGrange County, Noble County
+IN|18|85184|Woodburn city|Incorporated Place|A|Allen County
+IN|18|85400|Woodlawn Heights town|Incorporated Place|A|Madison County
+IN|18|85598|Worthington town|Incorporated Place|A|Greene County
+IN|18|85742|Wynnedale town|Incorporated Place|A|Marion County
+IN|18|85886|Yeoman town|Incorporated Place|A|Carroll County
+IN|18|86084|Yorktown town|Incorporated Place|A|Delaware County
+IN|18|86318|Zanesville town|Incorporated Place|A|Allen County, Wells County
+IN|18|86372|Zionsville town|Incorporated Place|A|Boone County

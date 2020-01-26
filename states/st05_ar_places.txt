@@ -1,0 +1,541 @@
+AR|05|00250|Adona city|Incorporated Place|A|Perry County
+AR|05|00580|Alexander city|Incorporated Place|A|Pulaski County, Saline County
+AR|05|00700|Alicia town|Incorporated Place|A|Lawrence County
+AR|05|00940|Allport town|Incorporated Place|A|Lonoke County
+AR|05|00970|Alma city|Incorporated Place|A|Crawford County
+AR|05|01030|Almyra town|Incorporated Place|A|Arkansas County
+AR|05|01060|Alpena town|Incorporated Place|A|Boone County, Carroll County
+AR|05|01150|Altheimer city|Incorporated Place|A|Jefferson County
+AR|05|01210|Altus city|Incorporated Place|A|Franklin County
+AR|05|01270|Amagon town|Incorporated Place|A|Jackson County
+AR|05|01360|Amity city|Incorporated Place|A|Clark County
+AR|05|01457|Anthonyville town|Incorporated Place|A|Crittenden County
+AR|05|01540|Antoine town|Incorporated Place|A|Pike County
+AR|05|01870|Arkadelphia city|Incorporated Place|A|Clark County
+AR|05|01990|Arkansas City city|Incorporated Place|A|Desha County
+AR|05|02380|Ashdown city|Incorporated Place|A|Little River County
+AR|05|02470|Ash Flat city|Incorporated Place|A|Fulton County, Sharp County
+AR|05|02590|Atkins city|Incorporated Place|A|Pope County
+AR|05|02680|Aubrey town|Incorporated Place|A|Lee County
+AR|05|02740|Augusta city|Incorporated Place|A|Woodruff County
+AR|05|02860|Austin city|Incorporated Place|A|Lonoke County
+AR|05|03010|Avilla CDP|Census Designated Place|S|Saline County
+AR|05|03040|Avoca town|Incorporated Place|A|Benton County
+AR|05|03280|Bald Knob city|Incorporated Place|A|White County
+AR|05|03430|Banks town|Incorporated Place|A|Bradley County
+AR|05|03640|Barling city|Incorporated Place|A|Sebastian County
+AR|05|03940|Bassett town|Incorporated Place|A|Mississippi County
+AR|05|04030|Batesville city|Incorporated Place|A|Independence County
+AR|05|04090|Bauxite town|Incorporated Place|A|Saline County
+AR|05|04180|Bay city|Incorporated Place|A|Craighead County
+AR|05|04420|Bearden city|Incorporated Place|A|Ouachita County
+AR|05|04540|Beaver town|Incorporated Place|A|Carroll County
+AR|05|04600|Beebe city|Incorporated Place|A|White County
+AR|05|04720|Beedeville town|Incorporated Place|A|Jackson County
+AR|05|04840|Bella Vista town|Incorporated Place|A|Benton County
+AR|05|04900|Bellefonte town|Incorporated Place|A|Boone County
+AR|05|04960|Belleville city|Incorporated Place|A|Yell County
+AR|05|05260|Ben Lomond town|Incorporated Place|A|Sevier County
+AR|05|05290|Benton city|Incorporated Place|A|Saline County
+AR|05|05320|Bentonville city|Incorporated Place|A|Benton County
+AR|05|05440|Bergman town|Incorporated Place|A|Boone County
+AR|05|05560|Berryville city|Incorporated Place|A|Carroll County
+AR|05|05740|Bethel Heights city|Incorporated Place|A|Benton County
+AR|05|05920|Bigelow town|Incorporated Place|A|Perry County
+AR|05|05980|Big Flat town|Incorporated Place|A|Baxter County, Searcy County
+AR|05|06040|Biggers town|Incorporated Place|A|Randolph County
+AR|05|06340|Birdsong town|Incorporated Place|A|Mississippi County
+AR|05|06610|Black Oak town|Incorporated Place|A|Craighead County
+AR|05|06700|Black Rock city|Incorporated Place|A|Lawrence County
+AR|05|06730|Black Springs town|Incorporated Place|A|Montgomery County
+AR|05|07030|Blevins city|Incorporated Place|A|Hempstead County
+AR|05|07150|Blue Eye town|Incorporated Place|A|Carroll County
+AR|05|07210|Blue Mountain town|Incorporated Place|A|Logan County
+AR|05|07270|Bluff City town|Incorporated Place|A|Nevada County
+AR|05|07330|Blytheville city|Incorporated Place|A|Mississippi County
+AR|05|07450|Bodcaw town|Incorporated Place|A|Nevada County
+AR|05|07540|Bonanza city|Incorporated Place|A|Sebastian County
+AR|05|07630|Bono city|Incorporated Place|A|Craighead County
+AR|05|07720|Booneville city|Incorporated Place|A|Logan County
+AR|05|08260|Bradford city|Incorporated Place|A|White County
+AR|05|08290|Bradley city|Incorporated Place|A|Lafayette County
+AR|05|08440|Branch city|Incorporated Place|A|Franklin County
+AR|05|08665|Briarcliff city|Incorporated Place|A|Baxter County
+AR|05|08950|Brinkley city|Incorporated Place|A|Monroe County
+AR|05|09100|Brookland city|Incorporated Place|A|Craighead County
+AR|05|09460|Bryant city|Incorporated Place|A|Saline County
+AR|05|09550|Buckner city|Incorporated Place|A|Lafayette County
+AR|05|09790|Bull Shoals city|Incorporated Place|A|Marion County
+AR|05|09880|Burdette town|Incorporated Place|A|Mississippi County
+AR|05|10300|Cabot city|Incorporated Place|A|Lonoke County
+AR|05|10360|Caddo Valley town|Incorporated Place|A|Clark County
+AR|05|10450|Caldwell town|Incorporated Place|A|St. Francis County
+AR|05|10480|Cale town|Incorporated Place|A|Nevada County
+AR|05|10570|Calico Rock city|Incorporated Place|A|Izard County
+AR|05|10600|Calion city|Incorporated Place|A|Union County
+AR|05|10720|Camden city|Incorporated Place|A|Ouachita County
+AR|05|10780|Cammack Village city|Incorporated Place|A|Pulaski County
+AR|05|10900|Campbell Station city|Incorporated Place|A|Jackson County
+AR|05|11410|Caraway city|Incorporated Place|A|Craighead County
+AR|05|11500|Carlisle city|Incorporated Place|A|Lonoke County
+AR|05|11830|Carthage city|Incorporated Place|A|Dallas County
+AR|05|11890|Casa town|Incorporated Place|A|Perry County
+AR|05|11920|Cash town|Incorporated Place|A|Craighead County
+AR|05|12190|Caulksville town|Incorporated Place|A|Logan County
+AR|05|12280|Cave City city|Incorporated Place|A|Independence County, Sharp County
+AR|05|12340|Cave Springs city|Incorporated Place|A|Benton County
+AR|05|12520|Cedarville city|Incorporated Place|A|Crawford County
+AR|05|12790|Center Ridge CDP|Census Designated Place|S|Conway County
+AR|05|12820|Centerton city|Incorporated Place|A|Benton County
+AR|05|13120|Central City town|Incorporated Place|A|Sebastian County
+AR|05|13300|Charleston city|Incorporated Place|A|Franklin County
+AR|05|13420|Cherokee City CDP|Census Designated Place|S|Benton County
+AR|05|13450|Cherokee Village city|Incorporated Place|A|Fulton County, Sharp County
+AR|05|13540|Cherry Valley city|Incorporated Place|A|Cross County
+AR|05|13570|Chester town|Incorporated Place|A|Crawford County
+AR|05|13750|Chidester city|Incorporated Place|A|Ouachita County
+AR|05|13990|Clarendon city|Incorporated Place|A|Monroe County
+AR|05|14050|Clarkedale city|Incorporated Place|A|Crittenden County
+AR|05|14140|Clarksville city|Incorporated Place|A|Johnson County
+AR|05|14260|Clinton city|Incorporated Place|A|Van Buren County
+AR|05|14500|Coal Hill city|Incorporated Place|A|Johnson County
+AR|05|14770|College City city|Incorporated Place|A|Lawrence County
+AR|05|14860|College Station CDP|Census Designated Place|S|Pulaski County
+AR|05|14950|Colt city|Incorporated Place|A|St. Francis County
+AR|05|15100|Concord town|Incorporated Place|A|Cleburne County
+AR|05|15190|Conway city|Incorporated Place|A|Faulkner County
+AR|05|15310|Corinth town|Incorporated Place|A|Yell County
+AR|05|15460|Corning city|Incorporated Place|A|Clay County
+AR|05|15490|Cotter city|Incorporated Place|A|Baxter County
+AR|05|15550|Cotton Plant city|Incorporated Place|A|Woodruff County
+AR|05|15700|Cove town|Incorporated Place|A|Polk County
+AR|05|15790|Coy town|Incorporated Place|A|Lonoke County
+AR|05|15940|Crawfordsville town|Incorporated Place|A|Crittenden County
+AR|05|16240|Crossett city|Incorporated Place|A|Ashley County
+AR|05|16930|Cushman city|Incorporated Place|A|Independence County
+AR|05|17140|Daisy town|Incorporated Place|A|Pike County
+AR|05|17290|Damascus town|Incorporated Place|A|Faulkner County, Van Buren County
+AR|05|17320|Danville city|Incorporated Place|A|Yell County
+AR|05|17380|Dardanelle city|Incorporated Place|A|Yell County
+AR|05|17410|Datto town|Incorporated Place|A|Clay County
+AR|05|17740|Decatur city|Incorporated Place|A|Benton County
+AR|05|18010|Delaplaine town|Incorporated Place|A|Greene County
+AR|05|18100|Delight city|Incorporated Place|A|Pike County
+AR|05|18160|Dell town|Incorporated Place|A|Mississippi County
+AR|05|18340|Dennard CDP|Census Designated Place|S|Van Buren County
+AR|05|18370|Denning town|Incorporated Place|A|Franklin County
+AR|05|18490|De Queen city|Incorporated Place|A|Sevier County
+AR|05|18520|Dermott city|Incorporated Place|A|Chicot County
+AR|05|18550|Des Arc city|Incorporated Place|A|Prairie County
+AR|05|18640|De Valls Bluff city|Incorporated Place|A|Prairie County
+AR|05|18790|DeWitt city|Incorporated Place|A|Arkansas County
+AR|05|18850|Diamond City city|Incorporated Place|A|Boone County
+AR|05|18940|Diaz city|Incorporated Place|A|Jackson County
+AR|05|18970|Dierks city|Incorporated Place|A|Howard County
+AR|05|19450|Donaldson town|Incorporated Place|A|Hot Spring County
+AR|05|19600|Dover city|Incorporated Place|A|Pope County
+AR|05|19990|Dumas city|Incorporated Place|A|Desha County
+AR|05|20200|Dyer city|Incorporated Place|A|Crawford County
+AR|05|20230|Dyess town|Incorporated Place|A|Mississippi County
+AR|05|20320|Earle city|Incorporated Place|A|Crittenden County
+AR|05|20440|East Camden town|Incorporated Place|A|Ouachita County
+AR|05|20470|East End CDP|Census Designated Place|S|Saline County
+AR|05|20830|Edmondson town|Incorporated Place|A|Crittenden County
+AR|05|20920|Egypt town|Incorporated Place|A|Craighead County
+AR|05|20950|Elaine city|Incorporated Place|A|Phillips County
+AR|05|21070|El Dorado city|Incorporated Place|A|Union County
+AR|05|21190|Elkins city|Incorporated Place|A|Washington County
+AR|05|21430|Elm Springs city|Incorporated Place|A|Benton County, Washington County
+AR|05|21580|Emerson town|Incorporated Place|A|Columbia County
+AR|05|21610|Emmet city|Incorporated Place|A|Hempstead County, Nevada County
+AR|05|21730|England city|Incorporated Place|A|Lonoke County
+AR|05|21820|Enola town|Incorporated Place|A|Faulkner County
+AR|05|22120|Etowah town|Incorporated Place|A|Mississippi County
+AR|05|22180|Eudora city|Incorporated Place|A|Chicot County
+AR|05|22240|Eureka Springs city|Incorporated Place|A|Carroll County
+AR|05|22360|Evening Shade city|Incorporated Place|A|Sharp County
+AR|05|22450|Everton town|Incorporated Place|A|Boone County
+AR|05|22660|Fairfield Bay city|Incorporated Place|A|Cleburne County, Van Buren County
+AR|05|23140|Fargo town|Incorporated Place|A|Monroe County
+AR|05|23170|Farmington city|Incorporated Place|A|Washington County
+AR|05|23290|Fayetteville city|Incorporated Place|A|Washington County
+AR|05|23320|Felsenthal town|Incorporated Place|A|Union County
+AR|05|23680|Fifty-Six city|Incorporated Place|A|Stone County
+AR|05|23800|Fisher city|Incorporated Place|A|Poinsett County
+AR|05|24010|Flippin city|Incorporated Place|A|Marion County
+AR|05|24220|Fordyce city|Incorporated Place|A|Dallas County
+AR|05|24250|Foreman city|Incorporated Place|A|Little River County
+AR|05|24430|Forrest City city|Incorporated Place|A|St. Francis County
+AR|05|24550|Fort Smith city|Incorporated Place|A|Sebastian County
+AR|05|24640|Fouke city|Incorporated Place|A|Miller County
+AR|05|24670|Fountain Hill town|Incorporated Place|A|Ashley County
+AR|05|24700|Fountain Lake town|Incorporated Place|A|Garland County
+AR|05|24760|Fourche town|Incorporated Place|A|Perry County
+AR|05|25030|Franklin town|Incorporated Place|A|Izard County
+AR|05|25060|Fredonia (Biscoe) town|Incorporated Place|A|Prairie County
+AR|05|25180|Friendship town|Incorporated Place|A|Hot Spring County
+AR|05|25360|Fulton town|Incorporated Place|A|Hempstead County
+AR|05|25750|Garfield town|Incorporated Place|A|Benton County
+AR|05|25780|Garland town|Incorporated Place|A|Miller County
+AR|05|25900|Garner town|Incorporated Place|A|White County
+AR|05|26050|Gassville city|Incorporated Place|A|Baxter County
+AR|05|26110|Gateway town|Incorporated Place|A|Benton County
+AR|05|26290|Gentry city|Incorporated Place|A|Benton County
+AR|05|26440|Georgetown town|Incorporated Place|A|White County
+AR|05|26710|Gibson CDP|Census Designated Place|S|Pulaski County
+AR|05|26800|Gilbert town|Incorporated Place|A|Searcy County
+AR|05|26980|Gillett city|Incorporated Place|A|Arkansas County
+AR|05|27010|Gillham town|Incorporated Place|A|Sevier County
+AR|05|27040|Gilmore city|Incorporated Place|A|Crittenden County
+AR|05|27310|Glenwood city|Incorporated Place|A|Montgomery County, Pike County
+AR|05|27670|Goshen town|Incorporated Place|A|Washington County
+AR|05|27700|Gosnell city|Incorporated Place|A|Mississippi County
+AR|05|27730|Gould city|Incorporated Place|A|Lincoln County
+AR|05|27790|Grady city|Incorporated Place|A|Lincoln County
+AR|05|27970|Grannis city|Incorporated Place|A|Polk County
+AR|05|28360|Gravette city|Incorporated Place|A|Benton County
+AR|05|28510|Greenbrier city|Incorporated Place|A|Faulkner County
+AR|05|28600|Green Forest city|Incorporated Place|A|Carroll County
+AR|05|28660|Greenland city|Incorporated Place|A|Washington County
+AR|05|28720|Greenway city|Incorporated Place|A|Clay County
+AR|05|28780|Greenwood city|Incorporated Place|A|Sebastian County
+AR|05|28810|Greers Ferry city|Incorporated Place|A|Cleburne County
+AR|05|28990|Griffithville town|Incorporated Place|A|White County
+AR|05|29020|Grubbs city|Incorporated Place|A|Jackson County
+AR|05|29080|Guion town|Incorporated Place|A|Izard County
+AR|05|29140|Gum Springs town|Incorporated Place|A|Clark County
+AR|05|29200|Gurdon city|Incorporated Place|A|Clark County
+AR|05|29230|Guy city|Incorporated Place|A|Faulkner County
+AR|05|29290|Hackett city|Incorporated Place|A|Sebastian County
+AR|05|29320|Hagarville CDP|Census Designated Place|S|Johnson County
+AR|05|29500|Hamburg city|Incorporated Place|A|Ashley County
+AR|05|29650|Hampton city|Incorporated Place|A|Calhoun County
+AR|05|29920|Hardy city|Incorporated Place|A|Fulton County, Sharp County
+AR|05|30310|Harrell town|Incorporated Place|A|Calhoun County
+AR|05|30400|Harrisburg city|Incorporated Place|A|Poinsett County
+AR|05|30460|Harrison city|Incorporated Place|A|Boone County
+AR|05|30490|Hartford city|Incorporated Place|A|Sebastian County
+AR|05|30520|Hartman city|Incorporated Place|A|Johnson County
+AR|05|30640|Haskell city|Incorporated Place|A|Saline County
+AR|05|30700|Hatfield town|Incorporated Place|A|Polk County
+AR|05|30790|Havana city|Incorporated Place|A|Yell County
+AR|05|30880|Haynes town|Incorporated Place|A|Lee County
+AR|05|30940|Hazen city|Incorporated Place|A|Prairie County
+AR|05|31090|Heber Springs city|Incorporated Place|A|Cleburne County
+AR|05|31150|Hector town|Incorporated Place|A|Pope County
+AR|05|31190|Helena-West Helena city|Incorporated Place|A|Phillips County
+AR|05|31390|Hensley CDP|Census Designated Place|S|Pulaski County
+AR|05|31540|Hermitage town|Incorporated Place|A|Bradley County
+AR|05|31900|Hickory Ridge city|Incorporated Place|A|Cross County
+AR|05|32080|Higden town|Incorporated Place|A|Cleburne County
+AR|05|32140|Higginson town|Incorporated Place|A|White County
+AR|05|32200|Highfill town|Incorporated Place|A|Benton County
+AR|05|32257|Highland city|Incorporated Place|A|Sharp County
+AR|05|32470|Hindsville town|Incorporated Place|A|Madison County
+AR|05|32535|Hiwasse CDP|Census Designated Place|S|Benton County
+AR|05|32650|Holiday Island CDP|Census Designated Place|S|Carroll County
+AR|05|32710|Holland city|Incorporated Place|A|Faulkner County
+AR|05|32800|Holly Grove city|Incorporated Place|A|Monroe County
+AR|05|33190|Hope city|Incorporated Place|A|Hempstead County
+AR|05|33310|Horatio city|Incorporated Place|A|Sevier County
+AR|05|33370|Horseshoe Bend city|Incorporated Place|A|Fulton County, Izard County, Sharp County
+AR|05|33375|Horseshoe Lake town|Incorporated Place|A|Crittenden County
+AR|05|33400|Hot Springs city|Incorporated Place|A|Garland County
+AR|05|33482|Hot Springs Village CDP|Census Designated Place|S|Garland County, Saline County
+AR|05|33490|Houston town|Incorporated Place|A|Perry County
+AR|05|33580|Hoxie city|Incorporated Place|A|Lawrence County
+AR|05|33760|Hughes city|Incorporated Place|A|St. Francis County
+AR|05|33820|Humnoke city|Incorporated Place|A|Lonoke County
+AR|05|33850|Humphrey city|Incorporated Place|A|Arkansas County, Jefferson County
+AR|05|33910|Hunter town|Incorporated Place|A|Woodruff County
+AR|05|33940|Huntington city|Incorporated Place|A|Sebastian County
+AR|05|33970|Huntsville city|Incorporated Place|A|Madison County
+AR|05|34090|Huttig city|Incorporated Place|A|Union County
+AR|05|34150|Imboden town|Incorporated Place|A|Lawrence County
+AR|05|34720|Jacksonport town|Incorporated Place|A|Jackson County
+AR|05|34750|Jacksonville city|Incorporated Place|A|Pulaski County
+AR|05|34900|Jasper city|Incorporated Place|A|Newton County
+AR|05|35040|Jennette town|Incorporated Place|A|Crittenden County, St. Francis County
+AR|05|35140|Jericho town|Incorporated Place|A|Crittenden County
+AR|05|35170|Jerome town|Incorporated Place|A|Drew County
+AR|05|35500|Johnson city|Incorporated Place|A|Washington County
+AR|05|35650|Joiner city|Incorporated Place|A|Mississippi County
+AR|05|35710|Jonesboro city|Incorporated Place|A|Craighead County
+AR|05|36040|Judsonia city|Incorporated Place|A|White County
+AR|05|36130|Junction City city|Incorporated Place|A|Union County
+AR|05|36310|Keiser city|Incorporated Place|A|Mississippi County
+AR|05|36430|Kensett city|Incorporated Place|A|White County
+AR|05|36550|Keo town|Incorporated Place|A|Lonoke County
+AR|05|36670|Kibler city|Incorporated Place|A|Crawford County
+AR|05|36880|Kingsland city|Incorporated Place|A|Cleveland County
+AR|05|37060|Kirby CDP|Census Designated Place|S|Pike County
+AR|05|37240|Knobel city|Incorporated Place|A|Clay County
+AR|05|37300|Knoxville town|Incorporated Place|A|Johnson County
+AR|05|37660|Lafe town|Incorporated Place|A|Greene County
+AR|05|37720|LaGrange town|Incorporated Place|A|Lee County
+AR|05|37780|Lake City city|Incorporated Place|A|Craighead County
+AR|05|37930|Lake Hamilton CDP|Census Designated Place|S|Garland County
+AR|05|38050|Lakeview city|Incorporated Place|A|Baxter County
+AR|05|38110|Lake View city|Incorporated Place|A|Phillips County
+AR|05|38170|Lake Village city|Incorporated Place|A|Chicot County
+AR|05|38290|Lamar city|Incorporated Place|A|Johnson County
+AR|05|38540|Landmark CDP|Census Designated Place|S|Pulaski County
+AR|05|38890|Lavaca city|Incorporated Place|A|Sebastian County
+AR|05|39010|Leachville city|Incorporated Place|A|Mississippi County
+AR|05|39040|Lead Hill town|Incorporated Place|A|Boone County
+AR|05|39310|Leola town|Incorporated Place|A|Grant County
+AR|05|39370|Lepanto city|Incorporated Place|A|Poinsett County
+AR|05|39460|Leslie city|Incorporated Place|A|Searcy County
+AR|05|39520|Letona town|Incorporated Place|A|White County
+AR|05|39640|Lewisville city|Incorporated Place|A|Lafayette County
+AR|05|39670|Lexa town|Incorporated Place|A|Phillips County
+AR|05|39970|Lincoln city|Incorporated Place|A|Washington County
+AR|05|40120|Little Flock city|Incorporated Place|A|Benton County
+AR|05|41000|Little Rock city|Incorporated Place|A|Pulaski County
+AR|05|41090|Lockesburg city|Incorporated Place|A|Sevier County
+AR|05|41270|London city|Incorporated Place|A|Pope County
+AR|05|41420|Lonoke city|Incorporated Place|A|Lonoke County
+AR|05|41450|Lonsdale town|Incorporated Place|A|Garland County
+AR|05|41555|Lost Bridge Village CDP|Census Designated Place|S|Benton County
+AR|05|41630|Louann town|Incorporated Place|A|Ouachita County
+AR|05|41720|Lowell city|Incorporated Place|A|Benton County
+AR|05|42170|Luxora city|Incorporated Place|A|Mississippi County
+AR|05|42260|Lynn town|Incorporated Place|A|Lawrence County
+AR|05|42350|McAlmont CDP|Census Designated Place|S|Pulaski County
+AR|05|42410|McCaskill town|Incorporated Place|A|Hempstead County
+AR|05|42500|McCrory city|Incorporated Place|A|Woodruff County
+AR|05|42560|McDougal town|Incorporated Place|A|Clay County
+AR|05|42770|McGehee city|Incorporated Place|A|Desha County
+AR|05|43070|McNab town|Incorporated Place|A|Hempstead County
+AR|05|43100|McNeil city|Incorporated Place|A|Columbia County
+AR|05|43220|McRae city|Incorporated Place|A|White County
+AR|05|43280|Madison city|Incorporated Place|A|St. Francis County
+AR|05|43310|Magazine city|Incorporated Place|A|Logan County
+AR|05|43370|Magness town|Incorporated Place|A|Independence County
+AR|05|43430|Magnet Cove town|Incorporated Place|A|Hot Spring County
+AR|05|43460|Magnolia city|Incorporated Place|A|Columbia County
+AR|05|43610|Malvern city|Incorporated Place|A|Hot Spring County
+AR|05|43670|Mammoth Spring city|Incorporated Place|A|Fulton County
+AR|05|43820|Manila city|Incorporated Place|A|Mississippi County
+AR|05|43880|Mansfield city|Incorporated Place|A|Scott County, Sebastian County
+AR|05|44120|Marianna city|Incorporated Place|A|Lee County
+AR|05|44150|Marie town|Incorporated Place|A|Mississippi County
+AR|05|44180|Marion city|Incorporated Place|A|Crittenden County
+AR|05|44210|Marked Tree city|Incorporated Place|A|Poinsett County
+AR|05|44240|Marmaduke city|Incorporated Place|A|Greene County
+AR|05|44300|Marshall city|Incorporated Place|A|Searcy County
+AR|05|44420|Marvell city|Incorporated Place|A|Phillips County
+AR|05|44600|Maumelle city|Incorporated Place|A|Pulaski County
+AR|05|44750|Mayflower city|Incorporated Place|A|Faulkner County
+AR|05|44780|Maynard town|Incorporated Place|A|Randolph County
+AR|05|44810|Maysville CDP|Census Designated Place|S|Benton County
+AR|05|45080|Melbourne city|Incorporated Place|A|Izard County
+AR|05|45170|Mena city|Incorporated Place|A|Polk County
+AR|05|45200|Menifee town|Incorporated Place|A|Conway County
+AR|05|45500|Midland town|Incorporated Place|A|Sebastian County
+AR|05|45530|Midway CDP|Census Designated Place|S|Baxter County
+AR|05|45560|Midway town|Incorporated Place|A|Hot Spring County
+AR|05|46040|Mineral Springs city|Incorporated Place|A|Howard County
+AR|05|46100|Minturn town|Incorporated Place|A|Lawrence County
+AR|05|46190|Mitchellville city|Incorporated Place|A|Desha County
+AR|05|46400|Monette city|Incorporated Place|A|Craighead County
+AR|05|46580|Monticello city|Incorporated Place|A|Drew County
+AR|05|46670|Montrose city|Incorporated Place|A|Ashley County
+AR|05|46730|Moorefield town|Incorporated Place|A|Independence County
+AR|05|46910|Moro town|Incorporated Place|A|Lee County
+AR|05|46970|Morrilton city|Incorporated Place|A|Conway County
+AR|05|47030|Morrison Bluff town|Incorporated Place|A|Logan County
+AR|05|47300|Mountainburg city|Incorporated Place|A|Crawford County
+AR|05|47390|Mountain Home city|Incorporated Place|A|Baxter County
+AR|05|47450|Mountain Pine city|Incorporated Place|A|Garland County
+AR|05|47540|Mountain View city|Incorporated Place|A|Stone County
+AR|05|47690|Mount Ida city|Incorporated Place|A|Montgomery County
+AR|05|47900|Mount Pleasant town|Incorporated Place|A|Izard County
+AR|05|48020|Mount Vernon town|Incorporated Place|A|Faulkner County
+AR|05|48200|Mulberry city|Incorporated Place|A|Crawford County
+AR|05|48290|Murfreesboro city|Incorporated Place|A|Pike County
+AR|05|48560|Nashville city|Incorporated Place|A|Howard County
+AR|05|48680|Natural Steps CDP|Census Designated Place|S|Pulaski County
+AR|05|49010|Newark city|Incorporated Place|A|Independence County
+AR|05|49070|New Blaine CDP|Census Designated Place|S|Logan County
+AR|05|49220|New Edinburg CDP|Census Designated Place|S|Cleveland County
+AR|05|49580|Newport city|Incorporated Place|A|Jackson County
+AR|05|49820|Nimmons town|Incorporated Place|A|Clay County
+AR|05|50000|Norfork city|Incorporated Place|A|Baxter County
+AR|05|50030|Norman town|Incorporated Place|A|Montgomery County
+AR|05|50060|Norphlet city|Incorporated Place|A|Union County
+AR|05|50240|North Crossett CDP|Census Designated Place|S|Ashley County
+AR|05|50450|North Little Rock city|Incorporated Place|A|Pulaski County
+AR|05|50810|Oak Grove town|Incorporated Place|A|Carroll County
+AR|05|51060|Oak Grove Heights town|Incorporated Place|A|Greene County
+AR|05|51080|Oakhaven town|Incorporated Place|A|Hempstead County
+AR|05|51290|Oden town|Incorporated Place|A|Montgomery County
+AR|05|51350|Ogden city|Incorporated Place|A|Little River County
+AR|05|51410|Oil Trough town|Incorporated Place|A|Independence County
+AR|05|51500|O'Kean town|Incorporated Place|A|Randolph County
+AR|05|51530|Okolona town|Incorporated Place|A|Clark County
+AR|05|51560|Ola city|Incorporated Place|A|Yell County
+AR|05|52160|Omaha town|Incorporated Place|A|Boone County
+AR|05|52430|Oppelo city|Incorporated Place|A|Conway County
+AR|05|52580|Osceola city|Incorporated Place|A|Mississippi County
+AR|05|52880|Oxford city|Incorporated Place|A|Izard County
+AR|05|52940|Ozan town|Incorporated Place|A|Hempstead County
+AR|05|52970|Ozark city|Incorporated Place|A|Franklin County
+AR|05|53150|Palestine city|Incorporated Place|A|St. Francis County
+AR|05|53240|Pangburn city|Incorporated Place|A|White County
+AR|05|53390|Paragould city|Incorporated Place|A|Greene County
+AR|05|53480|Paris city|Incorporated Place|A|Logan County
+AR|05|53510|Parkdale city|Incorporated Place|A|Ashley County
+AR|05|53600|Parkin city|Incorporated Place|A|Cross County
+AR|05|53900|Patmos town|Incorporated Place|A|Hempstead County
+AR|05|53990|Patterson city|Incorporated Place|A|Woodruff County
+AR|05|54140|Peach Orchard city|Incorporated Place|A|Clay County
+AR|05|54200|Pea Ridge city|Incorporated Place|A|Benton County
+AR|05|54620|Perla town|Incorporated Place|A|Hot Spring County
+AR|05|54650|Perry town|Incorporated Place|A|Perry County
+AR|05|54680|Perrytown town|Incorporated Place|A|Hempstead County
+AR|05|54710|Perryville city|Incorporated Place|A|Perry County
+AR|05|55130|Piggott city|Incorporated Place|A|Clay County
+AR|05|55280|Pindall town|Incorporated Place|A|Searcy County
+AR|05|55310|Pine Bluff city|Incorporated Place|A|Jefferson County
+AR|05|55580|Pineville town|Incorporated Place|A|Izard County
+AR|05|55610|Piney CDP|Census Designated Place|S|Garland County
+AR|05|55970|Plainview city|Incorporated Place|A|Yell County
+AR|05|56270|Pleasant Plains town|Incorporated Place|A|Independence County
+AR|05|56480|Plumerville city|Incorporated Place|A|Conway County
+AR|05|56540|Pocahontas city|Incorporated Place|A|Randolph County
+AR|05|56600|Pollard city|Incorporated Place|A|Clay County
+AR|05|56720|Portia town|Incorporated Place|A|Lawrence County
+AR|05|56750|Portland city|Incorporated Place|A|Ashley County
+AR|05|56990|Pottsville city|Incorporated Place|A|Pope County
+AR|05|57050|Powhatan town|Incorporated Place|A|Lawrence County
+AR|05|57080|Poyen town|Incorporated Place|A|Grant County
+AR|05|57125|Prairie Creek CDP|Census Designated Place|S|Benton County
+AR|05|57170|Prairie Grove city|Incorporated Place|A|Washington County
+AR|05|57230|Prattsville town|Incorporated Place|A|Grant County
+AR|05|57260|Prescott city|Incorporated Place|A|Nevada County
+AR|05|57890|Pyatt town|Incorporated Place|A|Marion County
+AR|05|57950|Quitman city|Incorporated Place|A|Cleburne County, Faulkner County
+AR|05|58160|Ratcliff city|Incorporated Place|A|Logan County
+AR|05|58250|Ravenden town|Incorporated Place|A|Lawrence County
+AR|05|58280|Ravenden Springs town|Incorporated Place|A|Randolph County
+AR|05|58400|Reader CDP|Census Designated Place|S|Nevada County, Ouachita County
+AR|05|58490|Rector city|Incorporated Place|A|Clay County
+AR|05|58580|Redfield city|Incorporated Place|A|Jefferson County
+AR|05|58880|Reed town|Incorporated Place|A|Desha County
+AR|05|59180|Reyno city|Incorporated Place|A|Randolph County
+AR|05|59480|Rison city|Incorporated Place|A|Cleveland County
+AR|05|60020|Rockport city|Incorporated Place|A|Hot Spring County
+AR|05|60110|Rockwell CDP|Census Designated Place|S|Garland County
+AR|05|60380|Roe town|Incorporated Place|A|Monroe County
+AR|05|60410|Rogers city|Incorporated Place|A|Benton County
+AR|05|60470|Roland CDP|Census Designated Place|S|Pulaski County
+AR|05|60590|Rondo town|Incorporated Place|A|Lee County
+AR|05|60770|Rose Bud town|Incorporated Place|A|White County
+AR|05|61040|Rosston town|Incorporated Place|A|Nevada County
+AR|05|61460|Rudy town|Incorporated Place|A|Crawford County
+AR|05|61640|Russell town|Incorporated Place|A|White County
+AR|05|61670|Russellville city|Incorporated Place|A|Pope County
+AR|05|61730|Rye CDP|Census Designated Place|S|Cleveland County
+AR|05|61940|St. Charles town|Incorporated Place|A|Arkansas County
+AR|05|61970|St. Francis city|Incorporated Place|A|Clay County
+AR|05|62030|St. Joe town|Incorporated Place|A|Searcy County
+AR|05|62060|St. Paul town|Incorporated Place|A|Madison County
+AR|05|62150|Salem city|Incorporated Place|A|Fulton County
+AR|05|62210|Salem CDP|Census Designated Place|S|Saline County
+AR|05|62240|Salesville city|Incorporated Place|A|Baxter County
+AR|05|62900|Scott CDP|Census Designated Place|S|Lonoke County, Pulaski County
+AR|05|62960|Scranton city|Incorporated Place|A|Logan County
+AR|05|63020|Searcy city|Incorporated Place|A|White County
+AR|05|63110|Sedgwick town|Incorporated Place|A|Lawrence County
+AR|05|63470|Shannon Hills city|Incorporated Place|A|Saline County
+AR|05|63710|Sheridan city|Incorporated Place|A|Grant County
+AR|05|63740|Sherrill town|Incorporated Place|A|Jefferson County
+AR|05|63800|Sherwood city|Incorporated Place|A|Pulaski County
+AR|05|63980|Shirley town|Incorporated Place|A|Van Buren County
+AR|05|64280|Sidney town|Incorporated Place|A|Sharp County
+AR|05|64370|Siloam Springs city|Incorporated Place|A|Benton County
+AR|05|64730|Smackover city|Incorporated Place|A|Union County
+AR|05|64910|Smithville town|Incorporated Place|A|Lawrence County
+AR|05|65480|South Lead Hill town|Incorporated Place|A|Boone County
+AR|05|65900|Sparkman city|Incorporated Place|A|Dallas County
+AR|05|66080|Springdale city|Incorporated Place|A|Benton County, Washington County
+AR|05|66200|Springtown town|Incorporated Place|A|Benton County
+AR|05|66320|Stamps city|Incorporated Place|A|Lafayette County
+AR|05|66440|Star City city|Incorporated Place|A|Lincoln County
+AR|05|66800|Staves CDP|Census Designated Place|S|Cleveland County
+AR|05|66860|Stephens city|Incorporated Place|A|Ouachita County
+AR|05|67250|Strawberry town|Incorporated Place|A|Lawrence County
+AR|05|67370|Strong city|Incorporated Place|A|Union County
+AR|05|67490|Stuttgart city|Incorporated Place|A|Arkansas County
+AR|05|67520|Subiaco town|Incorporated Place|A|Logan County
+AR|05|67550|Success town|Incorporated Place|A|Clay County
+AR|05|67730|Sulphur Rock town|Incorporated Place|A|Independence County
+AR|05|67760|Sulphur Springs city|Incorporated Place|A|Benton County
+AR|05|67790|Sulphur Springs CDP|Census Designated Place|S|Jefferson County
+AR|05|67940|Summit city|Incorporated Place|A|Marion County
+AR|05|68060|Sunset town|Incorporated Place|A|Crittenden County
+AR|05|68330|Sweet Home CDP|Census Designated Place|S|Pulaski County
+AR|05|68360|Swifton city|Incorporated Place|A|Jackson County
+AR|05|68660|Taylor city|Incorporated Place|A|Columbia County
+AR|05|68810|Texarkana city|Incorporated Place|A|Miller County
+AR|05|69050|Thornton city|Incorporated Place|A|Calhoun County
+AR|05|69230|Tillar city|Incorporated Place|A|Desha County, Drew County
+AR|05|69350|Tinsman town|Incorporated Place|A|Calhoun County
+AR|05|69500|Tollette town|Incorporated Place|A|Howard County
+AR|05|69740|Tontitown city|Incorporated Place|A|Washington County
+AR|05|69830|Traskwood city|Incorporated Place|A|Saline County
+AR|05|70010|Trumann city|Incorporated Place|A|Poinsett County
+AR|05|70100|Tuckerman city|Incorporated Place|A|Jackson County
+AR|05|70220|Tull town|Incorporated Place|A|Grant County
+AR|05|70310|Tumbling Shoals CDP|Census Designated Place|S|Cleburne County
+AR|05|70340|Tupelo town|Incorporated Place|A|Jackson County
+AR|05|70430|Turrell city|Incorporated Place|A|Crittenden County
+AR|05|70540|Twin Groves town|Incorporated Place|A|Faulkner County
+AR|05|70700|Tyronza city|Incorporated Place|A|Poinsett County
+AR|05|70760|Ulm town|Incorporated Place|A|Prairie County
+AR|05|71390|Valley Springs town|Incorporated Place|A|Boone County
+AR|05|71480|Van Buren city|Incorporated Place|A|Crawford County
+AR|05|71510|Vandervoort town|Incorporated Place|A|Polk County
+AR|05|71900|Victoria town|Incorporated Place|A|Mississippi County
+AR|05|71960|Vilonia city|Incorporated Place|A|Faulkner County
+AR|05|72140|Viola town|Incorporated Place|A|Fulton County
+AR|05|72230|Wabbaseka town|Incorporated Place|A|Jefferson County
+AR|05|72320|Waldenburg town|Incorporated Place|A|Poinsett County
+AR|05|72350|Waldo city|Incorporated Place|A|Columbia County
+AR|05|72380|Waldron city|Incorporated Place|A|Scott County
+AR|05|72890|Walnut Ridge city|Incorporated Place|A|Lawrence County
+AR|05|73130|Ward city|Incorporated Place|A|Lonoke County
+AR|05|73310|Warren city|Incorporated Place|A|Bradley County
+AR|05|73370|Washington city|Incorporated Place|A|Hempstead County
+AR|05|73550|Watson city|Incorporated Place|A|Desha County
+AR|05|73940|Weiner city|Incorporated Place|A|Poinsett County
+AR|05|74000|Weldon town|Incorporated Place|A|Jackson County
+AR|05|74270|West Crossett CDP|Census Designated Place|S|Ashley County
+AR|05|74330|Western Grove town|Incorporated Place|A|Newton County
+AR|05|74360|West Fork city|Incorporated Place|A|Washington County
+AR|05|74540|West Memphis city|Incorporated Place|A|Crittenden County
+AR|05|74660|West Point town|Incorporated Place|A|White County
+AR|05|74840|Wheatley city|Incorporated Place|A|St. Francis County
+AR|05|74930|Whelen Springs town|Incorporated Place|A|Clark County
+AR|05|75170|White Hall city|Incorporated Place|A|Jefferson County
+AR|05|75500|Wickes town|Incorporated Place|A|Polk County
+AR|05|75560|Widener town|Incorporated Place|A|St. Francis County
+AR|05|75570|Wiederkehr Village city|Incorporated Place|A|Franklin County
+AR|05|75740|Williford town|Incorporated Place|A|Sharp County
+AR|05|75770|Willisville town|Incorporated Place|A|Nevada County
+AR|05|75860|Wilmar city|Incorporated Place|A|Drew County
+AR|05|75890|Wilmot city|Incorporated Place|A|Ashley County
+AR|05|75920|Wilson city|Incorporated Place|A|Mississippi County
+AR|05|75980|Wilton city|Incorporated Place|A|Little River County
+AR|05|76010|Winchester town|Incorporated Place|A|Drew County
+AR|05|76190|Winslow city|Incorporated Place|A|Washington County
+AR|05|76250|Winthrop city|Incorporated Place|A|Little River County
+AR|05|76690|Woodlawn CDP|Census Designated Place|S|Cleveland County
+AR|05|76730|Woodson CDP|Census Designated Place|S|Pulaski County
+AR|05|76820|Wooster town|Incorporated Place|A|Faulkner County
+AR|05|76970|Wrightsville city|Incorporated Place|A|Pulaski County
+AR|05|77090|Wynne city|Incorporated Place|A|Cross County
+AR|05|77203|Yarborough Landing CDP|Census Designated Place|S|Little River County
+AR|05|77330|Yellville city|Incorporated Place|A|Marion County
+AR|05|77600|Zinc town|Incorporated Place|A|Boone County

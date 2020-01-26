@@ -1,0 +1,578 @@
+AL|01|00100|Abanda CDP|Census Designated Place|S|Chambers County
+AL|01|00124|Abbeville city|Incorporated Place|A|Henry County
+AL|01|00460|Adamsville city|Incorporated Place|A|Jefferson County
+AL|01|00484|Addison town|Incorporated Place|A|Winston County
+AL|01|00676|Akron town|Incorporated Place|A|Hale County
+AL|01|00820|Alabaster city|Incorporated Place|A|Shelby County
+AL|01|00988|Albertville city|Incorporated Place|A|Marshall County
+AL|01|01132|Alexander City city|Incorporated Place|A|Tallapoosa County
+AL|01|01180|Alexandria CDP|Census Designated Place|S|Calhoun County
+AL|01|01228|Aliceville city|Incorporated Place|A|Pickens County
+AL|01|01396|Allgood town|Incorporated Place|A|Blount County
+AL|01|01660|Altoona town|Incorporated Place|A|Blount County, Etowah County
+AL|01|01708|Andalusia city|Incorporated Place|A|Covington County
+AL|01|01756|Anderson town|Incorporated Place|A|Lauderdale County
+AL|01|01852|Anniston city|Incorporated Place|A|Calhoun County
+AL|01|02116|Arab city|Incorporated Place|A|Cullman County, Marshall County
+AL|01|02260|Ardmore town|Incorporated Place|A|Limestone County
+AL|01|02320|Argo town|Incorporated Place|A|Jefferson County, St. Clair County
+AL|01|02428|Ariton town|Incorporated Place|A|Dale County
+AL|01|02500|Arley town|Incorporated Place|A|Winston County
+AL|01|02836|Ashford town|Incorporated Place|A|Houston County
+AL|01|02860|Ashland town|Incorporated Place|A|Clay County
+AL|01|02908|Ashville city|Incorporated Place|A|St. Clair County
+AL|01|02956|Athens city|Incorporated Place|A|Limestone County
+AL|01|03004|Atmore city|Incorporated Place|A|Escambia County
+AL|01|03028|Attalla city|Incorporated Place|A|Etowah County
+AL|01|03076|Auburn city|Incorporated Place|A|Lee County
+AL|01|03220|Autaugaville town|Incorporated Place|A|Autauga County
+AL|01|03364|Avon town|Incorporated Place|A|Houston County
+AL|01|03508|Axis CDP|Census Designated Place|S|Mobile County
+AL|01|03556|Babbie town|Incorporated Place|A|Covington County
+AL|01|03676|Baileyton town|Incorporated Place|A|Cullman County
+AL|01|03724|Bakerhill town|Incorporated Place|A|Barbour County
+AL|01|03820|Ballplay CDP|Census Designated Place|S|Etowah County
+AL|01|03940|Banks town|Incorporated Place|A|Pike County
+AL|01|04660|Bay Minette city|Incorporated Place|A|Baldwin County
+AL|01|04684|Bayou La Batre city|Incorporated Place|A|Mobile County
+AL|01|04852|Bear Creek town|Incorporated Place|A|Marion County
+AL|01|04900|Beatrice town|Incorporated Place|A|Monroe County
+AL|01|04948|Beaverton town|Incorporated Place|A|Lamar County
+AL|01|05140|Belgreen CDP|Census Designated Place|S|Franklin County
+AL|01|05164|Belk town|Incorporated Place|A|Fayette County
+AL|01|05188|Bellamy CDP|Census Designated Place|S|Sumter County
+AL|01|05212|Belle Fontaine CDP|Census Designated Place|S|Mobile County
+AL|01|05692|Benton town|Incorporated Place|A|Lowndes County
+AL|01|05932|Berry town|Incorporated Place|A|Fayette County
+AL|01|05980|Bessemer city|Incorporated Place|A|Jefferson County
+AL|01|06460|Billingsley town|Incorporated Place|A|Autauga County
+AL|01|07000|Birmingham city|Incorporated Place|A|Jefferson County, Shelby County
+AL|01|07120|Black town|Incorporated Place|A|Geneva County
+AL|01|07456|Blountsville town|Incorporated Place|A|Blount County
+AL|01|07588|Blue Ridge CDP|Census Designated Place|S|Elmore County
+AL|01|07672|Blue Springs town|Incorporated Place|A|Barbour County
+AL|01|07912|Boaz city|Incorporated Place|A|Etowah County, Marshall County
+AL|01|08104|Boligee town|Incorporated Place|A|Greene County
+AL|01|08248|Bon Air town|Incorporated Place|A|Talladega County
+AL|01|08680|Boykin CDP|Census Designated Place|S|Wilcox County
+AL|01|09016|Brantley town|Incorporated Place|A|Crenshaw County
+AL|01|09064|Brantleyville CDP|Census Designated Place|S|Shelby County
+AL|01|09136|Brent city|Incorporated Place|A|Bibb County
+AL|01|09208|Brewton city|Incorporated Place|A|Escambia County
+AL|01|09328|Bridgeport city|Incorporated Place|A|Jackson County
+AL|01|09400|Brighton city|Incorporated Place|A|Jefferson County
+AL|01|09424|Brilliant town|Incorporated Place|A|Marion County
+AL|01|09457|Bristow Cove CDP|Census Designated Place|S|Etowah County
+AL|01|09500|Brook Highland CDP|Census Designated Place|S|Shelby County
+AL|01|09736|Brookside town|Incorporated Place|A|Jefferson County
+AL|01|09808|Brookwood town|Incorporated Place|A|Tuscaloosa County
+AL|01|09880|Broomtown CDP|Census Designated Place|S|Cherokee County
+AL|01|10240|Brundidge city|Incorporated Place|A|Pike County
+AL|01|10456|Bucks CDP|Census Designated Place|S|Mobile County
+AL|01|11032|Butler town|Incorporated Place|A|Choctaw County
+AL|01|11416|Calera city|Incorporated Place|A|Chilton County, Shelby County
+AL|01|11488|Calvert CDP|Census Designated Place|S|Mobile County, Washington County
+AL|01|11512|Camden city|Incorporated Place|A|Wilcox County
+AL|01|11680|Camp Hill town|Incorporated Place|A|Tallapoosa County
+AL|01|12016|Carbon Hill city|Incorporated Place|A|Walker County
+AL|01|12040|Cardiff town|Incorporated Place|A|Jefferson County
+AL|01|12070|Carlisle-Rockledge CDP|Census Designated Place|S|Etowah County
+AL|01|12112|Carlton CDP|Census Designated Place|S|Clarke County
+AL|01|12160|Carolina town|Incorporated Place|A|Covington County
+AL|01|12304|Carrollton town|Incorporated Place|A|Pickens County
+AL|01|12496|Castleberry town|Incorporated Place|A|Conecuh County
+AL|01|12544|Catherine CDP|Census Designated Place|S|Wilcox County
+AL|01|12760|Cedar Bluff town|Incorporated Place|A|Cherokee County
+AL|01|13264|Center Point city|Incorporated Place|A|Jefferson County
+AL|01|13648|Centre city|Incorporated Place|A|Cherokee County
+AL|01|13672|Centreville city|Incorporated Place|A|Bibb County
+AL|01|14008|Chatom town|Incorporated Place|A|Washington County
+AL|01|14104|Chelsea city|Incorporated Place|A|Shelby County
+AL|01|14152|Cherokee town|Incorporated Place|A|Colbert County
+AL|01|14392|Chickasaw city|Incorporated Place|A|Mobile County
+AL|01|14464|Childersburg city|Incorporated Place|A|Talladega County
+AL|01|14728|Choccolocco CDP|Census Designated Place|S|Calhoun County
+AL|01|14968|Chunchula CDP|Census Designated Place|S|Mobile County
+AL|01|15064|Citronelle city|Incorporated Place|A|Mobile County
+AL|01|15136|Clanton city|Incorporated Place|A|Chilton County
+AL|01|15256|Clay city|Incorporated Place|A|Jefferson County
+AL|01|15304|Clayhatchee town|Incorporated Place|A|Dale County
+AL|01|15376|Clayton town|Incorporated Place|A|Barbour County
+AL|01|15472|Cleveland town|Incorporated Place|A|Blount County
+AL|01|15640|Clio city|Incorporated Place|A|Barbour County
+AL|01|16000|Coaling town|Incorporated Place|A|Tuscaloosa County
+AL|01|16080|Coats Bend CDP|Census Designated Place|S|Etowah County
+AL|01|16240|Coffee Springs town|Incorporated Place|A|Geneva County
+AL|01|16264|Coffeeville town|Incorporated Place|A|Clarke County
+AL|01|16312|Coker town|Incorporated Place|A|Tuscaloosa County
+AL|01|16600|Collinsville town|Incorporated Place|A|Cherokee County, DeKalb County
+AL|01|16684|Colony town|Incorporated Place|A|Cullman County
+AL|01|16744|Columbia town|Incorporated Place|A|Houston County
+AL|01|16768|Columbiana city|Incorporated Place|A|Shelby County
+AL|01|16936|Concord CDP|Census Designated Place|S|Jefferson County
+AL|01|17176|Coosada town|Incorporated Place|A|Elmore County
+AL|01|17368|Cordova city|Incorporated Place|A|Walker County
+AL|01|17824|Cottonwood town|Incorporated Place|A|Houston County
+AL|01|17968|County Line town|Incorporated Place|A|Blount County, Jefferson County
+AL|01|18040|Courtland town|Incorporated Place|A|Lawrence County
+AL|01|18088|Cowarts town|Incorporated Place|A|Houston County
+AL|01|18304|Creola city|Incorporated Place|A|Mobile County
+AL|01|18856|Crossville town|Incorporated Place|A|DeKalb County
+AL|01|18952|Cuba town|Incorporated Place|A|Sumter County
+AL|01|18976|Cullman city|Incorporated Place|A|Cullman County
+AL|01|19024|Cullomburg CDP|Census Designated Place|S|Choctaw County, Washington County
+AL|01|19216|Cusseta town|Incorporated Place|A|Chambers County
+AL|01|19336|Dadeville city|Incorporated Place|A|Tallapoosa County
+AL|01|19360|Daleville city|Incorporated Place|A|Dale County
+AL|01|19648|Daphne city|Incorporated Place|A|Baldwin County
+AL|01|19744|Dauphin Island town|Incorporated Place|A|Mobile County
+AL|01|19816|Daviston town|Incorporated Place|A|Tallapoosa County
+AL|01|19912|Dayton town|Incorporated Place|A|Marengo County
+AL|01|20008|Deatsville town|Incorporated Place|A|Elmore County
+AL|01|20104|Decatur city|Incorporated Place|A|Limestone County, Morgan County
+AL|01|20152|Deer Park CDP|Census Designated Place|S|Washington County
+AL|01|20272|Delta CDP|Census Designated Place|S|Clay County
+AL|01|20296|Demopolis city|Incorporated Place|A|Marengo County
+AL|01|20392|Detroit town|Incorporated Place|A|Lamar County
+AL|01|20955|Dodge City town|Incorporated Place|A|Cullman County
+AL|01|21136|Dora city|Incorporated Place|A|Walker County
+AL|01|21184|Dothan city|Incorporated Place|A|Dale County, Henry County, Houston County
+AL|01|21280|Double Springs town|Incorporated Place|A|Winston County
+AL|01|21328|Douglas town|Incorporated Place|A|Marshall County
+AL|01|21448|Dozier town|Incorporated Place|A|Crenshaw County
+AL|01|21890|Dunnavant CDP|Census Designated Place|S|Shelby County
+AL|01|21952|Dutton town|Incorporated Place|A|Jackson County
+AL|01|22216|East Brewton city|Incorporated Place|A|Escambia County
+AL|01|22504|East Point CDP|Census Designated Place|S|Cullman County
+AL|01|22816|Eclectic town|Incorporated Place|A|Elmore County
+AL|01|23032|Edgewater CDP|Census Designated Place|S|Jefferson County
+AL|01|23176|Edwardsville town|Incorporated Place|A|Cleburne County
+AL|01|23224|Egypt CDP|Census Designated Place|S|Etowah County
+AL|01|23296|Elba city|Incorporated Place|A|Coffee County
+AL|01|23320|Elberta town|Incorporated Place|A|Baldwin County
+AL|01|23344|Eldridge town|Incorporated Place|A|Walker County
+AL|01|23488|Elkmont town|Incorporated Place|A|Limestone County
+AL|01|23656|Elmore town|Incorporated Place|A|Elmore County
+AL|01|23872|Emelle town|Incorporated Place|A|Sumter County
+AL|01|23880|Emerald Mountain CDP|Census Designated Place|S|Elmore County
+AL|01|24184|Enterprise city|Incorporated Place|A|Coffee County, Dale County
+AL|01|24256|Epes town|Incorporated Place|A|Sumter County
+AL|01|24472|Ethelsville town|Incorporated Place|A|Pickens County
+AL|01|24568|Eufaula city|Incorporated Place|A|Barbour County
+AL|01|24616|Eunola CDP|Census Designated Place|S|Geneva County
+AL|01|24664|Eutaw town|Incorporated Place|A|Greene County
+AL|01|24688|Eva town|Incorporated Place|A|Morgan County
+AL|01|24808|Evergreen city|Incorporated Place|A|Conecuh County
+AL|01|24880|Excel town|Incorporated Place|A|Monroe County
+AL|01|25120|Fairfield city|Incorporated Place|A|Jefferson County
+AL|01|25216|Fairford CDP|Census Designated Place|S|Washington County
+AL|01|25240|Fairhope city|Incorporated Place|A|Baldwin County
+AL|01|25384|Fairview town|Incorporated Place|A|Cullman County
+AL|01|25648|Falkville town|Incorporated Place|A|Morgan County
+AL|01|25816|Faunsdale town|Incorporated Place|A|Marengo County
+AL|01|25840|Fayette city|Incorporated Place|A|Fayette County
+AL|01|25864|Fayetteville CDP|Census Designated Place|S|Talladega County
+AL|01|26152|Fitzpatrick CDP|Census Designated Place|S|Bullock County
+AL|01|26200|Five Points town|Incorporated Place|A|Chambers County
+AL|01|26824|Flomaton town|Incorporated Place|A|Escambia County
+AL|01|26848|Florala town|Incorporated Place|A|Covington County
+AL|01|26896|Florence city|Incorporated Place|A|Lauderdale County
+AL|01|26992|Foley city|Incorporated Place|A|Baldwin County
+AL|01|27088|Forestdale CDP|Census Designated Place|S|Jefferson County
+AL|01|27376|Forkland town|Incorporated Place|A|Greene County
+AL|01|27520|Fort Deposit town|Incorporated Place|A|Lowndes County
+AL|01|27616|Fort Payne city|Incorporated Place|A|DeKalb County
+AL|01|27640|Fort Rucker CDP|Census Designated Place|S|Dale County
+AL|01|28024|Franklin town|Incorporated Place|A|Macon County
+AL|01|28120|Fredonia CDP|Census Designated Place|S|Chambers County
+AL|01|28312|Frisco City town|Incorporated Place|A|Monroe County
+AL|01|28408|Fruitdale CDP|Census Designated Place|S|Washington County
+AL|01|28432|Fruithurst town|Incorporated Place|A|Cleburne County
+AL|01|28504|Fulton town|Incorporated Place|A|Clarke County
+AL|01|28552|Fultondale city|Incorporated Place|A|Jefferson County
+AL|01|28672|Fyffe town|Incorporated Place|A|DeKalb County
+AL|01|28696|Gadsden city|Incorporated Place|A|Etowah County
+AL|01|28768|Gainesville town|Incorporated Place|A|Sumter County
+AL|01|28816|Gallant CDP|Census Designated Place|S|Etowah County
+AL|01|28936|Gantt town|Incorporated Place|A|Covington County
+AL|01|29032|Garden City town|Incorporated Place|A|Blount County, Cullman County
+AL|01|29056|Gardendale city|Incorporated Place|A|Jefferson County
+AL|01|29296|Gaylesville town|Incorporated Place|A|Cherokee County
+AL|01|29392|Geiger town|Incorporated Place|A|Sumter County
+AL|01|29464|Geneva city|Incorporated Place|A|Geneva County
+AL|01|29560|Georgiana town|Incorporated Place|A|Butler County
+AL|01|29608|Geraldine town|Incorporated Place|A|DeKalb County
+AL|01|29704|Gilbertown town|Incorporated Place|A|Choctaw County
+AL|01|29944|Glen Allen town|Incorporated Place|A|Fayette County, Marion County
+AL|01|29992|Glencoe city|Incorporated Place|A|Calhoun County, Etowah County
+AL|01|30160|Glenwood town|Incorporated Place|A|Crenshaw County
+AL|01|30448|Goldville town|Incorporated Place|A|Tallapoosa County
+AL|01|30496|Good Hope town|Incorporated Place|A|Cullman County
+AL|01|30640|Goodwater town|Incorporated Place|A|Coosa County
+AL|01|30736|Gordo town|Incorporated Place|A|Pickens County
+AL|01|30760|Gordon town|Incorporated Place|A|Houston County
+AL|01|30808|Gordonville town|Incorporated Place|A|Lowndes County
+AL|01|30880|Goshen town|Incorporated Place|A|Pike County
+AL|01|31000|Graham CDP|Census Designated Place|S|Randolph County
+AL|01|31024|Grand Bay CDP|Census Designated Place|S|Mobile County
+AL|01|31096|Grant town|Incorporated Place|A|Marshall County
+AL|01|31348|Grayson Valley CDP|Census Designated Place|S|Jefferson County
+AL|01|31384|Graysville city|Incorporated Place|A|Jefferson County
+AL|01|31720|Greensboro city|Incorporated Place|A|Hale County
+AL|01|31912|Greenville city|Incorporated Place|A|Butler County
+AL|01|32056|Grimes town|Incorporated Place|A|Dale County
+AL|01|32080|Grove Hill town|Incorporated Place|A|Clarke County
+AL|01|32224|Guin city|Incorporated Place|A|Marion County
+AL|01|32248|Gulfcrest CDP|Census Designated Place|S|Mobile County
+AL|01|32272|Gulf Shores city|Incorporated Place|A|Baldwin County
+AL|01|32416|Guntersville city|Incorporated Place|A|Marshall County
+AL|01|32440|Gurley town|Incorporated Place|A|Madison County
+AL|01|32536|Gu-Win town|Incorporated Place|A|Fayette County, Marion County
+AL|01|32560|Hackleburg town|Incorporated Place|A|Marion County
+AL|01|32584|Hackneyville CDP|Census Designated Place|S|Tallapoosa County
+AL|01|32656|Haleburg town|Incorporated Place|A|Henry County
+AL|01|32704|Haleyville city|Incorporated Place|A|Marion County, Winston County
+AL|01|32848|Hamilton city|Incorporated Place|A|Marion County
+AL|01|32896|Hammondville town|Incorporated Place|A|DeKalb County
+AL|01|32968|Hanceville city|Incorporated Place|A|Cullman County
+AL|01|33256|Harpersville town|Incorporated Place|A|Shelby County
+AL|01|33424|Hartford city|Incorporated Place|A|Geneva County
+AL|01|33448|Hartselle city|Incorporated Place|A|Morgan County
+AL|01|33472|Harvest CDP|Census Designated Place|S|Madison County
+AL|01|33544|Hatton CDP|Census Designated Place|S|Lawrence County
+AL|01|33640|Hayden town|Incorporated Place|A|Blount County
+AL|01|33712|Hayneville town|Incorporated Place|A|Lowndes County
+AL|01|33808|Hazel Green CDP|Census Designated Place|S|Madison County
+AL|01|33856|Headland city|Incorporated Place|A|Henry County
+AL|01|33904|Heath town|Incorporated Place|A|Covington County
+AL|01|33976|Heflin city|Incorporated Place|A|Cleburne County
+AL|01|34024|Helena city|Incorporated Place|A|Jefferson County, Shelby County
+AL|01|34096|Henagar city|Incorporated Place|A|DeKalb County
+AL|01|34480|Highland Lake town|Incorporated Place|A|Blount County
+AL|01|34490|Highland Lakes CDP|Census Designated Place|S|Shelby County
+AL|01|34816|Hillsboro town|Incorporated Place|A|Lawrence County
+AL|01|34984|Hissop CDP|Census Designated Place|S|Coosa County
+AL|01|35130|Hobson CDP|Census Designated Place|S|Washington County
+AL|01|35152|Hobson City town|Incorporated Place|A|Calhoun County
+AL|01|35200|Hodges town|Incorporated Place|A|Franklin County
+AL|01|35392|Hokes Bluff city|Incorporated Place|A|Etowah County
+AL|01|35512|Hollins CDP|Census Designated Place|S|Clay County
+AL|01|35536|Hollis Crossroads CDP|Census Designated Place|S|Cleburne County
+AL|01|35560|Holly Pond town|Incorporated Place|A|Cullman County
+AL|01|35632|Hollywood town|Incorporated Place|A|Jackson County
+AL|01|35704|Holt CDP|Census Designated Place|S|Tuscaloosa County
+AL|01|35752|Holtville CDP|Census Designated Place|S|Elmore County
+AL|01|35800|Homewood city|Incorporated Place|A|Jefferson County
+AL|01|35896|Hoover city|Incorporated Place|A|Jefferson County, Shelby County
+AL|01|36088|Horn Hill town|Incorporated Place|A|Covington County
+AL|01|36448|Hueytown city|Incorporated Place|A|Jefferson County
+AL|01|36592|Huguley CDP|Census Designated Place|S|Chambers County
+AL|01|37000|Huntsville city|Incorporated Place|A|Limestone County, Madison County
+AL|01|37096|Hurtsboro town|Incorporated Place|A|Russell County
+AL|01|37264|Hytop town|Incorporated Place|A|Jackson County
+AL|01|37312|Ider town|Incorporated Place|A|DeKalb County
+AL|01|37465|Indian Springs Village city|Incorporated Place|A|Shelby County
+AL|01|37864|Irondale city|Incorporated Place|A|Jefferson County
+AL|01|38032|Ivalee CDP|Census Designated Place|S|Etowah County
+AL|01|38152|Jackson city|Incorporated Place|A|Clarke County
+AL|01|38248|Jacksons' Gap town|Incorporated Place|A|Tallapoosa County
+AL|01|38272|Jacksonville city|Incorporated Place|A|Calhoun County
+AL|01|38416|Jasper city|Incorporated Place|A|Walker County
+AL|01|38608|Jemison city|Incorporated Place|A|Chilton County
+AL|01|39088|Joppa CDP|Census Designated Place|S|Cullman County, Marshall County
+AL|01|39280|Kansas town|Incorporated Place|A|Walker County
+AL|01|39472|Kellyton town|Incorporated Place|A|Coosa County
+AL|01|39520|Kennedy town|Incorporated Place|A|Lamar County
+AL|01|39784|Killen town|Incorporated Place|A|Lauderdale County
+AL|01|39856|Kimberly town|Incorporated Place|A|Jefferson County
+AL|01|40072|Kinsey town|Incorporated Place|A|Houston County
+AL|01|40096|Kinston town|Incorporated Place|A|Coffee County
+AL|01|40648|Ladonia CDP|Census Designated Place|S|Russell County
+AL|01|40672|La Fayette city|Incorporated Place|A|Chambers County
+AL|01|40888|Lakeview town|Incorporated Place|A|DeKalb County
+AL|01|40928|Lake View town|Incorporated Place|A|Tuscaloosa County
+AL|01|41296|Lanett city|Incorporated Place|A|Chambers County
+AL|01|41368|Langston town|Incorporated Place|A|Jackson County
+AL|01|41968|Leeds city|Incorporated Place|A|Jefferson County, Shelby County, St. Clair County
+AL|01|42016|Leesburg town|Incorporated Place|A|Cherokee County
+AL|01|42160|Leighton town|Incorporated Place|A|Colbert County
+AL|01|42304|Leroy CDP|Census Designated Place|S|Washington County
+AL|01|42352|Lester town|Incorporated Place|A|Limestone County
+AL|01|42472|Level Plains town|Incorporated Place|A|Dale County
+AL|01|42640|Lexington town|Incorporated Place|A|Lauderdale County
+AL|01|42808|Libertyville town|Incorporated Place|A|Covington County
+AL|01|43120|Lincoln city|Incorporated Place|A|Talladega County
+AL|01|43240|Linden city|Incorporated Place|A|Marengo County
+AL|01|43264|Lineville city|Incorporated Place|A|Clay County
+AL|01|43336|Lipscomb city|Incorporated Place|A|Jefferson County
+AL|01|43384|Lisman town|Incorporated Place|A|Choctaw County
+AL|01|43648|Littleville town|Incorporated Place|A|Colbert County
+AL|01|43720|Livingston city|Incorporated Place|A|Sumter County
+AL|01|43744|Loachapoka town|Incorporated Place|A|Lee County
+AL|01|43816|Lockhart town|Incorporated Place|A|Covington County
+AL|01|43888|Locust Fork town|Incorporated Place|A|Blount County
+AL|01|44160|Lookout Mountain CDP|Census Designated Place|S|Etowah County
+AL|01|44344|Louisville town|Incorporated Place|A|Barbour County
+AL|01|44536|Lowndesboro town|Incorporated Place|A|Lowndes County
+AL|01|44608|Loxley town|Incorporated Place|A|Baldwin County
+AL|01|44728|Luverne city|Incorporated Place|A|Crenshaw County
+AL|01|44800|Lynn town|Incorporated Place|A|Winston County
+AL|01|45208|McDonald Chapel CDP|Census Designated Place|S|Jefferson County
+AL|01|45316|Macedonia CDP|Census Designated Place|S|Pickens County
+AL|01|45472|McIntosh town|Incorporated Place|A|Washington County
+AL|01|45496|McKenzie town|Incorporated Place|A|Butler County, Conecuh County
+AL|01|45640|McMullen town|Incorporated Place|A|Pickens County
+AL|01|45784|Madison city|Incorporated Place|A|Limestone County, Madison County
+AL|01|45904|Madrid town|Incorporated Place|A|Houston County
+AL|01|46072|Magnolia Springs town|Incorporated Place|A|Baldwin County
+AL|01|46192|Malcolm CDP|Census Designated Place|S|Washington County
+AL|01|46264|Malvern town|Incorporated Place|A|Geneva County
+AL|01|46504|Maplesville town|Incorporated Place|A|Chilton County
+AL|01|46600|Marbury CDP|Census Designated Place|S|Autauga County
+AL|01|46696|Margaret town|Incorporated Place|A|St. Clair County
+AL|01|46768|Marion city|Incorporated Place|A|Perry County
+AL|01|47728|Maytown town|Incorporated Place|A|Jefferson County
+AL|01|47740|Meadowbrook CDP|Census Designated Place|S|Shelby County
+AL|01|47848|Megargel CDP|Census Designated Place|S|Monroe County
+AL|01|48052|Memphis town|Incorporated Place|A|Pickens County
+AL|01|48064|Mentone town|Incorporated Place|A|DeKalb County
+AL|01|48112|Meridianville CDP|Census Designated Place|S|Madison County
+AL|01|48376|Midfield city|Incorporated Place|A|Jefferson County
+AL|01|48400|Midland City town|Incorporated Place|A|Dale County
+AL|01|48424|Midway town|Incorporated Place|A|Bullock County
+AL|01|48616|Mignon CDP|Census Designated Place|S|Talladega County
+AL|01|48712|Millbrook city|Incorporated Place|A|Autauga County, Elmore County
+AL|01|48784|Millerville CDP|Census Designated Place|S|Clay County
+AL|01|48808|Millport town|Incorporated Place|A|Lamar County
+AL|01|48832|Millry town|Incorporated Place|A|Washington County
+AL|01|49072|Minor CDP|Census Designated Place|S|Jefferson County
+AL|01|50000|Mobile city|Incorporated Place|A|Mobile County
+AL|01|50192|Monroeville city|Incorporated Place|A|Monroe County
+AL|01|50312|Montevallo city|Incorporated Place|A|Shelby County
+AL|01|51000|Montgomery city|Incorporated Place|A|Montgomery County
+AL|01|51096|Moody city|Incorporated Place|A|St. Clair County
+AL|01|51216|Moores Mill CDP|Census Designated Place|S|Madison County
+AL|01|51264|Mooresville town|Incorporated Place|A|Limestone County
+AL|01|51456|Morris town|Incorporated Place|A|Jefferson County
+AL|01|51468|Morrison Crossroads CDP|Census Designated Place|S|Randolph County
+AL|01|51520|Mosses town|Incorporated Place|A|Lowndes County
+AL|01|51600|Moulton city|Incorporated Place|A|Lawrence County
+AL|01|51648|Moundville town|Incorporated Place|A|Hale County, Tuscaloosa County
+AL|01|51696|Mountain Brook city|Incorporated Place|A|Jefferson County
+AL|01|52320|Mount Olive CDP|Census Designated Place|S|Coosa County
+AL|01|52344|Mount Olive CDP|Census Designated Place|S|Jefferson County
+AL|01|52608|Mount Vernon town|Incorporated Place|A|Mobile County
+AL|01|52680|Movico CDP|Census Designated Place|S|Mobile County
+AL|01|52776|Mulga town|Incorporated Place|A|Jefferson County
+AL|01|52848|Munford town|Incorporated Place|A|Talladega County
+AL|01|53016|Muscle Shoals city|Incorporated Place|A|Colbert County
+AL|01|53112|Myrtlewood town|Incorporated Place|A|Marengo County
+AL|01|53208|Nanafalia CDP|Census Designated Place|S|Marengo County
+AL|01|53232|Nances Creek CDP|Census Designated Place|S|Calhoun County
+AL|01|53256|Napier Field town|Incorporated Place|A|Dale County
+AL|01|53376|Natural Bridge town|Incorporated Place|A|Winston County
+AL|01|53400|Nauvoo town|Incorporated Place|A|Walker County, Winston County
+AL|01|53448|Nectar town|Incorporated Place|A|Blount County
+AL|01|53472|Needham town|Incorporated Place|A|Choctaw County
+AL|01|53784|Newbern town|Incorporated Place|A|Hale County
+AL|01|53856|New Brockton town|Incorporated Place|A|Coffee County
+AL|01|54168|New Hope city|Incorporated Place|A|Madison County
+AL|01|54312|New Market CDP|Census Designated Place|S|Madison County
+AL|01|54432|New Site town|Incorporated Place|A|Tallapoosa County
+AL|01|54480|Newton town|Incorporated Place|A|Dale County
+AL|01|54582|New Union CDP|Census Designated Place|S|Etowah County
+AL|01|54600|Newville town|Incorporated Place|A|Henry County
+AL|01|55044|North Courtland town|Incorporated Place|A|Lawrence County
+AL|01|55152|North Johns town|Incorporated Place|A|Jefferson County
+AL|01|55200|Northport city|Incorporated Place|A|Tuscaloosa County
+AL|01|55440|Notasulga town|Incorporated Place|A|Lee County, Macon County
+AL|01|55752|Oak Grove town|Incorporated Place|A|Talladega County
+AL|01|55848|Oak Hill town|Incorporated Place|A|Wilcox County
+AL|01|55992|Oakman town|Incorporated Place|A|Walker County
+AL|01|56400|Odenville town|Incorporated Place|A|St. Clair County
+AL|01|56472|Ohatchee town|Incorporated Place|A|Calhoun County
+AL|01|57000|Oneonta city|Incorporated Place|A|Blount County
+AL|01|57024|Onycha town|Incorporated Place|A|Covington County
+AL|01|57048|Opelika city|Incorporated Place|A|Lee County
+AL|01|57120|Opp city|Incorporated Place|A|Covington County
+AL|01|57144|Orange Beach city|Incorporated Place|A|Baldwin County
+AL|01|57240|Orrville town|Incorporated Place|A|Dallas County
+AL|01|57384|Our Town CDP|Census Designated Place|S|Tallapoosa County
+AL|01|57504|Owens Cross Roads town|Incorporated Place|A|Madison County
+AL|01|57576|Oxford city|Incorporated Place|A|Calhoun County, Talladega County
+AL|01|57648|Ozark city|Incorporated Place|A|Dale County
+AL|01|57696|Paint Rock town|Incorporated Place|A|Jackson County
+AL|01|57912|Panola CDP|Census Designated Place|S|Sumter County
+AL|01|58272|Parrish town|Incorporated Place|A|Walker County
+AL|01|58848|Pelham city|Incorporated Place|A|Shelby County
+AL|01|58896|Pell City city|Incorporated Place|A|St. Clair County
+AL|01|58968|Pennington town|Incorporated Place|A|Choctaw County
+AL|01|59016|Penton CDP|Census Designated Place|S|Chambers County
+AL|01|59088|Perdido Beach town|Incorporated Place|A|Baldwin County
+AL|01|59232|Peterman CDP|Census Designated Place|S|Monroe County
+AL|01|59328|Petrey town|Incorporated Place|A|Crenshaw County
+AL|01|59472|Phenix City city|Incorporated Place|A|Lee County, Russell County
+AL|01|59496|Phil Campbell town|Incorporated Place|A|Franklin County
+AL|01|59592|Pickensville town|Incorporated Place|A|Pickens County
+AL|01|59640|Piedmont city|Incorporated Place|A|Calhoun County, Cherokee County
+AL|01|59760|Pike Road town|Incorporated Place|A|Montgomery County
+AL|01|59832|Pinckard town|Incorporated Place|A|Dale County
+AL|01|59880|Pine Apple town|Incorporated Place|A|Wilcox County
+AL|01|60240|Pine Hill town|Incorporated Place|A|Wilcox County
+AL|01|60264|Pine Level CDP|Census Designated Place|S|Autauga County
+AL|01|60372|Pine Ridge town|Incorporated Place|A|DeKalb County
+AL|01|60648|Pinson city|Incorporated Place|A|Jefferson County
+AL|01|60720|Pisgah town|Incorporated Place|A|Jackson County
+AL|01|61008|Pleasant Grove city|Incorporated Place|A|Jefferson County
+AL|01|61038|Pleasant Groves town|Incorporated Place|A|Jackson County
+AL|01|61488|Point Clear CDP|Census Designated Place|S|Baldwin County
+AL|01|61536|Pollard town|Incorporated Place|A|Escambia County
+AL|01|62075|Powell town|Incorporated Place|A|DeKalb County
+AL|01|62328|Prattville city|Incorporated Place|A|Autauga County, Elmore County
+AL|01|62472|Priceville town|Incorporated Place|A|Morgan County
+AL|01|62496|Prichard city|Incorporated Place|A|Mobile County
+AL|01|62688|Providence town|Incorporated Place|A|Marengo County
+AL|01|62952|Putnam CDP|Census Designated Place|S|Marengo County
+AL|01|63216|Ragland town|Incorporated Place|A|St. Clair County
+AL|01|63288|Rainbow City city|Incorporated Place|A|Etowah County
+AL|01|63336|Rainsville city|Incorporated Place|A|DeKalb County
+AL|01|63408|Ranburne town|Incorporated Place|A|Cleburne County
+AL|01|63495|Ray CDP|Census Designated Place|S|Coosa County
+AL|01|63576|Red Bay city|Incorporated Place|A|Franklin County
+AL|01|63730|Redland CDP|Census Designated Place|S|Elmore County
+AL|01|63768|Red Level town|Incorporated Place|A|Covington County
+AL|01|63912|Redstone Arsenal CDP|Census Designated Place|S|Madison County
+AL|01|63984|Reece City town|Incorporated Place|A|Etowah County
+AL|01|64040|Reeltown CDP|Census Designated Place|S|Tallapoosa County
+AL|01|64104|Reform town|Incorporated Place|A|Pickens County
+AL|01|64152|Rehobeth town|Incorporated Place|A|Houston County
+AL|01|64368|Repton town|Incorporated Place|A|Conecuh County
+AL|01|64656|Ridgeville town|Incorporated Place|A|Etowah County
+AL|01|64776|River Falls town|Incorporated Place|A|Covington County
+AL|01|64920|Riverside town|Incorporated Place|A|St. Clair County
+AL|01|65016|Riverview town|Incorporated Place|A|Escambia County
+AL|01|65040|Roanoke city|Incorporated Place|A|Randolph County
+AL|01|65208|Robertsdale city|Incorporated Place|A|Baldwin County
+AL|01|65412|Rock Creek CDP|Census Designated Place|S|Jefferson County
+AL|01|65472|Rockford town|Incorporated Place|A|Coosa County
+AL|01|65592|Rock Mills CDP|Census Designated Place|S|Randolph County
+AL|01|65784|Rockville CDP|Census Designated Place|S|Clarke County
+AL|01|66216|Rogersville town|Incorporated Place|A|Lauderdale County
+AL|01|66408|Rosa town|Incorporated Place|A|Blount County
+AL|01|67056|Russellville city|Incorporated Place|A|Franklin County
+AL|01|67176|Rutledge town|Incorporated Place|A|Crenshaw County
+AL|01|67536|St. Florian town|Incorporated Place|A|Lauderdale County
+AL|01|67584|St. Stephens CDP|Census Designated Place|S|Washington County
+AL|01|67608|Saks CDP|Census Designated Place|S|Calhoun County
+AL|01|67800|Samson city|Incorporated Place|A|Geneva County
+AL|01|67920|Sand Rock town|Incorporated Place|A|Cherokee County, DeKalb County
+AL|01|68016|Sanford town|Incorporated Place|A|Covington County
+AL|01|68160|Saraland city|Incorporated Place|A|Mobile County
+AL|01|68280|Sardis City town|Incorporated Place|A|Etowah County, Marshall County
+AL|01|68352|Satsuma city|Incorporated Place|A|Mobile County
+AL|01|68736|Scottsboro city|Incorporated Place|A|Jackson County
+AL|01|69000|Section town|Incorporated Place|A|Jackson County
+AL|01|69120|Selma city|Incorporated Place|A|Dallas County
+AL|01|69180|Selmont-West Selmont CDP|Census Designated Place|S|Dallas County
+AL|01|69648|Sheffield city|Incorporated Place|A|Colbert County
+AL|01|69672|Shelby CDP|Census Designated Place|S|Shelby County
+AL|01|69840|Shiloh town|Incorporated Place|A|DeKalb County
+AL|01|69978|Shoal Creek CDP|Census Designated Place|S|Shelby County
+AL|01|70128|Shorter town|Incorporated Place|A|Macon County
+AL|01|70416|Silas town|Incorporated Place|A|Choctaw County
+AL|01|70536|Silverhill town|Incorporated Place|A|Baldwin County
+AL|01|70632|Sims Chapel CDP|Census Designated Place|S|Washington County
+AL|01|70704|Sipsey town|Incorporated Place|A|Walker County
+AL|01|70896|Skyline town|Incorporated Place|A|Jackson County
+AL|01|71040|Slocomb city|Incorporated Place|A|Geneva County
+AL|01|71190|Smiths Station city|Incorporated Place|A|Lee County
+AL|01|71201|Smoke Rise CDP|Census Designated Place|S|Blount County
+AL|01|71280|Snead town|Incorporated Place|A|Blount County
+AL|01|71496|Somerville town|Incorporated Place|A|Morgan County
+AL|01|71832|Southside city|Incorporated Place|A|Calhoun County, Etowah County
+AL|01|71900|South Vinemont town|Incorporated Place|A|Cullman County
+AL|01|71976|Spanish Fort city|Incorporated Place|A|Baldwin County
+AL|01|72408|Spring Garden CDP|Census Designated Place|S|Cherokee County
+AL|01|72600|Springville city|Incorporated Place|A|St. Clair County
+AL|01|72672|Spruce Pine CDP|Census Designated Place|S|Franklin County
+AL|01|72720|Standing Rock CDP|Census Designated Place|S|Chambers County
+AL|01|72888|Steele town|Incorporated Place|A|St. Clair County
+AL|01|73056|Sterrett CDP|Census Designated Place|S|Shelby County
+AL|01|73080|Stevenson city|Incorporated Place|A|Jackson County
+AL|01|73152|Stewartville CDP|Census Designated Place|S|Coosa County
+AL|01|73728|Sulligent city|Incorporated Place|A|Lamar County
+AL|01|73848|Sumiton city|Incorporated Place|A|Jefferson County, Walker County
+AL|01|73872|Summerdale town|Incorporated Place|A|Baldwin County
+AL|01|74160|Susan Moore town|Incorporated Place|A|Blount County
+AL|01|74304|Sweet Water town|Incorporated Place|A|Marengo County
+AL|01|74352|Sylacauga city|Incorporated Place|A|Talladega County
+AL|01|74400|Sylvania town|Incorporated Place|A|DeKalb County
+AL|01|74424|Sylvan Springs town|Incorporated Place|A|Jefferson County
+AL|01|74592|Talladega city|Incorporated Place|A|Talladega County
+AL|01|74616|Talladega Springs town|Incorporated Place|A|Talladega County
+AL|01|74688|Tallassee city|Incorporated Place|A|Elmore County, Tallapoosa County
+AL|01|74976|Tarrant city|Incorporated Place|A|Jefferson County
+AL|01|75096|Taylor town|Incorporated Place|A|Geneva County, Houston County
+AL|01|75768|Theodore CDP|Census Designated Place|S|Mobile County
+AL|01|75936|Thomaston town|Incorporated Place|A|Marengo County
+AL|01|75960|Thomasville city|Incorporated Place|A|Clarke County
+AL|01|76080|Thorsby town|Incorporated Place|A|Chilton County
+AL|01|76200|Tibbie CDP|Census Designated Place|S|Washington County
+AL|01|76208|Tidmore Bend CDP|Census Designated Place|S|Etowah County
+AL|01|76320|Tillmans Corner CDP|Census Designated Place|S|Mobile County
+AL|01|76584|Town Creek town|Incorporated Place|A|Lawrence County
+AL|01|76632|Toxey town|Incorporated Place|A|Choctaw County
+AL|01|76680|Trafford town|Incorporated Place|A|Blount County, Jefferson County
+AL|01|76824|Triana town|Incorporated Place|A|Madison County
+AL|01|76872|Trinity town|Incorporated Place|A|Morgan County
+AL|01|76920|Troy city|Incorporated Place|A|Pike County
+AL|01|76944|Trussville city|Incorporated Place|A|Jefferson County, St. Clair County
+AL|01|77256|Tuscaloosa city|Incorporated Place|A|Tuscaloosa County
+AL|01|77280|Tuscumbia city|Incorporated Place|A|Colbert County
+AL|01|77304|Tuskegee city|Incorporated Place|A|Macon County
+AL|01|77352|Twin town|Incorporated Place|A|Marion County
+AL|01|77580|Underwood-Petersville CDP|Census Designated Place|S|Lauderdale County
+AL|01|77616|Union town|Incorporated Place|A|Greene County
+AL|01|77784|Union Grove town|Incorporated Place|A|Marshall County
+AL|01|77880|Union Springs city|Incorporated Place|A|Bullock County
+AL|01|77904|Uniontown town|Incorporated Place|A|Perry County
+AL|01|78120|Uriah CDP|Census Designated Place|S|Monroe County
+AL|01|78204|Valley city|Incorporated Place|A|Chambers County
+AL|01|78232|Valley Grande city|Incorporated Place|A|Dallas County
+AL|01|78240|Valley Head town|Incorporated Place|A|DeKalb County
+AL|01|78264|Vance town|Incorporated Place|A|Bibb County, Tuscaloosa County
+AL|01|78312|Vandiver CDP|Census Designated Place|S|Shelby County
+AL|01|78480|Vernon city|Incorporated Place|A|Lamar County
+AL|01|78552|Vestavia Hills city|Incorporated Place|A|Jefferson County, Shelby County
+AL|01|78984|Vina town|Incorporated Place|A|Franklin County
+AL|01|79008|Vincent town|Incorporated Place|A|Shelby County, St. Clair County, Talladega County
+AL|01|79032|Vinegar Bend CDP|Census Designated Place|S|Washington County
+AL|01|79272|Vredenburgh town|Incorporated Place|A|Monroe County
+AL|01|79344|Wadley town|Incorporated Place|A|Randolph County
+AL|01|79488|Waldo town|Incorporated Place|A|Talladega County
+AL|01|79728|Walnut Grove town|Incorporated Place|A|Etowah County
+AL|01|79944|Warrior city|Incorporated Place|A|Jefferson County
+AL|01|80064|Waterloo town|Incorporated Place|A|Lauderdale County
+AL|01|80256|Waverly town|Incorporated Place|A|Chambers County, Lee County
+AL|01|80352|Weaver city|Incorporated Place|A|Calhoun County
+AL|01|80376|Webb town|Incorporated Place|A|Houston County
+AL|01|80496|Wedowee town|Incorporated Place|A|Randolph County
+AL|01|80736|Weogufka CDP|Census Designated Place|S|Coosa County
+AL|01|80928|West Blocton town|Incorporated Place|A|Bibb County
+AL|01|81084|West End-Cobb Town CDP|Census Designated Place|S|Calhoun County
+AL|01|81336|West Jefferson town|Incorporated Place|A|Jefferson County
+AL|01|81504|Westover town|Incorporated Place|A|Shelby County
+AL|01|81528|West Point town|Incorporated Place|A|Cullman County
+AL|01|81720|Wetumpka city|Incorporated Place|A|Elmore County
+AL|01|81744|Whatley CDP|Census Designated Place|S|Clarke County
+AL|01|81912|White Hall town|Incorporated Place|A|Lowndes County
+AL|01|82104|White Plains CDP|Census Designated Place|S|Calhoun County
+AL|01|82176|Whitesboro CDP|Census Designated Place|S|Etowah County
+AL|01|82848|Wilsonville town|Incorporated Place|A|Shelby County
+AL|01|82872|Wilton town|Incorporated Place|A|Shelby County
+AL|01|82992|Winfield city|Incorporated Place|A|Fayette County, Marion County
+AL|01|83400|Woodland town|Incorporated Place|A|Randolph County
+AL|01|83640|Woodstock town|Incorporated Place|A|Bibb County, Tuscaloosa County
+AL|01|83664|Woodville town|Incorporated Place|A|Jackson County
+AL|01|83976|Yellow Bluff town|Incorporated Place|A|Wilcox County
+AL|01|84096|York city|Incorporated Place|A|Sumter County

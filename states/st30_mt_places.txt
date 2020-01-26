@@ -1,0 +1,364 @@
+MT|30|00175|Absarokee CDP|Census Designated Place|S|Stillwater County
+MT|30|00700|Alberton town|Incorporated Place|A|Mineral County
+MT|30|00850|Alder CDP|Census Designated Place|S|Madison County
+MT|30|01300|Alzada CDP|Census Designated Place|S|Carter County
+MT|30|01525|Amsterdam CDP|Census Designated Place|S|Gallatin County
+MT|30|01675|Anaconda-Deer Lodge County|Incorporated Place|A|Deer Lodge County
+MT|30|02050|Antelope CDP|Census Designated Place|S|Sheridan County
+MT|30|02425|Arlee CDP|Census Designated Place|S|Lake County
+MT|30|02800|Ashland CDP|Census Designated Place|S|Rosebud County
+MT|30|03025|Augusta CDP|Census Designated Place|S|Lewis and Clark County
+MT|30|03175|Avon CDP|Census Designated Place|S|Powell County
+MT|30|03212|Azure CDP|Census Designated Place|S|Hill County
+MT|30|03250|Babb CDP|Census Designated Place|S|Glacier County
+MT|30|03400|Bainville town|Incorporated Place|A|Roosevelt County
+MT|30|03475|Baker city|Incorporated Place|A|Fallon County
+MT|30|03625|Ballantine CDP|Census Designated Place|S|Yellowstone County
+MT|30|04150|Basin CDP|Census Designated Place|S|Jefferson County
+MT|30|04230|Batavia CDP|Census Designated Place|S|Flathead County
+MT|30|04300|Bearcreek town|Incorporated Place|A|Carbon County
+MT|30|04410|Bear Dance CDP|Census Designated Place|S|Lake County
+MT|30|04575|Beaver Creek CDP|Census Designated Place|S|Hill County
+MT|30|04900|Belfry CDP|Census Designated Place|S|Carbon County
+MT|30|04975|Belgrade city|Incorporated Place|A|Gallatin County
+MT|30|05050|Belknap CDP|Census Designated Place|S|Sanders County
+MT|30|05275|Belt town|Incorporated Place|A|Cascade County
+MT|30|05650|Biddle CDP|Census Designated Place|S|Powder River County
+MT|30|05800|Big Arm CDP|Census Designated Place|S|Lake County
+MT|30|05875|Bigfork CDP|Census Designated Place|S|Flathead County
+MT|30|06250|Big Sandy town|Incorporated Place|A|Chouteau County
+MT|30|06325|Big Sky CDP|Census Designated Place|S|Gallatin County, Madison County
+MT|30|06475|Big Timber city|Incorporated Place|A|Sweet Grass County
+MT|30|06550|Billings city|Incorporated Place|A|Yellowstone County
+MT|30|06925|Birney CDP|Census Designated Place|S|Rosebud County
+MT|30|07150|Black Eagle CDP|Census Designated Place|S|Cascade County
+MT|30|08162|Boneau CDP|Census Designated Place|S|Chouteau County
+MT|30|08462|Bonner-West Riverside CDP|Census Designated Place|S|Missoula County
+MT|30|08575|Boulder city|Incorporated Place|A|Jefferson County
+MT|30|08725|Box Elder CDP|Census Designated Place|S|Hill County
+MT|30|08800|Boyd CDP|Census Designated Place|S|Carbon County
+MT|30|08950|Bozeman city|Incorporated Place|A|Gallatin County
+MT|30|09250|Brady CDP|Census Designated Place|S|Pondera County
+MT|30|09475|Bridger town|Incorporated Place|A|Carbon County
+MT|30|09500|Bridger CDP|Census Designated Place|S|Gallatin County
+MT|30|09700|Broadus town|Incorporated Place|A|Powder River County
+MT|30|09775|Broadview town|Incorporated Place|A|Yellowstone County
+MT|30|10000|Brockton town|Incorporated Place|A|Roosevelt County
+MT|30|10375|Browning town|Incorporated Place|A|Glacier County
+MT|30|11200|Busby CDP|Census Designated Place|S|Big Horn County
+MT|30|11397|Butte-Silver Bow (balance)|Incorporated Place|F|Silver Bow County
+MT|30|11500|Bynum CDP|Census Designated Place|S|Teton County
+MT|30|11800|Camas CDP|Census Designated Place|S|Sanders County
+MT|30|11995|Camp Three CDP|Census Designated Place|S|Musselshell County
+MT|30|12400|Cardwell CDP|Census Designated Place|S|Jefferson County
+MT|30|12435|Carlton CDP|Census Designated Place|S|Missoula County
+MT|30|12625|Carter CDP|Census Designated Place|S|Chouteau County
+MT|30|12775|Cascade town|Incorporated Place|A|Cascade County
+MT|30|13900|Charlo CDP|Census Designated Place|S|Lake County
+MT|30|13975|Charlos Heights CDP|Census Designated Place|S|Ravalli County
+MT|30|14200|Chester town|Incorporated Place|A|Liberty County
+MT|30|14575|Chinook city|Incorporated Place|A|Blaine County
+MT|30|14650|Choteau city|Incorporated Place|A|Teton County
+MT|30|14875|Churchill CDP|Census Designated Place|S|Gallatin County
+MT|30|14950|Circle town|Incorporated Place|A|McCone County
+MT|30|15100|Clancy CDP|Census Designated Place|S|Jefferson County
+MT|30|15475|Clinton CDP|Census Designated Place|S|Missoula County
+MT|30|15550|Clyde Park town|Incorporated Place|A|Park County
+MT|30|16525|Colstrip city|Incorporated Place|A|Rosebud County
+MT|30|16600|Columbia Falls city|Incorporated Place|A|Flathead County
+MT|30|16825|Columbus town|Incorporated Place|A|Stillwater County
+MT|30|17050|Condon CDP|Census Designated Place|S|Missoula County
+MT|30|17200|Conner CDP|Census Designated Place|S|Ravalli County
+MT|30|17275|Conrad city|Incorporated Place|A|Pondera County
+MT|30|17350|Cooke City CDP|Census Designated Place|S|Park County
+MT|30|17500|Coram CDP|Census Designated Place|S|Flathead County
+MT|30|17725|Corvallis CDP|Census Designated Place|S|Ravalli County
+MT|30|17800|Corwin Springs CDP|Census Designated Place|S|Park County
+MT|30|18025|Craig CDP|Census Designated Place|S|Lewis and Clark County
+MT|30|18100|Crane CDP|Census Designated Place|S|Richland County
+MT|30|18250|Crow Agency CDP|Census Designated Place|S|Big Horn County
+MT|30|18475|Culbertson town|Incorporated Place|A|Roosevelt County
+MT|30|18700|Custer CDP|Census Designated Place|S|Yellowstone County
+MT|30|18775|Cut Bank city|Incorporated Place|A|Glacier County
+MT|30|19300|Darby town|Incorporated Place|A|Ravalli County
+MT|30|19525|Dayton CDP|Census Designated Place|S|Lake County
+MT|30|19675|De Borgia CDP|Census Designated Place|S|Mineral County
+MT|30|19825|Deer Lodge city|Incorporated Place|A|Powell County
+MT|30|20425|Denton town|Incorporated Place|A|Fergus County
+MT|30|20800|Dillon city|Incorporated Place|A|Beaverhead County
+MT|30|20950|Dixon CDP|Census Designated Place|S|Sanders County
+MT|30|21025|Dodson town|Incorporated Place|A|Phillips County
+MT|30|21850|Drummond town|Incorporated Place|A|Granite County
+MT|30|22450|Dupuyer CDP|Census Designated Place|S|Pondera County
+MT|30|22600|Dutton town|Incorporated Place|A|Teton County
+MT|30|22985|East Glacier Park Village CDP|Census Designated Place|S|Glacier County
+MT|30|23125|East Helena city|Incorporated Place|A|Lewis and Clark County
+MT|30|23200|East Missoula CDP|Census Designated Place|S|Missoula County
+MT|30|23500|Edgar CDP|Census Designated Place|S|Carbon County
+MT|30|23650|Ekalaka town|Incorporated Place|A|Carter County
+MT|30|23865|Elkhorn CDP|Census Designated Place|S|Jefferson County
+MT|30|23950|Elliston CDP|Census Designated Place|S|Powell County
+MT|30|24100|Elmo CDP|Census Designated Place|S|Lake County
+MT|30|24325|Emigrant CDP|Census Designated Place|S|Park County
+MT|30|24475|Ennis town|Incorporated Place|A|Madison County
+MT|30|24850|Eureka town|Incorporated Place|A|Lincoln County
+MT|30|25000|Evaro CDP|Census Designated Place|S|Missoula County
+MT|30|25075|Evergreen CDP|Census Designated Place|S|Flathead County
+MT|30|25225|Fairfield town|Incorporated Place|A|Teton County
+MT|30|25300|Fairview town|Incorporated Place|A|Richland County
+MT|30|25375|Fallon CDP|Census Designated Place|S|Prairie County
+MT|30|26226|Finley Point CDP|Census Designated Place|S|Lake County
+MT|30|26800|Flaxville town|Incorporated Place|A|Daniels County
+MT|30|26950|Florence CDP|Census Designated Place|S|Ravalli County
+MT|30|27595|Forest Hill Village CDP|Census Designated Place|S|Flathead County
+MT|30|27700|Forsyth city|Incorporated Place|A|Rosebud County
+MT|30|27850|Fort Belknap Agency CDP|Census Designated Place|S|Blaine County
+MT|30|28000|Fort Benton city|Incorporated Place|A|Chouteau County
+MT|30|28150|Fortine CDP|Census Designated Place|S|Lincoln County
+MT|30|28450|Fort Peck town|Incorporated Place|A|Valley County
+MT|30|28600|Fort Shaw CDP|Census Designated Place|S|Cascade County
+MT|30|28650|Fort Smith CDP|Census Designated Place|S|Big Horn County
+MT|30|28862|Four Corners CDP|Census Designated Place|S|Gallatin County
+MT|30|29087|Fox Lake CDP|Census Designated Place|S|Richland County
+MT|30|29275|Frazer CDP|Census Designated Place|S|Valley County
+MT|30|29350|Frenchtown CDP|Census Designated Place|S|Missoula County
+MT|30|29500|Froid town|Incorporated Place|A|Roosevelt County
+MT|30|29575|Fromberg town|Incorporated Place|A|Carbon County
+MT|30|29875|Gallatin Gateway CDP|Census Designated Place|S|Gallatin County
+MT|30|29885|Gallatin River Ranch CDP|Census Designated Place|S|Gallatin County
+MT|30|29950|Gardiner CDP|Census Designated Place|S|Park County
+MT|30|30175|Garrison CDP|Census Designated Place|S|Powell County
+MT|30|30400|Geraldine town|Incorporated Place|A|Chouteau County
+MT|30|30550|Geyser CDP|Census Designated Place|S|Judith Basin County
+MT|30|30625|Gibson Flats CDP|Census Designated Place|S|Cascade County
+MT|30|30700|Gildford CDP|Census Designated Place|S|Hill County
+MT|30|31075|Glasgow city|Incorporated Place|A|Valley County
+MT|30|31250|South Glastonbury CDP|Census Designated Place|S|Park County
+MT|30|31450|Glendive city|Incorporated Place|A|Dawson County
+MT|30|32575|Grass Range town|Incorporated Place|A|Fergus County
+MT|30|32800|Great Falls city|Incorporated Place|A|Cascade County
+MT|30|33250|Greycliff CDP|Census Designated Place|S|Sweet Grass County
+MT|30|33775|Hamilton city|Incorporated Place|A|Ravalli County
+MT|30|34110|Happys Inn CDP|Census Designated Place|S|Lincoln County
+MT|30|34225|Hardin city|Incorporated Place|A|Big Horn County
+MT|30|34375|Harlem city|Incorporated Place|A|Blaine County
+MT|30|34450|Harlowton city|Incorporated Place|A|Wheatland County
+MT|30|34525|Harrison CDP|Census Designated Place|S|Madison County
+MT|30|35050|Havre city|Incorporated Place|A|Hill County
+MT|30|35125|Havre North CDP|Census Designated Place|S|Hill County
+MT|30|35275|Hays CDP|Census Designated Place|S|Blaine County
+MT|30|35350|Heart Butte CDP|Census Designated Place|S|Pondera County
+MT|30|35435|Hebgen Lake Estates CDP|Census Designated Place|S|Gallatin County
+MT|30|35600|Helena city|Incorporated Place|A|Lewis and Clark County
+MT|30|35622|Helena Flats CDP|Census Designated Place|S|Flathead County
+MT|30|35628|Helena Valley Northeast CDP|Census Designated Place|S|Lewis and Clark County
+MT|30|35631|Helena Valley Northwest CDP|Census Designated Place|S|Lewis and Clark County
+MT|30|35634|Helena Valley Southeast CDP|Census Designated Place|S|Lewis and Clark County
+MT|30|35637|Helena Valley West Central CDP|Census Designated Place|S|Lewis and Clark County
+MT|30|35640|Helena West Side CDP|Census Designated Place|S|Lewis and Clark County
+MT|30|35875|Heron CDP|Census Designated Place|S|Sanders County
+MT|30|35912|Herron CDP|Census Designated Place|S|Hill County
+MT|30|36250|Highwood CDP|Census Designated Place|S|Chouteau County
+MT|30|36400|Hingham town|Incorporated Place|A|Hill County
+MT|30|36475|Hinsdale CDP|Census Designated Place|S|Valley County
+MT|30|36700|Hobson city|Incorporated Place|A|Judith Basin County
+MT|30|37825|Hot Springs town|Incorporated Place|A|Sanders County
+MT|30|38125|Hungry Horse CDP|Census Designated Place|S|Flathead County
+MT|30|38200|Huntley CDP|Census Designated Place|S|Yellowstone County
+MT|30|38275|Huson CDP|Census Designated Place|S|Missoula County
+MT|30|38350|Hysham town|Incorporated Place|A|Treasure County
+MT|30|38480|Indian Springs CDP|Census Designated Place|S|Lincoln County
+MT|30|38725|Inverness CDP|Census Designated Place|S|Hill County
+MT|30|38950|Ismay town|Incorporated Place|A|Custer County
+MT|30|39175|Jardine CDP|Census Designated Place|S|Park County
+MT|30|39400|Jefferson City CDP|Census Designated Place|S|Jefferson County
+MT|30|39627|Jette CDP|Census Designated Place|S|Lake County
+MT|30|39700|Joliet town|Incorporated Place|A|Carbon County
+MT|30|39775|Joplin CDP|Census Designated Place|S|Liberty County
+MT|30|39925|Jordan town|Incorporated Place|A|Garfield County
+MT|30|40000|Judith Gap city|Incorporated Place|A|Wheatland County
+MT|30|40075|Kalispell city|Incorporated Place|A|Flathead County
+MT|30|40355|Kerr CDP|Census Designated Place|S|Lake County
+MT|30|40525|Kevin town|Incorporated Place|A|Toole County
+MT|30|40580|Kicking Horse CDP|Census Designated Place|S|Lake County
+MT|30|40675|Kila CDP|Census Designated Place|S|Flathead County
+MT|30|40685|King Arthur Park CDP|Census Designated Place|S|Gallatin County
+MT|30|40725|Kings Point CDP|Census Designated Place|S|Lake County
+MT|30|41050|Klein CDP|Census Designated Place|S|Musselshell County
+MT|30|41087|Knife River CDP|Census Designated Place|S|Richland County
+MT|30|41725|Kremlin CDP|Census Designated Place|S|Hill County
+MT|30|41910|Lake Mary Ronan CDP|Census Designated Place|S|Lake County
+MT|30|41950|Lakeside CDP|Census Designated Place|S|Flathead County
+MT|30|42250|Lame Deer CDP|Census Designated Place|S|Rosebud County
+MT|30|42700|Laurel city|Incorporated Place|A|Yellowstone County
+MT|30|42850|Lavina town|Incorporated Place|A|Golden Valley County
+MT|30|43375|Lewistown city|Incorporated Place|A|Fergus County
+MT|30|43400|Lewistown Heights CDP|Census Designated Place|S|Fergus County
+MT|30|43450|Libby city|Incorporated Place|A|Lincoln County
+MT|30|43525|Lima town|Incorporated Place|A|Beaverhead County
+MT|30|43675|Lincoln CDP|Census Designated Place|S|Lewis and Clark County
+MT|30|43710|Lindisfarne CDP|Census Designated Place|S|Lake County
+MT|30|43830|Little Bitterroot Lake CDP|Census Designated Place|S|Flathead County
+MT|30|43835|Little Browning CDP|Census Designated Place|S|Glacier County
+MT|30|43975|Livingston city|Incorporated Place|A|Park County
+MT|30|44200|Lockwood CDP|Census Designated Place|S|Yellowstone County
+MT|30|44275|Lodge Grass town|Incorporated Place|A|Big Horn County
+MT|30|44350|Lodge Pole CDP|Census Designated Place|S|Blaine County
+MT|30|44500|Logan CDP|Census Designated Place|S|Gallatin County
+MT|30|44650|Lolo CDP|Census Designated Place|S|Missoula County
+MT|30|44800|Loma CDP|Census Designated Place|S|Chouteau County
+MT|30|44950|Lonepine CDP|Census Designated Place|S|Sanders County
+MT|30|47275|Malmstrom AFB CDP|Census Designated Place|S|Cascade County
+MT|30|47425|Malta city|Incorporated Place|A|Phillips County
+MT|30|47575|Manhattan town|Incorporated Place|A|Gallatin County
+MT|30|47875|Marion CDP|Census Designated Place|S|Flathead County
+MT|30|48100|Martin City CDP|Census Designated Place|S|Flathead County
+MT|30|48175|Martinsdale CDP|Census Designated Place|S|Meagher County
+MT|30|48250|Marysville CDP|Census Designated Place|S|Lewis and Clark County
+MT|30|48625|Maxville CDP|Census Designated Place|S|Granite County
+MT|30|48775|Medicine Lake town|Incorporated Place|A|Sheridan County
+MT|30|49000|Melstone town|Incorporated Place|A|Musselshell County
+MT|30|49400|Midvale CDP|Census Designated Place|S|Lincoln County
+MT|30|49525|Miles City city|Incorporated Place|A|Custer County
+MT|30|50200|Missoula city|Incorporated Place|A|Missoula County
+MT|30|51175|Montana City CDP|Census Designated Place|S|Jefferson County
+MT|30|51550|Moore town|Incorporated Place|A|Fergus County
+MT|30|52315|Muddy CDP|Census Designated Place|S|Big Horn County
+MT|30|52600|Musselshell CDP|Census Designated Place|S|Musselshell County
+MT|30|52900|Nashua town|Incorporated Place|A|Valley County
+MT|30|53200|Neihart town|Incorporated Place|A|Cascade County
+MT|30|53725|Niarada CDP|Census Designated Place|S|Flathead County, Lake County, Sanders County
+MT|30|54510|North Browning CDP|Census Designated Place|S|Glacier County
+MT|30|54925|Noxon CDP|Census Designated Place|S|Sanders County
+MT|30|55260|Old Agency CDP|Census Designated Place|S|Sanders County
+MT|30|55450|Olney CDP|Census Designated Place|S|Flathead County
+MT|30|55525|Opheim town|Incorporated Place|A|Valley County
+MT|30|55675|Orchard Homes CDP|Census Designated Place|S|Missoula County
+MT|30|56050|Outlook town|Incorporated Place|A|Sheridan County
+MT|30|56125|Ovando CDP|Census Designated Place|S|Powell County
+MT|30|56350|Pablo CDP|Census Designated Place|S|Lake County
+MT|30|56425|Paradise CDP|Census Designated Place|S|Sanders County
+MT|30|56575|Park City CDP|Census Designated Place|S|Stillwater County
+MT|30|56650|Parker School CDP|Census Designated Place|S|Chouteau County, Hill County
+MT|30|57175|Philipsburg town|Incorporated Place|A|Granite County
+MT|30|57475|Piltzville CDP|Census Designated Place|S|Missoula County
+MT|30|57700|Pinesdale town|Incorporated Place|A|Ravalli County
+MT|30|57950|Pioneer Junction CDP|Census Designated Place|S|Lincoln County
+MT|30|58150|Plains town|Incorporated Place|A|Sanders County
+MT|30|58375|Plentywood city|Incorporated Place|A|Sheridan County
+MT|30|58450|Plevna town|Incorporated Place|A|Fallon County
+MT|30|58750|Polson city|Incorporated Place|A|Lake County
+MT|30|58840|Ponderosa Pines CDP|Census Designated Place|S|Gallatin County
+MT|30|58900|Pony CDP|Census Designated Place|S|Madison County
+MT|30|58975|Poplar city|Incorporated Place|A|Roosevelt County
+MT|30|59500|Power CDP|Census Designated Place|S|Teton County
+MT|30|59725|Pray CDP|Census Designated Place|S|Park County
+MT|30|59950|Pryor CDP|Census Designated Place|S|Big Horn County
+MT|30|60450|Rader Creek CDP|Census Designated Place|S|Jefferson County
+MT|30|60475|Radersburg CDP|Census Designated Place|S|Broadwater County
+MT|30|61075|Ravalli CDP|Census Designated Place|S|Lake County
+MT|30|61525|Red Lodge city|Incorporated Place|A|Carbon County
+MT|30|61900|Reed Point CDP|Census Designated Place|S|Stillwater County
+MT|30|62125|Reserve CDP|Census Designated Place|S|Sheridan County
+MT|30|62200|Rexford town|Incorporated Place|A|Lincoln County
+MT|30|62275|Richey town|Incorporated Place|A|Dawson County
+MT|30|63042|Riverbend CDP|Census Designated Place|S|Mineral County
+MT|30|63400|Roberts CDP|Census Designated Place|S|Carbon County
+MT|30|63900|Rocky Boy's Agency CDP|Census Designated Place|S|Hill County
+MT|30|63928|Rocky Boy West CDP|Census Designated Place|S|Chouteau County, Hill County
+MT|30|63940|Rocky Point CDP|Census Designated Place|S|Lake County
+MT|30|64075|Rollins CDP|Census Designated Place|S|Lake County
+MT|30|64150|Ronan city|Incorporated Place|A|Lake County
+MT|30|64300|Roscoe CDP|Census Designated Place|S|Carbon County
+MT|30|64375|Rosebud CDP|Census Designated Place|S|Rosebud County
+MT|30|64525|Roundup city|Incorporated Place|A|Musselshell County
+MT|30|64675|Roy CDP|Census Designated Place|S|Fergus County
+MT|30|64900|Rudyard CDP|Census Designated Place|S|Hill County
+MT|30|64975|Ryegate town|Incorporated Place|A|Golden Valley County
+MT|30|65050|Saco town|Incorporated Place|A|Phillips County
+MT|30|65065|Saddle Butte CDP|Census Designated Place|S|Hill County
+MT|30|65275|St. Ignatius town|Incorporated Place|A|Lake County
+MT|30|65400|St. Marie CDP|Census Designated Place|S|Valley County
+MT|30|65537|St. Pierre CDP|Census Designated Place|S|Hill County
+MT|30|65575|St. Regis CDP|Census Designated Place|S|Mineral County
+MT|30|65650|St. Xavier CDP|Census Designated Place|S|Big Horn County
+MT|30|65950|Sand Coulee CDP|Census Designated Place|S|Cascade County
+MT|30|66212|Sangrey CDP|Census Designated Place|S|Hill County
+MT|30|66250|Santa Rita CDP|Census Designated Place|S|Glacier County
+MT|30|66925|Scobey city|Incorporated Place|A|Daniels County
+MT|30|67075|Sedan CDP|Census Designated Place|S|Gallatin County
+MT|30|67150|Seeley Lake CDP|Census Designated Place|S|Missoula County
+MT|30|67225|Shawmut CDP|Census Designated Place|S|Wheatland County
+MT|30|67450|Shelby city|Incorporated Place|A|Toole County
+MT|30|67525|Shepherd CDP|Census Designated Place|S|Yellowstone County
+MT|30|67600|Sheridan town|Incorporated Place|A|Madison County
+MT|30|67900|Sidney city|Incorporated Place|A|Richland County
+MT|30|68050|Silesia CDP|Census Designated Place|S|Carbon County
+MT|30|68425|Silver Gate CDP|Census Designated Place|S|Park County
+MT|30|68575|Simms CDP|Census Designated Place|S|Cascade County
+MT|30|69475|Somers CDP|Census Designated Place|S|Flathead County
+MT|30|69680|South Browning CDP|Census Designated Place|S|Glacier County
+MT|30|69725|South Hills CDP|Census Designated Place|S|Jefferson County
+MT|30|69900|Spokane Creek CDP|Census Designated Place|S|Broadwater County
+MT|30|70150|Springdale CDP|Census Designated Place|S|Park County
+MT|30|70375|Springhill CDP|Census Designated Place|S|Gallatin County
+MT|30|70675|Stanford town|Incorporated Place|A|Judith Basin County
+MT|30|70825|Starr School CDP|Census Designated Place|S|Glacier County
+MT|30|71200|Stevensville town|Incorporated Place|A|Ravalli County
+MT|30|71350|Stockett CDP|Census Designated Place|S|Cascade County
+MT|30|71575|Stryker CDP|Census Designated Place|S|Lincoln County
+MT|30|71800|Sula CDP|Census Designated Place|S|Ravalli County
+MT|30|72175|Sunburst town|Incorporated Place|A|Toole County
+MT|30|72380|Sun Prairie CDP|Census Designated Place|S|Cascade County
+MT|30|72475|Sun River CDP|Census Designated Place|S|Cascade County
+MT|30|72625|Superior town|Incorporated Place|A|Mineral County
+MT|30|72850|Swan Lake CDP|Census Designated Place|S|Lake County
+MT|30|73075|Sweet Grass CDP|Census Designated Place|S|Toole County
+MT|30|73165|Sylvanite CDP|Census Designated Place|S|Lincoln County
+MT|30|73675|Terry town|Incorporated Place|A|Prairie County
+MT|30|73760|The Silos CDP|Census Designated Place|S|Broadwater County
+MT|30|73825|Thompson Falls city|Incorporated Place|A|Sanders County
+MT|30|73975|Three Forks city|Incorporated Place|A|Gallatin County
+MT|30|74500|Toston CDP|Census Designated Place|S|Broadwater County
+MT|30|74575|Townsend city|Incorporated Place|A|Broadwater County
+MT|30|74725|Trego CDP|Census Designated Place|S|Lincoln County
+MT|30|74950|Trout Creek CDP|Census Designated Place|S|Sanders County
+MT|30|75025|Troy city|Incorporated Place|A|Lincoln County
+MT|30|75175|Turah CDP|Census Designated Place|S|Missoula County
+MT|30|75250|Turner CDP|Census Designated Place|S|Blaine County
+MT|30|75287|Turtle Lake CDP|Census Designated Place|S|Lake County
+MT|30|75475|Twin Bridges town|Incorporated Place|A|Madison County
+MT|30|75775|Ulm CDP|Census Designated Place|S|Cascade County
+MT|30|76225|Valier town|Incorporated Place|A|Pondera County
+MT|30|76675|Vaughn CDP|Census Designated Place|S|Cascade County
+MT|30|76900|Victor CDP|Census Designated Place|S|Ravalli County
+MT|30|77125|Virginia City town|Incorporated Place|A|Madison County
+MT|30|77650|Walkerville town|Incorporated Place|A|Silver Bow County
+MT|30|78775|Weeksville CDP|Census Designated Place|S|Sanders County
+MT|30|78925|Westby town|Incorporated Place|A|Sheridan County
+MT|30|79075|West Glacier CDP|Census Designated Place|S|Flathead County
+MT|30|79086|West Glendive CDP|Census Designated Place|S|Dawson County
+MT|30|79098|West Havre CDP|Census Designated Place|S|Hill County
+MT|30|79105|West Kootenai CDP|Census Designated Place|S|Lincoln County
+MT|30|79525|West Yellowstone town|Incorporated Place|A|Gallatin County
+MT|30|79695|Wheatland CDP|Census Designated Place|S|Broadwater County
+MT|30|79825|Whitefish city|Incorporated Place|A|Flathead County
+MT|30|79900|Whitehall town|Incorporated Place|A|Jefferson County
+MT|30|79935|White Haven CDP|Census Designated Place|S|Lincoln County
+MT|30|80050|White Sulphur Springs city|Incorporated Place|A|Meagher County
+MT|30|80200|Whitewater CDP|Census Designated Place|S|Phillips County
+MT|30|80350|Wibaux town|Incorporated Place|A|Wibaux County
+MT|30|80800|Willow Creek CDP|Census Designated Place|S|Gallatin County
+MT|30|80875|Wilsall CDP|Census Designated Place|S|Park County
+MT|30|80975|Wineglass CDP|Census Designated Place|S|Park County
+MT|30|81025|Winifred town|Incorporated Place|A|Fergus County
+MT|30|81100|Winnett town|Incorporated Place|A|Petroleum County
+MT|30|81175|Winston CDP|Census Designated Place|S|Broadwater County
+MT|30|81250|Wisdom CDP|Census Designated Place|S|Beaverhead County
+MT|30|81475|Wolf Point city|Incorporated Place|A|Roosevelt County
+MT|30|81700|Woods Bay CDP|Census Designated Place|S|Lake County
+MT|30|81925|Worden CDP|Census Designated Place|S|Yellowstone County
+MT|30|81980|Wye CDP|Census Designated Place|S|Missoula County
+MT|30|82075|Wyola CDP|Census Designated Place|S|Big Horn County
+MT|30|82130|Yaak CDP|Census Designated Place|S|Lincoln County
+MT|30|82675|Zortman CDP|Census Designated Place|S|Phillips County

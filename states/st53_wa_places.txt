@@ -1,0 +1,628 @@
+WA|53|00100|Aberdeen city|Incorporated Place|A|Grays Harbor County
+WA|53|00135|Aberdeen Gardens CDP|Census Designated Place|S|Grays Harbor County
+WA|53|00275|Acme CDP|Census Designated Place|S|Whatcom County
+WA|53|00380|Addy CDP|Census Designated Place|S|Stevens County
+WA|53|00800|Ahtanum CDP|Census Designated Place|S|Yakima County
+WA|53|00905|Airway Heights city|Incorporated Place|A|Spokane County
+WA|53|01010|Albion town|Incorporated Place|A|Whitman County
+WA|53|01045|Alder CDP|Census Designated Place|S|Pierce County
+WA|53|01150|Alderton CDP|Census Designated Place|S|Pierce County
+WA|53|01185|Alderwood Manor CDP|Census Designated Place|S|Snohomish County
+WA|53|01255|Alger CDP|Census Designated Place|S|Skagit County
+WA|53|01290|Algona city|Incorporated Place|A|King County
+WA|53|01430|Allyn CDP|Census Designated Place|S|Mason County
+WA|53|01500|Almira town|Incorporated Place|A|Lincoln County
+WA|53|01745|Altoona CDP|Census Designated Place|S|Wahkiakum County
+WA|53|01780|Amanda Park CDP|Census Designated Place|S|Grays Harbor County
+WA|53|01850|Amboy CDP|Census Designated Place|S|Clark County
+WA|53|01920|Ames Lake CDP|Census Designated Place|S|King County
+WA|53|01990|Anacortes city|Incorporated Place|A|Skagit County
+WA|53|02060|Anderson Island CDP|Census Designated Place|S|Pierce County
+WA|53|02585|Arlington city|Incorporated Place|A|Snohomish County
+WA|53|02620|Arlington Heights CDP|Census Designated Place|S|Snohomish County
+WA|53|02910|Artondale CDP|Census Designated Place|S|Pierce County
+WA|53|03005|Ashford CDP|Census Designated Place|S|Pierce County
+WA|53|03075|Asotin city|Incorporated Place|A|Asotin County
+WA|53|03180|Auburn city|Incorporated Place|A|King County, Pierce County
+WA|53|03736|Bainbridge Island city|Incorporated Place|A|Kitsap County
+WA|53|04100|Bangor Base CDP|Census Designated Place|S|Kitsap County
+WA|53|04125|Banks Lake South CDP|Census Designated Place|S|Grant County
+WA|53|04195|Barberton CDP|Census Designated Place|S|Clark County
+WA|53|04300|Baring CDP|Census Designated Place|S|King County
+WA|53|04347|Barney's Junction CDP|Census Designated Place|S|Ferry County
+WA|53|04370|Barstow CDP|Census Designated Place|S|Ferry County
+WA|53|04405|Basin City CDP|Census Designated Place|S|Franklin County
+WA|53|04475|Battle Ground city|Incorporated Place|A|Clark County
+WA|53|04615|Bay Center CDP|Census Designated Place|S|Pacific County
+WA|53|04790|Bay View CDP|Census Designated Place|S|Skagit County
+WA|53|04895|Beaux Arts Village town|Incorporated Place|A|King County
+WA|53|05140|Belfair CDP|Census Designated Place|S|Mason County
+WA|53|05210|Bellevue city|Incorporated Place|A|King County
+WA|53|05245|Bell Hill CDP|Census Designated Place|S|Clallam County
+WA|53|05280|Bellingham city|Incorporated Place|A|Whatcom County
+WA|53|05560|Benton City city|Incorporated Place|A|Benton County
+WA|53|05735|Bethel CDP|Census Designated Place|S|Kitsap County
+WA|53|05980|Bickleton CDP|Census Designated Place|S|Klickitat County
+WA|53|06050|Big Lake CDP|Census Designated Place|S|Skagit County
+WA|53|06085|Bingen city|Incorporated Place|A|Klickitat County
+WA|53|06190|Birch Bay CDP|Census Designated Place|S|Whatcom County
+WA|53|06330|Black Diamond city|Incorporated Place|A|King County
+WA|53|06505|Blaine city|Incorporated Place|A|Whatcom County
+WA|53|06855|Blyn CDP|Census Designated Place|S|Clallam County
+WA|53|07170|Bonney Lake city|Incorporated Place|A|Pierce County
+WA|53|07380|Bothell city|Incorporated Place|A|King County, Snohomish County
+WA|53|07390|Bothell East CDP|Census Designated Place|S|Snohomish County
+WA|53|07395|Bothell West CDP|Census Designated Place|S|Snohomish County
+WA|53|07397|Boulevard Park CDP|Census Designated Place|S|King County
+WA|53|07485|Boyds CDP|Census Designated Place|S|Ferry County
+WA|53|07590|Brady CDP|Census Designated Place|S|Grays Harbor County
+WA|53|07695|Bremerton city|Incorporated Place|A|Kitsap County
+WA|53|07835|Brewster city|Incorporated Place|A|Okanogan County
+WA|53|07870|Bridgeport city|Incorporated Place|A|Douglas County
+WA|53|07940|Brier city|Incorporated Place|A|Snohomish County
+WA|53|08080|Brinnon CDP|Census Designated Place|S|Jefferson County
+WA|53|08335|Browns Point CDP|Census Designated Place|S|Pierce County
+WA|53|08465|Brush Prairie CDP|Census Designated Place|S|Clark County
+WA|53|08500|Bryant CDP|Census Designated Place|S|Snohomish County
+WA|53|08552|Bryn Mawr-Skyway CDP|Census Designated Place|S|King County
+WA|53|08570|Buckley city|Incorporated Place|A|Pierce County
+WA|53|08605|Bucoda town|Incorporated Place|A|Thurston County
+WA|53|08640|Buena CDP|Census Designated Place|S|Yakima County
+WA|53|08770|Bunk Foss CDP|Census Designated Place|S|Snohomish County
+WA|53|08780|Burbank CDP|Census Designated Place|S|Walla Walla County
+WA|53|08850|Burien city|Incorporated Place|A|King County
+WA|53|08885|Burley CDP|Census Designated Place|S|Kitsap County
+WA|53|08920|Burlington city|Incorporated Place|A|Skagit County
+WA|53|09480|Camas city|Incorporated Place|A|Clark County
+WA|53|09810|Canterwood CDP|Census Designated Place|S|Pierce County
+WA|53|09820|Canyon Creek CDP|Census Designated Place|S|Snohomish County
+WA|53|09970|Carbonado town|Incorporated Place|A|Pierce County
+WA|53|10075|Carlsborg CDP|Census Designated Place|S|Clallam County
+WA|53|10215|Carnation city|Incorporated Place|A|King County
+WA|53|10320|Carson CDP|Census Designated Place|S|Skamania County
+WA|53|10455|Cascade Valley CDP|Census Designated Place|S|Grant County
+WA|53|10495|Cashmere city|Incorporated Place|A|Chelan County
+WA|53|10565|Castle Rock city|Incorporated Place|A|Cowlitz County
+WA|53|10600|Cathcart CDP|Census Designated Place|S|Snohomish County
+WA|53|10635|Cathlamet town|Incorporated Place|A|Wahkiakum County
+WA|53|10645|Cavalero CDP|Census Designated Place|S|Snohomish County
+WA|53|11090|Centerville CDP|Census Designated Place|S|Klickitat County
+WA|53|11160|Centralia city|Incorporated Place|A|Lewis County
+WA|53|11195|Central Park CDP|Census Designated Place|S|Grays Harbor County
+WA|53|11325|Chain Lake CDP|Census Designated Place|S|Snohomish County
+WA|53|11475|Chehalis city|Incorporated Place|A|Lewis County
+WA|53|11615|Chelan city|Incorporated Place|A|Chelan County
+WA|53|11685|Chelan Falls CDP|Census Designated Place|S|Chelan County
+WA|53|11825|Cheney city|Incorporated Place|A|Spokane County
+WA|53|12015|Cherry Grove CDP|Census Designated Place|S|Clark County
+WA|53|12140|Chewelah city|Incorporated Place|A|Stevens County
+WA|53|12175|Chico CDP|Census Designated Place|S|Kitsap County
+WA|53|12315|Chinook CDP|Census Designated Place|S|Pacific County
+WA|53|12525|Clallam Bay CDP|Census Designated Place|S|Clallam County
+WA|53|12630|Clarkston city|Incorporated Place|A|Asotin County
+WA|53|12680|Clarkston Heights-Vineland CDP|Census Designated Place|S|Asotin County
+WA|53|12735|Clayton CDP|Census Designated Place|S|Stevens County
+WA|53|12820|Clear Lake CDP|Census Designated Place|S|Pierce County
+WA|53|12840|Clear Lake CDP|Census Designated Place|S|Skagit County
+WA|53|12875|Clearview CDP|Census Designated Place|S|Snohomish County
+WA|53|12945|Cle Elum city|Incorporated Place|A|Kittitas County
+WA|53|13015|Cliffdell CDP|Census Designated Place|S|Yakima County
+WA|53|13155|Clinton CDP|Census Designated Place|S|Island County
+WA|53|13215|Clover Creek CDP|Census Designated Place|S|Pierce County
+WA|53|13365|Clyde Hill city|Incorporated Place|A|King County
+WA|53|13595|Cohassett Beach CDP|Census Designated Place|S|Grays Harbor County
+WA|53|13785|Colfax city|Incorporated Place|A|Whitman County
+WA|53|13855|College Place city|Incorporated Place|A|Walla Walla County
+WA|53|13890|Colton town|Incorporated Place|A|Whitman County
+WA|53|14170|Colville city|Incorporated Place|A|Stevens County
+WA|53|14310|Conconully town|Incorporated Place|A|Okanogan County
+WA|53|14380|Concrete town|Incorporated Place|A|Skagit County
+WA|53|14485|Connell city|Incorporated Place|A|Franklin County
+WA|53|14520|Conway CDP|Census Designated Place|S|Skagit County
+WA|53|14660|Copalis Beach CDP|Census Designated Place|S|Grays Harbor County
+WA|53|14870|Cosmopolis city|Incorporated Place|A|Grays Harbor County
+WA|53|14940|Cottage Lake CDP|Census Designated Place|S|King County
+WA|53|15080|Coulee City town|Incorporated Place|A|Grant County
+WA|53|15115|Coulee Dam town|Incorporated Place|A|Douglas County, Grant County, Okanogan County
+WA|53|15150|Country Homes CDP|Census Designated Place|S|Spokane County
+WA|53|15185|Coupeville town|Incorporated Place|A|Island County
+WA|53|15290|Covington city|Incorporated Place|A|King County
+WA|53|15325|Cowiche CDP|Census Designated Place|S|Yakima County
+WA|53|15710|Creston town|Incorporated Place|A|Lincoln County
+WA|53|15780|Crocker CDP|Census Designated Place|S|Pierce County
+WA|53|16165|Curlew CDP|Census Designated Place|S|Ferry County
+WA|53|16170|Curlew Lake CDP|Census Designated Place|S|Ferry County
+WA|53|16340|Cusick town|Incorporated Place|A|Pend Oreille County
+WA|53|16375|Custer CDP|Census Designated Place|S|Whatcom County
+WA|53|16550|Dallesport CDP|Census Designated Place|S|Klickitat County
+WA|53|16585|Danville CDP|Census Designated Place|S|Ferry County
+WA|53|16690|Darrington town|Incorporated Place|A|Snohomish County
+WA|53|16760|Dash Point CDP|Census Designated Place|S|Pierce County
+WA|53|16795|Davenport city|Incorporated Place|A|Lincoln County
+WA|53|16970|Dayton city|Incorporated Place|A|Columbia County
+WA|53|17215|Deep River CDP|Census Designated Place|S|Wahkiakum County
+WA|53|17320|Deer Park city|Incorporated Place|A|Spokane County
+WA|53|17495|Deming CDP|Census Designated Place|S|Whatcom County
+WA|53|17617|Desert Aire CDP|Census Designated Place|S|Grant County
+WA|53|17635|Des Moines city|Incorporated Place|A|King County
+WA|53|17880|Disautel CDP|Census Designated Place|S|Okanogan County
+WA|53|18055|Dixie CDP|Census Designated Place|S|Walla Walla County
+WA|53|18195|Dollars Corner CDP|Census Designated Place|S|Clark County
+WA|53|18265|Donald CDP|Census Designated Place|S|Yakima County
+WA|53|18775|Duluth CDP|Census Designated Place|S|Clark County
+WA|53|18965|DuPont city|Incorporated Place|A|Pierce County
+WA|53|19035|Duvall city|Incorporated Place|A|King County
+WA|53|19290|East Cathlamet CDP|Census Designated Place|S|Wahkiakum County
+WA|53|19420|Eastgate CDP|Census Designated Place|S|King County
+WA|53|19515|East Hill-Meridian CDP|Census Designated Place|S|King County
+WA|53|19630|Eastmont CDP|Census Designated Place|S|Snohomish County
+WA|53|19700|Easton CDP|Census Designated Place|S|Kittitas County
+WA|53|19770|East Port Orchard CDP|Census Designated Place|S|Kitsap County
+WA|53|19857|East Renton Highlands CDP|Census Designated Place|S|King County
+WA|53|20155|East Wenatchee city|Incorporated Place|A|Douglas County
+WA|53|20260|Eatonville town|Incorporated Place|A|Pierce County
+WA|53|20645|Edgewood city|Incorporated Place|A|Pierce County
+WA|53|20680|Edison CDP|Census Designated Place|S|Skagit County
+WA|53|20750|Edmonds city|Incorporated Place|A|Snohomish County
+WA|53|20890|Elbe CDP|Census Designated Place|S|Pierce County
+WA|53|21030|Electric City city|Incorporated Place|A|Grant County
+WA|53|21205|Elk Plain CDP|Census Designated Place|S|Pierce County
+WA|53|21240|Ellensburg city|Incorporated Place|A|Kittitas County
+WA|53|21450|Elma city|Incorporated Place|A|Grays Harbor County
+WA|53|21485|Elmer City town|Incorporated Place|A|Okanogan County
+WA|53|21730|Endicott town|Incorporated Place|A|Whitman County
+WA|53|21800|Enetai CDP|Census Designated Place|S|Kitsap County
+WA|53|22010|Entiat city|Incorporated Place|A|Chelan County
+WA|53|22045|Enumclaw city|Incorporated Place|A|King County, Pierce County
+WA|53|22080|Ephrata city|Incorporated Place|A|Grant County
+WA|53|22118|Erlands Point-Kitsap Lake CDP|Census Designated Place|S|Kitsap County
+WA|53|22150|Eschbach CDP|Census Designated Place|S|Yakima County
+WA|53|22255|Esperance CDP|Census Designated Place|S|Snohomish County
+WA|53|22640|Everett city|Incorporated Place|A|Snohomish County
+WA|53|22745|Everson city|Incorporated Place|A|Whatcom County
+WA|53|22955|Fairchild AFB CDP|Census Designated Place|S|Spokane County
+WA|53|22990|Fairfield town|Incorporated Place|A|Spokane County
+WA|53|23160|Fairwood CDP|Census Designated Place|S|King County
+WA|53|23165|Fairwood CDP|Census Designated Place|S|Spokane County
+WA|53|23200|Fall City CDP|Census Designated Place|S|King County
+WA|53|23340|Farmington town|Incorporated Place|A|Whitman County
+WA|53|23515|Federal Way city|Incorporated Place|A|King County
+WA|53|23550|Felida CDP|Census Designated Place|S|Clark County
+WA|53|23620|Ferndale city|Incorporated Place|A|Whatcom County
+WA|53|23690|Fern Prairie CDP|Census Designated Place|S|Clark County
+WA|53|23795|Fife city|Incorporated Place|A|Pierce County
+WA|53|23830|Fife Heights CDP|Census Designated Place|S|Pierce County
+WA|53|23865|Finley CDP|Census Designated Place|S|Benton County
+WA|53|23970|Fircrest city|Incorporated Place|A|Pierce County
+WA|53|24188|Five Corners CDP|Census Designated Place|S|Clark County
+WA|53|24425|Fobes Hill CDP|Census Designated Place|S|Snohomish County
+WA|53|24565|Fords Prairie CDP|Census Designated Place|S|Lewis County
+WA|53|24810|Forks city|Incorporated Place|A|Clallam County
+WA|53|24915|Fort Lewis CDP|Census Designated Place|S|Pierce County
+WA|53|25300|Four Lakes CDP|Census Designated Place|S|Spokane County
+WA|53|25370|Fox Island CDP|Census Designated Place|S|Pierce County
+WA|53|25475|Frederickson CDP|Census Designated Place|S|Pierce County
+WA|53|25510|Freeland CDP|Census Designated Place|S|Island County
+WA|53|25615|Friday Harbor town|Incorporated Place|A|San Juan County
+WA|53|26140|Garfield town|Incorporated Place|A|Whitman County
+WA|53|26245|Garrett CDP|Census Designated Place|S|Walla Walla County
+WA|53|26420|Geneva CDP|Census Designated Place|S|Whatcom County
+WA|53|26455|George city|Incorporated Place|A|Grant County
+WA|53|26735|Gig Harbor city|Incorporated Place|A|Pierce County
+WA|53|26875|Glacier CDP|Census Designated Place|S|Whatcom County
+WA|53|26945|Gleed CDP|Census Designated Place|S|Yakima County
+WA|53|27365|Gold Bar city|Incorporated Place|A|Snohomish County
+WA|53|27435|Goldendale city|Incorporated Place|A|Klickitat County
+WA|53|27680|Gorst CDP|Census Designated Place|S|Kitsap County
+WA|53|27785|Graham CDP|Census Designated Place|S|Pierce County
+WA|53|27855|Grand Coulee city|Incorporated Place|A|Grant County
+WA|53|27890|Grand Mound CDP|Census Designated Place|S|Thurston County
+WA|53|27925|Grandview city|Incorporated Place|A|Yakima County
+WA|53|27960|Granger city|Incorporated Place|A|Yakima County
+WA|53|27995|Granite Falls city|Incorporated Place|A|Snohomish County
+WA|53|28135|Grapeview CDP|Census Designated Place|S|Mason County
+WA|53|28345|Grayland CDP|Census Designated Place|S|Grays Harbor County
+WA|53|28450|Grays River CDP|Census Designated Place|S|Wahkiakum County
+WA|53|28590|Green Bluff CDP|Census Designated Place|S|Spokane County
+WA|53|28695|Greenwater CDP|Census Designated Place|S|Pierce County
+WA|53|29255|Hamilton town|Incorporated Place|A|Skagit County
+WA|53|29430|Hansville CDP|Census Designated Place|S|Kitsap County
+WA|53|29710|Harrah town|Incorporated Place|A|Yakima County
+WA|53|29745|Harrington city|Incorporated Place|A|Lincoln County
+WA|53|29920|Hartline town|Incorporated Place|A|Grant County
+WA|53|30030|Hat Island CDP|Census Designated Place|S|Snohomish County
+WA|53|30060|Hatton town|Incorporated Place|A|Adams County
+WA|53|30305|Hazel Dell CDP|Census Designated Place|S|Clark County
+WA|53|30690|Herron Island CDP|Census Designated Place|S|Pierce County
+WA|53|30750|High Bridge CDP|Census Designated Place|S|Snohomish County
+WA|53|31495|Hobart CDP|Census Designated Place|S|King County
+WA|53|31530|Hockinson CDP|Census Designated Place|S|Clark County
+WA|53|31540|Hogans Corner CDP|Census Designated Place|S|Grays Harbor County
+WA|53|31985|Home CDP|Census Designated Place|S|Pierce County
+WA|53|32125|Hoodsport CDP|Census Designated Place|S|Mason County
+WA|53|32300|Hoquiam city|Incorporated Place|A|Grays Harbor County
+WA|53|32650|Humptulips CDP|Census Designated Place|S|Grays Harbor County
+WA|53|32755|Hunts Point town|Incorporated Place|A|King County
+WA|53|33000|Ilwaco city|Incorporated Place|A|Pacific County
+WA|53|33105|Inchelium CDP|Census Designated Place|S|Ferry County
+WA|53|33175|Index town|Incorporated Place|A|Snohomish County
+WA|53|33280|Indianola CDP|Census Designated Place|S|Kitsap County
+WA|53|33380|Inglewood-Finn Hill CDP|Census Designated Place|S|King County
+WA|53|33560|Ione town|Incorporated Place|A|Pend Oreille County
+WA|53|33805|Issaquah city|Incorporated Place|A|King County
+WA|53|33890|Jamestown CDP|Census Designated Place|S|Clallam County
+WA|53|34470|Junction City CDP|Census Designated Place|S|Grays Harbor County
+WA|53|34575|Kahlotus city|Incorporated Place|A|Franklin County
+WA|53|34645|Kalama city|Incorporated Place|A|Cowlitz County
+WA|53|34890|Kapowsin CDP|Census Designated Place|S|Pierce County
+WA|53|34960|Keller CDP|Census Designated Place|S|Ferry County
+WA|53|35065|Kelso city|Incorporated Place|A|Cowlitz County
+WA|53|35135|Kendall CDP|Census Designated Place|S|Whatcom County
+WA|53|35170|Kenmore city|Incorporated Place|A|King County
+WA|53|35275|Kennewick city|Incorporated Place|A|Benton County
+WA|53|35415|Kent city|Incorporated Place|A|King County
+WA|53|35450|Ketron Island CDP|Census Designated Place|S|Pierce County
+WA|53|35485|Kettle Falls city|Incorporated Place|A|Stevens County
+WA|53|35555|Key Center CDP|Census Designated Place|S|Pierce County
+WA|53|35625|Keyport CDP|Census Designated Place|S|Kitsap County
+WA|53|35835|Kingsgate CDP|Census Designated Place|S|King County
+WA|53|35870|Kingston CDP|Census Designated Place|S|Kitsap County
+WA|53|35940|Kirkland city|Incorporated Place|A|King County
+WA|53|36045|Kittitas city|Incorporated Place|A|Kittitas County
+WA|53|36100|Klahanie CDP|Census Designated Place|S|King County
+WA|53|36115|Klickitat CDP|Census Designated Place|S|Klickitat County
+WA|53|36395|Krupp town|Incorporated Place|A|Grant County
+WA|53|36710|La Center city|Incorporated Place|A|Clark County
+WA|53|36745|Lacey city|Incorporated Place|A|Thurston County
+WA|53|36780|La Conner town|Incorporated Place|A|Skagit County
+WA|53|36850|LaCrosse town|Incorporated Place|A|Whitman County
+WA|53|36920|La Grande CDP|Census Designated Place|S|Pierce County
+WA|53|37077|Lake Bosworth CDP|Census Designated Place|S|Snohomish County
+WA|53|37100|Lake Cassidy CDP|Census Designated Place|S|Snohomish County
+WA|53|37105|Lake Cavanaugh CDP|Census Designated Place|S|Skagit County
+WA|53|37270|Lake Forest Park city|Incorporated Place|A|King County
+WA|53|37345|Lake Holm CDP|Census Designated Place|S|King County
+WA|53|37415|Lake Ketchum CDP|Census Designated Place|S|Snohomish County
+WA|53|37420|Lakeland North CDP|Census Designated Place|S|King County
+WA|53|37430|Lakeland South CDP|Census Designated Place|S|King County
+WA|53|37526|Lake McMurray CDP|Census Designated Place|S|Skagit County
+WA|53|37538|Lake Marcel-Stillwater CDP|Census Designated Place|S|King County
+WA|53|37567|Lake Morton-Berrydale CDP|Census Designated Place|S|King County
+WA|53|37672|Lake Roesiger CDP|Census Designated Place|S|Snohomish County
+WA|53|37830|Lake Shore CDP|Census Designated Place|S|Clark County
+WA|53|37900|Lake Stevens city|Incorporated Place|A|Snohomish County
+WA|53|37917|Lake Stickney CDP|Census Designated Place|S|Snohomish County
+WA|53|37920|Lake Tapps CDP|Census Designated Place|S|Pierce County
+WA|53|37926|Lakeview CDP|Census Designated Place|S|Grant County
+WA|53|38038|Lakewood city|Incorporated Place|A|Pierce County
+WA|53|38215|Lamont town|Incorporated Place|A|Whitman County
+WA|53|38355|Langley city|Incorporated Place|A|Island County
+WA|53|38420|Larch Way CDP|Census Designated Place|S|Snohomish County
+WA|53|38495|Latah town|Incorporated Place|A|Spokane County
+WA|53|38705|Laurier CDP|Census Designated Place|S|Ferry County
+WA|53|38845|Leavenworth city|Incorporated Place|A|Chelan County
+WA|53|38880|Lebam CDP|Census Designated Place|S|Pacific County
+WA|53|39212|Lewisville CDP|Census Designated Place|S|Clark County
+WA|53|39335|Liberty Lake city|Incorporated Place|A|Spokane County
+WA|53|39510|Lind town|Incorporated Place|A|Adams County
+WA|53|39860|Lochsloy CDP|Census Designated Place|S|Snohomish County
+WA|53|39930|Lofall CDP|Census Designated Place|S|Kitsap County
+WA|53|40070|Long Beach city|Incorporated Place|A|Pacific County
+WA|53|40105|Longbranch CDP|Census Designated Place|S|Pierce County
+WA|53|40245|Longview city|Incorporated Place|A|Cowlitz County
+WA|53|40270|Longview Heights CDP|Census Designated Place|S|Cowlitz County
+WA|53|40350|Loomis CDP|Census Designated Place|S|Okanogan County
+WA|53|40385|Loon Lake CDP|Census Designated Place|S|Stevens County
+WA|53|40570|Lower Elochoman CDP|Census Designated Place|S|Wahkiakum County
+WA|53|40735|Lyle CDP|Census Designated Place|S|Klickitat County
+WA|53|40770|Lyman town|Incorporated Place|A|Skagit County
+WA|53|40805|Lynden city|Incorporated Place|A|Whatcom County
+WA|53|40840|Lynnwood city|Incorporated Place|A|Snohomish County
+WA|53|40980|Mabton city|Incorporated Place|A|Yakima County
+WA|53|41155|McChord AFB CDP|Census Designated Place|S|Pierce County
+WA|53|41225|McCleary city|Incorporated Place|A|Grays Harbor County
+WA|53|41470|Machias CDP|Census Designated Place|S|Snohomish County
+WA|53|41645|McKenna CDP|Census Designated Place|S|Pierce County
+WA|53|41785|McMillin CDP|Census Designated Place|S|Pierce County
+WA|53|42275|Malden town|Incorporated Place|A|Whitman County
+WA|53|42310|Malo CDP|Census Designated Place|S|Ferry County
+WA|53|42345|Malone CDP|Census Designated Place|S|Grays Harbor County
+WA|53|42380|Malott CDP|Census Designated Place|S|Okanogan County
+WA|53|42415|Maltby CDP|Census Designated Place|S|Snohomish County
+WA|53|42450|Manchester CDP|Census Designated Place|S|Kitsap County
+WA|53|42800|Mansfield town|Incorporated Place|A|Douglas County
+WA|53|42835|Manson CDP|Census Designated Place|S|Chelan County
+WA|53|43010|Maple Falls CDP|Census Designated Place|S|Whatcom County
+WA|53|43062|Maple Heights-Lake Desire CDP|Census Designated Place|S|King County
+WA|53|43150|Maple Valley city|Incorporated Place|A|King County
+WA|53|43255|Maplewood CDP|Census Designated Place|S|Pierce County
+WA|53|43325|Marblemount CDP|Census Designated Place|S|Skagit County
+WA|53|43395|Marcus town|Incorporated Place|A|Stevens County
+WA|53|43491|Marietta-Alderwood CDP|Census Designated Place|S|Whatcom County
+WA|53|43640|Markham CDP|Census Designated Place|S|Grays Harbor County
+WA|53|43762|Marrowstone CDP|Census Designated Place|S|Jefferson County
+WA|53|43815|Martha Lake CDP|Census Designated Place|S|Snohomish County
+WA|53|43885|Maryhill CDP|Census Designated Place|S|Klickitat County
+WA|53|43955|Marysville city|Incorporated Place|A|Snohomish County
+WA|53|44165|Mattawa town|Incorporated Place|A|Grant County
+WA|53|44260|May Creek CDP|Census Designated Place|S|Snohomish County
+WA|53|44480|Mead CDP|Census Designated Place|S|Spokane County
+WA|53|44585|Meadowdale CDP|Census Designated Place|S|Snohomish County
+WA|53|44620|Meadow Glade CDP|Census Designated Place|S|Clark County
+WA|53|44690|Medical Lake city|Incorporated Place|A|Spokane County
+WA|53|44725|Medina city|Incorporated Place|A|King County
+WA|53|45005|Mercer Island city|Incorporated Place|A|King County
+WA|53|45180|Mesa city|Incorporated Place|A|Franklin County
+WA|53|45285|Metaline town|Incorporated Place|A|Pend Oreille County
+WA|53|45320|Metaline Falls town|Incorporated Place|A|Pend Oreille County
+WA|53|45355|Methow CDP|Census Designated Place|S|Okanogan County
+WA|53|45495|Midland CDP|Census Designated Place|S|Pierce County
+WA|53|45865|Mill Creek city|Incorporated Place|A|Snohomish County
+WA|53|45870|Mill Creek East CDP|Census Designated Place|S|Snohomish County
+WA|53|45985|Millwood town|Incorporated Place|A|Spokane County
+WA|53|46020|Milton city|Incorporated Place|A|King County, Pierce County
+WA|53|46090|Mineral CDP|Census Designated Place|S|Lewis County
+WA|53|46125|Minnehaha CDP|Census Designated Place|S|Clark County
+WA|53|46215|Mirrormont CDP|Census Designated Place|S|King County
+WA|53|46405|Moclips CDP|Census Designated Place|S|Grays Harbor County
+WA|53|46685|Monroe city|Incorporated Place|A|Snohomish County
+WA|53|46725|Monroe North CDP|Census Designated Place|S|Snohomish County
+WA|53|46895|Montesano city|Incorporated Place|A|Grays Harbor County
+WA|53|47175|Morton city|Incorporated Place|A|Lewis County
+WA|53|47245|Moses Lake city|Incorporated Place|A|Grant County
+WA|53|47280|Moses Lake North CDP|Census Designated Place|S|Grant County
+WA|53|47315|Mossyrock city|Incorporated Place|A|Lewis County
+WA|53|47490|Mountlake Terrace city|Incorporated Place|A|Snohomish County
+WA|53|47560|Mount Vernon city|Incorporated Place|A|Skagit County
+WA|53|47630|Mount Vista CDP|Census Designated Place|S|Clark County
+WA|53|47665|Moxee city|Incorporated Place|A|Yakima County
+WA|53|47735|Mukilteo city|Incorporated Place|A|Snohomish County
+WA|53|47805|Naches town|Incorporated Place|A|Yakima County
+WA|53|47980|Napavine city|Incorporated Place|A|Lewis County
+WA|53|48015|Naselle CDP|Census Designated Place|S|Pacific County
+WA|53|48225|Navy Yard City CDP|Census Designated Place|S|Kitsap County
+WA|53|48295|Neah Bay CDP|Census Designated Place|S|Clallam County
+WA|53|48330|Neilton CDP|Census Designated Place|S|Grays Harbor County
+WA|53|48540|Nespelem town|Incorporated Place|A|Okanogan County
+WA|53|48550|Nespelem Community CDP|Census Designated Place|S|Okanogan County
+WA|53|48645|Newcastle city|Incorporated Place|A|King County
+WA|53|48820|Newport city|Incorporated Place|A|Pend Oreille County
+WA|53|49030|Nile CDP|Census Designated Place|S|Yakima County
+WA|53|49193|Nisqually Indian Community CDP|Census Designated Place|S|Thurston County
+WA|53|49275|Nooksack city|Incorporated Place|A|Whatcom County
+WA|53|49415|Normandy Park city|Incorporated Place|A|King County
+WA|53|49485|North Bend city|Incorporated Place|A|King County
+WA|53|49555|North Bonneville city|Incorporated Place|A|Skamania County
+WA|53|49765|North Fort Lewis CDP|Census Designated Place|S|Pierce County
+WA|53|49940|North Lynnwood CDP|Census Designated Place|S|Snohomish County
+WA|53|49992|North Marysville CDP|Census Designated Place|S|Snohomish County
+WA|53|50007|North Omak CDP|Census Designated Place|S|Okanogan County
+WA|53|50045|Northport town|Incorporated Place|A|Stevens County
+WA|53|50115|North Puyallup CDP|Census Designated Place|S|Pierce County
+WA|53|50183|North Sultan CDP|Census Designated Place|S|Snohomish County
+WA|53|50195|Northwest Stanwood CDP|Census Designated Place|S|Snohomish County
+WA|53|50210|North Yelm CDP|Census Designated Place|S|Thurston County
+WA|53|50325|Oakesdale town|Incorporated Place|A|Whitman County
+WA|53|50360|Oak Harbor city|Incorporated Place|A|Island County
+WA|53|50430|Oakville city|Incorporated Place|A|Grays Harbor County
+WA|53|50500|Ocean City CDP|Census Designated Place|S|Grays Harbor County
+WA|53|50535|Ocean Park CDP|Census Designated Place|S|Pacific County
+WA|53|50570|Ocean Shores city|Incorporated Place|A|Grays Harbor County
+WA|53|50745|Odessa town|Incorporated Place|A|Lincoln County
+WA|53|50920|Okanogan city|Incorporated Place|A|Okanogan County
+WA|53|51300|Olympia city|Incorporated Place|A|Thurston County
+WA|53|51340|Omak city|Incorporated Place|A|Okanogan County
+WA|53|51410|Onalaska CDP|Census Designated Place|S|Lewis County
+WA|53|51795|Orchards CDP|Census Designated Place|S|Clark County
+WA|53|51830|Orient CDP|Census Designated Place|S|Ferry County
+WA|53|51970|Oroville city|Incorporated Place|A|Okanogan County
+WA|53|52005|Orting city|Incorporated Place|A|Pierce County
+WA|53|52110|Oso CDP|Census Designated Place|S|Snohomish County
+WA|53|52215|Othello city|Incorporated Place|A|Adams County
+WA|53|52267|Otis Orchards-East Farms CDP|Census Designated Place|S|Spokane County
+WA|53|52285|Outlook CDP|Census Designated Place|S|Yakima County
+WA|53|52378|Oyehut CDP|Census Designated Place|S|Grays Harbor County
+WA|53|52495|Pacific city|Incorporated Place|A|King County, Pierce County
+WA|53|52530|Pacific Beach CDP|Census Designated Place|S|Grays Harbor County
+WA|53|52600|Packwood CDP|Census Designated Place|S|Lewis County
+WA|53|52950|Palouse city|Incorporated Place|A|Whitman County
+WA|53|53265|Parker CDP|Census Designated Place|S|Yakima County
+WA|53|53335|Parkland CDP|Census Designated Place|S|Pierce County
+WA|53|53440|Parkwood CDP|Census Designated Place|S|Kitsap County
+WA|53|53545|Pasco city|Incorporated Place|A|Franklin County
+WA|53|53720|Pateros city|Incorporated Place|A|Okanogan County
+WA|53|53800|Peaceful Valley CDP|Census Designated Place|S|Whatcom County
+WA|53|53930|Pe Ell town|Incorporated Place|A|Lewis County
+WA|53|54213|Picnic Point CDP|Census Designated Place|S|Snohomish County
+WA|53|54405|Pine Grove CDP|Census Designated Place|S|Ferry County
+WA|53|55015|Point Roberts CDP|Census Designated Place|S|Whatcom County
+WA|53|55120|Pomeroy city|Incorporated Place|A|Garfield County
+WA|53|55365|Port Angeles city|Incorporated Place|A|Clallam County
+WA|53|55400|Port Angeles East CDP|Census Designated Place|S|Clallam County
+WA|53|55540|Porter CDP|Census Designated Place|S|Grays Harbor County
+WA|53|55612|Port Gamble Tribal Comunity CDP|Census Designated Place|S|Kitsap County
+WA|53|55620|Port Hadlock-Irondale CDP|Census Designated Place|S|Jefferson County
+WA|53|55645|Port Ludlow CDP|Census Designated Place|S|Jefferson County
+WA|53|55785|Port Orchard city|Incorporated Place|A|Kitsap County
+WA|53|55855|Port Townsend city|Incorporated Place|A|Jefferson County
+WA|53|55995|Poulsbo city|Incorporated Place|A|Kitsap County
+WA|53|56150|Prairie Heights CDP|Census Designated Place|S|Pierce County
+WA|53|56170|Prairie Ridge CDP|Census Designated Place|S|Pierce County
+WA|53|56240|Prescott city|Incorporated Place|A|Walla Walla County
+WA|53|56450|Prosser city|Incorporated Place|A|Benton County
+WA|53|56555|Puget Island CDP|Census Designated Place|S|Wahkiakum County
+WA|53|56625|Pullman city|Incorporated Place|A|Whitman County
+WA|53|56660|Purdy CDP|Census Designated Place|S|Pierce County
+WA|53|56695|Puyallup city|Incorporated Place|A|Pierce County
+WA|53|56905|Queets CDP|Census Designated Place|S|Grays Harbor County, Jefferson County
+WA|53|56975|Quilcene CDP|Census Designated Place|S|Jefferson County
+WA|53|57030|Qui-nai-elt Village CDP|Census Designated Place|S|Grays Harbor County
+WA|53|57115|Quincy city|Incorporated Place|A|Grant County
+WA|53|57140|Raft Island CDP|Census Designated Place|S|Pierce County
+WA|53|57220|Rainier city|Incorporated Place|A|Thurston County
+WA|53|57395|Ravensdale CDP|Census Designated Place|S|King County
+WA|53|57430|Raymond city|Incorporated Place|A|Pacific County
+WA|53|57465|Reardan town|Incorporated Place|A|Lincoln County
+WA|53|57535|Redmond city|Incorporated Place|A|King County
+WA|53|57745|Renton city|Incorporated Place|A|King County
+WA|53|57850|Republic city|Incorporated Place|A|Ferry County
+WA|53|58235|Richland city|Incorporated Place|A|Benton County
+WA|53|58410|Ridgefield city|Incorporated Place|A|Clark County
+WA|53|58725|Ritzville city|Incorporated Place|A|Adams County
+WA|53|58742|Riverbend CDP|Census Designated Place|S|King County
+WA|53|58777|River Road CDP|Census Designated Place|S|Clallam County
+WA|53|58795|Riverside town|Incorporated Place|A|Okanogan County
+WA|53|58865|Riverton CDP|Census Designated Place|S|King County
+WA|53|59110|Rochester CDP|Census Designated Place|S|Thurston County
+WA|53|59145|Rockford town|Incorporated Place|A|Spokane County
+WA|53|59180|Rock Island city|Incorporated Place|A|Douglas County
+WA|53|59250|Rockport CDP|Census Designated Place|S|Skagit County
+WA|53|59390|Rocky Point CDP|Census Designated Place|S|Kitsap County
+WA|53|59635|Ronald CDP|Census Designated Place|S|Kittitas County
+WA|53|59705|Roosevelt CDP|Census Designated Place|S|Klickitat County
+WA|53|59775|Rosalia town|Incorporated Place|A|Whitman County
+WA|53|59845|Rosburg CDP|Census Designated Place|S|Wahkiakum County
+WA|53|59880|Rosedale CDP|Census Designated Place|S|Pierce County
+WA|53|60055|Roslyn city|Incorporated Place|A|Kittitas County
+WA|53|60160|Roy city|Incorporated Place|A|Pierce County
+WA|53|60230|Royal City city|Incorporated Place|A|Grant County
+WA|53|60510|Ruston town|Incorporated Place|A|Pierce County
+WA|53|60580|Ryderwood CDP|Census Designated Place|S|Cowlitz County
+WA|53|60860|St. John town|Incorporated Place|A|Whitman County
+WA|53|61000|Salmon Creek CDP|Census Designated Place|S|Clark County
+WA|53|61115|Sammamish city|Incorporated Place|A|King County
+WA|53|61235|Santiago CDP|Census Designated Place|S|Grays Harbor County
+WA|53|61350|Satsop CDP|Census Designated Place|S|Grays Harbor County
+WA|53|62120|Seabeck CDP|Census Designated Place|S|Kitsap County
+WA|53|62288|SeaTac city|Incorporated Place|A|King County
+WA|53|63000|Seattle city|Incorporated Place|A|King County
+WA|53|63210|Sedro-Woolley city|Incorporated Place|A|Skagit County
+WA|53|63245|Sekiu CDP|Census Designated Place|S|Clallam County
+WA|53|63280|Selah city|Incorporated Place|A|Yakima County
+WA|53|63385|Sequim city|Incorporated Place|A|Clallam County
+WA|53|63545|Shadow Lake CDP|Census Designated Place|S|King County
+WA|53|63735|Shelton city|Incorporated Place|A|Mason County
+WA|53|63960|Shoreline city|Incorporated Place|A|King County
+WA|53|64190|Silvana CDP|Census Designated Place|S|Snohomish County
+WA|53|64365|Silverdale CDP|Census Designated Place|S|Kitsap County
+WA|53|64380|Silver Firs CDP|Census Designated Place|S|Snohomish County
+WA|53|64610|Sisco Heights CDP|Census Designated Place|S|Snohomish County
+WA|53|64755|Skamokawa Valley CDP|Census Designated Place|S|Wahkiakum County
+WA|53|64775|Skokomish CDP|Census Designated Place|S|Mason County
+WA|53|64855|Skykomish town|Incorporated Place|A|King County
+WA|53|65170|Snohomish city|Incorporated Place|A|Snohomish County
+WA|53|65205|Snoqualmie city|Incorporated Place|A|King County
+WA|53|65275|Snoqualmie Pass CDP|Census Designated Place|S|Kittitas County
+WA|53|65345|Soap Lake city|Incorporated Place|A|Grant County
+WA|53|65625|South Bend city|Incorporated Place|A|Pacific County
+WA|53|65765|South Cle Elum town|Incorporated Place|A|Kittitas County
+WA|53|65810|South Creek CDP|Census Designated Place|S|Pierce County
+WA|53|65922|South Hill CDP|Census Designated Place|S|Pierce County
+WA|53|66045|South Prairie town|Incorporated Place|A|Pierce County
+WA|53|66185|South Wenatchee CDP|Census Designated Place|S|Chelan County
+WA|53|66220|Southworth CDP|Census Designated Place|S|Kitsap County
+WA|53|66255|Spanaway CDP|Census Designated Place|S|Pierce County
+WA|53|66290|Spangle city|Incorporated Place|A|Spokane County
+WA|53|67000|Spokane city|Incorporated Place|A|Spokane County
+WA|53|67167|Spokane Valley city|Incorporated Place|A|Spokane County
+WA|53|67175|Sprague city|Incorporated Place|A|Lincoln County
+WA|53|67210|Springdale town|Incorporated Place|A|Stevens County
+WA|53|67435|Stansberry Lake CDP|Census Designated Place|S|Pierce County
+WA|53|67455|Stanwood city|Incorporated Place|A|Snohomish County
+WA|53|67490|Starbuck town|Incorporated Place|A|Columbia County
+WA|53|67595|Startup CDP|Census Designated Place|S|Snohomish County
+WA|53|67770|Steilacoom town|Incorporated Place|A|Pierce County
+WA|53|67805|Steptoe CDP|Census Designated Place|S|Whitman County
+WA|53|67875|Stevenson city|Incorporated Place|A|Skamania County
+WA|53|68200|Sudden Valley CDP|Census Designated Place|S|Whatcom County
+WA|53|68260|Sultan city|Incorporated Place|A|Snohomish County
+WA|53|68330|Sumas city|Incorporated Place|A|Whatcom County
+WA|53|68365|Summit CDP|Census Designated Place|S|Pierce County
+WA|53|68410|Summit View CDP|Census Designated Place|S|Pierce County
+WA|53|68417|Summitview CDP|Census Designated Place|S|Yakima County
+WA|53|68435|Sumner city|Incorporated Place|A|Pierce County
+WA|53|68480|Sunday Lake CDP|Census Designated Place|S|Snohomish County
+WA|53|68750|Sunnyside city|Incorporated Place|A|Yakima County
+WA|53|68785|Sunnyslope CDP|Census Designated Place|S|Chelan County
+WA|53|69170|Suquamish CDP|Census Designated Place|S|Kitsap County
+WA|53|69280|Swede Heaven CDP|Census Designated Place|S|Snohomish County
+WA|53|70000|Tacoma city|Incorporated Place|A|Pierce County
+WA|53|70175|Taholah CDP|Census Designated Place|S|Grays Harbor County
+WA|53|70245|Tampico CDP|Census Designated Place|S|Yakima County
+WA|53|70280|Tanglewilde CDP|Census Designated Place|S|Thurston County
+WA|53|70315|Tanner CDP|Census Designated Place|S|King County
+WA|53|70560|Tekoa city|Incorporated Place|A|Whitman County
+WA|53|70630|Tenino city|Incorporated Place|A|Thurston County
+WA|53|70805|Terrace Heights CDP|Census Designated Place|S|Yakima County
+WA|53|71225|Thorp CDP|Census Designated Place|S|Kittitas County
+WA|53|71330|Three Lakes CDP|Census Designated Place|S|Snohomish County
+WA|53|71400|Tieton town|Incorporated Place|A|Yakima County
+WA|53|71680|Tokeland CDP|Census Designated Place|S|Pacific County
+WA|53|71785|Toledo city|Incorporated Place|A|Lewis County
+WA|53|71890|Tonasket city|Incorporated Place|A|Okanogan County
+WA|53|71960|Toppenish city|Incorporated Place|A|Yakima County
+WA|53|71995|Torboy CDP|Census Designated Place|S|Ferry County
+WA|53|72030|Touchet CDP|Census Designated Place|S|Walla Walla County
+WA|53|72170|Town and Country CDP|Census Designated Place|S|Spokane County
+WA|53|72205|Tracyton CDP|Census Designated Place|S|Kitsap County
+WA|53|72450|Trout Lake CDP|Census Designated Place|S|Klickitat County
+WA|53|72625|Tukwila city|Incorporated Place|A|King County
+WA|53|72905|Tumwater city|Incorporated Place|A|Thurston County
+WA|53|73065|Twin Lakes CDP|Census Designated Place|S|Ferry County
+WA|53|73080|Twisp town|Incorporated Place|A|Okanogan County
+WA|53|73255|Union CDP|Census Designated Place|S|Mason County
+WA|53|73290|Union Gap city|Incorporated Place|A|Yakima County
+WA|53|73307|Union Hill-Novelty Hill CDP|Census Designated Place|S|King County
+WA|53|73360|Uniontown town|Incorporated Place|A|Whitman County
+WA|53|73465|University Place city|Incorporated Place|A|Pierce County
+WA|53|73580|Upper Elochoman CDP|Census Designated Place|S|Wahkiakum County
+WA|53|73780|Vader city|Incorporated Place|A|Lewis County
+WA|53|73885|Valley CDP|Census Designated Place|S|Stevens County
+WA|53|74060|Vancouver city|Incorporated Place|A|Clark County
+WA|53|74200|Vantage CDP|Census Designated Place|S|Kittitas County
+WA|53|74305|Vashon CDP|Census Designated Place|S|King County
+WA|53|74445|Vaughn CDP|Census Designated Place|S|Pierce County
+WA|53|74585|Venersborg CDP|Census Designated Place|S|Clark County
+WA|53|74760|Verlot CDP|Census Designated Place|S|Snohomish County
+WA|53|75565|Waitsburg city|Incorporated Place|A|Walla Walla County
+WA|53|75775|Walla Walla city|Incorporated Place|A|Walla Walla County
+WA|53|75810|Walla Walla East CDP|Census Designated Place|S|Walla Walla County
+WA|53|75905|Waller CDP|Census Designated Place|S|Pierce County
+WA|53|75985|Wallula CDP|Census Designated Place|S|Walla Walla County
+WA|53|76055|Walnut Grove CDP|Census Designated Place|S|Clark County
+WA|53|76125|Wapato city|Incorporated Place|A|Yakima County
+WA|53|76160|Warden city|Incorporated Place|A|Grant County
+WA|53|76195|Warm Beach CDP|Census Designated Place|S|Snohomish County
+WA|53|76405|Washougal city|Incorporated Place|A|Clark County
+WA|53|76440|Washtucna town|Incorporated Place|A|Adams County
+WA|53|76510|Waterville town|Incorporated Place|A|Douglas County
+WA|53|76615|Wauna CDP|Census Designated Place|S|Pierce County
+WA|53|76720|Waverly town|Incorporated Place|A|Spokane County
+WA|53|77105|Wenatchee city|Incorporated Place|A|Chelan County
+WA|53|77297|West Clarkston-Highland CDP|Census Designated Place|S|Asotin County
+WA|53|77612|West Pasco CDP|Census Designated Place|S|Franklin County
+WA|53|77630|Westport city|Incorporated Place|A|Grays Harbor County
+WA|53|77665|West Richland city|Incorporated Place|A|Benton County
+WA|53|77745|West Side Highway CDP|Census Designated Place|S|Cowlitz County
+WA|53|78155|Whidbey Island Station CDP|Census Designated Place|S|Island County
+WA|53|78225|White Center CDP|Census Designated Place|S|King County
+WA|53|78330|White Salmon city|Incorporated Place|A|Klickitat County
+WA|53|78365|White Swan CDP|Census Designated Place|S|Yakima County
+WA|53|78680|Wilbur town|Incorporated Place|A|Lincoln County
+WA|53|78780|Wilderness Rim CDP|Census Designated Place|S|King County
+WA|53|78925|Wilkeson town|Incorporated Place|A|Pierce County
+WA|53|78995|Willapa CDP|Census Designated Place|S|Pacific County
+WA|53|79135|Wilson Creek town|Incorporated Place|A|Grant County
+WA|53|79275|Winlock city|Incorporated Place|A|Lewis County
+WA|53|79380|Winthrop town|Incorporated Place|A|Okanogan County
+WA|53|79485|Wishram CDP|Census Designated Place|S|Klickitat County
+WA|53|79555|Wollochet CDP|Census Designated Place|S|Pierce County
+WA|53|79590|Woodinville city|Incorporated Place|A|King County
+WA|53|79625|Woodland city|Incorporated Place|A|Clark County, Cowlitz County
+WA|53|79825|Woods Creek CDP|Census Designated Place|S|Snohomish County
+WA|53|79835|Woodway city|Incorporated Place|A|Snohomish County
+WA|53|79975|Yacolt town|Incorporated Place|A|Clark County
+WA|53|80010|Yakima city|Incorporated Place|A|Yakima County
+WA|53|80150|Yarrow Point town|Incorporated Place|A|King County
+WA|53|80220|Yelm city|Incorporated Place|A|Thurston County
+WA|53|80500|Zillah city|Incorporated Place|A|Yakima County

@@ -1,0 +1,601 @@
+MA|25|00000|County Subdivisions not defined|County Subdivision|F|Barnstable County
+MA|25|00000|County Subdivisions not defined|County Subdivision|F|Bristol County
+MA|25|00000|County Subdivisions not defined|County Subdivision|F|Essex County
+MA|25|00000|County Subdivisions not defined|County Subdivision|F|Nantucket County
+MA|25|00000|County Subdivisions not defined|County Subdivision|F|Plymouth County
+MA|25|00000|County Subdivisions not defined|County Subdivision|F|Suffolk County
+MA|25|00135|Abington CDP|Census Designated Place|S|Plymouth County
+MA|25|00170|Abington town|County Subdivision|A|Plymouth County
+MA|25|00380|Acton town|County Subdivision|A|Middlesex County
+MA|25|00520|Acushnet town|County Subdivision|A|Bristol County
+MA|25|00530|Acushnet Center CDP|Census Designated Place|S|Bristol County
+MA|25|00555|Adams town|County Subdivision|A|Berkshire County
+MA|25|00590|Adams CDP|Census Designated Place|S|Berkshire County
+MA|25|00840|Agawam Town city|County Subdivision|F|Hampden County
+MA|25|00840|Agawam Town city|Incorporated Place|A|Hampden County
+MA|25|00975|Alford town|County Subdivision|A|Berkshire County
+MA|25|01260|Amesbury Town city|County Subdivision|F|Essex County
+MA|25|01260|Amesbury Town city|Incorporated Place|A|Essex County
+MA|25|01325|Amherst town|County Subdivision|A|Hampshire County
+MA|25|01360|Amherst Center CDP|Census Designated Place|S|Hampshire County
+MA|25|01430|Andover CDP|Census Designated Place|S|Essex County
+MA|25|01465|Andover town|County Subdivision|A|Essex County
+MA|25|01585|Aquinnah town|County Subdivision|A|Dukes County
+MA|25|01605|Arlington town|County Subdivision|A|Middlesex County
+MA|25|01640|Arlington CDP|Census Designated Place|S|Middlesex County
+MA|25|01885|Ashburnham town|County Subdivision|A|Worcester County
+MA|25|01955|Ashby town|County Subdivision|A|Middlesex County
+MA|25|02095|Ashfield town|County Subdivision|A|Franklin County
+MA|25|02130|Ashland town|County Subdivision|A|Middlesex County
+MA|25|02480|Athol town|County Subdivision|A|Worcester County
+MA|25|02515|Athol CDP|Census Designated Place|S|Worcester County
+MA|25|02690|Attleboro city|County Subdivision|F|Bristol County
+MA|25|02690|Attleboro city|Incorporated Place|A|Bristol County
+MA|25|02760|Auburn town|County Subdivision|A|Worcester County
+MA|25|02935|Avon town|County Subdivision|A|Norfolk County
+MA|25|03005|Ayer town|County Subdivision|A|Middlesex County
+MA|25|03040|Ayer CDP|Census Designated Place|S|Middlesex County
+MA|25|03355|Baldwinville CDP|Census Designated Place|S|Worcester County
+MA|25|03690|Barnstable Town city|County Subdivision|F|Barnstable County
+MA|25|03690|Barnstable Town city|Incorporated Place|A|Barnstable County
+MA|25|03705|Barre CDP|Census Designated Place|S|Worcester County
+MA|25|03740|Barre town|County Subdivision|A|Worcester County
+MA|25|04545|Becket town|County Subdivision|A|Berkshire County
+MA|25|04615|Bedford town|County Subdivision|A|Middlesex County
+MA|25|04790|Belchertown CDP|Census Designated Place|S|Hampshire County
+MA|25|04825|Belchertown town|County Subdivision|A|Hampshire County
+MA|25|04930|Bellingham town|County Subdivision|A|Norfolk County
+MA|25|04965|Bellingham CDP|Census Designated Place|S|Norfolk County
+MA|25|05070|Belmont town|County Subdivision|A|Middlesex County
+MA|25|05105|Belmont CDP|Census Designated Place|S|Middlesex County
+MA|25|05280|Berkley town|County Subdivision|A|Bristol County
+MA|25|05490|Berlin town|County Subdivision|A|Worcester County
+MA|25|05560|Bernardston town|County Subdivision|A|Franklin County
+MA|25|05595|Beverly city|County Subdivision|F|Essex County
+MA|25|05595|Beverly city|Incorporated Place|A|Essex County
+MA|25|05805|Billerica town|County Subdivision|A|Middlesex County
+MA|25|06015|Blackstone town|County Subdivision|A|Worcester County
+MA|25|06050|Blandford CDP|Census Designated Place|S|Hampden County
+MA|25|06085|Blandford town|County Subdivision|A|Hampden County
+MA|25|06170|Bliss Corner CDP|Census Designated Place|S|Bristol County
+MA|25|06365|Bolton town|County Subdivision|A|Worcester County
+MA|25|07000|Boston city|County Subdivision|F|Suffolk County
+MA|25|07000|Boston city|Incorporated Place|A|Suffolk County
+MA|25|07140|Bourne CDP|Census Designated Place|S|Barnstable County
+MA|25|07175|Bourne town|County Subdivision|A|Barnstable County
+MA|25|07350|Boxborough town|County Subdivision|A|Middlesex County
+MA|25|07385|Boxford CDP|Census Designated Place|S|Essex County
+MA|25|07420|Boxford town|County Subdivision|A|Essex County
+MA|25|07525|Boylston town|County Subdivision|A|Worcester County
+MA|25|07740|Braintree Town city|County Subdivision|F|Norfolk County
+MA|25|07740|Braintree Town city|Incorporated Place|A|Norfolk County
+MA|25|07945|Brewster CDP|Census Designated Place|S|Barnstable County
+MA|25|07980|Brewster town|County Subdivision|A|Barnstable County
+MA|25|08050|Bridgewater CDP|Census Designated Place|S|Plymouth County
+MA|25|08085|Bridgewater town|County Subdivision|A|Plymouth County
+MA|25|08470|Brimfield town|County Subdivision|A|Hampden County
+MA|25|09000|Brockton city|County Subdivision|F|Plymouth County
+MA|25|09000|Brockton city|Incorporated Place|A|Plymouth County
+MA|25|09070|Brookfield CDP|Census Designated Place|S|Worcester County
+MA|25|09105|Brookfield town|County Subdivision|A|Worcester County
+MA|25|09175|Brookline town|County Subdivision|A|Norfolk County
+MA|25|09210|Brookline CDP|Census Designated Place|S|Norfolk County
+MA|25|09595|Buckland town|County Subdivision|A|Franklin County
+MA|25|09840|Burlington town|County Subdivision|A|Middlesex County
+MA|25|09875|Burlington CDP|Census Designated Place|S|Middlesex County
+MA|25|10015|Buzzards Bay CDP|Census Designated Place|S|Barnstable County
+MA|25|11000|Cambridge city|County Subdivision|F|Middlesex County
+MA|25|11000|Cambridge city|Incorporated Place|A|Middlesex County
+MA|25|11315|Canton town|County Subdivision|A|Norfolk County
+MA|25|11525|Carlisle town|County Subdivision|A|Middlesex County
+MA|25|11665|Carver town|County Subdivision|A|Plymouth County
+MA|25|12505|Charlemont town|County Subdivision|A|Franklin County
+MA|25|12715|Charlton town|County Subdivision|A|Worcester County
+MA|25|12960|Chatham CDP|Census Designated Place|S|Barnstable County
+MA|25|12995|Chatham town|County Subdivision|A|Barnstable County
+MA|25|13135|Chelmsford town|County Subdivision|A|Middlesex County
+MA|25|13205|Chelsea city|County Subdivision|F|Suffolk County
+MA|25|13205|Chelsea city|Incorporated Place|A|Suffolk County
+MA|25|13310|Cheshire CDP|Census Designated Place|S|Berkshire County
+MA|25|13345|Cheshire town|County Subdivision|A|Berkshire County
+MA|25|13450|Chester CDP|Census Designated Place|S|Hampden County
+MA|25|13485|Chester town|County Subdivision|A|Hampden County
+MA|25|13590|Chesterfield town|County Subdivision|A|Hampshire County
+MA|25|13660|Chicopee city|County Subdivision|F|Hampden County
+MA|25|13660|Chicopee city|Incorporated Place|A|Hampden County
+MA|25|13800|Chilmark town|County Subdivision|A|Dukes County
+MA|25|14010|Clarksburg town|County Subdivision|A|Berkshire County
+MA|25|14395|Clinton town|County Subdivision|A|Worcester County
+MA|25|14430|Clinton CDP|Census Designated Place|S|Worcester County
+MA|25|14570|Cochituate CDP|Census Designated Place|S|Middlesex County
+MA|25|14640|Cohasset town|County Subdivision|A|Norfolk County
+MA|25|14885|Colrain town|County Subdivision|A|Franklin County
+MA|25|15060|Concord town|County Subdivision|A|Middlesex County
+MA|25|15200|Conway town|County Subdivision|A|Franklin County
+MA|25|15340|Cordaville CDP|Census Designated Place|S|Worcester County
+MA|25|16040|Cummington town|County Subdivision|A|Hampshire County
+MA|25|16180|Dalton town|County Subdivision|A|Berkshire County
+MA|25|16250|Danvers town|County Subdivision|A|Essex County
+MA|25|16285|Danvers CDP|Census Designated Place|S|Essex County
+MA|25|16425|Dartmouth town|County Subdivision|A|Bristol County
+MA|25|16495|Dedham town|County Subdivision|A|Norfolk County
+MA|25|16530|Dedham CDP|Census Designated Place|S|Norfolk County
+MA|25|16635|Deerfield CDP|Census Designated Place|S|Franklin County
+MA|25|16670|Deerfield town|County Subdivision|A|Franklin County
+MA|25|16740|Dennis CDP|Census Designated Place|S|Barnstable County
+MA|25|16775|Dennis town|County Subdivision|A|Barnstable County
+MA|25|16810|Dennis Port CDP|Census Designated Place|S|Barnstable County
+MA|25|16840|Devens CDP|Census Designated Place|S|Middlesex County, Worcester County
+MA|25|16950|Dighton town|County Subdivision|A|Bristol County
+MA|25|17300|Douglas town|County Subdivision|A|Worcester County
+MA|25|17370|Dover CDP|Census Designated Place|S|Norfolk County
+MA|25|17405|Dover town|County Subdivision|A|Norfolk County
+MA|25|17475|Dracut town|County Subdivision|A|Middlesex County
+MA|25|17685|Dudley town|County Subdivision|A|Worcester County
+MA|25|17825|Dunstable town|County Subdivision|A|Middlesex County
+MA|25|17860|Duxbury CDP|Census Designated Place|S|Plymouth County
+MA|25|17895|Duxbury town|County Subdivision|A|Plymouth County
+MA|25|18455|East Bridgewater town|County Subdivision|A|Plymouth County
+MA|25|18560|East Brookfield town|County Subdivision|A|Worcester County
+MA|25|18595|East Brookfield CDP|Census Designated Place|S|Worcester County
+MA|25|18840|East Dennis CDP|Census Designated Place|S|Barnstable County
+MA|25|18875|East Douglas CDP|Census Designated Place|S|Worcester County
+MA|25|18980|East Falmouth CDP|Census Designated Place|S|Barnstable County
+MA|25|19295|Eastham town|County Subdivision|A|Barnstable County
+MA|25|19370|Easthampton Town city|County Subdivision|F|Hampshire County
+MA|25|19370|Easthampton Town city|Incorporated Place|A|Hampshire County
+MA|25|19400|East Harwich CDP|Census Designated Place|S|Barnstable County
+MA|25|19645|East Longmeadow town|County Subdivision|A|Hampden County
+MA|25|20100|Easton town|County Subdivision|A|Bristol County
+MA|25|20310|East Pepperell CDP|Census Designated Place|S|Middlesex County
+MA|25|20380|East Sandwich CDP|Census Designated Place|S|Barnstable County
+MA|25|21150|Edgartown town|County Subdivision|A|Dukes County
+MA|25|21360|Egremont town|County Subdivision|A|Berkshire County
+MA|25|21780|Erving town|County Subdivision|A|Franklin County
+MA|25|21815|Essex CDP|Census Designated Place|S|Essex County
+MA|25|21850|Essex town|County Subdivision|A|Essex County
+MA|25|21990|Everett city|County Subdivision|F|Middlesex County
+MA|25|21990|Everett city|Incorporated Place|A|Middlesex County
+MA|25|22130|Fairhaven town|County Subdivision|A|Bristol County
+MA|25|23000|Fall River city|County Subdivision|F|Bristol County
+MA|25|23000|Fall River city|Incorporated Place|A|Bristol County
+MA|25|23070|Falmouth CDP|Census Designated Place|S|Barnstable County
+MA|25|23105|Falmouth town|County Subdivision|A|Barnstable County
+MA|25|23840|Fiskdale CDP|Census Designated Place|S|Worcester County
+MA|25|23875|Fitchburg city|County Subdivision|F|Worcester County
+MA|25|23875|Fitchburg city|Incorporated Place|A|Worcester County
+MA|25|24120|Florida town|County Subdivision|A|Berkshire County
+MA|25|24190|Forestdale CDP|Census Designated Place|S|Barnstable County
+MA|25|24820|Foxborough town|County Subdivision|A|Norfolk County
+MA|25|24855|Foxborough CDP|Census Designated Place|S|Norfolk County
+MA|25|24925|Framingham town|County Subdivision|A|Middlesex County
+MA|25|24960|Framingham CDP|Census Designated Place|S|Middlesex County
+MA|25|25172|Franklin Town city|County Subdivision|F|Norfolk County
+MA|25|25172|Franklin Town city|Incorporated Place|A|Norfolk County
+MA|25|25240|Freetown town|County Subdivision|A|Bristol County
+MA|25|25485|Gardner city|County Subdivision|F|Worcester County
+MA|25|25485|Gardner city|Incorporated Place|A|Worcester County
+MA|25|25625|Georgetown town|County Subdivision|A|Essex County
+MA|25|25730|Gill town|County Subdivision|A|Franklin County
+MA|25|26150|Gloucester city|County Subdivision|F|Essex County
+MA|25|26150|Gloucester city|Incorporated Place|A|Essex County
+MA|25|26290|Goshen town|County Subdivision|A|Hampshire County
+MA|25|26325|Gosnold town|County Subdivision|A|Dukes County
+MA|25|26430|Grafton town|County Subdivision|A|Worcester County
+MA|25|26500|Granby CDP|Census Designated Place|S|Hampshire County
+MA|25|26535|Granby town|County Subdivision|A|Hampshire County
+MA|25|26675|Granville town|County Subdivision|A|Hampden County
+MA|25|26780|Great Barrington CDP|Census Designated Place|S|Berkshire County
+MA|25|26815|Great Barrington town|County Subdivision|A|Berkshire County
+MA|25|27100|Greenfield Town city|County Subdivision|F|Franklin County
+MA|25|27100|Greenfield Town city|Incorporated Place|A|Franklin County
+MA|25|27147|Green Harbor-Cedar Crest CDP|Census Designated Place|S|Plymouth County
+MA|25|27445|Groton CDP|Census Designated Place|S|Middlesex County
+MA|25|27480|Groton town|County Subdivision|A|Middlesex County
+MA|25|27620|Groveland town|County Subdivision|A|Essex County
+MA|25|27690|Hadley town|County Subdivision|A|Hampshire County
+MA|25|27795|Halifax town|County Subdivision|A|Plymouth County
+MA|25|27900|Hamilton town|County Subdivision|A|Essex County
+MA|25|28075|Hampden town|County Subdivision|A|Hampden County
+MA|25|28180|Hancock town|County Subdivision|A|Berkshire County
+MA|25|28285|Hanover town|County Subdivision|A|Plymouth County
+MA|25|28460|Hanson CDP|Census Designated Place|S|Plymouth County
+MA|25|28495|Hanson town|County Subdivision|A|Plymouth County
+MA|25|28740|Hardwick town|County Subdivision|A|Worcester County
+MA|25|28950|Harvard town|County Subdivision|A|Worcester County
+MA|25|29020|Harwich town|County Subdivision|A|Barnstable County
+MA|25|29055|Harwich Center CDP|Census Designated Place|S|Barnstable County
+MA|25|29090|Harwich Port CDP|Census Designated Place|S|Barnstable County
+MA|25|29230|Hatfield CDP|Census Designated Place|S|Hampshire County
+MA|25|29265|Hatfield town|County Subdivision|A|Hampshire County
+MA|25|29405|Haverhill city|County Subdivision|F|Essex County
+MA|25|29405|Haverhill city|Incorporated Place|A|Essex County
+MA|25|29475|Hawley town|County Subdivision|A|Franklin County
+MA|25|29650|Heath town|County Subdivision|A|Franklin County
+MA|25|30175|Hingham CDP|Census Designated Place|S|Plymouth County
+MA|25|30210|Hingham town|County Subdivision|A|Plymouth County
+MA|25|30315|Hinsdale town|County Subdivision|A|Berkshire County
+MA|25|30420|Holbrook CDP|Census Designated Place|S|Norfolk County
+MA|25|30455|Holbrook town|County Subdivision|A|Norfolk County
+MA|25|30560|Holden town|County Subdivision|A|Worcester County
+MA|25|30630|Holland CDP|Census Designated Place|S|Hampden County
+MA|25|30665|Holland town|County Subdivision|A|Hampden County
+MA|25|30700|Holliston town|County Subdivision|A|Middlesex County
+MA|25|30840|Holyoke city|County Subdivision|F|Hampden County
+MA|25|30840|Holyoke city|Incorporated Place|A|Hampden County
+MA|25|30945|Hopedale town|County Subdivision|A|Worcester County
+MA|25|30980|Hopedale CDP|Census Designated Place|S|Worcester County
+MA|25|31050|Hopkinton CDP|Census Designated Place|S|Middlesex County
+MA|25|31085|Hopkinton town|County Subdivision|A|Middlesex County
+MA|25|31295|Housatonic CDP|Census Designated Place|S|Berkshire County
+MA|25|31435|Hubbardston town|County Subdivision|A|Worcester County
+MA|25|31540|Hudson town|County Subdivision|A|Middlesex County
+MA|25|31575|Hudson CDP|Census Designated Place|S|Middlesex County
+MA|25|31645|Hull town|County Subdivision|A|Plymouth County
+MA|25|31680|Hull CDP|Census Designated Place|S|Plymouth County
+MA|25|31750|Huntington CDP|Census Designated Place|S|Hampshire County
+MA|25|31785|Huntington town|County Subdivision|A|Hampshire County
+MA|25|32275|Ipswich CDP|Census Designated Place|S|Essex County
+MA|25|32310|Ipswich town|County Subdivision|A|Essex County
+MA|25|33185|Kingston CDP|Census Designated Place|S|Plymouth County
+MA|25|33220|Kingston town|County Subdivision|A|Plymouth County
+MA|25|33920|Lakeville town|County Subdivision|A|Plymouth County
+MA|25|34165|Lancaster town|County Subdivision|A|Worcester County
+MA|25|34340|Lanesborough town|County Subdivision|A|Berkshire County
+MA|25|34550|Lawrence city|County Subdivision|F|Essex County
+MA|25|34550|Lawrence city|Incorporated Place|A|Essex County
+MA|25|34620|Lee CDP|Census Designated Place|S|Berkshire County
+MA|25|34655|Lee town|County Subdivision|A|Berkshire County
+MA|25|34795|Leicester town|County Subdivision|A|Worcester County
+MA|25|34935|Lenox CDP|Census Designated Place|S|Berkshire County
+MA|25|34970|Lenox town|County Subdivision|A|Berkshire County
+MA|25|35075|Leominster city|County Subdivision|F|Worcester County
+MA|25|35075|Leominster city|Incorporated Place|A|Worcester County
+MA|25|35180|Leverett town|County Subdivision|A|Franklin County
+MA|25|35215|Lexington town|County Subdivision|A|Middlesex County
+MA|25|35250|Lexington CDP|Census Designated Place|S|Middlesex County
+MA|25|35285|Leyden town|County Subdivision|A|Franklin County
+MA|25|35425|Lincoln town|County Subdivision|A|Middlesex County
+MA|25|35950|Littleton town|County Subdivision|A|Middlesex County
+MA|25|36020|Littleton Common CDP|Census Designated Place|S|Middlesex County
+MA|25|36300|Longmeadow town|County Subdivision|A|Hampden County
+MA|25|36335|Longmeadow CDP|Census Designated Place|S|Hampden County
+MA|25|37000|Lowell city|County Subdivision|F|Middlesex County
+MA|25|37000|Lowell city|Incorporated Place|A|Middlesex County
+MA|25|37175|Ludlow town|County Subdivision|A|Hampden County
+MA|25|37385|Lunenburg CDP|Census Designated Place|S|Worcester County
+MA|25|37420|Lunenburg town|County Subdivision|A|Worcester County
+MA|25|37490|Lynn city|County Subdivision|F|Essex County
+MA|25|37490|Lynn city|Incorporated Place|A|Essex County
+MA|25|37560|Lynnfield town|County Subdivision|A|Essex County
+MA|25|37595|Lynnfield CDP|Census Designated Place|S|Essex County
+MA|25|37735|Madaket CDP|Census Designated Place|S|Nantucket County
+MA|25|37875|Malden city|County Subdivision|F|Middlesex County
+MA|25|37875|Malden city|Incorporated Place|A|Middlesex County
+MA|25|37995|Manchester-by-the-Sea town|County Subdivision|A|Essex County
+MA|25|38225|Mansfield town|County Subdivision|A|Bristol County
+MA|25|38230|Mansfield Center CDP|Census Designated Place|S|Bristol County
+MA|25|38400|Marblehead town|County Subdivision|A|Essex County
+MA|25|38435|Marblehead CDP|Census Designated Place|S|Essex County
+MA|25|38540|Marion town|County Subdivision|A|Plymouth County
+MA|25|38575|Marion Center CDP|Census Designated Place|S|Plymouth County
+MA|25|38715|Marlborough city|County Subdivision|F|Middlesex County
+MA|25|38715|Marlborough city|Incorporated Place|A|Middlesex County
+MA|25|38820|Marshfield CDP|Census Designated Place|S|Plymouth County
+MA|25|38855|Marshfield town|County Subdivision|A|Plymouth County
+MA|25|38960|Marshfield Hills CDP|Census Designated Place|S|Plymouth County
+MA|25|39100|Mashpee town|County Subdivision|A|Barnstable County
+MA|25|39152|Mashpee Neck CDP|Census Designated Place|S|Barnstable County
+MA|25|39450|Mattapoisett town|County Subdivision|A|Plymouth County
+MA|25|39485|Mattapoisett Center CDP|Census Designated Place|S|Plymouth County
+MA|25|39625|Maynard town|County Subdivision|A|Middlesex County
+MA|25|39660|Maynard CDP|Census Designated Place|S|Middlesex County
+MA|25|39730|Medfield CDP|Census Designated Place|S|Norfolk County
+MA|25|39765|Medfield town|County Subdivision|A|Norfolk County
+MA|25|39835|Medford city|County Subdivision|F|Middlesex County
+MA|25|39835|Medford city|Incorporated Place|A|Middlesex County
+MA|25|39975|Medway town|County Subdivision|A|Norfolk County
+MA|25|40115|Melrose city|County Subdivision|F|Middlesex County
+MA|25|40115|Melrose city|Incorporated Place|A|Middlesex County
+MA|25|40255|Mendon town|County Subdivision|A|Worcester County
+MA|25|40430|Merrimac town|County Subdivision|A|Essex County
+MA|25|40710|Methuen Town city|County Subdivision|F|Essex County
+MA|25|40710|Methuen Town city|Incorporated Place|A|Essex County
+MA|25|40850|Middleborough town|County Subdivision|A|Plymouth County
+MA|25|40885|Middleborough Center CDP|Census Designated Place|S|Plymouth County
+MA|25|40990|Middlefield town|County Subdivision|A|Hampshire County
+MA|25|41095|Middleton town|County Subdivision|A|Essex County
+MA|25|41165|Milford town|County Subdivision|A|Worcester County
+MA|25|41200|Milford CDP|Census Designated Place|S|Worcester County
+MA|25|41340|Millbury town|County Subdivision|A|Worcester County
+MA|25|41410|Millers Falls CDP|Census Designated Place|S|Franklin County
+MA|25|41515|Millis town|County Subdivision|A|Norfolk County
+MA|25|41532|Millis-Clicquot CDP|Census Designated Place|S|Norfolk County
+MA|25|41585|Millville town|County Subdivision|A|Worcester County
+MA|25|41690|Milton town|County Subdivision|A|Norfolk County
+MA|25|41725|Milton CDP|Census Designated Place|S|Norfolk County
+MA|25|41960|Monomoscoy Island CDP|Census Designated Place|S|Barnstable County
+MA|25|42040|Monroe town|County Subdivision|A|Franklin County
+MA|25|42145|Monson town|County Subdivision|A|Hampden County
+MA|25|42180|Monson Center CDP|Census Designated Place|S|Hampden County
+MA|25|42285|Montague town|County Subdivision|A|Franklin County
+MA|25|42460|Monterey town|County Subdivision|A|Berkshire County
+MA|25|42530|Montgomery town|County Subdivision|A|Hampden County
+MA|25|42670|Monument Beach CDP|Census Designated Place|S|Barnstable County
+MA|25|43300|Mount Washington town|County Subdivision|A|Berkshire County
+MA|25|43580|Nahant town|County Subdivision|A|Essex County
+MA|25|43615|Nahant CDP|Census Designated Place|S|Essex County
+MA|25|43755|Nantucket CDP|Census Designated Place|S|Nantucket County
+MA|25|43790|Nantucket town|County Subdivision|A|Nantucket County
+MA|25|43895|Natick town|County Subdivision|A|Middlesex County
+MA|25|44105|Needham town|County Subdivision|A|Norfolk County
+MA|25|44140|Needham CDP|Census Designated Place|S|Norfolk County
+MA|25|44385|New Ashford town|County Subdivision|A|Berkshire County
+MA|25|45000|New Bedford city|County Subdivision|F|Bristol County
+MA|25|45000|New Bedford city|Incorporated Place|A|Bristol County
+MA|25|45105|New Braintree town|County Subdivision|A|Worcester County
+MA|25|45175|Newbury town|County Subdivision|A|Essex County
+MA|25|45245|Newburyport city|County Subdivision|F|Essex County
+MA|25|45245|Newburyport city|Incorporated Place|A|Essex County
+MA|25|45420|New Marlborough town|County Subdivision|A|Berkshire County
+MA|25|45490|New Salem town|County Subdivision|A|Franklin County
+MA|25|45500|New Seabury CDP|Census Designated Place|S|Barnstable County
+MA|25|45560|Newton city|County Subdivision|F|Middlesex County
+MA|25|45560|Newton city|Incorporated Place|A|Middlesex County
+MA|25|46050|Norfolk town|County Subdivision|A|Norfolk County
+MA|25|46225|North Adams city|County Subdivision|F|Berkshire County
+MA|25|46225|North Adams city|Incorporated Place|A|Berkshire County
+MA|25|46295|North Amherst CDP|Census Designated Place|S|Hampshire County
+MA|25|46330|Northampton city|County Subdivision|F|Hampshire County
+MA|25|46330|Northampton city|Incorporated Place|A|Hampshire County
+MA|25|46365|North Andover town|County Subdivision|A|Essex County
+MA|25|46575|North Attleborough town|County Subdivision|A|Bristol County
+MA|25|46785|Northborough CDP|Census Designated Place|S|Worcester County
+MA|25|46820|Northborough town|County Subdivision|A|Worcester County
+MA|25|46925|Northbridge town|County Subdivision|A|Worcester County
+MA|25|47100|North Brookfield CDP|Census Designated Place|S|Worcester County
+MA|25|47135|North Brookfield town|County Subdivision|A|Worcester County
+MA|25|47590|North Eastham CDP|Census Designated Place|S|Barnstable County
+MA|25|47730|North Falmouth CDP|Census Designated Place|S|Barnstable County
+MA|25|47800|Northfield CDP|Census Designated Place|S|Franklin County
+MA|25|47835|Northfield town|County Subdivision|A|Franklin County
+MA|25|48220|North Lakeville CDP|Census Designated Place|S|Plymouth County
+MA|25|48710|North Pembroke CDP|Census Designated Place|S|Plymouth County
+MA|25|48780|North Plymouth CDP|Census Designated Place|S|Plymouth County
+MA|25|48955|North Reading town|County Subdivision|A|Middlesex County
+MA|25|49165|North Scituate CDP|Census Designated Place|S|Plymouth County
+MA|25|49200|North Seekonk CDP|Census Designated Place|S|Bristol County
+MA|25|49700|Northwest Harwich CDP|Census Designated Place|S|Barnstable County
+MA|25|49710|North Westport CDP|Census Designated Place|S|Bristol County
+MA|25|49970|Norton town|County Subdivision|A|Bristol County
+MA|25|50005|Norton Center CDP|Census Designated Place|S|Bristol County
+MA|25|50145|Norwell town|County Subdivision|A|Plymouth County
+MA|25|50250|Norwood town|County Subdivision|A|Norfolk County
+MA|25|50285|Norwood CDP|Census Designated Place|S|Norfolk County
+MA|25|50390|Oak Bluffs town|County Subdivision|A|Dukes County
+MA|25|50670|Oakham town|County Subdivision|A|Worcester County
+MA|25|50862|Ocean Bluff-Brant Rock CDP|Census Designated Place|S|Plymouth County
+MA|25|50880|Ocean Grove CDP|Census Designated Place|S|Bristol County
+MA|25|51160|Onset CDP|Census Designated Place|S|Plymouth County
+MA|25|51230|Orange CDP|Census Designated Place|S|Franklin County
+MA|25|51265|Orange town|County Subdivision|A|Franklin County
+MA|25|51405|Orleans CDP|Census Designated Place|S|Barnstable County
+MA|25|51440|Orleans town|County Subdivision|A|Barnstable County
+MA|25|51580|Otis town|County Subdivision|A|Berkshire County
+MA|25|51790|Oxford CDP|Census Designated Place|S|Worcester County
+MA|25|51825|Oxford town|County Subdivision|A|Worcester County
+MA|25|52144|Palmer Town city|County Subdivision|F|Hampden County
+MA|25|52144|Palmer Town city|Incorporated Place|A|Hampden County
+MA|25|52420|Paxton town|County Subdivision|A|Worcester County
+MA|25|52490|Peabody city|County Subdivision|F|Essex County
+MA|25|52490|Peabody city|Incorporated Place|A|Essex County
+MA|25|52560|Pelham town|County Subdivision|A|Hampshire County
+MA|25|52630|Pembroke town|County Subdivision|A|Plymouth County
+MA|25|52770|Pepperell CDP|Census Designated Place|S|Middlesex County
+MA|25|52805|Pepperell town|County Subdivision|A|Middlesex County
+MA|25|53050|Peru town|County Subdivision|A|Berkshire County
+MA|25|53085|Petersham CDP|Census Designated Place|S|Worcester County
+MA|25|53120|Petersham town|County Subdivision|A|Worcester County
+MA|25|53225|Phillipston town|County Subdivision|A|Worcester County
+MA|25|53680|Pinehurst CDP|Census Designated Place|S|Middlesex County
+MA|25|53960|Pittsfield city|County Subdivision|F|Berkshire County
+MA|25|53960|Pittsfield city|Incorporated Place|A|Berkshire County
+MA|25|54030|Plainfield town|County Subdivision|A|Hampshire County
+MA|25|54100|Plainville town|County Subdivision|A|Norfolk County
+MA|25|54275|Plymouth CDP|Census Designated Place|S|Plymouth County
+MA|25|54310|Plymouth town|County Subdivision|A|Plymouth County
+MA|25|54415|Plympton town|County Subdivision|A|Plymouth County
+MA|25|54450|Pocasset CDP|Census Designated Place|S|Barnstable County
+MA|25|55070|Popponesset CDP|Census Designated Place|S|Barnstable County
+MA|25|55090|Popponesset Island CDP|Census Designated Place|S|Barnstable County
+MA|25|55395|Princeton town|County Subdivision|A|Worcester County
+MA|25|55500|Provincetown town|County Subdivision|A|Barnstable County
+MA|25|55535|Provincetown CDP|Census Designated Place|S|Barnstable County
+MA|25|55745|Quincy city|County Subdivision|F|Norfolk County
+MA|25|55745|Quincy city|Incorporated Place|A|Norfolk County
+MA|25|55955|Randolph town|County Subdivision|A|Norfolk County
+MA|25|55990|Randolph CDP|Census Designated Place|S|Norfolk County
+MA|25|56060|Raynham town|County Subdivision|A|Bristol County
+MA|25|56095|Raynham Center CDP|Census Designated Place|S|Bristol County
+MA|25|56130|Reading town|County Subdivision|A|Middlesex County
+MA|25|56165|Reading CDP|Census Designated Place|S|Middlesex County
+MA|25|56375|Rehoboth town|County Subdivision|A|Bristol County
+MA|25|56585|Revere city|County Subdivision|F|Suffolk County
+MA|25|56585|Revere city|Incorporated Place|A|Suffolk County
+MA|25|56795|Richmond town|County Subdivision|A|Berkshire County
+MA|25|57600|Rochester town|County Subdivision|A|Plymouth County
+MA|25|57775|Rockland town|County Subdivision|A|Plymouth County
+MA|25|57845|Rockport CDP|Census Designated Place|S|Essex County
+MA|25|57880|Rockport town|County Subdivision|A|Essex County
+MA|25|58335|Rowe town|County Subdivision|A|Franklin County
+MA|25|58370|Rowley CDP|Census Designated Place|S|Essex County
+MA|25|58405|Rowley town|County Subdivision|A|Essex County
+MA|25|58580|Royalston town|County Subdivision|A|Worcester County
+MA|25|58615|Russell CDP|Census Designated Place|S|Hampden County
+MA|25|58650|Russell town|County Subdivision|A|Hampden County
+MA|25|58790|Rutland CDP|Census Designated Place|S|Worcester County
+MA|25|58825|Rutland town|County Subdivision|A|Worcester County
+MA|25|58965|Sagamore CDP|Census Designated Place|S|Barnstable County
+MA|25|59105|Salem city|County Subdivision|F|Essex County
+MA|25|59105|Salem city|Incorporated Place|A|Essex County
+MA|25|59210|Salisbury CDP|Census Designated Place|S|Essex County
+MA|25|59245|Salisbury town|County Subdivision|A|Essex County
+MA|25|59665|Sandisfield town|County Subdivision|A|Berkshire County
+MA|25|59700|Sandwich CDP|Census Designated Place|S|Barnstable County
+MA|25|59735|Sandwich town|County Subdivision|A|Barnstable County
+MA|25|60015|Saugus town|County Subdivision|A|Essex County
+MA|25|60050|Saugus CDP|Census Designated Place|S|Essex County
+MA|25|60225|Savoy town|County Subdivision|A|Berkshire County
+MA|25|60295|Scituate CDP|Census Designated Place|S|Plymouth County
+MA|25|60330|Scituate town|County Subdivision|A|Plymouth County
+MA|25|60505|Seabrook CDP|Census Designated Place|S|Barnstable County
+MA|25|60627|Seconsett Island CDP|Census Designated Place|S|Barnstable County
+MA|25|60645|Seekonk town|County Subdivision|A|Bristol County
+MA|25|60785|Sharon town|County Subdivision|A|Norfolk County
+MA|25|60820|Sharon CDP|Census Designated Place|S|Norfolk County
+MA|25|61065|Sheffield town|County Subdivision|A|Berkshire County
+MA|25|61135|Shelburne town|County Subdivision|A|Franklin County
+MA|25|61205|Shelburne Falls CDP|Census Designated Place|S|Franklin County
+MA|25|61380|Sherborn town|County Subdivision|A|Middlesex County
+MA|25|61555|Shirley CDP|Census Designated Place|S|Middlesex County
+MA|25|61590|Shirley town|County Subdivision|A|Middlesex County
+MA|25|61800|Shrewsbury town|County Subdivision|A|Worcester County
+MA|25|61905|Shutesbury town|County Subdivision|A|Franklin County
+MA|25|61940|Siasconset CDP|Census Designated Place|S|Nantucket County
+MA|25|62300|Smith Mills CDP|Census Designated Place|S|Bristol County
+MA|25|62430|Somerset town|County Subdivision|A|Bristol County
+MA|25|62465|Somerset CDP|Census Designated Place|S|Bristol County
+MA|25|62535|Somerville city|County Subdivision|F|Middlesex County
+MA|25|62535|Somerville city|Incorporated Place|A|Middlesex County
+MA|25|62675|South Amherst CDP|Census Designated Place|S|Hampshire County
+MA|25|62745|Southampton town|County Subdivision|A|Hampshire County
+MA|25|62780|South Ashburnham CDP|Census Designated Place|S|Worcester County
+MA|25|63165|Southborough town|County Subdivision|A|Worcester County
+MA|25|63345|Southbridge Town city|County Subdivision|F|Worcester County
+MA|25|63345|Southbridge Town city|Incorporated Place|A|Worcester County
+MA|25|63620|South Deerfield CDP|Census Designated Place|S|Franklin County
+MA|25|63655|South Dennis CDP|Census Designated Place|S|Barnstable County
+MA|25|63690|South Duxbury CDP|Census Designated Place|S|Plymouth County
+MA|25|63840|Southfield CDP|Census Designated Place|S|Plymouth County
+MA|25|64145|South Hadley town|County Subdivision|A|Hampshire County
+MA|25|64460|South Lancaster CDP|Census Designated Place|S|Worcester County
+MA|25|65825|Southwick town|County Subdivision|A|Hampden County
+MA|25|66035|South Yarmouth CDP|Census Designated Place|S|Barnstable County
+MA|25|66070|Spencer CDP|Census Designated Place|S|Worcester County
+MA|25|66105|Spencer town|County Subdivision|A|Worcester County
+MA|25|67000|Springfield city|County Subdivision|F|Hampden County
+MA|25|67000|Springfield city|Incorporated Place|A|Hampden County
+MA|25|67385|Sterling town|County Subdivision|A|Worcester County
+MA|25|67595|Stockbridge town|County Subdivision|A|Berkshire County
+MA|25|67665|Stoneham town|County Subdivision|A|Middlesex County
+MA|25|67700|Stoneham CDP|Census Designated Place|S|Middlesex County
+MA|25|67945|Stoughton town|County Subdivision|A|Norfolk County
+MA|25|68050|Stow town|County Subdivision|A|Middlesex County
+MA|25|68120|Sturbridge CDP|Census Designated Place|S|Worcester County
+MA|25|68155|Sturbridge town|County Subdivision|A|Worcester County
+MA|25|68260|Sudbury town|County Subdivision|A|Middlesex County
+MA|25|68400|Sunderland town|County Subdivision|A|Franklin County
+MA|25|68610|Sutton town|County Subdivision|A|Worcester County
+MA|25|68645|Swampscott town|County Subdivision|A|Essex County
+MA|25|68680|Swampscott CDP|Census Designated Place|S|Essex County
+MA|25|68750|Swansea town|County Subdivision|A|Bristol County
+MA|25|69170|Taunton city|County Subdivision|F|Bristol County
+MA|25|69170|Taunton city|Incorporated Place|A|Bristol County
+MA|25|69205|Teaticket CDP|Census Designated Place|S|Barnstable County
+MA|25|69275|Templeton town|County Subdivision|A|Worcester County
+MA|25|69415|Tewksbury town|County Subdivision|A|Middlesex County
+MA|25|69585|The Pinehills CDP|Census Designated Place|S|Plymouth County
+MA|25|69940|Tisbury town|County Subdivision|A|Dukes County
+MA|25|70045|Tolland town|County Subdivision|A|Hampden County
+MA|25|70115|Topsfield CDP|Census Designated Place|S|Essex County
+MA|25|70150|Topsfield town|County Subdivision|A|Essex County
+MA|25|70325|Townsend CDP|Census Designated Place|S|Middlesex County
+MA|25|70360|Townsend town|County Subdivision|A|Middlesex County
+MA|25|70605|Truro town|County Subdivision|A|Barnstable County
+MA|25|70815|Turners Falls CDP|Census Designated Place|S|Franklin County
+MA|25|71025|Tyngsborough town|County Subdivision|A|Middlesex County
+MA|25|71095|Tyringham town|County Subdivision|A|Berkshire County
+MA|25|71445|Upton CDP|Census Designated Place|S|Worcester County
+MA|25|71480|Upton town|County Subdivision|A|Worcester County
+MA|25|71620|Uxbridge town|County Subdivision|A|Worcester County
+MA|25|71970|Vineyard Haven CDP|Census Designated Place|S|Dukes County
+MA|25|72215|Wakefield town|County Subdivision|A|Middlesex County
+MA|25|72250|Wakefield CDP|Census Designated Place|S|Middlesex County
+MA|25|72390|Wales town|County Subdivision|A|Hampden County
+MA|25|72460|Walpole CDP|Census Designated Place|S|Norfolk County
+MA|25|72495|Walpole town|County Subdivision|A|Norfolk County
+MA|25|72600|Waltham city|County Subdivision|F|Middlesex County
+MA|25|72600|Waltham city|Incorporated Place|A|Middlesex County
+MA|25|72845|Ware CDP|Census Designated Place|S|Hampshire County
+MA|25|72880|Ware town|County Subdivision|A|Hampshire County
+MA|25|72985|Wareham town|County Subdivision|A|Plymouth County
+MA|25|73020|Wareham Center CDP|Census Designated Place|S|Plymouth County
+MA|25|73055|Warren CDP|Census Designated Place|S|Worcester County
+MA|25|73090|Warren town|County Subdivision|A|Worcester County
+MA|25|73265|Warwick town|County Subdivision|A|Franklin County
+MA|25|73335|Washington town|County Subdivision|A|Berkshire County
+MA|25|73440|Watertown Town city|County Subdivision|F|Middlesex County
+MA|25|73440|Watertown Town city|Incorporated Place|A|Middlesex County
+MA|25|73790|Wayland town|County Subdivision|A|Middlesex County
+MA|25|73895|Webster town|County Subdivision|A|Worcester County
+MA|25|73930|Webster CDP|Census Designated Place|S|Worcester County
+MA|25|74175|Wellesley town|County Subdivision|A|Norfolk County
+MA|25|74210|Wellesley CDP|Census Designated Place|S|Norfolk County
+MA|25|74385|Wellfleet town|County Subdivision|A|Barnstable County
+MA|25|74525|Wendell town|County Subdivision|A|Franklin County
+MA|25|74595|Wenham town|County Subdivision|A|Essex County
+MA|25|75015|Westborough town|County Subdivision|A|Worcester County
+MA|25|75050|Westborough CDP|Census Designated Place|S|Worcester County
+MA|25|75155|West Boylston town|County Subdivision|A|Worcester County
+MA|25|75260|West Bridgewater town|County Subdivision|A|Plymouth County
+MA|25|75365|West Brookfield CDP|Census Designated Place|S|Worcester County
+MA|25|75400|West Brookfield town|County Subdivision|A|Worcester County
+MA|25|75505|West Chatham CDP|Census Designated Place|S|Barnstable County
+MA|25|75680|West Concord CDP|Census Designated Place|S|Middlesex County
+MA|25|75820|West Dennis CDP|Census Designated Place|S|Barnstable County
+MA|25|75960|West Falmouth CDP|Census Designated Place|S|Barnstable County
+MA|25|76030|Westfield city|County Subdivision|F|Hampden County
+MA|25|76030|Westfield city|Incorporated Place|A|Hampden County
+MA|25|76135|Westford town|County Subdivision|A|Middlesex County
+MA|25|76380|Westhampton town|County Subdivision|A|Hampshire County
+MA|25|77010|Westminster town|County Subdivision|A|Worcester County
+MA|25|77150|West Newbury town|County Subdivision|A|Essex County
+MA|25|77255|Weston town|County Subdivision|A|Middlesex County
+MA|25|77570|Westport town|County Subdivision|A|Bristol County
+MA|25|77890|West Springfield Town city|County Subdivision|F|Hampden County
+MA|25|77890|West Springfield Town city|Incorporated Place|A|Hampden County
+MA|25|77990|West Stockbridge town|County Subdivision|A|Berkshire County
+MA|25|78235|West Tisbury town|County Subdivision|A|Dukes County
+MA|25|78410|West Wareham CDP|Census Designated Place|S|Plymouth County
+MA|25|78690|Westwood town|County Subdivision|A|Norfolk County
+MA|25|78795|West Yarmouth CDP|Census Designated Place|S|Barnstable County
+MA|25|78850|Weweantic CDP|Census Designated Place|S|Plymouth County
+MA|25|78972|Weymouth Town city|County Subdivision|F|Norfolk County
+MA|25|78972|Weymouth Town city|Incorporated Place|A|Norfolk County
+MA|25|79110|Whately town|County Subdivision|A|Franklin County
+MA|25|79390|White Island Shores CDP|Census Designated Place|S|Plymouth County
+MA|25|79495|Whitinsville CDP|Census Designated Place|S|Worcester County
+MA|25|79530|Whitman town|County Subdivision|A|Plymouth County
+MA|25|79705|Wilbraham CDP|Census Designated Place|S|Hampden County
+MA|25|79740|Wilbraham town|County Subdivision|A|Hampden County
+MA|25|79915|Williamsburg town|County Subdivision|A|Hampshire County
+MA|25|79950|Williamstown CDP|Census Designated Place|S|Berkshire County
+MA|25|79985|Williamstown town|County Subdivision|A|Berkshire County
+MA|25|80195|Wilmington CDP|Census Designated Place|S|Middlesex County
+MA|25|80230|Wilmington town|County Subdivision|A|Middlesex County
+MA|25|80370|Winchendon CDP|Census Designated Place|S|Worcester County
+MA|25|80405|Winchendon town|County Subdivision|A|Worcester County
+MA|25|80510|Winchester town|County Subdivision|A|Middlesex County
+MA|25|80545|Winchester CDP|Census Designated Place|S|Middlesex County
+MA|25|80685|Windsor town|County Subdivision|A|Berkshire County
+MA|25|81005|Winthrop Town city|County Subdivision|F|Suffolk County
+MA|25|81005|Winthrop Town city|Incorporated Place|A|Suffolk County
+MA|25|81035|Woburn city|County Subdivision|F|Middlesex County
+MA|25|81035|Woburn city|Incorporated Place|A|Middlesex County
+MA|25|81245|Woods Hole CDP|Census Designated Place|S|Barnstable County
+MA|25|82000|Worcester city|County Subdivision|F|Worcester County
+MA|25|82000|Worcester city|Incorporated Place|A|Worcester County
+MA|25|82175|Worthington town|County Subdivision|A|Hampshire County
+MA|25|82315|Wrentham town|County Subdivision|A|Norfolk County
+MA|25|82525|Yarmouth town|County Subdivision|A|Barnstable County
+MA|25|82595|Yarmouth Port CDP|Census Designated Place|S|Barnstable County

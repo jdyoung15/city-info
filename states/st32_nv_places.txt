@@ -1,0 +1,129 @@
+NV|32|00500|Alamo CDP|Census Designated Place|S|Lincoln County
+NV|32|03700|Austin CDP|Census Designated Place|S|Lander County
+NV|32|04100|Baker CDP|Census Designated Place|S|White Pine County
+NV|32|04900|Battle Mountain CDP|Census Designated Place|S|Lander County
+NV|32|05100|Beatty CDP|Census Designated Place|S|Nye County
+NV|32|05125|Beaverdam CDP|Census Designated Place|S|Lincoln County
+NV|32|05275|Bennett Springs CDP|Census Designated Place|S|Lincoln County
+NV|32|05700|Blue Diamond CDP|Census Designated Place|S|Clark County
+NV|32|06500|Boulder City city|Incorporated Place|A|Clark County
+NV|32|08100|Bunkerville CDP|Census Designated Place|S|Clark County
+NV|32|08500|Caliente city|Incorporated Place|A|Lincoln County
+NV|32|08600|Cal-Nev-Ari CDP|Census Designated Place|S|Clark County
+NV|32|08900|Carlin city|Incorporated Place|A|Elko County
+NV|32|09700|Carson City|Incorporated Place|A|Carson City
+NV|32|10200|Carter Springs CDP|Census Designated Place|S|Douglas County
+NV|32|14090|Cold Springs CDP|Census Designated Place|S|Washoe County
+NV|32|16300|Crescent Valley CDP|Census Designated Place|S|Eureka County
+NV|32|16700|Crystal Bay CDP|Census Designated Place|S|Washoe County
+NV|32|17500|Dayton CDP|Census Designated Place|S|Lyon County
+NV|32|18500|Denio CDP|Census Designated Place|S|Humboldt County
+NV|32|19150|Double Spring CDP|Census Designated Place|S|Douglas County
+NV|32|19800|Dry Valley CDP|Census Designated Place|S|Lincoln County
+NV|32|20700|Dyer CDP|Census Designated Place|S|Esmeralda County
+NV|32|21520|East Valley CDP|Census Designated Place|S|Douglas County
+NV|32|22500|Elko city|Incorporated Place|A|Elko County
+NV|32|23500|Ely city|Incorporated Place|A|White Pine County
+NV|32|23700|Empire CDP|Census Designated Place|S|Washoe County
+NV|32|23770|Enterprise CDP|Census Designated Place|S|Clark County
+NV|32|23900|Eureka CDP|Census Designated Place|S|Eureka County
+NV|32|24100|Fallon city|Incorporated Place|A|Churchill County
+NV|32|24500|Fallon Station CDP|Census Designated Place|S|Churchill County
+NV|32|24900|Fernley city|Incorporated Place|A|Lyon County
+NV|32|25000|Fish Springs CDP|Census Designated Place|S|Douglas County
+NV|32|25490|Fort McDermitt CDP|Census Designated Place|S|Humboldt County
+NV|32|25900|Gabbs CDP|Census Designated Place|S|Nye County
+NV|32|26300|Gardnerville CDP|Census Designated Place|S|Douglas County
+NV|32|26500|Gardnerville Ranchos CDP|Census Designated Place|S|Douglas County
+NV|32|27100|Genoa CDP|Census Designated Place|S|Douglas County
+NV|32|27300|Gerlach CDP|Census Designated Place|S|Washoe County
+NV|32|27900|Glenbrook CDP|Census Designated Place|S|Douglas County
+NV|32|28500|Golconda CDP|Census Designated Place|S|Humboldt County
+NV|32|28860|Golden Valley CDP|Census Designated Place|S|Washoe County
+NV|32|28900|Goldfield CDP|Census Designated Place|S|Esmeralda County
+NV|32|29500|Goodsprings CDP|Census Designated Place|S|Clark County
+NV|32|30220|Grass Valley CDP|Census Designated Place|S|Pershing County
+NV|32|31300|Hawthorne CDP|Census Designated Place|S|Mineral County
+NV|32|31900|Henderson city|Incorporated Place|A|Clark County
+NV|32|32900|Hiko CDP|Census Designated Place|S|Lincoln County
+NV|32|34100|Humboldt River Ranch CDP|Census Designated Place|S|Pershing County
+NV|32|34700|Imlay CDP|Census Designated Place|S|Pershing County
+NV|32|35100|Incline Village CDP|Census Designated Place|S|Washoe County
+NV|32|35275|Indian Hills CDP|Census Designated Place|S|Douglas County
+NV|32|35300|Indian Springs CDP|Census Designated Place|S|Clark County
+NV|32|36500|Jackpot CDP|Census Designated Place|S|Elko County
+NV|32|37190|Johnson Lane CDP|Census Designated Place|S|Douglas County
+NV|32|38000|Kingsbury CDP|Census Designated Place|S|Douglas County
+NV|32|38100|Kingston CDP|Census Designated Place|S|Lander County
+NV|32|39100|Lakeridge CDP|Census Designated Place|S|Douglas County
+NV|32|39300|Lamoille CDP|Census Designated Place|S|Elko County
+NV|32|40000|Las Vegas city|Incorporated Place|A|Clark County
+NV|32|41000|Laughlin CDP|Census Designated Place|S|Clark County
+NV|32|41800|Lemmon Valley CDP|Census Designated Place|S|Washoe County
+NV|32|42350|Logan Creek CDP|Census Designated Place|S|Douglas County
+NV|32|43000|Lovelock city|Incorporated Place|A|Pershing County
+NV|32|43400|Lund CDP|Census Designated Place|S|White Pine County
+NV|32|44000|McDermitt CDP|Census Designated Place|S|Humboldt County
+NV|32|44200|McGill CDP|Census Designated Place|S|White Pine County
+NV|32|46000|Mesquite city|Incorporated Place|A|Clark County
+NV|32|46800|Mina CDP|Census Designated Place|S|Mineral County
+NV|32|47000|Minden CDP|Census Designated Place|S|Douglas County
+NV|32|47840|Moapa Town CDP|Census Designated Place|S|Clark County
+NV|32|47880|Moapa Valley CDP|Census Designated Place|S|Clark County
+NV|32|48000|Mogul CDP|Census Designated Place|S|Washoe County
+NV|32|48400|Montello CDP|Census Designated Place|S|Elko County
+NV|32|49310|Mount Charleston CDP|Census Designated Place|S|Clark County
+NV|32|49425|Mount Wilson CDP|Census Designated Place|S|Lincoln County
+NV|32|50400|Nellis AFB CDP|Census Designated Place|S|Clark County
+NV|32|50600|Nelson CDP|Census Designated Place|S|Clark County
+NV|32|51200|Nixon CDP|Census Designated Place|S|Washoe County
+NV|32|51800|North Las Vegas city|Incorporated Place|A|Clark County
+NV|32|52200|Oasis CDP|Census Designated Place|S|Elko County
+NV|32|53000|Orovada CDP|Census Designated Place|S|Humboldt County
+NV|32|53200|Osino CDP|Census Designated Place|S|Elko County
+NV|32|53600|Owyhee CDP|Census Designated Place|S|Elko County
+NV|32|53800|Pahrump CDP|Census Designated Place|S|Nye County
+NV|32|54200|Panaca CDP|Census Designated Place|S|Lincoln County
+NV|32|54600|Paradise CDP|Census Designated Place|S|Clark County
+NV|32|55400|Paradise Valley CDP|Census Designated Place|S|Humboldt County
+NV|32|57400|Pioche CDP|Census Designated Place|S|Lincoln County
+NV|32|58000|Preston CDP|Census Designated Place|S|White Pine County
+NV|32|58820|Rachel CDP|Census Designated Place|S|Lincoln County
+NV|32|60600|Reno city|Incorporated Place|A|Washoe County
+NV|32|62170|Round Hill Village CDP|Census Designated Place|S|Douglas County
+NV|32|63450|Ruhenstroth CDP|Census Designated Place|S|Douglas County
+NV|32|63800|Ruth CDP|Census Designated Place|S|White Pine County
+NV|32|64600|Sandy Valley CDP|Census Designated Place|S|Clark County
+NV|32|65400|Schurz CDP|Census Designated Place|S|Mineral County
+NV|32|65600|Searchlight CDP|Census Designated Place|S|Clark County
+NV|32|67000|Silver Peak CDP|Census Designated Place|S|Esmeralda County
+NV|32|67200|Silver Springs CDP|Census Designated Place|S|Lyon County
+NV|32|67600|Skyland CDP|Census Designated Place|S|Douglas County
+NV|32|68050|Smith Valley CDP|Census Designated Place|S|Lyon County
+NV|32|68350|Spanish Springs CDP|Census Designated Place|S|Washoe County
+NV|32|68400|Sparks city|Incorporated Place|A|Washoe County
+NV|32|68550|Spring Creek CDP|Census Designated Place|S|Elko County
+NV|32|68585|Spring Valley CDP|Census Designated Place|S|Clark County
+NV|32|68800|Stagecoach CDP|Census Designated Place|S|Lyon County
+NV|32|69200|Stateline CDP|Census Designated Place|S|Douglas County
+NV|32|70900|Summerlin South CDP|Census Designated Place|S|Clark County
+NV|32|71400|Sunrise Manor CDP|Census Designated Place|S|Clark County
+NV|32|71600|Sun Valley CDP|Census Designated Place|S|Washoe County
+NV|32|71800|Sutcliffe CDP|Census Designated Place|S|Washoe County
+NV|32|73600|Tonopah CDP|Census Designated Place|S|Nye County
+NV|32|74200|Topaz Lake CDP|Census Designated Place|S|Douglas County
+NV|32|74400|Topaz Ranch Estates CDP|Census Designated Place|S|Douglas County
+NV|32|77200|Ursine CDP|Census Designated Place|S|Lincoln County
+NV|32|78200|Valmy CDP|Census Designated Place|S|Humboldt County
+NV|32|79400|Verdi CDP|Census Designated Place|S|Washoe County
+NV|32|80000|Virginia City CDP|Census Designated Place|S|Storey County
+NV|32|81000|Wadsworth CDP|Census Designated Place|S|Washoe County
+NV|32|81245|Walker Lake CDP|Census Designated Place|S|Mineral County
+NV|32|82250|Washoe Valley CDP|Census Designated Place|S|Washoe County
+NV|32|83000|Wells city|Incorporated Place|A|Elko County
+NV|32|83730|West Wendover city|Incorporated Place|A|Elko County
+NV|32|83800|Whitney CDP|Census Designated Place|S|Clark County
+NV|32|84600|Winchester CDP|Census Designated Place|S|Clark County
+NV|32|84800|Winnemucca city|Incorporated Place|A|Humboldt County
+NV|32|85400|Yerington city|Incorporated Place|A|Lyon County
+NV|32|86200|Zephyr Cove CDP|Census Designated Place|S|Douglas County
