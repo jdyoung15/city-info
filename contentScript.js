@@ -2,7 +2,6 @@
 // - add weather stats
 // - side by side comparison?
 // - extract functions for API calls
-// - fix comments
 
 let currentPlace = extractPlace(location.href);
 
@@ -84,10 +83,11 @@ setInterval(async function() {
 
 }, 1000);
 
-/* 
-	Returns a string containing the city and state acroynm, extracted from the given url.
-  E.g. 'Hayward, CA' 
-*/
+
+/** 
+ *	Returns a string containing the city and state acroynm, extracted from the given 
+ *  url. E.g. 'Hayward, CA' 
+ */
 function extractPlace(url) {
 	var regex = /https:\/\/www\.google\.com\/maps\/place\/([A-Za-z0-9+,]+)\/.*/;
 
@@ -102,7 +102,8 @@ function extractPlace(url) {
 
 	place = place.replace(/\+/g, ' ');
 
-	// Sometimes the place name is in the form 'Milpitas, CA 95035'. Discard zip code. 
+	// Sometimes the place name is in the form 'Milpitas, CA 95035'. If so,
+  // discard zip code. 
 	let [city, state] = place.split(',').map(x => x.trim());
 	if (state.split(' ').length === 2) {
 		state = state.split(' ')[0];
@@ -111,14 +112,14 @@ function extractPlace(url) {
 	return city + ', ' + state;
 }
 
-/* 
-  Returns the endpoint to fetch the QID for a city. Param cityId will generally be of 
-  the format e.g. "Hayward, CA". However, for larger cities, it may simply be e.g.
-  "San Francisco".
-*/
+/** 
+ * Returns the endpoint to fetch the QID for a city. Param cityId will generally be of 
+ * the format e.g. "Hayward, CA". However, for larger cities, it may simply be e.g.
+ * "San Francisco".
+ */
 const qidEndpoint = (cityId) => `https://en.wikipedia.org/w/api.php?action=query&prop=pageprops&titles=${cityId}&format=json&origin=*`;
 
-/* Returns the qid of the given city. If unable to find the qid, returns null. */
+/** Returns the qid of the given city. If unable to find the qid, returns null. */
 async function fetchQid(cityId) {
 	let qidResponse = await fetch(qidEndpoint(cityId));
 	let qidJson = await qidResponse.json();
@@ -131,15 +132,15 @@ async function fetchQid(cityId) {
 	return pageProps.wikibase_item;
 }
 
-/* 
-  Returns the string form of the given number, properly formatted with commas.
-  E.g. 9999 -> '9,999'
-*/
+/**
+ * Returns the string form of the given number, properly formatted with commas.
+ * E.g. 9999 -> '9,999'
+ */
 function formatWithCommas(num) {
     return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
 
-// Use Map to enforce insertion order
+// We use Map instead of object in order to enforce insertion order
 const dataDetails = new Map();
 dataDetails.set("Population", { "censusCode": "DP05_0001E", "unit": "" }),
 dataDetails.set("Median property value", { "censusCode": "DP04_0089E", "unit": "" });
@@ -153,6 +154,7 @@ dataDetails.set("Black", { "censusCode": "DP05_0038PE", "unit": "%" });
 dataDetails.set("Asian", { "censusCode": "DP05_0044PE", "unit": "%" });
 dataDetails.set("Hispanic", { "censusCode": "DP05_0071PE", "unit": "%" });
 
+/** Map of state acronym to full name. */
 const states = {
   "AL": "Alabama",
   "AK": "Alaska",
