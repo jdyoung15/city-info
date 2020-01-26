@@ -1,6 +1,8 @@
 // TODO
 // - switch method for obtaining FIPS (Wikipedia sometimes has errors)
 // - refactor dataDetails
+// - add weather stats
+// - side by side comparison?
 
 let currentPlace = extractPlace(location.href);
 
@@ -31,12 +33,16 @@ setInterval(async function() {
 	let qidEndpoint = 'https://en.wikipedia.org/w/api.php?action=query&prop=pageprops&titles=' + cityAndState +  '&format=json&origin=*';
 	let qidResponse = await fetch(qidEndpoint);
 	let qidJson = await qidResponse.json();
-	let qid = Object.values(qidJson.query.pages)[0].pageprops.wikibase_item;
+	let pageProps = Object.values(qidJson.query.pages)[0].pageprops;
 
-	if (!qid) {
-		console.log('null qid');
-		return;
+	if (!pageProps) {
+	  qidEndpoint = 'https://en.wikipedia.org/w/api.php?action=query&prop=pageprops&titles=' + city +  '&format=json&origin=*';
+	  qidResponse = await fetch(qidEndpoint);
+	  qidJson = await qidResponse.json();
+	  pageProps = Object.values(qidJson.query.pages)[0].pageprops;
 	}
+
+	let qid = pageProps.wikibase_item;
 
 	// 
 	// Get the FIPS code for the city. We need this for the US Census Bureau API call.
@@ -123,6 +129,7 @@ function formatWithCommas(num) {
     return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
 
+// Use Map to enforce insertion order
 const dataDetails = new Map();
 dataDetails.set("Population", { "censusCode": "DP05_0001E", "unit": "" }),
 dataDetails.set("Median property value", { "censusCode": "DP04_0089E", "unit": "" });
