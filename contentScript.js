@@ -152,7 +152,8 @@ setInterval(async function() {
     table.append(row);
   });
 
-  $(table).insertAfter('.section-facts');
+  $(table).insertAfter('.section-hero-header-title');
+  $('<div>').addClass('section-divider section-divider-bottom-line').insertBefore('.city-table');
 
 }, 1000);
 
