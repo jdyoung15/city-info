@@ -141,6 +141,19 @@ setInterval(async function() {
 	const labels = [...labelToCode.keys()];
 	const data = dataJson[1];
 	labels.forEach((label, i) => console.log(label + ': ' + data[i]));
+
+  let table = $('<table>').addClass('city-table');
+	labels.forEach((label, i) => {
+    let row = $('<tr>');
+    let labelTd = $('<td>').text(label);
+    let dataTd = $('<td>').text(data[i]);
+    row.append(labelTd);
+    row.append(dataTd);
+    table.append(row);
+  });
+
+  $(table).insertAfter('.section-facts');
+
 }, 1000);
 
 /* 
