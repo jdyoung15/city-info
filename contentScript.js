@@ -142,7 +142,7 @@ setInterval(async function() {
 	const data = dataJson[1];
 	labels.forEach((label, i) => console.log(label + ': ' + data[i]));
 
-  let table = $('<table>').addClass('city-table');
+  let table = $('<table>').css('margin', '10px').addClass('city-table');
 	labels.forEach((label, i) => {
     let row = $('<tr>');
     let labelTd = $('<td>').text(label);
