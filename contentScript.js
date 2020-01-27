@@ -3,7 +3,6 @@
 // - side by side comparison?
 
 let currentPlace = extractPlace(location.href);
-console.log('initial current place ' + currentPlace);
 
 setInterval(async function() {
 	let newPlace = extractPlace(location.href);
@@ -17,23 +16,17 @@ setInterval(async function() {
 		return;
 	}
 
-	console.log(currentPlace);
-
 	let [city, stateAcronym] = newPlace.split(',').map(x => x.trim());
-	let stateFull = states[stateAcronym];
-	let cityAndState = city + ', ' + stateFull;
 
 	// Get the FIPS code for the city. We need this for the demographics API call.
   let stateFips = await fetchStateFips(stateAcronym);
   let cityFips = await fetchCityFips(city, stateFips, stateAcronym);
-  console.log('fips local ' + stateFips + ' ' + cityFips);
 
 	// Get the city-specific demographic data, including population, 
   // median property value, etc.
 	const censusCodes = [...dataDetails.values()].map(details => details["censusCode"]);
 	const joinedCodes = censusCodes.join(',');
 
-  console.log('fetching demographics');
   const demographicData = await fetchDemographicData(cityFips, stateFips, joinedCodes);
 	const labels = [...dataDetails.keys()];
 
@@ -85,6 +78,12 @@ function extractPlace(url) {
 	return city + ', ' + state;
 }
 
+/** 
+ * Used for tie-breaking when there are multiple jurisdictions with the same name.
+ * In decreasing order of preference. 
+ */
+const PLACE_TYPES = ['city', 'town', 'village', 'CDP'];
+
 /** Returns the FIPS for the given city in the state with the given info. */
 async function fetchCityFips(city, stateFips, stateAcronym) {
   const fileName = 'states/st' + stateFips + '_' + stateAcronym.toLowerCase() + '_places.txt';
@@ -95,22 +94,25 @@ async function fetchCityFips(city, stateFips, stateAcronym) {
   let regex = new RegExp(stateAcronym + '\\|' + stateFips + '\\|(.+?)\\|' + city + '.*');
 
   let lines = text.split("\n");
+  let matchingLines = [];
   for (let line of lines) {
     let matches = line.match(regex);
     if (!matches || matches.length !== 2) {
       continue;
     }
-    return matches[1];
+    matchingLines.push(line);
   }
-  console.log('Error: FIPS not found');
-  return null;
-  // find file for state
-  // find rows containing city name
-  // if multiple
-  //   if all have same FIPS, return first
-  //   else select the one for city first, if it exists
-  //   else select one randomly
 
+  for (let place of PLACE_TYPES) {
+    for (let line of matchingLines) {
+      if (line.includes(`${city} ${place}`)) {
+        return line.match(regex)[1];
+      }
+    }
+  }
+
+  console.log('Error: City FIPS not found');
+  return null;
 }
 
 /** Returns the FIPS code of the given state. */
@@ -131,13 +133,6 @@ async function fetchStateFips(stateAcronym) {
   }
   console.log('Error: State FIPS not found');
   return null;
-  // find file for state
-  // find rows containing city name
-  // if multiple
-  //   if all have same FIPS, return first
-  //   else select the one for city first, if it exists
-  //   else select one randomly
-
 }
 
 /** Returns an array of strings representing various demographic stats. */
@@ -172,66 +167,3 @@ dataDetails.set("White (not Hispanic)", { "censusCode": "DP05_0077PE", "unit": "
 dataDetails.set("Black", { "censusCode": "DP05_0038PE", "unit": "%" });
 dataDetails.set("Asian", { "censusCode": "DP05_0044PE", "unit": "%" });
 dataDetails.set("Hispanic", { "censusCode": "DP05_0071PE", "unit": "%" });
-
-/** Map of state acronym to full name. */
-const states = {
-  "AL": "Alabama",
-  "AK": "Alaska",
-  "AS": "American Samoa",
-  "AZ": "Arizona",
-  "AR": "Arkansas",
-  "CA": "California",
-  "CO": "Colorado",
-  "CT": "Connecticut",
-  "DE": "Delaware",
-  "DC": "District Of Columbia",
-  "FM": "Federated States Of Micronesia",
-  "FL": "Florida",
-  "GA": "Georgia",
-  "GU": "Guam",
-  "HI": "Hawaii",
-  "ID": "Idaho",
-  "IL": "Illinois",
-  "IN": "Indiana",
-  "IA": "Iowa",
-  "KS": "Kansas",
-  "KY": "Kentucky",
-  "LA": "Louisiana",
-  "ME": "Maine",
-  "MH": "Marshall Islands",
-  "MD": "Maryland",
-  "MA": "Massachusetts",
-  "MI": "Michigan",
-  "MN": "Minnesota",
-  "MS": "Mississippi",
-  "MO": "Missouri",
-  "MT": "Montana",
-  "NE": "Nebraska",
-  "NV": "Nevada",
-  "NH": "New Hampshire",
-  "NJ": "New Jersey",
-  "NM": "New Mexico",
-  "NY": "New York",
-  "NC": "North Carolina",
-  "ND": "North Dakota",
-  "MP": "Northern Mariana Islands",
-  "OH": "Ohio",
-  "OK": "Oklahoma",
-  "OR": "Oregon",
-  "PW": "Palau",
-  "PA": "Pennsylvania",
-  "PR": "Puerto Rico",
-  "RI": "Rhode Island",
-  "SC": "South Carolina",
-  "SD": "South Dakota",
-  "TN": "Tennessee",
-  "TX": "Texas",
-  "UT": "Utah",
-  "VT": "Vermont",
-  "VI": "Virgin Islands",
-  "VA": "Virginia",
-  "WA": "Washington",
-  "WV": "West Virginia",
-  "WI": "Wisconsin",
-  "WY": "Wyoming"
-};
