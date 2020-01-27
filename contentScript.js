@@ -1,5 +1,4 @@
 // TODO
-// - add backup method to find qid
 // - add weather stats
 // - side by side comparison?
 
@@ -24,21 +23,10 @@ setInterval(async function() {
 	let stateFull = states[stateAcronym];
 	let cityAndState = city + ', ' + stateFull;
 
-	// Get the QID of the city. We need this to find the FIPS code.
-  console.log('fetching qid');
-  let qid = await fetchQid(cityAndState);
-  // For some larger cities, we need to specify just the city (e.g. w/o the state).
-  if (!qid) {
-    qid = await fetchQid(city);
-  }
-
-  console.log('qid ' + qid);
-
 	// Get the FIPS code for the city. We need this for the demographics API call.
-  console.log('fetching fips');
-  let fips = await fetchFips(qid);
-  console.log('fips ' + fips);
-	let [stateFips, cityFips] = fips.split('-');
+  let stateFips = await fetchStateFips(stateAcronym);
+  let cityFips = await fetchCityFips(city, stateFips, stateAcronym);
+  console.log('fips local ' + stateFips + ' ' + cityFips);
 
 	// Get the city-specific demographic data, including population, 
   // median property value, etc.
@@ -74,7 +62,7 @@ setInterval(async function() {
  *  url. E.g. 'Hayward, CA' 
  */
 function extractPlace(url) {
-	var regex = /https:\/\/www\.google\.com\/maps\/place\/(.+?)\/.*/;
+	let regex = /https:\/\/www\.google\.com\/maps\/place\/(.+?)\/.*/;
 
 	if (!regex.test(url)) {
 		return null;
@@ -97,32 +85,59 @@ function extractPlace(url) {
 	return city + ', ' + state;
 }
 
-/** Returns the endpoint to fetch the QID for a city. */
-const qidEndpoint = (cityId) => `https://en.wikipedia.org/w/api.php?action=query&prop=pageprops&titles=${cityId}&format=json&origin=*`;
+/** Returns the FIPS for the given city in the state with the given info. */
+async function fetchCityFips(city, stateFips, stateAcronym) {
+  const fileName = 'states/st' + stateFips + '_' + stateAcronym.toLowerCase() + '_places.txt';
+  const url = chrome.runtime.getURL(fileName);
+  let response = await fetch(url);
+  let text = await response.text();
 
-/** Returns the QID (e.g. 'Q62') of the given city. If unable, returns null. */
-async function fetchQid(cityId) {
-	let response = await fetch(qidEndpoint(cityId));
-	let json = await response.json();
-	let pageProps = Object.values(json.query.pages)[0].pageprops;
+  let regex = new RegExp(stateAcronym + '\\|' + stateFips + '\\|(.+?)\\|' + city + '.*');
 
-	if (!pageProps) {
-    return null;
-	}
+  let lines = text.split("\n");
+  for (let line of lines) {
+    let matches = line.match(regex);
+    if (!matches || matches.length !== 2) {
+      continue;
+    }
+    return matches[1];
+  }
+  console.log('Error: FIPS not found');
+  return null;
+  // find file for state
+  // find rows containing city name
+  // if multiple
+  //   if all have same FIPS, return first
+  //   else select the one for city first, if it exists
+  //   else select one randomly
 
-	return pageProps.wikibase_item;
 }
 
-/** 
- * Returns the FIPS code (e.g. '06-33000', or '{state}-{city}) of the city with 
- * the given qid. 
- */
-async function fetchFips(qid) {
-	let endpoint = `https://www.wikidata.org/w/api.php?action=wbgetentities&ids=${qid}&props=claims&format=json&origin=*`;
+/** Returns the FIPS code of the given state. */
+async function fetchStateFips(stateAcronym) {
+  const url = chrome.runtime.getURL('states/state.txt');
+  let response = await fetch(url);
+  let text = await response.text();
 
-	let response = await fetch(endpoint);
-	let json = await response.json();
-	return json.entities[qid].claims.P774[0].mainsnak.datavalue.value;
+  let regex = new RegExp('(.+?)\\|' + stateAcronym + '\\|.*');
+
+  let lines = text.split("\n");
+  for (let line of lines) {
+    let matches = line.match(regex);
+    if (!matches || matches.length !== 2) {
+      continue;
+    }
+    return matches[1];
+  }
+  console.log('Error: State FIPS not found');
+  return null;
+  // find file for state
+  // find rows containing city name
+  // if multiple
+  //   if all have same FIPS, return first
+  //   else select the one for city first, if it exists
+  //   else select one randomly
+
 }
 
 /** Returns an array of strings representing various demographic stats. */
