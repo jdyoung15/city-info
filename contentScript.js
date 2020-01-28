@@ -166,4 +166,5 @@ dataDetails.set("Over 65", { "censusCode": "DP05_0024PE", "unit": "%" });
 dataDetails.set("White (not Hispanic)", { "censusCode": "DP05_0077PE", "unit": "%" });
 dataDetails.set("Black", { "censusCode": "DP05_0038PE", "unit": "%" });
 dataDetails.set("Asian", { "censusCode": "DP05_0044PE", "unit": "%" });
+dataDetails.set("Native", { "censusCode": "DP05_0039PE", "unit": "%" });
 dataDetails.set("Hispanic", { "censusCode": "DP05_0071PE", "unit": "%" });
