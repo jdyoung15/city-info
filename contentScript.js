@@ -1,20 +1,27 @@
 // TODO
+// - stats don't appear when navigating to google maps from elsewhere
 // - add weather stats
 // - side by side comparison?
+// - elevation, crime, price per sq ft
 
 let currentPlace = extractPlace(location.href);
+let initialCurrentPlace = currentPlace;
+console.log('initial current place ' + initialCurrentPlace);
 
 setInterval(async function() {
 	let newPlace = extractPlace(location.href);
-  if (newPlace === currentPlace) {
+  if (newPlace === currentPlace && !initialCurrentPlace) {
 		return;
 	}
 
+  initialCurrentPlace = null;
   currentPlace = newPlace;
 
 	if (currentPlace === null) {
 		return;
 	}
+
+  console.log('current place ' + currentPlace);
 
 	let [city, stateAcronym] = newPlace.split(',').map(x => x.trim());
 
