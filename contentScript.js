@@ -82,7 +82,7 @@ function extractPlace(url) {
  * Used for tie-breaking when there are multiple jurisdictions with the same name.
  * In decreasing order of preference. 
  */
-const PLACE_TYPES = ['city', 'town', 'village', 'CDP'];
+const PLACE_TYPES = ['city', 'town', 'municipality', 'village', 'CDP'];
 
 /** Returns the FIPS for the given city in the state with the given info. */
 async function fetchCityFips(city, stateFips, stateAcronym) {
@@ -103,12 +103,19 @@ async function fetchCityFips(city, stateFips, stateAcronym) {
     matchingLines.push(line);
   }
 
+  // If there are multiple matches, find the most preferential as ordered in PLACE_TYPES
   for (let place of PLACE_TYPES) {
     for (let line of matchingLines) {
       if (line.includes(`${city} ${place}`)) {
         return line.match(regex)[1];
       }
     }
+  }
+
+  // If none of the matches were in PLACE_TYPES, just return the first match
+  if (matchingLines.length > 0) {
+    let line = matchingLines[0];
+    return line.match(regex)[1];
   }
 
   console.log('Error: City FIPS not found');
