@@ -53,16 +53,73 @@ setInterval(async function() {
   $(table).insertAfter('.section-hero-header-title');
   $('<div>').addClass('section-divider section-divider-bottom-line').insertBefore('.city-table');
 
-  const latLong = await fetchLatLongOfCity(currentPlace);
-  console.log(latLong);
+  const latLng = await fetchLatLngOfCity(currentPlace);
+  console.log(latLng);
+  const latLngBounds = calculateLatLngBounds(latLng, milesToLatDegrees(5), milesToLngDegrees(5, latLng.lat));
+  console.log(latLngBounds);
 }, 1000);
 
-/** 
- * Returns an object containing a latitude and longitude representing the given city.
- * The latitude and longitude will generally be at a relevant central location
- * within the city (e.g. downtown).
+/**
+ * Returns an object containing two latLng coordinates representing
+ * the southwest and northeast corners of a box encompassing the given
+ * center latLng. The box's height is latOffset * 2 and the box's length
+ * is lngOffset * 2.
  */
-async function fetchLatLongOfCity(cityAndState) {
+function calculateLatLngBounds(center, latOffset, lngOffset) {
+  const southwest = new Map();
+  southwest.lat = center.lat - latOffset;
+  southwest.lng = center.lng - lngOffset;
+
+  const northeast = new Map();
+  northeast.lat = center.lat + latOffset;
+  northeast.lng = center.lng + lngOffset;
+
+  const latLngBounds = new Map();
+  latLngBounds.southwest = southwest;
+  latLngBounds.northeast = northeast;
+
+  return latLngBounds;
+}
+
+/** 
+ * Coverts the given number of miles to the equivalent number of degrees 
+ * in latitude. Not extremely accurate but sufficient for general use. 
+ * Works for any location, irrespective of longitude.
+ */
+function milesToLatDegrees(miles) {
+  const milesPerDegreeLat = 69.0;
+  return miles / milesPerDegreeLat;
+}
+
+/** 
+ * Coverts the given number of miles to the equivalent number of degrees 
+ * in longitude for a location at the given latitude. 
+ */
+function milesToLngDegrees(miles, lat) {
+  return miles / calculateMilesPerDegreeLng(lat);
+}
+
+/** Converts the given number of degrees to radians. */
+function degreesToRadians(degrees) {
+  return degrees * Math.PI / 180;
+}
+
+/** 
+ * Returns the number of miles in one degree of longitude for a location at the
+ * given longitude.
+ */
+function calculateMilesPerDegreeLng(lat) {
+  const latRadians = degreesToRadians(lat);
+  const milesPerDegreeLatAtEquator = 69.172;
+  return Math.cos(latRadians) * milesPerDegreeLatAtEquator;
+}
+
+/** 
+ * Returns an object containing a latitude and longitude (in degrees) 
+ * representing the given city. The latitude and longitude will 
+ * generally be at a relevant central location within the city (e.g. downtown).
+ */
+async function fetchLatLngOfCity(cityAndState) {
   const apiKey = config.MAP_QUEST_API_KEY;
   const endpoint = `https://www.mapquestapi.com/geocoding/v1/address?key=${apiKey}&inFormat=kvp&outFormat=json&location=${cityAndState}&thumbMaps=false`;
 
