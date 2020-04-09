@@ -53,10 +53,29 @@ setInterval(async function() {
   $(table).insertAfter('.section-hero-header-title');
   $('<div>').addClass('section-divider section-divider-bottom-line').insertBefore('.city-table');
 
-  const mapQuestApiKey = config.MAP_QUEST_API_KEY;
-  console.log('map quest api key' + mapQuestApiKey);
-
+  const latLong = await fetchLatLongOfCity(currentPlace);
+  console.log(latLong);
 }, 1000);
+
+/** 
+ * Returns an object containing a latitude and longitude representing the given city.
+ * The latitude and longitude will generally be at a relevant central location
+ * within the city (e.g. downtown).
+ */
+async function fetchLatLongOfCity(cityAndState) {
+  const apiKey = config.MAP_QUEST_API_KEY;
+  const endpoint = `https://www.mapquestapi.com/geocoding/v1/address?key=${apiKey}&inFormat=kvp&outFormat=json&location=${cityAndState}&thumbMaps=false`;
+
+  console.log(endpoint);
+
+	//const endpoint = `https://api.census.gov/data/2018/acs/acs5/profile?get=${joinedCensusCodes}&for=place:${cityFips}&in=state:${stateFips}`;
+
+	let response = await fetch(endpoint);
+	let json = await response.json();
+
+  // Skip first element in json, which consists of unneeded headers.
+  return json.results[0].locations[0].latLng;
+}
 
 
 /** 
