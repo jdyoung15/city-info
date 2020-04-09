@@ -6,7 +6,6 @@
 
 let currentPlace = extractPlace(location.href);
 let initialCurrentPlace = currentPlace;
-console.log('initial current place ' + initialCurrentPlace);
 
 setInterval(async function() {
 	let newPlace = extractPlace(location.href);
@@ -53,6 +52,9 @@ setInterval(async function() {
 
   $(table).insertAfter('.section-hero-header-title');
   $('<div>').addClass('section-divider section-divider-bottom-line').insertBefore('.city-table');
+
+  const mapQuestApiKey = config.MAP_QUEST_API_KEY;
+  console.log('map quest api key' + mapQuestApiKey);
 
 }, 1000);
 
