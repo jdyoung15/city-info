@@ -3,6 +3,7 @@
 // - add weather stats
 // - side by side comparison?
 // - elevation, crime, price per sq ft
+// - convert const to let
 
 let currentPlace = extractPlace(location.href);
 let initialCurrentPlace = currentPlace;
@@ -57,7 +58,24 @@ setInterval(async function() {
   console.log(latLng);
   const latLngBounds = calculateLatLngBounds(latLng, milesToLatDegrees(5), milesToLngDegrees(5, latLng.lat));
   console.log(latLngBounds);
+
+  let stations = await fetchStationsInLatLngBounds(latLngBounds);
+  console.log(stations);
+
 }, 1000);
+
+async function fetchStationsInLatLngBounds(latLngBounds) {
+  let southwest = latLngBounds.southwest;
+  let northeast = latLngBounds.northeast;
+  let latLngBoundsStr = [southwest.lat, southwest.lng, northeast.lat, northeast.lng].join(',');
+
+  let url = `https://www.ncdc.noaa.gov/cdo-web/api/v2/stations?extent=${latLngBoundsStr}&limit=1000`;
+
+  let response = await fetch(url, { headers: { token: config.NOAA_API_KEY } } );
+  let json = await response.json();
+
+  return json;
+}
 
 /**
  * Returns an object containing two latLng coordinates representing
