@@ -62,7 +62,65 @@ setInterval(async function() {
   let stations = await fetchStationsInLatLngBounds(latLngBounds);
   console.log(stations);
 
+  console.log(stations.results.map(s => 'stationid=' + s.id).join('&'));
+  console.log(stations.results.map(s => s.latitude + ',' + s.longitude));
+
+  // search for NORMAL_MLY data for all stations
+  // if any station has this data, choose the station closest to the center
+  // else search for GSOM data for all stations
+  // if any station has this data, choose the station closest to the center
+  //
+  // if no stations have either of these two data, increase size of box and repeat above steps
+  console.log(await fetchWeatherData(stations));
+
 }, 1000);
+
+// Return an object containing weather data for each month.
+async function fetchWeatherData(stations) {
+  let stationsString = stations.results.map(s => 'stationid=' + s.id).join('&');
+  const datatypeids = ['MLY-TMIN-NORMAL', 'MLY-TMAX-NORMAL', 'MLY-PRCP-AVGNDS-GE010HI'];
+  let datatypeidsString = datatypeids.map(datatypeid => 'datatypeid=' + datatypeid).join('&');
+
+  let url = `https://www.ncdc.noaa.gov/cdo-web/api/v2/data?datasetid=NORMAL_MLY&datatypeid=MLY-TMIN-NORMAL&datatypeid=MLY-TMAX-NORMAL&datatypeid=MLY-PRCP-AVGNDS-GE010HI&${stationsString}&units=standard&startdate=2010-01-01&enddate=2010-12-01&limit=1000`;
+
+  let response = await fetch(url, { headers: { token: config.NOAA_API_KEY } } );
+  let json = await response.json();
+  let results = json.results;
+
+  // for each month
+  //   create new object
+  //   for each data type
+  //     add property 
+  const months = new Map(Object.entries({
+    'Jan': '01',
+    'Feb': '02',
+    'Mar': '03',
+    'Apr': '04',
+    'May': '05',
+    'Jun': '06',
+    'Jul': '07',
+    'Aug': '08',
+    'Sep': '09',
+    'Oct': '10',
+    'Nov': '11',
+    'Dec': '12'
+  }));
+  let monthsData = new Map();
+  months.forEach((monthNum, month) => {
+    let monthData = new Map();
+    datatypeids.forEach(datatypeid => {
+      let matchingResults = results.filter(r => r.date === monthAndYearToDate(monthNum, 2010) && r.datatype === datatypeid);
+      monthData[datatypeid] = matchingResults[0].value;
+    })
+    monthsData[month] = monthData;
+  })
+
+  return monthsData;
+}
+
+function monthAndYearToDate(month, year) {
+  return `${year}-${month}-01T00:00:00`;
+}
 
 async function fetchStationsInLatLngBounds(latLngBounds) {
   let southwest = latLngBounds.southwest;
