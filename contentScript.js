@@ -37,7 +37,7 @@ setInterval(async function() {
   const demographicData = await fetchDemographicData(cityFips, stateFips, joinedCodes);
 	const labels = [...dataDetails.keys()];
 
-  // Create a table displaying the data. It will appear in the existing 
+  // Create a table displaying the demographic data. It will appear in the existing 
   // Google Maps sidebar.
   let table = $('<table>').css('margin', '10px').addClass('city-table');
 	labels.forEach((label, i) => {
@@ -71,7 +71,27 @@ setInterval(async function() {
   // if any station has this data, choose the station closest to the center
   //
   // if no stations have either of these two data, increase size of box and repeat above steps
-  console.log(await fetchWeatherData(stations));
+
+  let weatherData = await fetchWeatherData(stations);
+  console.log(weatherData);
+
+  // Create a table displaying the weather data. It will appear in the existing 
+  // Google Maps sidebar.
+  table = $('<table>').css('margin', '10px').addClass('weather-table');
+	weatherData.forEach((data, month) => {
+    let row = $('<tr>');
+    let labelTd = $('<td>').text(month);
+    //let stat = formatWithCommas(demographicData[i]);
+    //let unit = dataDetails.get(label)["unit"];
+    //let dataTd = $('<td>').text(stat + unit);
+    let dataTd = $('<td>').text(`${data.get('MLY-TMIN-NORMAL')}/${data.get('MLY-TMAX-NORMAL')} ${data.get('MLY-PRCP-AVGNDS-GE010HI')}`);
+    row.append(labelTd);
+    row.append(dataTd);
+    table.append(row);
+  });
+
+  $(table).insertAfter('.city-table');
+  $('<div>').addClass('section-divider section-divider-bottom-line').insertBefore('.weather-table');
 
 }, 1000);
 
@@ -110,9 +130,9 @@ async function fetchWeatherData(stations) {
     let monthData = new Map();
     datatypeids.forEach(datatypeid => {
       let matchingResults = results.filter(r => r.date === monthAndYearToDate(monthNum, 2010) && r.datatype === datatypeid);
-      monthData[datatypeid] = matchingResults[0].value;
+      monthData.set(datatypeid, matchingResults[0].value);
     })
-    monthsData[month] = monthData;
+    monthsData.set(month, monthData);
   })
 
   return monthsData;
