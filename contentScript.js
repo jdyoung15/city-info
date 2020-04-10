@@ -78,15 +78,25 @@ setInterval(async function() {
   // Create a table displaying the weather data. It will appear in the existing 
   // Google Maps sidebar.
   table = $('<table>').css('margin', '10px').addClass('weather-table');
+  let row = $('<tr>');
+  let labelTd = $('<td>').text('Month');
+  let loAndHiTd = $('<td>').text('High / Low');
+  let daysRainTd = $('<td>').text('Rain');
+  row.append(labelTd);
+  row.append(loAndHiTd);
+  row.append(daysRainTd);
+  table.append(row);
 	weatherData.forEach((data, month) => {
     let row = $('<tr>');
     let labelTd = $('<td>').text(month);
     //let stat = formatWithCommas(demographicData[i]);
     //let unit = dataDetails.get(label)["unit"];
     //let dataTd = $('<td>').text(stat + unit);
-    let dataTd = $('<td>').text(`${data.get('MLY-TMIN-NORMAL')}/${data.get('MLY-TMAX-NORMAL')} ${data.get('MLY-PRCP-AVGNDS-GE010HI')}`);
+    let loAndHiTd = $('<td>').text(`${Math.round(data.get('MLY-TMAX-NORMAL'))} / ${Math.round(data.get('MLY-TMIN-NORMAL'))}`);
+    let daysRainTd = $('<td>').text(`${Math.round(data.get('MLY-PRCP-AVGNDS-GE010HI'))} days`);
     row.append(labelTd);
-    row.append(dataTd);
+    row.append(loAndHiTd);
+    row.append(daysRainTd);
     table.append(row);
   });
 
