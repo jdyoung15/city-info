@@ -119,41 +119,56 @@ async function fetchWeatherData(stations) {
 
   console.log(results);
 
-  // sort stations by distance to center
-  // for each station
-  //   if station has data in results
-  //     filter results by station
-  //     create monthly object for results
-  //     return monthly objects
-  // issue request for GSOM data
-  // repeat above
-
-  const months = new Map(Object.entries({
-    'Jan': '01',
-    'Feb': '02',
-    'Mar': '03',
-    'Apr': '04',
-    'May': '05',
-    'Jun': '06',
-    'Jul': '07',
-    'Aug': '08',
-    'Sep': '09',
-    'Oct': '10',
-    'Nov': '11',
-    'Dec': '12'
-  }));
   let monthsData = new Map();
-  months.forEach((monthNum, month) => {
-    let monthData = new Map();
-    datatypeids.forEach(datatypeid => {
-      let matchingResults = results.filter(r => r.date === monthAndYearToDate(monthNum, 2010) && r.datatype === datatypeid);
-      let selectedResult = matchingResults[0];
-      let selectedStation = stations.filter(s => s.id === selectedResult.station)[0];
-      console.log('selected station: ' + selectedStation.id + ' ' + selectedStation.latitude + ', ' + selectedStation.longitude);
-      monthData.set(datatypeid, selectedResult.value);
+
+  for (let station of stations) {
+    let stationResults = results.filter(r => r.station === station.id);
+
+    if (stationResults.length === 0) {
+      console.log('skipping station ' + station.id + ' ' + station.name + ' ' + station.distance);
+      continue;
+    }
+
+    if (stationResults.length !== 36) {
+      console.log('Station results is not 36; instead is ' + stationResults.length);
+    }
+
+    console.log('using station ' + station.id + ' ' + station.name + ' '  + station.distance);
+
+    const months = new Map(Object.entries({
+      'Jan': '01',
+      'Feb': '02',
+      'Mar': '03',
+      'Apr': '04',
+      'May': '05',
+      'Jun': '06',
+      'Jul': '07',
+      'Aug': '08',
+      'Sep': '09',
+      'Oct': '10',
+      'Nov': '11',
+      'Dec': '12'
+    }));
+
+    monthsData = new Map();
+    months.forEach((monthNum, month) => {
+      let monthData = new Map();
+      datatypeids.forEach(datatypeid => {
+        let matchingResults = stationResults.filter(r => 
+          r.date === monthAndYearToDate(monthNum, 2010) && r.datatype === datatypeid);
+        let selectedResult = matchingResults[0];
+        let selectedStation = stations.filter(s => s.id === selectedResult.station)[0];
+        console.log('selected station: ' + selectedStation.id + ' ' + selectedStation.latitude + ', ' + selectedStation.longitude);
+        monthData.set(datatypeid, selectedResult.value);
+      })
+      monthsData.set(month, monthData);
     })
-    monthsData.set(month, monthData);
-  })
+
+    return monthsData;
+
+  }
+
+  // TODO: if we reached this point, we need to fetch GSOM data
 
   return monthsData;
 }
