@@ -101,15 +101,37 @@ setInterval(async function() {
 async function fetchStationsForCity(cityAndState) {
   let latLng = await fetchLatLngOfCity(currentPlace);
   let latLngBounds = calculateLatLngBounds(latLng, milesToLatDegrees(5), milesToLngDegrees(5, latLng.lat));
-  console.log('initial latLngBounds ' + latLngBounds);
+  console.log('initial latLngBounds');
+  console.log(latLngBounds);
 
-  let stations = await fetchSortedStationsInLatLngBounds(latLngBounds);
+  // current impl:
+  //
+  // find stations within 5 miles
+  // if there are no stations
+  //   find stations within 10 miles
+  // find NORMAL_MLY data for stations (prioritized by closest stations)
+  // if none
+  //   find GSOM data for stations
+
+  // proposed impl:
+  // 
+  // find stations within 50 miles
+  // cut off at 25 stations
+  // find NORMAL_MLY and GSOM data for stations
+  // for (5, 10, ... 50) 
+  //   check NORMAL_MLY data for current miles distance
+  //   check GSOM data for current miles distance
+
+  let stations = await fetchStationsInLatLngBounds(latLngBounds);
 
   if (stations.length === 0) {
     latLngBounds = calculateLatLngBounds(latLng, milesToLatDegrees(10), milesToLngDegrees(10, latLng.lat));
-    console.log('increased latLngBounds ' + latLngBounds);
-    stations = await fetchSortedStationsInLatLngBounds(latLngBounds);
+    console.log('increased latLngBounds');
+    console.log(latLngBounds);
+    stations = await fetchStationsInLatLngBounds(latLngBounds);
   }
+
+  sortStations(stations, latLng);
 
   return stations;
 }
@@ -124,20 +146,24 @@ async function fetchWeatherData(stations) {
 
   let response = await fetch(url, { headers: { token: config.NOAA_API_KEY } } );
   let json = await response.json();
-  let results = json.results;
+  let results = json.results || [];
+
+  console.log('number of results for stations ' + results.length);
+  // TODO: handle if none of the stations have weather data
 
   let i = 0;
   for (let station of stations) {
+    i++;
     let stationResults = results.filter(r => r.station === station.id);
 
     if (stationResults.length === 0) {
       console.log(`skipping station ${i}/${stations.length} ${station.id} ${station.name} ${station.distance}`);
-      i++;
       continue;
     }
 
     if (stationResults.length !== 36) {
       console.log('Station results is not 36; instead is ' + stationResults.length);
+      console.log(`skipping station ${i}/${stations.length} ${station.id} ${station.name} ${station.distance}`);
       continue;
     }
 
@@ -193,7 +219,7 @@ function monthAndYearToDate(month, year) {
  * given latLngBounds. The array is sorted in increasing distance from the 
  * center latLng of the given latLngBounds.
  */
-async function fetchSortedStationsInLatLngBounds(latLngBounds) {
+async function fetchStationsInLatLngBounds(latLngBounds) {
   let southwest = latLngBounds.southwest;
   let northeast = latLngBounds.northeast;
   let latLngBoundsStr = [southwest.lat, southwest.lng, northeast.lat, northeast.lng].join(',');
@@ -211,7 +237,7 @@ async function fetchSortedStationsInLatLngBounds(latLngBounds) {
  */
 function sortStations(stations, latLng) {
   stations.forEach(station => {
-    station.distance = distanceToLatLng(station, latLngBounds.center);
+    station.distance = distanceToLatLng(station, latLng);
   });
 
   stations.sort((a, b) => a.distance - b.distance);
@@ -306,10 +332,6 @@ function calculateMilesPerDegreeLng(lat) {
 async function fetchLatLngOfCity(cityAndState) {
   const apiKey = config.MAP_QUEST_API_KEY;
   const endpoint = `https://www.mapquestapi.com/geocoding/v1/address?key=${apiKey}&inFormat=kvp&outFormat=json&location=${cityAndState}&thumbMaps=false`;
-
-  console.log(endpoint);
-
-	//const endpoint = `https://api.census.gov/data/2018/acs/acs5/profile?get=${joinedCensusCodes}&for=place:${cityFips}&in=state:${stateFips}`;
 
 	let response = await fetch(endpoint);
 	let json = await response.json();
