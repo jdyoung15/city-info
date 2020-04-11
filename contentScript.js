@@ -55,7 +55,6 @@ setInterval(async function() {
   $('<div>').addClass('section-divider section-divider-bottom-line').insertBefore('.city-table');
 
   const latLng = await fetchLatLngOfCity(currentPlace);
-  console.log(latLng);
   const latLngBounds = calculateLatLngBounds(latLng, milesToLatDegrees(5), milesToLngDegrees(5, latLng.lat));
   console.log(latLngBounds);
 
@@ -117,10 +116,6 @@ async function fetchWeatherData(stations) {
   let json = await response.json();
   let results = json.results;
 
-  console.log(results);
-
-  let monthsData = new Map();
-
   for (let station of stations) {
     let stationResults = results.filter(r => r.station === station.id);
 
@@ -129,46 +124,49 @@ async function fetchWeatherData(stations) {
       continue;
     }
 
-    if (stationResults.length !== 36) {
-      console.log('Station results is not 36; instead is ' + stationResults.length);
-    }
-
     console.log('using station ' + station.id + ' ' + station.name + ' '  + station.distance);
 
-    const months = new Map(Object.entries({
-      'Jan': '01',
-      'Feb': '02',
-      'Mar': '03',
-      'Apr': '04',
-      'May': '05',
-      'Jun': '06',
-      'Jul': '07',
-      'Aug': '08',
-      'Sep': '09',
-      'Oct': '10',
-      'Nov': '11',
-      'Dec': '12'
-    }));
-
-    monthsData = new Map();
-    months.forEach((monthNum, month) => {
-      let monthData = new Map();
-      datatypeids.forEach(datatypeid => {
-        let matchingResults = stationResults.filter(r => 
-          r.date === monthAndYearToDate(monthNum, 2010) && r.datatype === datatypeid);
-        let selectedResult = matchingResults[0];
-        let selectedStation = stations.filter(s => s.id === selectedResult.station)[0];
-        console.log('selected station: ' + selectedStation.id + ' ' + selectedStation.latitude + ', ' + selectedStation.longitude);
-        monthData.set(datatypeid, selectedResult.value);
-      })
-      monthsData.set(month, monthData);
-    })
-
-    return monthsData;
-
+    return processStationResults(stationResults, datatypeids);
   }
 
   // TODO: if we reached this point, we need to fetch GSOM data
+
+  return new Map();
+}
+
+function processStationResults(stationResults, datatypeids) {
+  let monthsData = new Map();
+
+  if (stationResults.length !== 36) {
+    console.log('Station results is not 36; instead is ' + stationResults.length);
+  }
+
+  const months = new Map(Object.entries({
+    'Jan': '01',
+    'Feb': '02',
+    'Mar': '03',
+    'Apr': '04',
+    'May': '05',
+    'Jun': '06',
+    'Jul': '07',
+    'Aug': '08',
+    'Sep': '09',
+    'Oct': '10',
+    'Nov': '11',
+    'Dec': '12'
+  }));
+
+  monthsData = new Map();
+  months.forEach((monthNum, month) => {
+    let monthData = new Map();
+    datatypeids.forEach(datatypeid => {
+      let matchingResults = stationResults.filter(r => 
+        r.date === monthAndYearToDate(monthNum, 2010) && r.datatype === datatypeid);
+      let selectedResult = matchingResults[0];
+      monthData.set(datatypeid, selectedResult.value);
+    })
+    monthsData.set(month, monthData);
+  })
 
   return monthsData;
 }
