@@ -65,7 +65,12 @@ setInterval(async function() {
   console.log(stations.map(s => 'stationid=' + s.id).join('&'));
   console.log(stations.map(s => s.latitude + ',' + s.longitude));
 
-  let weatherData = await fetchWeatherData(stations);
+  const prevYear = new Date().getFullYear() - 1;
+  const datasetid = 'NORMAL_MLY';
+  const datatypeids = ['MLY-TMIN-NORMAL', 'MLY-TMAX-NORMAL', 'MLY-PRCP-AVGNDS-GE010HI'];
+  //const datasetid = 'GSOM';
+  //const datatypeids = ['TMIN', 'TMAX', 'DP10'];
+  let weatherData = await fetchWeatherData(stations, datasetid, datatypeids, 2010);
   console.log(weatherData);
 
   // Create a table displaying the weather data. It will appear in the existing 
@@ -100,7 +105,7 @@ setInterval(async function() {
 
 async function fetchStationsForCity(cityAndState) {
   let latLng = await fetchLatLngOfCity(currentPlace);
-  let latLngBounds = calculateLatLngBounds(latLng, milesToLatDegrees(5), milesToLngDegrees(5, latLng.lat));
+  let latLngBounds = calculateLatLngBounds(latLng, milesToLatDegrees(50), milesToLngDegrees(50, latLng.lat));
   console.log('initial latLngBounds');
   console.log(latLngBounds);
 
@@ -122,27 +127,39 @@ async function fetchStationsForCity(cityAndState) {
   //   check NORMAL_MLY data for current miles distance
   //   check GSOM data for current miles distance
 
-  let stations = await fetchStationsInLatLngBounds(latLngBounds);
+  let stations = await fetchStationsInLatLngBounds(latLngBounds, 2010);
+
+  //if (stations.length === 0) {
+  //  latLngBounds = calculateLatLngBounds(latLng, milesToLatDegrees(10), milesToLngDegrees(10, latLng.lat));
+  //  console.log('increased latLngBounds');
+  //  console.log(latLngBounds);
+  //  stations = await fetchStationsInLatLngBounds(latLngBounds);
+  //}
+
+  console.log('number of stations within 50 mile bounding box: ' + stations.length);
 
   if (stations.length === 0) {
-    latLngBounds = calculateLatLngBounds(latLng, milesToLatDegrees(10), milesToLngDegrees(10, latLng.lat));
-    console.log('increased latLngBounds');
-    console.log(latLngBounds);
-    stations = await fetchStationsInLatLngBounds(latLngBounds);
+    return stations;
   }
 
   sortStations(stations, latLng);
+
+  let baseElevation = await fetchElevationForLatLng(latLng);
+  console.log('base elevation ' + baseElevation);
+  stations = stations.filter(s => Math.abs(s.elevation - baseElevation) < 150);
+  console.log('number of stations after elevation filtering: ' + stations.length);
+
+  stations = stations.slice(0, 25);
 
   return stations;
 }
 
 // Return an object containing weather data for each month.
-async function fetchWeatherData(stations) {
+async function fetchWeatherData(stations, datasetid, datatypeids, year) {
   let stationsString = stations.map(s => 'stationid=' + s.id).join('&');
-  const datatypeids = ['MLY-TMIN-NORMAL', 'MLY-TMAX-NORMAL', 'MLY-PRCP-AVGNDS-GE010HI'];
   let datatypeidsString = datatypeids.map(datatypeid => 'datatypeid=' + datatypeid).join('&');
 
-  let url = `https://www.ncdc.noaa.gov/cdo-web/api/v2/data?datasetid=NORMAL_MLY&datatypeid=MLY-TMIN-NORMAL&datatypeid=MLY-TMAX-NORMAL&datatypeid=MLY-PRCP-AVGNDS-GE010HI&${stationsString}&units=standard&startdate=2010-01-01&enddate=2010-12-01&limit=1000`;
+  let url = `https://www.ncdc.noaa.gov/cdo-web/api/v2/data?datasetid=${datasetid}&${datatypeidsString}&${stationsString}&units=standard&startdate=${year}-01-01&enddate=${year}-12-31&limit=1000`;
 
   let response = await fetch(url, { headers: { token: config.NOAA_API_KEY } } );
   let json = await response.json();
@@ -219,12 +236,13 @@ function monthAndYearToDate(month, year) {
  * given latLngBounds. The array is sorted in increasing distance from the 
  * center latLng of the given latLngBounds.
  */
-async function fetchStationsInLatLngBounds(latLngBounds) {
+async function fetchStationsInLatLngBounds(latLngBounds, minYear) {
   let southwest = latLngBounds.southwest;
   let northeast = latLngBounds.northeast;
   let latLngBoundsStr = [southwest.lat, southwest.lng, northeast.lat, northeast.lng].join(',');
 
-  let url = `https://www.ncdc.noaa.gov/cdo-web/api/v2/stations?extent=${latLngBoundsStr}&limit=1000`;
+  let minDate = `${minYear}-01-01`;
+  let url = `https://www.ncdc.noaa.gov/cdo-web/api/v2/stations?extent=${latLngBoundsStr}&startdate=${minDate}&limit=1000`;
 
   let response = await fetch(url, { headers: { token: config.NOAA_API_KEY } } );
   let json = await response.json();
@@ -340,6 +358,26 @@ async function fetchLatLngOfCity(cityAndState) {
   return json.results[0].locations[0].latLng;
 }
 
+/** 
+ * Returns the elevation (in metes) of the given latLng.
+ */
+async function fetchElevationForLatLng(latLng) {
+  const apiKey = config.MAP_QUEST_API_KEY;
+  let latLngString = latLng.lat + ',' + latLng.lng;
+  let endpoint = `https://open.mapquestapi.com/elevation/v1/profile?key=${apiKey}&shapeFormat=raw&latLngCollection=${latLngString}`;
+
+	let response = await fetch(endpoint);
+	let json = await response.json();
+
+  let elevations = json.elevationProfile;
+  if (elevations.length === 0) {
+    console.log('no elevation found for latLng');
+    console.log(latLng);
+    return;
+  }
+
+  return elevations[0].height;
+}
 
 /** 
  *	Returns a string containing the city and state acroynm, extracted from the given 
