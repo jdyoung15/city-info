@@ -59,11 +59,11 @@ setInterval(async function() {
   const latLngBounds = calculateLatLngBounds(latLng, milesToLatDegrees(5), milesToLngDegrees(5, latLng.lat));
   console.log(latLngBounds);
 
-  let stations = await fetchStationsInLatLngBounds(latLngBounds);
+  let stations = await fetchSortedStationsInLatLngBounds(latLngBounds);
   console.log(stations);
 
-  console.log(stations.results.map(s => 'stationid=' + s.id).join('&'));
-  console.log(stations.results.map(s => s.latitude + ',' + s.longitude));
+  console.log(stations.map(s => 'stationid=' + s.id).join('&'));
+  console.log(stations.map(s => s.latitude + ',' + s.longitude));
 
   // search for NORMAL_MLY data for all stations
   // if any station has this data, choose the station closest to the center
@@ -107,7 +107,7 @@ setInterval(async function() {
 
 // Return an object containing weather data for each month.
 async function fetchWeatherData(stations) {
-  let stationsString = stations.results.map(s => 'stationid=' + s.id).join('&');
+  let stationsString = stations.map(s => 'stationid=' + s.id).join('&');
   const datatypeids = ['MLY-TMIN-NORMAL', 'MLY-TMAX-NORMAL', 'MLY-PRCP-AVGNDS-GE010HI'];
   let datatypeidsString = datatypeids.map(datatypeid => 'datatypeid=' + datatypeid).join('&');
 
@@ -117,10 +117,17 @@ async function fetchWeatherData(stations) {
   let json = await response.json();
   let results = json.results;
 
-  // for each month
-  //   create new object
-  //   for each data type
-  //     add property 
+  console.log(results);
+
+  // sort stations by distance to center
+  // for each station
+  //   if station has data in results
+  //     filter results by station
+  //     create monthly object for results
+  //     return monthly objects
+  // issue request for GSOM data
+  // repeat above
+
   const months = new Map(Object.entries({
     'Jan': '01',
     'Feb': '02',
@@ -140,7 +147,10 @@ async function fetchWeatherData(stations) {
     let monthData = new Map();
     datatypeids.forEach(datatypeid => {
       let matchingResults = results.filter(r => r.date === monthAndYearToDate(monthNum, 2010) && r.datatype === datatypeid);
-      monthData.set(datatypeid, matchingResults[0].value);
+      let selectedResult = matchingResults[0];
+      let selectedStation = stations.filter(s => s.id === selectedResult.station)[0];
+      console.log('selected station: ' + selectedStation.id + ' ' + selectedStation.latitude + ', ' + selectedStation.longitude);
+      monthData.set(datatypeid, selectedResult.value);
     })
     monthsData.set(month, monthData);
   })
@@ -152,7 +162,12 @@ function monthAndYearToDate(month, year) {
   return `${year}-${month}-01T00:00:00`;
 }
 
-async function fetchStationsInLatLngBounds(latLngBounds) {
+/**
+ * Returns an array of objects, each containing data for a station within the
+ * given latLngBounds. The array is sorted in increasing distance from the 
+ * center latLng of the given latLngBounds.
+ */
+async function fetchSortedStationsInLatLngBounds(latLngBounds) {
   let southwest = latLngBounds.southwest;
   let northeast = latLngBounds.northeast;
   let latLngBoundsStr = [southwest.lat, southwest.lng, northeast.lat, northeast.lng].join(',');
@@ -161,8 +176,38 @@ async function fetchStationsInLatLngBounds(latLngBounds) {
 
   let response = await fetch(url, { headers: { token: config.NOAA_API_KEY } } );
   let json = await response.json();
+  let stations = json.results;
 
-  return json;
+  stations.forEach(station => {
+    station.distance = distanceToLatLng(station, latLngBounds.center);
+  });
+
+  stations.sort((a, b) => a.distance - b.distance);
+
+  return stations;
+}
+
+function distanceToLatLng(station, latLng) {
+  let stationLatLng = {
+    lat: station.latitude,
+    lng: station.longitude
+  };
+  
+  return distanceBetweenLatLngs(latLng, stationLatLng);
+}
+
+function distanceBetweenLatLngs(latLngA, latLngB) {
+  let latDeltaDegrees = Math.abs(latLngA.lat - latLngB.lat);
+  let lngDeltaDegrees = Math.abs(latLngA.lng - latLngB.lng);
+
+  let milesPerDegreeLat = 69.0;
+  let milesPerDegreeLng = calculateMilesPerDegreeLng(latLngA.lat);
+
+  let latDeltaMiles = latDeltaDegrees * milesPerDegreeLat;
+  let lngDeltaMiles = lngDeltaDegrees * milesPerDegreeLng;
+
+  // find hypotenuse of two sides
+  return Math.hypot(latDeltaMiles, lngDeltaMiles);
 }
 
 /**
@@ -183,6 +228,8 @@ function calculateLatLngBounds(center, latOffset, lngOffset) {
   const latLngBounds = new Map();
   latLngBounds.southwest = southwest;
   latLngBounds.northeast = northeast;
+
+  latLngBounds.center = center;
 
   return latLngBounds;
 }
@@ -212,7 +259,7 @@ function degreesToRadians(degrees) {
 
 /** 
  * Returns the number of miles in one degree of longitude for a location at the
- * given longitude.
+ * given latitude.
  */
 function calculateMilesPerDegreeLng(lat) {
   const latRadians = degreesToRadians(lat);
