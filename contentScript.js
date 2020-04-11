@@ -54,22 +54,16 @@ setInterval(async function() {
   $(table).insertAfter('.section-hero-header-title');
   $('<div>').addClass('section-divider section-divider-bottom-line').insertBefore('.city-table');
 
-  const latLng = await fetchLatLngOfCity(currentPlace);
-  const latLngBounds = calculateLatLngBounds(latLng, milesToLatDegrees(5), milesToLngDegrees(5, latLng.lat));
-  console.log(latLngBounds);
-
-  let stations = await fetchSortedStationsInLatLngBounds(latLngBounds);
+  let stations = await fetchStationsForCity(currentPlace);
   console.log(stations);
+
+  if (stations.length === 0) {
+    console.log('no stations nearby');
+    return;
+  }
 
   console.log(stations.map(s => 'stationid=' + s.id).join('&'));
   console.log(stations.map(s => s.latitude + ',' + s.longitude));
-
-  // search for NORMAL_MLY data for all stations
-  // if any station has this data, choose the station closest to the center
-  // else search for GSOM data for all stations
-  // if any station has this data, choose the station closest to the center
-  //
-  // if no stations have either of these two data, increase size of box and repeat above steps
 
   let weatherData = await fetchWeatherData(stations);
   console.log(weatherData);
@@ -104,6 +98,22 @@ setInterval(async function() {
 
 }, 1000);
 
+async function fetchStationsForCity(cityAndState) {
+  let latLng = await fetchLatLngOfCity(currentPlace);
+  let latLngBounds = calculateLatLngBounds(latLng, milesToLatDegrees(5), milesToLngDegrees(5, latLng.lat));
+  console.log('initial latLngBounds ' + latLngBounds);
+
+  let stations = await fetchSortedStationsInLatLngBounds(latLngBounds);
+
+  if (stations.length === 0) {
+    latLngBounds = calculateLatLngBounds(latLng, milesToLatDegrees(10), milesToLngDegrees(10, latLng.lat));
+    console.log('increased latLngBounds ' + latLngBounds);
+    stations = await fetchSortedStationsInLatLngBounds(latLngBounds);
+  }
+
+  return stations;
+}
+
 // Return an object containing weather data for each month.
 async function fetchWeatherData(stations) {
   let stationsString = stations.map(s => 'stationid=' + s.id).join('&');
@@ -116,15 +126,22 @@ async function fetchWeatherData(stations) {
   let json = await response.json();
   let results = json.results;
 
+  let i = 0;
   for (let station of stations) {
     let stationResults = results.filter(r => r.station === station.id);
 
     if (stationResults.length === 0) {
-      console.log('skipping station ' + station.id + ' ' + station.name + ' ' + station.distance);
+      console.log(`skipping station ${i}/${stations.length} ${station.id} ${station.name} ${station.distance}`);
+      i++;
       continue;
     }
 
-    console.log('using station ' + station.id + ' ' + station.name + ' '  + station.distance);
+    if (stationResults.length !== 36) {
+      console.log('Station results is not 36; instead is ' + stationResults.length);
+      continue;
+    }
+
+    console.log(`using station ${i}/${stations.length} ${station.id} ${station.name} ${station.distance}`);
 
     return processStationResults(stationResults, datatypeids);
   }
@@ -136,10 +153,6 @@ async function fetchWeatherData(stations) {
 
 function processStationResults(stationResults, datatypeids) {
   let monthsData = new Map();
-
-  if (stationResults.length !== 36) {
-    console.log('Station results is not 36; instead is ' + stationResults.length);
-  }
 
   const months = new Map(Object.entries({
     'Jan': '01',
@@ -189,15 +202,20 @@ async function fetchSortedStationsInLatLngBounds(latLngBounds) {
 
   let response = await fetch(url, { headers: { token: config.NOAA_API_KEY } } );
   let json = await response.json();
-  let stations = json.results;
+  return json.results || [];
+}
 
+/** 
+ * Sorts in place the given stations by increasing distance from the given latLng. 
+ * Adds a property 'distance' for each station object.
+ */
+function sortStations(stations, latLng) {
   stations.forEach(station => {
     station.distance = distanceToLatLng(station, latLngBounds.center);
   });
 
   stations.sort((a, b) => a.distance - b.distance);
 
-  return stations;
 }
 
 function distanceToLatLng(station, latLng) {
