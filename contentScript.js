@@ -41,6 +41,7 @@ let currentPlace = extractPlace(location.href);
 let initialCurrentPlace = currentPlace;
 
 setInterval(async function() {
+
 	let newPlace = extractPlace(location.href);
   if (newPlace === currentPlace && !initialCurrentPlace) {
 		return;
@@ -53,9 +54,22 @@ setInterval(async function() {
 		return;
 	}
 
+  let start = new Date().getTime();
+
   console.log('current place ' + currentPlace);
 
-	let [city, stateAcronym] = newPlace.split(',').map(x => x.trim());
+  // add divider between future placement of demographic table and weather table
+  $('<div>').addClass('section-divider section-divider-bottom-line between-tables').insertAfter('.section-hero-header-title');
+
+  displayDemographicData(currentPlace);
+
+  displayWeatherData(currentPlace);
+
+}, 1000);
+
+
+async function displayDemographicData(cityAndState) {
+	let [city, stateAcronym] = cityAndState.split(',').map(x => x.trim());
 
 	// Get the FIPS code for the city. We need this for the demographics API call.
   let stateFips = await fetchStateFips(stateAcronym);
@@ -83,10 +97,12 @@ setInterval(async function() {
     table.append(row);
   });
 
-  $(table).insertAfter('.section-hero-header-title');
+  $(table).insertBefore('.between-tables');
   $('<div>').addClass('section-divider section-divider-bottom-line').insertBefore('.city-table');
+}
 
-  let stations = await fetchStationsForCity(currentPlace);
+async function displayWeatherData(cityAndState) {
+  let stations = await fetchStationsForCity(cityAndState);
   console.log(stations);
 
   if (stations.length === 0) {
@@ -94,12 +110,6 @@ setInterval(async function() {
     return;
   }
 
-  //console.log(stations.map(s => 'stationid=' + s.id).join('&'));
-  //console.log(stations.map(s => s.latitude + ',' + s.longitude));
-
-  //const prevYear = new Date().getFullYear() - 1;
-  //const datasetid = 'GSOM';
-  //const datatypeids = ['TMIN', 'TMAX', 'DP10'];
   const datasetid = 'NORMAL_MLY';
   const datatypeids = ['MLY-TMIN-NORMAL', 'MLY-TMAX-NORMAL', 'MLY-PRCP-AVGNDS-GE010HI'];
   let weatherData = await fetchWeatherData(stations, datasetid, datatypeids, 2010);
@@ -127,10 +137,8 @@ setInterval(async function() {
     table.append(row);
   });
 
-  $(table).insertAfter('.city-table');
-  $('<div>').addClass('section-divider section-divider-bottom-line').insertBefore('.weather-table');
-
-}, 1000);
+  $(table).insertAfter('.between-tables');
+}
 
 /**
  * Returns an array of json objects representing relevant stations near 
@@ -138,31 +146,40 @@ setInterval(async function() {
  */
 async function fetchStationsForCity(cityAndState) {
   let latLng = await fetchLatLngOfCity(currentPlace);
+
   console.log(latLng.lat + ',' + latLng.lng);
+
+  let promises = [];
 
   let latOffset = milesToLatDegrees(50);
   let lngOffset = milesToLngDegrees(50, latLng.lat);
   let latLngBounds = calculateLatLngBounds(latLng, latOffset, lngOffset);
   console.log(latLngBounds);
 
-  let stations = await fetchStationsInLatLngBounds(latLngBounds, 2010);
+  promises.push(fetchStationsInLatLngBounds(latLngBounds, 2010));
+  promises.push(fetchElevationForLatLng(latLng));
 
-  console.log('number of stations within bounding box: ' + stations.length);
+  return Promise.all(promises).then(values => {
+    let stations = values[0];
 
-  if (stations.length === 0) {
+    console.log('number of stations within bounding box: ' + stations.length);
+
+    if (stations.length === 0) {
+      return stations;
+    }
+
+    sortStations(stations, latLng);
+
+    let baseElevation = values[1];
+    console.log('base elevation ' + baseElevation);
+
+    stations = stations.filter(s => Math.abs(s.elevation - baseElevation) < 150);
+    console.log('number of stations after elevation filtering: ' + stations.length);
+
+    stations = stations.slice(0, 25);
+
     return stations;
-  }
-
-  sortStations(stations, latLng);
-
-  let baseElevation = await fetchElevationForLatLng(latLng);
-  console.log('base elevation ' + baseElevation);
-  stations = stations.filter(s => Math.abs(s.elevation - baseElevation) < 150);
-  console.log('number of stations after elevation filtering: ' + stations.length);
-
-  stations = stations.slice(0, 25);
-
-  return stations;
+  }, err => console.log('error occurred'));
 }
 
 /** 
