@@ -1,5 +1,4 @@
 // TODO
-// - fetch weather data concurrently with demographic data for improved performance
 // - refactor demographics and weather fetching to separate components/files
 // - convert const to let
 // - more accurate median property value metric
@@ -41,6 +40,10 @@ let currentPlace = extractPlace(location.href);
 let initialCurrentPlace = currentPlace;
 
 setInterval(async function() {
+  if (!$('.section-hero-header-title').length) {
+    console.log('div doesnt exist yet');
+    return;
+  }
 
 	let newPlace = extractPlace(location.href);
   if (newPlace === currentPlace && !initialCurrentPlace) {
