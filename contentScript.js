@@ -1,10 +1,41 @@
 // TODO
-// - fetch weather data concurrently with demographic data
+// - fetch weather data concurrently with demographic data for improved performance
+// - refactor demographics and weather fetching to separate components/files
 // - convert const to let
 // - more accurate median property value metric
 // - elevation, crime, price per sq ft
 // - stats don't appear when navigating to google maps from google search
 // - side by side comparison?
+
+// We use Map instead of object in order to enforce insertion order
+const DEMOGRAPHIC_METADATA = new Map();
+DEMOGRAPHIC_METADATA.set("Population", { "censusCode": "DP05_0001E", "unit": "" }),
+DEMOGRAPHIC_METADATA.set("Median property value", { "censusCode": "DP04_0089E", "unit": "" });
+DEMOGRAPHIC_METADATA.set("Median household income", { "censusCode": "DP03_0062E", "unit": "" });
+DEMOGRAPHIC_METADATA.set("Unemployment rate", { "censusCode": "DP03_0005PE", "unit": "%" });
+DEMOGRAPHIC_METADATA.set("Bachelor's degree or higher", { "censusCode": "DP02_0067PE", "unit": "%" });
+DEMOGRAPHIC_METADATA.set("Below 18", { "censusCode": "DP05_0019PE", "unit": "%" });
+DEMOGRAPHIC_METADATA.set("Over 65", { "censusCode": "DP05_0024PE", "unit": "%" });
+DEMOGRAPHIC_METADATA.set("White (not Hispanic)", { "censusCode": "DP05_0077PE", "unit": "%" });
+DEMOGRAPHIC_METADATA.set("Black", { "censusCode": "DP05_0038PE", "unit": "%" });
+DEMOGRAPHIC_METADATA.set("Asian", { "censusCode": "DP05_0044PE", "unit": "%" });
+DEMOGRAPHIC_METADATA.set("Native", { "censusCode": "DP05_0039PE", "unit": "%" });
+DEMOGRAPHIC_METADATA.set("Hispanic", { "censusCode": "DP05_0071PE", "unit": "%" });
+
+const MONTHS = new Map(Object.entries({
+  'Jan': '01',
+  'Feb': '02',
+  'Mar': '03',
+  'Apr': '04',
+  'May': '05',
+  'Jun': '06',
+  'Jul': '07',
+  'Aug': '08',
+  'Sep': '09',
+  'Oct': '10',
+  'Nov': '11',
+  'Dec': '12'
+}));
 
 let currentPlace = extractPlace(location.href);
 let initialCurrentPlace = currentPlace;
@@ -32,11 +63,11 @@ setInterval(async function() {
 
 	// Get the city-specific demographic data, including population, 
   // median property value, etc.
-	const censusCodes = [...dataDetails.values()].map(details => details["censusCode"]);
+	const censusCodes = [...DEMOGRAPHIC_METADATA.values()].map(details => details["censusCode"]);
 	const joinedCodes = censusCodes.join(',');
 
   const demographicData = await fetchDemographicData(cityFips, stateFips, joinedCodes);
-	const labels = [...dataDetails.keys()];
+	const labels = [...DEMOGRAPHIC_METADATA.keys()];
 
   // Create a table displaying the demographic data. It will appear in the existing 
   // Google Maps sidebar.
@@ -45,7 +76,7 @@ setInterval(async function() {
     let row = $('<tr>');
     let labelTd = $('<td>').text(label);
     let stat = formatWithCommas(demographicData[i]);
-    let unit = dataDetails.get(label)["unit"];
+    let unit = DEMOGRAPHIC_METADATA.get(label)["unit"];
     let dataTd = $('<td>').text(stat + unit);
     row.append(labelTd);
     row.append(dataTd);
@@ -177,9 +208,9 @@ async function fetchWeatherData(stations, datasetid, datatypeids, year) {
 }
 
 /**
- * Given an array of objects where each contains a specific data value for a month
- * in the given year, and multiple may be present for a given month, returns an 
- * array of 12 per-month objects each containing all data values for that month.
+ * Given an array of objects where each contains a specific data value for a month,
+ * and multiple may exist for that month, returns an array of 12 per-month objects 
+ * each containing all data values for that month.
  */
 function groupMonthlyResults(monthlyResults) {
   let monthsData = new Map();
@@ -462,33 +493,3 @@ function formatWithCommas(num) {
     return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
 
-// We use Map instead of object in order to enforce insertion order
-const dataDetails = new Map();
-dataDetails.set("Population", { "censusCode": "DP05_0001E", "unit": "" }),
-dataDetails.set("Median property value", { "censusCode": "DP04_0089E", "unit": "" });
-dataDetails.set("Median household income", { "censusCode": "DP03_0062E", "unit": "" });
-dataDetails.set("Unemployment rate", { "censusCode": "DP03_0005PE", "unit": "%" });
-dataDetails.set("Bachelor's degree or higher", { "censusCode": "DP02_0067PE", "unit": "%" });
-dataDetails.set("Below 18", { "censusCode": "DP05_0019PE", "unit": "%" });
-dataDetails.set("Over 65", { "censusCode": "DP05_0024PE", "unit": "%" });
-dataDetails.set("White (not Hispanic)", { "censusCode": "DP05_0077PE", "unit": "%" });
-dataDetails.set("Black", { "censusCode": "DP05_0038PE", "unit": "%" });
-dataDetails.set("Asian", { "censusCode": "DP05_0044PE", "unit": "%" });
-dataDetails.set("Native", { "censusCode": "DP05_0039PE", "unit": "%" });
-dataDetails.set("Hispanic", { "censusCode": "DP05_0071PE", "unit": "%" });
-
-
-const MONTHS = new Map(Object.entries({
-  'Jan': '01',
-  'Feb': '02',
-  'Mar': '03',
-  'Apr': '04',
-  'May': '05',
-  'Jun': '06',
-  'Jul': '07',
-  'Aug': '08',
-  'Sep': '09',
-  'Oct': '10',
-  'Nov': '11',
-  'Dec': '12'
-}));
