@@ -443,7 +443,7 @@ async function fetchCityFips(city, stateFips, stateAcronym) {
   let response = await fetch(url);
   let text = await response.text();
 
-  let regex = new RegExp(stateAcronym + '\\|' + stateFips + '\\|(.+?)\\|' + city + '.*');
+  let regex = new RegExp(stateAcronym + '\\|' + stateFips + '\\|([0-9]+?)\\|.*?' + city + '.*');
 
   let lines = text.split("\n");
   let matchingLines = [];
