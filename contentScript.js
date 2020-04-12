@@ -1,9 +1,10 @@
 // TODO
-// - stats don't appear when navigating to google maps from elsewhere
-// - add weather stats
-// - side by side comparison?
-// - elevation, crime, price per sq ft
+// - fetch weather data concurrently with demographic data
 // - convert const to let
+// - more accurate median property value metric
+// - elevation, crime, price per sq ft
+// - stats don't appear when navigating to google maps from google search
+// - side by side comparison?
 
 let currentPlace = extractPlace(location.href);
 let initialCurrentPlace = currentPlace;
@@ -62,14 +63,14 @@ setInterval(async function() {
     return;
   }
 
-  console.log(stations.map(s => 'stationid=' + s.id).join('&'));
-  console.log(stations.map(s => s.latitude + ',' + s.longitude));
+  //console.log(stations.map(s => 'stationid=' + s.id).join('&'));
+  //console.log(stations.map(s => s.latitude + ',' + s.longitude));
 
-  const prevYear = new Date().getFullYear() - 1;
-  const datasetid = 'NORMAL_MLY';
-  const datatypeids = ['MLY-TMIN-NORMAL', 'MLY-TMAX-NORMAL', 'MLY-PRCP-AVGNDS-GE010HI'];
+  //const prevYear = new Date().getFullYear() - 1;
   //const datasetid = 'GSOM';
   //const datatypeids = ['TMIN', 'TMAX', 'DP10'];
+  const datasetid = 'NORMAL_MLY';
+  const datatypeids = ['MLY-TMIN-NORMAL', 'MLY-TMAX-NORMAL', 'MLY-PRCP-AVGNDS-GE010HI'];
   let weatherData = await fetchWeatherData(stations, datasetid, datatypeids, 2010);
   console.log(weatherData);
 
@@ -87,9 +88,6 @@ setInterval(async function() {
 	weatherData.forEach((data, month) => {
     let row = $('<tr>');
     let labelTd = $('<td>').text(month);
-    //let stat = formatWithCommas(demographicData[i]);
-    //let unit = dataDetails.get(label)["unit"];
-    //let dataTd = $('<td>').text(stat + unit);
     let loAndHiTd = $('<td>').text(`${Math.round(data.get('MLY-TMAX-NORMAL'))} / ${Math.round(data.get('MLY-TMIN-NORMAL'))}`);
     let daysRainTd = $('<td>').text(`${Math.round(data.get('MLY-PRCP-AVGNDS-GE010HI'))} days`);
     row.append(labelTd);
@@ -103,40 +101,22 @@ setInterval(async function() {
 
 }, 1000);
 
+/**
+ * Returns an array of json objects representing relevant stations near 
+ * the given city.
+ */
 async function fetchStationsForCity(cityAndState) {
   let latLng = await fetchLatLngOfCity(currentPlace);
-  let latLngBounds = calculateLatLngBounds(latLng, milesToLatDegrees(50), milesToLngDegrees(50, latLng.lat));
-  console.log('initial latLngBounds');
+  console.log(latLng.lat + ',' + latLng.lng);
+
+  let latOffset = milesToLatDegrees(50);
+  let lngOffset = milesToLngDegrees(50, latLng.lat);
+  let latLngBounds = calculateLatLngBounds(latLng, latOffset, lngOffset);
   console.log(latLngBounds);
-
-  // current impl:
-  //
-  // find stations within 5 miles
-  // if there are no stations
-  //   find stations within 10 miles
-  // find NORMAL_MLY data for stations (prioritized by closest stations)
-  // if none
-  //   find GSOM data for stations
-
-  // proposed impl:
-  // 
-  // find stations within 50 miles
-  // cut off at 25 stations
-  // find NORMAL_MLY and GSOM data for stations
-  // for (5, 10, ... 50) 
-  //   check NORMAL_MLY data for current miles distance
-  //   check GSOM data for current miles distance
 
   let stations = await fetchStationsInLatLngBounds(latLngBounds, 2010);
 
-  //if (stations.length === 0) {
-  //  latLngBounds = calculateLatLngBounds(latLng, milesToLatDegrees(10), milesToLngDegrees(10, latLng.lat));
-  //  console.log('increased latLngBounds');
-  //  console.log(latLngBounds);
-  //  stations = await fetchStationsInLatLngBounds(latLngBounds);
-  //}
-
-  console.log('number of stations within 50 mile bounding box: ' + stations.length);
+  console.log('number of stations within bounding box: ' + stations.length);
 
   if (stations.length === 0) {
     return stations;
@@ -154,7 +134,10 @@ async function fetchStationsForCity(cityAndState) {
   return stations;
 }
 
-// Return an object containing weather data for each month.
+/** 
+ * Returns an object containing weather data, as specified by the given datasetid
+ * and datatypeids, for each month in the given year.
+ */
 async function fetchWeatherData(stations, datasetid, datatypeids, year) {
   let stationsString = stations.map(s => 'stationid=' + s.id).join('&');
   let datatypeidsString = datatypeids.map(datatypeid => 'datatypeid=' + datatypeid).join('&');
@@ -166,98 +149,87 @@ async function fetchWeatherData(stations, datasetid, datatypeids, year) {
   let results = json.results || [];
 
   console.log('number of results for stations ' + results.length);
-  // TODO: handle if none of the stations have weather data
 
   let i = 0;
   for (let station of stations) {
     i++;
     let stationResults = results.filter(r => r.station === station.id);
 
-    if (stationResults.length === 0) {
-      console.log(`skipping station ${i}/${stations.length} ${station.id} ${station.name} ${station.distance}`);
+    let stationDebugString = `${i}/${stations.length} ${station.id} ${station.name} ${station.distance} ${station.elevation}`;
+
+    let expectedNumResults = MONTHS.size * datatypeids.length;
+    if (stationResults.length !== expectedNumResults) {
+      console.log('skipping ' + stationDebugString);
+      if (stationResults.length > 0) {
+        console.log(`Expected: ${expectedNumResults} Actual: ${stationResults.length}`);
+      }
       continue;
     }
 
-    if (stationResults.length !== 36) {
-      console.log('Station results is not 36; instead is ' + stationResults.length);
-      console.log(`skipping station ${i}/${stations.length} ${station.id} ${station.name} ${station.distance}`);
-      continue;
-    }
+    console.log('using ' + stationDebugString);
 
-    console.log(`using station ${i}/${stations.length} ${station.id} ${station.name} ${station.distance}`);
-
-    return processStationResults(stationResults, datatypeids);
+    return groupMonthlyResults(stationResults);
   }
 
-  // TODO: if we reached this point, we need to fetch GSOM data
+  console.log('fetched no weather data');
 
   return new Map();
 }
 
-function processStationResults(stationResults, datatypeids) {
+/**
+ * Given an array of objects where each contains a specific data value for a month
+ * in the given year, and multiple may be present for a given month, returns an 
+ * array of 12 per-month objects each containing all data values for that month.
+ */
+function groupMonthlyResults(monthlyResults) {
   let monthsData = new Map();
 
-  const months = new Map(Object.entries({
-    'Jan': '01',
-    'Feb': '02',
-    'Mar': '03',
-    'Apr': '04',
-    'May': '05',
-    'Jun': '06',
-    'Jul': '07',
-    'Aug': '08',
-    'Sep': '09',
-    'Oct': '10',
-    'Nov': '11',
-    'Dec': '12'
-  }));
-
-  monthsData = new Map();
-  months.forEach((monthNum, month) => {
+  MONTHS.forEach((monthNum, month) => {
     let monthData = new Map();
-    datatypeids.forEach(datatypeid => {
-      let matchingResults = stationResults.filter(r => 
-        r.date === monthAndYearToDate(monthNum, 2010) && r.datatype === datatypeid);
-      let selectedResult = matchingResults[0];
-      monthData.set(datatypeid, selectedResult.value);
-    })
+
+    let zeroIndexedMonthNum = monthNum - 1;
+    let monthResults = monthlyResults.filter(r => new Date(r.date).getMonth() === zeroIndexedMonthNum);
+    monthResults.forEach(result => {
+      if (monthData.has(result.datatype)) {
+        console.log(result.datatype + ' already set for ' + month);
+      }
+      else {
+        monthData.set(result.datatype, result.value);
+      }
+    });
+
     monthsData.set(month, monthData);
   })
 
   return monthsData;
 }
 
-function monthAndYearToDate(month, year) {
-  return `${year}-${month}-01T00:00:00`;
-}
-
 /**
- * Returns an array of objects, each containing data for a station within the
- * given latLngBounds. The array is sorted in increasing distance from the 
- * center latLng of the given latLngBounds.
+ * Returns an array of objects, each containing info for a station that (a) is 
+ * within the given latLngBounds and (b) has weather data for the given year. 
  */
-async function fetchStationsInLatLngBounds(latLngBounds, minYear) {
+async function fetchStationsInLatLngBounds(latLngBounds, year) {
   let southwest = latLngBounds.southwest;
   let northeast = latLngBounds.northeast;
   let latLngBoundsStr = [southwest.lat, southwest.lng, northeast.lat, northeast.lng].join(',');
 
-  let minDate = `${minYear}-01-01`;
-  let url = `https://www.ncdc.noaa.gov/cdo-web/api/v2/stations?extent=${latLngBoundsStr}&startdate=${minDate}&limit=1000`;
+  let minDate = `${year}-01-01`;
+  let maxDate = `${year}-12-31`;
+  let url = `https://www.ncdc.noaa.gov/cdo-web/api/v2/stations?extent=${latLngBoundsStr}&startdate=${minDate}&enddate=${maxDate}&limit=1000`;
 
   let response = await fetch(url, { headers: { token: config.NOAA_API_KEY } } );
   let json = await response.json();
-  return json.results || [];
-}
+  let stations = json.results || [];
 
-/** 
- * Sorts in place the given stations by increasing distance from the given latLng. 
- * Adds a property 'distance' for each station object.
- */
-function sortStations(stations, latLng) {
   stations.forEach(station => {
-    station.distance = distanceToLatLng(station, latLng);
+    station.distance = distanceToLatLng(station, latLngBounds.center);
   });
 
+  return stations;
+}
+
+/** Sorts in place the given stations by increasing distance from the given latLng. */
+function sortStations(stations, latLng) {
   stations.sort((a, b) => a.distance - b.distance);
 
 }
@@ -359,7 +331,7 @@ async function fetchLatLngOfCity(cityAndState) {
 }
 
 /** 
- * Returns the elevation (in metes) of the given latLng.
+ * Returns the elevation (in meters) of the given latLng.
  */
 async function fetchElevationForLatLng(latLng) {
   const apiKey = config.MAP_QUEST_API_KEY;
@@ -504,3 +476,19 @@ dataDetails.set("Black", { "censusCode": "DP05_0038PE", "unit": "%" });
 dataDetails.set("Asian", { "censusCode": "DP05_0044PE", "unit": "%" });
 dataDetails.set("Native", { "censusCode": "DP05_0039PE", "unit": "%" });
 dataDetails.set("Hispanic", { "censusCode": "DP05_0071PE", "unit": "%" });
+
+
+const MONTHS = new Map(Object.entries({
+  'Jan': '01',
+  'Feb': '02',
+  'Mar': '03',
+  'Apr': '04',
+  'May': '05',
+  'Jun': '06',
+  'Jul': '07',
+  'Aug': '08',
+  'Sep': '09',
+  'Oct': '10',
+  'Nov': '11',
+  'Dec': '12'
+}));
