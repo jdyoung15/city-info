@@ -57,19 +57,16 @@ setInterval(async function() {
 		return;
 	}
 
-  let start = new Date().getTime();
-
   console.log('current place ' + currentPlace);
 
-  // add divider between future placement of demographic table and weather table
-  $('<div>').addClass('section-divider section-divider-bottom-line between-tables').insertAfter('.section-hero-header-title');
-
   displayDemographicData(currentPlace);
-
   displayWeatherData(currentPlace);
-
 }, 1000);
 
+function sleep(milliseconds) {
+  let currentTime = new Date().getTime();
+  while (currentTime + milliseconds >= new Date().getTime()) { }
+}
 
 async function displayDemographicData(cityAndState) {
 	let [city, stateAcronym] = cityAndState.split(',').map(x => x.trim());
@@ -88,7 +85,7 @@ async function displayDemographicData(cityAndState) {
 
   // Create a table displaying the demographic data. It will appear in the existing 
   // Google Maps sidebar.
-  let table = $('<table>').css('margin', '10px').addClass('city-table');
+  let table = $('<table>').css('margin', '10px').addClass('demographics-table');
 	labels.forEach((label, i) => {
     let row = $('<tr>');
     let labelTd = $('<td>').text(label);
@@ -100,13 +97,21 @@ async function displayDemographicData(cityAndState) {
     table.append(row);
   });
 
+  if (!$('.between-tables').length) {
+    console.log('between-tables doesnt exist (demo) adding');
+    $('<div>').addClass('section-divider section-divider-bottom-line between-tables').insertAfter('.section-hero-header-title');
+  }
+
+  console.log('inserting demographics table');
   $(table).insertBefore('.between-tables');
-  $('<div>').addClass('section-divider section-divider-bottom-line').insertBefore('.city-table');
+  $('<div>').addClass('section-divider section-divider-bottom-line').insertBefore('.demographics-table');
+  let start = new Date();
+  //checkDemographicsTable(table, start);
 }
 
 async function displayWeatherData(cityAndState) {
   let stations = await fetchStationsForCity(cityAndState);
-  console.log(stations);
+  //console.log(stations);
 
   if (stations.length === 0) {
     console.log('no stations nearby');
@@ -116,7 +121,7 @@ async function displayWeatherData(cityAndState) {
   const datasetid = 'NORMAL_MLY';
   const datatypeids = ['MLY-TMIN-NORMAL', 'MLY-TMAX-NORMAL', 'MLY-PRCP-AVGNDS-GE010HI'];
   let weatherData = await fetchWeatherData(stations, datasetid, datatypeids, 2010);
-  console.log(weatherData);
+  //console.log(weatherData);
 
   // Create a table displaying the weather data. It will appear in the existing 
   // Google Maps sidebar.
@@ -140,8 +145,31 @@ async function displayWeatherData(cityAndState) {
     table.append(row);
   });
 
+  if (!$('.between-tables').length) {
+    console.log('between-tables doesnt exist (weather) adding');
+    $('<div>').addClass('section-divider section-divider-bottom-line between-tables').insertAfter('.section-hero-header-title');
+  }
+
+  console.log('inserting weather table');
   $(table).insertAfter('.between-tables');
 }
+
+//function checkDemographicsTable(table, start) {
+//  if (!$('.demographics-table').length) {
+//    $(table).insertBefore('.between-tables');
+//    console.log('inserting demographics table');
+//    $('<div>').addClass('section-divider section-divider-bottom-line').insertBefore('.demographics-table');
+//  }
+//
+//  let now = new Date();
+//  let elapsed = now - start;
+//  console.log('elapsed ' + elapsed);
+//  if (elapsed < 10000) {
+//    console.log('checking demographics table');
+//    setTimeout(() => checkDemographicsTable(table, start), 1000);
+//  }
+//
+//}
 
 /**
  * Returns an array of json objects representing relevant stations near 
@@ -150,14 +178,14 @@ async function displayWeatherData(cityAndState) {
 async function fetchStationsForCity(cityAndState) {
   let latLng = await fetchLatLngOfCity(currentPlace);
 
-  console.log(latLng.lat + ',' + latLng.lng);
+  //console.log(latLng.lat + ',' + latLng.lng);
 
   let promises = [];
 
   let latOffset = milesToLatDegrees(50);
   let lngOffset = milesToLngDegrees(50, latLng.lat);
   let latLngBounds = calculateLatLngBounds(latLng, latOffset, lngOffset);
-  console.log(latLngBounds);
+  //console.log(latLngBounds);
 
   promises.push(fetchStationsInLatLngBounds(latLngBounds, 2010));
   promises.push(fetchElevationForLatLng(latLng));
@@ -165,7 +193,7 @@ async function fetchStationsForCity(cityAndState) {
   return Promise.all(promises).then(values => {
     let stations = values[0];
 
-    console.log('number of stations within bounding box: ' + stations.length);
+    //console.log('number of stations within bounding box: ' + stations.length);
 
     if (stations.length === 0) {
       return stations;
@@ -174,10 +202,10 @@ async function fetchStationsForCity(cityAndState) {
     sortStations(stations, latLng);
 
     let baseElevation = values[1];
-    console.log('base elevation ' + baseElevation);
+    //console.log('base elevation ' + baseElevation);
 
     stations = stations.filter(s => Math.abs(s.elevation - baseElevation) < 150);
-    console.log('number of stations after elevation filtering: ' + stations.length);
+    //console.log('number of stations after elevation filtering: ' + stations.length);
 
     stations = stations.slice(0, 25);
 
@@ -199,7 +227,7 @@ async function fetchWeatherData(stations, datasetid, datatypeids, year) {
   let json = await response.json();
   let results = json.results || [];
 
-  console.log('number of results for stations ' + results.length);
+  //console.log('number of results for stations ' + results.length);
 
   let i = 0;
   for (let station of stations) {
@@ -210,14 +238,14 @@ async function fetchWeatherData(stations, datasetid, datatypeids, year) {
 
     let expectedNumResults = MONTHS.size * datatypeids.length;
     if (stationResults.length !== expectedNumResults) {
-      console.log('skipping ' + stationDebugString);
+      //console.log('skipping ' + stationDebugString);
       if (stationResults.length > 0) {
         console.log(`Expected: ${expectedNumResults} Actual: ${stationResults.length}`);
       }
       continue;
     }
 
-    console.log('using ' + stationDebugString);
+    //console.log('using ' + stationDebugString);
 
     return groupMonthlyResults(stationResults);
   }
