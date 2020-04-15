@@ -111,7 +111,7 @@ async function displayDemographicData(cityAndState) {
 
 async function displayWeatherData(cityAndState) {
   let stations = await fetchStationsForCity(cityAndState);
-  //console.log(stations);
+  console.log(stations);
 
   if (stations.length === 0) {
     console.log('no stations nearby');
@@ -178,14 +178,14 @@ async function displayWeatherData(cityAndState) {
 async function fetchStationsForCity(cityAndState) {
   let latLng = await fetchLatLngOfCity(currentPlace);
 
-  //console.log(latLng.lat + ',' + latLng.lng);
+  console.log(latLng.lat + ',' + latLng.lng);
 
   let promises = [];
 
   let latOffset = milesToLatDegrees(50);
   let lngOffset = milesToLngDegrees(50, latLng.lat);
   let latLngBounds = calculateLatLngBounds(latLng, latOffset, lngOffset);
-  //console.log(latLngBounds);
+  console.log(latLngBounds);
 
   promises.push(fetchStationsInLatLngBounds(latLngBounds, 2010));
   promises.push(fetchElevationForLatLng(latLng));
@@ -193,7 +193,7 @@ async function fetchStationsForCity(cityAndState) {
   return Promise.all(promises).then(values => {
     let stations = values[0];
 
-    //console.log('number of stations within bounding box: ' + stations.length);
+    console.log('number of stations within bounding box: ' + stations.length);
 
     if (stations.length === 0) {
       return stations;
@@ -202,10 +202,15 @@ async function fetchStationsForCity(cityAndState) {
     sortStations(stations, latLng);
 
     let baseElevation = values[1];
-    //console.log('base elevation ' + baseElevation);
+
+    if (!baseElevation) {
+      baseElevation = stations[0].elevation;
+    }
+
+    console.log('base elevation ' + baseElevation);
 
     stations = stations.filter(s => Math.abs(s.elevation - baseElevation) < 150);
-    //console.log('number of stations after elevation filtering: ' + stations.length);
+    console.log('number of stations after elevation filtering: ' + stations.length);
 
     stations = stations.slice(0, 25);
 
@@ -227,8 +232,6 @@ async function fetchWeatherData(stations, datasetid, datatypeids, year) {
   let json = await response.json();
   let results = json.results || [];
 
-  //console.log('number of results for stations ' + results.length);
-
   let i = 0;
   for (let station of stations) {
     i++;
@@ -245,7 +248,7 @@ async function fetchWeatherData(stations, datasetid, datatypeids, year) {
       continue;
     }
 
-    //console.log('using ' + stationDebugString);
+    console.log('using ' + stationDebugString);
 
     return groupMonthlyResults(stationResults);
   }
@@ -420,12 +423,14 @@ async function fetchElevationForLatLng(latLng) {
 	let response = await fetch(endpoint);
 	let json = await response.json();
 
-  let elevations = json.elevationProfile;
-  if (elevations.length === 0) {
-    console.log('no elevation found for latLng');
-    console.log(latLng);
-    return;
+  let statusCode = json.info.statuscode;
+
+  if (statusCode == 601) {
+    console.log('elevation fetch failed');
+    return null;
   }
+
+  let elevations = json.elevationProfile;
 
   return elevations[0].height;
 }
