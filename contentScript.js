@@ -40,10 +40,10 @@ let currentPlace = extractPlace(location.href);
 let initialCurrentPlace = currentPlace;
 
 setInterval(async function() {
-  if (!$('.section-hero-header-title').length) {
-    console.log('div doesnt exist yet');
-    return;
-  }
+  //if (!$('.section-hero-header-title').length) {
+  //  console.log('div doesnt exist yet');
+  //  return;
+  //}
 
 	let newPlace = extractPlace(location.href);
   if (newPlace === currentPlace && !initialCurrentPlace) {
@@ -97,16 +97,14 @@ async function displayDemographicData(cityAndState) {
     table.append(row);
   });
 
-  if (!$('.between-tables').length) {
-    console.log('between-tables doesnt exist (demo) adding');
-    $('<div>').addClass('section-divider section-divider-bottom-line between-tables').insertAfter('.section-hero-header-title');
-  }
+  let tableInsertionLogic = () => {
+    $(table).insertBefore('.between-tables');
+    console.log('inserting demographics table');
+    $('<div>').addClass('section-divider section-divider-bottom-line').insertBefore('.' + table.attr('class'));
+  };
 
-  console.log('inserting demographics table');
-  $(table).insertBefore('.between-tables');
-  $('<div>').addClass('section-divider section-divider-bottom-line').insertBefore('.demographics-table');
   let start = new Date();
-  //checkDemographicsTable(table, start);
+  checkTable(table, start, tableInsertionLogic);
 }
 
 async function displayWeatherData(cityAndState) {
@@ -145,31 +143,35 @@ async function displayWeatherData(cityAndState) {
     table.append(row);
   });
 
-  if (!$('.between-tables').length) {
-    console.log('between-tables doesnt exist (weather) adding');
-    $('<div>').addClass('section-divider section-divider-bottom-line between-tables').insertAfter('.section-hero-header-title');
-  }
+  let tableInsertionLogic = () => {
+    $(table).insertAfter('.between-tables');
+    console.log('inserting weather table');
+  };
 
-  console.log('inserting weather table');
-  $(table).insertAfter('.between-tables');
+  let start = new Date();
+  checkTable(table, start, tableInsertionLogic);
 }
 
-//function checkDemographicsTable(table, start) {
-//  if (!$('.demographics-table').length) {
-//    $(table).insertBefore('.between-tables');
-//    console.log('inserting demographics table');
-//    $('<div>').addClass('section-divider section-divider-bottom-line').insertBefore('.demographics-table');
-//  }
-//
-//  let now = new Date();
-//  let elapsed = now - start;
-//  console.log('elapsed ' + elapsed);
-//  if (elapsed < 10000) {
-//    console.log('checking demographics table');
-//    setTimeout(() => checkDemographicsTable(table, start), 1000);
-//  }
-//
-//}
+function checkTable(table, start, tableInsertionLogic) {
+  if (!$('.' + table.attr('class')).length) {
+    if (!$('.between-tables').length) {
+      console.log('between-tables doesnt exist: adding');
+      $('<div>').addClass('section-divider section-divider-bottom-line between-tables').insertAfter('.section-hero-header-title');
+    }
+
+    tableInsertionLogic();
+  }
+
+  let now = new Date();
+  let elapsed = now - start;
+  if (elapsed < 10000) {
+    setTimeout(() => checkTable(table, start, tableInsertionLogic), 1000);
+  }
+  else {
+    console.log('done checking ' + table.attr('class'));
+  }
+}
+
 
 /**
  * Returns an array of json objects representing relevant stations near 
