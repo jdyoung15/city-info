@@ -40,11 +40,6 @@ let currentPlace = extractPlace(location.href);
 let initialCurrentPlace = currentPlace;
 
 setInterval(async function() {
-  //if (!$('.section-hero-header-title').length) {
-  //  console.log('div doesnt exist yet');
-  //  return;
-  //}
-
 	let newPlace = extractPlace(location.href);
   if (newPlace === currentPlace && !initialCurrentPlace) {
 		return;
@@ -104,11 +99,14 @@ async function displayDemographicData(cityAndState) {
   };
 
   let start = new Date();
-  checkTable(table, start, tableInsertionLogic);
+  checkTable(table, start, tableInsertionLogic, cityAndState);
 }
 
 async function displayWeatherData(cityAndState) {
-  let stations = await fetchStationsForCity(cityAndState);
+  const datasetid = 'NORMAL_MLY';
+  const datatypeids = ['MLY-TMIN-NORMAL', 'MLY-TMAX-NORMAL', 'MLY-PRCP-AVGNDS-GE010HI'];
+
+  let stations = await fetchStationsForCity(cityAndState, datatypeids);
   console.log(stations);
 
   if (stations.length === 0) {
@@ -116,8 +114,6 @@ async function displayWeatherData(cityAndState) {
     return;
   }
 
-  const datasetid = 'NORMAL_MLY';
-  const datatypeids = ['MLY-TMIN-NORMAL', 'MLY-TMAX-NORMAL', 'MLY-PRCP-AVGNDS-GE010HI'];
   let weatherData = await fetchWeatherData(stations, datasetid, datatypeids, 2010);
   //console.log(weatherData);
 
@@ -149,10 +145,14 @@ async function displayWeatherData(cityAndState) {
   };
 
   let start = new Date();
-  checkTable(table, start, tableInsertionLogic);
+  checkTable(table, start, tableInsertionLogic, cityAndState);
 }
 
-function checkTable(table, start, tableInsertionLogic) {
+function checkTable(table, start, tableInsertionLogic, cityAndState) {
+  if (cityAndState !== currentPlace) {
+    return;
+  }
+
   if (!$('.' + table.attr('class')).length) {
     if (!$('.between-tables').length) {
       console.log('between-tables doesnt exist: adding');
@@ -177,7 +177,7 @@ function checkTable(table, start, tableInsertionLogic) {
  * Returns an array of json objects representing relevant stations near 
  * the given city.
  */
-async function fetchStationsForCity(cityAndState) {
+async function fetchStationsForCity(cityAndState, datatypeids) {
   let latLng = await fetchLatLngOfCity(currentPlace);
 
   console.log(latLng.lat + ',' + latLng.lng);
@@ -189,7 +189,7 @@ async function fetchStationsForCity(cityAndState) {
   let latLngBounds = calculateLatLngBounds(latLng, latOffset, lngOffset);
   console.log(latLngBounds);
 
-  promises.push(fetchStationsInLatLngBounds(latLngBounds, 2010));
+  promises.push(fetchStationsInLatLngBounds(latLngBounds, 2010, datatypeids));
   promises.push(fetchElevationForLatLng(latLng));
 
   return Promise.all(promises).then(values => {
@@ -243,7 +243,7 @@ async function fetchWeatherData(stations, datasetid, datatypeids, year) {
 
     let expectedNumResults = MONTHS.size * datatypeids.length;
     if (stationResults.length !== expectedNumResults) {
-      //console.log('skipping ' + stationDebugString);
+      console.log('skipping ' + stationDebugString);
       if (stationResults.length > 0) {
         console.log(`Expected: ${expectedNumResults} Actual: ${stationResults.length}`);
       }
@@ -292,14 +292,15 @@ function groupMonthlyResults(monthlyResults) {
  * Returns an array of objects, each containing info for a station that (a) is 
  * within the given latLngBounds and (b) has weather data for the given year. 
  */
-async function fetchStationsInLatLngBounds(latLngBounds, year) {
+async function fetchStationsInLatLngBounds(latLngBounds, year, datatypeids) {
   let southwest = latLngBounds.southwest;
   let northeast = latLngBounds.northeast;
   let latLngBoundsStr = [southwest.lat, southwest.lng, northeast.lat, northeast.lng].join(',');
 
   let minDate = `${year}-01-01`;
   let maxDate = `${year}-12-31`;
-  let url = `https://www.ncdc.noaa.gov/cdo-web/api/v2/stations?extent=${latLngBoundsStr}&startdate=${minDate}&enddate=${maxDate}&limit=1000`;
+  let datatypeidsString = datatypeids.map(datatypeid => 'datatypeid=' + datatypeid).join('&');
+  let url = `https://www.ncdc.noaa.gov/cdo-web/api/v2/stations?extent=${latLngBoundsStr}&startdate=${minDate}&enddate=${maxDate}&${datatypeidsString}&limit=1000`;
 
   let response = await fetch(url, { headers: { token: config.NOAA_API_KEY } } );
   let json = await response.json();
