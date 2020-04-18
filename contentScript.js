@@ -463,6 +463,9 @@ function extractPlace(url) {
 		state = state.split(' ')[0];
 	}
 
+  // Remove any diacritics (e.g. Nānākuli -> Nanakuli);
+  city = decodeURIComponent(city).normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+
 	return city + ', ' + state;
 }
 
