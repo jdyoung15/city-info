@@ -439,8 +439,8 @@ async function fetchElevationForLatLng(latLng) {
 }
 
 /** 
- *	Returns a string containing the city and state acroynm, extracted from the given 
- *  url. E.g. 'Hayward, CA' 
+ *	Returns a string representing a "place", i.e. containing the city and 
+ *  state acroynm, extracted from the given url. E.g. 'Hayward, CA' 
  */
 function extractPlace(url) {
 	let regex = /https:\/\/www\.google\.com\/maps\/place\/(.+?)\/.*/;
@@ -487,6 +487,9 @@ async function fetchCityFips(city, stateFips, stateAcronym) {
   let lines = text.split("\n");
   let matchingLines = [];
   for (let line of lines) {
+    // Remove any special characters that may be present in the line
+    // but not in the city name (e.g. remove the '.' in 'St. Paul' 
+    line = line.replace(/[^a-zA-z0-9 |\r\-\,]/g, '');
     let matches = line.match(regex);
     if (!matches || matches.length !== 2) {
       continue;
