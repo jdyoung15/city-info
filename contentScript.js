@@ -1,6 +1,5 @@
 // TODO
 // - refactor demographics and weather fetching to separate components/files
-// - convert const to let
 // - more accurate median property value metric
 // - elevation, crime, price per sq ft
 // - stats don't appear when navigating to google maps from google search
@@ -72,11 +71,11 @@ async function displayDemographicData(cityAndState) {
 
 	// Get the city-specific demographic data, including population, 
   // median property value, etc.
-	const censusCodes = [...DEMOGRAPHIC_METADATA.values()].map(details => details["censusCode"]);
-	const joinedCodes = censusCodes.join(',');
+	let censusCodes = [...DEMOGRAPHIC_METADATA.values()].map(details => details["censusCode"]);
+	let joinedCodes = censusCodes.join(',');
 
-  const demographicData = await fetchDemographicData(cityFips, stateFips, joinedCodes);
-	const labels = [...DEMOGRAPHIC_METADATA.keys()];
+  let demographicData = await fetchDemographicData(cityFips, stateFips, joinedCodes);
+	let labels = [...DEMOGRAPHIC_METADATA.keys()];
 
   // Create a table displaying the demographic data. It will appear in the existing 
   // Google Maps sidebar.
@@ -103,8 +102,8 @@ async function displayDemographicData(cityAndState) {
 }
 
 async function displayWeatherData(cityAndState) {
-  const datasetid = 'NORMAL_MLY';
-  const datatypeids = ['MLY-TMIN-NORMAL', 'MLY-TMAX-NORMAL', 'MLY-PRCP-AVGNDS-GE010HI'];
+  let datasetid = 'NORMAL_MLY';
+  let datatypeids = ['MLY-TMIN-NORMAL', 'MLY-TMAX-NORMAL', 'MLY-PRCP-AVGNDS-GE010HI'];
 
   let stations = await fetchStationsForCity(cityAndState, datatypeids);
   console.log(stations);
@@ -349,15 +348,15 @@ function distanceBetweenLatLngs(latLngA, latLngB) {
  * is lngOffset * 2.
  */
 function calculateLatLngBounds(center, latOffset, lngOffset) {
-  const southwest = new Map();
+  let southwest = new Map();
   southwest.lat = center.lat - latOffset;
   southwest.lng = center.lng - lngOffset;
 
-  const northeast = new Map();
+  let northeast = new Map();
   northeast.lat = center.lat + latOffset;
   northeast.lng = center.lng + lngOffset;
 
-  const latLngBounds = new Map();
+  let latLngBounds = new Map();
   latLngBounds.southwest = southwest;
   latLngBounds.northeast = northeast;
 
@@ -372,7 +371,7 @@ function calculateLatLngBounds(center, latOffset, lngOffset) {
  * Works for any location, irrespective of longitude.
  */
 function milesToLatDegrees(miles) {
-  const milesPerDegreeLat = 69.0;
+  let milesPerDegreeLat = 69.0;
   return miles / milesPerDegreeLat;
 }
 
@@ -394,8 +393,8 @@ function degreesToRadians(degrees) {
  * given latitude.
  */
 function calculateMilesPerDegreeLng(lat) {
-  const latRadians = degreesToRadians(lat);
-  const milesPerDegreeLatAtEquator = 69.172;
+  let latRadians = degreesToRadians(lat);
+  let milesPerDegreeLatAtEquator = 69.172;
   return Math.cos(latRadians) * milesPerDegreeLatAtEquator;
 }
 
@@ -405,8 +404,8 @@ function calculateMilesPerDegreeLng(lat) {
  * generally be at a relevant central location within the city (e.g. downtown).
  */
 async function fetchLatLngOfCity(cityAndState) {
-  const apiKey = config.MAP_QUEST_API_KEY;
-  const endpoint = `https://www.mapquestapi.com/geocoding/v1/address?key=${apiKey}&inFormat=kvp&outFormat=json&location=${cityAndState}&thumbMaps=false`;
+  let apiKey = config.MAP_QUEST_API_KEY;
+  let endpoint = `https://www.mapquestapi.com/geocoding/v1/address?key=${apiKey}&inFormat=kvp&outFormat=json&location=${cityAndState}&thumbMaps=false`;
 
 	let response = await fetch(endpoint);
 	let json = await response.json();
@@ -419,7 +418,7 @@ async function fetchLatLngOfCity(cityAndState) {
  * Returns the elevation (in meters) of the given latLng.
  */
 async function fetchElevationForLatLng(latLng) {
-  const apiKey = config.MAP_QUEST_API_KEY;
+  let apiKey = config.MAP_QUEST_API_KEY;
   let latLngString = latLng.lat + ',' + latLng.lng;
   let endpoint = `https://open.mapquestapi.com/elevation/v1/profile?key=${apiKey}&shapeFormat=raw&latLngCollection=${latLngString}`;
 
@@ -477,8 +476,8 @@ const PLACE_TYPES = ['city', 'town', 'municipality', 'village', 'CDP'];
 
 /** Returns the FIPS for the given city in the state with the given info. */
 async function fetchCityFips(city, stateFips, stateAcronym) {
-  const fileName = 'states/st' + stateFips + '_' + stateAcronym.toLowerCase() + '_places.txt';
-  const url = chrome.runtime.getURL(fileName);
+  let fileName = 'states/st' + stateFips + '_' + stateAcronym.toLowerCase() + '_places.txt';
+  let url = chrome.runtime.getURL(fileName);
   let response = await fetch(url);
   let text = await response.text();
 
@@ -518,7 +517,7 @@ async function fetchCityFips(city, stateFips, stateAcronym) {
 
 /** Returns the FIPS code of the given state. */
 async function fetchStateFips(stateAcronym) {
-  const url = chrome.runtime.getURL('states/state.txt');
+  let url = chrome.runtime.getURL('states/state.txt');
   let response = await fetch(url);
   let text = await response.text();
 
@@ -538,7 +537,7 @@ async function fetchStateFips(stateAcronym) {
 
 /** Returns an array of strings representing various demographic stats. */
 async function fetchDemographicData(cityFips, stateFips, joinedCensusCodes) {
-	const endpoint = `https://api.census.gov/data/2018/acs/acs5/profile?get=${joinedCensusCodes}&for=place:${cityFips}&in=state:${stateFips}`;
+	let endpoint = `https://api.census.gov/data/2018/acs/acs5/profile?get=${joinedCensusCodes}&for=place:${cityFips}&in=state:${stateFips}`;
 
 	let response = await fetch(endpoint);
 	let json = await response.json();
