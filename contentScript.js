@@ -2,7 +2,6 @@
 // - refactor demographics and weather fetching to separate components/files
 // - more accurate median property value metric
 // - elevation, crime, price per sq ft
-// - stats don't appear when navigating to google maps from google search
 // - side by side comparison?
 
 // We use Map instead of object in order to enforce insertion order
