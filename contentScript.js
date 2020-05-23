@@ -178,7 +178,7 @@ function checkTable(table, start, tableInsertionLogic, cityAndState) {
  * the given city.
  */
 async function fetchStationsForCity(cityAndState, datatypeids) {
-  let latLng = await fetchLatLngOfCity(currentPlace);
+  let latLng = await fetchLatLngOfCity(cityAndState);
 
   console.log(latLng.lat + ',' + latLng.lng);
 
