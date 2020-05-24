@@ -2,6 +2,7 @@
 // - refactor demographics and weather fetching to separate components/files
 // - more accurate median property value metric
 // - elevation, crime, price per sq ft
+// - add walkscore for specific addresses
 // - side by side comparison?
 
 // We use Map instead of object in order to enforce insertion order
@@ -33,6 +34,14 @@ const MONTHS = new Map(Object.entries({
   'Nov': '11',
   'Dec': '12'
 }));
+
+const FEET_PER_METER =  3.281;
+
+/**
+ * The max number of feet a station's elevation can differ from a city's elevation 
+ * to be considered representative for that city.
+ */
+const STATION_ELEVATION_MAX_DELTA = 150;
 
 let currentPlace = extractPlace(location.href);
 let initialCurrentPlace = currentPlace;
@@ -104,8 +113,9 @@ async function displayWeatherData(cityAndState) {
   let datasetid = 'NORMAL_MLY';
   let datatypeids = ['MLY-TMIN-NORMAL', 'MLY-TMAX-NORMAL', 'MLY-PRCP-AVGNDS-GE010HI'];
 
-  let stations = await fetchStationsForCity(cityAndState, datatypeids);
-  console.log(stations);
+  let stationsAndElevation = await fetchStationsAndElevationForCity(cityAndState, datatypeids);
+  let [stations, elevation] = stationsAndElevation;
+  //console.log(stations);
 
   if (stations.length === 0) {
     console.log('no stations nearby');
@@ -118,6 +128,14 @@ async function displayWeatherData(cityAndState) {
   // Create a table displaying the weather data. It will appear in the existing 
   // Google Maps sidebar.
   table = $('<table>').css('margin', '10px').addClass('weather-table');
+
+  let elevationRow = $('<tr>');
+  let elevationLabelTd = $('<td>').text('Elevation (feet)');
+  let elevationTd = $('<td>').text(Math.round(elevation * FEET_PER_METER));
+  elevationRow.append(elevationLabelTd);
+  elevationRow.append(elevationTd);
+  table.append(elevationRow);
+
   let row = $('<tr>');
   let labelTd = $('<td>').text('Month');
   let loAndHiTd = $('<td>').text('High / Low');
@@ -126,6 +144,7 @@ async function displayWeatherData(cityAndState) {
   row.append(loAndHiTd);
   row.append(daysRainTd);
   table.append(row);
+
 	weatherData.forEach((data, month) => {
     let row = $('<tr>');
     let labelTd = $('<td>').text(month);
@@ -163,7 +182,7 @@ function checkTable(table, start, tableInsertionLogic, cityAndState) {
   let now = new Date();
   let elapsed = now - start;
   if (elapsed < 10000) {
-    setTimeout(() => checkTable(table, start, tableInsertionLogic), 1000);
+    setTimeout(() => checkTable(table, start, tableInsertionLogic, cityAndState), 1000);
   }
   else {
     console.log('done checking ' + table.attr('class'));
@@ -172,10 +191,11 @@ function checkTable(table, start, tableInsertionLogic, cityAndState) {
 
 
 /**
- * Returns an array of json objects representing relevant stations near 
- * the given city.
+ * Returns an array containing:
+ *   - an array of json objects representing relevant stations near the given city.
+ *   - the elevation (in meters) of the given city
  */
-async function fetchStationsForCity(cityAndState, datatypeids) {
+async function fetchStationsAndElevationForCity(cityAndState, datatypeids) {
   let latLng = await fetchLatLngOfCity(cityAndState);
 
   console.log(latLng.lat + ',' + latLng.lng);
@@ -207,14 +227,12 @@ async function fetchStationsForCity(cityAndState, datatypeids) {
       baseElevation = stations[0].elevation;
     }
 
-    console.log('base elevation ' + baseElevation);
-
-    stations = stations.filter(s => Math.abs(s.elevation - baseElevation) < 150);
+    stations = stations.filter(s => Math.abs(s.elevation - baseElevation) < STATION_ELEVATION_MAX_DELTA);
     console.log('number of stations after elevation filtering: ' + stations.length);
 
     stations = stations.slice(0, 25);
 
-    return stations;
+    return [stations, baseElevation];
   }, err => console.log('error occurred'));
 }
 
