@@ -1,7 +1,7 @@
 // TODO
 // - refactor demographics and weather fetching to separate components/files
 // - more accurate median property value metric
-// - elevation, crime, price per sq ft
+// - crime, price per sq ft
 // - add walkscore for specific addresses
 // - side by side comparison?
 
@@ -493,6 +493,10 @@ const PLACE_TYPES = ['city', 'town', 'municipality', 'village', 'CDP'];
 
 /** Returns the FIPS for the given city in the state with the given info. */
 async function fetchCityFips(city, stateFips, stateAcronym) {
+  // Remove periods from city name (e.g. "St. Paul") for easier comparison
+  let removePeriodsRegex = /[\.]/g;
+  city = city.replace(removePeriodsRegex, '');
+
   let fileName = 'states/st' + stateFips + '_' + stateAcronym.toLowerCase() + '_places.txt';
   let url = chrome.runtime.getURL(fileName);
   let response = await fetch(url);
@@ -503,9 +507,7 @@ async function fetchCityFips(city, stateFips, stateAcronym) {
   let lines = text.split("\n");
   let matchingLines = [];
   for (let line of lines) {
-    // Remove any special characters that may be present in the line
-    // but not in the city name (e.g. remove the '.' in 'St. Paul' 
-    line = line.replace(/[^a-zA-z0-9 |\r\-\,]/g, '');
+    line = line.replace(removePeriodsRegex, '');
     let matches = line.match(regex);
     if (!matches || matches.length !== 2) {
       continue;
