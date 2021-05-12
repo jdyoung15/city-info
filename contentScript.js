@@ -43,6 +43,12 @@ const FEET_PER_METER =  3.281;
  */
 const STATION_ELEVATION_MAX_DELTA = 150;
 
+/** 
+ * The number of years behind the current year that the most recent American Community 
+ * Survey 5-Year Data is supported. 
+ */
+const ACS_LAG_YEARS = 2;
+
 let currentPlace = extractPlace(location.href);
 let initialCurrentPlace = currentPlace;
 
@@ -595,7 +601,9 @@ async function fetchStateFips(stateAcronym) {
 
 /** Returns an array of strings representing various demographic stats. */
 async function fetchDemographicData(cityFips, stateFips, joinedCensusCodes) {
-	let endpoint = `https://api.census.gov/data/2018/acs/acs5/profile?get=${joinedCensusCodes}&for=place:${cityFips}&in=state:${stateFips}`;
+  const latestYear = new Date().getFullYear();
+  const latestAcsYear = latestYear - ACS_LAG_YEARS;
+	let endpoint = `https://api.census.gov/data/${latestAcsYear}/acs/acs5/profile?get=${joinedCensusCodes}&for=place:${cityFips}&in=state:${stateFips}`;
 
 	let response = await fetch(endpoint);
 	let json = await response.json();
