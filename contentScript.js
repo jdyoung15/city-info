@@ -61,6 +61,7 @@ setInterval(async function() {
 
   console.log('current place ' + currentPlace);
 
+  displayHousingData(currentPlace);
   displayDemographicData(currentPlace);
   displayWeatherData(currentPlace);
 }, 1000);
@@ -69,6 +70,44 @@ function sleep(milliseconds) {
   let currentTime = new Date().getTime();
   while (currentTime + milliseconds >= new Date().getTime()) { }
 }
+
+async function displayHousingData(cityAndState) {
+	let [city, stateAcronym] = cityAndState.split(',').map(x => x.trim());
+
+  const apiKey = config.QUANDL_API_KEY;
+	let endpoint = `https://www.quandl.com/api/v3/datatables/ZILLOW/DATA?indicator_id=ZSFH&region_id=18518&api_key=${apiKey}`;
+
+  chrome.runtime.sendMessage( // goes to background.js
+    endpoint,
+    response => {
+      let json = JSON.parse(response);
+      let monthlyZsfh = json.datatable.data;
+      let latestMonthZsfh = monthlyZsfh[0][3];
+
+      // Create a table displaying the housing data. It will appear in the existing 
+      // Google Maps sidebar.
+      let table = $('<table>').css('margin', '10px').addClass('housing-table');
+
+      let row = $('<tr>');
+      let labelTd = $('<td>').text('ZHVI SFH');
+      let stat = formatWithCommas(latestMonthZsfh);
+      let unit = '$';
+      let dataTd = $('<td>').text(unit + stat);
+      row.append(labelTd);
+      row.append(dataTd);
+      table.append(row);
+
+      let tableInsertionLogic = () => {
+        $(table).insertBefore('.between-tables');
+        console.log('inserting housing table');
+        $('<div>').addClass('section-divider section-divider-bottom-line').insertBefore('.' + table.attr('class'));
+      };
+
+      let start = new Date();
+      checkTable(table, start, tableInsertionLogic, cityAndState);
+    }); 
+}
+
 
 async function displayDemographicData(cityAndState) {
 	let [city, stateAcronym] = cityAndState.split(',').map(x => x.trim());
@@ -130,7 +169,7 @@ async function displayWeatherData(cityAndState) {
   table = $('<table>').css('margin', '10px').addClass('weather-table');
 
   let elevationRow = $('<tr>');
-  let elevationLabelTd = $('<td>').text('Elevation (feet)');
+  let elevationLabelTd = $('<td>').text('Elevation (feet) asdf');
   let elevationTd = $('<td>').text(Math.round(elevation * FEET_PER_METER));
   elevationRow.append(elevationLabelTd);
   elevationRow.append(elevationTd);

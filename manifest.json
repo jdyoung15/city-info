@@ -2,7 +2,7 @@
   "name": "City Info",
   "version": "1.0",
   "description": "Display data about selected city in Google Maps",
-	"permissions": ["activeTab", "declarativeContent", "storage", "tabs"],
+	"permissions": ["activeTab", "declarativeContent", "storage", "tabs", "*://*.quandl.com/*"],
 	"background": {
 		"scripts": ["background.js"],
 		"persistent": false
