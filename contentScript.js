@@ -51,6 +51,8 @@ const ACS_LAG_YEARS = 2;
 
 const DIVIDER_CLASS_NAME = 'mapsConsumerUiSubviewSectionGm2Divider__divider';
 
+const LABEL_DEFAULT_WIDTH = '290px';
+
 let currentPlace = extractPlace(location.href);
 let initialCurrentPlace = currentPlace;
 
@@ -98,7 +100,7 @@ async function displayHousingData(cityAndState) {
       let table = $('<table>').css('margin', '10px').addClass('housing-table');
 
       let row = $('<tr>');
-      let labelTd = $('<td>').text('ZHVI SFH');
+      let labelTd = $('<td>').text('ZHVI SFH').css('width', LABEL_DEFAULT_WIDTH);
       let stat = formatWithCommas(latestMonthZsfh);
       let unit = '$';
       let dataTd = $('<td>').text(unit + stat);
@@ -159,7 +161,7 @@ async function displayDemographicData(cityAndState) {
   let table = $('<table>').css('margin', '10px').addClass('demographics-table');
 	labels.forEach((label, i) => {
     let row = $('<tr>');
-    let labelTd = $('<td>').text(label);
+    let labelTd = $('<td>').text(label).css('width', LABEL_DEFAULT_WIDTH);
     let stat = formatWithCommas(demographicData[i]);
     let unit = DEMOGRAPHIC_METADATA.get(label)["unit"];
     let dataTd = $('<td>').text(stat + unit);
@@ -196,15 +198,17 @@ async function displayWeatherData(cityAndState) {
 
   // Create a table displaying the weather data. It will appear in the existing 
   // Google Maps sidebar.
-  table = $('<table>').css('margin', '10px').addClass('weather-table');
+  elevationTable = $('<table>').css('margin', '10px').addClass('elevation-table');
 
   let elevationRow = $('<tr>');
-  let elevationLabelTd = $('<td>').text('Elevation (feet) asdf');
-  let elevationTd = $('<td>').text(Math.round(elevation * FEET_PER_METER));
+  let elevationLabelTd = $('<td>').text('Elevation').css('width', LABEL_DEFAULT_WIDTH);
+  let elevationTd = $('<td>').text(`${Math.round(elevation * FEET_PER_METER)} ft`);
   elevationRow.append(elevationLabelTd);
   elevationRow.append(elevationTd);
-  table.append(elevationRow);
+  elevationTable.append(elevationRow);
 
+  const weatherTableClassName = 'weather-table';
+  table = $('<table>').css('margin', '10px').addClass(weatherTableClassName);
   let row = $('<tr>');
   let labelTd = $('<td>').text('Month');
   let loAndHiTd = $('<td>').text('High / Low');
@@ -227,7 +231,9 @@ async function displayWeatherData(cityAndState) {
 
   let tableInsertionLogic = () => {
     $(table).insertAfter('.between-tables');
-    console.log('inserting weather table');
+    $(elevationTable).insertBefore(`.${weatherTableClassName}`);
+    $('<div>').addClass(DIVIDER_CLASS_NAME + ' between-tables').insertBefore(`.${weatherTableClassName}`);
+    console.log('inserting weather and elevation tables');
   };
 
   let start = new Date();
