@@ -65,7 +65,7 @@ setInterval(async function() {
 		return;
 	}
 
-  console.log('current place ' + currentPlace);
+  //console.log('current place ' + currentPlace);
 
   displayHousingData(currentPlace);
   displayDemographicData(currentPlace);
@@ -265,14 +265,14 @@ function checkTable(table, start, tableInsertionLogic, cityAndState) {
 async function fetchStationsAndElevationForCity(cityAndState, datatypeids) {
   let latLng = await fetchLatLngOfCity(cityAndState);
 
-  console.log(latLng.lat + ',' + latLng.lng);
+  //console.log(latLng.lat + ',' + latLng.lng);
 
   let promises = [];
 
   let latOffset = milesToLatDegrees(50);
   let lngOffset = milesToLngDegrees(50, latLng.lat);
   let latLngBounds = calculateLatLngBounds(latLng, latOffset, lngOffset);
-  console.log(latLngBounds);
+  //console.log(latLngBounds);
 
   promises.push(fetchStationsInLatLngBounds(latLngBounds, 2010, datatypeids));
   promises.push(fetchElevationForLatLng(latLng));
@@ -280,7 +280,7 @@ async function fetchStationsAndElevationForCity(cityAndState, datatypeids) {
   return Promise.all(promises).then(values => {
     let stations = values[0];
 
-    console.log('number of stations within bounding box: ' + stations.length);
+    //console.log('number of stations within bounding box: ' + stations.length);
 
     if (stations.length === 0) {
       return stations;
@@ -295,7 +295,7 @@ async function fetchStationsAndElevationForCity(cityAndState, datatypeids) {
     }
 
     stations = stations.filter(s => Math.abs(s.elevation - baseElevation) < STATION_ELEVATION_MAX_DELTA);
-    console.log('number of stations after elevation filtering: ' + stations.length);
+    //console.log('number of stations after elevation filtering: ' + stations.length);
 
     stations = stations.slice(0, 25);
 
@@ -326,14 +326,14 @@ async function fetchWeatherData(stations, datasetid, datatypeids, year) {
 
     let expectedNumResults = MONTHS.size * datatypeids.length;
     if (stationResults.length !== expectedNumResults) {
-      console.log('skipping ' + stationDebugString);
+      //console.log('skipping ' + stationDebugString);
       if (stationResults.length > 0) {
-        console.log(`Expected: ${expectedNumResults} Actual: ${stationResults.length}`);
+        //console.log(`Expected: ${expectedNumResults} Actual: ${stationResults.length}`);
       }
       continue;
     }
 
-    console.log('using ' + stationDebugString);
+    //console.log('using ' + stationDebugString);
 
     return groupMonthlyResults(stationResults);
   }
