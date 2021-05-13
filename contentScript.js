@@ -210,8 +210,8 @@ async function displayWeatherData(cityAndState) {
   const weatherTableClassName = 'weather-table';
   table = $('<table>').css('margin', '10px').addClass(weatherTableClassName);
   let row = $('<tr>');
-  let labelTd = $('<td>').text('Month');
-  let loAndHiTd = $('<td>').text('High / Low');
+  let labelTd = $('<td>').text('Month').css('width', '145px');
+  let loAndHiTd = $('<td>').text('High / Low').css('width', '145px');;
   let daysRainTd = $('<td>').text('Rain');
   row.append(labelTd);
   row.append(loAndHiTd);
