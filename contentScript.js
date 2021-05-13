@@ -49,6 +49,8 @@ const STATION_ELEVATION_MAX_DELTA = 150;
  */
 const ACS_LAG_YEARS = 2;
 
+const DIVIDER_CLASS_NAME = 'mapsConsumerUiSubviewSectionGm2Divider__divider';
+
 let currentPlace = extractPlace(location.href);
 let initialCurrentPlace = currentPlace;
 
@@ -107,7 +109,7 @@ async function displayHousingData(cityAndState) {
       let tableInsertionLogic = () => {
         $(table).insertBefore('.between-tables');
         console.log('inserting housing table');
-        $('<div>').addClass('section-divider section-divider-bottom-line').insertBefore('.' + table.attr('class'));
+        $('<div>').addClass(DIVIDER_CLASS_NAME).insertBefore('.' + table.attr('class'));
       };
 
       let start = new Date();
@@ -169,7 +171,7 @@ async function displayDemographicData(cityAndState) {
   let tableInsertionLogic = () => {
     $(table).insertBefore('.between-tables');
     console.log('inserting demographics table');
-    $('<div>').addClass('section-divider section-divider-bottom-line').insertBefore('.' + table.attr('class'));
+    $('<div>').addClass(DIVIDER_CLASS_NAME).insertBefore('.' + table.attr('class'));
   };
 
   let start = new Date();
@@ -240,7 +242,7 @@ function checkTable(table, start, tableInsertionLogic, cityAndState) {
   if (!$('.' + table.attr('class')).length) {
     if (!$('.between-tables').length) {
       console.log('between-tables doesnt exist: adding');
-      $('<div>').addClass('section-divider section-divider-bottom-line between-tables').insertAfter('.section-hero-header-title');
+      $('<div>').addClass(DIVIDER_CLASS_NAME + ' between-tables').insertAfter('.section-hero-header-title');
     }
 
     tableInsertionLogic();
