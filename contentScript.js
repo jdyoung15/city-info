@@ -84,9 +84,12 @@ function sleep(milliseconds) {
 async function displayHousingData(cityAndState) {
 	let [city, stateAcronym] = cityAndState.split(',').map(x => x.trim());
 
-  const regionId = await findRegionId(cityAndState);
+  const cityRegionId = await findCityRegionId(cityAndState);
   const apiKey = config.QUANDL_API_KEY;
-	let endpoint = `https://www.quandl.com/api/v3/datatables/ZILLOW/DATA?indicator_id=ZSFH&region_id=${regionId}&api_key=${apiKey}`;
+	let endpoint = `https://www.quandl.com/api/v3/datatables/ZILLOW/DATA?indicator_id=ZSFH&region_id=${cityRegionId}&api_key=${apiKey}`;
+
+  const metro = await findMetroRegionId(cityAndState);
+  console.log(metro);
 
   chrome.runtime.sendMessage( // goes to background.js
     endpoint,
@@ -119,7 +122,54 @@ async function displayHousingData(cityAndState) {
     }); 
 }
 
-async function findRegionId(cityAndState) {
+async function findMetroRegionId(cityAndState) {
+	let [city, stateAcronym] = cityAndState.split(',').map(x => x.trim());
+
+  let fileName = 'cities.csv';
+  let url = chrome.runtime.getURL(fileName);
+  let response = await fetch(url);
+  let text = await response.text();
+
+  let regex = new RegExp('[0-9]+,city,' + city + '; ' + stateAcronym + '; ([^;]+)');
+
+  let lines = text.split("\n");
+  // E.g. 'San Francisco-Oakland-Hayward'
+  let metro;
+  for (let line of lines) {
+    let matches = line.match(regex);
+    if (matches) {
+      metro = matches[1];
+    }
+  }
+
+  if (!metro) {
+    console.log('Error: metro not found');
+    return null;
+  }
+
+  console.log(metro);
+  const choices = metro.split('-'); 
+
+  fileName = 'metros.csv';
+  url = chrome.runtime.getURL(fileName);
+  response = await fetch(url);
+  text = await response.text();
+
+  regex = new RegExp('([0-9]+),metro,"(' + choices.join('|') + '), ' + stateAcronym);
+
+  lines = text.split("\n");
+  for (let line of lines) {
+    let matches = line.match(regex);
+    if (matches) {
+      return parseInt(matches[1]);
+    }
+  }
+
+  console.log('Error: metro not found');
+  return null;
+}
+
+async function findCityRegionId(cityAndState) {
 	let [city, stateAcronym] = cityAndState.split(',').map(x => x.trim());
 
   let fileName = 'cities.csv';

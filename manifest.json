@@ -16,6 +16,6 @@
   "page_action": {
     "default_popup": "popup.html"
   },
-  "web_accessible_resources": ["states/*.txt", "cities.csv"],
+  "web_accessible_resources": ["states/*.txt", "cities.csv", "metros.csv"],
   "manifest_version": 2
 }
