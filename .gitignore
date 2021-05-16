@@ -39,3 +39,5 @@ Thumbs.db
 *.swp
 
 config.js
+
+output*

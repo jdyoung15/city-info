@@ -130,42 +130,83 @@ async function findMetroRegionId(cityAndState) {
   let response = await fetch(url);
   let text = await response.text();
 
-  let regex = new RegExp('[0-9]+,city,' + city + '; ' + stateAcronym + '; ([^;]+)');
+  const regexes = [
+    new RegExp('[0-9]+,city,' + city + '; ' + stateAcronym + '; ([^;]+);'),
+    new RegExp('[0-9]+,city,(' + city + '); ' + stateAcronym),
+  ]
 
   let lines = text.split("\n");
   // E.g. 'San Francisco-Oakland-Hayward'
   let metro;
   for (let line of lines) {
-    let matches = line.match(regex);
-    if (matches) {
-      metro = matches[1];
+    for (let regex of regexes) {
+      let matches = line.match(regex);
+      if (matches) {
+        metro = matches[1];
+        break;
+      }
+    }
+    if (metro) {
+      break;
     }
   }
 
   if (!metro) {
-    console.log('Error: metro not found');
+    console.log('Error: city metro not found');
     return null;
   }
 
-  console.log(metro);
-  const choices = metro.split('-'); 
+  metro = metro.replace(/[.']/g, "");
+  console.log('City metro: ' + metro);
+  const choices = metro.split(/[-\/]+/);
+
+  const choicesCopy = [...choices];
+  let currentSubstring = choicesCopy[0];
+  for (let i = 1; i < choicesCopy.length; i++) {
+    choices.push(currentSubstring + '-' + choicesCopy[i]);
+  }
+
+  console.log(choices);
+
 
   fileName = 'metros.csv';
   url = chrome.runtime.getURL(fileName);
   response = await fetch(url);
   text = await response.text();
 
-  regex = new RegExp('([0-9]+),metro,"(' + choices.join('|') + '), ' + stateAcronym);
+  const neighboringStates = states.filter(state => state.code === stateAcronym)[0].Neighborcodes;
+
+  regexMatchingState = new RegExp('([0-9]+),metro,"(' + choices.join('|') + '), ' + stateAcronym);
+  regexNeighboringStates = new RegExp('([0-9]+),metro,"(' + choices.join('|') + '), (' + neighboringStates.join('|') + ')');
 
   lines = text.split("\n");
+  const matchesNeighboringStates = []
   for (let line of lines) {
-    let matches = line.match(regex);
+    let matches = line.match(regexMatchingState);
     if (matches) {
+      console.log('Found metro in state: ' + line);
       return parseInt(matches[1]);
+    }
+    matches = line.match(regexNeighboringStates);
+    if (matches) {
+      matchesNeighboringStates.push([matches[2], parseInt(matches[1]), line]);
     }
   }
 
-  console.log('Error: metro not found');
+  if (matchesNeighboringStates.length == 1) {
+    console.log('Found single matching metro in neighboring state: ' + matchesNeighboringStates[0][2]);
+    return matchesNeighboringStates[0];
+  }
+
+  if (matchesNeighboringStates.length > 1) {
+    const firstWordMatches = matchesNeighboringStates.filter(match => metro.startsWith(match[0]));
+    if (firstWordMatches.length === 1) {
+      console.log('Found one of multiple metros in neighboring states: ' + firstWordMatches[0][2]);
+      return firstWordMatches[0];
+    }
+  }
+
+  console.log('Error: matching metro not found');
   return null;
 }
 
@@ -700,3 +741,209 @@ function formatWithCommas(num) {
     return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
 
+states = [
+  {
+    "code": "AK",
+    "Neighborcodes": [ ]
+  },
+  {
+    "code": "AL",
+    "Neighborcodes": [ "FL", "GA", "MS", "TN" ]
+  },
+  {
+    "code": "AR",
+    "Neighborcodes": [ "LA", "MO", "MS", "OK", "TN", "TX" ]
+  },
+  {
+    "code": "AZ",
+    "Neighborcodes": [ "CA", "CO", "NM", "NV", "UT" ]
+  },
+  {
+    "code": "CA",
+    "Neighborcodes": [ "AZ", "NV", "OR" ]
+  },
+  {
+    "code": "CO",
+    "Neighborcodes": [ "AZ", "KS", "NE", "NM", "OK", "UT", "WY" ]
+  },
+  {
+    "code": "CT",
+    "Neighborcodes": [ "MA", "NY", "RI" ]
+  },
+  {
+    "code": "DC",
+    "Neighborcodes": [ "MD", "VA" ]
+  },
+  {
+    "code": "DE",
+    "Neighborcodes": [ "MD", "NJ", "PA" ]
+  },
+  {
+    "code": "FL",
+    "Neighborcodes": [ "AL", "GA" ]
+  },
+  {
+    "code": "GA",
+    "Neighborcodes": [ "AL", "FL", "NC", "SC", "TN" ]
+  },
+  {
+    "code": "HI",
+    "Neighborcodes": [ ]
+  },
+  {
+    "code": "IA",
+    "Neighborcodes": [ "IL", "MN", "MO", "NE", "SD", "WI" ]
+  },
+  {
+    "code": "ID",
+    "Neighborcodes": [ "MT", "NV", "OR", "UT", "WA", "WY" ]
+  },
+  {
+    "code": "IL",
+    "Neighborcodes": [ "IA", "IN", "KY", "MO", "WI" ]
+  },
+  {
+    "code": "IN",
+    "Neighborcodes": [ "IL", "KY", "MO", "OH", "WI" ]
+  },
+  {
+    "code": "KS",
+    "Neighborcodes": [ "CO", "MO", "NE", "OK" ]
+  },
+  {
+    "code": "KY",
+    "Neighborcodes": [ "IL", "IN", "MO", "OH", "TN", "VA", "WV" ]
+  },
+  {
+    "code": "LA",
+    "Neighborcodes": [ "AR", "MS", "TX" ]
+  },
+  {
+    "code": "MA",
+    "Neighborcodes": [ "CT", "NH", "NY", "RI", "VT" ]
+  },
+  {
+    "code": "MD",
+    "Neighborcodes": [ "DC", "DE", "PA", "VA", "WV" ]
+  },
+  {
+    "code": "ME",
+    "Neighborcodes": [ "NH" ]
+  },
+  {
+    "code": "MI",
+    "Neighborcodes": [ "IN", "OH", "WI" ]
+  },
+  {
+    "code": "MN",
+    "Neighborcodes": [ "IA", "ND", "SD", "WI" ]
+  },
+  {
+    "code": "MO",
+    "Neighborcodes": [ "AR", "IA", "IL", "KS", "KY", "NE", "OK", "TN" ]
+  },
+  {
+    "code": "MS",
+    "Neighborcodes": [ "AL", "AR", "LA", "TN" ]
+  },
+  {
+    "code": "MT",
+    "Neighborcodes": [ "ID", "ND", "SD", "WY" ]
+  },
+  {
+    "code": "NC",
+    "Neighborcodes": [ "GA", "SC", "TN", "VA" ]
+  },
+  {
+    "code": "ND",
+    "Neighborcodes": [ "MN", "MT", "SD" ]
+  },
+  {
+    "code": "NE",
+    "Neighborcodes": [ "CO", "IA", "KS", "MO", "SD", "WY" ]
+  },
+  {
+    "code": "NH",
+    "Neighborcodes": [ "MA", "ME", "VT" ]
+  },
+  {
+    "code": "NJ",
+    "Neighborcodes": [ "DE", "NY", "PA" ]
+  },
+  {
+    "code": "NM",
+    "Neighborcodes": [ "AZ", "CO", "OK", "TX", "UT" ]
+  },
+  {
+    "code": "NV",
+    "Neighborcodes": [ "AZ", "CA", "ID", "OR", "UT" ]
+  },
+  {
+    "code": "NY",
+    "Neighborcodes": [ "CT", "MA", "NJ", "PA", "VT" ]
+  },
+  {
+    "code": "OH",
+    "Neighborcodes": [ "IN", "KY", "MI", "PA", "WV" ]
+  },
+  {
+    "code": "OK",
+    "Neighborcodes": [ "AR", "CO", "KS", "MO", "NM", "TX" ]
+  },
+  {
+    "code": "OR",
+    "Neighborcodes": [ "CA", "ID", "NV", "WA" ]
+  },
+  {
+    "code": "PA",
+    "Neighborcodes": [ "DE", "MD", "NJ", "NY", "OH", "WV" ]
+  },
+  {
+    "code": "RI",
+    "Neighborcodes": [ "CT", "MA" ]
+  },
+  {
+    "code": "SC",
+    "Neighborcodes": [ "GA", "NC" ]
+  },
+  {
+    "code": "SD",
+    "Neighborcodes": [ "IA", "MN", "MT", "ND", "NE", "WY" ]
+  },
+  {
+    "code": "TN",
+    "Neighborcodes": [ "AL", "AR", "GA", "KY", "MO", "MS", "NC", "VA" ]
+  },
+  {
+    "code": "TX",
+    "Neighborcodes": [ "AR", "LA", "NM", "OK" ]
+  },
+  {
+    "code": "UT",
+    "Neighborcodes": [ "AZ", "CO", "ID", "NM", "NV", "WY" ]
+  },
+  {
+    "code": "VA",
+    "Neighborcodes": [ "DC", "KY", "MD", "NC", "TN", "WV" ]
+  },
+  {
+    "code": "VT",
+    "Neighborcodes": [ "MA", "NH", "NY" ]
+  },
+  {
+    "code": "WA",
+    "Neighborcodes": [ "ID", "OR" ]
+  },
+  {
+    "code": "WI",
+    "Neighborcodes": [ "IA", "IL", "MI", "MN" ]
+  },
+  {
+    "code": "WV",
+    "Neighborcodes": [ "KY", "MD", "OH", "PA", "VA" ]
+  },
+  {
+    "code": "WY",
+    "Neighborcodes": [ "CO", "ID", "MT", "NE", "SD", "UT" ]
+  }
+];
