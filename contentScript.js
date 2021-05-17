@@ -69,11 +69,12 @@ setInterval(async function() {
 		return;
 	}
 
+  const latLng = await fetchLatLngOfCity(currentPlace);
   //console.log('current place ' + currentPlace);
 
-  displayHousingData(currentPlace);
+  displayHousingData(currentPlace, latLng);
   displayDemographicData(currentPlace);
-  displayWeatherData(currentPlace);
+  displayWeatherData(currentPlace, latLng);
 }, 1000);
 
 function sleep(milliseconds) {
@@ -81,14 +82,14 @@ function sleep(milliseconds) {
   while (currentTime + milliseconds >= new Date().getTime()) { }
 }
 
-async function displayHousingData(cityAndState) {
+async function displayHousingData(cityAndState, latLng) {
 	let [city, stateAcronym] = cityAndState.split(',').map(x => x.trim());
 
   const cityRegionId = await findCityRegionId(cityAndState);
   const apiKey = config.QUANDL_API_KEY;
 	let endpoint = `https://www.quandl.com/api/v3/datatables/ZILLOW/DATA?indicator_id=ZSFH&region_id=${cityRegionId}&api_key=${apiKey}`;
 
-  const metro = await findMetroRegionId(cityAndState);
+  const metro = await findMetroRegionId(cityAndState, latLng);
   console.log(metro);
 
   chrome.runtime.sendMessage( // goes to background.js
@@ -122,7 +123,7 @@ async function displayHousingData(cityAndState) {
     }); 
 }
 
-async function findMetroRegionId(cityAndState) {
+async function findMetroRegionId(cityAndState, latLng) {
 	let [city, stateAcronym] = cityAndState.split(',').map(x => x.trim());
 
   let fileName = 'cities.csv';
@@ -193,52 +194,31 @@ async function findMetroRegionId(cityAndState) {
     }
   }
 
-  // same state metros startsWith
-  // other same state metros
-  // neighboring state metros startsWith
-  // other neighboring state metros
-
-  if (metroCandidates.length == 1) {
-    const selected = metroCandidates[0];
-    if (selected.state === stateAcronym) {
-      console.log('Found single matching metro in same state: ' + selected.line);
-    }
-    else {
-      console.log('Found single matching metro in neighboring state: ' + selected.line);
-    }
-    return selected.id;
-  }
-  else if (metroCandidates.length > 1) {
-    const startsWithMatches = metroCandidates.filter(candidate => metro.startsWith(candidate.name));
-    const startsWithMatchesInState = startsWithMatches.filter(candidate => candidate.state === stateAcronym);
-    if (startsWithMatchesInState.length === 1) {
-      console.log('Found single matching startsWith metro in same state: ' + startsWithMatchesInState[0].line);
-      return startsWithMatchesInState[0].id;
-    }
-    else if (startsWithMatchesInState.length > 1) {
-      for (let candidate of startsWithMatchingInState) {
-        console.log('Found multiple matching startsWith metros in same state: ' + candidate.line);
-      }
-      return null;
-    }
-    else {
-      // startsWithMatches are all in neighboring states
-      if (startsWithMatches.length === 1) {
-        console.log('Found single matching startsWith metro in neighboring state: ' + startsWithMatches[0].line);
-        return startsWithMatches[0].id;
-      }
-      else {
-        for (let candidate of startsWithMatches) {
-          console.log('Found multiple matching startsWith metros in neighboring states: ' + candidate.line);
-        }
-        return null;
-      }
-    }
-  }
-  else {
+  if (metroCandidates.length == 0) {
     console.log('Matching metro not found');
     return null;
   }
+
+  for (let candidate of metroCandidates) {
+    const firstCity = candidate.name.split('-')[0];
+    const metroCityAndState = firstCity + ', ' + candidate.state;
+    const metroLatLng = await fetchLatLngOfCity(metroCityAndState);
+    candidate['distance'] = distanceBetweenLatLngs(latLng, metroLatLng);
+    console.log('Distance: ' + candidate.distance + ' (' + candidate.line + ')');
+  }
+
+  metroCandidates.sort((a, b) => {
+    return a.distance - b.distance;
+  });
+
+  const selected = metroCandidates[0];
+  if (selected.distance > 100) {
+    console.log('Selected metro is >100 miles from city, returning null: ' + selected.line);
+    return null;
+  }
+
+  console.log('Selected metro: ' + selected.line);
+  return selected.id;
 }
 
 async function findCityRegionId(cityAndState) {
@@ -302,11 +282,11 @@ async function displayDemographicData(cityAndState) {
   checkTable(table, start, tableInsertionLogic, cityAndState);
 }
 
-async function displayWeatherData(cityAndState) {
+async function displayWeatherData(cityAndState, latLng) {
   let datasetid = 'NORMAL_MLY';
   let datatypeids = ['MLY-TMIN-NORMAL', 'MLY-TMAX-NORMAL', 'MLY-PRCP-AVGNDS-GE010HI'];
 
-  let stationsAndElevation = await fetchStationsAndElevationForCity(cityAndState, datatypeids);
+  let stationsAndElevation = await fetchStationsAndElevationForCity(cityAndState, latLng, datatypeids);
   let [stations, elevation] = stationsAndElevation;
   //console.log(stations);
 
@@ -392,11 +372,7 @@ function checkTable(table, start, tableInsertionLogic, cityAndState) {
  *   - an array of json objects representing relevant stations near the given city.
  *   - the elevation (in meters) of the given city
  */
-async function fetchStationsAndElevationForCity(cityAndState, datatypeids) {
-  let latLng = await fetchLatLngOfCity(cityAndState);
-
-  //console.log(latLng.lat + ',' + latLng.lng);
-
+async function fetchStationsAndElevationForCity(cityAndState, latLng, datatypeids) {
   let promises = [];
 
   let latOffset = milesToLatDegrees(50);
