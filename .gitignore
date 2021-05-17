@@ -37,6 +37,8 @@ ehthumbs.db
 Thumbs.db
 
 *.swp
+*.swn
+*.swo
 
 config.js
 

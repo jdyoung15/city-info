@@ -14,6 +14,11 @@
 27470,city,Trimble; MO; Kansas City; Clinton County
 22444,city,Mercer; PA; Youngstown-Warren-Boardman; Mercer County
 12959,city,New Richmond; WI; Minneapolis-St. Paul-Bloomington; Saint Croix County
+49202,city,Hurtsboro; AL; Columbus; Russell County
+27961,city,Willow Wood; OH; Huntington-Ashland; Lawrence County
+32715,city,Marshall; MO; Saline County
+39191,city,Kansas City; KS; Wyandotte County
+27782,city,Washington; GA; Wilkes County
 """
 
 import re

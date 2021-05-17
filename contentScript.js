@@ -113,7 +113,7 @@ async function displayHousingData(cityAndState) {
 
       let tableInsertionLogic = () => {
         $(table).insertBefore('.between-tables');
-        console.log('inserting housing table');
+        //console.log('inserting housing table');
         $('<div>').addClass(DIVIDER_CLASS_NAME).insertBefore('.' + table.attr('class'));
       };
 
@@ -166,7 +166,7 @@ async function findMetroRegionId(cityAndState) {
     choices.push(currentSubstring + '-' + choicesCopy[i]);
   }
 
-  console.log(choices);
+  //console.log(choices);
 
 
   fileName = 'metros.csv';
@@ -174,40 +174,71 @@ async function findMetroRegionId(cityAndState) {
   response = await fetch(url);
   text = await response.text();
 
-  const neighboringStates = states.filter(state => state.code === stateAcronym)[0].Neighborcodes;
+  const stateAndNeighbors = states.filter(state => state.code === stateAcronym)[0].Neighborcodes;
+  stateAndNeighbors.push(stateAcronym);
 
-  regexMatchingState = new RegExp('([0-9]+),metro,"(' + choices.join('|') + '), ' + stateAcronym);
-  regexNeighboringStates = new RegExp('([0-9]+),metro,"(' + choices.join('|') + '), (' + neighboringStates.join('|') + ')');
+  const regex = new RegExp('([0-9]+),metro,"(' + choices.join('|') + '), (' + stateAndNeighbors.join('|') + ')');
 
   lines = text.split("\n");
-  const matchesNeighboringStates = []
+  const metroCandidates = []
   for (let line of lines) {
-    let matches = line.match(regexMatchingState);
+    matches = line.match(regex);
     if (matches) {
-      console.log('Found metro in state: ' + line);
-      return parseInt(matches[1]);
-    }
-    matches = line.match(regexNeighboringStates);
-    if (matches) {
-      matchesNeighboringStates.push([matches[2], parseInt(matches[1]), line]);
-    }
-  }
-
-  if (matchesNeighboringStates.length == 1) {
-    console.log('Found single matching metro in neighboring state: ' + matchesNeighboringStates[0][2]);
-    return matchesNeighboringStates[0];
-  }
-
-  if (matchesNeighboringStates.length > 1) {
-    const firstWordMatches = matchesNeighboringStates.filter(match => metro.startsWith(match[0]));
-    if (firstWordMatches.length === 1) {
-      console.log('Found one of multiple metros in neighboring states: ' + firstWordMatches[0][2]);
-      return firstWordMatches[0];
+      metroCandidates.push({
+        'name': matches[2], 
+        'id': parseInt(matches[1]), 
+        'state': matches[3],
+        'line': line,
+      });
     }
   }
 
-  console.log('Error: matching metro not found');
-  return null;
+  // same state metros startsWith
+  // other same state metros
+  // neighboring state metros startsWith
+  // other neighboring state metros
+
+  if (metroCandidates.length == 1) {
+    const selected = metroCandidates[0];
+    if (selected.state === stateAcronym) {
+      console.log('Found single matching metro in same state: ' + selected.line);
+    }
+    else {
+      console.log('Found single matching metro in neighboring state: ' + selected.line);
+    }
+    return selected.id;
+  }
+  else if (metroCandidates.length > 1) {
+    const startsWithMatches = metroCandidates.filter(candidate => metro.startsWith(candidate.name));
+    const startsWithMatchesInState = startsWithMatches.filter(candidate => candidate.state === stateAcronym);
+    if (startsWithMatchesInState.length === 1) {
+      console.log('Found single matching startsWith metro in same state: ' + startsWithMatchesInState[0].line);
+      return startsWithMatchesInState[0].id;
+    }
+    else if (startsWithMatchesInState.length > 1) {
+      for (let candidate of startsWithMatchingInState) {
+        console.log('Found multiple matching startsWith metros in same state: ' + candidate.line);
+      }
+      return null;
+    }
+    else {
+      // startsWithMatches are all in neighboring states
+      if (startsWithMatches.length === 1) {
+        console.log('Found single matching startsWith metro in neighboring state: ' + startsWithMatches[0].line);
+        return startsWithMatches[0].id;
+      }
+      else {
+        for (let candidate of startsWithMatches) {
+          console.log('Found multiple matching startsWith metros in neighboring states: ' + candidate.line);
+        }
+        return null;
+      }
+    }
+  }
+  else {
+    console.log('Matching metro not found');
+    return null;
+  }
 }
 
 async function findCityRegionId(cityAndState) {
@@ -263,7 +294,7 @@ async function displayDemographicData(cityAndState) {
 
   let tableInsertionLogic = () => {
     $(table).insertBefore('.between-tables');
-    console.log('inserting demographics table');
+    //console.log('inserting demographics table');
     $('<div>').addClass(DIVIDER_CLASS_NAME).insertBefore('.' + table.attr('class'));
   };
 
@@ -324,7 +355,7 @@ async function displayWeatherData(cityAndState) {
     $(table).insertAfter('.between-tables');
     $(elevationTable).insertBefore(`.${weatherTableClassName}`);
     $('<div>').addClass(DIVIDER_CLASS_NAME + ' between-tables').insertBefore(`.${weatherTableClassName}`);
-    console.log('inserting weather and elevation tables');
+    //console.log('inserting weather and elevation tables');
   };
 
   let start = new Date();
@@ -338,7 +369,7 @@ function checkTable(table, start, tableInsertionLogic, cityAndState) {
 
   if (!$('.' + table.attr('class')).length) {
     if (!$('.between-tables').length) {
-      console.log('between-tables doesnt exist: adding');
+      //console.log('between-tables doesnt exist: adding');
       $('<div>').addClass(DIVIDER_CLASS_NAME + ' between-tables').insertAfter('.section-hero-header-title');
     }
 
@@ -351,7 +382,7 @@ function checkTable(table, start, tableInsertionLogic, cityAndState) {
     setTimeout(() => checkTable(table, start, tableInsertionLogic, cityAndState), 1000);
   }
   else {
-    console.log('done checking ' + table.attr('class'));
+    //console.log('done checking ' + table.attr('class'));
   }
 }
 
