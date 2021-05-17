@@ -1,4 +1,7 @@
 // TODO
+// - add metro housing stats
+// - add function comments
+// - object for city and state data
 // - refactor demographics and weather fetching to separate components/files
 // - more accurate median property value metric
 // - crime, price per sq ft
@@ -85,11 +88,13 @@ function sleep(milliseconds) {
 async function displayHousingData(cityAndState, latLng) {
 	let [city, stateAcronym] = cityAndState.split(',').map(x => x.trim());
 
-  const cityRegionId = await findCityRegionId(cityAndState);
+  const cityRegionInfo = await findCityRegionInfo(cityAndState);
+
+  const cityRegionId = cityRegionInfo.regionId;
   const apiKey = config.QUANDL_API_KEY;
 	let endpoint = `https://www.quandl.com/api/v3/datatables/ZILLOW/DATA?indicator_id=ZSFH&region_id=${cityRegionId}&api_key=${apiKey}`;
 
-  const metro = await findMetroRegionId(cityAndState, latLng);
+  const metro = await findMetroRegionId(cityAndState, latLng, cityRegionInfo.metro);
   console.log(metro);
 
   chrome.runtime.sendMessage( // goes to background.js
@@ -123,41 +128,15 @@ async function displayHousingData(cityAndState, latLng) {
     }); 
 }
 
-async function findMetroRegionId(cityAndState, latLng) {
+/** Returns the Zillow region id associated with the given city that belongs the given metro area. */
+async function findMetroRegionId(cityAndState, latLng, metro) {
 	let [city, stateAcronym] = cityAndState.split(',').map(x => x.trim());
-
-  let fileName = 'cities.csv';
-  let url = chrome.runtime.getURL(fileName);
-  let response = await fetch(url);
-  let text = await response.text();
-
-  const regexes = [
-    new RegExp('[0-9]+,city,' + city + '; ' + stateAcronym + '; ([^;]+);'),
-    new RegExp('[0-9]+,city,(' + city + '); ' + stateAcronym),
-  ]
-
-  let lines = text.split("\n");
-  // E.g. 'San Francisco-Oakland-Hayward'
-  let metro;
-  for (let line of lines) {
-    for (let regex of regexes) {
-      let matches = line.match(regex);
-      if (matches) {
-        metro = matches[1];
-        break;
-      }
-    }
-    if (metro) {
-      break;
-    }
-  }
 
   if (!metro) {
     console.log('Error: city metro not found');
     return null;
   }
 
-  metro = metro.replace(/[.']/g, "");
   console.log('City metro: ' + metro);
   const choices = metro.split(/[-\/]+/);
 
@@ -168,7 +147,6 @@ async function findMetroRegionId(cityAndState, latLng) {
   }
 
   //console.log(choices);
-
 
   fileName = 'metros.csv';
   url = chrome.runtime.getURL(fileName);
@@ -221,7 +199,8 @@ async function findMetroRegionId(cityAndState, latLng) {
   return selected.id;
 }
 
-async function findCityRegionId(cityAndState) {
+/** Returns an object containing info for the given city like its region id and associated metro. */
+async function findCityRegionInfo(cityAndState) {
 	let [city, stateAcronym] = cityAndState.split(',').map(x => x.trim());
 
   let fileName = 'cities.csv';
@@ -229,13 +208,20 @@ async function findCityRegionId(cityAndState) {
   let response = await fetch(url);
   let text = await response.text();
 
-  let regex = new RegExp('([0-9]+?),city,' + city + '; ' + stateAcronym);
+  const regexes = [
+    new RegExp('([0-9]+),city,' + city + '; ' + stateAcronym + '; ([^;]+);'),
+    new RegExp('([0-9]+),city,(' + city + '); ' + stateAcronym),
+  ]
 
-  let lines = text.split("\n");
-  for (let line of lines) {
-    let matches = line.match(regex);
-    if (matches) {
-      return parseInt(matches[1], 10);
+  for (let line of text.split("\n")) {
+    for (let regex of regexes) {
+      const matches = line.match(regex);
+      if (matches) {
+        return {
+          'regionId': parseInt(matches[1], 10),
+          'metro': matches[2].replace(/[.']/g, ""),
+        }
+      }
     }
   }
 
