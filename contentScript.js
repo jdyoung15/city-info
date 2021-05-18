@@ -1,9 +1,6 @@
 // TODO
 // - ordering in which tables appear
-// - add metro housing stats
-// - add function comments
 // - refactor demographics and weather fetching to separate components/files
-// - more accurate median property value metric
 // - crime, price per sq ft
 // - add walkscore for specific addresses
 // - side by side comparison?
@@ -101,22 +98,32 @@ async function displayHousingData(cityInfo) {
     return;
   }
 
-  const metro = await findMetroRegionId(cityInfo, cityRegionInfo.metro);
-  console.log(metro);
-
-  const cityRegionId = cityRegionInfo.regionId;
-  const apiKey = config.QUANDL_API_KEY;
-	let endpoint = `https://www.quandl.com/api/v3/datatables/ZILLOW/DATA?indicator_id=ZSFH&region_id=${cityRegionId}&api_key=${apiKey}`;
-
-  const json = await makeBackgroundRequest(endpoint);
-
-  let monthlyZsfh = json.datatable.data;
-  let latestMonthZsfh = monthlyZsfh[0][3];
-
   const tableData = [];
   tableData.push({
-    'label': 'ZHVI SFH', 
-    'value': latestMonthZsfh,
+    'label': 'ZHVI (SFR)', 
+    'value': await fetchQuandlData('ZSFH', cityRegionInfo.regionId),
+  });
+
+  const metroRegionId = await findMetroRegionId(cityInfo, cityRegionInfo.metro);
+
+  tableData.push({
+    'label': 'Sale Price (SFR)', 
+    'value': await fetchQuandlData('SSSM', metroRegionId),
+  });
+
+  tableData.push({
+    'label': 'Rent (all homes)', 
+    'value': await fetchQuandlData('RSNA', metroRegionId),
+  });
+
+  tableData.push({
+    'label': 'List price (SFR)', 
+    'value': await fetchQuandlData('LSSM', metroRegionId),
+  });
+
+  tableData.push({
+    'label': 'Metro: ' + cityRegionInfo.metro,
+    'value': '',
   });
 
   // Create a table displaying the housing data. It will appear in the existing 
@@ -144,7 +151,17 @@ async function displayHousingData(cityInfo) {
   checkTable(table, start, tableInsertionLogic, cityInfo.cityAndState);
 }
 
-/** Returns the json of a background request made to the given endpoint. */
+/** Returns the most recent Quandl data for the given housing indicator and region id. */
+async function fetchQuandlData(indicator, regionId) {
+  const apiKey = config.QUANDL_API_KEY;
+	let endpoint = `https://www.quandl.com/api/v3/datatables/ZILLOW/DATA?indicator_id=${indicator}&region_id=${regionId}&api_key=${apiKey}`;
+
+  const json = await makeBackgroundRequest(endpoint);
+
+  return json.datatable.data[0][3];
+}
+
+/** Issues a background request to the given endpoint and returns the response as json. Useful for bypassing 'blocked by CORS policy' issue. */
 async function makeBackgroundRequest(endpoint) {
   return new Promise((resolve, reject) => {
     chrome.runtime.sendMessage( // goes to background.js
