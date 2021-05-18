@@ -93,7 +93,7 @@ function sleep(milliseconds) {
   while (currentTime + milliseconds >= new Date().getTime()) { }
 }
 
-/** Displays housing data in the side panel of Google Maps. */
+/** Displays housing data in the sidebar of Google Maps. */
 async function displayHousingData(cityInfo) {
   const cityRegionInfo = await findCityRegionInfo(cityInfo);
 
@@ -101,30 +101,38 @@ async function displayHousingData(cityInfo) {
     return;
   }
 
+  const metro = await findMetroRegionId(cityInfo, cityRegionInfo.metro);
+  console.log(metro);
+
   const cityRegionId = cityRegionInfo.regionId;
   const apiKey = config.QUANDL_API_KEY;
 	let endpoint = `https://www.quandl.com/api/v3/datatables/ZILLOW/DATA?indicator_id=ZSFH&region_id=${cityRegionId}&api_key=${apiKey}`;
-
-  const metro = await findMetroRegionId(cityInfo, cityRegionInfo.metro);
-  console.log(metro);
 
   const json = await makeBackgroundRequest(endpoint);
 
   let monthlyZsfh = json.datatable.data;
   let latestMonthZsfh = monthlyZsfh[0][3];
 
+  const tableData = [];
+  tableData.push({
+    'label': 'ZHVI SFH', 
+    'value': latestMonthZsfh,
+  });
+
   // Create a table displaying the housing data. It will appear in the existing 
   // Google Maps sidebar.
   let table = $('<table>').css('margin', '10px').addClass('housing-table');
 
-  let row = $('<tr>');
-  let labelTd = $('<td>').text('ZHVI SFH').css('width', LABEL_DEFAULT_WIDTH);
-  let stat = formatWithCommas(latestMonthZsfh);
-  let unit = '$';
-  let dataTd = $('<td>').text(unit + stat);
-  row.append(labelTd);
-  row.append(dataTd);
-  table.append(row);
+  for (let datum of tableData) {
+    let row = $('<tr>');
+    let labelTd = $('<td>').text(datum.label).css('width', LABEL_DEFAULT_WIDTH);
+    let stat = formatWithCommas(datum.value);
+    let unit = '$';
+    let dataTd = $('<td>').text(unit + stat);
+    row.append(labelTd);
+    row.append(dataTd);
+    table.append(row);
+  }
 
   let tableInsertionLogic = () => {
     $(table).insertBefore('.between-tables');
@@ -136,6 +144,7 @@ async function displayHousingData(cityInfo) {
   checkTable(table, start, tableInsertionLogic, cityInfo.cityAndState);
 }
 
+/** Returns the json of a background request made to the given endpoint. */
 async function makeBackgroundRequest(endpoint) {
   return new Promise((resolve, reject) => {
     chrome.runtime.sendMessage( // goes to background.js
@@ -244,7 +253,7 @@ async function findCityRegionInfo(cityInfo) {
   return null;
 }
 
-/** Displays demographic data in the side panel of Google Maps. */
+/** Displays demographic data in the sidebar of Google Maps. */
 async function displayDemographicData(cityInfo) {
   const city = cityInfo.name;
   const state = cityInfo.state;
@@ -285,7 +294,7 @@ async function displayDemographicData(cityInfo) {
   checkTable(table, start, tableInsertionLogic, cityInfo.cityAndState);
 }
 
-/** Displays weather data in the side panel of Google Maps. */
+/** Displays weather data in the sidebar of Google Maps. */
 async function displayWeatherData(cityInfo) {
   let datasetid = 'NORMAL_MLY';
   let datatypeids = ['MLY-TMIN-NORMAL', 'MLY-TMAX-NORMAL', 'MLY-PRCP-AVGNDS-GE010HI'];
