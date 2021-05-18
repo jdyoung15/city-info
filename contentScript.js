@@ -97,6 +97,10 @@ function sleep(milliseconds) {
 async function displayHousingData(cityInfo) {
   const cityRegionInfo = await findCityRegionInfo(cityInfo);
 
+  if (!cityRegionInfo) {
+    return;
+  }
+
   const cityRegionId = cityRegionInfo.regionId;
   const apiKey = config.QUANDL_API_KEY;
 	let endpoint = `https://www.quandl.com/api/v3/datatables/ZILLOW/DATA?indicator_id=ZSFH&region_id=${cityRegionId}&api_key=${apiKey}`;
@@ -104,35 +108,41 @@ async function displayHousingData(cityInfo) {
   const metro = await findMetroRegionId(cityInfo, cityRegionInfo.metro);
   console.log(metro);
 
-  chrome.runtime.sendMessage( // goes to background.js
-    endpoint,
-    response => {
-      let json = JSON.parse(response);
-      let monthlyZsfh = json.datatable.data;
-      let latestMonthZsfh = monthlyZsfh[0][3];
+  const json = await makeBackgroundRequest(endpoint);
 
-      // Create a table displaying the housing data. It will appear in the existing 
-      // Google Maps sidebar.
-      let table = $('<table>').css('margin', '10px').addClass('housing-table');
+  let monthlyZsfh = json.datatable.data;
+  let latestMonthZsfh = monthlyZsfh[0][3];
 
-      let row = $('<tr>');
-      let labelTd = $('<td>').text('ZHVI SFH').css('width', LABEL_DEFAULT_WIDTH);
-      let stat = formatWithCommas(latestMonthZsfh);
-      let unit = '$';
-      let dataTd = $('<td>').text(unit + stat);
-      row.append(labelTd);
-      row.append(dataTd);
-      table.append(row);
+  // Create a table displaying the housing data. It will appear in the existing 
+  // Google Maps sidebar.
+  let table = $('<table>').css('margin', '10px').addClass('housing-table');
 
-      let tableInsertionLogic = () => {
-        $(table).insertBefore('.between-tables');
-        //console.log('inserting housing table');
-        $('<div>').addClass(DIVIDER_CLASS_NAME).insertBefore('.' + table.attr('class'));
-      };
+  let row = $('<tr>');
+  let labelTd = $('<td>').text('ZHVI SFH').css('width', LABEL_DEFAULT_WIDTH);
+  let stat = formatWithCommas(latestMonthZsfh);
+  let unit = '$';
+  let dataTd = $('<td>').text(unit + stat);
+  row.append(labelTd);
+  row.append(dataTd);
+  table.append(row);
 
-      let start = new Date();
-      checkTable(table, start, tableInsertionLogic, cityInfo.cityAndState);
-    }); 
+  let tableInsertionLogic = () => {
+    $(table).insertBefore('.between-tables');
+    //console.log('inserting housing table');
+    $('<div>').addClass(DIVIDER_CLASS_NAME).insertBefore('.' + table.attr('class'));
+  };
+
+  let start = new Date();
+  checkTable(table, start, tableInsertionLogic, cityInfo.cityAndState);
+}
+
+async function makeBackgroundRequest(endpoint) {
+  return new Promise((resolve, reject) => {
+    chrome.runtime.sendMessage( // goes to background.js
+      endpoint,
+      response => resolve(JSON.parse(response))
+    );
+  });
 }
 
 /** Returns the Zillow region id for the given metro that encompasses the given city. */
