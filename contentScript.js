@@ -1,7 +1,6 @@
 // TODO
 // - add metro housing stats
 // - add function comments
-// - object for city and state data
 // - refactor demographics and weather fetching to separate components/files
 // - more accurate median property value metric
 // - crime, price per sq ft
@@ -72,12 +71,20 @@ setInterval(async function() {
 		return;
 	}
 
-  const latLng = await fetchLatLngOfCity(currentPlace);
   //console.log('current place ' + currentPlace);
 
-  displayHousingData(currentPlace, latLng);
-  displayDemographicData(currentPlace);
-  displayWeatherData(currentPlace, latLng);
+	let [city, stateAcronym] = currentPlace.split(',').map(x => x.trim());
+  const latLng = await fetchLatLngOfCity(city, stateAcronym);
+  const cityInfo = {
+    'name': city,
+    'state': stateAcronym,
+    'latLng': latLng,
+    'cityAndState': currentPlace,
+  };
+
+  displayHousingData(cityInfo);
+  displayDemographicData(cityInfo);
+  displayWeatherData(cityInfo);
 }, 1000);
 
 function sleep(milliseconds) {
@@ -85,16 +92,14 @@ function sleep(milliseconds) {
   while (currentTime + milliseconds >= new Date().getTime()) { }
 }
 
-async function displayHousingData(cityAndState, latLng) {
-	let [city, stateAcronym] = cityAndState.split(',').map(x => x.trim());
-
-  const cityRegionInfo = await findCityRegionInfo(cityAndState);
+async function displayHousingData(cityInfo) {
+  const cityRegionInfo = await findCityRegionInfo(cityInfo);
 
   const cityRegionId = cityRegionInfo.regionId;
   const apiKey = config.QUANDL_API_KEY;
 	let endpoint = `https://www.quandl.com/api/v3/datatables/ZILLOW/DATA?indicator_id=ZSFH&region_id=${cityRegionId}&api_key=${apiKey}`;
 
-  const metro = await findMetroRegionId(cityAndState, latLng, cityRegionInfo.metro);
+  const metro = await findMetroRegionId(cityInfo, cityRegionInfo.metro);
   console.log(metro);
 
   chrome.runtime.sendMessage( // goes to background.js
@@ -124,14 +129,12 @@ async function displayHousingData(cityAndState, latLng) {
       };
 
       let start = new Date();
-      checkTable(table, start, tableInsertionLogic, cityAndState);
+      checkTable(table, start, tableInsertionLogic, cityInfo.cityAndState);
     }); 
 }
 
-/** Returns the Zillow region id associated with the given city that belongs the given metro area. */
-async function findMetroRegionId(cityAndState, latLng, metro) {
-	let [city, stateAcronym] = cityAndState.split(',').map(x => x.trim());
-
+/** Returns the Zillow region id for the given metro that encompasses the given city. */
+async function findMetroRegionId(cityInfo, metro) {
   if (!metro) {
     console.log('Error: city metro not found');
     return null;
@@ -153,8 +156,9 @@ async function findMetroRegionId(cityAndState, latLng, metro) {
   response = await fetch(url);
   text = await response.text();
 
-  const stateAndNeighbors = states.filter(state => state.code === stateAcronym)[0].Neighborcodes;
-  stateAndNeighbors.push(stateAcronym);
+  const cityState = cityInfo.state;
+  const stateAndNeighbors = states.filter(state => state.code === cityState)[0].Neighborcodes;
+  stateAndNeighbors.push(cityState);
 
   const regex = new RegExp('([0-9]+),metro,"(' + choices.join('|') + '), (' + stateAndNeighbors.join('|') + ')');
 
@@ -179,9 +183,8 @@ async function findMetroRegionId(cityAndState, latLng, metro) {
 
   for (let candidate of metroCandidates) {
     const firstCity = candidate.name.split('-')[0];
-    const metroCityAndState = firstCity + ', ' + candidate.state;
-    const metroLatLng = await fetchLatLngOfCity(metroCityAndState);
-    candidate['distance'] = distanceBetweenLatLngs(latLng, metroLatLng);
+    const metroLatLng = await fetchLatLngOfCity(firstCity, candidate.state);
+    candidate['distance'] = distanceBetweenLatLngs(cityInfo.latLng, metroLatLng);
     console.log('Distance: ' + candidate.distance + ' (' + candidate.line + ')');
   }
 
@@ -199,9 +202,10 @@ async function findMetroRegionId(cityAndState, latLng, metro) {
   return selected.id;
 }
 
-/** Returns an object containing info for the given city like its region id and associated metro. */
-async function findCityRegionInfo(cityAndState) {
-	let [city, stateAcronym] = cityAndState.split(',').map(x => x.trim());
+/** Returns an object containing info for the given city like its Zillow region id and encompassing metro. */
+async function findCityRegionInfo(cityInfo) {
+	const city = cityInfo.name;
+  const state = cityInfo.state;
 
   let fileName = 'cities.csv';
   let url = chrome.runtime.getURL(fileName);
@@ -209,8 +213,8 @@ async function findCityRegionInfo(cityAndState) {
   let text = await response.text();
 
   const regexes = [
-    new RegExp('([0-9]+),city,' + city + '; ' + stateAcronym + '; ([^;]+);'),
-    new RegExp('([0-9]+),city,(' + city + '); ' + stateAcronym),
+    new RegExp('([0-9]+),city,' + city + '; ' + state+ '; ([^;]+);'),
+    new RegExp('([0-9]+),city,(' + city + '); ' + state),
   ]
 
   for (let line of text.split("\n")) {
@@ -229,12 +233,13 @@ async function findCityRegionInfo(cityAndState) {
   return null;
 }
 
-async function displayDemographicData(cityAndState) {
-	let [city, stateAcronym] = cityAndState.split(',').map(x => x.trim());
+async function displayDemographicData(cityInfo) {
+  const city = cityInfo.name;
+  const state = cityInfo.state;
 
 	// Get the FIPS code for the city. We need this for the demographics API call.
-  let stateFips = await fetchStateFips(stateAcronym);
-  let cityFips = await fetchCityFips(city, stateFips, stateAcronym);
+  let stateFips = await fetchStateFips(state);
+  let cityFips = await fetchCityFips(city, stateFips, state);
 
 	// Get the city-specific demographic data, including population, 
   // median property value, etc.
@@ -265,14 +270,14 @@ async function displayDemographicData(cityAndState) {
   };
 
   let start = new Date();
-  checkTable(table, start, tableInsertionLogic, cityAndState);
+  checkTable(table, start, tableInsertionLogic, cityInfo.cityAndState);
 }
 
-async function displayWeatherData(cityAndState, latLng) {
+async function displayWeatherData(cityInfo) {
   let datasetid = 'NORMAL_MLY';
   let datatypeids = ['MLY-TMIN-NORMAL', 'MLY-TMAX-NORMAL', 'MLY-PRCP-AVGNDS-GE010HI'];
 
-  let stationsAndElevation = await fetchStationsAndElevationForCity(cityAndState, latLng, datatypeids);
+  let stationsAndElevation = await fetchStationsAndElevationForCity(cityInfo.latLng, datatypeids);
   let [stations, elevation] = stationsAndElevation;
   //console.log(stations);
 
@@ -325,7 +330,7 @@ async function displayWeatherData(cityAndState, latLng) {
   };
 
   let start = new Date();
-  checkTable(table, start, tableInsertionLogic, cityAndState);
+  checkTable(table, start, tableInsertionLogic, cityInfo.cityAndState);
 }
 
 function checkTable(table, start, tableInsertionLogic, cityAndState) {
@@ -358,7 +363,7 @@ function checkTable(table, start, tableInsertionLogic, cityAndState) {
  *   - an array of json objects representing relevant stations near the given city.
  *   - the elevation (in meters) of the given city
  */
-async function fetchStationsAndElevationForCity(cityAndState, latLng, datatypeids) {
+async function fetchStationsAndElevationForCity(latLng, datatypeids) {
   let promises = [];
 
   let latOffset = milesToLatDegrees(50);
@@ -579,9 +584,9 @@ function calculateMilesPerDegreeLng(lat) {
  * representing the given city. The latitude and longitude will 
  * generally be at a relevant central location within the city (e.g. downtown).
  */
-async function fetchLatLngOfCity(cityAndState) {
+async function fetchLatLngOfCity(city, state) {
   let apiKey = config.MAP_QUEST_API_KEY;
-  let endpoint = `https://www.mapquestapi.com/geocoding/v1/address?key=${apiKey}&inFormat=kvp&outFormat=json&location=${cityAndState}&thumbMaps=false`;
+  let endpoint = `https://www.mapquestapi.com/geocoding/v1/address?key=${apiKey}&inFormat=kvp&outFormat=json&location=${city}, ${state}&thumbMaps=false`;
 
 	let response = await fetch(endpoint);
 	let json = await response.json();
