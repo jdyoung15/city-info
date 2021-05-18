@@ -104,7 +104,8 @@ async function displayHousingData(cityInfo) {
     'value': await fetchQuandlData('ZSFH', cityRegionInfo.regionId),
   });
 
-  const metroRegionId = await findMetroRegionId(cityInfo, cityRegionInfo.metro);
+  const metroRegionInfo = await findMetroRegionInfo(cityInfo, cityRegionInfo.metro);
+  const metroRegionId = metroRegionInfo.regionId;
 
   tableData.push({
     'label': 'Sale Price (SFR)', 
@@ -122,7 +123,12 @@ async function displayHousingData(cityInfo) {
   });
 
   tableData.push({
-    'label': 'Metro: ' + cityRegionInfo.metro,
+    'label': 'City metro: ' + cityRegionInfo.metro,
+    'value': '',
+  });
+
+  tableData.push({
+    'label': 'Metro: ' + metroRegionInfo.name + ', ' + metroRegionInfo.state,
     'value': '',
   });
 
@@ -133,8 +139,8 @@ async function displayHousingData(cityInfo) {
   for (let datum of tableData) {
     let row = $('<tr>');
     let labelTd = $('<td>').text(datum.label).css('width', LABEL_DEFAULT_WIDTH);
-    let stat = formatWithCommas(datum.value);
-    let unit = '$';
+    let stat = typeof(datum.value) === 'number' ? formatWithCommas(datum.value) : datum.value;
+    let unit = stat ? '$' : '';
     let dataTd = $('<td>').text(unit + stat);
     row.append(labelTd);
     row.append(dataTd);
@@ -158,7 +164,12 @@ async function fetchQuandlData(indicator, regionId) {
 
   const json = await makeBackgroundRequest(endpoint);
 
-  return json.datatable.data[0][3];
+  const data = json.datatable.data;
+  if (data.length === 0) {
+    return null;
+  }
+
+  return data[0][3];
 }
 
 /** Issues a background request to the given endpoint and returns the response as json. Useful for bypassing 'blocked by CORS policy' issue. */
@@ -172,7 +183,7 @@ async function makeBackgroundRequest(endpoint) {
 }
 
 /** Returns the Zillow region id for the given metro that encompasses the given city. */
-async function findMetroRegionId(cityInfo, metro) {
+async function findMetroRegionInfo(cityInfo, metro) {
   console.log('City metro: ' + metro);
   
   // E.g. ['San Francisco', 'Oakland', 'Hayward']
@@ -182,7 +193,8 @@ async function findMetroRegionId(cityInfo, metro) {
   let currentSubstring = metroPartsCopy[0];
   // E.g. add 'San Francisco-Oakland' and 'San Francisco-Oakland-Hayward' to the array
   for (let i = 1; i < metroPartsCopy.length; i++) {
-    metroParts.push(currentSubstring + '-' + metroPartsCopy[i]);
+    currentSubstring += '-' + metroPartsCopy[i];
+    metroParts.push(currentSubstring);
   }
 
   //console.log(metroParts);
@@ -205,7 +217,7 @@ async function findMetroRegionId(cityInfo, metro) {
     if (matches) {
       metroCandidates.push({
         'name': matches[2], 
-        'id': parseInt(matches[1]), 
+        'regionId': parseInt(matches[1]), 
         'state': matches[3],
         'line': line,
       });
@@ -236,7 +248,7 @@ async function findMetroRegionId(cityInfo, metro) {
   }
 
   console.log('Selected metro: ' + selected.line);
-  return selected.id;
+  return selected;
 }
 
 /** Returns an object containing info for the given city like its Zillow region id and encompassing metro. */
@@ -775,7 +787,7 @@ async function fetchDemographicData(cityFips, stateFips, joinedCensusCodes) {
  * E.g. 9999 -> '9,999'
  */
 function formatWithCommas(num) {
-    return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+  return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
 
 stateNeighbors = [
