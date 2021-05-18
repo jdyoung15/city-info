@@ -1,4 +1,5 @@
 // TODO
+// - ordering in which tables appear
 // - add metro housing stats
 // - add function comments
 // - refactor demographics and weather fetching to separate components/files
@@ -92,6 +93,7 @@ function sleep(milliseconds) {
   while (currentTime + milliseconds >= new Date().getTime()) { }
 }
 
+/** Displays housing data in the side panel of Google Maps. */
 async function displayHousingData(cityInfo) {
   const cityRegionInfo = await findCityRegionInfo(cityInfo);
 
@@ -135,21 +137,19 @@ async function displayHousingData(cityInfo) {
 
 /** Returns the Zillow region id for the given metro that encompasses the given city. */
 async function findMetroRegionId(cityInfo, metro) {
-  if (!metro) {
-    console.log('Error: city metro not found');
-    return null;
-  }
-
   console.log('City metro: ' + metro);
-  const choices = metro.split(/[-\/]+/);
+  
+  // E.g. ['San Francisco', 'Oakland', 'Hayward']
+  const metroParts = metro.split(/[-\/]+/);
 
-  const choicesCopy = [...choices];
-  let currentSubstring = choicesCopy[0];
-  for (let i = 1; i < choicesCopy.length; i++) {
-    choices.push(currentSubstring + '-' + choicesCopy[i]);
+  const metroPartsCopy = [...metroParts];
+  let currentSubstring = metroPartsCopy[0];
+  // E.g. add 'San Francisco-Oakland' and 'San Francisco-Oakland-Hayward' to the array
+  for (let i = 1; i < metroPartsCopy.length; i++) {
+    metroParts.push(currentSubstring + '-' + metroPartsCopy[i]);
   }
 
-  //console.log(choices);
+  //console.log(metroParts);
 
   fileName = 'metros.csv';
   url = chrome.runtime.getURL(fileName);
@@ -157,13 +157,13 @@ async function findMetroRegionId(cityInfo, metro) {
   text = await response.text();
 
   const cityState = cityInfo.state;
-  const stateAndNeighbors = states.filter(state => state.code === cityState)[0].Neighborcodes;
+  const stateAndNeighbors = stateNeighbors.filter(s => s.state === cityState)[0].neighbors;
   stateAndNeighbors.push(cityState);
 
-  const regex = new RegExp('([0-9]+),metro,"(' + choices.join('|') + '), (' + stateAndNeighbors.join('|') + ')');
+  const regex = new RegExp('([0-9]+),metro,"(' + metroParts.join('|') + '), (' + stateAndNeighbors.join('|') + ')');
 
   lines = text.split("\n");
-  const metroCandidates = []
+  const metroCandidates = [];
   for (let line of lines) {
     matches = line.match(regex);
     if (matches) {
@@ -188,11 +188,12 @@ async function findMetroRegionId(cityInfo, metro) {
     console.log('Distance: ' + candidate.distance + ' (' + candidate.line + ')');
   }
 
-  metroCandidates.sort((a, b) => {
-    return a.distance - b.distance;
-  });
+  metroCandidates.sort((a, b) => a.distance - b.distance);
 
+  // If there are multiple possible metros, we want the metro that is nearest to the given city
   const selected = metroCandidates[0];
+
+  // However, ensure the nearest metro is actually near the given city
   if (selected.distance > 100) {
     console.log('Selected metro is >100 miles from city, returning null: ' + selected.line);
     return null;
@@ -233,6 +234,7 @@ async function findCityRegionInfo(cityInfo) {
   return null;
 }
 
+/** Displays demographic data in the side panel of Google Maps. */
 async function displayDemographicData(cityInfo) {
   const city = cityInfo.name;
   const state = cityInfo.state;
@@ -273,6 +275,7 @@ async function displayDemographicData(cityInfo) {
   checkTable(table, start, tableInsertionLogic, cityInfo.cityAndState);
 }
 
+/** Displays weather data in the side panel of Google Maps. */
 async function displayWeatherData(cityInfo) {
   let datasetid = 'NORMAL_MLY';
   let datatypeids = ['MLY-TMIN-NORMAL', 'MLY-TMAX-NORMAL', 'MLY-PRCP-AVGNDS-GE010HI'];
@@ -739,209 +742,209 @@ function formatWithCommas(num) {
     return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
 
-states = [
+stateNeighbors = [
   {
-    "code": "AK",
-    "Neighborcodes": [ ]
+    "state": "AK",
+    "neighbors": [ ]
   },
   {
-    "code": "AL",
-    "Neighborcodes": [ "FL", "GA", "MS", "TN" ]
+    "state": "AL",
+    "neighbors": [ "FL", "GA", "MS", "TN" ]
   },
   {
-    "code": "AR",
-    "Neighborcodes": [ "LA", "MO", "MS", "OK", "TN", "TX" ]
+    "state": "AR",
+    "neighbors": [ "LA", "MO", "MS", "OK", "TN", "TX" ]
   },
   {
-    "code": "AZ",
-    "Neighborcodes": [ "CA", "CO", "NM", "NV", "UT" ]
+    "state": "AZ",
+    "neighbors": [ "CA", "CO", "NM", "NV", "UT" ]
   },
   {
-    "code": "CA",
-    "Neighborcodes": [ "AZ", "NV", "OR" ]
+    "state": "CA",
+    "neighbors": [ "AZ", "NV", "OR" ]
   },
   {
-    "code": "CO",
-    "Neighborcodes": [ "AZ", "KS", "NE", "NM", "OK", "UT", "WY" ]
+    "state": "CO",
+    "neighbors": [ "AZ", "KS", "NE", "NM", "OK", "UT", "WY" ]
   },
   {
-    "code": "CT",
-    "Neighborcodes": [ "MA", "NY", "RI" ]
+    "state": "CT",
+    "neighbors": [ "MA", "NY", "RI" ]
   },
   {
-    "code": "DC",
-    "Neighborcodes": [ "MD", "VA" ]
+    "state": "DC",
+    "neighbors": [ "MD", "VA" ]
   },
   {
-    "code": "DE",
-    "Neighborcodes": [ "MD", "NJ", "PA" ]
+    "state": "DE",
+    "neighbors": [ "MD", "NJ", "PA" ]
   },
   {
-    "code": "FL",
-    "Neighborcodes": [ "AL", "GA" ]
+    "state": "FL",
+    "neighbors": [ "AL", "GA" ]
   },
   {
-    "code": "GA",
-    "Neighborcodes": [ "AL", "FL", "NC", "SC", "TN" ]
+    "state": "GA",
+    "neighbors": [ "AL", "FL", "NC", "SC", "TN" ]
   },
   {
-    "code": "HI",
-    "Neighborcodes": [ ]
+    "state": "HI",
+    "neighbors": [ ]
   },
   {
-    "code": "IA",
-    "Neighborcodes": [ "IL", "MN", "MO", "NE", "SD", "WI" ]
+    "state": "IA",
+    "neighbors": [ "IL", "MN", "MO", "NE", "SD", "WI" ]
   },
   {
-    "code": "ID",
-    "Neighborcodes": [ "MT", "NV", "OR", "UT", "WA", "WY" ]
+    "state": "ID",
+    "neighbors": [ "MT", "NV", "OR", "UT", "WA", "WY" ]
   },
   {
-    "code": "IL",
-    "Neighborcodes": [ "IA", "IN", "KY", "MO", "WI" ]
+    "state": "IL",
+    "neighbors": [ "IA", "IN", "KY", "MO", "WI" ]
   },
   {
-    "code": "IN",
-    "Neighborcodes": [ "IL", "KY", "MO", "OH", "WI" ]
+    "state": "IN",
+    "neighbors": [ "IL", "KY", "MO", "OH", "WI" ]
   },
   {
-    "code": "KS",
-    "Neighborcodes": [ "CO", "MO", "NE", "OK" ]
+    "state": "KS",
+    "neighbors": [ "CO", "MO", "NE", "OK" ]
   },
   {
-    "code": "KY",
-    "Neighborcodes": [ "IL", "IN", "MO", "OH", "TN", "VA", "WV" ]
+    "state": "KY",
+    "neighbors": [ "IL", "IN", "MO", "OH", "TN", "VA", "WV" ]
   },
   {
-    "code": "LA",
-    "Neighborcodes": [ "AR", "MS", "TX" ]
+    "state": "LA",
+    "neighbors": [ "AR", "MS", "TX" ]
   },
   {
-    "code": "MA",
-    "Neighborcodes": [ "CT", "NH", "NY", "RI", "VT" ]
+    "state": "MA",
+    "neighbors": [ "CT", "NH", "NY", "RI", "VT" ]
   },
   {
-    "code": "MD",
-    "Neighborcodes": [ "DC", "DE", "PA", "VA", "WV" ]
+    "state": "MD",
+    "neighbors": [ "DC", "DE", "PA", "VA", "WV" ]
   },
   {
-    "code": "ME",
-    "Neighborcodes": [ "NH" ]
+    "state": "ME",
+    "neighbors": [ "NH" ]
   },
   {
-    "code": "MI",
-    "Neighborcodes": [ "IN", "OH", "WI" ]
+    "state": "MI",
+    "neighbors": [ "IN", "OH", "WI" ]
   },
   {
-    "code": "MN",
-    "Neighborcodes": [ "IA", "ND", "SD", "WI" ]
+    "state": "MN",
+    "neighbors": [ "IA", "ND", "SD", "WI" ]
   },
   {
-    "code": "MO",
-    "Neighborcodes": [ "AR", "IA", "IL", "KS", "KY", "NE", "OK", "TN" ]
+    "state": "MO",
+    "neighbors": [ "AR", "IA", "IL", "KS", "KY", "NE", "OK", "TN" ]
   },
   {
-    "code": "MS",
-    "Neighborcodes": [ "AL", "AR", "LA", "TN" ]
+    "state": "MS",
+    "neighbors": [ "AL", "AR", "LA", "TN" ]
   },
   {
-    "code": "MT",
-    "Neighborcodes": [ "ID", "ND", "SD", "WY" ]
+    "state": "MT",
+    "neighbors": [ "ID", "ND", "SD", "WY" ]
   },
   {
-    "code": "NC",
-    "Neighborcodes": [ "GA", "SC", "TN", "VA" ]
+    "state": "NC",
+    "neighbors": [ "GA", "SC", "TN", "VA" ]
   },
   {
-    "code": "ND",
-    "Neighborcodes": [ "MN", "MT", "SD" ]
+    "state": "ND",
+    "neighbors": [ "MN", "MT", "SD" ]
   },
   {
-    "code": "NE",
-    "Neighborcodes": [ "CO", "IA", "KS", "MO", "SD", "WY" ]
+    "state": "NE",
+    "neighbors": [ "CO", "IA", "KS", "MO", "SD", "WY" ]
   },
   {
-    "code": "NH",
-    "Neighborcodes": [ "MA", "ME", "VT" ]
+    "state": "NH",
+    "neighbors": [ "MA", "ME", "VT" ]
   },
   {
-    "code": "NJ",
-    "Neighborcodes": [ "DE", "NY", "PA" ]
+    "state": "NJ",
+    "neighbors": [ "DE", "NY", "PA" ]
   },
   {
-    "code": "NM",
-    "Neighborcodes": [ "AZ", "CO", "OK", "TX", "UT" ]
+    "state": "NM",
+    "neighbors": [ "AZ", "CO", "OK", "TX", "UT" ]
   },
   {
-    "code": "NV",
-    "Neighborcodes": [ "AZ", "CA", "ID", "OR", "UT" ]
+    "state": "NV",
+    "neighbors": [ "AZ", "CA", "ID", "OR", "UT" ]
   },
   {
-    "code": "NY",
-    "Neighborcodes": [ "CT", "MA", "NJ", "PA", "VT" ]
+    "state": "NY",
+    "neighbors": [ "CT", "MA", "NJ", "PA", "VT" ]
   },
   {
-    "code": "OH",
-    "Neighborcodes": [ "IN", "KY", "MI", "PA", "WV" ]
+    "state": "OH",
+    "neighbors": [ "IN", "KY", "MI", "PA", "WV" ]
   },
   {
-    "code": "OK",
-    "Neighborcodes": [ "AR", "CO", "KS", "MO", "NM", "TX" ]
+    "state": "OK",
+    "neighbors": [ "AR", "CO", "KS", "MO", "NM", "TX" ]
   },
   {
-    "code": "OR",
-    "Neighborcodes": [ "CA", "ID", "NV", "WA" ]
+    "state": "OR",
+    "neighbors": [ "CA", "ID", "NV", "WA" ]
   },
   {
-    "code": "PA",
-    "Neighborcodes": [ "DE", "MD", "NJ", "NY", "OH", "WV" ]
+    "state": "PA",
+    "neighbors": [ "DE", "MD", "NJ", "NY", "OH", "WV" ]
   },
   {
-    "code": "RI",
-    "Neighborcodes": [ "CT", "MA" ]
+    "state": "RI",
+    "neighbors": [ "CT", "MA" ]
   },
   {
-    "code": "SC",
-    "Neighborcodes": [ "GA", "NC" ]
+    "state": "SC",
+    "neighbors": [ "GA", "NC" ]
   },
   {
-    "code": "SD",
-    "Neighborcodes": [ "IA", "MN", "MT", "ND", "NE", "WY" ]
+    "state": "SD",
+    "neighbors": [ "IA", "MN", "MT", "ND", "NE", "WY" ]
   },
   {
-    "code": "TN",
-    "Neighborcodes": [ "AL", "AR", "GA", "KY", "MO", "MS", "NC", "VA" ]
+    "state": "TN",
+    "neighbors": [ "AL", "AR", "GA", "KY", "MO", "MS", "NC", "VA" ]
   },
   {
-    "code": "TX",
-    "Neighborcodes": [ "AR", "LA", "NM", "OK" ]
+    "state": "TX",
+    "neighbors": [ "AR", "LA", "NM", "OK" ]
   },
   {
-    "code": "UT",
-    "Neighborcodes": [ "AZ", "CO", "ID", "NM", "NV", "WY" ]
+    "state": "UT",
+    "neighbors": [ "AZ", "CO", "ID", "NM", "NV", "WY" ]
   },
   {
-    "code": "VA",
-    "Neighborcodes": [ "DC", "KY", "MD", "NC", "TN", "WV" ]
+    "state": "VA",
+    "neighbors": [ "DC", "KY", "MD", "NC", "TN", "WV" ]
   },
   {
-    "code": "VT",
-    "Neighborcodes": [ "MA", "NH", "NY" ]
+    "state": "VT",
+    "neighbors": [ "MA", "NH", "NY" ]
   },
   {
-    "code": "WA",
-    "Neighborcodes": [ "ID", "OR" ]
+    "state": "WA",
+    "neighbors": [ "ID", "OR" ]
   },
   {
-    "code": "WI",
-    "Neighborcodes": [ "IA", "IL", "MI", "MN" ]
+    "state": "WI",
+    "neighbors": [ "IA", "IL", "MI", "MN" ]
   },
   {
-    "code": "WV",
-    "Neighborcodes": [ "KY", "MD", "OH", "PA", "VA" ]
+    "state": "WV",
+    "neighbors": [ "KY", "MD", "OH", "PA", "VA" ]
   },
   {
-    "code": "WY",
-    "Neighborcodes": [ "CO", "ID", "MT", "NE", "SD", "UT" ]
+    "state": "WY",
+    "neighbors": [ "CO", "ID", "MT", "NE", "SD", "UT" ]
   }
 ];
