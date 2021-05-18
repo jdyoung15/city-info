@@ -1,6 +1,7 @@
 // TODO
 // - ordering in which tables appear
 // - support US metro
+// - refactor states data to separate file
 // - refactor demographics and weather fetching to separate components/files
 // - crime, price per sq ft
 // - add walkscore for specific addresses
@@ -54,6 +55,12 @@ const DIVIDER_CLASS_NAME = 'mapsConsumerUiSubviewSectionGm2Divider__divider';
 
 const LABEL_DEFAULT_WIDTH = '290px';
 
+const METRO_TABLE_METADATA = [
+  { 'label': 'Sale Price (SFR)', 'indicator': 'SSSM' },
+  { 'label': 'Rent (all homes)', 'indicator': 'RSNA' },
+  { 'label': 'List Price (SFR)', 'indicator': 'LSSM' },
+];
+
 let currentPlace = extractPlace(location.href);
 let initialCurrentPlace = currentPlace;
 
@@ -69,6 +76,8 @@ setInterval(async function() {
 	if (currentPlace === null) {
 		return;
 	}
+
+  console.clear();
 
   //console.log('current place ' + currentPlace);
 
@@ -106,36 +115,32 @@ async function displayHousingData(cityInfo) {
   });
 
   const metroRegionInfo = await findMetroRegionInfo(cityInfo, cityRegionInfo.metro);
-  const metroRegionId = metroRegionInfo.regionId;
+  if (metroRegionInfo) {
+    const metroRegionId = metroRegionInfo.regionId;
 
-  const metroTableMetadata = [
-    { 'label': 'Sale Price (SFR)', 'indicator': 'SSSM' },
-    { 'label': 'Rent (all homes)', 'indicator': 'RSNA' },
-    { 'label': 'List Price (SFR)', 'indicator': 'LSSM' },
-  ];
+    for (let metadatum of METRO_TABLE_METADATA) {
+      const value = await fetchQuandlData(metadatum.indicator, metroRegionId);
+      if (!value) {
+        console.log('Metro does not support specified data');
+        break;
+      }
 
-  for (let metadatum of metroTableMetadata) {
-    const value = await fetchQuandlData(metadatum.indicator, metroRegionId);
-    if (!value) {
-      console.log('Metro does not support specified data');
-      break;
+      tableData.push({
+        'label': metadatum.label, 
+        'value': value,
+      });
     }
 
     tableData.push({
-      'label': metadatum.label, 
-      'value': value,
+      'label': 'City metro: ' + cityRegionInfo.metro,
+      'value': '',
+    });
+
+    tableData.push({
+      'label': 'Metro: ' + metroRegionInfo.name + ', ' + metroRegionInfo.state,
+      'value': '',
     });
   }
-
-  tableData.push({
-    'label': 'City metro: ' + cityRegionInfo.metro,
-    'value': '',
-  });
-
-  tableData.push({
-    'label': 'Metro: ' + metroRegionInfo.name + ', ' + metroRegionInfo.state,
-    'value': '',
-  });
 
   // Create a table displaying the housing data. It will appear in the existing 
   // Google Maps sidebar.
