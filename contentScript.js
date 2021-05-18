@@ -1,5 +1,6 @@
 // TODO
 // - ordering in which tables appear
+// - support US metro
 // - refactor demographics and weather fetching to separate components/files
 // - crime, price per sq ft
 // - add walkscore for specific addresses
@@ -794,6 +795,11 @@ function formatWithCommas(num) {
   return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
 
+/** 
+ * List of objects containing each state and its respective neighbors. 
+ * Not strictly accurate - includes special cases like treating WV and DC
+ * as neighbors, given their proximity.
+ */
 stateNeighbors = [
   {
     "state": "AK",
@@ -825,7 +831,7 @@ stateNeighbors = [
   },
   {
     "state": "DC",
-    "neighbors": [ "MD", "VA" ]
+    "neighbors": [ "MD", "VA", "WV" ]
   },
   {
     "state": "DE",
@@ -993,7 +999,7 @@ stateNeighbors = [
   },
   {
     "state": "WV",
-    "neighbors": [ "KY", "MD", "OH", "PA", "VA" ]
+    "neighbors": [ "DC", "KY", "MD", "OH", "PA", "VA" ]
   },
   {
     "state": "WY",
