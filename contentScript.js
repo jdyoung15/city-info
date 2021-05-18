@@ -108,18 +108,9 @@ async function displayHousingData(cityInfo) {
   const metroRegionId = metroRegionInfo.regionId;
 
   const metroTableMetadata = [
-    {
-      'label': 'Sale Price (SFR)', 
-      'indicator': 'SSSM'
-    },
-    {
-      'label': 'Rent (all homes)', 
-      'indicator': 'RSNA'
-    },
-    {
-      'label': 'List Price (SFR)', 
-      'indicator': 'LSSM'
-    },
+    { 'label': 'Sale Price (SFR)', 'indicator': 'SSSM' },
+    { 'label': 'Rent (all homes)', 'indicator': 'RSNA' },
+    { 'label': 'List Price (SFR)', 'indicator': 'LSSM' },
   ];
 
   for (let metadatum of metroTableMetadata) {
