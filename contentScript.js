@@ -107,20 +107,33 @@ async function displayHousingData(cityInfo) {
   const metroRegionInfo = await findMetroRegionInfo(cityInfo, cityRegionInfo.metro);
   const metroRegionId = metroRegionInfo.regionId;
 
-  tableData.push({
-    'label': 'Sale Price (SFR)', 
-    'value': await fetchQuandlData('SSSM', metroRegionId),
-  });
+  const metroTableMetadata = [
+    {
+      'label': 'Sale Price (SFR)', 
+      'indicator': 'SSSM'
+    },
+    {
+      'label': 'Rent (all homes)', 
+      'indicator': 'RSNA'
+    },
+    {
+      'label': 'List Price (SFR)', 
+      'indicator': 'LSSM'
+    },
+  ];
 
-  tableData.push({
-    'label': 'Rent (all homes)', 
-    'value': await fetchQuandlData('RSNA', metroRegionId),
-  });
+  for (let metadatum of metroTableMetadata) {
+    const value = await fetchQuandlData(metadatum.indicator, metroRegionId);
+    if (!value) {
+      console.log('Metro does not support specified data');
+      break;
+    }
 
-  tableData.push({
-    'label': 'List price (SFR)', 
-    'value': await fetchQuandlData('LSSM', metroRegionId),
-  });
+    tableData.push({
+      'label': metadatum.label, 
+      'value': value,
+    });
+  }
 
   tableData.push({
     'label': 'City metro: ' + cityRegionInfo.metro,
