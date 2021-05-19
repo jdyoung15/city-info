@@ -3,6 +3,7 @@
 // - support US metro
 // - refactor states data to separate file
 // - refactor demographics and weather fetching to separate components/files
+// - replace let with const
 // - crime, price per sq ft
 // - add walkscore for specific addresses
 // - side by side comparison?
