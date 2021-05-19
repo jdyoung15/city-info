@@ -43,3 +43,6 @@ Thumbs.db
 config.js
 
 output*
+
+check_*
+indicator_data.txt
