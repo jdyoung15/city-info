@@ -10,7 +10,12 @@
   "content_scripts": [
     {
       "matches": ["https://www.google.com/maps/*"],
-      "js": ["jquery-3.4.1.min.js", "config.js", "contentScript.js"]
+      "js": [
+        "jquery-3.4.1.min.js", 
+        "config.js", 
+        "stateNeighbors.js",
+        "contentScript.js"
+      ]
     }
   ],
   "page_action": {
