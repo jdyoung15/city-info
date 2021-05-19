@@ -1,11 +1,7 @@
 // TODO
 // - ordering in which tables appear
-// - support US metro
-// - refactor states data to separate file
 // - refactor demographics and weather fetching to separate components/files
-// - replace let with const
 // - crime, price per sq ft
-// - add walkscore for specific addresses
 // - side by side comparison?
 
 // We use Map instead of object in order to enforce insertion order
@@ -66,7 +62,7 @@ let currentPlace = extractPlace(location.href);
 let initialCurrentPlace = currentPlace;
 
 setInterval(async function() {
-	let newPlace = extractPlace(location.href);
+	const newPlace = extractPlace(location.href);
   if (newPlace === currentPlace && !initialCurrentPlace) {
 		return;
 	}
@@ -82,7 +78,7 @@ setInterval(async function() {
 
   //console.log('current place ' + currentPlace);
 
-	let [city, stateAcronym] = currentPlace.split(',').map(x => x.trim());
+	const[city, stateAcronym] = currentPlace.split(',').map(x => x.trim());
   const latLng = await fetchLatLngOfCity(city, stateAcronym);
   const cityInfo = {
     'name': city,
@@ -96,11 +92,6 @@ setInterval(async function() {
   displayWeatherData(cityInfo);
 }, 1000);
 
-function sleep(milliseconds) {
-  let currentTime = new Date().getTime();
-  while (currentTime + milliseconds >= new Date().getTime()) { }
-}
-
 /** Displays housing data in the sidebar of Google Maps. */
 async function displayHousingData(cityInfo) {
   const cityRegionInfo = await findCityRegionInfo(cityInfo);
@@ -111,7 +102,7 @@ async function displayHousingData(cityInfo) {
 
   const tableData = [];
   tableData.push({
-    'label': 'ZHVI (SFR)', 
+    'label': 'Home Value (SFR)', 
     'value': await fetchQuandlData('ZSFH', cityRegionInfo.regionId),
   });
 
@@ -145,33 +136,33 @@ async function displayHousingData(cityInfo) {
 
   // Create a table displaying the housing data. It will appear in the existing 
   // Google Maps sidebar.
-  let table = $('<table>').css('margin', '10px').addClass('housing-table');
+  const table = $('<table>').css('margin', '10px').addClass('housing-table');
 
   for (let datum of tableData) {
-    let row = $('<tr>');
-    let labelTd = $('<td>').text(datum.label).css('width', LABEL_DEFAULT_WIDTH);
-    let stat = typeof(datum.value) === 'number' ? formatWithCommas(datum.value) : datum.value;
-    let unit = stat ? '$' : '';
-    let dataTd = $('<td>').text(unit + stat);
+    const row = $('<tr>');
+    const labelTd = $('<td>').text(datum.label).css('width', LABEL_DEFAULT_WIDTH);
+    const stat = typeof(datum.value) === 'number' ? formatWithCommas(datum.value) : datum.value;
+    const unit = stat ? '$' : '';
+    const dataTd = $('<td>').text(unit + stat);
     row.append(labelTd);
     row.append(dataTd);
     table.append(row);
   }
 
-  let tableInsertionLogic = () => {
+  const tableInsertionLogic = () => {
     $(table).insertBefore('.between-tables');
     //console.log('inserting housing table');
     $('<div>').addClass(DIVIDER_CLASS_NAME).insertBefore('.' + table.attr('class'));
   };
 
-  let start = new Date();
+  const start = new Date();
   checkTable(table, start, tableInsertionLogic, cityInfo.cityAndState);
 }
 
 /** Returns the most recent Quandl data for the given housing indicator and region id. */
 async function fetchQuandlData(indicator, regionId) {
   const apiKey = config.QUANDL_API_KEY;
-	let endpoint = `https://www.quandl.com/api/v3/datatables/ZILLOW/DATA?indicator_id=${indicator}&region_id=${regionId}&api_key=${apiKey}`;
+	const endpoint = `https://www.quandl.com/api/v3/datatables/ZILLOW/DATA?indicator_id=${indicator}&region_id=${regionId}&api_key=${apiKey}`;
 
   const json = await makeBackgroundRequest(endpoint);
 
@@ -267,10 +258,10 @@ async function findCityRegionInfo(cityInfo) {
 	const city = cityInfo.name;
   const state = cityInfo.state;
 
-  let fileName = 'cities.csv';
-  let url = chrome.runtime.getURL(fileName);
-  let response = await fetch(url);
-  let text = await response.text();
+  const fileName = 'cities.csv';
+  const url = chrome.runtime.getURL(fileName);
+  const response = await fetch(url);
+  const text = await response.text();
 
   const regexes = [
     new RegExp('([0-9]+),city,' + city + '; ' + state+ '; ([^;]+);'),
@@ -299,48 +290,48 @@ async function displayDemographicData(cityInfo) {
   const state = cityInfo.state;
 
 	// Get the FIPS code for the city. We need this for the demographics API call.
-  let stateFips = await fetchStateFips(state);
-  let cityFips = await fetchCityFips(city, stateFips, state);
+  const stateFips = await fetchStateFips(state);
+  const cityFips = await fetchCityFips(city, stateFips, state);
 
 	// Get the city-specific demographic data, including population, 
   // median property value, etc.
-	let censusCodes = [...DEMOGRAPHIC_METADATA.values()].map(details => details["censusCode"]);
-	let joinedCodes = censusCodes.join(',');
+	const censusCodes = [...DEMOGRAPHIC_METADATA.values()].map(details => details["censusCode"]);
+	const joinedCodes = censusCodes.join(',');
 
-  let demographicData = await fetchDemographicData(cityFips, stateFips, joinedCodes);
-	let labels = [...DEMOGRAPHIC_METADATA.keys()];
+  const demographicData = await fetchDemographicData(cityFips, stateFips, joinedCodes);
+	const labels = [...DEMOGRAPHIC_METADATA.keys()];
 
   // Create a table displaying the demographic data. It will appear in the existing 
   // Google Maps sidebar.
-  let table = $('<table>').css('margin', '10px').addClass('demographics-table');
+  const table = $('<table>').css('margin', '10px').addClass('demographics-table');
 	labels.forEach((label, i) => {
-    let row = $('<tr>');
-    let labelTd = $('<td>').text(label).css('width', LABEL_DEFAULT_WIDTH);
-    let stat = formatWithCommas(demographicData[i]);
-    let unit = DEMOGRAPHIC_METADATA.get(label)["unit"];
-    let dataTd = $('<td>').text(stat + unit);
+    const row = $('<tr>');
+    const labelTd = $('<td>').text(label).css('width', LABEL_DEFAULT_WIDTH);
+    const stat = formatWithCommas(demographicData[i]);
+    const unit = DEMOGRAPHIC_METADATA.get(label)["unit"];
+    const dataTd = $('<td>').text(stat + unit);
     row.append(labelTd);
     row.append(dataTd);
     table.append(row);
   });
 
-  let tableInsertionLogic = () => {
+  const tableInsertionLogic = () => {
     $(table).insertBefore('.between-tables');
     //console.log('inserting demographics table');
     $('<div>').addClass(DIVIDER_CLASS_NAME).insertBefore('.' + table.attr('class'));
   };
 
-  let start = new Date();
+  const start = new Date();
   checkTable(table, start, tableInsertionLogic, cityInfo.cityAndState);
 }
 
 /** Displays weather data in the sidebar of Google Maps. */
 async function displayWeatherData(cityInfo) {
-  let datasetid = 'NORMAL_MLY';
-  let datatypeids = ['MLY-TMIN-NORMAL', 'MLY-TMAX-NORMAL', 'MLY-PRCP-AVGNDS-GE010HI'];
+  const datasetid = 'NORMAL_MLY';
+  const datatypeids = ['MLY-TMIN-NORMAL', 'MLY-TMAX-NORMAL', 'MLY-PRCP-AVGNDS-GE010HI'];
 
-  let stationsAndElevation = await fetchStationsAndElevationForCity(cityInfo.latLng, datatypeids);
-  let [stations, elevation] = stationsAndElevation;
+  const stationsAndElevation = await fetchStationsAndElevationForCity(cityInfo.latLng, datatypeids);
+  const [stations, elevation] = stationsAndElevation;
   //console.log(stations);
 
   if (stations.length === 0) {
@@ -348,50 +339,50 @@ async function displayWeatherData(cityInfo) {
     return;
   }
 
-  let weatherData = await fetchWeatherData(stations, datasetid, datatypeids, 2010);
+  const weatherData = await fetchWeatherData(stations, datasetid, datatypeids, 2010);
   //console.log(weatherData);
 
   // Create a table displaying the weather data. It will appear in the existing 
   // Google Maps sidebar.
   elevationTable = $('<table>').css('margin', '10px').addClass('elevation-table');
 
-  let elevationRow = $('<tr>');
-  let elevationLabelTd = $('<td>').text('Elevation').css('width', LABEL_DEFAULT_WIDTH);
-  let elevationTd = $('<td>').text(`${Math.round(elevation * FEET_PER_METER)} ft`);
+  const elevationRow = $('<tr>');
+  const elevationLabelTd = $('<td>').text('Elevation').css('width', LABEL_DEFAULT_WIDTH);
+  const elevationTd = $('<td>').text(`${Math.round(elevation * FEET_PER_METER)} ft`);
   elevationRow.append(elevationLabelTd);
   elevationRow.append(elevationTd);
   elevationTable.append(elevationRow);
 
   const weatherTableClassName = 'weather-table';
   table = $('<table>').css('margin', '10px').addClass(weatherTableClassName);
-  let row = $('<tr>');
-  let labelTd = $('<td>').text('Month').css('width', '145px');
-  let loAndHiTd = $('<td>').text('High / Low').css('width', '145px');;
-  let daysRainTd = $('<td>').text('Rain');
-  row.append(labelTd);
-  row.append(loAndHiTd);
-  row.append(daysRainTd);
-  table.append(row);
+  const hdrRow = $('<tr>');
+  const hdrMonthTd = $('<td>').text('Month').css('width', '145px');
+  const hdrLoAndHiTd = $('<td>').text('High / Low').css('width', '145px');;
+  const hdrDaysRainTd = $('<td>').text('Rain');
+  hdrRow.append(hdrMonthTd);
+  hdrRow.append(hdrLoAndHiTd);
+  hdrRow.append(hdrDaysRainTd);
+  table.append(hdrRow);
 
 	weatherData.forEach((data, month) => {
-    let row = $('<tr>');
-    let labelTd = $('<td>').text(month);
-    let loAndHiTd = $('<td>').text(`${Math.round(data.get('MLY-TMAX-NORMAL'))} / ${Math.round(data.get('MLY-TMIN-NORMAL'))}`);
-    let daysRainTd = $('<td>').text(`${Math.round(data.get('MLY-PRCP-AVGNDS-GE010HI'))} days`);
-    row.append(labelTd);
+    const row = $('<tr>');
+    const monthTd = $('<td>').text(month);
+    const loAndHiTd = $('<td>').text(`${Math.round(data.get('MLY-TMAX-NORMAL'))} / ${Math.round(data.get('MLY-TMIN-NORMAL'))}`);
+    const daysRainTd = $('<td>').text(`${Math.round(data.get('MLY-PRCP-AVGNDS-GE010HI'))} days`);
+    row.append(monthTd);
     row.append(loAndHiTd);
     row.append(daysRainTd);
     table.append(row);
   });
 
-  let tableInsertionLogic = () => {
+  const tableInsertionLogic = () => {
     $(table).insertAfter('.between-tables');
     $(elevationTable).insertBefore(`.${weatherTableClassName}`);
     $('<div>').addClass(DIVIDER_CLASS_NAME + ' between-tables').insertBefore(`.${weatherTableClassName}`);
     //console.log('inserting weather and elevation tables');
   };
 
-  let start = new Date();
+  const start = new Date();
   checkTable(table, start, tableInsertionLogic, cityInfo.cityAndState);
 }
 
@@ -409,8 +400,8 @@ function checkTable(table, start, tableInsertionLogic, cityAndState) {
     tableInsertionLogic();
   }
 
-  let now = new Date();
-  let elapsed = now - start;
+  const now = new Date();
+  const elapsed = now - start;
   if (elapsed < 10000) {
     setTimeout(() => checkTable(table, start, tableInsertionLogic, cityAndState), 1000);
   }
@@ -426,11 +417,11 @@ function checkTable(table, start, tableInsertionLogic, cityAndState) {
  *   - the elevation (in meters) of the given city
  */
 async function fetchStationsAndElevationForCity(latLng, datatypeids) {
-  let promises = [];
+  const promises = [];
 
-  let latOffset = milesToLatDegrees(50);
-  let lngOffset = milesToLngDegrees(50, latLng.lat);
-  let latLngBounds = calculateLatLngBounds(latLng, latOffset, lngOffset);
+  const latOffset = milesToLatDegrees(50);
+  const lngOffset = milesToLngDegrees(50, latLng.lat);
+  const latLngBounds = calculateLatLngBounds(latLng, latOffset, lngOffset);
   //console.log(latLngBounds);
 
   promises.push(fetchStationsInLatLngBounds(latLngBounds, 2010, datatypeids));
@@ -467,23 +458,23 @@ async function fetchStationsAndElevationForCity(latLng, datatypeids) {
  * and datatypeids, for each month in the given year.
  */
 async function fetchWeatherData(stations, datasetid, datatypeids, year) {
-  let stationsString = stations.map(s => 'stationid=' + s.id).join('&');
-  let datatypeidsString = datatypeids.map(datatypeid => 'datatypeid=' + datatypeid).join('&');
+  const stationsString = stations.map(s => 'stationid=' + s.id).join('&');
+  const datatypeidsString = datatypeids.map(datatypeid => 'datatypeid=' + datatypeid).join('&');
 
-  let url = `https://www.ncdc.noaa.gov/cdo-web/api/v2/data?datasetid=${datasetid}&${datatypeidsString}&${stationsString}&units=standard&startdate=${year}-01-01&enddate=${year}-12-31&limit=1000`;
+  const url = `https://www.ncdc.noaa.gov/cdo-web/api/v2/data?datasetid=${datasetid}&${datatypeidsString}&${stationsString}&units=standard&startdate=${year}-01-01&enddate=${year}-12-31&limit=1000`;
 
-  let response = await fetch(url, { headers: { token: config.NOAA_API_KEY } } );
-  let json = await response.json();
-  let results = json.results || [];
+  const response = await fetch(url, { headers: { token: config.NOAA_API_KEY } } );
+  const json = await response.json();
+  const results = json.results || [];
 
   let i = 0;
   for (let station of stations) {
     i++;
-    let stationResults = results.filter(r => r.station === station.id);
+    const stationResults = results.filter(r => r.station === station.id);
 
-    let stationDebugString = `${i}/${stations.length} ${station.id} ${station.name} ${station.distance} ${station.elevation}`;
+    const stationDebugString = `${i}/${stations.length} ${station.id} ${station.name} ${station.distance} ${station.elevation}`;
 
-    let expectedNumResults = MONTHS.size * datatypeids.length;
+    const expectedNumResults = MONTHS.size * datatypeids.length;
     if (stationResults.length !== expectedNumResults) {
       //console.log('skipping ' + stationDebugString);
       if (stationResults.length > 0) {
@@ -508,13 +499,13 @@ async function fetchWeatherData(stations, datasetid, datatypeids, year) {
  * each containing all data values for that month.
  */
 function groupMonthlyResults(monthlyResults) {
-  let monthsData = new Map();
+  const monthsData = new Map();
 
   MONTHS.forEach((monthNum, month) => {
-    let monthData = new Map();
+    const monthData = new Map();
 
-    let zeroIndexedMonthNum = monthNum - 1;
-    let monthResults = monthlyResults.filter(r => new Date(r.date).getMonth() === zeroIndexedMonthNum);
+    const zeroIndexedMonthNum = monthNum - 1;
+    const monthResults = monthlyResults.filter(r => new Date(r.date).getMonth() === zeroIndexedMonthNum);
     monthResults.forEach(result => {
       if (monthData.has(result.datatype)) {
         console.log(result.datatype + ' already set for ' + month);
@@ -535,18 +526,18 @@ function groupMonthlyResults(monthlyResults) {
  * within the given latLngBounds and (b) has weather data for the given year. 
  */
 async function fetchStationsInLatLngBounds(latLngBounds, year, datatypeids) {
-  let southwest = latLngBounds.southwest;
-  let northeast = latLngBounds.northeast;
-  let latLngBoundsStr = [southwest.lat, southwest.lng, northeast.lat, northeast.lng].join(',');
+  const southwest = latLngBounds.southwest;
+  const northeast = latLngBounds.northeast;
+  const latLngBoundsStr = [southwest.lat, southwest.lng, northeast.lat, northeast.lng].join(',');
 
-  let minDate = `${year}-01-01`;
-  let maxDate = `${year}-12-31`;
-  let datatypeidsString = datatypeids.map(datatypeid => 'datatypeid=' + datatypeid).join('&');
-  let url = `https://www.ncdc.noaa.gov/cdo-web/api/v2/stations?extent=${latLngBoundsStr}&startdate=${minDate}&enddate=${maxDate}&${datatypeidsString}&limit=1000`;
+  const minDate = `${year}-01-01`;
+  const maxDate = `${year}-12-31`;
+  const datatypeidsString = datatypeids.map(datatypeid => 'datatypeid=' + datatypeid).join('&');
+  const url = `https://www.ncdc.noaa.gov/cdo-web/api/v2/stations?extent=${latLngBoundsStr}&startdate=${minDate}&enddate=${maxDate}&${datatypeidsString}&limit=1000`;
 
-  let response = await fetch(url, { headers: { token: config.NOAA_API_KEY } } );
-  let json = await response.json();
-  let stations = json.results || [];
+  const response = await fetch(url, { headers: { token: config.NOAA_API_KEY } } );
+  const json = await response.json();
+  const stations = json.results || [];
 
   stations.forEach(station => {
     station.distance = distanceToLatLng(station, latLngBounds.center);
@@ -562,7 +553,7 @@ function sortStations(stations, latLng) {
 }
 
 function distanceToLatLng(station, latLng) {
-  let stationLatLng = {
+  const stationLatLng = {
     lat: station.latitude,
     lng: station.longitude
   };
@@ -571,14 +562,14 @@ function distanceToLatLng(station, latLng) {
 }
 
 function distanceBetweenLatLngs(latLngA, latLngB) {
-  let latDeltaDegrees = Math.abs(latLngA.lat - latLngB.lat);
-  let lngDeltaDegrees = Math.abs(latLngA.lng - latLngB.lng);
+  const latDeltaDegrees = Math.abs(latLngA.lat - latLngB.lat);
+  const lngDeltaDegrees = Math.abs(latLngA.lng - latLngB.lng);
 
-  let milesPerDegreeLat = 69.0;
-  let milesPerDegreeLng = calculateMilesPerDegreeLng(latLngA.lat);
+  const milesPerDegreeLat = 69.0;
+  const milesPerDegreeLng = calculateMilesPerDegreeLng(latLngA.lat);
 
-  let latDeltaMiles = latDeltaDegrees * milesPerDegreeLat;
-  let lngDeltaMiles = lngDeltaDegrees * milesPerDegreeLng;
+  const latDeltaMiles = latDeltaDegrees * milesPerDegreeLat;
+  const lngDeltaMiles = lngDeltaDegrees * milesPerDegreeLng;
 
   // find hypotenuse of two sides
   return Math.hypot(latDeltaMiles, lngDeltaMiles);
@@ -591,15 +582,15 @@ function distanceBetweenLatLngs(latLngA, latLngB) {
  * is lngOffset * 2.
  */
 function calculateLatLngBounds(center, latOffset, lngOffset) {
-  let southwest = new Map();
+  const southwest = new Map();
   southwest.lat = center.lat - latOffset;
   southwest.lng = center.lng - lngOffset;
 
-  let northeast = new Map();
+  const northeast = new Map();
   northeast.lat = center.lat + latOffset;
   northeast.lng = center.lng + lngOffset;
 
-  let latLngBounds = new Map();
+  const latLngBounds = new Map();
   latLngBounds.southwest = southwest;
   latLngBounds.northeast = northeast;
 
@@ -614,7 +605,7 @@ function calculateLatLngBounds(center, latOffset, lngOffset) {
  * Works for any location, irrespective of longitude.
  */
 function milesToLatDegrees(miles) {
-  let milesPerDegreeLat = 69.0;
+  const milesPerDegreeLat = 69.0;
   return miles / milesPerDegreeLat;
 }
 
@@ -636,8 +627,8 @@ function degreesToRadians(degrees) {
  * given latitude.
  */
 function calculateMilesPerDegreeLng(lat) {
-  let latRadians = degreesToRadians(lat);
-  let milesPerDegreeLatAtEquator = 69.172;
+  const latRadians = degreesToRadians(lat);
+  const milesPerDegreeLatAtEquator = 69.172;
   return Math.cos(latRadians) * milesPerDegreeLatAtEquator;
 }
 
@@ -647,11 +638,11 @@ function calculateMilesPerDegreeLng(lat) {
  * generally be at a relevant central location within the city (e.g. downtown).
  */
 async function fetchLatLngOfCity(city, state) {
-  let apiKey = config.MAP_QUEST_API_KEY;
-  let endpoint = `https://www.mapquestapi.com/geocoding/v1/address?key=${apiKey}&inFormat=kvp&outFormat=json&location=${city}, ${state}&thumbMaps=false`;
+  const apiKey = config.MAP_QUEST_API_KEY;
+  const endpoint = `https://www.mapquestapi.com/geocoding/v1/address?key=${apiKey}&inFormat=kvp&outFormat=json&location=${city}, ${state}&thumbMaps=false`;
 
-	let response = await fetch(endpoint);
-	let json = await response.json();
+	const response = await fetch(endpoint);
+	const json = await response.json();
 
   // Skip first element in json, which consists of unneeded headers.
   return json.results[0].locations[0].latLng;
@@ -661,21 +652,21 @@ async function fetchLatLngOfCity(city, state) {
  * Returns the elevation (in meters) of the given latLng.
  */
 async function fetchElevationForLatLng(latLng) {
-  let apiKey = config.MAP_QUEST_API_KEY;
-  let latLngString = latLng.lat + ',' + latLng.lng;
-  let endpoint = `https://open.mapquestapi.com/elevation/v1/profile?key=${apiKey}&shapeFormat=raw&latLngCollection=${latLngString}`;
+  const apiKey = config.MAP_QUEST_API_KEY;
+  const latLngString = latLng.lat + ',' + latLng.lng;
+  const endpoint = `https://open.mapquestapi.com/elevation/v1/profile?key=${apiKey}&shapeFormat=raw&latLngCollection=${latLngString}`;
 
-	let response = await fetch(endpoint);
-	let json = await response.json();
+	const response = await fetch(endpoint);
+	const json = await response.json();
 
-  let statusCode = json.info.statuscode;
+  const statusCode = json.info.statuscode;
 
   if (statusCode == 601) {
     console.log('elevation fetch failed');
     return null;
   }
 
-  let elevations = json.elevationProfile;
+  const elevations = json.elevationProfile;
 
   return elevations[0].height;
 }
@@ -685,7 +676,7 @@ async function fetchElevationForLatLng(latLng) {
  *  state acroynm, extracted from the given url. E.g. 'Hayward, CA' 
  */
 function extractPlace(url) {
-	let regex = /https:\/\/www\.google\.com\/maps\/place\/(.+?)\/.*/;
+	const regex = /https:\/\/www\.google\.com\/maps\/place\/(.+?)\/.*/;
 
 	if (!regex.test(url)) {
 		return null;
@@ -720,21 +711,21 @@ const PLACE_TYPES = ['city', 'town', 'municipality', 'village', 'CDP'];
 /** Returns the FIPS for the given city in the state with the given info. */
 async function fetchCityFips(city, stateFips, stateAcronym) {
   // Remove periods from city name (e.g. "St. Paul") for easier comparison
-  let removePeriodsRegex = /[\.]/g;
+  const removePeriodsRegex = /[\.]/g;
   city = city.replace(removePeriodsRegex, '');
 
-  let fileName = 'states/st' + stateFips + '_' + stateAcronym.toLowerCase() + '_places.txt';
-  let url = chrome.runtime.getURL(fileName);
-  let response = await fetch(url);
-  let text = await response.text();
+  const fileName = 'states/st' + stateFips + '_' + stateAcronym.toLowerCase() + '_places.txt';
+  const url = chrome.runtime.getURL(fileName);
+  const response = await fetch(url);
+  const text = await response.text();
 
-  let regex = new RegExp(stateAcronym + '\\|' + stateFips + '\\|([0-9]+?)\\|' + city + '.*');
+  const regex = new RegExp(stateAcronym + '\\|' + stateFips + '\\|([0-9]+?)\\|' + city + '.*');
 
-  let lines = text.split("\n");
-  let matchingLines = [];
+  const lines = text.split("\n");
+  const matchingLines = [];
   for (let line of lines) {
     line = line.replace(removePeriodsRegex, '');
-    let matches = line.match(regex);
+    const matches = line.match(regex);
     if (!matches || matches.length !== 2) {
       continue;
     }
@@ -752,7 +743,7 @@ async function fetchCityFips(city, stateFips, stateAcronym) {
 
   // If none of the matches were in PLACE_TYPES, just return the first match
   if (matchingLines.length > 0) {
-    let line = matchingLines[0];
+    const line = matchingLines[0];
     return line.match(regex)[1];
   }
 
@@ -762,15 +753,15 @@ async function fetchCityFips(city, stateFips, stateAcronym) {
 
 /** Returns the FIPS code of the given state. */
 async function fetchStateFips(stateAcronym) {
-  let url = chrome.runtime.getURL('states/state.txt');
-  let response = await fetch(url);
-  let text = await response.text();
+  const url = chrome.runtime.getURL('states/state.txt');
+  const response = await fetch(url);
+  const text = await response.text();
 
-  let regex = new RegExp('(.+?)\\|' + stateAcronym + '\\|.*');
+  const regex = new RegExp('(.+?)\\|' + stateAcronym + '\\|.*');
 
-  let lines = text.split("\n");
+  const lines = text.split("\n");
   for (let line of lines) {
-    let matches = line.match(regex);
+    const matches = line.match(regex);
     if (!matches || matches.length !== 2) {
       continue;
     }
@@ -784,10 +775,10 @@ async function fetchStateFips(stateAcronym) {
 async function fetchDemographicData(cityFips, stateFips, joinedCensusCodes) {
   const latestYear = new Date().getFullYear();
   const latestAcsYear = latestYear - ACS_LAG_YEARS;
-	let endpoint = `https://api.census.gov/data/${latestAcsYear}/acs/acs5/profile?get=${joinedCensusCodes}&for=place:${cityFips}&in=state:${stateFips}`;
+	const endpoint = `https://api.census.gov/data/${latestAcsYear}/acs/acs5/profile?get=${joinedCensusCodes}&for=place:${cityFips}&in=state:${stateFips}`;
 
-	let response = await fetch(endpoint);
-	let json = await response.json();
+	const response = await fetch(endpoint);
+	const json = await response.json();
 
   // Skip first element in json, which consists of unneeded headers.
   return json[1];
