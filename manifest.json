@@ -14,6 +14,10 @@
         "jquery-3.4.1.min.js", 
         "config.js", 
         "stateNeighbors.js",
+        "cityInfoUtils.js",
+        "housingTableCreator.js",
+        "demographicTableCreator.js",
+        "geographicAndWeatherTableCreator.js",
         "contentScript.js"
       ]
     }
