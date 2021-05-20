@@ -48,8 +48,6 @@ const STATION_ELEVATION_MAX_DELTA = 150;
  */
 const ACS_LAG_YEARS = 2;
 
-const DIVIDER_CLASS_NAME = 'mapsConsumerUiSubviewSectionGm2Divider__divider';
-
 const LABEL_DEFAULT_WIDTH = '290px';
 
 const METRO_TABLE_METADATA = [
@@ -93,7 +91,8 @@ setInterval(async function() {
     for (let table of tables) {
       $(table).insertAfter(previousClassName);
       const tableClassName = '.' + table.attr('class');
-      $('<div>').addClass(DIVIDER_CLASS_NAME).insertBefore(tableClassName);
+      $('<div>').css('border-bottom', '1px solid #e8eaed').insertBefore(tableClassName);
+      //$('<div>').css('height', '20px').insertBefore(tableClassName);
       previousClassName = tableClassName;
     }
   }
