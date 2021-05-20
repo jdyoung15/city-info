@@ -1,5 +1,4 @@
 // TODO
-// - separate elevation logic from weather
 // - refactor demographics and weather fetching to separate components/files
 // - crime, price per sq ft
 // - side by side comparison?
