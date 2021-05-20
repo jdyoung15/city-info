@@ -1,14 +1,13 @@
 // TODO
-// - refactor demographics and weather fetching to separate components/files
 // - crime, price per sq ft
 // - side by side comparison?
 
 
-let currentPlace = extractPlace(location.href);
+let currentPlace = cityInfoUtils.extractPlace(location.href);
 let initialCurrentPlace = currentPlace;
 
 setInterval(async function() {
-	const newPlace = extractPlace(location.href);
+	const newPlace = cityInfoUtils.extractPlace(location.href);
   if (newPlace === currentPlace && !initialCurrentPlace) {
 		return;
 	}
@@ -20,19 +19,24 @@ setInterval(async function() {
 		return;
 	}
 
-  console.clear();
+  //console.clear();
 
   //console.log('current place ' + currentPlace);
 
 	const[city, stateAcronym] = currentPlace.split(',').map(x => x.trim());
-  const latLng = await fetchLatLngOfCity(city, stateAcronym);
+  const latLng = await cityInfoUtils.fetchLatLngOfCity(city, stateAcronym);
   const cityInfo = {
     'name': city,
     'state': stateAcronym,
     'latLng': latLng,
   };
 
-  const createTableFunctions = [createHousingTable, createDemographicTable, createGeographicAndWeatherTables];
+  const createTableFunctions = [
+    housingTableCreator.createHousingTable, 
+    demographicTableCreator.createDemographicTable, 
+    geographicAndWeatherTableCreator.createGeographicAndWeatherTables
+  ];
+
   let previousClassName = '.section-hero-header-title';
   for (let createTableFunction of createTableFunctions) {
     const tables = await createTableFunction(cityInfo);
@@ -44,5 +48,3 @@ setInterval(async function() {
     }
   }
 }, 1000);
-
-
