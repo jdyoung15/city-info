@@ -1,5 +1,5 @@
 // TODO
-// - ordering in which tables appear
+// - separate elevation logic from weather
 // - refactor demographics and weather fetching to separate components/files
 // - crime, price per sq ft
 // - side by side comparison?
@@ -84,12 +84,19 @@ setInterval(async function() {
     'name': city,
     'state': stateAcronym,
     'latLng': latLng,
-    'cityAndState': currentPlace,
   };
 
-  displayHousingData(cityInfo);
-  displayDemographicData(cityInfo);
-  displayWeatherData(cityInfo);
+  const displayFunctions = [displayHousingData, displayDemographicData, displayWeatherData];
+  let previousClassName = '.section-hero-header-title';
+  for (let displayFunction of displayFunctions) {
+    const tables = await displayFunction(cityInfo);
+    for (let table of tables) {
+      $(table).insertAfter(previousClassName);
+      const tableClassName = '.' + table.attr('class');
+      $('<div>').addClass(DIVIDER_CLASS_NAME).insertBefore(tableClassName);
+      previousClassName = tableClassName;
+    }
+  }
 }, 1000);
 
 /** Displays housing data in the sidebar of Google Maps. */
@@ -149,14 +156,7 @@ async function displayHousingData(cityInfo) {
     table.append(row);
   }
 
-  const tableInsertionLogic = () => {
-    $(table).insertBefore('.between-tables');
-    //console.log('inserting housing table');
-    $('<div>').addClass(DIVIDER_CLASS_NAME).insertBefore('.' + table.attr('class'));
-  };
-
-  const start = new Date();
-  checkTable(table, start, tableInsertionLogic, cityInfo.cityAndState);
+  return [table];
 }
 
 /** Returns the most recent Quandl data for the given housing indicator and region id. */
@@ -315,14 +315,7 @@ async function displayDemographicData(cityInfo) {
     table.append(row);
   });
 
-  const tableInsertionLogic = () => {
-    $(table).insertBefore('.between-tables');
-    //console.log('inserting demographics table');
-    $('<div>').addClass(DIVIDER_CLASS_NAME).insertBefore('.' + table.attr('class'));
-  };
-
-  const start = new Date();
-  checkTable(table, start, tableInsertionLogic, cityInfo.cityAndState);
+  return [table];
 }
 
 /** Displays weather data in the sidebar of Google Maps. */
@@ -354,7 +347,7 @@ async function displayWeatherData(cityInfo) {
   elevationTable.append(elevationRow);
 
   const weatherTableClassName = 'weather-table';
-  table = $('<table>').css('margin', '10px').addClass(weatherTableClassName);
+  weatherTable = $('<table>').css('margin', '10px').addClass(weatherTableClassName);
   const hdrRow = $('<tr>');
   const hdrMonthTd = $('<td>').text('Month').css('width', '145px');
   const hdrLoAndHiTd = $('<td>').text('High / Low').css('width', '145px');;
@@ -362,7 +355,7 @@ async function displayWeatherData(cityInfo) {
   hdrRow.append(hdrMonthTd);
   hdrRow.append(hdrLoAndHiTd);
   hdrRow.append(hdrDaysRainTd);
-  table.append(hdrRow);
+  weatherTable.append(hdrRow);
 
 	weatherData.forEach((data, month) => {
     const row = $('<tr>');
@@ -372,44 +365,11 @@ async function displayWeatherData(cityInfo) {
     row.append(monthTd);
     row.append(loAndHiTd);
     row.append(daysRainTd);
-    table.append(row);
+    weatherTable.append(row);
   });
 
-  const tableInsertionLogic = () => {
-    $(table).insertAfter('.between-tables');
-    $(elevationTable).insertBefore(`.${weatherTableClassName}`);
-    $('<div>').addClass(DIVIDER_CLASS_NAME + ' between-tables').insertBefore(`.${weatherTableClassName}`);
-    //console.log('inserting weather and elevation tables');
-  };
-
-  const start = new Date();
-  checkTable(table, start, tableInsertionLogic, cityInfo.cityAndState);
+  return [elevationTable, weatherTable]; 
 }
-
-function checkTable(table, start, tableInsertionLogic, cityAndState) {
-  if (cityAndState !== currentPlace) {
-    return;
-  }
-
-  if (!$('.' + table.attr('class')).length) {
-    if (!$('.between-tables').length) {
-      //console.log('between-tables doesnt exist: adding');
-      $('<div>').addClass(DIVIDER_CLASS_NAME + ' between-tables').insertAfter('.section-hero-header-title');
-    }
-
-    tableInsertionLogic();
-  }
-
-  const now = new Date();
-  const elapsed = now - start;
-  if (elapsed < 10000) {
-    setTimeout(() => checkTable(table, start, tableInsertionLogic, cityAndState), 1000);
-  }
-  else {
-    //console.log('done checking ' + table.attr('class'));
-  }
-}
-
 
 /**
  * Returns an array containing:
