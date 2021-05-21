@@ -123,7 +123,7 @@ const housingTableCreator = (function() {
   
   /** Returns the Zillow region id for the given metro that encompasses the given city. */
   async function findMetroRegionInfo(cityInfo, metro) {
-    console.log('City metro: ' + metro);
+    //console.log('City metro: ' + metro);
     
     // E.g. ['San Francisco', 'Oakland', 'Hayward']
     const metroParts = metro.split(/[-\/]+/);
@@ -172,7 +172,7 @@ const housingTableCreator = (function() {
       const firstCity = candidate.name.split('-')[0];
       const metroLatLng = await cityInfoUtils.fetchLatLngOfCity(firstCity, candidate.state);
       candidate['distance'] = cityInfoUtils.distanceBetweenLatLngs(cityInfo.latLng, metroLatLng);
-      console.log('Distance: ' + candidate.distance + ' (' + candidate.line + ')');
+      //console.log('Distance: ' + candidate.distance + ' (' + candidate.line + ')');
     }
   
     metroCandidates.sort((a, b) => a.distance - b.distance);
@@ -186,7 +186,7 @@ const housingTableCreator = (function() {
       return null;
     }
   
-    console.log('Selected metro: ' + selected.line);
+    //console.log('Selected metro: ' + selected.line);
     return selected;
   };
 

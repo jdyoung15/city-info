@@ -38,17 +38,26 @@ setInterval(async function() {
     geographicAndWeatherTableCreator.createGeographicAndWeatherTables
   ];
 
-  checkSidebarHdr();
+  const completedTables = {}; 
 
   let previousClassName = SIDEBAR_HDR_CLASS_NAME;
-  for (let createTableFunction of createTableFunctions) {
-    const tables = await createTableFunction(cityInfo);
-    for (let table of tables) {
-      $(table).insertAfter(previousClassName);
-      const tableClassName = '.' + table.attr('class');
-      $('<div>').css('border-bottom', '1px solid #e8eaed').insertBefore(tableClassName);
-      previousClassName = tableClassName;
-    }
+  let resolvedIndex = 0;
+  let i = 0;
+  const start = new Date();
+  for (const createTableFunction of createTableFunctions) {
+    completedTables[createTableFunction.name] = [];
+
+    createTableFunction(cityInfo).then((tables) => {
+      console.log(createTableFunction.name + ': ' + (new Date() - start));
+      const dependencyIndex = createTableFunctions.indexOf(createTableFunction) - 1;
+      const dependency = dependencyIndex < 0 ? null : createTableFunctions[dependencyIndex].name;
+      for (const table of tables) {
+        completedTables[createTableFunction.name].push('.' + table.attr('class'));;
+        showTable(table, dependency, completedTables);
+      }
+    });
+
+    i++;
   }
 }, 1000);
 
@@ -84,13 +93,24 @@ function extractPlace(url) {
 };
 
 /** Checks for the existence of the city header section in the Google Maps sidebar. Does not exit until it exists. */
-function checkSidebarHdr() {                                                                                                   
-  const sidebarHdrExists = $(SIDEBAR_HDR_CLASS_NAME).length > 0
-  if (!sidebarHdrExists) {
-    console.log('Sidebar not yet created; checking again in 1 sec');
-    setTimeout(() => checkSidebarHdr(), 1000);
+function showTable(table, dependency, completedTables) {
+  if ((!dependency && !sidebarHdrExists) || (dependency && completedTables[dependency].length === 0)) {
+    console.log('previous table not yet finished; checking again in 1 sec');
+    setTimeout(() => showTable(table, dependency, completedTables), 1000);
   }
   else {
-    console.log('Sidebar exists; done checking');
+    console.log(table.attr('class') + ': previous table ' + dependency + ' finished');
+    const previousClassName = dependency 
+      ? completedTables[dependency][completedTables[dependency].length - 1]
+      : SIDEBAR_HDR_CLASS_NAME;
+
+    $(table).insertAfter(previousClassName);
+    const tableClassName = '.' + table.attr('class');
+    $('<div>').css('border-bottom', '1px solid #e8eaed').insertBefore(tableClassName);
   }
+};
+
+/** Checks for the existence of the city header section in the Google Maps sidebar. Does not exit until it exists. */
+function sidebarHdrExists() {
+  return $(SIDEBAR_HDR_CLASS_NAME).length > 0
 };
