@@ -26,7 +26,7 @@ const housingTableCreator = (function() {
       for (let metadatum of METRO_TABLE_METADATA) {
         const value = await fetchQuandlData(metadatum.indicator, metroRegionId);
         if (!value) {
-          console.log('Metro does not support specified data');
+          //console.log('Metro does not support specified data');
           break;
         }
     
@@ -62,7 +62,7 @@ const housingTableCreator = (function() {
       table.append(row);
     }
     
-    return [table];
+    return table;
   };
   
   /** Returns an object containing info for the given city like its Zillow region id and encompassing metro. */

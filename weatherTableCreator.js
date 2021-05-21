@@ -1,4 +1,4 @@
-const geographicAndWeatherTableCreator = (function() {
+const weatherTableCreator = (function() {
   const MONTHS = new Map(Object.entries({
     'Jan': '01',
     'Feb': '02',
@@ -14,8 +14,6 @@ const geographicAndWeatherTableCreator = (function() {
     'Dec': '12'
   }));
   
-  const FEET_PER_METER =  3.281;
-  
   /**
    * The max number of feet a station's elevation can differ from a city's elevation 
    * to be considered representative for that city.
@@ -23,12 +21,11 @@ const geographicAndWeatherTableCreator = (function() {
   const STATION_ELEVATION_MAX_DELTA = 150;
   
   /** Displays weather data in the sidebar of Google Maps. */
-  async function createGeographicAndWeatherTables(cityInfo) {
+  async function createWeatherTable(cityInfo) {
     const datasetid = 'NORMAL_MLY';
     const datatypeids = ['MLY-TMIN-NORMAL', 'MLY-TMAX-NORMAL', 'MLY-PRCP-AVGNDS-GE010HI'];
   
-    const stationsAndElevation = await fetchStationsAndElevationForCity(cityInfo.latLng, datatypeids);
-    const [stations, elevation] = stationsAndElevation;
+    const stations = await fetchStationsForCity(cityInfo.latLng, datatypeids);
     //console.log(stations);
   
     if (stations.length === 0) {
@@ -36,22 +33,11 @@ const geographicAndWeatherTableCreator = (function() {
       return;
     }
   
-    const weatherData = await fetchWeatherData(stations, datasetid, datatypeids, 2010);
-    //console.log(weatherData);
+    const tableData = await fetchWeatherData(stations, datasetid, datatypeids, 2010);
+    //console.log(tableData);
   
-    // Create a table displaying the weather data. It will appear in the existing 
-    // Google Maps sidebar.
-    elevationTable = $('<table>').css('margin', '10px').addClass('elevation-table');
-  
-    const elevationRow = $('<tr>');
-    const elevationLabelTd = $('<td>').text('Elevation').css('width', cityInfoConstants.LABEL_DEFAULT_WIDTH);
-    const elevationTd = $('<td>').text(`${Math.round(elevation * FEET_PER_METER)} ft`);
-    elevationRow.append(elevationLabelTd);
-    elevationRow.append(elevationTd);
-    elevationTable.append(elevationRow);
-  
-    const weatherTableClassName = 'weather-table';
-    weatherTable = $('<table>').css('margin', '10px').addClass(weatherTableClassName);
+    const tableClassName = 'weather-table';
+    table = $('<table>').css('margin', '10px').addClass(tableClassName);
     const hdrRow = $('<tr>');
     const hdrMonthTd = $('<td>').text('Month').css('width', '145px');
     const hdrLoAndHiTd = $('<td>').text('High / Low').css('width', '145px');;
@@ -59,9 +45,9 @@ const geographicAndWeatherTableCreator = (function() {
     hdrRow.append(hdrMonthTd);
     hdrRow.append(hdrLoAndHiTd);
     hdrRow.append(hdrDaysRainTd);
-    weatherTable.append(hdrRow);
+    table.append(hdrRow);
   
-  	weatherData.forEach((data, month) => {
+  	tableData.forEach((data, month) => {
       const row = $('<tr>');
       const monthTd = $('<td>').text(month);
       const loAndHiTd = $('<td>').text(`${Math.round(data.get('MLY-TMAX-NORMAL'))} / ${Math.round(data.get('MLY-TMIN-NORMAL'))}`);
@@ -69,18 +55,16 @@ const geographicAndWeatherTableCreator = (function() {
       row.append(monthTd);
       row.append(loAndHiTd);
       row.append(daysRainTd);
-      weatherTable.append(row);
+      table.append(row);
     });
   
-    return [elevationTable, weatherTable]; 
+    return table; 
   };
   
   /**
-   * Returns an array containing:
-   *   - an array of json objects representing relevant stations near the given city.
-   *   - the elevation (in meters) of the given city
+   * Returns an array of json objects representing relevant stations near the city with the given latitude/longitude.
    */
-  async function fetchStationsAndElevationForCity(latLng, datatypeids) {
+  async function fetchStationsForCity(latLng, datatypeids) {
     const promises = [];
   
     const latOffset = milesToLatDegrees(50);
@@ -88,33 +72,28 @@ const geographicAndWeatherTableCreator = (function() {
     const latLngBounds = calculateLatLngBounds(latLng, latOffset, lngOffset);
     //console.log(latLngBounds);
   
-    promises.push(fetchStationsInLatLngBounds(latLngBounds, 2010, datatypeids));
-    promises.push(fetchElevationForLatLng(latLng));
+    let stations = await fetchStationsInLatLngBounds(latLngBounds, 2010, datatypeids);
+
+    if (stations.length === 0) {
+      return stations;
+    }
+
+    sortStations(stations, latLng);
   
-    return Promise.all(promises).then(values => {
-      let stations = values[0];
+    // currentElevation is a global variable
+    let baseElevation = currentElevation;
   
-      //console.log('number of stations within bounding box: ' + stations.length);
+    if (!baseElevation) {
+      console.log('###elevation not found###');
+      baseElevation = stations[0].elevation;
+    }
   
-      if (stations.length === 0) {
-        return stations;
-      }
+    stations = stations.filter(s => Math.abs(s.elevation - baseElevation) < STATION_ELEVATION_MAX_DELTA);
+    //console.log('number of stations after elevation filtering: ' + stations.length);
   
-      sortStations(stations, latLng);
+    stations = stations.slice(0, 25);
   
-      let baseElevation = values[1];
-  
-      if (!baseElevation) {
-        baseElevation = stations[0].elevation;
-      }
-  
-      stations = stations.filter(s => Math.abs(s.elevation - baseElevation) < STATION_ELEVATION_MAX_DELTA);
-      //console.log('number of stations after elevation filtering: ' + stations.length);
-  
-      stations = stations.slice(0, 25);
-  
-      return [stations, baseElevation];
-    }, err => console.log('error occurred'));
+    return stations;
   };
   
   /** 
@@ -267,30 +246,7 @@ const geographicAndWeatherTableCreator = (function() {
     return miles / cityInfoUtils.calculateMilesPerDegreeLng(lat);
   };
   
-  /** 
-   * Returns the elevation (in meters) of the given latLng.
-   */
-  async function fetchElevationForLatLng(latLng) {
-    const apiKey = config.MAP_QUEST_API_KEY;
-    const latLngString = latLng.lat + ',' + latLng.lng;
-    const endpoint = `https://open.mapquestapi.com/elevation/v1/profile?key=${apiKey}&shapeFormat=raw&latLngCollection=${latLngString}`;
-  
-  	const response = await fetch(endpoint);
-  	const json = await response.json();
-  
-    const statusCode = json.info.statuscode;
-  
-    if (statusCode == 601) {
-      console.log('elevation fetch failed');
-      return null;
-    }
-  
-    const elevations = json.elevationProfile;
-  
-    return elevations[0].height;
-  };
-
   return {
-    createGeographicAndWeatherTables: createGeographicAndWeatherTables,
+    createWeatherTable: createWeatherTable,
   };
 })();

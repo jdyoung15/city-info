@@ -1,6 +1,3 @@
-const cityInfoConstants = (function() {
-
-  return {
-    LABEL_DEFAULT_WIDTH: '290px',
-  };
-})();
+const cityInfoConstants = {
+  LABEL_DEFAULT_WIDTH: '290px',
+};

@@ -58,7 +58,7 @@ const demographicTableCreator = (function() {
       table.append(row);
     });
   
-    return [table];
+    return table;
   };
   
   /** Returns the FIPS code of the given state. */

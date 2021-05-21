@@ -7,6 +7,11 @@ const SIDEBAR_HDR_CLASS_NAME = '.section-hero-header-title';
 let currentPlace = extractPlace(location.href);
 let initialCurrentPlace = currentPlace;
 
+// Updated in elevationTableCreator
+let currentElevation = null;
+
+let start = new Date();
+
 setInterval(async function() {
 	const newPlace = extractPlace(location.href);
   if (newPlace === currentPlace && !initialCurrentPlace) {
@@ -20,7 +25,7 @@ setInterval(async function() {
 		return;
 	}
 
-  //console.clear();
+  console.clear();
 
   //console.log('current place ' + currentPlace);
 
@@ -35,29 +40,23 @@ setInterval(async function() {
   const createTableFunctions = [
     housingTableCreator.createHousingTable, 
     demographicTableCreator.createDemographicTable, 
-    geographicAndWeatherTableCreator.createGeographicAndWeatherTables
+    elevationTableCreator.createElevationTable, 
+    weatherTableCreator.createWeatherTable,
   ];
 
+  // Object mapping function name to class name for tables that have completed and are now visible.
   const completedTables = {}; 
 
-  let previousClassName = SIDEBAR_HDR_CLASS_NAME;
-  let resolvedIndex = 0;
-  let i = 0;
-  const start = new Date();
+  start = new Date();
   for (const createTableFunction of createTableFunctions) {
-    completedTables[createTableFunction.name] = [];
-
-    createTableFunction(cityInfo).then((tables) => {
-      console.log(createTableFunction.name + ': ' + (new Date() - start));
+    console.log(createTableFunction.name + ': STARTING ' + (new Date() - start));
+    createTableFunction(cityInfo).then((table) => {
+      console.log(createTableFunction.name + ': RESOLVED ' + (new Date() - start));
+      // Previous table must appear before current table
       const dependencyIndex = createTableFunctions.indexOf(createTableFunction) - 1;
       const dependency = dependencyIndex < 0 ? null : createTableFunctions[dependencyIndex].name;
-      for (const table of tables) {
-        completedTables[createTableFunction.name].push('.' + table.attr('class'));;
-        showTable(table, dependency, completedTables);
-      }
+      showTable(createTableFunction.name, table, dependency, completedTables);
     });
-
-    i++;
   }
 }, 1000);
 
@@ -92,19 +91,17 @@ function extractPlace(url) {
 	return city + ', ' + state;
 };
 
-/** Checks for the existence of the city header section in the Google Maps sidebar. Does not exit until it exists. */
-function showTable(table, dependency, completedTables) {
-  if ((!dependency && !sidebarHdrExists) || (dependency && completedTables[dependency].length === 0)) {
-    console.log('previous table not yet finished; checking again in 1 sec');
-    setTimeout(() => showTable(table, dependency, completedTables), 1000);
+/** Shows the given table in the Google Maps sidebar. Waits for any dependency to complete first. Updates completedTables. */
+function showTable(functionName, table, dependency, completedTables) {
+  if ((!dependency && !sidebarHdrExists()) || (dependency && !completedTables[dependency])) {
+    console.log(functionName + ': RETRYING DISPLAY ' + (new Date() - start));
+    setTimeout(() => showTable(functionName, table, dependency, completedTables), 1000);
   }
   else {
-    console.log(table.attr('class') + ': previous table ' + dependency + ' finished');
-    const previousClassName = dependency 
-      ? completedTables[dependency][completedTables[dependency].length - 1]
-      : SIDEBAR_HDR_CLASS_NAME;
-
+    const previousClassName = dependency ? completedTables[dependency] : SIDEBAR_HDR_CLASS_NAME;
     $(table).insertAfter(previousClassName);
+    completedTables[functionName] = '.' + table.attr('class');;
+    console.log(functionName + ': FINISHED ' + (new Date() - start));
     const tableClassName = '.' + table.attr('class');
     $('<div>').css('border-bottom', '1px solid #e8eaed').insertBefore(tableClassName);
   }
@@ -112,5 +109,5 @@ function showTable(table, dependency, completedTables) {
 
 /** Checks for the existence of the city header section in the Google Maps sidebar. Does not exit until it exists. */
 function sidebarHdrExists() {
-  return $(SIDEBAR_HDR_CLASS_NAME).length > 0
+  return $(SIDEBAR_HDR_CLASS_NAME).length > 0;
 };

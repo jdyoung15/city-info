@@ -18,7 +18,8 @@
         "stateNeighbors.js",
         "housingTableCreator.js",
         "demographicTableCreator.js",
-        "geographicAndWeatherTableCreator.js",
+        "elevationTableCreator.js",
+        "weatherTableCreator.js",
         "contentScript.js"
       ]
     }
