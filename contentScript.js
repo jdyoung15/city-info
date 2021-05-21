@@ -3,6 +3,7 @@
 // - side by side comparison?
 
 const SIDEBAR_HDR_CLASS_NAME = '.section-hero-header-title';
+const SIDEBAR_HDR_CITY_CLASS_NAME = '.section-hero-header-title-title';
 
 let currentPlace = extractPlace(location.href);
 let initialCurrentPlace = currentPlace;
@@ -85,15 +86,19 @@ function extractPlace(url) {
 		state = state.split(' ')[0];
 	}
 
-  // Remove any diacritics (e.g. Nānākuli -> Nanakuli);
-  city = decodeURIComponent(city).normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  city = sanitize(city);
 
 	return city + ', ' + state;
 };
 
+/** Returns the given string with any potentially problematic characters removed. */
+function sanitize(string) {
+  return decodeURIComponent(string).normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+}
+
 /** Shows the given table in the Google Maps sidebar. Waits for any dependency to complete first. Updates completedTables. */
 function showTable(functionName, table, dependency, completedTables) {
-  if ((!dependency && !sidebarHdrExists()) || (dependency && !completedTables[dependency])) {
+  if ((!dependency && !sidebarHdrCityMatches()) || (dependency && !completedTables[dependency])) {
     console.log(functionName + ': RETRYING DISPLAY ' + (new Date() - start));
     setTimeout(() => showTable(functionName, table, dependency, completedTables), 1000);
   }
@@ -107,7 +112,17 @@ function showTable(functionName, table, dependency, completedTables) {
   }
 };
 
-/** Checks for the existence of the city header section in the Google Maps sidebar. Does not exit until it exists. */
-function sidebarHdrExists() {
-  return $(SIDEBAR_HDR_CLASS_NAME).length > 0;
+/** Checks that the city name in the header section of the Google Maps sidebar matches the currently processed city. */
+function sidebarHdrCityMatches() {
+  const sidebarHdrs = $(SIDEBAR_HDR_CITY_CLASS_NAME);
+  if (sidebarHdrs.length === 0) {
+    console.log('SIDEBAR HDR: nonexistent');
+    return false;
+  }
+  
+  const sidebarHdr = sidebarHdrs[0];
+  const sidebarHdrCity = sanitize(sidebarHdr.textContent.trim());
+  const currentCity = currentPlace.split(',')[0].trim();
+  console.log('SIDEBAR HDR: ' + sidebarHdrCity + ' vs ' + currentCity);
+  return sidebarHdrCity === currentCity;
 };
