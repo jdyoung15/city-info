@@ -1,4 +1,4 @@
-const elevationTableCreator = (function() {
+const ElevationTableCreator = (function() {
   const FEET_PER_METER =  3.281;
   
   /** Displays elevation data in the sidebar of Google Maps. */
@@ -8,7 +8,7 @@ const elevationTableCreator = (function() {
     table = $('<table>').css('margin', '10px').addClass('elevation-table');
   
     const row = $('<tr>');
-    const labelTd = $('<td>').text('Elevation').css('width', cityInfoConstants.LABEL_DEFAULT_WIDTH);
+    const labelTd = $('<td>').text('Elevation').css('width', DisplayUtils.LABEL_DEFAULT_WIDTH);
     const td = $('<td>').text(`${Math.round(elevation * FEET_PER_METER)} ft`);
     row.append(labelTd);
     row.append(td);

@@ -13,13 +13,13 @@
       "js": [
         "jquery-3.4.1.min.js", 
         "config.js", 
-        "cityInfoConstants.js",
-        "cityInfoUtils.js",
-        "stateNeighbors.js",
-        "housingTableCreator.js",
-        "demographicTableCreator.js",
-        "elevationTableCreator.js",
-        "weatherTableCreator.js",
+        "DisplayUtils.js",
+        "LatLngUtils.js",
+        "StateNeighbors.js",
+        "HousingTableCreator.js",
+        "DemographicTableCreator.js",
+        "ElevationTableCreator.js",
+        "WeatherTableCreator.js",
         "contentScript.js"
       ]
     }

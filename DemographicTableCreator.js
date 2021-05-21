@@ -1,4 +1,4 @@
-const demographicTableCreator = (function() {
+const DemographicTableCreator = (function() {
   /** 
    * Used for tie-breaking when there are multiple jurisdictions with the same name.
    * In decreasing order of preference. 
@@ -49,8 +49,8 @@ const demographicTableCreator = (function() {
     const table = $('<table>').css('margin', '10px').addClass('demographics-table');
   	labels.forEach((label, i) => {
       const row = $('<tr>');
-      const labelTd = $('<td>').text(label).css('width', cityInfoConstants.LABEL_DEFAULT_WIDTH);
-      const stat = cityInfoUtils.formatWithCommas(demographicData[i]);
+      const labelTd = $('<td>').text(label).css('width', DisplayUtils.LABEL_DEFAULT_WIDTH);
+      const stat = DisplayUtils.formatWithCommas(demographicData[i]);
       const unit = DEMOGRAPHIC_METADATA.get(label)["unit"];
       const dataTd = $('<td>').text(stat + unit);
       row.append(labelTd);

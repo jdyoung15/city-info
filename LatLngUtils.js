@@ -1,4 +1,4 @@
-const cityInfoUtils = (function() {
+const LatLngUtils = (function() {
   const MILES_IN_ONE_DEGREE_LAT_AT_EQUATOR = 69.172;
 
   /** 
@@ -45,18 +45,54 @@ const cityInfoUtils = (function() {
   };
   
   /**
-   * Returns the string form of the given number, properly formatted with commas.
-   * E.g. 9999 -> '9,999'
+   * Returns an object containing two latLng coordinates representing
+   * the southwest and northeast corners of a box encompassing the given
+   * center latLng. The box's height is latOffset * 2 and the box's length
+   * is lngOffset * 2.
    */
-  function formatWithCommas(num) {
-    return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+  function calculateLatLngBounds(center, latOffset, lngOffset) {
+    const southwest = new Map();
+    southwest.lat = center.lat - latOffset;
+    southwest.lng = center.lng - lngOffset;
+  
+    const northeast = new Map();
+    northeast.lat = center.lat + latOffset;
+    northeast.lng = center.lng + lngOffset;
+  
+    const latLngBounds = new Map();
+    latLngBounds.southwest = southwest;
+    latLngBounds.northeast = northeast;
+  
+    latLngBounds.center = center;
+  
+    return latLngBounds;
   };
-
+  
+  /** 
+   * Coverts the given number of miles to the equivalent number of degrees 
+   * in latitude. Not extremely accurate but sufficient for general use. 
+   * Works for any location, irrespective of longitude.
+   */
+  function milesToLatDegrees(miles) {
+    const MILES_IN_ONE_DEGREE_LAT_AT_EQUATOR = 69.0;
+    return miles / MILES_IN_ONE_DEGREE_LAT_AT_EQUATOR;
+  };
+  
+  /** 
+   * Coverts the given number of miles to the equivalent number of degrees 
+   * in longitude for a location at the given latitude. 
+   */
+  function milesToLngDegrees(miles, lat) {
+    return miles / calculateMilesPerDegreeLng(lat);
+  };
+  
   return {
     fetchLatLngOfCity: fetchLatLngOfCity,
     distanceBetweenLatLngs: distanceBetweenLatLngs, 
     calculateMilesPerDegreeLng: calculateMilesPerDegreeLng,
     degreesToRadians: degreesToRadians,
-    formatWithCommas: formatWithCommas,
+    calculateLatLngBounds: calculateLatLngBounds,
+    milesToLatDegrees: milesToLatDegrees,
+    milesToLngDegrees: milesToLngDegrees,
   };
 })();

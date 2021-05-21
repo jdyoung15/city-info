@@ -34,7 +34,7 @@ setInterval(async function() {
   //console.log('current place ' + currentPlace);
 
 	const [city, state] = extractCityAndState(currentPlace);
-  const latLng = await cityInfoUtils.fetchLatLngOfCity(city, state);
+  const latLng = await LatLngUtils.fetchLatLngOfCity(city, state);
   const cityInfo = {
     'name': city,
     'state': state,
@@ -42,10 +42,10 @@ setInterval(async function() {
   };
 
   const createTableFunctions = [
-    housingTableCreator.createHousingTable, 
-    demographicTableCreator.createDemographicTable, 
-    elevationTableCreator.createElevationTable, 
-    weatherTableCreator.createWeatherTable,
+    HousingTableCreator.createHousingTable, 
+    DemographicTableCreator.createDemographicTable, 
+    ElevationTableCreator.createElevationTable, 
+    WeatherTableCreator.createWeatherTable,
   ];
 
   // Object mapping function name to class name for tables that have completed and are now visible.

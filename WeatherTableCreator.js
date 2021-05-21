@@ -1,4 +1,4 @@
-const weatherTableCreator = (function() {
+const WeatherTableCreator = (function() {
   const MONTHS = new Map(Object.entries({
     'Jan': '01',
     'Feb': '02',
@@ -67,9 +67,9 @@ const weatherTableCreator = (function() {
   async function fetchStationsForCity(latLng, datatypeids) {
     const promises = [];
   
-    const latOffset = milesToLatDegrees(50);
-    const lngOffset = milesToLngDegrees(50, latLng.lat);
-    const latLngBounds = calculateLatLngBounds(latLng, latOffset, lngOffset);
+    const latOffset = LatLngUtils.milesToLatDegrees(50);
+    const lngOffset = LatLngUtils.milesToLngDegrees(50, latLng.lat);
+    const latLngBounds = LatLngUtils.calculateLatLngBounds(latLng, latOffset, lngOffset);
     //console.log(latLngBounds);
   
     let stations = await fetchStationsInLatLngBounds(latLngBounds, 2010, datatypeids);
@@ -194,57 +194,16 @@ const weatherTableCreator = (function() {
     stations.sort((a, b) => a.distance - b.distance);
   };
   
+  /** Returns the distance in miles from the given station to the given latLng. */
   function distanceToLatLng(station, latLng) {
     const stationLatLng = {
       lat: station.latitude,
       lng: station.longitude
     };
     
-    return cityInfoUtils.distanceBetweenLatLngs(latLng, stationLatLng);
+    return LatLngUtils.distanceBetweenLatLngs(latLng, stationLatLng);
   };
   
-  
-  /**
-   * Returns an object containing two latLng coordinates representing
-   * the southwest and northeast corners of a box encompassing the given
-   * center latLng. The box's height is latOffset * 2 and the box's length
-   * is lngOffset * 2.
-   */
-  function calculateLatLngBounds(center, latOffset, lngOffset) {
-    const southwest = new Map();
-    southwest.lat = center.lat - latOffset;
-    southwest.lng = center.lng - lngOffset;
-  
-    const northeast = new Map();
-    northeast.lat = center.lat + latOffset;
-    northeast.lng = center.lng + lngOffset;
-  
-    const latLngBounds = new Map();
-    latLngBounds.southwest = southwest;
-    latLngBounds.northeast = northeast;
-  
-    latLngBounds.center = center;
-  
-    return latLngBounds;
-  };
-  
-  /** 
-   * Coverts the given number of miles to the equivalent number of degrees 
-   * in latitude. Not extremely accurate but sufficient for general use. 
-   * Works for any location, irrespective of longitude.
-   */
-  function milesToLatDegrees(miles) {
-    const milesPerDegreeLat = 69.0;
-    return miles / milesPerDegreeLat;
-  };
-  
-  /** 
-   * Coverts the given number of miles to the equivalent number of degrees 
-   * in longitude for a location at the given latitude. 
-   */
-  function milesToLngDegrees(miles, lat) {
-    return miles / cityInfoUtils.calculateMilesPerDegreeLng(lat);
-  };
   
   return {
     createWeatherTable: createWeatherTable,

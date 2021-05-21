@@ -1,4 +1,4 @@
-const housingTableCreator = (function() {
+const HousingTableCreator = (function() {
   const METRO_TABLE_METADATA = [
     { 'label': 'Sale Price (SFR)', 'indicator': 'SSSM' },
     { 'label': 'Rent (all homes)', 'indicator': 'RSNA' },
@@ -53,8 +53,8 @@ const housingTableCreator = (function() {
     
     for (let datum of tableData) {
       const row = $('<tr>');
-      const labelTd = $('<td>').text(datum.label).css('width', cityInfoConstants.LABEL_DEFAULT_WIDTH);
-      const stat = typeof(datum.value) === 'number' ? cityInfoUtils.formatWithCommas(datum.value) : datum.value;
+      const labelTd = $('<td>').text(datum.label).css('width', DisplayUtils.LABEL_DEFAULT_WIDTH);
+      const stat = typeof(datum.value) === 'number' ? DisplayUtils.formatWithCommas(datum.value) : datum.value;
       const unit = stat ? '$' : '';
       const dataTd = $('<td>').text(unit + stat);
       row.append(labelTd);
@@ -170,8 +170,8 @@ const housingTableCreator = (function() {
   
     for (let candidate of metroCandidates) {
       const firstCity = candidate.name.split('-')[0];
-      const metroLatLng = await cityInfoUtils.fetchLatLngOfCity(firstCity, candidate.state);
-      candidate['distance'] = cityInfoUtils.distanceBetweenLatLngs(cityInfo.latLng, metroLatLng);
+      const metroLatLng = await LatLngUtils.fetchLatLngOfCity(firstCity, candidate.state);
+      candidate['distance'] = LatLngUtils.distanceBetweenLatLngs(cityInfo.latLng, metroLatLng);
       //console.log('Distance: ' + candidate.distance + ' (' + candidate.line + ')');
     }
   
