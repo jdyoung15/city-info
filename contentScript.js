@@ -1,5 +1,6 @@
 // TODO
 // - use elevation from weather station if needed
+// - refactor latLng functions to util file
 // - St vs Saint
 // - crime, price per sq ft
 // - side by side comparison?
@@ -118,7 +119,7 @@ function showTable(functionName, table, dependency, completedTables, city) {
       return;
     }
     console.log(functionName + ': RETRYING DISPLAY ' + elapsed);
-    setTimeout(() => showTable(functionName, table, dependency, completedTables, city), 1000);
+    setTimeout(() => showTable(functionName, table, dependency, completedTables, city), 100);
   }
   else {
     const previousClassName = dependency ? completedTables[dependency] : SIDEBAR_HDR_CLASS_NAME;
