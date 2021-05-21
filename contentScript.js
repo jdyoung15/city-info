@@ -1,4 +1,6 @@
 // TODO
+// - use elevation from weather station if needed
+// - St vs Saint
 // - crime, price per sq ft
 // - side by side comparison?
 
@@ -30,11 +32,11 @@ setInterval(async function() {
 
   //console.log('current place ' + currentPlace);
 
-	const[city, stateAcronym] = currentPlace.split(',').map(x => x.trim());
-  const latLng = await cityInfoUtils.fetchLatLngOfCity(city, stateAcronym);
+	const [city, state] = extractCityAndState(currentPlace);
+  const latLng = await cityInfoUtils.fetchLatLngOfCity(city, state);
   const cityInfo = {
     'name': city,
-    'state': stateAcronym,
+    'state': state,
     'latLng': latLng,
   };
 
@@ -56,7 +58,7 @@ setInterval(async function() {
       // Previous table must appear before current table
       const dependencyIndex = createTableFunctions.indexOf(createTableFunction) - 1;
       const dependency = dependencyIndex < 0 ? null : createTableFunctions[dependencyIndex].name;
-      showTable(createTableFunction.name, table, dependency, completedTables);
+      showTable(createTableFunction.name, table, dependency, completedTables, city);
     });
   }
 }, 1000);
@@ -91,16 +93,32 @@ function extractPlace(url) {
 	return city + ', ' + state;
 };
 
+/** Returns an array of [city, state] from the given place. */
+function extractCityAndState(place) {
+	return place.split(',').map(x => x.trim());
+}
+
 /** Returns the given string with any potentially problematic characters removed. */
 function sanitize(string) {
   return decodeURIComponent(string).normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }
 
 /** Shows the given table in the Google Maps sidebar. Waits for any dependency to complete first. Updates completedTables. */
-function showTable(functionName, table, dependency, completedTables) {
+function showTable(functionName, table, dependency, completedTables, city) {
   if ((!dependency && !sidebarHdrCityMatches()) || (dependency && !completedTables[dependency])) {
-    console.log(functionName + ': RETRYING DISPLAY ' + (new Date() - start));
-    setTimeout(() => showTable(functionName, table, dependency, completedTables), 1000);
+    const elapsed = new Date() - start;
+    if (elapsed > 10000) {
+      console.log(functionName + ': TIMED OUT');
+      return;
+    }
+
+    const currentCity = extractCityAndState(currentPlace)[0];
+    if (city !== currentCity) {
+      console.log(functionName + ': MISMATCHED CITIES ' + city + ' vs ' + currentCity);
+      return;
+    }
+    console.log(functionName + ': RETRYING DISPLAY ' + elapsed);
+    setTimeout(() => showTable(functionName, table, dependency, completedTables, city), 1000);
   }
   else {
     const previousClassName = dependency ? completedTables[dependency] : SIDEBAR_HDR_CLASS_NAME;
@@ -122,7 +140,7 @@ function sidebarHdrCityMatches() {
   
   const sidebarHdr = sidebarHdrs[0];
   const sidebarHdrCity = sanitize(sidebarHdr.textContent.trim());
-  const currentCity = currentPlace.split(',')[0].trim();
+  const currentCity = extractCityAndState(currentPlace)[0];
   console.log('SIDEBAR HDR: ' + sidebarHdrCity + ' vs ' + currentCity);
   return sidebarHdrCity === currentCity;
 };
