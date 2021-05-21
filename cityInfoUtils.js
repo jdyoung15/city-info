@@ -2,37 +2,6 @@ const cityInfoUtils = (function() {
   const MILES_IN_ONE_DEGREE_LAT_AT_EQUATOR = 69.172;
 
   /** 
-   *	Returns a string representing a "place", i.e. containing the city and 
-   *  state acroynm, extracted from the given url. E.g. 'Hayward, CA' 
-   */
-  function extractPlace(url) {
-  	const regex = /https:\/\/www\.google\.com\/maps\/place\/(.+?)\/.*/;
-  
-  	if (!regex.test(url)) {
-  		return null;
-  	}
-  
-  	let place = url.match(regex)[1];	
-  	if (!place.includes(",") || place.split(",").length != 2) {
-  		return null;
-  	}
-  
-  	place = place.replace(/\+/g, ' ');
-  
-  	// Sometimes the place name is in the form 'Milpitas, CA 95035'. If so,
-    // discard zip code. 
-  	let [city, state] = place.split(',').map(x => x.trim());
-  	if (state.split(' ').length === 2) {
-  		state = state.split(' ')[0];
-  	}
-  
-    // Remove any diacritics (e.g. Nānākuli -> Nanakuli);
-    city = decodeURIComponent(city).normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-  
-  	return city + ', ' + state;
-  };
-
-  /** 
    * Returns an object containing a latitude and longitude (in degrees) 
    * representing the given city. The latitude and longitude will 
    * generally be at a relevant central location within the city (e.g. downtown).
@@ -84,7 +53,6 @@ const cityInfoUtils = (function() {
   };
 
   return {
-    extractPlace: extractPlace,
     fetchLatLngOfCity: fetchLatLngOfCity,
     distanceBetweenLatLngs: distanceBetweenLatLngs, 
     calculateMilesPerDegreeLng: calculateMilesPerDegreeLng,
