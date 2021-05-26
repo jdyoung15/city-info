@@ -4,9 +4,10 @@
 // - crime, price per sq ft
 // - side by side comparison?
 
-const SIDEBAR_HDR_CLASS_NAME = '.section-hero-header-title';
-const SIDEBAR_HDR_CITY_CLASS_NAME = '.section-hero-header-title-title';
+/** The text that an element's next next sibling should contain if that element is the sidebar header. */ 
+const SIDEBAR_HDR_NEXT_NEXT_SIBLING_TEXT = 'Directions';
 
+// These values will be computed and set later
 let sidebarHdrClassName = null;
 let sidebarHdrCityClassName = null;
 
@@ -99,37 +100,37 @@ function extractPlace(url) {
 /** Returns an array of [city, state] from the given place. */
 function extractCityAndState(place) {
 	return place.split(',').map(x => x.trim());
-}
+};
 
 /** Returns the given string with any potentially problematic characters removed. */
 function sanitize(string) {
   return decodeURIComponent(string).normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-}
+};
 
 /** Shows the given table in the Google Maps sidebar. Waits for any dependency to complete first. Updates completedTables. */
 function showTable(functionName, table, dependency, completedTables, city) {
   // Class names not yet computed
   if (!sidebarHdrClassName) {
-    const allMatching = [...document.querySelectorAll('*')].filter(e => e.textContent === city);
-    if (allMatching.length === 0) {
+    const matches = findExactMatchElements(city);
+    if (matches.length === 0) {
       console.log(functionName + ': CURRENT CITY NOT IN SIDEBAR');
     }
     else {
       console.log(functionName + ': COMPUTING CLASSNAMES');
-      const matching = allMatching[0];
-      let parentElement = matching.parentElement;
-      sidebarHdrCityClassName = parentElement.className.split(' ').map(s => '.' + s).join('');
+      const match = matches[0];
+      let parentElement = match.parentElement;
+      sidebarHdrCityClassName = generateClassName(parentElement);
       let nextNextSibling = parentElement.nextSibling.nextSibling;
-      while (!nextNextSibling || !nextNextSibling.innerText.includes('Directions')) {
+      while (!nextNextSibling || !nextNextSibling.innerText.includes(SIDEBAR_HDR_NEXT_NEXT_SIBLING_TEXT)) {
         parentElement = parentElement.parentElement;
         nextNextSibling = parentElement.nextSibling.nextSibling;
       }
-      sidebarHdrClassName = parentElement.className.split(' ').map(s => '.' + s).join('');
+      sidebarHdrClassName = generateClassName(parentElement);
     }
     setTimeout(() => showTable(functionName, table, dependency, completedTables, city), 100);
   }
   // Table is not ready to show
-  else if ((!dependency && !sidebarHdrCityMatches()) || (dependency && !completedTables[dependency])) {
+  else if ((!dependency && !sidebarHdrCityMatches(city)) || (dependency && !completedTables[dependency])) {
     const elapsed = new Date() - start;
     if (elapsed > 10000) {
       console.log(functionName + ': TIMED OUT');
@@ -155,8 +156,18 @@ function showTable(functionName, table, dependency, completedTables, city) {
   }
 };
 
-/** Checks that the city name in the header section of the Google Maps sidebar matches the currently processed city. */
-function sidebarHdrCityMatches() {
+/** Returns a list of elements whose innerText exactly matches the given string. */
+function findExactMatchElements(string) {
+  return [...document.querySelectorAll('*')].filter(e => e.textContent === string);
+};
+
+/** Given an element, returns a classname string that can be used to query that element. */
+function generateClassName(element) {
+  return element.className.split(' ').map(s => '.' + s).join('')
+};
+
+/** Checks that the city name in the header section of the Google Maps sidebar matches the given city. */
+function sidebarHdrCityMatches(city) {
   const sidebarHdrs = $(sidebarHdrCityClassName);
   if (sidebarHdrs.length === 0) {
     console.log('SIDEBAR HDR: nonexistent');
@@ -165,7 +176,6 @@ function sidebarHdrCityMatches() {
   
   const sidebarHdr = sidebarHdrs[0];
   const sidebarHdrCity = sanitize(sidebarHdr.textContent.trim());
-  const currentCity = extractCityAndState(currentPlace)[0];
-  console.log('SIDEBAR HDR: ' + sidebarHdrCity + ' vs ' + currentCity);
-  return sidebarHdrCity === currentCity;
+  console.log('SIDEBAR HDR: ' + sidebarHdrCity + ' vs ' + city);
+  return sidebarHdrCity === city;
 };
