@@ -1,12 +1,14 @@
 // TODO
 // - use elevation from weather station if needed
-// - refactor latLng functions to util file
 // - St vs Saint
 // - crime, price per sq ft
 // - side by side comparison?
 
 const SIDEBAR_HDR_CLASS_NAME = '.section-hero-header-title';
 const SIDEBAR_HDR_CITY_CLASS_NAME = '.section-hero-header-title-title';
+
+let sidebarHdrClassName = null;
+let sidebarHdrCityClassName = null;
 
 let currentPlace = extractPlace(location.href);
 let initialCurrentPlace = currentPlace;
@@ -106,7 +108,28 @@ function sanitize(string) {
 
 /** Shows the given table in the Google Maps sidebar. Waits for any dependency to complete first. Updates completedTables. */
 function showTable(functionName, table, dependency, completedTables, city) {
-  if ((!dependency && !sidebarHdrCityMatches()) || (dependency && !completedTables[dependency])) {
+  // Class names not yet computed
+  if (!sidebarHdrClassName) {
+    const allMatching = [...document.querySelectorAll('*')].filter(e => e.textContent === city);
+    if (allMatching.length === 0) {
+      console.log(functionName + ': CURRENT CITY NOT IN SIDEBAR');
+    }
+    else {
+      console.log(functionName + ': COMPUTING CLASSNAMES');
+      const matching = allMatching[0];
+      let parentElement = matching.parentElement;
+      sidebarHdrCityClassName = parentElement.className.split(' ').map(s => '.' + s).join('');
+      let nextNextSibling = parentElement.nextSibling.nextSibling;
+      while (!nextNextSibling || !nextNextSibling.innerText.includes('Directions')) {
+        parentElement = parentElement.parentElement;
+        nextNextSibling = parentElement.nextSibling.nextSibling;
+      }
+      sidebarHdrClassName = parentElement.className.split(' ').map(s => '.' + s).join('');
+    }
+    setTimeout(() => showTable(functionName, table, dependency, completedTables, city), 100);
+  }
+  // Table is not ready to show
+  else if ((!dependency && !sidebarHdrCityMatches()) || (dependency && !completedTables[dependency])) {
     const elapsed = new Date() - start;
     if (elapsed > 10000) {
       console.log(functionName + ': TIMED OUT');
@@ -121,8 +144,9 @@ function showTable(functionName, table, dependency, completedTables, city) {
     console.log(functionName + ': RETRYING DISPLAY ' + elapsed);
     setTimeout(() => showTable(functionName, table, dependency, completedTables, city), 100);
   }
+  // Table is ready to show
   else {
-    const previousClassName = dependency ? completedTables[dependency] : SIDEBAR_HDR_CLASS_NAME;
+    const previousClassName = dependency ? completedTables[dependency] : sidebarHdrClassName;
     $(table).insertAfter(previousClassName);
     completedTables[functionName] = '.' + table.attr('class');;
     console.log(functionName + ': FINISHED ' + (new Date() - start));
@@ -133,7 +157,7 @@ function showTable(functionName, table, dependency, completedTables, city) {
 
 /** Checks that the city name in the header section of the Google Maps sidebar matches the currently processed city. */
 function sidebarHdrCityMatches() {
-  const sidebarHdrs = $(SIDEBAR_HDR_CITY_CLASS_NAME);
+  const sidebarHdrs = $(sidebarHdrCityClassName);
   if (sidebarHdrs.length === 0) {
     console.log('SIDEBAR HDR: nonexistent');
     return false;
