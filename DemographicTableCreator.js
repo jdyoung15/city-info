@@ -14,11 +14,11 @@ const DemographicTableCreator = (function() {
   DEMOGRAPHIC_METADATA.set("Bachelor's degree or higher", { "censusCode": "DP02_0068PE", "unit": "%" });
   DEMOGRAPHIC_METADATA.set("Below 18", { "censusCode": "DP05_0019PE", "unit": "%" });
   DEMOGRAPHIC_METADATA.set("Over 65", { "censusCode": "DP05_0024PE", "unit": "%" });
-  DEMOGRAPHIC_METADATA.set("White (not Hispanic)", { "censusCode": "DP05_0077PE", "unit": "%" });
-  DEMOGRAPHIC_METADATA.set("Black", { "censusCode": "DP05_0038PE", "unit": "%" });
+  DEMOGRAPHIC_METADATA.set("American Indian or Alaska Native", { "censusCode": "DP05_0039PE", "unit": "%" });
   DEMOGRAPHIC_METADATA.set("Asian", { "censusCode": "DP05_0044PE", "unit": "%" });
-  DEMOGRAPHIC_METADATA.set("Native", { "censusCode": "DP05_0039PE", "unit": "%" });
-  DEMOGRAPHIC_METADATA.set("Hispanic", { "censusCode": "DP05_0071PE", "unit": "%" });
+  DEMOGRAPHIC_METADATA.set("Black or African American", { "censusCode": "DP05_0038PE", "unit": "%" });
+  DEMOGRAPHIC_METADATA.set("Hispanic or Latino", { "censusCode": "DP05_0071PE", "unit": "%" });
+  DEMOGRAPHIC_METADATA.set("White alone", { "censusCode": "DP05_0077PE", "unit": "%" });
   
   
   /** 

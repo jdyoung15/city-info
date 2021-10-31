@@ -36,15 +36,15 @@ const HousingTableCreator = (function() {
         });
       }
     
-      tableData.push({
-        'label': 'City metro: ' + cityRegionInfo.metro,
-        'value': '',
-      });
+      //tableData.push({
+      //  'label': 'City metro: ' + cityRegionInfo.metro,
+      //  'value': '',
+      //});
     
-      tableData.push({
-        'label': 'Metro: ' + metroRegionInfo.name + ', ' + metroRegionInfo.state,
-        'value': '',
-      });
+      //tableData.push({
+      //  'label': 'Metro: ' + metroRegionInfo.name + ', ' + metroRegionInfo.state,
+      //  'value': '',
+      //});
     }
     
     // Create a table displaying the housing data. It will appear in the existing 
