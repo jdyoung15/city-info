@@ -8,7 +8,6 @@ const DemographicTableCreator = (function() {
   // We use Map instead of object in order to enforce insertion order
   const DEMOGRAPHIC_METADATA = new Map();
   DEMOGRAPHIC_METADATA.set("Population", { "censusCode": "DP05_0001E", "unit": "" }),
-  DEMOGRAPHIC_METADATA.set("Median property value", { "censusCode": "DP04_0089E", "unit": "" });
   DEMOGRAPHIC_METADATA.set("Median household income", { "censusCode": "DP03_0062E", "unit": "" });
   DEMOGRAPHIC_METADATA.set("Unemployment rate", { "censusCode": "DP03_0005PE", "unit": "%" });
   DEMOGRAPHIC_METADATA.set("Bachelor's degree or higher", { "censusCode": "DP02_0068PE", "unit": "%" });
